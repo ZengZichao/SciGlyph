@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-nanopore_sequencing d-nanopore_sequencing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-nanopore_sequencing">纳米孔测序 / Nanopore sequencing DNA through pore</title>
+  <desc id="d-nanopore_sequencing">纳米孔测序(Oxford Nanopore)：DNA单链通过蛋白纳米孔→不同碱基引起不同离子电流变化→实时basecalling。长读长(>100kb)。关键词: nanopore, sequencing, Oxford Nanopore, ionic current, long read, protein pore</desc>
+  <g id="layer-body-nanopore_sequencing" data-name="body">
+    <!-- Membrane -->
+    <rect x="10" y="35" width="80" height="10" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Protein nanopore -->
+    <rect x="45" y="33" width="10" height="14" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- DNA threading through -->
+    <path d="M50,10 Q48,15 50,20 Q52,25 50,30" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+    <path d="M50,47 Q48,55 50,60 Q52,65 50,70" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+    <!-- Current measurement -->
+    <line x1="70" y1="35" x2="80" y2="35" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="70" y1="45" x2="80" y2="45" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <!-- Current trace -->
+    <path d="M82,30 L84,35 L86,28 L88,38 L90,32" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="1"/>
+    <!-- Electrodes -->
+    <rect x="25" y="12" width="8" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="25" y="65" width="8" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+  </g>
+  <g id="layer-annotation-nanopore_sequencing" data-name="annotation">
+    <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">nanopore sequencing</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="89.99">ionic current →</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.54" y="98.25">basecall</text>
+  </g>
+</svg>

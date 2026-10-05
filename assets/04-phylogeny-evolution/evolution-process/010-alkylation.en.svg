@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-alkylation d-alkylation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-alkylation">Alkylation Damage</title>
+<desc id="d-alkylation">MMS烷基化鸟嘌呤形成O6-alkylG与T错配 关键词: alkylation, EMS, MMS, O6-alkylG, Ada, Ogt</desc>
+<defs>
+<marker id="pp10__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Alkylation Damage</text>
+<text x="40" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">Alkyl donor</text>
+<rect x="40" y="65" width="80" height="35" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="80" y="87" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">EMS/MMS</text>
+<line x1="130" y1="82" x2="185" y2="82" stroke="#E8871E" data-pp="mge" stroke-width="1.5" marker-end="url(#pp10__ar)"/>
+<rect x="145" y="72" width="24" height="16" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<text x="157" y="84" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">CH₃</text>
+<text x="195" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">O6-alkylG</text>
+<path d="M200,75 L220,63 L240,75 L240,95 L220,107 L200,95 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="220" y="90" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">G</text>
+<rect x="196" y="58" width="20" height="14" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<text x="206" y="69" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Et</text>
+<line x1="255" y1="85" x2="300" y2="85" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" marker-end="url(#pp10__ar)"/>
+<text x="260" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">mismatch</text>
+<text x="315" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">mismatch</text>
+<line x1="310" y1="70" x2="460" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="340" y="58" width="40" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="360.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">alkG</text>
+<line x1="310" y1="108" x2="460" y2="108" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="340" y="96" width="40" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="360.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<line x1="354" y1="86" x2="368" y2="96" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="368" y1="86" x2="354" y2="96" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="60" y="135" width="480" height="35" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="158" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">G:C → A:T (transition after replication)</text>
+<text x="60" y="195" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">Direct repair enzyme</text>
+<rect x="60" y="210" width="120" height="60" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="120" y="235" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">Ada</text>
+<text x="120" y="255" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Suicide repair</text>
+<line x1="190" y1="240" x2="240" y2="240" stroke="#00857A" data-pp="metabolism" stroke-width="1.5" marker-end="url(#pp10__ar)"/>
+<text x="195" y="230" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">Accept</text>
+<rect x="250" y="210" width="120" height="60" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="310" y="235" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">Ogt</text>
+<text x="310" y="255" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Catalytic repair</text>
+<line x1="380" y1="240" x2="430" y2="240" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" marker-end="url(#pp10__ar)"/>
+<rect x="440" y="210" width="120" height="60" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="500" y="230" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">Cost</text>
+<text x="500" y="250" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Ada irreversible</text>
+<text x="500" y="264" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Methylation inactivates</text>
+<text x="60" y="300" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Alkylation site</text>
+<rect x="60" y="315" width="100" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="110" y="335" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">O6-meG</text>
+<rect x="180" y="315" width="100" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="230" y="335" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">N7-meG</text>
+<rect x="300" y="315" width="100" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="350" y="335" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">O6-etG</text>
+<rect x="420" y="315" width="100" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="470" y="335" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">N3-meA</text>
+<text x="300" y="375" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Alkylation → mispair → mutation; Ada/Ogt direct repair, Ada consumed irreversibly</text>
+</g>
+</svg>

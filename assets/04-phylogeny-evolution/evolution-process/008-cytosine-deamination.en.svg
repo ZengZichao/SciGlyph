@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-cytosine_deamination d-cytosine_deamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-cytosine_deamination">Cytosine Deamination</title>
+<desc id="d-cytosine_deamination">C→U脱氨导致C:G→T:A转换突变的过程 关键词: cytosine, deamination, mutation, C-to-T</desc>
+<defs>
+<marker id="pp08__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Cytosine Deamination</text>
+<text x="30" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Gen 0</text>
+<line x1="60" y1="70" x2="180" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="80" y="58" width="28" height="26" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/><text x="94.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="120" y="58" width="28" height="26" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/><text x="134.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<line x1="60" y1="108" x2="180" y2="108" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="80" y="96" width="28" height="26" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/><text x="94.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="120" y="96" width="28" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="134.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<line x1="94" y1="84" x2="94" y2="96" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="134" y1="84" x2="134" y2="96" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="195" y1="85" x2="245" y2="85" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" marker-end="url(#pp08__ar)"/>
+<text x="205" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">Deamination</text>
+<text x="205" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">NH₂→O</text>
+<text x="260" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">Mismatch</text>
+<line x1="260" y1="70" x2="380" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="280" y="58" width="28" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="294.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">U</text>
+<rect x="320" y="58" width="28" height="26" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/><text x="334.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<line x1="260" y1="108" x2="380" y2="108" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="280" y="96" width="28" height="26" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/><text x="294.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="320" y="96" width="28" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="334.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<line x1="294" y1="84" x2="294" y2="96" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" stroke-dasharray="2,2"/>
+<line x1="288" y1="86" x2="300" y2="94" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="300" y1="86" x2="288" y2="94" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="395" y1="85" x2="440" y2="85" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp08__ar)"/>
+<text x="400" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">replication</text>
+<text x="455" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Gen 1</text>
+<line x1="455" y1="70" x2="575" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="475" y="58" width="28" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="489.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="515" y="58" width="28" height="26" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/><text x="529.0" y="75.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<line x1="455" y1="108" x2="575" y2="108" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
+<rect x="475" y="96" width="28" height="26" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/><text x="489.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="515" y="96" width="28" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="529.0" y="113.0" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<line x1="489" y1="84" x2="489" y2="96" stroke="#00857A" data-pp="metabolism" stroke-width="0.8" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="529" y1="84" x2="529" y2="96" stroke="#00857A" data-pp="metabolism" stroke-width="0.8" stroke-linecap="round" stroke-dasharray="3,3"/>
+<rect x="60" y="140" width="480" height="40" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="165" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">C:G → T:A (transition)</text>
+<text x="300" y="210" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Daughter cells</text>
+<circle cx="180" cy="270" r="40" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="180" y="265" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">T:A</text>
+<text x="180" y="285" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">mutation fixation</text>
+<circle cx="420" cy="270" r="40" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.2"/>
+<text x="420" y="265" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">T:A</text>
+<text x="420" y="285" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">mutation fixation</text>
+<line x1="220" y1="270" x2="270" y2="270" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" marker-end="url(#pp08__ar)"/>
+<line x1="380" y1="270" x2="330" y2="270" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" marker-end="url(#pp08__ar)"/>
+<rect x="60" y="330" width="480" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="350" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Spontaneous · bisulfite-induced · APOBEC editing</text>
+<text x="300" y="368" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C→U repaired by UDG, else fixed as T:A after replication</text>
+</g>
+</svg>

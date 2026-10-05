@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="责任分配" data-name-en="raci-table" data-cat="flowchart-logic" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">责任分配 / raci_table</title>
+  <desc id="d-44">RACI责任分配表。关键词: raci,table,matrix</desc>
+  <g id="g-44-责任分配">
+    <rect x="10" y="10" width="300" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="55" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">Task</text>
+    <text x="135" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="195" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">B</text>
+    <text x="265" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">C</text>
+    <line fill="none" x1="105" y1="10" x2="105" y2="210" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="165" y1="10" x2="165" y2="210" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="225" y1="10" x2="225" y2="210" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="10" y="40" width="300" height="40" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="10" y="80" width="300" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="10" y="120" width="300" height="40" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="10" y="160" width="300" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Task 1</text>
+    <text x="55" y="105" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Task 2</text>
+    <text x="55" y="145" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Task 3</text>
+    <text x="55" y="185" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Task 4</text>
+    <text x="135" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">R</text>
+    <text x="195" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="265" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="135" y="105" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="195" y="105" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">R</text>
+    <text x="265" y="105" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">I</text>
+    <text x="135" y="145" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">I</text>
+    <text x="195" y="145" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="265" y="145" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">R</text>
+    <text x="135" y="185" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="195" y="185" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">I</text>
+    <text x="265" y="185" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">A</text>
+  </g>
+</svg>

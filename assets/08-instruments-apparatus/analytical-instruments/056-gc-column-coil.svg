@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-gc-column-coil" data-cat="an" data-spec="128"
+     data-tags="gc,column,capillary,coil,fused,silica" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">毛细管色谱柱 / GC Column Coil</title>
+  <desc id="d">毛细管柱盘绕示意，熔融石英柱管。</desc>
+  <g id="body">
+    <circle cx="64" cy="64" r="46" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+<path d="M64 24 Q96 24 96 56 Q96 88 64 88 Q32 88 32 56 Q32 32 56 28 Q84 24 88 56 Q88 80 64 82 Q40 82 38 56 Q38 38 56 36 Q76 34 80 56 Q80 72 64 74 Q48 74 46 56 Q46 44 56 42 Q68 40 72 56 Q72 64 64 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="64" y="62" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="accent">GC</text>
+    <text x="64" y="72" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Column</text>
+<line x1="64" y1="24" x2="64" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="64" y1="66" x2="80" y2="66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="72,63 84,66 72,69" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="64" y="10" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">In</text>
+    <text x="88" y="66" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Out</text>
+  </g>
+</svg>

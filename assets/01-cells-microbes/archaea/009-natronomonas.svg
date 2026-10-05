@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-natronomonas d-natronomonas" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-natronomonas">碱盐菌 / Natronomonas</title>
+  <desc id="d-natronomonas">Flat rod-shaped alkaliphilic halophile with gas vesicles and peritrichous flagella. Halobacteriota, soda lake. 关键词: Natronomonas, alkaliphile, halophile, gas vesicle, soda lake</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="28" y="38" width="44" height="24" rx="3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+    <ellipse cx="40" cy="47" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <ellipse cx="55" cy="53" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <ellipse cx="48" cy="44" rx="2.5" ry="1.2" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <path d="M72.0,50.0 L73.1,48.1 L74.3,49.1 L75.4,51.6 L76.6,51.6 L77.7,49.1 L78.9,48.1 L80.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M61.0,69.1 L63.3,69.1 L62.9,70.6 L61.4,72.8 L61.9,73.8 L64.6,73.6 L66.1,74.0 L65.0,76.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M39.0,69.1 L40.1,71.0 L38.6,71.5 L35.9,71.2 L35.4,72.2 L36.9,74.4 L37.3,76.0 L35.0,76.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M28.0,50.0 L26.9,51.9 L25.7,50.9 L24.6,48.4 L23.4,48.4 L22.3,50.9 L21.1,51.9 L20.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M39.0,30.9 L36.7,30.9 L37.1,29.4 L38.6,27.2 L38.1,26.2 L35.4,26.4 L33.9,26.0 L35.0,24.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M61.0,30.9 L59.9,29.0 L61.4,28.5 L64.1,28.8 L64.6,27.8 L63.1,25.6 L62.7,24.0 L65.0,24.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="15.0" y="85.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Halobacteriota</text>
+    <line x1="60.0" y1="82.9" x2="60.44" y2="89.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="92.55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">pH 8-10.5</text>
+  </g>
+</svg>

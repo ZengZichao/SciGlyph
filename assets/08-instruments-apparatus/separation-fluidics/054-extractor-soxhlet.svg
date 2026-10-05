@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-extractor-soxhlet" data-cat="sp" data-spec="128"
+     data-tags="soxhlet,extractor,extraction,continuous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">索氏提取器 / Soxhlet Extractor</title>
+  <desc id="d">索氏提取器，带虹吸管、回液管和蒸汽旁路</desc>
+  <g id="body"><path d="M44 80 L84 80 L84 110 Q84 116 78 116 L50 116 Q44 116 44 110 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 80 L48 50 L80 50 L80 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 50 L52 20 L76 20 L76 50" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 60 L40 60 L40 80 L48 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M80 60 L88 60 L88 80 L80 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 90 L82 90 L82 108 Q82 114 78 114 L50 114 Q46 114 46 108 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M54 54 L74 54 L74 78 L54 78 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M54 24 L74 24 L74 48 L54 48 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M42 64 L46 64 M42 72 L46 72 M82 64 L86 64 M82 72 L86 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

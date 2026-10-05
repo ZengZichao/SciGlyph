@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="解复用器" data-name-en="demux-trapezoid" data-cat="flowchart-logic" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-58">解复用器 / demux_trapezoid</title>
+  <desc id="d-58">解复用器梯形。关键词: demux,demultiplexer</desc>
+  <g id="g-58-解复用器">
+    <polygon points="30,20 90,10 90,70 30,60" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="10" y1="40" x2="30" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="90" y1="25" x2="110" y2="25" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="110,21.8 116,25 110,28.2" fill="#1f2937"/>
+    <line fill="none" x1="90" y1="55" x2="110" y2="55" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="110,51.8 116,55 110,58.2" fill="#1f2937"/>
+    <text x="58" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">DEMUX</text>
+  </g>
+</svg>

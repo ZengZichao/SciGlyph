@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="继电器" data-name-en="relay-coil-contact" data-cat="physics-electronics" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">继电器 / relay_coil_contact</title>
+  <desc id="d-13">继电器线圈与触点符号。关键词: 继电器,线圈,触点</desc>
+  <g id="g-13-继电器">
+    <rect x="20" y="25" width="30" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="35" y="45" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">K</text>
+    <line x1="70" y1="30" x2="90" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <circle cx="70" cy="30" r="2" fill="#1f2937"/>
+    <circle cx="90" cy="30" r="2" fill="#1f2937"/>
+    <line x1="70" y1="30" x2="85" y2="20" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="50" y1="40" x2="80" y2="30" stroke="#6b7280" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

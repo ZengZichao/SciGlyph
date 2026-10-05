@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-sheath d-sheath" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sheath">鞘结构 / Sheath Structure</title>
+  <desc id="d-sheath">Filamentous cell chain enclosed by outer membranous sheath (double contour). 关键词: sheath, membrane, filamentous, enclosing</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="8" y="32" width="84" height="36" rx="8" fill="none" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <rect x="11" y="35" width="78" height="30" rx="6" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="3,2"/>
+    <rect x="18" y="40" width="14" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="34" y="40" width="14" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="50" y="40" width="14" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="66" y="40" width="14" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="82" y="40" width="14" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="50" y1="32" x2="50" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="40" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">sheath</text>
+    <line x1="34" y1="60" x2="34" y2="78" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="22" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">cell chain</text>
+  </g>
+</svg>

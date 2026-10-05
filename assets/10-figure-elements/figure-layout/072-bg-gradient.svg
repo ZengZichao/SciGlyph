@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-72_bg_gradient d-72_bg_gradient" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-72_bg_gradient">渐变墨底 / Gradient ink bg</title>
+  <desc id="d-72_bg_gradient">渐变墨底背景装饰。骨架，配合深色图版使用。关键词: background, gradient, ink, dark</desc>
+  <g id="layer-body" data-name="body">
+    <defs><linearGradient id="pp72__g" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#93A0AC" data-pp="muted"/><stop offset="100%" stop-color="#1B2733" data-pp="ink"/></linearGradient></defs>
+    <rect x="5" y="5" width="90" height="80" rx="4" fill="url(#pp72__g)" data-pp="ink"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Gradient ink bg</text>
+  </g>
+</svg>

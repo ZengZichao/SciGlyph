@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-eyewash-portable-bottle" data-cat="sf" data-spec="128"
+     data-tags="eyewash,portable,bottle,squeeze,emergency" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">挤压式洗眼瓶 / Eyewash Portable Bottle</title>
+  <desc id="d">便携式挤压洗眼瓶，用于紧急眼部冲洗。</desc>
+  <g id="body"><path d="M44 36 L44 108 Q44 116 52 116 L76 116 Q84 116 84 108 L84 36 Q84 28 76 24 L68 20 L68 12 L60 12 L60 20 L52 24 Q44 28 44 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M50 50 L78 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M50 66 L78 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M50 82 L78 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M62 12 L62 8 L66 8 L66 12" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M60 8 Q64 4 68 8" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

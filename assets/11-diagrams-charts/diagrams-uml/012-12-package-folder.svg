@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="包文件夹" data-name-en="Package Folder" data-cat="diagrams-sw-uml" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12">包文件夹 / package_folder</title>
+  <desc id="d-12">UML包/文件夹符号。关键词: package,folder,namespace</desc>
+  <g id="g-12-包文件夹">
+    <path d="M 15 25 L 45 25 L 50 15 L 80 15 L 80 25 L 105 25 L 105 65 L 15 65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="50" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">pkg</text>
+  </g>
+</svg>

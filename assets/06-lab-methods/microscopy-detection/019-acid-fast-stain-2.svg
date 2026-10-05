@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-acid_fast_stain d-acid_fast_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-acid_fast_stain">抗酸染色(分枝杆菌) / Acid-fast stain mycobacteria Ziehl-Neelsen</title>
+  <desc id="d-acid_fast_stain">抗酸染色(Ziehl-Neelsen法)：分枝杆菌(含分枝菌酸)保留石炭酸复红→红色杆状。非抗酸菌/背景被亚甲蓝复染→蓝色。关键词: acid-fast, AFB, Ziehl-Neelsen, mycobacteria, mycolic acid, carbol fuchsin</desc>
+  <g id="layer-body-acid_fast_stain" data-name="body">
+    
+    <rect x="15" y="25" width="18" height="5" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" />
+    <rect x="25" y="35" width="20" height="5" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" />
+    <rect x="18" y="45" width="16" height="5" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" />
+    
+    <circle cx="55" cy="30" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="65" cy="40" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="60" cy="50" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="70" cy="28" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+  </g>
+  <g id="layer-annotation-acid_fast_stain" data-name="annotation">
+    <text x="30.0" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">AFB red</text>
+    <text x="67.0" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">background</text>
+    <text x="50" y="74.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ziehl-Neelsen</text>
+    <text x="50" y="82.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">acid-fast stain</text>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>扁形称量瓶</title>
+  <ellipse cx="12" cy="16" rx="7" ry="3"/>
+  <path d="M5 14 L5 16 Q5 19 12 19 Q19 19 19 16 L19 14"/>
+  <ellipse cx="12" cy="14" rx="7" ry="3"/>
+  <path d="M6 11 L6 13 Q6 14.5 12 14.5 Q18 14.5 18 13 L18 11"/>
+  <ellipse cx="12" cy="11" rx="6" ry="2.5"/>
+  <path d="M10 9 L10 11" stroke-width="0.75"/>
+  <path d="M14 9 L14 11" stroke-width="0.75"/>
+  <ellipse cx="12" cy="9" rx="3" ry="1.5" stroke-width="0.75"/>
+  <path d="M11 7.5 L11 9" stroke-width="0.75"/>
+  <path d="M13 7.5 L13 9" stroke-width="0.75"/>
+  <ellipse cx="12" cy="7.5" rx="2" ry="1" stroke-width="0.75"/>
+</svg>

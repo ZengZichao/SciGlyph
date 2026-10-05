@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-50">分类颜色图例带 / Taxonomic Color Legend</title>
+<desc id="d-50">迷你跨域树按更高分类单元着色示意(非按比例, 丰度百分比为示例值)。四类颜色对应细菌/古菌/真核/病毒, 命名用 GTDB 现行门名: Pseudomonadota(旧称 Proteobacteria)、Methanobacteriota(旧称 Euryarchaeota 拆分而来)、Caudoviricetes(旧称 Caudovirales 目), Ascomycota 为真核。关键词: taxonomy, color, legend, phylum, abundance, GTDB</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="30.0" y1="200.0" x2="70.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="120.0" x2="70.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="120.0" x2="110.0" y2="120.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="78.4" x2="110.0" y2="161.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="40.0" x2="180.0" y2="40.0" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="110.0" y1="85.7" x2="180.0" y2="85.7" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-linecap="round"/>
+<line x1="110.0" y1="131.4" x2="180.0" y2="131.4" stroke="#3F8FBF" stroke-width="2" data-pp="eukaryote" stroke-linecap="round"/>
+<line x1="110.0" y1="177.1" x2="180.0" y2="177.1" stroke="#5B8C3E" stroke-width="2" data-pp="virus" stroke-linecap="round"/>
+<line x1="70.0" y1="280.0" x2="110.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="238.4" x2="110.0" y2="321.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="222.9" x2="180.0" y2="222.9" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="110.0" y1="268.6" x2="180.0" y2="268.6" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-linecap="round"/>
+<line x1="110.0" y1="314.3" x2="180.0" y2="314.3" stroke="#3F8FBF" stroke-width="2" data-pp="eukaryote" stroke-linecap="round"/>
+<line x1="110.0" y1="360.0" x2="180.0" y2="360.0" stroke="#5B8C3E" stroke-width="2" data-pp="virus" stroke-linecap="round"/>
+<circle cx="180.0" cy="40.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="180.0" cy="85.7" r="3.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="180.0" cy="131.4" r="3.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<circle cx="180.0" cy="177.1" r="3.0" fill="#5B8C3E" data-pp="virus"/>
+<circle cx="180.0" cy="222.9" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="180.0" cy="268.6" r="3.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="180.0" cy="314.3" r="3.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<circle cx="180.0" cy="360.0" r="3.0" fill="#5B8C3E" data-pp="virus"/>
+<text x="230.0" y="55.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Taxon (GTDB/ICTV)</text>
+<rect x="230.0" y="75.0" width="16.0" height="16.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="252.0" y="87.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pseudomonadota</text>
+<rect x="230.0" y="95.0" width="47.0" height="6.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.4" stroke="#2E86AB" stroke-width="1"/>
+<text x="282.0" y="101.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">47%</text>
+<rect x="230.0" y="125.0" width="16.0" height="16.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5"/>
+<text x="252.0" y="137.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Methanobacteriota</text>
+<rect x="230.0" y="145.0" width="28.0" height="6.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.4" stroke="#A2305B" stroke-width="1"/>
+<text x="263.0" y="151.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">28%</text>
+<rect x="230.0" y="175.0" width="16.0" height="16.0" fill="#3F8FBF" data-pp="eukaryote" fill-opacity="0.7" stroke="#3F8FBF" stroke-width="0.5"/>
+<text x="252.0" y="187.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Ascomycota</text>
+<rect x="230.0" y="195.0" width="18.0" height="6.0" fill="#3F8FBF" data-pp="eukaryote" fill-opacity="0.4" stroke="#3F8FBF" stroke-width="1"/>
+<text x="253.0" y="201.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">18%</text>
+<rect x="230.0" y="225.0" width="16.0" height="16.0" fill="#5B8C3E" data-pp="virus" fill-opacity="0.7" stroke="#5B8C3E" stroke-width="0.5"/>
+<text x="252.0" y="237.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Caudoviricetes</text>
+<rect x="230.0" y="245.0" width="7.0" height="6.0" fill="#5B8C3E" data-pp="virus" fill-opacity="0.4" stroke="#5B8C3E" stroke-width="1"/>
+<text x="242.0" y="251.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">7%</text>
+<text x="200.0" y="390.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Color = phylum (schematic)</text>
+</g>
+</svg>

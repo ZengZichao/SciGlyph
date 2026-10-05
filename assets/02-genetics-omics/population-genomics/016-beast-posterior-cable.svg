@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-beast_posterior_cable d-beast_posterior_cable" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-beast_posterior_cable">BEAST 后验树分布 / BEAST posterior cable plot</title>
+  <desc id="d-beast_posterior_cable">后验树集合叠合为cable plot。schematic, not to scale. 关键词: BEAST, posterior, MCC</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="posterior-trees">
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.15" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="209.1" x2="180" y2="149.1"/>
+    <line x1="80" y1="209.1" x2="180" y2="269.1"/>
+    <line x1="180" y1="149.1" x2="320" y2="109.1"/>
+    <line x1="180" y1="149.1" x2="320" y2="189.1"/>
+    <line x1="180" y1="269.1" x2="320" y2="239.1"/>
+    <line x1="180" y1="269.1" x2="320" y2="309.1"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.18" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="193.7" x2="180" y2="133.7"/>
+    <line x1="80" y1="193.7" x2="180" y2="253.7"/>
+    <line x1="180" y1="133.7" x2="320" y2="93.7"/>
+    <line x1="180" y1="133.7" x2="320" y2="173.7"/>
+    <line x1="180" y1="253.7" x2="320" y2="223.7"/>
+    <line x1="180" y1="253.7" x2="320" y2="293.7"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.21" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="196.8" x2="180" y2="136.8"/>
+    <line x1="80" y1="196.8" x2="180" y2="256.8"/>
+    <line x1="180" y1="136.8" x2="320" y2="96.8"/>
+    <line x1="180" y1="136.8" x2="320" y2="176.8"/>
+    <line x1="180" y1="256.8" x2="320" y2="226.8"/>
+    <line x1="180" y1="256.8" x2="320" y2="296.8"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.24" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="209.6" x2="180" y2="149.6"/>
+    <line x1="80" y1="209.6" x2="180" y2="269.6"/>
+    <line x1="180" y1="149.6" x2="320" y2="109.6"/>
+    <line x1="180" y1="149.6" x2="320" y2="189.6"/>
+    <line x1="180" y1="269.6" x2="320" y2="239.6"/>
+    <line x1="180" y1="269.6" x2="320" y2="309.6"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.27" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="206.6" x2="180" y2="146.6"/>
+    <line x1="80" y1="206.6" x2="180" y2="266.6"/>
+    <line x1="180" y1="146.6" x2="320" y2="106.6"/>
+    <line x1="180" y1="146.6" x2="320" y2="186.6"/>
+    <line x1="180" y1="266.6" x2="320" y2="236.6"/>
+    <line x1="180" y1="266.6" x2="320" y2="306.6"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.30" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="200.0" x2="180" y2="140.0"/>
+    <line x1="80" y1="200.0" x2="180" y2="260.0"/>
+    <line x1="180" y1="140.0" x2="320" y2="100.0"/>
+    <line x1="180" y1="140.0" x2="320" y2="180.0"/>
+    <line x1="180" y1="260.0" x2="320" y2="230.0"/>
+    <line x1="180" y1="260.0" x2="320" y2="300.0"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.33" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="190.5" x2="180" y2="130.5"/>
+    <line x1="80" y1="190.5" x2="180" y2="250.5"/>
+    <line x1="180" y1="130.5" x2="320" y2="90.5"/>
+    <line x1="180" y1="130.5" x2="320" y2="170.5"/>
+    <line x1="180" y1="250.5" x2="320" y2="220.5"/>
+    <line x1="180" y1="250.5" x2="320" y2="290.5"/>
+  </g>
+  <g fill="none" stroke="#6C3FA0" stroke-opacity="0.36" stroke-width="1.5" data-pp="gene">
+    <line x1="80" y1="204.5" x2="180" y2="144.5"/>
+    <line x1="80" y1="204.5" x2="180" y2="264.5"/>
+    <line x1="180" y1="144.5" x2="320" y2="104.5"/>
+    <line x1="180" y1="144.5" x2="320" y2="184.5"/>
+    <line x1="180" y1="264.5" x2="320" y2="234.5"/>
+    <line x1="180" y1="264.5" x2="320" y2="304.5"/>
+  </g>
+  <g fill="none" stroke="#1B2733" stroke-width="2.5" data-pp="ink">
+    <line x1="80" y1="200" x2="180" y2="140"/>
+    <line x1="80" y1="200" x2="180" y2="260"/>
+    <line x1="180" y1="140" x2="320" y2="100"/>
+    <line x1="180" y1="140" x2="320" y2="180"/>
+    <line x1="180" y1="260" x2="320" y2="230"/>
+    <line x1="180" y1="260" x2="320" y2="300"/>
+  </g>
+  <circle cx="320" cy="100" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="320" cy="180" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="320" cy="230" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="320" cy="300" r="5" fill="#2E86AB" data-pp="bacteria"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">BEAST Posterior Tree Distribution — Cable Plot (schematic)</text>
+<text x="450" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Faded: posterior trees; Solid: MCC</text>
+</svg>

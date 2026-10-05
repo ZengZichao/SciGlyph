@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="Z形正交连接" data-name-en="conn orthogonal z" data-cat="arrows-connectors" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38">Z形正交连接 / conn_orthogonal_z</title>
+  <desc id="d-38">Z形正交路径连接。关键词: conn,orthogonal,z,path</desc>
+  <g id="g-38-Z形正交连接">
+    <polyline points="14,14 40,14 40,34 70,34" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="68,28 78,34 68,40" fill="#1f2937"/>
+  </g>
+</svg>

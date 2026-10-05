@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-crispr_cas_csm d-crispr_cas_csm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-crispr_cas_csm">CRISPR-Cas Csm/Cmr / CRISPR-Cas Csm/Cmr Complex</title>
+  <desc id="d-crispr_cas_csm">Type III CRISPR-Cas Csm/Cmr effector complex with multiple subunits targeting RNA. crRNA-guided. 关键词: CRISPR-Cas, Csm, Cmr, type III, crRNA, multi-subunit</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="25" y="50" width="10" height="16" rx="3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+    <rect x="37" y="46" width="10" height="16" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="49" y="42" width="10" height="16" rx="3" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+    <rect x="61" y="46" width="10" height="16" rx="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <rect x="73" y="50" width="10" height="16" rx="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <path d="M22.0,38.0 L24.9,39.4 L27.9,40.5 L30.8,41.0 L33.8,40.7 L36.7,39.8 L39.7,38.5 L42.6,37.0 L45.6,35.8 L48.5,35.1 L51.5,35.1 L54.4,35.8 L57.4,37.0 L60.3,38.5 L63.3,39.8 L66.2,40.7 L69.2,41.0 L72.1,40.5 L75.1,39.4 L78.0,38.0" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <path d="M30.0,68.0 L32.9,68.9 L35.7,69.6 L38.6,69.9 L41.4,69.9 L44.3,69.6 L47.1,68.9 L50.0,68.0 L52.9,67.1 L55.7,66.4 L58.6,66.1 L61.4,66.1 L64.3,66.4 L67.1,67.1 L70.0,68.0" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="20" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">crRNA</text>
+    <text x="55" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">target RNA</text>
+    <text x="20" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">Csm/Cmr</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-p2_like_particle d-p2_like_particle" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-p2_like_particle">P2样噬菌体颗粒 / P2-like phage therapy particle</title>
+  <desc id="d-p2_like_particle">P2样噬菌体颗粒(Peduoviridae科)：二十面体头+可收缩尾+6尾丝，头内DNA。P2为收缩尾(myovirus形态群)噬菌体，与长尾形态群(siphovirus)不同。用于噬菌体治疗研究。关键词: P2-like, Peduoviridae, phage therapy, contractile tail</desc>
+  <g id="layer-body-p2_like_particle" data-name="body">
+    <polygon points="50.0,8.0 62.1,15.0 62.1,29.0 50.0,36.0 37.9,29.0 37.9,15.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M44.0,17.0 Q50,19.5 56.0,17.0 Q50,24.5 44.0,27.0" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <rect x="44" y="36" width="12" height="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" rx="1"/>
+    <rect x="45.5" y="40" width="9" height="14" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="50" y1="40" x2="50" y2="56" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <polygon points="40,54 60,54 56,60 44,60" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <path d="M45,60 Q38,66 30,73" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M47,60 Q42,67 36,75" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M49,60 Q47,68 44,76" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M51,60 Q53,68 56,76" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M53,60 Q58,67 64,75" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+    <path d="M55,60 Q62,66 70,73" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.2" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-p2_like_particle" data-name="annotation">
+    <text x="68" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">P2-like</text>
+    <line x1="60.0" y1="44.9" x2="51.76" y2="44.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="47.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">contractile</text>
+    <text x="62.82" y="54.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">tail</text>
+  </g>
+</svg>

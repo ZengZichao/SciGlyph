@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-magnetic-stirrer-separator" data-cat="sp" data-spec="128"
+     data-tags="magnetic,stirrer,separator,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">磁力搅拌分离器 / Magnetic Stirrer Separator</title>
+  <desc id="d">磁力搅拌分离装置</desc>
+  <g id="body"><path d="M24 80 L104 80 L104 110 Q104 116 98 116 L30 116 Q24 116 24 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="40" cy="98" r="8" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="88" cy="98" r="8" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M36 30 L92 30 L92 76 L36 76 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M40 94 L44 94 L44 102 L40 102 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M88 94 L92 94 L92 102 L88 102 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M38 50 L90 50 L90 74 L38 74 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M38 60 L90 60 L90 74 L38 74 Z" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+    <path d="M40 40 L88 40 M40 46 L88 46 M40 52 L88 52 M40 58 L88 58 M40 64 L88 64 M40 70 L88 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

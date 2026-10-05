@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-stripping-column" data-cat="uo" data-spec="128"
+     data-tags="stripping,column,vapor,removal,gas" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">汽提塔 / Stripping Column</title>
+  <desc id="d">汽提塔，去除液相中挥发性组分。</desc>
+  <g id="body">
+    <rect x="42" y="10" width="36" height="108" rx="18" ry="18" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="42" y1="40" x2="78" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="42" y1="64" x2="78" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="42" y1="88" x2="78" y2="88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="60" y1="10" x2="60" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="60,16 56,22 64,22" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="60" y1="118" x2="60" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="60,112 56,106 64,106" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="26" y1="64" x2="42" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="34,64 40,60 40,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

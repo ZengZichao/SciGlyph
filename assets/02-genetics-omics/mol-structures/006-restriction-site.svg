@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="限制性酶切位点" data-name-en="Restriction Site" data-cat="natural-sciences" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-06">限制性酶切位点 / restriction_site</title>
+  <desc id="d-06">展示限制性内切酶识别位点。关键词: restriction enzyme,palindrome,cleavage</desc>
+  <g id="g-06-限制性酶切位点">
+    <rect x="10" y="40" width="140" height="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="10" y="68" width="140" height="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="60" y="40" width="40" height="12" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="60" y="68" width="40" height="12" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="80" y1="35" x2="80" y2="52" stroke="#D55E00" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="80" y1="68" x2="80" y2="85" stroke="#D55E00" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M75,32 L80,28 L85,32" fill="none" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M75,88 L80,92 L85,88" fill="none" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="62" y="36" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="start">GAATTC</text>
+    <text x="62" y="92" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="start">CTTAAG</text>
+  </g>
+</svg>

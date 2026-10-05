@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="IEC矩形电阻" data-name-en="resistor-iec-box" data-cat="physics-electronics" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02">IEC矩形电阻 / resistor_iec_box</title>
+  <desc id="d-02">IEC标准矩形电阻符号。关键词: 电阻,IEC,矩形,无源元件</desc>
+  <g id="g-02-IEC矩形电阻">
+    <line x1="10" y1="40" x2="35" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="35" y="25" width="50" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="85" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="60" y="45" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R</text>
+  </g>
+</svg>

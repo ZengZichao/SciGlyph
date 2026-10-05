@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-chassis-ground" data-cat="el" data-spec="128"
+     data-tags="chassis,ground,frame,机壳,接地" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">机壳接地 / Chassis Ground</title>
+  <desc id="d">机壳接地符号：斜线加短横。</desc>
+  <g id="body"><line x1="64" y1="14" x2="64" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="38" y1="56" x2="90" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M42 56 L36 72 M54 56 L48 72 M66 56 L60 72 M78 56 L72 72 M90 56 L84 72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

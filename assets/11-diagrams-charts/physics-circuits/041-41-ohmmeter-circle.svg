@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="欧姆表" data-name-en="ohmmeter-circle" data-cat="physics-electronics" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">欧姆表 / ohmmeter_circle</title>
+  <desc id="d-41">圆形电阻测量表符号。关键词: 欧姆表,电阻表,测量</desc>
+  <g id="g-41-欧姆表">
+    <circle cx="60" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="60" y="47" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Ω</text>
+    <line x1="60" y1="20" x2="60" y2="10" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="60" y1="60" x2="60" y2="70" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

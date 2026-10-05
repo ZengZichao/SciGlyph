@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-phage_plaque d-phage_plaque" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-phage_plaque">噬菌斑(清晰/浑浊/针尖) / Phage plaque clear turbid pinpoint</title>
+  <desc id="d-phage_plaque">噬菌斑(plaque)三种类型：清晰斑(烈性噬菌体完全裂解)、浑浊斑(温和噬菌体含溶原菌)、针尖斑(小/低效噬菌体)。双层琼脂法。关键词: plaque, clear, turbid, pinpoint, double agar layer, phage therapy</desc>
+  <g id="layer-body-phage_plaque" data-name="body">
+    <!-- Agar plate -->
+    <circle cx="50" cy="45" r="35" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="1.5"/>
+    <!-- Lawn of bacteria (turbid background) -->
+    <circle cx="50" cy="45" r="32" fill="#2E86AB" data-pp="bacteria" stroke="none" fill-opacity="0.2"/>
+    <!-- Clear plaques -->
+    <circle cx="35" cy="35" r="5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+    <circle cx="55" cy="30" r="4" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+    <circle cx="60" cy="50" r="6" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+    <!-- Turbid plaque (lysogen) -->
+    <circle cx="40" cy="55" r="4" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.5"/>
+    <circle cx="40" cy="55" r="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3"/>
+    <!-- Pinpoint plaque -->
+    <circle cx="50" cy="60" r="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.3"/>
+  </g>
+  <g id="layer-annotation-phage_plaque" data-name="annotation">
+    <text x="20" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">clear</text>
+    <text x="38.0" y="66.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">turbid</text>
+    <text x="57.82" y="73.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pinpoint</text>
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">plaque assay</text>
+  </g>
+</svg>

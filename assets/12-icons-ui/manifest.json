@@ -1,0 +1,17 @@
+{
+ "category": "12-icons-ui",
+ "name_zh": "通用图标与 UI",
+ "name_en": "Icons & UI",
+ "count": 98,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "icons-ui",
+   "name_zh": "图标",
+   "name_en": "Icons",
+   "count": 98
+  }
+ ]
+}

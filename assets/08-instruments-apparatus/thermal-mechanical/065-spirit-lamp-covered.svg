@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-spirit-lamp-covered" data-cat="hc" data-spec="128"
+     data-tags="spirit,lamp,covered,extinguished,safety" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">盖帽酒精灯（灭火姿态） / Covered Spirit Lamp (Extinguished)</title>
+  <desc id="d">灯帽盖住的酒精灯，表示灭火状态</desc>
+  <g id="body"><path d="M44 70 L84 70 L84 108 Q84 116 76 116 L52 116 Q44 116 44 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 70 L52 60 L76 60 L76 70" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 60 L56 54 L72 54 L72 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 44 L76 44 L76 54 L52 54 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M54 38 L74 38 L74 44 L54 44 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 80 L82 80 L82 106 Q82 114 76 114 L52 114 Q46 114 46 106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M58 58 L58 54 M70 58 L70 54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

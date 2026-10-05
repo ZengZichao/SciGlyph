@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-case-switch-branch" data-cat="pf" data-spec="160"
+     data-tags="case,switch,branch,multi-way,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">多分支选择 / Case Switch Branch</title>
+  <desc id="d">流程图多分支选择符号，一个入口多个出口。</desc>
+  <g id="body">
+    <rect x="56" y="10" width="48" height="28" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="38" x2="80" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="24" y1="50" x2="136" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="24" y1="50" x2="24" y2="62" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="80" y1="50" x2="80" y2="62" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="136" y1="50" x2="136" y2="62" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="20,62 24,56 28,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="76,62 80,56 84,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="132,62 136,56 140,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

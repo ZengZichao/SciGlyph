@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-transformer-two-winding" data-cat="el" data-spec="128"
+     data-tags="transformer,winding,core,变压器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">双绕组变压器 / Two Winding Transformer</title>
+  <desc id="d">变压器符号：两弧+铁芯双线。</desc>
+  <g id="body"><path d="M36 36 Q42 48 36 60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M36 48 Q42 60 36 72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M36 60 Q42 72 36 84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M92 36 Q86 48 92 60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M92 48 Q86 60 92 72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M92 60 Q86 72 92 84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="30" x2="52" y2="98" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="58" y1="30" x2="58" y2="98" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="10" y1="36" x2="36" y2="36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="10" y1="84" x2="36" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="92" y1="36" x2="118" y2="36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="92" y1="84" x2="118" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

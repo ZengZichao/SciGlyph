@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="帕累托图" data-name-en="Pareto Bars Line" data-cat="charts-plots" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-32">帕累托图 / pareto_bars_line</title>
+  <desc id="d-32">帕累托柱线组合图。关键词: pareto,cumulative,line</desc>
+  <g id="g-32-帕累托图">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <rect x="65" y="45" width="46" height="235" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="88" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">A</text>
+    <rect x="131" y="118" width="46" height="162" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="154" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">B</text>
+    <rect x="197" y="177" width="46" height="103" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">C</text>
+    <rect x="263" y="221" width="46" height="59" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="286" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">D</text>
+    <rect x="329" y="251" width="46" height="29" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="352" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">E</text>
+    <polyline points="88,180 154,111 220,68 286,42 352,30" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="88" cy="180" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="154" cy="111" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="220" cy="68" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="286" cy="42" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="352" cy="30" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">20</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">40</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">60</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">80</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

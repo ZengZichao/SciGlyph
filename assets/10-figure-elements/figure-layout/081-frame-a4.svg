@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-81_frame_a4 d-81_frame_a4" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-81_frame_a4">A4版心框 / A4 frame</title>
+  <desc id="d-81_frame_a4">A4图版版心定位框(横版, 297×210mm, 长宽比≈1.414)。骨架，配合A4论文图版使用。关键词: frame, A4, layout, margin</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="5" width="90" height="64" rx="1" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="page"/>
+    <rect x="12" y="10" width="76" height="54" rx="0" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="2 2" stroke-linecap="round" data-name="margin"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" font-size="7" x="26.54" y="82.0">A4 landscape</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" font-size="7" x="28.71" y="90.26">(297×210mm)</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50.0" y="97.4" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">A4 frame</text>
+  </g>
+</svg>

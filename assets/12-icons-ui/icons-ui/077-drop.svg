@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-drop" data-cat="ic" data-spec="24"
+     data-tags="icon,drop,liquid,water,fluid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">液滴图标 / Icon Drop</title>
+  <desc id="d">液滴微型图标。</desc>
+  <g id="body">
+    <path d="M12,4 Q8,10 8,14 Q8,20 12,20 Q16,20 16,14 Q16,10 12,4 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

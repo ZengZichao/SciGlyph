@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-lightning" data-cat="ic" data-spec="24"
+     data-tags="icon,lightning,electric,energy,power" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">闪电图标 / Icon Lightning</title>
+  <desc id="d">闪电微型图标。</desc>
+  <g id="body">
+    <path d="M14,4 L8,14 L12,14 L10,20 L16,10 L12,10 Z" fill="#F5A623" stroke="none" data-ls="warn"/>
+  </g>
+</svg>

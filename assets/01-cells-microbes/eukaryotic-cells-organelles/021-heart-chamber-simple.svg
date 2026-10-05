@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="心脏四腔" data-name-en="Heart Chamber Simple" data-cat="natural-sciences" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55">心脏四腔 / heart_chamber_simple</title>
+  <desc id="d-55">展示心脏四腔简图。关键词: heart,chamber,atrium,ventricle</desc>
+  <g id="g-55-心脏四腔">
+    <path d="M160,40 C120,20 60,30 60,90 C60,150 160,210 160,210 C160,210 260,150 260,90 C260,30 200,20 160,40" fill="#D55E00" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <line x1="160" y1="60" x2="160" y2="190" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="80" y1="120" x2="240" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="120" cy="90" r="8" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="200" cy="90" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="120" cy="155" r="8" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="200" cy="155" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+  </g>
+</svg>

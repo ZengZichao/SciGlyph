@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML依赖开口箭头" data-name-en="uml dependency open" data-cat="arrows-connectors" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-49">UML依赖开口箭头 / uml_dependency_open</title>
+  <desc id="d-49">UML依赖关系开口箭头。关键词: uml,dependency,uses,open</desc>
+  <g id="g-49-UML依赖开口箭头">
+    <line x1="20" y1="40" x2="86" y2="40" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
+    <polyline points="86,32 100,40 86,48" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

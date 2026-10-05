@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-gel_electrophoresis d-gel_electrophoresis" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gel_electrophoresis">凝胶电泳 / Gel Electrophoresis</title>
+  <desc id="d-gel_electrophoresis">琼脂糖凝胶电泳: DNA片段按大小分离, 溴化乙锭或SYBR染色观察条带。关键词: gel electrophoresis, agarose, DNA ladder, band, bp</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="15" width="70" height="55" rx="3" fill="#6C3FA0" fill-opacity="0.15" stroke="#1B2733" stroke-width="1.5" data-pp="gene"/>
+    <rect x="25" y="25" width="5" height="35" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <rect x="35" y="30" width="5" height="25" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <rect x="45" y="28" width="5" height="30" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <rect x="55" y="35" width="5" height="18" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <rect x="65" y="22" width="5" height="40" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <rect x="75" y="32" width="5" height="22" rx="1" fill="#6C3FA0" fill-opacity="0.8" data-pp="gene"/>
+    <text x="20" y="75" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">+</text>
+    <text x="78" y="15" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">−</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">电泳</text>
+  </g>
+</svg>

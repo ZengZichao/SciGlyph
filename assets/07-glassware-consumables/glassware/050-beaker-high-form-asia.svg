@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-beaker-high-form-asia" data-cat="gl" data-spec="128"
+     data-tags="beaker,high form,asia,tall,glassware" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">亚洲型高型烧杯 / Asian High Form Beaker</title>
+  <desc id="d">亚洲型高型烧杯，带嘴，壁更陡直。</desc>
+  <g id="body"><path d="M42 18 L42 108 Q42 114 48 114 L80 114 Q86 114 86 108 L86 16 L76 10 L42 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 54 L84 54 L84 108 Q84 112 80 112 L48 112 Q44 112 44 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M44 54 L84 54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M48 98 L60 98" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 86 L56 86" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 74 L60 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 62 L56 62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 42 L60 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 30 L56 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M46 10 L46 108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

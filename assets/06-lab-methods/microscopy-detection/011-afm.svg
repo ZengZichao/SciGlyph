@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-afm d-afm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-afm">原子力显微镜AFM / AFM atomic force microscopy cantilever</title>
+  <desc id="d-afm">AFM原子力显微镜：悬臂梁+纳米尖端→扫描样品表面→检测偏转(激光反射)→构建表面形貌。无需导电涂层，可液相操作。分辨率~0.1nm(垂直)。关键词: AFM, atomic force microscopy, cantilever, tip scanning, surface topology</desc>
+  <g id="layer-body-afm" data-name="body">
+    
+    <rect x="30" y="15" width="30" height="4" rx="1" ry="1" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    
+    <polygon points="48,19 52,19 50,30" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    
+    <line x1="70" y1="10" x2="50" y2="17" stroke="#C42D2D" data-pp="alert" stroke-width="1" />
+    
+    <line x1="50" y1="17" x2="70" y2="25" stroke="#C42D2D" data-pp="alert" stroke-width="1" />
+    
+    <rect x="70" y="22" width="8" height="6" rx="1" ry="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    
+    <path d="M15,55 Q25,48 35,52 Q45,45 55,50 Q65,44 75,48 Q85,52 90,55" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5" />
+    
+    <path d="M25,60 L30,60 L30,65 L35,65 L35,60 L40,60 L40,65 L45,65" fill="none" stroke="#1B2733" stroke-width="0.5" stroke-dasharray="1,1" />
+  </g>
+  <g id="layer-annotation-afm" data-name="annotation">
+    <text x="50" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">cantilever</text>
+    <text x="50" y="74.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">AFM scanning</text>
+    <text x="50" y="82.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">probe</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-hydrothermal_vent d-hydrothermal_vent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-hydrothermal_vent">热液喷口 / Hydrothermal vent</title>
+  <desc id="d-hydrothermal_vent">Black smoker chimney with smoke plume, thermophilic flagellated rods and archaea 关键词: hydrothermal, vent, thermophile, black smoker</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="70" width="90" height="15" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.5"/>
+    <path d="M38,70 L42,25 L58,25 L62,70 Z" fill="#A2305B" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="archaea"/>
+    <rect x="42" y="22" width="16" height="5" rx="1" fill="#1B2733" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <path d="M47,22 Q45,15 48,10" fill="#93A0AC" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted" stroke-dasharray="3,2"/>
+    <path d="M53,22 Q55,12 52,8" fill="#93A0AC" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted" stroke-dasharray="3,2"/>
+    <path d="M50,20 Q50,10 50,5" fill="#93A0AC" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted" stroke-dasharray="3,2"/>
+    <rect x="20" y="60" width="7" height="3" rx="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(15,23,62)"/>
+    <line x1="27" y1="61" x2="30" y2="58" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria"/>
+    <line x1="27" y1="62" x2="31" y2="62" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria"/>
+    <line x1="27" y1="63" x2="30" y2="66" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria"/>
+    <rect x="70" y="58" width="5" height="5" rx="1" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <rect x="78" y="62" width="5" height="5" rx="1" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">热液喷口</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="一般多边形" data-name-en="General Polygon" data-cat="geometry-math" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">一般多边形 / polygon_general</title>
+  <desc id="d-14">不规则六边形。关键词: polygon,general,geometry</desc>
+  <g id="g-14-一般多边形">
+    <polygon points="20,90 45,20 85,15 105,55 90,100 50,105" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="14" y="96" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="44" y="15" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="88" y="11" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="111" y="59" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">D</text>
+    <text x="95" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">E</text>
+    <text x="46" y="115" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">F</text>
+  </g>
+</svg>

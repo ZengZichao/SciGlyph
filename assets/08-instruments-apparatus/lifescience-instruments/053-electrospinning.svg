@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-electrospinning" data-cat="ls" data-spec="128" data-tags="electrospinning,nanofiber,syringe,high,voltage,collector" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">静电纺丝装置 / Electrospinning</title>
+  <desc id="d">静电纺丝：注射泵、高压电源、收集滚筒、纳米纤维。</desc>
+  <g id="body">
+    <rect x="14" y="18" width="100" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="14" y="18" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="18" y="34" width="24" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="20" y="36" width="18" height="10" rx="2" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
+    <text x="30" y="54" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Syringe</text>
+<line x1="42" y1="41" x2="52" y2="41" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke" />
+    <text x="47" y="38" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HV</text>
+<rect x="78" y="30" width="24" height="28" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="90" cy="44" r="8" fill="#33414F" stroke="none" data-ls="dark" />
+<circle cx="90" cy="44" r="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="90" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Collector</text>
+<path d="M52 41 Q60 38 68 42 Q72 44 78 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<path d="M54 39 Q58 36 62 40" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="0.8" data-ls="accent" />
+<path d="M56 43 Q60 46 64 42" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="0.8" data-ls="accent" />
+    <rect x="20" y="68" width="40" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="40" y="66" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Electrospin</text>
+    <text x="40" y="82" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">15 kV</text>
+    <circle cx="70" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="80" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="90" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="70.0" y="84.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Pump</text>
+    <text x="84.0" y="84.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">HV</text>
+    <line x1="90.0" y1="81.9" x2="93.47" y2="88.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="94.88" y="91.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Rotate</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

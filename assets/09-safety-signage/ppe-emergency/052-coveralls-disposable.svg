@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-coveralls-disposable" data-cat="sf" data-spec="128"
+     data-tags="coveralls,tyvek,zipper,hood,one-piece,ppe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">连体防护服 / Disposable Coveralls</title>
+  <desc id="d">连体防护服，带拉链门襟、头罩、弹性袖口和脚踝（透气防水覆膜材质）。</desc>
+  <g id="body"><path d="M48 10 L42 14 L38 20 L22 30 L18 40 L22 44 L30 40 L28 60 L24 108 L44 108 L50 72 L64 68 L78 72 L84 108 L104 108 L100 60 L98 40 L106 44 L110 40 L106 30 L90 20 L86 14 L80 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><line x1="64" y1="18" x2="64" y2="68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M62 18 L66 18 L66 22 L62 22 Z" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M24 104 L44 104" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M84 104 L104 104" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M22 40 L30 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M98 40 L106 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M48 10 L42 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M80 10 L86 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

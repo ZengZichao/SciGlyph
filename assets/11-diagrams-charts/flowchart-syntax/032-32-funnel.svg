@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="漏斗分层" data-name-en="funnel" data-cat="flowchart-logic" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-32">漏斗分层 / funnel</title>
+  <desc id="d-32">漏斗筛选分层。关键词: funnel,filter</desc>
+  <g id="g-32-漏斗分层">
+    <polygon points="20,15 140,15 100,50 60,50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="60,50 100,50 90,80 70,80" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="72" y="80" width="16" height="25" fill="#1f2937" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="80" y="38" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Wide</text>
+    <text x="80" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">Mid</text>
+  </g>
+</svg>

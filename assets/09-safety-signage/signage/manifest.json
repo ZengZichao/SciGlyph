@@ -1,0 +1,307 @@
+{
+ "category": "09-safety-signage",
+ "subdir": "signage",
+ "name_zh": "安全标识",
+ "name_en": "Safety Signage",
+ "count": 14,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "items": [
+  {
+   "file": "001-sign-electrical-shock.svg",
+   "name_zh": "当心触电",
+   "name_en": "Sign Electrical Shock",
+   "tags": [
+    "当心触电",
+    "sign electrical shock",
+    "sign",
+    "electrical",
+    "shock"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "三角+闪电箭头（ISO 7010 W012）",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "002-sign-fire-route.svg",
+   "name_zh": "消防通道",
+   "name_en": "Sign Fire Route",
+   "tags": [
+    "消防通道",
+    "sign fire route",
+    "sign",
+    "fire",
+    "route"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "矩形框+箭头+灭火器轮廓",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "003-sign-hot-surface.svg",
+   "name_zh": "高温表面",
+   "name_en": "Sign Hot Surface",
+   "tags": [
+    "高温表面",
+    "sign hot surface",
+    "sign",
+    "hot",
+    "surface"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "三角+热板+三条波浪上升",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "004-sign-mandatory-gloves.svg",
+   "name_zh": "必须戴手套",
+   "name_en": "Sign Mandatory Gloves",
+   "tags": [
+    "必须戴手套",
+    "sign mandatory gloves",
+    "sign",
+    "mandatory",
+    "gloves"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆框+手套+腕口",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "005-sign-mandatory-goggles.svg",
+   "name_zh": "必须戴护目镜",
+   "name_en": "Sign Mandatory Goggles",
+   "tags": [
+    "必须戴护目镜",
+    "sign mandatory goggles",
+    "sign",
+    "mandatory",
+    "goggles"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆框+护目镜+头带弧",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "006-sign-mandatory-mask.svg",
+   "name_zh": "必须戴口罩",
+   "name_en": "Sign Mandatory Mask",
+   "tags": [
+    "必须戴口罩",
+    "sign mandatory mask",
+    "sign",
+    "mandatory",
+    "mask"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆框+口罩+耳带弧",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "007-sign-mandatory-shower.svg",
+   "name_zh": "必须冲洗",
+   "name_en": "Sign Mandatory Shower",
+   "tags": [
+    "必须冲洗",
+    "sign mandatory shower",
+    "sign",
+    "mandatory",
+    "shower"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆框+淋浴喷头+水滴弧",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "008-sign-noise-hazard.svg",
+   "name_zh": "噪声有害",
+   "name_en": "Sign Noise Hazard",
+   "tags": [
+    "噪声有害",
+    "sign noise hazard",
+    "sign",
+    "noise",
+    "hazard"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "三角+声波弧+耳形",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "009-sign-prohibition-open-flame.svg",
+   "name_zh": "禁止明火",
+   "name_en": "Sign Prohibition Open Flame",
+   "tags": [
+    "禁止明火",
+    "sign prohibition open flame",
+    "sign",
+    "prohibition",
+    "open",
+    "flame"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆+斜杠+火焰与火柴",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "010-sign-prohibition-smoking.svg",
+   "name_zh": "禁止吸烟",
+   "name_en": "Sign Prohibition Smoking",
+   "tags": [
+    "禁止吸烟",
+    "sign prohibition smoking",
+    "sign",
+    "prohibition",
+    "smoking"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆+斜杠+香烟与烟头+烟雾",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "011-sign-prohibition-water.svg",
+   "name_zh": "禁止用水",
+   "name_en": "Sign Prohibition Water",
+   "tags": [
+    "禁止用水",
+    "sign prohibition water",
+    "sign",
+    "prohibition",
+    "water"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "圆+斜杠+桶倒水浇火焰（ISO 7010 P011）",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "012-sign-safe-exit.svg",
+   "name_zh": "安全出口",
+   "name_en": "Sign Safe Exit",
+   "tags": [
+    "安全出口",
+    "sign safe exit",
+    "sign",
+    "safe",
+    "exit"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "矩形框+奔跑人形+门口+方向箭",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "013-sign-slip-hazard.svg",
+   "name_zh": "当心滑倒",
+   "name_en": "Sign Slip Hazard",
+   "tags": [
+    "当心滑倒",
+    "sign slip hazard",
+    "sign",
+    "slip",
+    "hazard"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "三角+斜身人形+水渍线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "014-sign-warning-general.svg",
+   "name_zh": "通用警告三角",
+   "name_en": "Sign Warning General",
+   "tags": [
+    "通用警告三角",
+    "sign warning general",
+    "sign",
+    "warning",
+    "general"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "09-safety-signage",
+   "subdir": "signage",
+   "canvas": "0 0 24 24",
+   "desc": "双层三角+感叹号+底座",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  }
+ ]
+}

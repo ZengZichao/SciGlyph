@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="凸透镜" data-name-en="lens-convex" data-cat="physics-electronics" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">凸透镜 / lens_convex</title>
+  <desc id="d-52">凸透镜光学符号。关键词: 凸透镜,会聚,光学</desc>
+  <g id="g-52-凸透镜">
+    <path d="M 160 60 Q 140 120 160 180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M 160 60 Q 180 120 160 180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <line x1="40" y1="120" x2="280" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <circle cx="100" cy="120" r="3" fill="#1f2937"/>
+    <circle cx="220" cy="120" r="3" fill="#1f2937"/>
+    <text x="100" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">F</text>
+    <text x="220" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">F</text>
+  </g>
+</svg>

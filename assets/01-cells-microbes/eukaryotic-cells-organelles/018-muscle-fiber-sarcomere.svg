@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="肌节" data-name-en="Muscle Fiber Sarcomere" data-cat="natural-sciences" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">肌节 / muscle_fiber_sarcomere</title>
+  <desc id="d-52">展示肌节及Z线结构。关键词: sarcomere,muscle fiber,z-line</desc>
+  <g id="g-52-肌节">
+    <rect x="20" y="80" width="280" height="80" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="60" y1="80" x2="60" y2="160" stroke="#1f2937" stroke-width="2"/>
+    <line x1="160" y1="80" x2="160" y2="160" stroke="#1f2937" stroke-width="2"/>
+    <line x1="260" y1="80" x2="260" y2="160" stroke="#1f2937" stroke-width="2"/>
+    <line x1="60" y1="105" x2="95" y2="105" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="60" y1="135" x2="95" y2="135" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="160" y1="105" x2="125" y2="105" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="160" y1="135" x2="125" y2="135" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="160" y1="105" x2="195" y2="105" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="160" y1="135" x2="195" y2="135" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="260" y1="105" x2="225" y2="105" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="260" y1="135" x2="225" y2="135" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="85" y="116" width="50" height="8" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="185" y="116" width="50" height="8" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="60" y="75" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Z</text>
+    <text x="160" y="75" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Z</text>
+    <text x="260" y="75" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Z</text>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-hplc-quaternary-pump" data-cat="an" data-spec="128"
+     data-tags="hplc,pump,quaternary,gradient,solvent,delivery" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">四元梯度泵 / HPLC Quaternary Pump</title>
+  <desc id="d">四元梯度泵，四通道溶剂输入、柱塞往复、压力传感器。</desc>
+  <g id="body">
+    <rect x="14" y="20" width="100" height="88" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="14" y="20" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<line x1="30" y1="20" x2="30" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="50" y1="20" x2="50" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="70" y1="20" x2="70" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="90" y1="20" x2="90" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="30" cy="10" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="50" cy="10" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="70" cy="10" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="90" cy="10" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="28" y="38" width="72" height="16" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M30 46 L98 46 L98 52 Q98 53 96 53 L32 53 Q30 53 30 52 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <text x="64" y="49" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mixer</text>
+<rect x="30" y="62" width="22" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="76" y="62" width="22" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="34" y="65" width="4" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="80" y="65" width="4" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<line x1="64" y1="80" x2="64" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="61,88 64,100 67,88" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="30" y="26" width="40" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="50" y="34" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">P</text>
+    <circle cx="82" cy="30" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="30" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="64" y="86" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">OUT</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

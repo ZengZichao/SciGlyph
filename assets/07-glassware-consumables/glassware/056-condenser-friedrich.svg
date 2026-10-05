@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-condenser-friedrich" data-cat="gl" data-spec="128"
+     data-tags="condenser,friedrich,finger,reflux,cooling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">弗里德里希冷凝管 / Friedrich Condenser</title>
+  <desc id="d">弗里德里希冷凝管(指形)，内管为指形回流通路。</desc>
+  <g id="body"><path d="M44 10 L44 40 L34 40 L34 108 Q34 116 44 116 L84 116 Q94 116 94 108 L94 40 L84 40 L84 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M54 40 L54 100 Q54 108 64 108 Q74 108 74 100 L74 40 Z" fill="#FFFFFF" opacity="0.35" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M36 80 L92 80 L92 108 Q92 114 84 114 L44 114 Q36 114 36 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M36 80 L92 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><line x1="30" y1="100" x2="30" y2="90" fill="none" stroke="#2B7DE9" data-ls="accent" stroke-linecap="round"/><path d="M28 94 L30 88 L32 94" fill="#2B7DE9" stroke="none" data-ls="accent"/><line x1="98" y1="50" x2="98" y2="60" fill="none" stroke="#2B7DE9" data-ls="accent" stroke-linecap="round"/><path d="M96 56 L98 62 L100 56" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-biosafety-cabinet-class2" data-cat="ls" data-spec="128"
+     data-tags="bsc,biosafety,cabinet,class2,hepa,laminar,airflow,sterile" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">二级生物安全柜 / Biosafety Cabinet Class II</title>
+  <desc id="d">二级生物安全柜：HEPA送风/排风、前窗气流、操作面。</desc>
+  <g id="body">
+    <rect x="14" y="8" width="100" height="108" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+<rect x="20" y="12" width="88" height="16" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="24" y="16" width="80" height="8" rx="2" fill="#2B7DE9" opacity="0.15" stroke="none" data-ls="accent"/>
+    <text x="64.0" y="22.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HEPA Supply</text>
+<rect x="20" y="30" width="88" height="46" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="22" y="68" width="84" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="20" y="30" width="88" height="4" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="66.82" y="29.98" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sash</text>
+    <polygon points="33,38 36,50 39,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="49,38 52,50 55,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="65,38 68,50 71,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="81,38 84,50 87,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="22,67 34,70 22,73" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="22" y="60" width="84" height="3" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="22" y="64" width="84" height="3" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="18" y="30" width="4" height="46" rx="1" fill="#2B7DE9" opacity="0.1" stroke="none" data-ls="accent"/>
+<rect x="106" y="30" width="4" height="46" rx="1" fill="#2B7DE9" opacity="0.1" stroke="none" data-ls="accent"/>
+    <polygon points="17,50 20,38 23,50" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="105,50 108,38 111,50" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="44" y="8" width="40" height="6" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="64" y="6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">HEPA Exhaust</text>
+<rect x="40" y="54" width="10" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="58" y="56" width="8" height="10" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="74" y="54" width="10" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="30" y="80" width="34" height="12" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="47" y="88" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">BSC II</text>
+    <circle cx="76" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="90" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="76.0" y="94.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">UV</text>
+    <text x="94.0" y="94.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Blower</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="110" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

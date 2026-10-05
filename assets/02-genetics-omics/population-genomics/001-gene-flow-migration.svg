@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-population-genomics" role="img" aria-labelledby="t-gene_flow_migration d-gene_flow_migration" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-gene_flow_migration">基因流方向与强度 / Gene flow migration arrows</title>
+<desc id="d-gene_flow_migration">Population boxes with migration arrows width-encoded and m values. schematic. 关键词: population genomics, gene flow migration, boxes, width-encoded, Direction, amp</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<text x="300.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Gene Flow Direction &amp; Strength (schematic)</text>
+<circle cx="120.0" cy="120.0" r="35.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2" stroke="#2E86AB" stroke-width="2"/>
+<text x="120.0" y="125.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Pop A</text>
+<rect x="105.0" y="87.0" width="7.0" height="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<rect x="115.0" y="79.0" width="7.0" height="16.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<rect x="125.0" y="83.0" width="7.0" height="12.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="450.0" cy="120.0" r="35.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.2" stroke="#A2305B" stroke-width="2"/>
+<text x="450.0" y="125.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Pop B</text>
+<rect x="435.0" y="76.0" width="7.0" height="19.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<rect x="445.0" y="85.0" width="7.0" height="10.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<rect x="455.0" y="77.0" width="7.0" height="18.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="300.0" cy="300.0" r="35.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.2" stroke="#6C3FA0" stroke-width="2"/>
+<text x="300.0" y="305.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Pop C</text>
+<rect x="285.0" y="255.0" width="7.0" height="20.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<rect x="295.0" y="260.0" width="7.0" height="15.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<rect x="305.0" y="266.0" width="7.0" height="9.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<circle cx="120.0" cy="300.0" r="35.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.2" stroke="#00857A" stroke-width="2"/>
+<text x="120.0" y="305.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Pop D</text>
+<rect x="105.0" y="267.0" width="7.0" height="8.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<rect x="115.0" y="258.0" width="7.0" height="17.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<rect x="125.0" y="263.0" width="7.0" height="12.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="480.0" cy="300.0" r="35.0" fill="#E8871E" data-pp="mge" fill-opacity="0.2" stroke="#E8871E" stroke-width="2"/>
+<text x="480.0" y="305.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Pop E</text>
+<rect x="465.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
+<rect x="475.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
+<rect x="485.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
+<line x1="158.0" y1="120.0" x2="412.0" y2="120.0" stroke="#E8871E" stroke-width="5" data-pp="mge" stroke-linecap="round"/>
+<text x="285.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.10</text>
+<line x1="412.0" y1="120.0" x2="158.0" y2="120.0" stroke="#93A0AC" stroke-width="1.5" data-pp="muted" stroke-linecap="round"/>
+<text x="285.0" y="105.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.01</text>
+<line x1="146.9" y1="146.9" x2="273.1" y2="273.1" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round"/>
+<text x="199.4" y="220.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.05</text>
+<line x1="273.1" y1="273.1" x2="146.9" y2="146.9" stroke="#93A0AC" stroke-width="2" data-pp="muted" stroke-linecap="round"/>
+<text x="220.6" y="199.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.02</text>
+<line x1="425.7" y1="149.2" x2="324.3" y2="270.8" stroke="#E8871E" stroke-width="4" data-pp="mge" stroke-linecap="round"/>
+<text x="363.5" y="200.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.08</text>
+<line x1="262.0" y1="300.0" x2="158.0" y2="300.0" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round"/>
+<text x="210.0" y="285.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.04</text>
+<line x1="158.0" y1="300.0" x2="442.0" y2="300.0" stroke="#93A0AC" stroke-width="2.5" data-pp="muted" stroke-linecap="round"/>
+<text x="300.0" y="315.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.03</text>
+<line x1="473.8" y1="262.5" x2="456.2" y2="157.5" stroke="#E8871E" stroke-width="3.5" data-pp="mge" stroke-linecap="round"/>
+<text x="479.8" y="207.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.06</text>
+<rect x="30.0" y="50.0" width="60.0" height="50.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
+<text x="60.0" y="65.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Fst</text>
+<text x="60.0" y="80.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~0.12</text>
+<text x="60.0" y="93.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">avg</text>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-thermococcus d-thermococcus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-thermococcus">热球菌 / Thermococcus</title>
+  <desc id="d-thermococcus">Ovoid cell with polar archaellum tuft and S-layer grid surface. Class Thermococci (GTDB phylum Methanobacteriota; 旧称 Euryarchaeota), hyperthermophile. 关键词: Thermococcus, ovoid, polar tuft, S-layer, Thermococci</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="45" cy="50" rx="16" ry="14" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="36" cy="43" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="36" cy="48" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="36" cy="53" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="41" cy="43" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="41" cy="48" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="41" cy="53" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="41" cy="58" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="46" cy="43" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="46" cy="48" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="46" cy="53" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="46" cy="58" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="51" cy="43" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="51" cy="48" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="51" cy="53" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="51" cy="58" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="56" cy="48" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="56" cy="53" r="0.8" fill="#93A0AC" data-pp="muted"/>
+    <path d="M42.0,36.0 L43.5,34.4 L44.0,32.7 L43.1,31.1 L41.4,29.5 L40.2,27.8 L40.2,26.2 L41.4,24.5 L43.1,22.9 L44.0,21.3 L43.5,19.6 L42.0,18.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M45.0,36.0 L46.5,34.4 L47.0,32.7 L46.1,31.1 L44.4,29.5 L43.2,27.8 L43.2,26.2 L44.4,24.5 L46.1,22.9 L47.0,21.3 L46.5,19.6 L45.0,18.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M48.0,36.0 L49.5,34.4 L50.0,32.7 L49.1,31.1 L47.4,29.5 L46.2,27.8 L46.2,26.2 L47.4,24.5 L49.1,22.9 L50.0,21.3 L49.5,19.6 L48.0,18.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="45" y1="18" x2="65" y2="12" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="56.1" y="10.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">polar tuft</text>
+    <line x1="56" y1="44" x2="78" y2="30" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="69.12" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">S-layer</text>
+    <text x="20" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Thermococci</text>
+  </g>
+</svg>

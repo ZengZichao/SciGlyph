@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="砂浴" data-name-en="sand_bath" data-cat="lab-equipment" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-49">砂浴 / sand_bath</title>
+  <desc id="d-49">高温砂浴均匀加热。关键词: 砂浴,sand_bath,高温,加热</desc>
+  <g id="g-49-砂浴">
+    <path d="M 20 45 L 15 95 Q 15 108 30 108 L 90 108 Q 105 108 105 95 L 100 45 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 17 65 L 15 95 Q 15 107 30 107 L 90 107 Q 105 107 105 95 L 103 65 Z" fill="#E69F00" stroke="none" data-drole="series-1"/>
+    <line x1="17" y1="65" x2="103" y2="65" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="35" cy="80" r="2" fill="#e5e7eb" stroke="none"/>
+    <circle cx="50" cy="85" r="1.5" fill="#e5e7eb" stroke="none"/>
+    <circle cx="65" cy="78" r="2" fill="#e5e7eb" stroke="none"/>
+    <circle cx="80" cy="83" r="1.5" fill="#e5e7eb" stroke="none"/>
+    <circle cx="45" cy="95" r="1.5" fill="#e5e7eb" stroke="none"/>
+    <circle cx="70" cy="92" r="2" fill="#e5e7eb" stroke="none"/>
+  </g>
+</svg>

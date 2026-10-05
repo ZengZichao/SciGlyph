@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-icosahedral_t4 d-icosahedral_t4" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-icosahedral_t4">二十面体T=4 / Icosahedral T=4 triangulation</title>
+  <desc id="d-icosahedral_t4">T=4二十面体三角剖分示意(Caspar-Klug理论)。不对称单元数=60T=240；壳微粒=12个五聚体+10(T-1)=30个六聚体，共42个。球面投影网格为示意，不按比例(schematic, not to scale)。关键词: icosahedral, T=4, triangulation, capsid symmetry, Caspar-Klug</desc>
+  <g id="layer-body-icosahedral_t4" data-name="body">
+    <circle cx="50" cy="48" r="30" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="29.0" y1="26.6" x2="71.0" y2="26.6" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="22.9" y1="35.1" x2="77.1" y2="35.1" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="20.3" y1="43.7" x2="79.7" y2="43.7" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="20.3" y1="52.3" x2="79.7" y2="52.3" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="22.9" y1="60.9" x2="77.1" y2="60.9" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="29.0" y1="69.4" x2="71.0" y2="69.4" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="28.6" y1="27.0" x2="28.6" y2="69.0" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="37.1" y1="20.9" x2="37.1" y2="75.1" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="45.7" y1="18.3" x2="45.7" y2="77.7" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="54.3" y1="18.3" x2="54.3" y2="77.7" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="62.9" y1="20.9" x2="62.9" y2="75.1" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="71.4" y1="27.0" x2="71.4" y2="69.0" stroke="#93A0AC" stroke-width="0.5"/>
+    <line x1="26.0" y1="22.3" x2="32.0" y2="26.8" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="22.3" x2="41.6" y2="26.8" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="22.3" x2="51.2" y2="26.8" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="22.3" x2="60.8" y2="26.8" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="22.3" x2="70.4" y2="26.8" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="26.0" y1="30.9" x2="32.0" y2="35.4" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="30.9" x2="41.6" y2="35.4" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="30.9" x2="51.2" y2="35.4" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="30.9" x2="60.8" y2="35.4" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="30.9" x2="70.4" y2="35.4" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="26.0" y1="39.4" x2="32.0" y2="43.9" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="39.4" x2="41.6" y2="43.9" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="39.4" x2="51.2" y2="43.9" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="39.4" x2="60.8" y2="43.9" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="39.4" x2="70.4" y2="43.9" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="26.0" y1="48.0" x2="32.0" y2="52.5" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="48.0" x2="41.6" y2="52.5" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="48.0" x2="51.2" y2="52.5" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="48.0" x2="60.8" y2="52.5" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="48.0" x2="70.4" y2="52.5" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="26.0" y1="56.6" x2="32.0" y2="61.1" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="56.6" x2="41.6" y2="61.1" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="56.6" x2="51.2" y2="61.1" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="56.6" x2="60.8" y2="61.1" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="56.6" x2="70.4" y2="61.1" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="26.0" y1="65.1" x2="32.0" y2="69.6" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="35.6" y1="65.1" x2="41.6" y2="69.6" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="45.2" y1="65.1" x2="51.2" y2="69.6" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="54.8" y1="65.1" x2="60.8" y2="69.6" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+    <line x1="64.4" y1="65.1" x2="70.4" y2="69.6" stroke="#5B8C3E" data-pp="virus" stroke-width="0.5" stroke-opacity="0.5"/>
+  </g>
+  <g id="layer-annotation-icosahedral_t4" data-name="annotation">
+    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">T=4</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">60T=240 subunits</text>
+  </g>
+</svg>

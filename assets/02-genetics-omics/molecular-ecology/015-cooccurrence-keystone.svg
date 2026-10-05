@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-cooccurrence_keystone d-cooccurrence_keystone" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cooccurrence_keystone">共现网络关键种 / Co-occurrence keystone</title>
+  <desc id="d-cooccurrence_keystone">Network with keystone hub nodes highlighted。 关键词: microbial ecology, cooccurrence keystone, Co-occurrence, Network, hub, nodes</desc>
+<g id="l-cooccurrence_keystone" data-name="keystone">
+  <text x="300" y="30" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Keystone Hub Nodes</text>
+  <line x1="300" y1="200" x2="150" y2="120" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="300" y1="200" x2="450" y2="120" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="300" y1="200" x2="150" y2="280" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="300" y1="200" x2="450" y2="280" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="300" y1="200" x2="300" y2="100" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="300" y1="200" x2="300" y2="300" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <circle cx="300" cy="200" r="25" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="2"/>
+  <circle cx="150" cy="120" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="450" cy="120" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="150" cy="280" r="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="450" cy="280" r="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="300" cy="100" r="10" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+  <circle cx="300" cy="300" r="10" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+  <text x="300" y="205" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Hub</text>
+  <line x1="150" y1="120" x2="300" y2="100" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+  <line x1="450" y1="120" x2="300" y2="100" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+  <line x1="150" y1="280" x2="300" y2="300" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+  <line x1="450" y1="280" x2="300" y2="300" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+  <circle cx="100" cy="200" r="8" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+  <line x1="108" y1="200" x2="150" y2="120" stroke="#93A0AC" stroke-width="0.6" data-pp="muted"/>
+</g>
+</svg>

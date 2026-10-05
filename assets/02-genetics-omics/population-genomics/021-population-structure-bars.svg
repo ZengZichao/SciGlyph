@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-population_structure_bars d-population_structure_bars" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-population_structure_bars">群体结构条形图 / Population structure stacked bars</title>
+  <desc id="d-population_structure_bars">群体结构堆叠条形图。schematic, not to scale. 关键词: structure, ancestry, K</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="structure-bars">
+  <rect x="60" y="100.0" width="80" height="77.4" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="60" y="177.4" width="80" height="85.6" fill="#A2305B" data-pp="archaea"/>
+  <rect x="60" y="263.0" width="80" height="37.0" fill="#00857A" data-pp="metabolism"/>
+  <text x="100.0" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">AF</text>
+  <rect x="165" y="100.0" width="80" height="0.5" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="165" y="100.5" width="80" height="86.1" fill="#A2305B" data-pp="archaea"/>
+  <rect x="165" y="186.6" width="80" height="113.4" fill="#00857A" data-pp="metabolism"/>
+  <text x="205.0" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">EU</text>
+  <rect x="270" y="100.0" width="80" height="47.4" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="270" y="147.4" width="80" height="37.6" fill="#A2305B" data-pp="archaea"/>
+  <rect x="270" y="185.0" width="80" height="115.0" fill="#00857A" data-pp="metabolism"/>
+  <text x="310.0" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">EA</text>
+  <rect x="375" y="100.0" width="80" height="76.2" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="375" y="176.2" width="80" height="49.2" fill="#A2305B" data-pp="archaea"/>
+  <rect x="375" y="225.5" width="80" height="74.5" fill="#00857A" data-pp="metabolism"/>
+  <text x="415.0" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">SA</text>
+  <rect x="480" y="100.0" width="80" height="79.1" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="480" y="179.1" width="80" height="67.4" fill="#A2305B" data-pp="archaea"/>
+  <rect x="480" y="246.5" width="80" height="53.5" fill="#00857A" data-pp="metabolism"/>
+  <text x="520.0" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">OC</text>
+</g>
+<g data-name="legend">
+  <rect x="150" y="350" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="170" y="361" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Cluster 1</text>
+  <rect x="270" y="350" width="12" height="12" fill="#A2305B" data-pp="archaea"/>
+  <text x="290" y="361" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Cluster 2</text>
+  <rect x="390" y="350" width="12" height="12" fill="#00857A" data-pp="metabolism"/>
+  <text x="410" y="361" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Cluster 3</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Population Structure — Stacked Bar Plot (schematic)</text>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-crystallizing-dish" data-cat="st" data-spec="128"
+     data-tags="crystallizing,dish,storage,deep,evaporation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">结晶皿(储存用) / Crystallizing Dish (Storage)</title>
+  <desc id="d">储存用结晶皿，较深型。</desc>
+  <g id="body"><path d="M18 58 Q18 96 64 96 Q110 96 110 58 L110 50 Q110 44 104 44 L24 44 Q18 44 18 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M22 62 Q22 92 64 92 Q106 92 106 62 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><ellipse cx="64" cy="44" rx="44" ry="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

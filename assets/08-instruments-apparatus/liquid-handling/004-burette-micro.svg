@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-burette-micro" data-cat="lh" data-spec="128"
+     data-tags="burette,micro,titration,precision" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">微量滴定管 / Micro Burette</title>
+  <desc id="d">微量滴定管，用于微量滴定分析</desc>
+  <g id="body"><path d="M61 10 L67 10 L67 14 L65 14 L65 100 L67 104 L67 112 L64 116 L61 112 L61 104 L63 100 L63 14 L61 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M59 10 L69 10 L69 14 L59 14 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M63 20 L65 20 M63 28 L65 28 M63 36 L65 36 M63 44 L65 44 M63 52 L65 52 M63 60 L65 60 M63 68 L65 68 M63 76 L65 76 M63 84 L65 84 M63 92 L65 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="72" y="22" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">0</text>
+    <text x="72" y="94" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">5</text></g>
+</svg>

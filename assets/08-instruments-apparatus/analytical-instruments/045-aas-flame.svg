@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-aas-flame" data-cat="an" data-spec="128"
+     data-tags="aas,flame,atomic,absorption,spectrometer,hollow,cathode" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">火焰原子吸收光谱仪 / Flame AAS</title>
+  <desc id="d">火焰原子吸收光谱仪流程示意（模块排布非真实光学几何）：空心阴极灯→雾化器→火焰原子化器→单色器→检测器→读数；蓝色线段为光路，它穿过火焰（真实仪器中光束只经火焰，雾化器侧向进料）。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="16" y="36" width="14" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="23" cy="45" r="4" fill="#F5A623" opacity="0.6" stroke="none" data-ls="warn"/>
+    <text x="23" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">HCL</text>
+<line x1="30" y1="45" x2="42" y2="45" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round"/>
+    <polygon points="34,42 46,45 34,48" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="42" y="38" width="12" height="14" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="48" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Neb</text>
+<rect x="58" y="50" width="16" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M62 50 Q60 42 62 38 Q64 42 62 50" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<path d="M66 50 Q64 42 66 38 Q68 42 66 50" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<path d="M70 50 Q68 44 70 40 Q72 44 70 50" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <text x="66" y="62" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Flame</text>
+<line x1="54" y1="45" x2="80" y2="45" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round"/>
+<rect x="80" y="36" width="14" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M84 40 L84 50 M87 40 L87 50 M90 40 L90 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="87" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mono</text>
+<rect x="100" y="38" width="10" height="14" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <polygon points="94,42 106,45 94,48" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="14" y="70" width="44" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="36" y="68" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">AAS</text>
+<path d="M18 84 L24 80 L30 82 L36 78 L42 80 L48 76 L54 80" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

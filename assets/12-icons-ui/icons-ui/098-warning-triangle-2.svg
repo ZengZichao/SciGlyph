@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-warning-triangle" data-cat="ic" data-spec="24"
+     data-tags="icon,warning,triangle,caution,alert" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">警告三角图标 / Icon Warning Triangle</title>
+  <desc id="d">警告三角微型图标。</desc>
+  <g id="body">
+    <path d="M12,4 L4,20 L20,20 Z" fill="#F5A623" opacity="0.3" stroke="none" data-ls="warn"/>
+    <path d="M12,4 L4,20 L20,20 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="10" x2="12" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <circle cx="12" cy="17" r="1" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

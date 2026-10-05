@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-timer-clock" data-cat="ic" data-spec="24"
+     data-tags="icon,timer,clock,time,schedule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">计时器图标 / Icon Timer Clock</title>
+  <desc id="d">计时器微型图标。</desc>
+  <g id="body">
+    <circle cx="12" cy="13" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="12" y1="13" x2="12" y2="8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="13" x2="16" y2="13" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="4" x2="12" y2="5" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="10" y1="4" x2="14" y2="4" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+  </g>
+</svg>

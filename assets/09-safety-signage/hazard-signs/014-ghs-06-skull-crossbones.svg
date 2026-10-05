@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-06-skull-crossbones" data-cat="hz" data-spec="128"
+     data-tags="ghs,skull,toxic,poison,骷髅,有毒" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS06 骷髅交叉骨 / GHS06 Skull and Crossbones</title>
+  <desc id="d">GHS象形图：骷髅与交叉骨，表示急性毒性（严重）。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><circle cx="64" cy="54" r="14"/>
+    <circle cx="59" cy="52" r="3" fill="#FFFFFF" data-ls="fill"/>
+    <circle cx="69" cy="52" r="3" fill="#FFFFFF" data-ls="fill"/>
+    <rect x="60" y="60" width="8" height="4" rx="1"/>
+    <path d="M46 76 L82 92" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="4" data-ls="stroke"/>
+    <path d="M82 76 L46 92" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="4" data-ls="stroke"/>
+    <circle cx="46" cy="76" r="4"/><circle cx="82" cy="76" r="4"/>
+    <circle cx="46" cy="92" r="4"/><circle cx="82" cy="92" r="4"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

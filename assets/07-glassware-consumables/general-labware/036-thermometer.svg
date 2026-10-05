@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="温度计" data-name-en="thermometer" data-cat="lab-equipment" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">温度计 / thermometer</title>
+  <desc id="d-37">测量液体或环境温度。关键词: 温度计,thermometer,温度,测量</desc>
+  <g id="g-37-温度计">
+    <rect x="55" y="10" width="10" height="85" rx="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="100" r="10" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="57" y="35" width="6" height="60" rx="3" fill="#D55E00" stroke="none" data-drole="series-1"/>
+    <line x1="65" y1="20" x2="70" y2="20" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="30" x2="68" y2="30" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="40" x2="70" y2="40" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="50" x2="68" y2="50" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="60" x2="70" y2="60" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="70" x2="68" y2="70" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="65" y1="80" x2="70" y2="80" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="72" y="23" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9">100</text>
+    <text x="72" y="43" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9">50</text>
+    <text x="72" y="83" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">°C</text>
+  </g>
+</svg>

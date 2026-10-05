@@ -1,0 +1,41 @@
+{
+ "category": "11-diagrams-charts",
+ "name_zh": "图示语法·流程与图表",
+ "name_en": "Diagrams, Flows & Charts",
+ "count": 437,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "flowchart-syntax",
+   "name_zh": "流程图语法",
+   "name_en": "Flowchart Syntax",
+   "count": 109
+  },
+  {
+   "id": "diagrams-uml",
+   "name_zh": "软件图与 UML",
+   "name_en": "Software Diagrams & UML",
+   "count": 68
+  },
+  {
+   "id": "charts-plots",
+   "name_zh": "图表与绘图",
+   "name_en": "Charts & Plots",
+   "count": 87
+  },
+  {
+   "id": "pid-process",
+   "name_zh": "工艺流程与单元操作",
+   "name_en": "P&ID & Unit Operations",
+   "count": 78
+  },
+  {
+   "id": "physics-circuits",
+   "name_zh": "物理光路与电路",
+   "name_en": "Physics Optics & Circuits",
+   "count": 95
+  }
+ ]
+}

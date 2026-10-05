@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-centrifuge-disc-stack" data-cat="uo" data-spec="128"
+     data-tags="centrifuge,disc-stack,separation,clarifier" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">碟片离心机 / Disc Stack Centrifuge</title>
+  <desc id="d">碟片离心机剖面，多层碟片。</desc>
+  <g id="body">
+    <path d="M30,20 L30,90 Q30,110 64,110 Q98,110 98,90 L98,20 Q98,10 64,10 Q30,10 30,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="38" y1="40" x2="90" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="38" y1="50" x2="90" y2="50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="38" y1="60" x2="90" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="38" y1="70" x2="90" y2="70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="38" y1="80" x2="90" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="10" x2="64" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="16" y1="50" x2="30" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="22,50 28,46 28,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="98" y1="50" x2="112" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="106,50 100,46 100,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="110" x2="64" y2="120" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,116 60,110 68,110" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

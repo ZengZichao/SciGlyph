@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-filter-paper-wet-folded" data-cat="cs" data-spec="128"
+     data-tags="filter paper,folded,wet,fluted,fast filtration" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">折叠滤纸(湿折) / Folded Filter Paper (Wet)</title>
+  <desc id="d">折叠滤纸(扇形折叠)，加速过滤。</desc>
+  <g id="body"><path d="M20 40 L64 20 L108 40 L108 88 L64 108 L20 88 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M30 44 L64 28 L98 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 52 L64 36 L98 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 60 L64 44 L98 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 68 L64 52 L98 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 76 L64 60 L98 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 84 L64 68 L98 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 90 L64 76 L88 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

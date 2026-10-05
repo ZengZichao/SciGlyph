@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="冰雪微生物" data-name-en="Snow and Ice Microbiome" data-cat="05-eco-seq" data-tags="冰雪,嗜冷菌,冰晶,雪藻,融化" role="img" aria-labelledby="t-14-snow-ice d-14-snow-ice" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14-snow-ice">冰雪微生物 / Snow and Ice Microbiome</title>
+  <desc id="d-14-snow-ice">嗜冷菌与产色素雪藻封存于冰晶六方晶格中，融化时借冰核颗粒表面迅速恢复代谢活动。关键词: 冰雪, 嗜冷菌, 冰晶, 雪藻, 融化</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 冰晶六方晶格背景 -->
+  <path d="M58 12 L98 32 L98 70 L58 90 L18 70 L18 32 Z" fill="#B7D7E8" fill-opacity="0.25" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <path d="M58 28 L80 40 L80 63 L58 75 L36 63 L36 40 Z" fill="none" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M58 12 V28 M98 32 L80 40 M98 70 L80 63 M58 90 V75 M18 70 L36 63 M18 32 L36 40" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 雪花主臂 -->
+  <g>
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <g transform="rotate(60 58 52)">
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <g transform="rotate(120 58 52)">
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <g transform="rotate(180 58 52)">
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <g transform="rotate(240 58 52)">
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <g transform="rotate(300 58 52)">
+    <path d="M58 52 V14 M58 30 L48 22 M58 30 L68 22 M58 44 L51 39 M58 44 L65 39 M58 14 l-4 -5 M58 14 l4 -5" stroke="#1F6F8B" stroke-width="1.6"/>
+  </g>
+  <!-- 冰核尘埃颗粒 -->
+  <circle cx="40" cy="30" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="76" cy="30" r="1.6" fill="#7A8B93" stroke="none"/>
+  <circle cx="34" cy="62" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="82" cy="64" r="1.6" fill="#7A8B93" stroke="none"/>
+  <circle cx="58" cy="82" r="1.8" fill="#7A8B93" stroke="none"/>
+  <!-- 冰封的嗜冷菌 -->
+  <rect x="46" y="46" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="44" y="44" width="22" height="12" rx="6" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <circle cx="70" cy="58" r="4.6" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="70" cy="58" r="7.2" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <rect x="44" y="62" width="16" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="42" y="60" width="20" height="11" rx="5.5" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 雪藻（红色色素） -->
+  <path d="M88 86 q14 -8 26 -1 q-12 9 -26 1 Z" fill="#C0504D" fill-opacity="0.3" stroke="#C0504D" stroke-width="1.2"/>
+  <circle cx="96" cy="84" r="3.4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+  <circle cx="105" cy="86" r="3" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+  <!-- 融化水膜 -->
+  <path d="M8 100 Q30 94 52 99 T112 96 L112 106 Q60 112 8 106 Z" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M8 100 Q30 94 52 99 T112 96" stroke="#1F6F8B" stroke-width="1.4"/>
+  <!-- 融化促进的代谢箭头 -->
+  <path d="M30 92 v-6 m-2.5 2.5 l2.5 -2.5 l2.5 2.5" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M70 92 v-6 m-2.5 2.5 l2.5 -2.5 l2.5 2.5" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 2"/>
+</g>
+</svg>

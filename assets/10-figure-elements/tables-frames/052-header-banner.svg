@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="标题横幅色块" data-name-en="header-banner" data-cat="tables-frames" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">标题横幅色块 / header_banner</title>
+  <desc id="d-52">标题横幅色块。关键词: 横幅,标题,色块</desc>
+  <g id="g-52-标题横幅色块">
+    <rect x="20" y="40" width="440" height="60" fill="#0072B2" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <text x="240" y="78" font-size="14" fill="#ffffff" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Title</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-refractometer" data-cat="an" data-spec="128" data-tags="refractometer,refractive,index,prism,concentration,brix" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">台式折光仪 / Benchtop Refractometer</title>
+  <desc id="d">台式折光仪：棱镜、样品板、光源、刻度读数。</desc>
+  <g id="body">
+    <rect x="22" y="24" width="84" height="80" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="22" y="24" width="84" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<polygon points="50,34 78,34 84,50 44,50" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<polygon points="52,36 76,36 80,48 48,48" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
+<rect x="44" y="30" width="40" height="4" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Prism</text>
+    <rect x="30" y="56" width="68" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="66" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">nD 1.3330</text>
+    <text x="66.82" y="73.98" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">25.0°C</text>
+    <circle cx="38" cy="82" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="50" cy="82" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="62" cy="82" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="74" cy="82" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="38.0" y="90.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Read</text>
+    <text x="56.0" y="90.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Zero</text>
+    <line x1="62.0" y1="87.9" x2="65.47" y2="94.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="66.88" y="97.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Temp</text>
+    <text x="74.0" y="88.6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mode</text>
+<line x1="30" y1="42" x2="44" y2="42" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="1.2" data-ls="accent" stroke-linecap="round" />
+    <rect x="28" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="90" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

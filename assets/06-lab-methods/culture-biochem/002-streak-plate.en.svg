@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-streak_plate d-streak_plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-streak_plate">Streak Plate</title>
+  <desc id="d-streak_plate">Quadrant streak plate with isolated colonies 关键词: streak plate, quadrant, isolation</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="30" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <path d="M25,35 Q30,30 35,35 Q40,40 45,35" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M55,35 Q60,30 65,35 Q70,40 75,35" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M30,55 Q35,50 40,55 Q45,60 50,55" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M55,55 Q60,50 65,55 Q70,60 75,55" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <circle cx="65" cy="55" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="70" cy="60" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="60" cy="62" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <line x1="20" y1="30" x2="30" y2="35" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M28,33 L32,35 L28,37" fill="#1B2733" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="ink"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Streak plate</text>
+  </g>
+</svg>

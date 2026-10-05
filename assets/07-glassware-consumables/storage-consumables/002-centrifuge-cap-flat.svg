@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-centrifuge-cap-flat" data-cat="cs" data-spec="128"
+     data-tags="centrifuge,cap,flat,screw,seal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">离心管平盖 / Centrifuge Tube Flat Cap</title>
+  <desc id="d">离心管平面螺帽盖。</desc>
+  <g id="body"><path d="M24 44 L24 84 Q24 92 32 92 L96 92 Q104 92 104 84 L104 44 Q104 36 96 36 L32 36 Q24 36 24 44 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 50 L100 50 M28 58 L100 58 M28 66 L100 66 M28 74 L100 74 M28 82 L100 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M30 32 L30 38 L98 38 L98 32 Q90 28 64 28 Q38 28 30 32 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

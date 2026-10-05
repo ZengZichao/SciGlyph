@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="饼图" data-name-en="chart_pie" data-cat="basic-icons-ui" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26">饼图 / chart_pie</title>
+  <desc id="d-26">饼状统计图图标。关键词: 饼图,统计,chart,pie</desc>
+  <g id="g-26-饼图">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 24 L24 8" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 24 L38 32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 24 L12 34" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

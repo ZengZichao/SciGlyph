@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-30_sos_response d-30_sos_response" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30_sos_response">SOS响应 / SOS Response (RecA/LexA)</title>
+  <desc id="d-30_sos_response">DNA损伤→RecA激活→LexA自切割→SOS基因去阻遏。uvrA/B/C, umuC/D。关键词: SOS response, RecA, LexA, DNA damage, error-prone repair</desc>
+  <defs>
+    <marker id="pp30__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="20" cy="40" r="10" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="20" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA</text>
+        <rect x="35" y="33" width="15" height="14" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="42.5" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RecA</text>
+        <rect x="55" y="33" width="15" height="14" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="62.5" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">LexA</text>
+        <rect x="75" y="33" width="15" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="82.5" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SOS</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="30" y1="40" x2="35" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp30__ar)"/>
+        <line x1="50" y1="40" x2="55" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp30__ar)"/>
+        <line x1="70" y1="40" x2="75" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp30__ar)"/>
+    <text x="50" y="60" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">LexA auto-cleavage</text>
+    <text x="50" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">SOS genes derepressed</text>
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">umuC/D error-prone</text>
+    <text x="50" y="95" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">uvrABC excision</text>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-taxonomy_stacked d-taxonomy_stacked" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-taxonomy_stacked">分类堆叠条形 / Taxonomy stacked bar</title>
+  <desc id="d-taxonomy_stacked">按门(Phylum)统计的相对丰度堆叠条形示意(schematic, not to scale; 数值为示例)。三个类群均为细菌，统一用 bacteria 蓝的 100%/60%/30% 三档 fill-opacity 区分；底部灰条为未分类读段。命名用 GTDB 现行门名: Pseudomonadota(旧称 Proteobacteria)、Bacteroidota(旧 Bacteroidetes)、Bacillota(旧 Firmicutes)。关键词: taxonomy, stacked bar, phylum, abundance, GTDB, Pseudomonadota</desc>
+<g id="l-taxonomy_stacked" data-name="stacked">
+  <text x="300" y="30" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Phylum Composition</text>
+  <rect x="80" y="100" width="60" height="120" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  <rect x="80" y="220" width="60" height="60" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="1"/>
+  <rect x="80" y="280" width="60" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="1"/>
+  <rect x="160" y="100" width="60" height="110" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  <rect x="160" y="210" width="60" height="70" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="1"/>
+  <rect x="160" y="280" width="60" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="1"/>
+  <rect x="240" y="100" width="60" height="130" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  <rect x="240" y="230" width="60" height="50" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="1"/>
+  <rect x="240" y="280" width="60" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="1"/>
+  <rect x="80" y="300" width="60" height="8" fill="#93A0AC" data-pp="muted" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+  <rect x="160" y="300" width="60" height="8" fill="#93A0AC" data-pp="muted" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+  <rect x="240" y="300" width="60" height="8" fill="#93A0AC" data-pp="muted" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="110" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S1</text>
+  <text x="190" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S2</text>
+  <text x="270" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S3</text>
+  <line x1="80" y1="100" x2="80" y2="308" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+  <text x="42" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90,42,205)">Relative abundance</text>
+  <rect x="400" y="100" width="20" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="428" y="115" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pseudomonadota</text>
+  <rect x="400" y="132" width="20" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="428" y="147" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacteroidota</text>
+  <rect x="400" y="164" width="20" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="428" y="179" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacillota</text>
+  <rect x="400" y="196" width="20" height="20" fill="#93A0AC" data-pp="muted" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="428" y="211" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Unassigned</text>
+  <text x="400" y="240" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">GTDB phylum names</text>
+</g>
+</svg>

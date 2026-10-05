@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-fermented_food d-fermented_food" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fermented_food">Fermented food</title>
+  <desc id="d-fermented_food">Fermented food product with starter culture microbes 关键词: fermented, food</desc>
+  <g id="l-fermented_food-bg" data-name="habitat-bg">
+    <rect x="5" y="30" width="90" height="45" rx="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+  </g>
+  <g id="l-fermented_food-microbes" data-name="microbes">
+    <circle cx="12.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="18.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="25.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="31.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="38.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="55" cy="55" r="4" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+<rect x="63.5" y="46.2" width="9" height="3.5" rx="1.4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="l-fermented_food-label" data-name="annotation">
+    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Fermented food</text>
+  </g>
+</svg>

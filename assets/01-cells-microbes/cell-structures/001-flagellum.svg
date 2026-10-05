@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="鞭毛总览" data-name-en="Flagellum overview" data-cat="02-structures" data-tags="鞭毛,运动,基体,钩鞭毛体,鞭毛丝,原核" role="img" aria-labelledby="t-01-flagellum d-01-flagellum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01-flagellum">鞭毛总览 / Flagellum overview</title>
+  <desc id="d-01-flagellum">鞭毛由基体、钩鞭毛体与鞭毛丝三段组成，基体是质子驱动的旋转马达，驱动细胞摆动或翻滚运动。关键词: 鞭毛, 运动, 基体, 钩鞭毛体, 鞭毛丝, 原核</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="14" y="40" width="52" height="40" rx="20" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M25 62C25 51 35 47 43 51C51 55 57 51 60 57C56 66 46 70 38 67C31 64 25 68 25 62Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="67" cy="60" r="4.6" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M70 60C76 60 78 46 84 46C90 46 92 72 98 72C104 72 106 46 112 46C114 46 115 55 116 60" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+<circle cx="94" cy="94" r="15" fill="#F7FBF9" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<circle cx="94" cy="94" r="10" fill="none" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="94" cy="94" r="5.5" fill="none" stroke="#5FA8C7" stroke-width="1.2"/>
+<circle cx="94" cy="94" r="2" fill="#1F6F8B"/>
+</g>
+</svg>

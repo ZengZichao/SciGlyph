@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="缺口尾部" data-name-en="tail notch" data-cat="arrows-connectors" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36">缺口尾部 / tail_notch</title>
+  <desc id="d-36">带缺口尾部的箭头。关键词: tail,notch,arrow,indicator</desc>
+  <g id="g-36-缺口尾部">
+    <polygon points="10,14 20,24 10,34 16,34 26,24 16,14" fill="#1f2937"/>
+    <rect x="20" y="21" width="60" height="6" fill="#1f2937"/>
+    <polygon points="78,14 90,24 78,34" fill="#1f2937"/>
+  </g>
+</svg>

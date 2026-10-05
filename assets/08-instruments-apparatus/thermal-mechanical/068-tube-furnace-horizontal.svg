@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-tube-furnace-horizontal" data-cat="hc" data-spec="128"
+     data-tags="tube-furnace,horizontal,alumina,gas,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">管式炉（水平） / Horizontal Tube Furnace</title>
+  <desc id="d">管式炉+刚玉管+进气箭头</desc>
+  <g id="body"><rect x="16" y="36" width="96" height="56" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M8 56 L120 56 L120 72 L8 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M24 40 L104 40 L104 44 L24 44 Z" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+    <path d="M24 84 L104 84 L104 88 L24 88 Z" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+    <path d="M8 60 L120 60 L120 68 L8 68 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M8 60 L2 56 L2 72 L8 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M120 60 L126 56 L126 72 L120 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <rect x="44" y="36" width="40" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="46" y="38" width="36" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="44" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">1100°C</text></g>
+</svg>

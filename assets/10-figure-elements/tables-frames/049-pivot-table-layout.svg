@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="透视表布局" data-name-en="pivot-table-layout" data-cat="tables-frames" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-49">透视表布局 / pivot_table_layout</title>
+  <desc id="d-49">透视表布局结构。关键词: 透视表,布局,汇总</desc>
+  <g id="g-49-透视表布局">
+    <line x1="40" y1="30" x2="360" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="60" x2="360" y2="60" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="90" x2="360" y2="90" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <line x1="120" y1="30" x2="120" y2="270" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <line x1="220" y1="30" x2="220" y2="270" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <line x1="320" y1="30" x2="320" y2="270" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <text x="80" y="50" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Row</text>
+    <text x="170" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">C1</text>
+    <text x="270" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">C2</text>
+    <text x="350" y="80" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Tot</text>
+    <text x="170" y="80" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Sub</text>
+    <text x="270" y="80" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Sub</text>
+    <text x="80" y="110" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R1</text>
+    <text x="170" y="110" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+    <text x="270" y="110" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
+    <text x="350" y="110" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <text x="80" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R2</text>
+    <text x="170" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
+    <text x="270" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <text x="350" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <text x="80" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R3</text>
+    <text x="170" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <text x="270" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <text x="350" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">7</text>
+    <text x="80" y="200" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R4</text>
+    <text x="170" y="200" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <text x="270" y="200" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <text x="350" y="200" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">9</text>
+    <text x="80" y="230" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R5</text>
+    <text x="170" y="230" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <text x="270" y="230" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6</text>
+    <text x="350" y="230" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">11</text>
+    <line x1="40" y1="270" x2="360" y2="270" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

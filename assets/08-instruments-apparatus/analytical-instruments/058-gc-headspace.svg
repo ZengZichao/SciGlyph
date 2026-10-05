@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-gc-headspace" data-cat="an" data-spec="128"
+     data-tags="gc,headspace,sampler,vial,static,volatiles" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">顶空进样器 / GC Headspace Sampler</title>
+  <desc id="d">顶空进样器，加热样品瓶、平衡气相、加压转移。</desc>
+  <g id="body">
+    <rect x="14" y="18" width="100" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="14" y="18" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<circle cx="50" cy="56" r="24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="36" y="34" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="44" y="32" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="52" y="32" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="60" y="34" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="66" y="40" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="68" y="50" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="66" y="60" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="60" y="68" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="52" y="70" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="44" y="70" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="36" y="68" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="60" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="28" y="50" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="40" width="6" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M48 52 Q50 48 48 44" fill="#E02020" opacity="0.5" stroke="none" stroke-width="1" data-ls="danger"/>
+<path d="M54 52 Q56 48 54 44" fill="#E02020" opacity="0.5" stroke="none" stroke-width="1" data-ls="danger"/>
+<line x1="74" y1="44" x2="108" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="86,41 98,44 86,47" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="96" y="40" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">To GC</text>
+    <rect x="80" y="56" width="28" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="94" y="54" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HS</text>
+    <text x="94" y="74" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">100°C</text>
+    <circle cx="86" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="96" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

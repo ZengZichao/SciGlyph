@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="一级结构" data-name-en="Protein Primary Chain" data-cat="natural-sciences" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28">一级结构 / protein_primary_chain</title>
+  <desc id="d-28">展示蛋白质一级结构串珠。关键词: primary structure,polypeptide,sequence</desc>
+  <g id="g-28-一级结构">
+    <circle cx="40" cy="120" r="12" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="80" cy="120" r="12" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="120" cy="120" r="12" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <circle cx="160" cy="120" r="12" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="200" cy="120" r="12" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="240" cy="120" r="12" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="280" cy="120" r="12" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="52" y1="120" x2="68" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="92" y1="120" x2="108" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="132" y1="120" x2="148" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="172" y1="120" x2="188" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="212" y1="120" x2="228" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="252" y1="120" x2="268" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

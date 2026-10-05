@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-28_arrow_activate d-28_arrow_activate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28_arrow_activate">激活圈头 / Activation circle</title>
+  <desc id="d-28_arrow_activate">激活圈头终端(正调控)。骨架，配合激活/正调控使用。关键词: arrow, activation, circle, positive</desc>
+  <defs><marker id="pp28__m" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><circle cx="5" cy="5" r="4" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5"/></marker></defs>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="50" x2="72" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#pp28__m)"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Activation circle</text>
+  </g>
+</svg>

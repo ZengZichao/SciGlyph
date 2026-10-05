@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-80_leader d-80_leader" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-80_leader">引线 / Leader line</title>
+  <desc id="d-80_leader">引线标注。骨架，配合注释使用。关键词: leader, annotation, callout</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="25" cy="35" r="8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" data-name="target"/>
+    <line x1="33" y1="35" x2="60" y2="20" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" data-name="leader"/>
+    <line x1="60" y1="20" x2="90" y2="20" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" data-name="text-line"/>
+    <text x="62" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" data-name="annotation">label</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Leader line</text>
+  </g>
+</svg>

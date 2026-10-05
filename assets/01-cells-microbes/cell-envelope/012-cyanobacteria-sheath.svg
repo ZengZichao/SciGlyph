@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-cyanobacteria_sheath d-cyanobacteria_sheath" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cyanobacteria_sheath">蓝细菌胶鞘 / Cyanobacterial sheath</title>
+  <desc id="d-cyanobacteria_sheath">Cyanobacterial cell with thick polysaccharide sheath and thylakoids 关键词: cyanobacteria, sheath, polysaccharide</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="30" y="40" width="40" height="15" rx="7" fill="#00857A" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism"/>
+    <rect x="25" y="35" width="50" height="25" rx="10" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge" fill-opacity="0.3"/>
+    <circle cx="30" cy="40" r="1.5" fill="#E8871E" stroke="none" stroke-width="0" data-pp="mge"/>
+    <circle cx="45" cy="38" r="1.5" fill="#E8871E" stroke="none" stroke-width="0" data-pp="mge"/>
+    <circle cx="60" cy="42" r="1.5" fill="#E8871E" stroke="none" stroke-width="0" data-pp="mge"/>
+    <circle cx="35" cy="55" r="1.5" fill="#E8871E" stroke="none" stroke-width="0" data-pp="mge"/>
+    <circle cx="55" cy="53" r="1.5" fill="#E8871E" stroke="none" stroke-width="0" data-pp="mge"/>
+    <line x1="35" y1="45" x2="35" y2="50" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="50" y1="45" x2="50" y2="50" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="65" y1="45" x2="65" y2="50" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">蓝细菌鞘</text>
+  </g>
+</svg>

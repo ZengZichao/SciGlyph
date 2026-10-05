@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-test-tube" data-cat="ic" data-spec="24"
+     data-tags="icon,test-tube,glassware,experiment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试管图标 / Icon Test Tube</title>
+  <desc id="d">试管微型图标。</desc>
+  <g id="body">
+    <path d="M9,4 L9,16 Q9,20 12,20 Q15,20 15,16 L15,4 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="8" y1="4" x2="16" y2="4" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <path d="M10,14 L14,14 L14,16 Q14,19 12,19 Q10,19 10,16 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

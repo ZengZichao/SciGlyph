@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-time_kill_curve d-time_kill_curve" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-time_kill_curve">时间杀菌曲线 / Time-kill curve bactericidal bacteriostatic</title>
+  <desc id="d-time_kill_curve">时间-杀菌曲线(time-kill curve)：log CFU/mL vs 时间。生长对照(上升)、杀菌剂(下降≥3log)、抑菌剂(持平)。评估抗生素杀菌动力学。关键词: time-kill curve, bactericidal, bacteriostatic, log CFU, PK/PD</desc>
+  <g id="layer-body-time_kill_curve" data-name="body">
+    <!-- Axes -->
+    <line x1="15" y1="70" x2="85" y2="70" stroke="#1B2733" stroke-width="1"/>
+    <line x1="15" y1="15" x2="15" y2="70" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">time (h)</text>
+    <text x="15.69" y="42.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">log CFU</text>
+    <!-- Growth control (up, ~3 log) -->
+    <path d="M15,40 Q30,33 45,27 Q60,22 80,19" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5"/>
+    <!-- Bactericidal (down ≥3 log, stays low) -->
+    <path d="M15,40 Q22,48 32,55 Q42,60 55,61 Q65,61.5 80,61" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-dasharray="3,1"/>
+    <!-- Bacteriostatic (flat) -->
+    <path d="M15,40 Q30,39.5 45,39 Q60,38.5 80,38" fill="none" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+    <!-- Legend -->
+    <line x1="20" y1="10" x2="30" y2="10" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5"/>
+    <text x="32" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">growth</text>
+    <line x1="52" y1="10" x2="62" y2="10" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-dasharray="3,1"/>
+    <text x="64" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">killing</text>
+  </g>
+  <g id="layer-annotation-time_kill_curve" data-name="annotation">
+    <text x="50" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">time-kill curve</text>
+  </g>
+</svg>

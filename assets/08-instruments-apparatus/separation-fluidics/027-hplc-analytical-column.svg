@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>液相色谱分析柱</title>
+  <rect x="9" y="5" width="6" height="14" rx="0.75"/>
+  <path d="M9 5l-2-2v-1h3l1 1"/>
+  <path d="M15 19l2 2v1h-3l-1-1"/>
+  <rect x="8" y="8" width="8" height="1" rx="0.5" stroke-width="0.75"/>
+  <rect x="8" y="15" width="8" height="1" rx="0.5" stroke-width="0.75"/>
+  <path d="M6 3l-1-1" stroke-width="1"/>
+  <path d="M18 21l1 1" stroke-width="1"/>
+  <line x1="9" y1="12" x2="15" y2="12" stroke-width="0.75"/>
+  <path d="M17 4l1.5-1.5" stroke-width="0.75"/>
+  <path d="M7 20l-1.5 1.5" stroke-width="0.75"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-paraffin-film-strip" data-cat="cs" data-spec="128"
+     data-tags="paraffin-film,seal,strip,wrap,lab film" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">石蜡封口膜条 / Paraffin Film Strip</title>
+  <desc id="d">实验室石蜡封口膜条，拉伸自粘，用于密封瓶口。</desc>
+  <g id="body"><path d="M20 40 L108 40 L108 88 L20 88 Z" fill="#FFFFFF" opacity="0.3" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M20 40 L108 40 L108 88 L20 88 Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M24 50 Q40 46 56 50 Q72 54 88 50 Q100 48 104 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M24 64 Q40 60 56 64 Q72 68 88 64 Q100 62 104 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M24 78 Q40 74 56 78 Q72 82 88 78 Q100 76 104 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

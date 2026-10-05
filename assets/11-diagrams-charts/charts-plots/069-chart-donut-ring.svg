@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-donut-ring" data-cat="ch" data-spec="128"
+     data-tags="chart,donut,ring,proportion,hole" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">环形图 / Chart Donut Ring</title>
+  <desc id="d">环形图。</desc>
+  <g id="body">
+    <path d="M64,20 A44,44 0 0,1 108,64 L90,64 A26,26 0 0,0 64,38 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M108,64 A44,44 0 0,1 64,108 L64,90 A26,26 0 0,0 90,64 Z" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <path d="M64,108 A44,44 0 0,1 20,64 L38,64 A26,26 0 0,0 64,90 Z" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <path d="M20,64 A44,44 0 0,1 64,20 L64,38 A26,26 0 0,0 38,64 Z" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-primer_binding d-primer_binding" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-primer_binding">引物对结合示意 / Primer Pair Binding</title>
+<desc id="d-primer_binding">PCR 引物对结合到模板 DNA 示意。关键词: primer, PCR, forward, reverse, amplification</desc>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Primer Pair Binding (PCR)</text><line x1="60" y1="140" x2="540" y2="140" stroke="#2E86AB" data-pp="bacteria" stroke-width="3" stroke-linecap="round" /><line x1="60" y1="180" x2="540" y2="180" stroke="#6C3FA0" data-pp="gene" stroke-width="3" stroke-linecap="round" />
+<text x="50" y="145" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′</text>
+<text x="545" y="145" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′</text>
+<text x="50" y="185" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′</text>
+<text x="545" y="185" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′</text><rect x="100" y="185" width="50" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+<text x="125" y="194" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Fwd</text>
+<text x="125" y="215" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Forward primer</text><rect x="440" y="123" width="50" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
+<text x="465" y="132" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Rev</text>
+<text x="465" y="115" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">Reverse primer</text><rect x="100" y="165" width="390" height="20" rx="3" fill="#E8871E" data-pp="mge" stroke="#E8871E" stroke-width="1" stroke-dasharray="4,2" />
+<text x="295" y="179" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Amplicon</text>
+<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Fwd: 5′-AGTCGATCGTAG-3′ (12-mer, Tm ≈ 36°C)</text>
+<text x="300" y="290" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Rev: 5′-CTAGCTAGCTAG-3′ (12-mer, Tm ≈ 36°C)</text>
+<text x="300" y="310" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Amplicon size: ~500 bp</text></g>  <g data-name="annotation">
+    <circle cx="300" cy="175" r="15" fill="#00857A" fill-opacity="0.15" stroke="#00857A" stroke-width="1" data-pp="metabolism"/>
+    <line x1="100" y1="200" x2="100" y2="210" stroke="#C42D2D" stroke-width="1" data-pp="alert"/>
+    <line x1="490" y1="120" x2="490" y2="110" stroke="#00857A" stroke-width="1" data-pp="metabolism"/>
+    <rect x="60" y="330" width="12" height="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="80" y="330" width="12" height="12" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="100" y="330" width="12" height="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="120" y="330" width="12" height="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="138" y="340" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">template 5p / 3p / Fwd / Rev</text>
+    <line x1="60" y1="350" x2="540" y2="350" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-filter-press-chamber" data-cat="uo" data-spec="128"
+     data-tags="filter,press,chamber,plate-frame,filtration" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">板框压滤机 / Filter Press Chamber</title>
+  <desc id="d">板框压滤机，交替滤板和框架。</desc>
+  <g id="body">
+    <rect x="16" y="22" width="96" height="72" rx="4" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="28" y1="22" x2="28" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="40" y1="22" x2="40" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="52" y1="22" x2="52" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="22" x2="64" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="76" y1="22" x2="76" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="88" y1="22" x2="88" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="100" y1="22" x2="100" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="16" y1="58" x2="112" y2="58" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="8" y1="58" x2="16" y2="58" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="12,58 18,54 18,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="94" x2="64" y2="110" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,104 60,98 68,98" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

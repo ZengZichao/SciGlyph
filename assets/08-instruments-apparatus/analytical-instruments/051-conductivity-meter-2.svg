@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-conductivity-meter" data-cat="an" data-spec="128" data-tags="conductivity,meter,electrode,cell,temperature,compensation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">台式电导率仪 / Benchtop Conductivity Meter</title>
+  <desc id="d">台式电导率仪：电导电极、温度补偿、数字显示。</desc>
+  <g id="body">
+    <rect x="22" y="18" width="84" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="22" y="18" width="84" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+    <rect x="30" y="26" width="68" height="22" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="36" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="accent">12.45</text>
+    <text x="64" y="44" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">μS/cm</text>
+    <circle cx="36" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="46" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="56" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="66" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="36.0" y="62.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mode</text>
+    <text x="52.0" y="62.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Cal</text>
+    <line x1="56.0" y1="59.9" x2="59.47" y2="66.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.88" y="69.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Temp</text>
+    <text x="68.0" y="60.6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Meas</text>
+<rect x="80" y="14" width="6" height="28" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="78" y="42" width="10" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="79" y="46" width="3" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="84" y="46" width="3" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M83 58 Q83 64 78 64 Q72 64 72 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<path d="M36 70 L36 100 Q36 106 42 106 L72 106 Q78 106 78 100 L78 70 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<path d="M38 80 L76 80 L76 100 Q76 104 72 104 L42 104 Q38 104 38 100 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid" />
+    <rect x="28" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="90" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

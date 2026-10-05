@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-04-gas-cylinder" data-cat="hz" data-spec="128"
+     data-tags="ghs,gas cylinder,compressed gas,气瓶,压缩气体" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS04 气瓶 / GHS04 Gas Cylinder</title>
+  <desc id="d">GHS象形图：压缩气瓶剪影，表示压力下气体危险。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><rect x="54" y="48" width="20" height="40" rx="10" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <rect x="60" y="40" width="8" height="10" rx="2" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="56" y="88" width="16" height="4" rx="1"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

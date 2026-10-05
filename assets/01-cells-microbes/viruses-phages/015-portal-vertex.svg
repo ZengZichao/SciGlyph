@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-portal_vertex d-portal_vertex" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-portal_vertex">Portal顶点 / Portal vertex dodecameric channel</title>
+  <desc id="d-portal_vertex">Portal vertex：二十面体一个顶点处的十二聚体环通道，DNA通过此通道进入/离开衣壳。连接衣壳与尾部结构。关键词: portal vertex, dodecameric, DNA packaging channel, connector</desc>
+  <g id="layer-body-portal_vertex" data-name="body">
+    
+    <polygon points="50,15 70,30 65,55 35,55 30,30" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round" />
+    
+    <circle cx="50" cy="35" r="10" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5" />
+    <circle cx="50" cy="35" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+    
+    <circle cx="58.0" cy="35.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="56.9" cy="39.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="54.0" cy="41.9" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="50.0" cy="43.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="46.0" cy="41.9" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="43.1" cy="39.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="42.0" cy="35.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="43.1" cy="31.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="46.0" cy="28.1" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="50.0" cy="27.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="54.0" cy="28.1" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="56.9" cy="31.0" r="1.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    
+    <path d="M50,45 Q48,55 50,65 Q52,75 50,85" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" />
+  </g>
+  <g id="layer-annotation-portal_vertex" data-name="annotation">
+    <text x="68" y="34.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">portal</text>
+    <text x="68" y="42.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">12-mer</text>
+    <text x="55" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA</text>
+  </g>
+</svg>

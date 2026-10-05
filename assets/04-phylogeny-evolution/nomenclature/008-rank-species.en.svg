@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-rank_species d-rank_species" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-rank_species">Species</title>
+  <desc id="d-rank_species">Taxonomic rank: Species. Nested hierarchy visualization. 关键词: species, rank</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="10" width="80" height="70" rx="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <rect x="18" y="18" width="64" height="54" rx="3" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <rect x="26" y="26" width="48" height="38" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <rect x="34" y="34" width="32" height="22" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <circle cx="50" cy="46" r="5" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" data-pp="alert"/>
+    <text x="50" y="50" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">Species</text>
+  <line x1="46" y1="52" x2="54" y2="52" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/><circle cx="50" cy="46" r="2.5" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" data-pp="alert"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Species</text>
+  </g>
+</svg>

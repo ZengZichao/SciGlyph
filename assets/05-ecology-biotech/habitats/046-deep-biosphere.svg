@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-deep_biosphere d-deep_biosphere" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-deep_biosphere">深层生物圈 / Deep biosphere</title>
+  <desc id="d-deep_biosphere">Deep subsurface rock fractures with biofilm and slow-growing microbes 关键词: deep, biosphere, fracture, biofilm</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="10" width="90" height="75" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" data-pp="host" fill-opacity="0.5"/>
+    <path d="M10,20 L40,45 L30,70" fill="#93A0AC" stroke="#93A0AC" stroke-width="2" stroke-linecap="round" data-pp="muted"/>
+    <path d="M90,30 L60,50 L70,75" fill="#93A0AC" stroke="#93A0AC" stroke-width="2" stroke-linecap="round" data-pp="muted"/>
+    <path d="M50,10 L50,40 L55,65" fill="#93A0AC" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M12,22 Q25,30 38,43" fill="#2E86AB" stroke="#2E86AB" stroke-width="2.5" stroke-linecap="round" data-pp="bacteria" stroke-dasharray="1,1"/>
+    <path d="M88,32 Q75,40 62,48" fill="#2E86AB" stroke="#2E86AB" stroke-width="2.5" stroke-linecap="round" data-pp="bacteria" stroke-dasharray="1,1"/>
+    <circle cx="30" cy="40" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <circle cx="55" cy="35" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <circle cx="65" cy="55" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">深层</text>
+  </g>
+</svg>

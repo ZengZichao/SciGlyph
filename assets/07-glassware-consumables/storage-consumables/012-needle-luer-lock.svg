@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-needle-luer-lock" data-cat="cs" data-spec="128"
+     data-tags="luer lock,needle,hub,connector,syringe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">鲁尔锁针座 / Luer Lock Needle Hub</title>
+  <desc id="d">鲁尔锁紧式针座接口。</desc>
+  <g id="body"><path d="M44 30 L44 90 L56 100 L56 118 L72 118 L72 100 L84 90 L84 30 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M50 20 L50 32 L78 32 L78 20 Q72 16 64 16 Q56 16 50 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M48 36 L80 36 M48 42 L80 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M58 10 L58 22 L70 22 L70 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

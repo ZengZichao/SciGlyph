@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-clsm_biofilm d-clsm_biofilm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-clsm_biofilm">CLSM生物被膜死活染色 / CLSM biofilm live dead staining</title>
+  <desc id="d-clsm_biofilm">CLSM生物被膜：共聚焦显微镜观察生物被膜三维结构。活/死染色(SYTO9绿色+PI红色)显示活细胞和死细胞空间分布。蘑菇状结构含水通道。关键词: CLSM, biofilm, live dead stain, SYTO9, propidium iodide, 3D structure</desc>
+  <g id="layer-body-clsm_biofilm" data-name="body">
+    <!-- Substratum -->
+    <rect x="10" y="75" width="80" height="8" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <!-- Biofilm structure (mushroom shape) -->
+    <path d="M20,75 Q20,55 30,50 Q40,45 40,55 Q40,45 50,40 Q60,35 60,50 Q60,40 70,45 Q80,50 80,75" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.5"/>
+    <!-- Live cells (green) -->
+    <circle cx="30" cy="55" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="45" cy="48" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="55" cy="45" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="70" cy="52" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="35" cy="65" r="2" fill="#00857A" data-pp="metabolism"/>
+    <!-- Dead cells (red) -->
+    <circle cx="40" cy="60" r="2" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="60" cy="55" r="2" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="50" cy="65" r="2" fill="#C42D2D" data-pp="alert"/>
+    <!-- Matrix (background glow) -->
+    <path d="M20,75 Q20,55 30,50 Q40,45 40,55 Q40,45 50,40 Q60,35 60,50 Q60,40 70,45 Q80,50 80,75" fill="none" stroke="#E8871E" data-pp="mge" stroke-width="0.5" stroke-dasharray="1,1"/>
+  </g>
+  <g id="layer-annotation-clsm_biofilm" data-name="annotation">
+    <text x="15" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">live</text>
+    <text x="15" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">dead</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">CLSM biofilm</text>
+  </g>
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-nanosims d-nanosims" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-nanosims">NanoSIMS同位素 / NanoSIMS isotope</title>
+<desc id="d-nanosims">NanoSIMS isotope ratio maps with pseudocolor cells and quantitative scale. schematic. 关键词: microbial ecology, nanosims, isotope, ratio, maps, pseudocolor, cells, quantitative, atom, excess</desc>
+<g id="l-nanosims" data-name="nanosims">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="200.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">NanoSIMS Isotope Map</text>
+<rect x="40.0" y="50.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="67.5" cy="77.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.7169438010359876"/>
+<rect x="100.0" y="50.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="127.5" cy="77.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.24849013926161093"/>
+<rect x="160.0" y="50.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="187.5" cy="77.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.7825708707529462"/>
+<rect x="220.0" y="50.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="247.5" cy="77.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.8404740086893592"/>
+<rect x="40.0" y="110.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="67.5" cy="137.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2874152257958432"/>
+<rect x="100.0" y="110.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="127.5" cy="137.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.35327205771332326"/>
+<rect x="160.0" y="110.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="187.5" cy="137.5" r="18.3" fill="#E8871E" data-pp="mge" fill-opacity="0.6290286031282755"/>
+<rect x="220.0" y="110.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="247.5" cy="137.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3121458376758196"/>
+<rect x="40.0" y="170.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="67.5" cy="197.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3467904286297866"/>
+<rect x="100.0" y="170.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="127.5" cy="197.5" r="18.3" fill="#E8871E" data-pp="mge" fill-opacity="0.5701024547207739"/>
+<rect x="160.0" y="170.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="187.5" cy="197.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.8995887632564641"/>
+<rect x="220.0" y="170.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="247.5" cy="197.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2603079106994315"/>
+<rect x="40.0" y="230.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="67.5" cy="257.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.846417795785362"/>
+<rect x="100.0" y="230.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="127.5" cy="257.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.8847735139746982"/>
+<rect x="160.0" y="230.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="187.5" cy="257.5" r="18.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2783269825612803"/>
+<rect x="220.0" y="230.0" width="55.0" height="55.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="247.5" cy="257.5" r="18.3" fill="#C42D2D" data-pp="alert" fill-opacity="0.7217159151988177"/>
+<text x="200.0" y="295.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">¹³C/¹²C ratio</text>
+<rect x="40.0" y="315.0" width="240.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3"/>
+<rect x="120.0" y="315.0" width="80.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6"/>
+<rect x="200.0" y="315.0" width="80.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.9"/>
+<rect x="40.0" y="315.0" width="240.0" height="15.0" fill="none" data-pp="ink" stroke="#1B2733" stroke-width="0.5"/>
+<text x="40.0" y="345.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">low</text>
+<text x="280.0" y="345.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">high</text>
+<text x="160.0" y="345.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~atom% excess</text>
+<text x="200.0" y="370.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">¹⁵N/¹⁴N</text>
+<rect x="40.0" y="375.0" width="55.0" height="15.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.532470350480244" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="100.0" y="375.0" width="55.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.11180628519652043" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="160.0" y="375.0" width="55.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.17461022094706874" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="220.0" y="375.0" width="55.0" height="15.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7028524032157405" stroke="#1B2733" stroke-width="0.5"/>
+</g>
+</svg>

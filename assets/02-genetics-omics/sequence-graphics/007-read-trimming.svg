@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-read_trimming d-read_trimming" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-read_trimming">Read 修剪前后对比 / Read Trimming Before &amp; After</title>
+  <desc id="d-read_trimming">低质量末端修剪前后 read 对比。读长、均值 Q 等标注为示例数值(示意, 非实测)。关键词: trimming, quality, adapter, read</desc>
+  <defs>
+    <marker id="pp07__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+    </marker>
+  </defs>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Read Trimming: Before vs After</text>
+    <text x="300" y="65" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before Trimming</text>
+    <rect x="60" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="70" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="80" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="90" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="100" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="110" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="120" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="130" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="140" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="150" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="160" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="170" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="180" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="190" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="200" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="210" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="220" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="230" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="240" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="250" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="260" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="270" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="280" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="290" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="300" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="310" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="320" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="330" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="340" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="350" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="360" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="370" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="380" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="390" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="400" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="410" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="420" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="430" y="80" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="440" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="450" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="460" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="470" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="480" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="490" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="500" y="80" width="9" height="30" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="510" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="520" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="530" y="80" width="9" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3" />
+    <text x="300" y="155" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After Trimming</text>
+    <rect x="120" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="130" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="140" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="150" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="160" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="170" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="180" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="190" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="200" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="210" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="220" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="230" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="240" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="250" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="260" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="270" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="280" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="290" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="300" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="310" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="320" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="330" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="340" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="350" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="360" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="370" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="380" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="390" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="400" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="410" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="420" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="430" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="440" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="450" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="460" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="470" y="170" width="9" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3" />
+    <text x="100" y="190" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">✂</text>
+    <text x="485" y="190" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">✂</text>
+    <line x1="300" y1="120" x2="300" y2="145" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp07__ar)" />
+    <rect x="100" y="240" width="14" height="14" fill="#00857A" data-pp="metabolism" />
+    <text x="118" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">High Q (≥30)</text>
+    <rect x="260" y="240" width="14" height="14" fill="#E8871E" data-pp="mge" />
+    <text x="278" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Medium Q (20-30)</text>
+    <rect x="420" y="240" width="14" height="14" fill="#C42D2D" data-pp="alert" />
+    <text x="438" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Low Q (&lt;20) / Trimmed</text>
+    <text x="100" y="290" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before: 150 bp, mean Q = 25.3</text>
+    <text x="100" y="310" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After:  120 bp, mean Q = 34.1</text>
+  </g>
+</svg>

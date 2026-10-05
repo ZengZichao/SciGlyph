@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-allopatric_speciation d-allopatric_speciation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-allopatric_speciation">异域成种 / Allopatric Speciation</title>
+<desc id="d-allopatric_speciation">地理屏障分隔种群,两侧独立分化形成生殖隔离 关键词: allopatric, speciation, barrier, geographic, isolation</desc>
+<defs>
+<marker id="pp24__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Allopatric Speciation</text>
+<text x="80" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">① 连续种群</text>
+<rect x="40" y="58" width="160" height="55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
+<circle cx="55" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="85" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="115" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="175" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="55" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="85" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="115" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="175" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<line x1="210" y1="85" x2="250" y2="85" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__ar)"/>
+<text x="260" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">② 地理屏障</text>
+<rect x="255" y="58" width="65" height="55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
+<circle cx="270" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="270" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="325" y="55" width="20" height="62" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5"/>
+<text x="335" y="90" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">山</text>
+<rect x="350" y="58" width="65" height="55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
+<circle cx="365" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="390" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="365" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="390" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<line x1="425" y1="85" x2="455" y2="85" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__ar)"/>
+<text x="460" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">③ 分化</text>
+<rect x="455" y="58" width="60" height="55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.3"/>
+<circle cx="468" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="493" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="468" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="493" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="520" y="55" width="15" height="62" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1"/>
+<rect x="540" y="58" width="50" height="55" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" rx="0.3"/>
+<circle cx="550" cy="72" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="570" cy="72" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="550" cy="97" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="570" cy="97" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<text x="60" y="135" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">等位基因分化</text>
+<rect x="60" y="150" width="200" height="80" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="160" y="165" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">种群 A</text>
+<rect x="75" y="175" width="35" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="117" y="175" width="35" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="159" y="175" width="35" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="201" y="175" width="35" height="20" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="160" y="215" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p = 0.8</text>
+<rect x="310" y="150" width="200" height="80" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="410" y="165" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle" font-weight="bold">种群 B</text>
+<rect x="325" y="175" width="35" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="367" y="175" width="35" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="409" y="175" width="35" height="20" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="451" y="175" width="35" height="20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<text x="410" y="215" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p = 0.2</text>
+<text x="60" y="250" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">④ 二次接触 → 生殖隔离</text>
+<rect x="60" y="260" width="120" height="50" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
+<rect x="180" y="260" width="120" height="50" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
+<line x1="175" y1="265" x2="185" y2="305" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+<line x1="185" y1="265" x2="175" y2="305" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+<text x="180" y="325" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">生殖隔离</text>
+<rect x="340" y="255" width="230" height="70" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="455" y="272" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">隔离机制</text>
+<text x="360" y="290" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">交配行为差异</text>
+<text x="360" y="305" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">染色体不兼容</text>
+<text x="360" y="320" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">杂种不育</text>
+<rect x="60" y="345" width="480" height="40" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="365" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">达尔文雀 · 澳洲有袋类 · 大峡谷松鼠</text>
+<text x="300" y="380" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">地理隔离 → 遗传分化 → 生殖隔离</text>
+</g>
+</svg>

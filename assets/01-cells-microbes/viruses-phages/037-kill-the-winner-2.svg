@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-kill_the_winner d-kill_the_winner" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-kill_the_winner">杀死赢家动态 / Kill the winner phage host oscillation</title>
+  <desc id="d-kill_the_winner">噬菌体-宿主'杀死赢家'(Kill-the-Winner)动态：优势宿主种群被特异性噬菌体裂解后下降，稀有种群上升，维持多样性。Lotka-Volterra振荡模型。关键词: kill-the-winner, KtW, oscillation, diversity, Lotka-Volterra</desc>
+  <g id="layer-body-kill_the_winner" data-name="body">
+    <line x1="10" y1="80" x2="90" y2="80" stroke="#1B2733" data-pp="ink" stroke-width="1"/>
+    <line x1="10" y1="15" x2="10" y2="80" stroke="#1B2733" data-pp="ink" stroke-width="1"/>
+    <path d="M10,65 L20,45 L30,30 L35,35 L40,55 L50,70 L55,75 L60,60 L70,40 L80,30 L85,35 L90,50" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="2"/>
+    <path d="M10,75 L20,70 L30,60 L35,50 L40,40 L50,30 L55,35 L60,55 L70,70 L80,75 L85,65 L90,55" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-dasharray="3,1"/>
+    <line x1="12" y1="12" x2="22" y2="12" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5"/>
+    <line x1="40" y1="12" x2="50" y2="12" stroke="#5B8C3E" data-pp="virus" stroke-width="1.5" stroke-dasharray="3,1"/>
+    <polygon points="88,78 90,80 88,82" fill="#1B2733" data-pp="ink"/>
+    <polygon points="8,17 10,15 12,17" fill="#1B2733" data-pp="ink"/>
+  </g>
+  <g id="layer-annotation-kill_the_winner" data-name="annotation">
+    <text x="24" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">host</text>
+    <text x="52" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">phage</text>
+    <text x="82.14" y="90.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">time</text>
+  </g>
+</svg>

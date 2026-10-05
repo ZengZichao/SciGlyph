@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-rank_class d-rank_class" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-rank_class">Class</title>
+  <desc id="d-rank_class">Taxonomic rank: Class. Nested hierarchy visualization. 关键词: class, rank</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="10" width="80" height="70" rx="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <rect x="18" y="18" width="64" height="54" rx="3" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <rect x="26" y="26" width="48" height="38" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <rect x="34" y="34" width="32" height="22" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
+    <rect x="34" y="34" width="32" height="22" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1.5" data-pp="mge" fill-opacity="0.4"/>
+    <text x="50" y="50" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">Class</text>
+  <rect x="42" y="42" width="16" height="8" rx="1" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted"/><line x1="38" y1="38" x2="38" y2="52" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Class</text>
+  </g>
+</svg>

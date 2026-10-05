@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="单极鞭毛" data-name-en="Monotrichous flagellum" data-cat="02-structures" data-tags="单极鞭毛,鞭毛,极性着生,弧菌,假单胞菌" role="img" aria-labelledby="t-02-monotrichous d-02-monotrichous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02-monotrichous">单极鞭毛 / Monotrichous flagellum</title>
+  <desc id="d-02-monotrichous">单极鞭毛型：细胞一极端着生一根鞭毛，常见于弧菌属与假单胞菌属。关键词: 单极鞭毛, 鞭毛, 极性着生, 弧菌, 假单胞菌</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="20" y="42" width="56" height="36" rx="18" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M32 61C32 52 42 48 50 52C57 55 62 53 64 60C60 67 46 71 38 67C34 65 32 65 32 61Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="77" cy="60" r="4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M80 60C85 60 87 44 93 44C99 44 101 76 107 76C112 76 114 62 116 60" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+</g>
+</svg>

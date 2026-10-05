@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="生物修复" data-name-en="Bioremediation" data-cat="05-eco-seq" data-tags="生物修复,污染物降解,降解菌,酶,土壤修复,地下水" role="img" aria-labelledby="t-31-bioremediation d-31-bioremediation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31-bioremediation">生物修复 / Bioremediation</title>
+  <desc id="d-31-bioremediation">降解菌分泌酶系将油污等有机污染物逐步矿化，重金属则经价态转化与吸附固定，污染带沿地下水输移方向被生物过程逐步净化。关键词: 生物修复, 污染物降解, 降解菌, 酶, 土壤修复, 地下水</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 地表与土壤 -->
+  <path d="M5 30 Q30 24 60 29 T115 26 L115 114 L5 114 Z" fill="#DCEEE4" fill-opacity="0.4" stroke="none"/>
+  <path d="M5 30 Q30 24 60 29 T115 26" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M5 46 Q30 42 60 45 T115 43" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="4 3"/>
+  <path d="M5 78 Q40 74 70 77 T115 75" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 渗漏污染源 -->
+  <rect x="8" y="10" width="24" height="16" rx="2" fill="#7A8B93" fill-opacity="0.5" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M20 26 v4" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M18 33 c2 3 3 4 3 5 a3 3 0 0 1 -6 0 c0 -1 1 -2 3 -5 Z" fill="#2B3A42" stroke="none"/>
+  <path d="M14 44 q5 -4 10 0 q-5 4 -10 0 Z" fill="#2B3A42" fill-opacity="0.6" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M30 54 q6 -4 12 0 q-6 5 -12 0 Z" fill="#2B3A42" fill-opacity="0.6" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M12 62 q5 -4 10 0 q-5 4 -10 0 Z" fill="#C0504D" fill-opacity="0.4" stroke="#C0504D" stroke-width="1.2"/>
+  <circle cx="33" cy="66" r="3" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+  <circle cx="22" cy="76" r="2.4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+  <!-- 降解菌与分泌酶 -->
+  <rect x="48" y="58" width="30" height="14" rx="7" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M56 65 A8 6 0 0 0 70 65" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M78 63 C85 58 87 72 94 67" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="46" cy="56" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="80" cy="56" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="92" cy="58" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M45 59 L38 57 M80 59 L88 60" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 降解过程：污染物被分解 -->
+  <path d="M44 50 L40 46 M46 50 l-2 1" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M34 40 q5 -3 10 0 q-5 3 -10 0 Z" fill="#2B3A42" fill-opacity="0.4" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M34 34 l4 4 M38 34 l-4 4" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M90 40 q4 -3 8 0 q-4 3 -8 0 Z" fill="#2B3A42" fill-opacity="0.3" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M90 34 l4 4 M94 34 l-4 4" stroke="#C0504D" stroke-width="1.4"/>
+  <circle cx="100" cy="42" r="1.8" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="108" cy="38" r="1.6" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 修复后：植被恢复 -->
+  <path d="M100 26 v-10" stroke="#2E7D5B" stroke-width="1.6"/>
+  <path d="M100 22 C95 18 91 19 89 23 C93 26 97 25 100 22 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M100 18 C105 14 109 15 111 19 C107 22 103 21 100 18 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M100 26 C97 30 96 32 96 32 M100 26 C103 30 104 32 104 32" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M104 12 l2.6 0 l0 -2.6" stroke="#2E7D5B" stroke-width="1.6"/>
+  <!-- 地下水定向输移 -->
+  <path d="M8 100 H108 m-4 -3 l4 3 l-4 3" stroke="#1F6F8B" stroke-width="1.4" stroke-dasharray="5 3"/>
+  <path d="M6 92 q6 -4 12 0 q-6 4 -12 0 Z" fill="#B7D7E8" fill-opacity="0.7" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M70 92 q6 -4 12 0 q-6 4 -12 0 Z" fill="#B7D7E8" fill-opacity="0.7" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="56" y="106" width="20" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+</g>
+</svg>

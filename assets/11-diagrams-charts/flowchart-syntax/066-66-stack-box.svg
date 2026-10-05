@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="栈框" data-name-en="stack-box" data-cat="flowchart-logic" aria-labelledby="t-66 d-66" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-66">栈框 / stack_box</title>
+  <desc id="d-66">LIFO栈框。关键词: stack,lifo</desc>
+  <g id="g-66-栈框">
+    <rect x="30" y="10" width="60" height="60" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="35" y="50" width="50" height="14" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="35" y="34" width="50" height="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="35" y="18" width="50" height="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <line fill="none" x1="60" y1="2" x2="60" y2="10" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="56,6 60,0 64,6" fill="#1f2937"/>
+    <text x="60" y="78" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">LIFO</text>
+  </g>
+</svg>

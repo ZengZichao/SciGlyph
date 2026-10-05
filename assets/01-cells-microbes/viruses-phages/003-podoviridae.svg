@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-podoviridae d-podoviridae" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-podoviridae">短尾噬菌体 / Short-tail phage (podovirus)</title>
+  <desc id="d-podoviridae">有尾病毒纲 Caudoviricetes 短尾形态群，短而不收缩的尾部，含短尾纤维和尖端蛋白。旧称：Podoviridae 短尾噬菌体科、Caudovirales 目名均已废止。关键词: podovirus, T7-like, short tail</desc>
+  <g id="layer-body-podoviridae" data-name="body">
+    <!-- Head -->
+    <polygon points="50,10 65,18 65,35 50,43 35,35 35,18" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Short tail fibers -->
+    <line x1="44" y1="43" x2="40" y2="55" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="50" y1="43" x2="50" y2="56" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="56" y1="43" x2="60" y2="55" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Small spikes at fiber tips -->
+    <circle cx="40" cy="56" r="1.5" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="50" cy="57" r="1.5" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="60" cy="56" r="1.5" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-podoviridae" data-name="annotation">
+    <line x1="66.0" y1="47.9" x2="56.1" y2="47.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">short tail</text>
+  </g>
+</svg>

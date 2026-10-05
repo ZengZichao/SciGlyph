@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="锯齿电阻" data-name-en="resistor-zigzag" data-cat="physics-electronics" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01">锯齿电阻 / resistor_zigzag</title>
+  <desc id="d-01">锯齿形电阻符号（ANSI）。关键词: 电阻,锯齿,无源元件</desc>
+  <g id="g-01-锯齿电阻">
+    <line x1="10" y1="40" x2="25" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 25 40 L 30 30 L 40 50 L 50 30 L 60 50 L 70 30 L 80 50 L 85 40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="85" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

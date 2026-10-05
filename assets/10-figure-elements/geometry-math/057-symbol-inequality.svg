@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="不等号组" data-name-en="Symbol Inequality" data-cat="geometry-math" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-57">不等号组 / symbol_inequality</title>
+  <desc id="d-57">小于大于及带等号组。关键词: inequality,less,greater</desc>
+  <g id="g-57-不等号组">
+    <text x="13" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#0072B2" text-anchor="middle" data-drole="series-1">&lt;</text>
+    <text x="37" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#D55E00" text-anchor="middle" stroke-dasharray="6 3" data-drole="series-2">&gt;</text>
+    <text x="61" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#0072B2" text-anchor="middle" data-drole="series-1">≤</text>
+    <text x="85" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#D55E00" text-anchor="middle" stroke-dasharray="6 3" data-drole="series-2">≥</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="菌丝与孢子" data-name-en="Fungus Hyphae" data-cat="natural-sciences" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45">菌丝与孢子 / fungus_hyphae</title>
+  <desc id="d-45">展示真菌菌丝与孢子。关键词: fungus,hyphae,spore</desc>
+  <g id="g-45-菌丝与孢子">
+    <path d="M30,90 C40,80 50,85 60,75 C70,65 80,70 90,60 C100,50 110,55 120,45" fill="none" stroke="#009E73" stroke-width="3" stroke-linecap="round" data-drole="series-1"/>
+    <path d="M60,75 C55,85 50,90 45,95" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
+    <path d="M90,60 C95,70 100,75 105,80" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
+    <circle cx="125" cy="40" r="6" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="50" cy="98" r="5" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="108" cy="83" r="5" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

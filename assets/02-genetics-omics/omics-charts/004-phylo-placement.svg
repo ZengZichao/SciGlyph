@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="新分类单元放置" data-name-en="Novel Taxon Phylogenetic Placement" data-cat="05-eco-seq" data-tags="系统发育放置,新分类单元,最大似然,候选分支,似然权重" role="img" aria-labelledby="t-30-phylo-placement d-30-phylo-placement" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30-phylo-placement">新分类单元放置 / Novel Taxon Phylogenetic Placement</title>
+  <desc id="d-30-phylo-placement">将未知序列沿系统发育树的多个候选分支做最大似然放置（pplacer/EPA-ng 类方法），以似然权重条（LWR）表达放置位置的不确定性。关键词: 系统发育放置, 新分类单元, 最大似然, 候选分支, 似然权重</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 系统发育树 -->
+  <path d="M6 56 H22" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M22 56 C28 56 30 32 38 32" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M22 56 C28 56 30 80 38 80" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M38 32 C44 32 46 20 52 20" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M38 32 C44 32 46 44 52 44" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M38 80 C44 80 46 68 52 68" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M38 80 C44 80 46 92 52 92" stroke="#2B3A42" stroke-width="1.4"/>
+  <circle cx="52" cy="20" r="2.6" fill="#2E7D5B" stroke="none"/>
+  <circle cx="52" cy="44" r="2.6" fill="#2E7D5B" stroke="none"/>
+  <circle cx="52" cy="68" r="2.6" fill="#2E7D5B" stroke="none"/>
+  <circle cx="52" cy="92" r="2.6" fill="#2E7D5B" stroke="none"/>
+  <!-- 三个候选放置点 -->
+  <circle cx="46" cy="24" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="46" cy="40" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="30" cy="46" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="46" cy="24" r="7" fill="none" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M49 26 L58 20 M49 42 L58 40 M33 48 L58 56" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 似然/后验概率条 -->
+  <path d="M60 20 H88" stroke="#B57A17" stroke-width="3.4"/>
+  <path d="M60 40 H74" stroke="#E8B04B" stroke-width="3.4"/>
+  <path d="M60 56 H67" stroke="#7A8B93" stroke-width="3.4"/>
+  <path d="M60 20 V56" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 右侧连接总线：新分类单元指向各候选 -->
+  <path d="M93 104 H112 V14" stroke="#5B4B8A" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <path d="M112 20 H90 M112 40 H76 M112 56 H69" stroke="#5B4B8A" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <!-- 新分类单元（未培养原核生物） -->
+  <rect x="78" y="98" width="30" height="13" rx="6.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.6"/>
+  <path d="M85 104.5 A7 5 0 0 0 97 104.5" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M64 104 v-9 M59 100 l5 -5 l5 5 M59 108 l5 5 l5 -5" stroke="#B57A17" stroke-width="1.4"/>
+  <text x="64" y="86" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">新类群</text>
+  <!-- 置信区间阴影 -->
+  <path d="M38 32 a12 12 0 0 1 8 -10 L48 24 Z" fill="#E8B04B" fill-opacity="0.18" stroke="none"/>
+</g>
+</svg>

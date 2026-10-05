@@ -1,0 +1,23 @@
+{
+ "category": "03-metabolism-phenotype",
+ "name_zh": "代谢与生理表型",
+ "name_en": "Metabolism & Physiological Phenotype",
+ "count": 105,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "metabolism",
+   "name_zh": "代谢",
+   "name_en": "Metabolism",
+   "count": 67
+  },
+  {
+   "id": "phenotype",
+   "name_zh": "生理表型",
+   "name_en": "Physiological Phenotype",
+   "count": 38
+  }
+ ]
+}

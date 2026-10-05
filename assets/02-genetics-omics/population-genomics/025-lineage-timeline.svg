@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-lineage_timeline d-lineage_timeline" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lineage_timeline">谱系时间轴 / Lineage temporal timeline</title>
+  <desc id="d-lineage_timeline">谱系出现的时间轴。schematic, not to scale. 关键词: lineage, timeline, temporal</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="timeline">
+  <line x1="80" y1="200" x2="560" y2="200" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="100" y1="195" x2="100" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="100" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">1950</text>
+  <line x1="210" y1="195" x2="210" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="210" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">1970</text>
+  <line x1="320" y1="195" x2="320" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">1990</text>
+  <line x1="430" y1="195" x2="430" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="430" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">2010</text>
+  <line x1="507" y1="195" x2="507" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="507" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">2024</text>
+</g>
+<g data-name="lineages">
+  <rect x="100" y="80" width="300" height="20" fill="#2E86AB" fill-opacity="0.6" data-pp="bacteria" rx="3"/>
+  <text x="95" y="94" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L1</text>
+  <rect x="150" y="115" width="350" height="20" fill="#A2305B" fill-opacity="0.6" data-pp="archaea" rx="3"/>
+  <text x="145" y="129" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L2</text>
+  <rect x="200" y="150" width="250" height="20" fill="#6C3FA0" fill-opacity="0.6" data-pp="gene" rx="3"/>
+  <text x="195" y="164" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L3</text>
+  <rect x="280" y="185" width="250" height="20" fill="#00857A" fill-opacity="0.6" data-pp="metabolism" rx="3"/>
+  <text x="275" y="199" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L4</text>
+  <rect x="350" y="250" width="180" height="20" fill="#E8871E" fill-opacity="0.6" data-pp="mge" rx="3"/>
+  <text x="345" y="264" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L5</text>
+  <rect x="400" y="285" width="140" height="20" fill="#C42D2D" fill-opacity="0.6" data-pp="alert" rx="3"/>
+  <text x="395" y="299" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">L6</text>
+  <circle cx="507" cy="80" r="4" fill="#1B2733" data-pp="ink"/>
+  <circle cx="500" cy="285" r="4" fill="#1B2733" data-pp="ink"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Lineage Timeline — Temporal Distribution (schematic)</text>
+</svg>

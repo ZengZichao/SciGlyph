@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-archaellum_vs_flagellum d-archaellum_vs_flagellum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-archaellum_vs_flagellum">古鞭毛vs真细菌鞭毛 / Archaellum vs Bacterial Flagellum</title>
+  <desc id="d-archaellum_vs_flagellum">Side-by-side comparison. Archaellum: ATP-driven, type IV pilus homolog, Sec-dependent assembly (archaellin processed by FlaK). Bacterial: PMF-driven, flagellar type III secretion (fT3SS) assembly. 关键词: archaellum, ATPase, type IV pilus, PMF</desc>
+  
+  <g id="layer-body-archaellum_vs_flagellum" data-name="body">
+    <rect x="5" y="42" width="35" height="3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5" rx="1"/>
+    <rect x="20" y="8" width="4" height="34" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+    <ellipse cx="22" cy="48" rx="8" ry="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="10" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Archaellum</text>
+    <text x="10" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">ATP-driven</text>
+    <text x="10" y="86" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">T4P homolog</text>
+    <rect x="55" y="42" width="40" height="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" rx="1"/>
+    <rect x="72" y="5" width="6" height="37" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="0.5" rx="3"/>
+    <rect x="73" y="38" width="4" height="6" fill="#E8871E" data-pp="mge" rx="1" stroke="#1B2733" stroke-width="0.5"/>
+    <ellipse cx="75" cy="48" rx="10" ry="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <text x="58" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Flagellum</text>
+    <text x="56.1" y="78.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">PMF-driven</text>
+    <line x1="58.0" y1="83.9" x2="38.74" y2="90.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="38.74" y="93.55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">fT3SS assembly</text>
+      </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="50" y1="5" x2="50" y2="92" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,2" data-pp="muted"/>
+  </g>
+</svg>

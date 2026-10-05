@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-molecule-benzene" data-cat="ic" data-spec="24"
+     data-tags="icon,benzene,molecule,organic,chemistry" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">苯分子图标 / Icon Molecule Benzene</title>
+  <desc id="d">苯分子微型图标。</desc>
+  <g id="body">
+    <polygon points="12,4 18,8 18,16 12,20 6,16 6,8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="12" cy="12" r="4" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+  </g>
+</svg>

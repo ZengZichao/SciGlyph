@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-disk_diffusion d-disk_diffusion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-disk_diffusion">纸片扩散抑菌圈 / Kirby-Bauer disk diffusion zone</title>
+  <desc id="d-disk_diffusion">Kirby-Bauer纸片扩散法(K-B法)：含药纸片贴于接种平板→药物扩散形成浓度梯度→抑菌圈直径与敏感性相关。R/I/S三级判读。关键词: disk diffusion, Kirby-Bauer, zone of inhibition, antibiotic susceptibility, agar</desc>
+  <g id="layer-body-disk_diffusion" data-name="body">
+    <circle cx="50" cy="48" r="35" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.15"/>
+    <circle cx="30" cy="35" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="30" cy="35" r="12" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.6" stroke-dasharray="2,1"/>
+    <circle cx="60" cy="30" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="60" cy="30" r="18" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.6" stroke-dasharray="2,1"/>
+    <circle cx="55" cy="60" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="55" cy="60" r="8" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.6" stroke-dasharray="2,1"/>
+    <circle cx="30" cy="48" r="1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+    <circle cx="40" cy="55" r="1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+    <circle cx="70" cy="55" r="1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+    <circle cx="45" cy="40" r="1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+  </g>
+  <g id="layer-annotation-disk_diffusion" data-name="annotation">
+    <text x="62" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">S</text>
+    <text x="22" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">I</text>
+    <text x="58" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">R</text>
+  </g>
+</svg>

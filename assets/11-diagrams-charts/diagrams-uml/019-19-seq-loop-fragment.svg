@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="LOOP框" data-name-en="Seq Loop Fragment" data-cat="diagrams-sw-uml" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19">LOOP框 / seq_loop_fragment</title>
+  <desc id="d-19">时序图循环片段。关键词: loop,fragment,iteration</desc>
+  <g id="g-19-LOOP框">
+    <rect x="10" y="10" width="140" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="10" y="10" width="36" height="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="28" y="23" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle" font-weight="bold">LOOP</text>
+    <text x="16" y="42" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">[each]</text>
+    <line fill="none" x1="40" y1="50" x2="120" y2="50" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="125,50 117,46 117,54" fill="#1f2937"/>
+    <line fill="none" x1="120" y1="75" x2="40" y2="75" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <polygon points="35,75 43,71 43,79" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-tlc-chamber-development" data-cat="sp" data-spec="128"
+     data-tags="tlc,chamber,development,tank" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">层析缸 / TLC Development Chamber</title>
+  <desc id="d">层析缸，内含滤纸和展开剂液面</desc>
+  <g id="body"><path d="M24 20 L104 20 L104 108 Q104 116 96 116 L32 116 Q24 116 24 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M28 16 L100 16 L100 20 L28 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M26 80 L102 80 L102 106 Q102 114 96 114 L32 114 Q26 114 26 106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M48 30 L80 30 L80 100 L48 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 40 L76 40 M52 50 L76 50 M52 60 L76 60 M52 70 L76 70 M52 80 L76 80 M52 90 L76 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M52 80 L76 80 L76 100 L52 100 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

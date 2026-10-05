@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-cryoem d-cryoem" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cryoem">冷冻电镜cryo-EM / Cryo-EM vitrification 3D reconstruction</title>
+  <desc id="d-cryoem">冷冻电镜(cryo-EM)流程：样品快速冷冻(液态乙烷浴约-183°C，由-196°C液氮冷却)→玻璃态冰保持天然构象→TEM采集数千张投影→对齐平均→三维重构。近原子分辨率。关键词: cryo-EM, vitrification, single particle, 3D reconstruction, glass ice</desc>
+  <g id="layer-body-cryoem" data-name="body">
+    <!-- Sample preparation: vitrification -->
+    <rect x="10" y="10" width="25" height="15" rx="2" ry="2" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <text x="22" y="19" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">blot</text>
+    <!-- Liquid ethane -->
+    <rect x="10" y="28" width="25" height="10" rx="2" ry="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.3"/>
+    <text x="22" y="35" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">-183°C</text>
+    <!-- Arrow -->
+    <path d="M35,25 L45,25" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="43,23 47,25 43,27" fill="#1B2733" data-pp="ink"/>
+    <!-- Frozen sample grid -->
+    <rect x="48" y="15" width="15" height="20" rx="1" ry="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.2"/>
+    <circle cx="53" cy="22" r="1.5" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="58" cy="28" r="1.5" fill="#5B8C3E" data-pp="virus"/>
+    <!-- Arrow to reconstruction -->
+    <path d="M63,25 L72,25" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="70,23 74,25 70,27" fill="#1B2733" data-pp="ink"/>
+    <!-- 3D reconstruction -->
+    <circle cx="82" cy="25" r="10" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="75" y1="25" x2="89" y2="25" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="82" y1="18" x2="82" y2="32" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <!-- Many particles below -->
+    <text x="50" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1000s of images</text>
+    <text x="50" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ alignment → average</text>
+    <text x="50" y="66" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ 3D reconstruction</text>
+  </g>
+  <g id="layer-annotation-cryoem" data-name="annotation">
+    <text x="82" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">3D map</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="30.88" y="80.0">cryo-EM single</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="32.64" y="88.26">particle</text>
+  </g>
+</svg>

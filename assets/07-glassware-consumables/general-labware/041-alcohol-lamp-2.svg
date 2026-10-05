@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="酒精灯" data-name-en="alcohol_lamp" data-cat="lab-equipment" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-43">酒精灯 / alcohol_lamp</title>
+  <desc id="d-43">提供低温加热火焰。关键词: 酒精灯,lamp,加热,火焰</desc>
+  <g id="g-43-酒精灯">
+    <path d="M 35 55 L 30 100 Q 30 110 45 110 L 75 110 Q 90 110 90 100 L 85 55 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 32 75 L 30 100 Q 30 109 45 109 L 75 109 Q 90 109 90 100 L 88 75 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="32" y1="75" x2="88" y2="75" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="48" y="48" width="24" height="10" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="60" y1="48" x2="60" y2="35" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M 55 35 Q 55 15 60 10 Q 65 15 65 35 Z" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M 57 30 Q 58 18 60 14 Q 62 18 63 30 Z" fill="#D55E00" stroke="none" stroke-dasharray="2 2" data-drole="series-3"/>
+  </g>
+</svg>

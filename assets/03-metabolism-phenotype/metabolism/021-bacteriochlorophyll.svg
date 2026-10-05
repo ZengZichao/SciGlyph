@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-21_bacteriochlorophyll d-21_bacteriochlorophyll" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21_bacteriochlorophyll">细菌叶绿素 / Bacteriochlorophyll</title>
+  <desc id="d-21_bacteriochlorophyll">细菌叶绿素(BChl a/b/g)吸收近红外光。四吡咯大环+Mg中心。与真核叶绿素吸收光谱不同，使光合细菌占据不同生态位。图中标注的吸收峰位置因色素类型与菌株而异, 为示意值。关键词: BChl, near-infrared, light harvesting, 800-900nm</desc>
+  <g id="layer-body" data-name="body">
+    <polygon points="35,25 50,20 65,25 70,40 65,55 50,60 35,55 30,40" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.6"/>
+    <polygon points="40,30 50,26 60,30 63,40 60,50 50,54 40,50 37,40" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1"/>
+    <line x1="50" y1="26" x2="50" y2="54" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
+    <line x1="37" y1="40" x2="63" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
+    <circle cx="50" cy="40" r="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <rect x="15" y="70" width="6" height="15" fill="#00857A" data-pp="metabolism" fill-opacity="0.8"/>
+    <rect x="23" y="73" width="6" height="12" fill="#00857A" data-pp="metabolism" fill-opacity="0.6"/>
+    <rect x="31" y="76" width="6" height="9" fill="#00857A" data-pp="metabolism" fill-opacity="0.4"/>
+    <rect x="39" y="78" width="6" height="7" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="55" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">800nm</text>
+    <text x="60" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">NIR</text>
+    <text x="48" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="start">Mg</text>
+  </g>
+</svg>

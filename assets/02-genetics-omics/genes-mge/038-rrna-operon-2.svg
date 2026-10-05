@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-38_rrna_operon d-38_rrna_operon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38_rrna_operon">rRNA操纵子 / rRNA Operon (16S-23S-5S)</title>
+  <desc id="d-38_rrna_operon">rRNA操纵子: 16S-ITS-23S-ITS-5S。大肠杆菌7个rrn拷贝。ITS(内转录间隔区)用于分型。关键词: rRNA operon, 16S, 23S, 5S, ITS, rrn copy number</desc>
+  <g id="layer-body" data-name="body">
+        <rect x="5" y="40" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="15.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">16S</text>
+        <rect x="28" y="42" width="10" height="8" rx="1" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <text x="33.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ITS</text>
+        <rect x="41" y="40" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="51.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">23S</text>
+        <rect x="64" y="42" width="10" height="8" rx="1" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <text x="69.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ITS</text>
+        <rect x="77" y="40" width="15" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="84.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5S</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">7 rrn copies (E. coli)</text>
+    <text x="50" y="78" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">ITS for typing</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">tRNA in ITS</text>
+  </g>
+</svg>

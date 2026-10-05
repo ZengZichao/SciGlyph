@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>蒸发皿</title>
+  <path d="M3 12 Q3 18 12 19 Q21 18 21 12"/>
+  <path d="M3 12 Q12 10 21 12"/>
+  <path d="M3 12 L2 11" stroke-width="1"/>
+  <path d="M4 12.5 Q4 17 12 18 Q20 17 20 12.5" stroke-width="0.75"/>
+  <line x1="7" y1="19" x2="17" y2="19" stroke-width="0.75"/>
+  <path d="M8 15 Q12 16 16 15" stroke-width="0.75" stroke-dasharray="2 2"/>
+</svg>

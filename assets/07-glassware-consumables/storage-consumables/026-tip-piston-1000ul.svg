@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-tip-piston-1000ul" data-cat="cs" data-spec="128"
+     data-tags="tip,pipette,1000μL,disposable,cone" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">1000μL枪头 / 1000μL Pipette Tip</title>
+  <desc id="d">1000μL移液器枪头，长锥形。</desc>
+  <g id="body"><path d="M44 10 L44 30 L50 34 L56 110 L72 110 L78 34 L84 30 L84 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M58 60 L70 60 L72 110 L56 110 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/><path d="M50 34 L78 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

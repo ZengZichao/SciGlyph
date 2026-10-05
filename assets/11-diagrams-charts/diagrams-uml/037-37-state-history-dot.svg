@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="历史伪状态" data-name-en="State History Dot" data-cat="diagrams-sw-uml" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">历史伪状态 / state_history_dot</title>
+  <desc id="d-37">状态机历史(圆中点)伪状态。关键词: history,pseudostate,state</desc>
+  <g id="g-37-历史伪状态">
+    <circle cx="40" cy="40" r="14" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="40" cy="40" r="4" fill="#1f2937"/>
+    <text x="70" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="start">History</text>
+  </g>
+</svg>

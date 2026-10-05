@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="同心环" data-name-en="concentric-rings" data-cat="flowchart-logic" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33">同心环 / concentric_rings</title>
+  <desc id="d-33">同心圆环结构。关键词: concentric,rings</desc>
+  <g id="g-33-同心环">
+    <circle cx="80" cy="60" r="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="20" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="80" y="64" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">C</text>
+  </g>
+</svg>

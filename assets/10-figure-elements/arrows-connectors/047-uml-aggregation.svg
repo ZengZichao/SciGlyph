@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML聚合箭头" data-name-en="uml aggregation" data-cat="arrows-connectors" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">UML聚合箭头 / uml_aggregation</title>
+  <desc id="d-47">UML聚合关系菱形箭头。关键词: uml,aggregation,has-a,whole</desc>
+  <g id="g-47-UML聚合箭头">
+    <polygon points="20,40 30,32 40,40 30,48" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="40" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-20_dna_extraction d-20_dna_extraction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20_dna_extraction">DNA 抽提到建库流程 / DNA Extraction to Library Prep</title>
+  <desc id="d-20_dna_extraction">骨架流程：生物量→裂解→柱结合→洗涤→洗脱DNA→NanoDrop质控→建库→Bioanalyzer质控。输入：生物样本；输出：合格测序文库。 关键词: bioinformatics workflow, dna extraction, Library, Prep, NanoDrop, Bioanalyzer, Biomass, Lysis, skeleton template</desc>
+<defs>
+  <marker id="pp20__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp20__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp20__labels" data-name="labels">
+  <rect x="20" y="70" width="100" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="70.0" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Biomass</text>
+
+  <rect x="138" y="70" width="100" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="188.0" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Lysis</text>
+
+  <rect x="256" y="70" width="100" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="306.0" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Bind Column</text>
+
+  <rect x="374" y="70" width="100" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="424.0" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Wash</text>
+
+  <rect x="20" y="208" width="100" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="70.0" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Elute DNA</text>
+
+  <rect x="138" y="208" width="100" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="188.0" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">QC NanoDrop</text>
+
+  <rect x="256" y="208" width="100" height="48" rx="8" ry="8"
+        fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="306.0" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Lib Prep</text>
+
+  <rect x="374" y="208" width="100" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="424.0" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">QC Bioanalyzer</text>
+
+  <line x1="120" y1="94.0" x2="138" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <line x1="238" y1="94.0" x2="256" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <line x1="356" y1="94.0" x2="374" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <path d="M 424.0 118 L 424.0 163.0 L 70.0 163.0 L 70.0 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="120" y1="232.0" x2="138" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <line x1="238" y1="232.0" x2="256" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <line x1="356" y1="232.0" x2="374" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp20__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA Extraction to Library Prep</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Biomass</text>
+  <rect x="97" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="113" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Extraction</text>
+  <rect x="195" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="211" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA</text>
+  <rect x="244" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="260" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">QC</text>
+  </g>
+</svg>

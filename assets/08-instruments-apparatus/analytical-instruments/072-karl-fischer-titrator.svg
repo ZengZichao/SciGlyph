@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-karl-fischer-titrator" data-cat="an" data-spec="128"
+     data-tags="karl,fischer,titrator,moisture,water,content,coulometric" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">卡尔费休水分滴定仪 / Karl Fischer Titrator</title>
+  <desc id="d">卡尔费休库仑法/容量法水分滴定仪：滴定池、电极、搅拌器。</desc>
+  <g id="body">
+    <rect x="18" y="18" width="92" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="18" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<path d="M40 30 L40 80 Q40 88 48 88 L80 88 Q88 88 88 80 L88 30 Q88 26 84 26 L44 26 Q40 26 40 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M42 56 L86 56 L86 80 Q86 86 80 86 L48 86 Q42 86 42 80 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+<rect x="58" y="18" width="6" height="30" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="56" y="16" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<ellipse cx="64" cy="82" rx="8" ry="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M56 78 Q64 74 72 78" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+<line x1="74" y1="26" x2="74" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<polygon points="72,40 74,44 76,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="20" y="34" width="16" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="28" y="44" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">KF</text>
+    <text x="28" y="52" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0.05%</text>
+    <text x="64" y="100" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">KF Titrator</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

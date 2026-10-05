@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-37">LO/LO多样化线 / Lineage-through-time Plot</title>
+<desc id="d-37">LTT曲线: x轴为线性时间, y轴为ln(谱系数)；恒定速率=直线, 下凹=多样化速率下降, 95%置信带 关键词: LTT, lineage, diversification, through time</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="70.0" y1="330.0" x2="350.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="330.0" x2="70.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="210.0" y="355.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Time</text>
+<text x="45.0" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">ln(L)</text>
+<line x1="70.0" y1="330.0" x2="70.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="140.0" y1="330.0" x2="140.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="210.0" y1="330.0" x2="210.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="280.0" y1="330.0" x2="280.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="350.0" y1="330.0" x2="350.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="66.0" y1="330.0" x2="70.0" y2="330.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="66.0" y1="260.0" x2="70.0" y2="260.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="66.0" y1="190.0" x2="70.0" y2="190.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="66.0" y1="120.0" x2="70.0" y2="120.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="66.0" y1="50.0" x2="70.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="330.0" x2="350.0" y2="80.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="5,3" stroke-linecap="round"/>
+<text x="330.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Constant</text>
+<polygon points="70.0,315.0 79.7,281.8 89.3,264.8 99.0,250.9 108.6,238.8 118.3,227.9 127.9,217.9 137.6,208.4 147.2,199.6 156.9,191.1 166.6,183.0 176.2,175.3 185.9,167.8 195.5,160.5 205.2,153.5 214.8,146.7 224.5,140.0 234.1,133.5 243.8,127.2 253.4,121.0 263.1,115.0 272.8,109.0 282.4,103.2 292.1,97.5 301.7,91.8 311.4,86.3 321.0,80.9 330.7,75.5 340.3,70.2 350.0,65.0 350.0,95.0 340.3,100.2 330.7,105.5 321.0,110.9 311.4,116.3 301.7,121.8 292.1,127.5 282.4,133.2 272.8,139.0 263.1,145.0 253.4,151.0 243.8,157.2 234.1,163.5 224.5,170.0 214.8,176.7 205.2,183.5 195.5,190.5 185.9,197.8 176.2,205.3 166.6,213.0 156.9,221.1 147.2,229.6 137.6,238.4 127.9,247.9 118.3,257.9 108.6,268.8 99.0,280.9 89.3,294.8 79.7,311.8 70.0,345.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12"/>
+<polyline points="70.0,330.0 79.7,296.8 89.3,279.8 99.0,265.9 108.6,253.8 118.3,242.9 127.9,232.9 137.6,223.4 147.2,214.6 156.9,206.1 166.6,198.0 176.2,190.3 185.9,182.8 195.5,175.5 205.2,168.5 214.8,161.7 224.5,155.0 234.1,148.5 243.8,142.2 253.4,136.0 263.1,130.0 272.8,124.0 282.4,118.2 292.1,112.5 301.7,106.8 311.4,101.3 321.0,95.9 330.7,90.5 340.3,85.2 350.0,80.0" fill="none" stroke="#2E86AB" stroke-width="2.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="70.0,315.0 79.7,281.8 89.3,264.8 99.0,250.9 108.6,238.8 118.3,227.9 127.9,217.9 137.6,208.4 147.2,199.6 156.9,191.1 166.6,183.0 176.2,175.3 185.9,167.8 195.5,160.5 205.2,153.5 214.8,146.7 224.5,140.0 234.1,133.5 243.8,127.2 253.4,121.0 263.1,115.0 272.8,109.0 282.4,103.2 292.1,97.5 301.7,91.8 311.4,86.3 321.0,80.9 330.7,75.5 340.3,70.2 350.0,65.0" fill="none" stroke="#2E86AB" stroke-width="0.8" data-pp="bacteria" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="70.0,345.0 79.7,311.8 89.3,294.8 99.0,280.9 108.6,268.8 118.3,257.9 127.9,247.9 137.6,238.4 147.2,229.6 156.9,221.1 166.6,213.0 176.2,205.3 185.9,197.8 195.5,190.5 205.2,183.5 214.8,176.7 224.5,170.0 234.1,163.5 243.8,157.2 253.4,151.0 263.1,145.0 272.8,139.0 282.4,133.2 292.1,127.5 301.7,121.8 311.4,116.3 321.0,110.9 330.7,105.5 340.3,100.2 350.0,95.0" fill="none" stroke="#2E86AB" stroke-width="0.8" data-pp="bacteria" stroke-dasharray="3,2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="200.0" y="30.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">LTT Plot</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Concave = slowdown</text>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="梭形菌" data-name-en="Fusiform" data-cat="01-morphology" data-tags="梭形菌,fusiform,梭形,两端尖,纺锤形" role="img" aria-labelledby="t-09-fusiform d-09-fusiform" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09-fusiform">梭形菌 / Fusiform</title>
+  <desc id="d-09-fusiform">中部膨大、两端逐渐收尖的纺锤形细胞，梭杆菌属与梭形菌属的典型形态。关键词: 梭形菌, fusiform, 梭形, 两端尖, 纺锤形</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 14,60 C 32,30 88,30 106,60 C 88,90 32,90 14,60 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+    <rect x="36" y="52" width="48" height="16" rx="8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+    <circle cx="24" cy="60" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+    <circle cx="96" cy="60" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-high_pressure d-high_pressure" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-high_pressure">High pressure</title>
+  <desc id="d-high_pressure">High-pressure environment with converging pressure arrows and piezophile cell 关键词: pressure, piezophile, deep</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="10" width="90" height="75" rx="2" fill="#1B2733" stroke="none" stroke-width="0" data-pp="ink" fill-opacity="0.1"/>
+    <line x1="5" y1="30" x2="20" y2="40" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="5" y1="50" x2="20" y2="50" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="5" y1="70" x2="20" y2="60" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="95" y1="30" x2="80" y2="40" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="95" y1="50" x2="80" y2="50" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="95" y1="70" x2="80" y2="60" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="30" y1="10" x2="40" y2="25" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="70" y1="10" x2="60" y2="25" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <path d="M18,38 L22,40 L18,42" fill="#C42D2D" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>
+    <path d="M82,38 L78,40 L82,42" fill="#C42D2D" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>
+    <ellipse cx="50" cy="50" rx="12" ry="8" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria" fill-opacity="0.5"/>
+    <circle cx="46" cy="48" r="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="54" cy="52" r="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">High pressure</text>
+  </g>
+</svg>

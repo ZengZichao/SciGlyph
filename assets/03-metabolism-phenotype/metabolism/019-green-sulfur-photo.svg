@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-19_green_sulfur_photo d-19_green_sulfur_photo" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19_green_sulfur_photo">绿硫细菌光合 / Green Sulfur Photosynthesis</title>
+  <desc id="d-19_green_sulfur_photo">绿硫细菌以环式光磷酸化产能；非环式电子流(H2S→Fd→NAD⁺)供还原力。单光系统(PSI型/FeS型)。关键词: green sulfur bacteria, non-cyclic, FeS-type RC</desc>
+  <defs>
+    <marker id="pp19__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <line x1="5" y1="60" x2="95" y2="60" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+    <line x1="5" y1="75" x2="95" y2="75" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+        <rect x="30" y="62" width="18" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="39.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PSI</text>
+        <rect x="58" y="62" width="14" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="65.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Fd</text>
+        <circle cx="39" cy="35" r="7" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+    <text x="39" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">hν</text>
+        <circle cx="10" cy="67" r="6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="10" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H₂S</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="39" y1="42" x2="39" y2="61" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
+        <line x1="48" y1="67" x2="58" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
+        <line x1="16" y1="67" x2="30" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
+    <text x="75" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NAD⁺</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">non-cyclic, H₂S→S⁰</text>
+  </g>
+</svg>

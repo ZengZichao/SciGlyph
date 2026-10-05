@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-amyloid_pilus_fim d-amyloid_pilus_fim" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-amyloid_pilus_fim">curli淀粉样纤维 / Curli amyloid fibers</title>
+  <desc id="d-amyloid_pilus_fim">Curli (CsgA/CsgB 编码) 淀粉样胞外纤维，介导生物被膜附着与基质成网。(FimA 属 I 型菌毛，为另一种结构。) 关键词: curli, CsgA, amyloid, biofilm, adhesive</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="22" cy="50" rx="12" ry="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M34.0,44.0 L36.6,46.5 L39.3,47.9 L41.9,47.7 L44.5,45.9 L47.2,43.3 L49.8,41.1 L52.4,40.0 L55.1,40.7 L57.7,42.7 L60.3,45.3 L62.9,47.3 L65.6,48.0 L68.2,46.9 L70.8,44.7 L73.5,42.1 L76.1,40.3 L78.7,40.1 L81.4,41.5 L84.0,44.0" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <path d="M34.0,50.0 L36.6,52.5 L39.3,53.9 L41.9,53.7 L44.5,51.9 L47.2,49.3 L49.8,47.1 L52.4,46.0 L55.1,46.7 L57.7,48.7 L60.3,51.3 L62.9,53.3 L65.6,54.0 L68.2,52.9 L70.8,50.7 L73.5,48.1 L76.1,46.3 L78.7,46.1 L81.4,47.5 L84.0,50.0" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <path d="M34.0,56.0 L36.6,58.5 L39.3,59.9 L41.9,59.7 L44.5,57.9 L47.2,55.3 L49.8,53.1 L52.4,52.0 L55.1,52.7 L57.7,54.7 L60.3,57.3 L62.9,59.3 L65.6,60.0 L68.2,58.9 L70.8,56.7 L73.5,54.1 L76.1,52.3 L78.7,52.1 L81.4,53.5 L84.0,56.0" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <circle cx="86" cy="44" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="86" cy="50" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="86" cy="56" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="45" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">curli</text>
+    <line x1="72.0" y1="69.9" x2="64.78" y2="69.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="64.78" y="72.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">adhesive</text>
+    <text x="45" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">amyloid</text>
+
+  </g>
+</svg>

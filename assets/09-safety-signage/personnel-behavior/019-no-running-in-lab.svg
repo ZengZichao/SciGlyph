@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-no-running-in-lab" data-cat="pp" data-spec="128"
+     data-tags="running,prohibited,lab,safety,walking" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止奔跑 / No Running in Lab</title>
+  <desc id="d">实验室内禁止奔跑。</desc>
+  
+  <g id="figure"><circle cx="52" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M42 28 L40 56 L36 68 L46 68 L48 56 L56 68 L66 68 L58 56 L62 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M40 56 L26 82 L36 82 L48 60 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 56 L72 82 L82 82 L64 60 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M62 32 L76 26 L80 32 L66 36 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M42 32 L28 38 L26 44 L40 40 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="prop"><circle cx="54" cy="50" r="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M32 28 L76 72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

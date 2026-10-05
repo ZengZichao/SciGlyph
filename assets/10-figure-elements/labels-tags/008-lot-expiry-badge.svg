@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-lot-expiry-badge" data-cat="lb" data-spec="160"
+     data-tags="lot,expiry,badge,batch,manufacturing,date" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">批号效期徽章 / Lot Expiry Badge</title>
+  <desc id="d">批号效期徽章。</desc>
+  <g id="body">
+    <circle cx="80" cy="48" r="38" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="80" cy="48" r="32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="38" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">LOT</text>
+    <text x="80" y="50" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">A1234</text>
+    <line x1="56" y1="54" x2="104" y2="54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="64" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="stroke">EXP: 2026-12</text>
+  </g>
+</svg>

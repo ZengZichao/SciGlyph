@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-16">支持值显示: 条形 / Support Values: bars</title>
+<desc id="d-16">节点上方支持值竖条5档, 阈值横线 关键词: support, bars, threshold</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="205.0" x2="90.0" y2="205.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="205.0" x2="90.0" y2="142.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="80.0" x2="150.0" y2="80.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="142.5" x2="150.0" y2="142.5" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="205.0" x2="90.0" y2="267.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="205.0" x2="150.0" y2="205.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="267.5" x2="90.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="267.5" x2="150.0" y2="267.5" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="330.0" x2="150.0" y2="330.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="150.0" cy="80.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="142.5" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="205.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="267.5" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="330.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<rect x="86.0" y="155.0" width="8.0" height="50.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="98.0" y="158.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">100</text>
+<rect x="86.0" y="95.0" width="8.0" height="47.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="98.0" y="98.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">95</text>
+<rect x="86.0" y="230.0" width="8.0" height="37.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="98.0" y="233.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">75</text>
+<rect x="86.0" y="52.5" width="8.0" height="27.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="98.0" y="55.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">55</text>
+<rect x="86.0" y="315.0" width="8.0" height="15.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="98.0" y="318.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">30</text>
+<line x1="70.0" y1="170.0" x2="120.0" y2="170.0" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4,2" stroke-linecap="round"/>
+<text x="125.0" y="173.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">70%</text>
+<text x="260.0" y="80.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Bar height</text>
+<rect x="260.0" y="110.0" width="8.0" height="50.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="280.0" y="157.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">100</text>
+<rect x="260.0" y="170.0" width="8.0" height="47.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="280.0" y="214.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">95</text>
+<rect x="260.0" y="230.0" width="8.0" height="37.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="280.0" y="264.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">75</text>
+<rect x="260.0" y="280.0" width="8.0" height="27.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="280.0" y="304.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">55</text>
+<rect x="260.0" y="320.0" width="8.0" height="15.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="0.5"/>
+<text x="280.0" y="332.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">30</text>
+<line x1="250.0" y1="100.0" x2="250.0" y2="340.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-linecap="round"/>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Bar height &#8745; support value</text>
+</g>
+</svg>

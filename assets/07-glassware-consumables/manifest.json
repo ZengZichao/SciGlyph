@@ -1,0 +1,35 @@
+{
+ "category": "07-glassware-consumables",
+ "name_zh": "器皿·耗材与通用器材",
+ "name_en": "Glassware, Consumables & General Labware",
+ "count": 244,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "glassware",
+   "name_zh": "玻璃器皿",
+   "name_en": "Glassware",
+   "count": 94
+  },
+  {
+   "id": "storage-consumables",
+   "name_zh": "储存与耗材",
+   "name_en": "Storage & Consumables",
+   "count": 62
+  },
+  {
+   "id": "hardware-tools",
+   "name_zh": "支架与工具",
+   "name_en": "Hardware & Tools",
+   "count": 41
+  },
+  {
+   "id": "general-labware",
+   "name_zh": "通用器材",
+   "name_en": "General Labware",
+   "count": 47
+  }
+ ]
+}

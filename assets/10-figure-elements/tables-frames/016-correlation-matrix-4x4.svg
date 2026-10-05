@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="相关矩阵" data-name-en="correlation-matrix-4x4" data-cat="tables-frames" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">相关矩阵 / correlation_matrix_4x4</title>
+  <desc id="d-16">4x4相关系数矩阵。关键词: 相关矩阵,相关系数,对称矩阵</desc>
+  <g id="g-16-相关矩阵">
+    <text x="100" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X1</text>
+    <text x="160" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X2</text>
+    <text x="220" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X3</text>
+    <text x="280" y="50" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X4</text>
+    <text x="50" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X1</text>
+    <text x="100" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">—</text>
+    <text x="160" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.8</text>
+    <text x="220" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.3</text>
+    <text x="280" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.1</text>
+    <text x="50" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X2</text>
+    <text x="100" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.8</text>
+    <text x="160" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">—</text>
+    <text x="220" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.5</text>
+    <text x="280" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.2</text>
+    <text x="50" y="136" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X3</text>
+    <text x="100" y="136" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.3</text>
+    <text x="160" y="136" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.5</text>
+    <text x="220" y="136" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">—</text>
+    <text x="280" y="136" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.7</text>
+    <text x="50" y="164" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X4</text>
+    <text x="100" y="164" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.1</text>
+    <text x="160" y="164" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.2</text>
+    <text x="220" y="164" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0.7</text>
+    <text x="280" y="164" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">—</text>
+    <line x1="40" y1="30" x2="295" y2="30" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="60" x2="295" y2="60" stroke="#6b7280" stroke-width="0.75" fill="none"/>
+    <line x1="40" y1="195" x2="295" y2="195" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

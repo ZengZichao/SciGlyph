@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-tupanvirus d-tupanvirus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-tupanvirus">Tupanvirus巨病毒 / Tupanvirus giant virus</title>
+  <desc id="d-tupanvirus">Tupanvirus，Mimiviridae科巨病毒(NCLDV)，2018年分离自巴西碱湖，深海亦有发现。二十面体衣壳(约450nm)上加极长的尾状结构(约500nm)，总长约1.2um，感染阿米巴。含内部脂质膜、致密核心与纤维冠，基因组携带大量翻译相关基因。关键词: Tupanvirus, giant virus, Mimiviridae, NCLDV, long tail</desc>
+  <g id="layer-body-tupanvirus" data-name="body">
+    <!-- Icosahedral capsid -->
+    <polygon points="50,63 63,70.5 63,85.5 50,93 37,85.5 37,70.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Internal membrane + dense core -->
+    <ellipse cx="50" cy="78" rx="9.5" ry="8" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="1"/>
+    <circle cx="46.5" cy="75.5" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="53.5" cy="80.5" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Long tail structure (~500 nm), Tupanvirus hallmark -->
+    <rect x="45.5" y="22" width="9" height="41" rx="2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="50" y1="24" x2="50" y2="61" stroke="#1B2733" data-pp="ink" stroke-width="0.6" stroke-dasharray="2,2"/>
+    <!-- Tail-tip fibers -->
+    <line x1="50" y1="22" x2="42" y2="13" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="50" y1="22" x2="50" y2="10" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="50" y1="22" x2="58" y2="13" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-tupanvirus" data-name="annotation">
+    <text x="58.0" y="32.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">long tail</text>
+    <text x="60.82" y="39.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">~500nm</text>
+    <text x="66" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">capsid</text>
+    <text x="24" y="97" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Tupanvirus</text>
+  </g>
+</svg>

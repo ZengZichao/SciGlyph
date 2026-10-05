@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-aluminum-block" data-cat="hc" data-spec="128"
+     data-tags="aluminum,block,heating,incubation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">铝块加热器 / Aluminum Heating Block</title>
+  <desc id="d">铝制加热块，用于恒温孵育</desc>
+  <g id="body"><path d="M24 50 L104 50 L104 108 Q104 116 96 116 L32 116 Q24 116 24 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M28 46 L100 46 L100 50 L28 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><circle cx="40" cy="56" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="56" cy="56" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="72" cy="56" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="88" cy="56" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="40" cy="56" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="56" cy="56" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="72" cy="56" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="88" cy="56" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M30 72 L98 72 L98 76 L30 76 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 84 L98 84 L98 88 L30 88 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

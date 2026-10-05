@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="终端显示" data-name-en="terminal-display" data-cat="flowchart-logic" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">终端显示 / terminal_display</title>
+  <desc id="d-16">终端显示输出。关键词: flowchart,terminal,display</desc>
+  <g id="g-16-终端显示">
+    <path d="M12,15 L85,15 Q108,40 85,65 L12,65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="50" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Display</text>
+  </g>
+</svg>

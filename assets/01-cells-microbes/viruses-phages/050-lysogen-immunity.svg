@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-lysogen_immunity d-lysogen_immunity" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lysogen_immunity">溶原菌免疫示意 / Lysogen dual immunity prophage CRISPR</title>
+  <desc id="d-lysogen_immunity">溶原菌双重免疫：前噬菌体cI阻遏+CRISPR-Cas系统(含噬菌体来源spacer)共同防御同源噬菌体感染。关键词: lysogen, immunity, prophage, CRISPR, dual defense, superinfection, CI, lysogeny</desc>
+  <g id="layer-body-lysogen_immunity" data-name="body">
+    <rect x="10" y="25" width="55" height="30" rx="15" ry="15" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="20" y="35" width="18" height="6" rx="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.8"/>
+    <line x1="20" y1="38" x2="38" y2="38" stroke="#6C3FA0" data-pp="gene" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <ellipse cx="48" cy="38" rx="5" ry="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <line x1="38" y1="38" x2="43" y2="38" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+    <line x1="43" y1="35" x2="43" y2="41" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+    <rect x="15" y="46" width="30" height="4" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="80" cy="35" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <path d="M78,33 Q80,31 82,33" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="0.5"/>
+    <line x1="65" y1="30" x2="73" y2="40" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+    <line x1="73" y1="30" x2="65" y2="40" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+  </g>
+  <g id="layer-annotation-lysogen_immunity" data-name="annotation">
+    <text x="22" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">lysogeny</text>
+    <text x="44" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="start">CI</text>
+    <text x="69.12" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">blocked</text>
+  </g>
+</svg>

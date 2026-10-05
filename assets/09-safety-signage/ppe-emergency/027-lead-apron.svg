@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>铅防护服</title>
+  <path d="M8 5 L6 7 L6 21 L18 21 L18 7 L16 5"/>
+  <path d="M8 5 Q12 3 16 5"/>
+  <line x1="12" y1="7" x2="12" y2="21"/>
+  <path d="M6 7 Q3 7 3 9 L3 12 Q3 14 6 14"/>
+  <path d="M18 7 Q21 7 21 9 L21 12 Q21 14 18 14"/>
+</svg>

@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="皮肤菌群" data-name-en="Skin Microbiome" data-cat="05-eco-seq" data-tags="皮肤菌群,表皮,毛囊,皮脂腺,汗孔" role="img" aria-labelledby="t-10-skin-microbiome d-10-skin-microbiome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-10-skin-microbiome">皮肤菌群 / Skin Microbiome</title>
+  <desc id="d-10-skin-microbiome">葡萄球菌成簇与棒状杆菌定殖于角质层、毛囊和皮脂腺周围，依赖皮脂与汗液维持群落稳定。关键词: 皮肤菌群, 表皮, 毛囊, 皮脂腺, 汗孔</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 真皮层 -->
+  <path d="M6 92 H114 V113 H6 Z" fill="#F6DADA" fill-opacity="0.35" stroke="#C0504D" stroke-width="1.2"/>
+  <path d="M6 103 H114" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 表皮层 -->
+  <path d="M6 68 H114 V92 H6 Z" fill="#E8B04B" fill-opacity="0.3" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 角质层（片状脱落细胞） -->
+  <rect x="6" y="54" width="29" height="14" rx="4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <rect x="31" y="53" width="31" height="14" rx="4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <rect x="59" y="54" width="29" height="14" rx="4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <rect x="85" y="53" width="29" height="14" rx="4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M6 54 Q30 51 60 54 T114 53" stroke="#7A8B93" stroke-width="1.4"/>
+  <!-- 皮脂膜 -->
+  <path d="M6 50 Q30 47 60 50 T114 49" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.7"/>
+  <!-- 毛囊与毛发 -->
+  <path d="M62 106 C62 82 66 54 68 34 L80 34 C82 54 80 82 80 106" fill="#DCEEE4" fill-opacity="0.4" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M74 106 C74 78 74 40 74 7" stroke="#2B3A42" stroke-width="2.4"/>
+  <!-- 皮脂腺 -->
+  <path d="M54 68 c-7 0 -9 5 -7 8 c-6 2 -6 8 0 9 c2 4 9 3 9 -2 c4 -3 2 -9 -2 -9 c0 -4 -2 -6 0 -6 Z" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M54 78 H64" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 汗腺与汗孔 -->
+  <path d="M28 100 C22 88 24 74 30 62 C34 54 34 48 32 42" stroke="#1F6F8B" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <circle cx="30" cy="102" r="5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M32 42 c4 4 5 6 5 8 a4 4 0 0 1 -8 0 c0 -2 1 -4 3 -8 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 皮肤表面菌群：葡萄球菌成簇 -->
+  <circle cx="14" cy="46" r="3.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="19" cy="42" r="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="23" cy="47" r="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="18" cy="51" r="2.6" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 棒状杆菌（带串珠状颗粒） -->
+  <rect x="88" y="44" width="20" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="93" cy="47.5" r="1.3" fill="#1F6F8B" stroke="none"/>
+  <circle cx="98" cy="47.5" r="1.3" fill="#1F6F8B" stroke="none"/>
+  <circle cx="103" cy="47.5" r="1.3" fill="#1F6F8B" stroke="none"/>
+  <rect x="40" y="40" width="16" height="6" rx="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="45" cy="43" r="1.2" fill="#1F6F8B" stroke="none"/>
+  <circle cx="50" cy="43" r="1.2" fill="#1F6F8B" stroke="none"/>
+  <!-- 皮纹 -->
+  <path d="M6 74 Q20 71 40 74 T76 74 T114 74" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M6 84 Q25 81 50 84 T114 84" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 深层毛囊周围菌 -->
+  <rect x="86" y="74" width="18" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="12" cy="78" r="3.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+</g>
+</svg>

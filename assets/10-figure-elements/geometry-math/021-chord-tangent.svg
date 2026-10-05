@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="弦与切线" data-name-en="Chord Tangent" data-cat="geometry-math" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">弦与切线 / chord_tangent</title>
+  <desc id="d-21">圆中弦与切线示意。关键词: chord,tangent,circle</desc>
+  <g id="g-21-弦与切线">
+    <circle cx="55" cy="55" r="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="55" cy="55" r="2" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="25" y1="75" x2="85" y2="35" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line fill="none" x1="15" y1="95" x2="95" y2="95" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="59" y="50" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">O</text>
+  </g>
+</svg>

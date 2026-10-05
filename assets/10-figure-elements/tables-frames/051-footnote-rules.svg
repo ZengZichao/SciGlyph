@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="脚注分隔线组" data-name-en="footnote-rules" data-cat="tables-frames" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-51">脚注分隔线组 / footnote_rules</title>
+  <desc id="d-51">脚注分隔线组合。关键词: 脚注,分隔线,注释</desc>
+  <g id="g-51-脚注分隔线组">
+    <rect x="30" y="20" width="260" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="160" y="75" font-size="11" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Content</text>
+    <line x1="30" y1="140" x2="120" y2="140" stroke="#1f2937" stroke-width="0.75" fill="none"/>
+    <text x="30" y="160" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">*p&lt;0.05</text>
+    <line x1="30" y1="175" x2="100" y2="175" stroke="#1f2937" stroke-width="0.75" fill="none"/>
+    <text x="30" y="195" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">**p&lt;0.01</text>
+    <line x1="30" y1="210" x2="80" y2="210" stroke="#1f2937" stroke-width="0.75" fill="none"/>
+    <text x="30" y="228" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">n=30</text>
+  </g>
+</svg>

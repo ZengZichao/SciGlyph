@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="一分为二节点" data-name-en="merge-split-node" data-cat="flowchart-logic" aria-labelledby="t-69 d-69" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-69">一分为二节点 / merge_split_node</title>
+  <desc id="d-69">合并分流菱形节点。关键词: merge,split,diamond</desc>
+  <g id="g-69-一分为二节点">
+    <polygon points="60,10 100,40 60,70 20,40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="40" x2="20" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="100" y1="25" x2="112.82" y2="17.12" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="100" y1="55" x2="112.82" y2="62.88" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="119,13 114.83,20.15 110.8,14.09" fill="#1f2937"/>
+    <polygon points="119,67 110.8,65.91 114.83,59.85" fill="#1f2937"/>
+  </g>
+</svg>

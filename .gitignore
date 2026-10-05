@@ -1,0 +1,38 @@
+# ===== macOS =====
+.DS_Store
+._*
+
+# ===== Windows =====
+Thumbs.db
+desktop.ini
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ===== 本地工具与插件的会话缓存（不属于素材库内容）=====
+.mimosa/
+.v2c/
+.video_agent/
+.mimosa-scan/
+
+# ===== 渲染中间与可重建产物（可由 tools/ 脚本重建）=====
+**/dist/theme-*/
+**/preview/*/_thumbs/
+.qa/
+**/dist/*.zip
+deep2.json
+**/dist/en/
+qa/render/thumbs/
+qa/render/sheets/
+qa/render/en-spot/
+
+# ===== Node（质检脚本的可选依赖）=====
+node_modules/
+package-lock.json
+qa/
+
+# ===== 本地工具与插件的会话缓存 =====
+.zcodeignore

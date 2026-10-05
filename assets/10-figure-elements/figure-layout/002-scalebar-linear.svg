@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-02_scalebar_linear d-02_scalebar_linear" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02_scalebar_linear">线性标尺 / Linear 0-100</title>
+  <desc id="d-02_scalebar_linear">线性比例尺 0-100。骨架，配合条形图/百分比使用。关键词: scalebar, linear, percent</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="10" y1="40" x2="90" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="35" x2="10" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="30" y1="37" x2="30" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="50" y1="35" x2="50" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="70" y1="37" x2="70" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="90" y1="35" x2="90" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <text x="10" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0</text>
+    <text x="50" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50</text>
+    <text x="90" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">100</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Linear 0-100</text>
+  </g>
+</svg>

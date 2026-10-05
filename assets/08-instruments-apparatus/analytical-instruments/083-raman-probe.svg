@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-raman-probe" data-cat="an" data-spec="128" data-tags="raman,probe,spectroscopy,laser,scattering,fiber,notch" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">拉曼光谱探头 / Raman Probe</title>
+  <desc id="d">拉曼光谱探头：激发激光、聚焦透镜、样品散射、收集光纤。</desc>
+  <g id="body">
+    <rect x="18" y="20" width="92" height="88" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="18" y="20" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="24" y="36" width="14" height="10" rx="3" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger" />
+    <text x="31" y="44" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Laser</text>
+<rect x="44" y="34" width="4" height="14" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="46" y="30" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Notch</text>
+<ellipse cx="58" cy="41" rx="3" ry="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="66" y="34" width="14" height="14" rx="2" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
+    <text x="71.59" y="53.01" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<line x1="73" y1="34" x2="73" y2="26" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round" />
+<line x1="70" y1="34" x2="66" y2="26" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round" />
+<line x1="76" y1="34" x2="80" y2="26" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round" />
+<path d="M73 26 Q73 22 68 22 L50 22 Q46 22 46 26 L46 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="38" y1="41" x2="44" y2="41" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="48" y1="41" x2="55" y2="41" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="61" y1="41" x2="66" y2="41" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+    <polygon points="50,38 62,41 50,44" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="24" y="62" width="64" height="22" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M28 80 L34 78 L38 74 L40 68 L42 80 L48 80 L52 76 L54 72 L56 80 L62 80 L66 78 L70 80 L76 76 L80 80 L84 80" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent" />
+    <text x="57.41" y="60.99" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Raman</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

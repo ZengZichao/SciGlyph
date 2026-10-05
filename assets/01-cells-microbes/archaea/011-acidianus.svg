@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-acidianus d-acidianus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-acidianus">酸菌 / Acidianus</title>
+  <desc id="d-acidianus">Irregular lobed coccus with peritrichous flagella and sulfur granules (schematic). Thermoproteota, thermoacidophile. 关键词: Acidianus, irregular, sulfur granule, thermoacidophile</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M30,42 Q26,50 30,58 Q35,67 48,68 Q60,67 67,58 Q72,48 67,40 Q60,34 48,34 Q35,35 30,42 Z" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+    <circle cx="42" cy="48" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="52" cy="55" r="2.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="48" cy="42" r="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <path d="M68.0,50.0 L69.1,48.1 L70.3,49.1 L71.4,51.6 L72.6,51.6 L73.7,49.1 L74.9,48.1 L76.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.2,69.0 L56.4,69.5 L55.7,70.9 L53.8,72.8 L54.1,73.9 L56.8,74.2 L58.2,74.9 L56.7,76.6" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M31.8,61.8 L32.0,64.0 L30.5,63.8 L28.1,62.5 L27.2,63.2 L27.7,65.8 L27.4,67.4 L25.3,66.5" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M31.8,38.2 L29.7,39.2 L29.5,37.6 L30.0,35.0 L29.0,34.3 L26.7,35.6 L25.1,35.8 L25.3,33.5" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.2,31.0 L52.7,29.3 L54.1,28.5 L56.7,28.2 L57.1,27.1 L55.1,25.3 L54.4,23.9 L56.7,23.4" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="52" y1="55" x2="78" y2="72" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <line x1="68.0" y1="75.9" x2="56.1" y2="75.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="78.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">S0 granule</text>
+    <text x="20" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Thermoproteota</text>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-sample-chain-of-custody-tag" data-cat="lb" data-spec="160"
+     data-tags="sample,chain-of-custody,tag,barcode,signature,tracking" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">样品封存流转标签 / Sample Chain of Custody Tag</title>
+  <desc id="d">样品封存流转标签，编号+条码+签名线。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="16" y="24" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" data-ls="stroke">SAMPLE ID:</text>
+    <line x1="16" y1="28" x2="144" y2="28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="16" y="36" width="2" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="20" y="36" width="1" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="23" y="36" width="3" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="28" y="36" width="1" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="31" y="36" width="2" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="35" y="36" width="1" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="38" y="36" width="3" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="43" y="36" width="2" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="47" y="36" width="1" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="50" y="36" width="2" height="20" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="16" y="66" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="stroke">COLLECTED BY:</text>
+    <line x1="16" y1="70" x2="80" y2="70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="86" y="66" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="stroke">DATE:</text>
+    <line x1="86" y1="70" x2="144" y2="70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

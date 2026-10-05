@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-sarcina d-sarcina" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sarcina">八叠球菌 / Sarcina</title>
+  <desc id="d-sarcina">八个球菌经三个互相垂直的分裂面排列成2×2×2立方体包(八叠球包)。关键词: sarcina, cuboidal packet, 2x2x2</desc>
+
+  <g id="layer-body-1" data-name="body">
+    <circle cx="41" cy="27" r="11" fill="#2E86AB" fill-opacity="0.45" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/><circle cx="63" cy="27" r="11" fill="#2E86AB" fill-opacity="0.45" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/><circle cx="41" cy="49" r="11" fill="#2E86AB" fill-opacity="0.45" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/><circle cx="63" cy="49" r="11" fill="#2E86AB" fill-opacity="0.45" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="30" cy="38" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="52" cy="38" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="30" cy="60" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="52" cy="60" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="85" y1="18" x2="92" y2="10" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="68.0" y1="5.9" x2="60.44" y2="5.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="8.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">2×2×2 (8)</text>
+  </g>
+</svg>

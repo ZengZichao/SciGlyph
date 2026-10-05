@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-spill-kit-solvent" data-cat="sf" data-spec="128"
+     data-tags="spill kit,solvent,organic,absorbent,bag" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">溶剂溢洒处理箱 / Spill Kit Solvent</title>
+  <desc id="d">有机溶剂溢洒处理套件，含吸附材料和防化袋。</desc>
+  <g id="body"><rect x="16" y="32" width="96" height="72" rx="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M16 48 L112 48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><rect x="24" y="56" width="36" height="20" rx="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <rect x="68" y="56" width="28" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+     <path d="M24 84 L56 84 L56 96 L24 96 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M68 84 L96 84 L96 96 L68 96 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+</svg>

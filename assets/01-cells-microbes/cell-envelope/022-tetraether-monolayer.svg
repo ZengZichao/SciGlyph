@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-tetraether_monolayer d-tetraether_monolayer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-tetraether_monolayer">古菌单分子层 / Tetraether monolayer</title>
+  <desc id="d-tetraether_monolayer">古菌四醚bolalipid单分子层vs双分子层对照。关键词: tetraether, bolalipid, monolayer, bilayer</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <rect x="10" y="25" width="35" height="50" rx="5" fill="#A2305B" fill-opacity="0.2" stroke="#A2305B" stroke-width="1.5" data-pp="archaea"/><line x1="15" y1="25" x2="15" y2="75" stroke="#A2305B" stroke-width="1.5" data-pp="archaea"/><line x1="22" y1="25" x2="22" y2="75" stroke="#A2305B" stroke-width="1.5" data-pp="archaea"/><line x1="29" y1="25" x2="29" y2="75" stroke="#A2305B" stroke-width="1.5" data-pp="archaea"/><line x1="36" y1="25" x2="36" y2="75" stroke="#A2305B" stroke-width="1.5" data-pp="archaea"/><rect x="55" y="25" width="35" height="50" rx="5" fill="#2E86AB" fill-opacity="0.2" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="60" y1="25" x2="60" y2="48" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="67" y1="25" x2="67" y2="48" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="74" y1="25" x2="74" y2="48" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="60" y1="52" x2="60" y2="75" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="67" y1="52" x2="67" y2="75" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/><line x1="74" y1="52" x2="74" y2="75" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <text x="15" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">mono-</text><text x="15" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">layer</text><text x="62" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">bi-</text><text x="62" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">layer</text>
+  </g>
+</svg>

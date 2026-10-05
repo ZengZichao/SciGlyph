@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="小倍数网格" data-name-en="Facet Grid 2x2" data-cat="charts-plots" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-60">小倍数网格 / facet_grid_2x2</title>
+  <desc id="d-60">2x2小倍数面板网格。关键词: facet,grid,small,multiples</desc>
+  <g id="g-60-小倍数网格">
+    <line x1="40" y1="25" x2="40" y2="140" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="40" y1="140" x2="190" y2="140" stroke="#1f2937" stroke-width="0.75"/>
+    <polyline points="40,91 70,94 100,57 130,111 160,97 190,101" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <text x="45" y="37" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280">A</text>
+    <line x1="210" y1="25" x2="210" y2="140" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="210" y1="140" x2="360" y2="140" stroke="#1f2937" stroke-width="0.75"/>
+    <polyline points="210,67 240,107 270,59 300,103 330,89 360,93" fill="none" stroke="#009E73" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="215" y="37" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280">B</text>
+    <line x1="40" y1="160" x2="40" y2="275" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="40" y1="275" x2="190" y2="275" stroke="#1f2937" stroke-width="0.75"/>
+    <polyline points="40,192 70,243 100,257 130,235 160,206 190,226" fill="none" stroke="#E69F00" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="45" y="172" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280">C</text>
+    <line x1="210" y1="160" x2="210" y2="275" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="210" y1="275" x2="360" y2="275" stroke="#1f2937" stroke-width="0.75"/>
+    <polyline points="210,209 240,209 270,228 300,233 330,204 360,181" fill="none" stroke="#D55E00" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="215" y="172" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280">D</text>
+  </g>
+</svg>

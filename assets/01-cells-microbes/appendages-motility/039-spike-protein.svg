@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-spike_protein d-spike_protein" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-spike_protein">刺突蛋白 / Spike Protein</title>
+  <desc id="d-spike_protein">Surface spike proteins for host recognition. 关键词: spike protein, surface protein, host recognition</desc>
+  
+  <g id="layer-body-spike_protein" data-name="body">
+    <circle cx="50" cy="55" r="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="68.0" y1="55.0" x2="78.0" y2="55.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="78.0" cy="55.0" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="63.8" y1="66.6" x2="71.4" y2="73.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="71.4" cy="73.0" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="53.1" y1="72.7" x2="54.9" y2="82.6" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="54.9" cy="82.6" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="41.0" y1="70.6" x2="36.0" y2="79.2" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="36.0" cy="79.2" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="33.1" y1="61.2" x2="23.7" y2="64.6" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="23.7" cy="64.6" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="33.1" y1="48.8" x2="23.7" y2="45.4" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="23.7" cy="45.4" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="41.0" y1="39.4" x2="36.0" y2="30.8" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="36.0" cy="30.8" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="53.1" y1="37.3" x2="54.9" y2="27.4" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="54.9" cy="27.4" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="63.8" y1="43.4" x2="71.4" y2="37.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="71.4" cy="37.0" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="60" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">spike</text>
+  </g>
+</svg>

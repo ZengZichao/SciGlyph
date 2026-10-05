@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-46">树+共现网络 / Tree+Network Panel Template</title>
+<desc id="d-46">树叠加灰色共现网络边冲突边橙色虚线树网冲突可视化 关键词: tree, network, co-occurrence, conflict, overlay</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="90.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="125.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="50.0" x2="150.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="50.0" x2="220.0" y2="50.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="150.0" y1="50.0" x2="150.0" y2="125.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="125.0" x2="220.0" y2="125.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="275.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="220.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="275.0" x2="90.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="275.0" x2="220.0" y2="275.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="350.0" x2="220.0" y2="350.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="220.0" cy="50.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="220.0" cy="125.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="220.0" cy="200.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="220.0" cy="275.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="220.0" cy="350.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<line x1="220.0" y1="50.0" x2="220.0" y2="125.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="200.0" x2="220.0" y2="275.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="275.0" x2="220.0" y2="350.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="125.0" x2="220.0" y2="200.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+<line x1="220.0" y1="50.0" x2="220.0" y2="350.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+<circle cx="260.0" cy="87.5" r="5.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" stroke-width="1"/>
+<circle cx="260.0" cy="312.5" r="5.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" stroke-width="1"/>
+<line x1="220.0" y1="50.0" x2="260.0" y2="87.5" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="125.0" x2="260.0" y2="87.5" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="275.0" x2="260.0" y2="312.5" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-linecap="round"/>
+<line x1="220.0" y1="350.0" x2="260.0" y2="312.5" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-linecap="round"/>
+<text x="50.0" y="370.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Legend:</text>
+<line x1="95.0" y1="370.0" x2="125.0" y2="370.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<text x="130.0" y="374.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Agree</text>
+<line x1="175.0" y1="370.0" x2="205.0" y2="370.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+<text x="210.0" y="374.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Conflict</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Gray=agree, orange=conflict</text>
+</g>
+</svg>

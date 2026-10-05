@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="隔膜结构" data-name-en="Septum" data-cat="01-morphology" data-tags="隔膜,septum,分裂面,肽聚糖,周质,结构放大" role="img" aria-labelledby="t-30-septum d-30-septum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30-septum">隔膜结构 / Septum</title>
+  <desc id="d-30-septum">分裂时在菌体中段形成的隔膜，含肽聚糖层与两侧原生质膜，局部放大展示其构造。关键词: 隔膜, septum, 分裂面, 肽聚糖, 周质, 结构放大</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="12" y="22" width="96" height="38" rx="19" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+    <g fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4">
+      <rect x="22" y="32" width="28" height="18" rx="9"/>
+      <rect x="70" y="32" width="28" height="18" rx="9"/>
+    </g>
+    <rect x="56" y="18" width="8" height="46" rx="2" fill="#1F6F8B"/>
+    <path d="M 60,18 L 60,64" fill="none" stroke="#B7D7E8" stroke-width="1.4"/>
+    <path d="M 57,64 L 48,74 M 63,64 L 72,74" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+    <circle cx="60" cy="90" r="18" fill="none" stroke="#7A8B93" stroke-width="1.4"/>
+    <path d="M 50,80 L 50,100 M 52,80 L 52,100 M 68,80 L 68,100 M 70,80 L 70,100" fill="none" stroke="#2E7D5B" stroke-width="1.4"/>
+    <path d="M 53.4,81 L 53.4,99 M 66.6,81 L 66.6,99" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 2"/>
+    <rect x="55" y="78" width="10" height="24" rx="1.5" fill="#1F6F8B"/>
+    <path d="M 60,80 L 60,100" fill="none" stroke="#B7D7E8" stroke-width="1.2"/>
+  </g>
+</svg>

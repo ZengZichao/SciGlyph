@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-biohazard-waste-bag" data-cat="sf" data-spec="128"
+     data-tags="biohazard,waste bag,medical waste,infectious,yellow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">医废袋 / Biohazard Waste Bag</title>
+  <desc id="d">生物危害废物袋，黄色带生物危害标识。</desc>
+  <g id="body"><path d="M36 28 Q32 28 30 36 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L98 36 Q96 28 92 28 Z" fill="#F5A623" opacity="0.4" stroke="none" data-ls="warn"/>
+     <path d="M36 28 Q32 28 30 36 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L98 36 Q96 28 92 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M44 28 L48 16 L80 16 L84 28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><circle cx="64" cy="68" r="20" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="56" cy="62" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="72" cy="62" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="64" cy="76" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
+     <path d="M60 58 L64 52 L68 58" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+</svg>

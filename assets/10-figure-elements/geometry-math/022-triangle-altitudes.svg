@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="三角形三条高" data-name-en="Triangle Altitudes" data-cat="geometry-math" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22">三角形三条高 / triangle_altitudes</title>
+  <desc id="d-22">三条高线用虚线标出。关键词: triangle,altitude,geometry</desc>
+  <g id="g-22-三角形三条高">
+    <polygon points="20,100 100,100 50,15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <line fill="none" x1="50" y1="15" x2="50" y2="100" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <line fill="none" x1="20" y1="100" x2="79" y2="65" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <line fill="none" x1="100" y1="100" x2="29" y2="75" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <text x="14" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="106" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="50" y="11" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+  </g>
+</svg>

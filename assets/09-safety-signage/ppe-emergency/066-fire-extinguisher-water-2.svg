@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-fire-extinguisher-water" data-cat="sf" data-spec="128"
+     data-tags="fire extinguisher,water,silver,class A" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">水基灭火器 / Fire Extinguisher Water</title>
+  <desc id="d">水基型灭火器，银色瓶体，适用A类火灾。</desc>
+  <g id="body"><rect x="40" y="36" width="48" height="76" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <rect x="48" y="24" width="32" height="16" rx="4" fill="#33414F" stroke="none" data-ls="dark"/>
+     <path d="M56 24 L56 16 L72 16 L72 24" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M72 20 L86 16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M50 56 Q64 48 78 56 Q64 64 50 56 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <rect x="48" y="76" width="32" height="16" rx="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M48 36 Q36 36 32 44 L30 60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

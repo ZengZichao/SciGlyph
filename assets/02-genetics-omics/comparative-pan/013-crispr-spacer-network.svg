@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-crispr_spacer_network d-crispr_spacer_network" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-crispr_spacer_network">CRISPR spacer 共享网络 / CRISPR spacer sharing network</title>
+  <desc id="d-crispr_spacer_network">宿主间CRISPR spacer共享网络。schematic, not to scale. 关键词: CRISPR, spacer, network</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="shared-spacers">
+  <line x1="150" y1="150" x2="400" y2="120" stroke="#5B8C3E" stroke-width="2.4" data-pp="virus"/>
+  <text x="275.0" y="127.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">3 spacers</text>
+  <line x1="150" y1="150" x2="150" y2="300" stroke="#5B8C3E" stroke-width="4.0" data-pp="virus"/>
+  <text x="150.0" y="217.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">5 spacers</text>
+  <line x1="400" y1="120" x2="400" y2="300" stroke="#5B8C3E" stroke-width="1.6" data-pp="virus"/>
+  <text x="400.0" y="202.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">2 spacers</text>
+  <line x1="150" y1="300" x2="400" y2="300" stroke="#5B8C3E" stroke-width="3.2" data-pp="virus"/>
+  <text x="275.0" y="292.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">4 spacers</text>
+</g>
+<g data-name="host-nodes">
+  <circle cx="150" cy="150" r="30" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host"/>
+  <text x="150" y="154" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Host A</text>
+  <circle cx="400" cy="120" r="30" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host"/>
+  <text x="400" y="124" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Host B</text>
+  <circle cx="150" cy="300" r="30" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host"/>
+  <text x="150" y="304" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Host C</text>
+  <circle cx="400" cy="300" r="30" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host"/>
+  <text x="400" y="304" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Host D</text>
+  <circle cx="275" cy="210" r="25" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host"/>
+  <text x="275" y="214" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Host E</text>
+</g>
+<g data-name="extra-edges">
+  <line x1="275" y1="210" x2="150" y2="150" stroke="#5B8C3E" stroke-width="2.0" data-pp="virus"/>
+  <line x1="275" y1="210" x2="400" y2="300" stroke="#5B8C3E" stroke-width="1.2" data-pp="virus"/>
+  <line x1="275" y1="210" x2="150" y2="300" stroke="#5B8C3E" stroke-width="2.8" data-pp="virus"/>
+</g>
+<g data-name="legend">
+  <circle cx="510" cy="60" r="8" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="1.5" data-pp="host"/>
+  <rect x="525" y="55" width="30" height="3" fill="#5B8C3E" data-pp="virus"/>
+  <rect x="525" y="72" width="30" height="6" fill="#5B8C3E" data-pp="virus"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">CRISPR Spacer Sharing Network (schematic)</text>
+<text x="300" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Edge width ~ number of shared spacers</text>
+</svg>

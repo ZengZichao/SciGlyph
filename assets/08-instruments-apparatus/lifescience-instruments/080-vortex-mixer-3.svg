@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-vortex-mixer" data-cat="ls" data-spec="128"
+     data-tags="vortex,mixer,mixing,eccentric,motor,cup,rpm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">涡旋振荡器 / Vortex Mixer</title>
+  <desc id="d">涡旋混合器：偏心马达、橡胶杯座、调速旋钮。</desc>
+  <g id="body">
+<rect x="28" y="68" width="72" height="36" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="68" width="72" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<circle cx="64" cy="58" r="14" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="64" cy="58" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="64" cy="58" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M54 50 Q58 46 62 50" fill="#2B7DE9" opacity="0.5" stroke="none" stroke-width="1.2" data-ls="accent"/>
+<path d="M66 50 Q70 46 74 50" fill="#2B7DE9" opacity="0.5" stroke="none" stroke-width="1.2" data-ls="accent"/>
+<path d="M56 66 Q60 70 64 66" fill="#2B7DE9" opacity="0.5" stroke="none" stroke-width="1.2" data-ls="accent"/>
+<rect x="60" y="24" width="8" height="28" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="62" y="34" width="4" height="14" rx="1" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+<circle cx="44" cy="82" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<line x1="44" y1="82" x2="44" y2="76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="44" y="96" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Speed</text>
+<rect x="72" y="78" width="16" height="8" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="84" cy="82" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="80" y="92" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mode</text>
+    <rect x="34" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="84" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

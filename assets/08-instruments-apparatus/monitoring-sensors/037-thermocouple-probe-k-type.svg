@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-thermocouple-probe-k-type" data-cat="mt" data-spec="128"
+     data-tags="thermocouple,k-type,probe,temperature,热电偶,K型" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">K型热电偶探头 / K-Type Thermocouple Probe</title>
+  <desc id="d">热电偶探头+补偿导线+接头。</desc>
+  <g id="body"><path d="M24 64 L56 64" stroke="#E8EDF2" stroke-linecap="round" stroke-width="4" data-ls="body"/>
+    <path d="M24 64 L56 64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/>
+    <circle cx="22" cy="64" r="4" fill="#E02020" stroke="#1F2933" stroke-width="1.5" data-ls="danger" data-ls-stroke="stroke"/>
+    <rect x="56" y="56" width="32" height="16" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M88 60 L108 56 M88 68 L108 72" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2" data-ls="danger"/>
+    <rect x="106" y="50" width="14" height="28" rx="3" fill="#33414F" stroke="#1F2933" stroke-width="1.5" data-ls="dark" data-ls-stroke="stroke"/>
+    <text x="113" y="68" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">K</text></g>
+  <g id="detail"></g>
+</svg>

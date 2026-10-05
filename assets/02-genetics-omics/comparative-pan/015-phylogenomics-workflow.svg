@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-phylogenomics_workflow d-phylogenomics_workflow" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-phylogenomics_workflow">系统发育基因组学流程 / Phylogenomics workflow</title>
+  <desc id="d-phylogenomics_workflow">系统发育基因组学分析流程。schematic, not to scale. 关键词: workflow, phylogenomics, pipeline</desc>
+  
+<defs><marker id="pp15__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/></marker></defs>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="workflow-steps">
+  <rect x="20" y="175" width="80" height="50" fill="#2E86AB" fill-opacity="0.2" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" rx="5"/>
+  <text x="60" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genomes</text>
+  <line x1="100" y1="200" x2="140" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp15__ar)"/>
+  <rect x="140" y="175" width="80" height="50" fill="#6C3FA0" fill-opacity="0.2" stroke="#6C3FA0" stroke-width="2" data-pp="gene" rx="5"/>
+  <text x="180" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Orthologs</text>
+  <line x1="220" y1="200" x2="260" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp15__ar)"/>
+  <rect x="260" y="175" width="80" height="50" fill="#00857A" fill-opacity="0.2" stroke="#00857A" stroke-width="2" data-pp="metabolism" rx="5"/>
+  <text x="300" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Alignment</text>
+  <line x1="340" y1="200" x2="380" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp15__ar)"/>
+  <rect x="380" y="175" width="80" height="50" fill="#A2305B" fill-opacity="0.2" stroke="#A2305B" stroke-width="2" data-pp="archaea" rx="5"/>
+  <text x="420" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Tree</text>
+  <line x1="460" y1="200" x2="500" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp15__ar)"/>
+  <rect x="500" y="175" width="80" height="50" fill="#E8871E" fill-opacity="0.2" stroke="#E8871E" stroke-width="2" data-pp="mge" rx="5"/>
+  <text x="540" y="205" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Analysis</text>
+  
+  
+  
+  
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Phylogenomics Workflow (schematic)</text>
+<text x="300" y="320" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Genomes → Orthologs → Alignment → Tree → Analysis</text>
+</svg>

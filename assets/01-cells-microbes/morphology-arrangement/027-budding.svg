@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="芽殖" data-name-en="Budding" data-cat="01-morphology" data-tags="芽殖,budding,出芽,不等分裂,芽痕,母细胞" role="img" aria-labelledby="t-27-budding d-27-budding" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27-budding">芽殖 / Budding</title>
+  <desc id="d-27-budding">母细胞一侧长出小芽后脱离，母体留下芽痕，子代大小悬殊，属不等分裂。关键词: 芽殖, budding, 出芽, 不等分裂, 芽痕, 母细胞</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="88" cy="56" r="14" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+    <circle cx="50" cy="62" r="27" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+    <path d="M 78.2,48.4 L 81,66.2" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+    <path d="M 21.9,55.1 L 24.1,68.9" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+    <circle cx="46" cy="62" r="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+    <circle cx="88" cy="56" r="5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+    <circle cx="38" cy="50" r="3.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+    <circle cx="56" cy="76" r="2.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  </g>
+</svg>

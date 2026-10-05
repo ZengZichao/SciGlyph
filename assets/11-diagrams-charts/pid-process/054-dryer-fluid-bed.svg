@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-dryer-fluid-bed" data-cat="uo" data-spec="128"
+     data-tags="dryer,fluid-bed,distributor,granulation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">流化床干燥器 / Fluid Bed Dryer</title>
+  <desc id="d">流化床干燥器，底部进气分布板。</desc>
+  <g id="body">
+    <path d="M30,18 L30,86 Q30,104 64,104 Q98,104 98,86 L98,18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="30" y1="80" x2="98" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="44" cy="50" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="56" cy="42" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="68" cy="54" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="80" cy="46" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="50" cy="64" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="74" cy="68" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="104" x2="64" y2="118" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,112 60,106 68,106" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="8" x2="64" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,14 60,20 68,20" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

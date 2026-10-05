@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-test-tube" data-cat="gl" data-spec="128"
+     data-tags="test tube,glass,reaction,heating,sample" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试管 / Test Tube</title>
+  <desc id="d">普通试管，圆底，用于少量反应与加热。</desc>
+  <g id="body"><path d="M48 10 L48 100 Q48 116 64 116 Q80 116 80 100 L80 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M50 60 L78 60 L78 100 Q78 114 64 114 Q50 114 50 100 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M50 60 L78 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

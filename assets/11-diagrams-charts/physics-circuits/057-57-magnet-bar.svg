@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="条形磁铁" data-name-en="magnet-bar" data-cat="physics-electronics" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-57">条形磁铁 / magnet_bar</title>
+  <desc id="d-57">条形磁铁NS极与磁感线。关键词: 磁铁,条形,磁场</desc>
+  <g id="g-57-条形磁铁">
+    <rect x="100" y="100" width="120" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <rect x="100" y="100" width="60" height="40" fill="#D55E00" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <text x="130" y="125" font-size="14" fill="#ffffff" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">N</text>
+    <text x="190" y="125" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">S</text>
+    <path d="M 100 100 Q 160 30 220 100" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M 100 140 Q 160 210 220 140" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M 154 60.5 L 162 65 L 154 69.5" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M 154 170.5 L 162 175 L 154 179.5" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+  </g>
+</svg>

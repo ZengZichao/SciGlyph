@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-eating-drinking-prohibited" data-cat="pp" data-spec="128"
+     data-tags="eating,drinking,prohibited,food,forbidden" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">饮食禁止 / Eating Drinking Prohibited</title>
+  <desc id="d">实验室内禁止饮食。</desc>
+  
+  <g id="figure"><circle cx="48" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 32 L36 74 L30 116 L42 116 L48 84 L54 116 L66 116 L60 74 L58 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 38 L68 44 L70 56 L66 58 L66 48 L58 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M38 38 L28 44 L26 56 L32 56 L32 48 L38 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M72 36 L82 36 L80 56 L74 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M86 40 L96 40 L94 52 L88 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M86 40 L96 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="81" cy="46" r="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M67 32 L95 60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

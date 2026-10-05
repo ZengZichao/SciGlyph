@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="斑马纹隔行浅灰" data-name-en="table-zebra-stripes" data-cat="tables-frames" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-10">斑马纹隔行浅灰 / table_zebra_stripes</title>
+  <desc id="d-10">斑马纹隔行变色表格。关键词: 斑马纹,隔行变色,表格样式</desc>
+  <g id="g-10-斑马纹隔行浅灰">
+    <line x1="40" y1="40" x2="280" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="65" x2="280" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="200" x2="280" y2="200" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="100" y="57" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X</text>
+    <text x="180" y="57" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Y</text>
+    <text x="240" y="57" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Z</text>
+    <text x="100" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+    <text x="180" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
+    <text x="240" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <rect x="40" y="88" width="240" height="20" fill="#e5e7eb"/>
+    <text x="100" y="100" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
+    <text x="180" y="100" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <text x="240" y="100" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <text x="100" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <text x="180" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <text x="240" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <rect x="40" y="128" width="240" height="20" fill="#e5e7eb"/>
+    <text x="100" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <text x="180" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <text x="240" y="140" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6</text>
+    <text x="100" y="160" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <text x="180" y="160" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6</text>
+    <text x="240" y="160" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">7</text>
+    <rect x="40" y="168" width="240" height="20" fill="#e5e7eb"/>
+    <text x="100" y="180" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6</text>
+    <text x="180" y="180" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">7</text>
+    <text x="240" y="180" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">8</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>微量离心管</title>
+  <path d="M9 6 L9 17 L12 22 L15 17 L15 6"/>
+  <path d="M8 6 Q8 3 12 2 Q16 3 16 6"/>
+  <path d="M8 6 L16 6"/>
+  <path d="M9.5 17 L12 21 L14.5 17" stroke-width="0.75"/>
+  <path d="M9 8 L9 9" stroke-width="0.75"/>
+  <path d="M15 8 L15 9" stroke-width="0.75"/>
+  <path d="M10 10 h4" stroke-width="0.75"/>
+  <path d="M10 13 h4" stroke-width="0.75"/>
+</svg>

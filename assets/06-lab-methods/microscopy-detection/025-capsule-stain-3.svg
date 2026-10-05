@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-capsule_stain d-capsule_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-capsule_stain">墨汁荚膜染色 / India ink capsule negative stain</title>
+  <desc id="d-capsule_stain">墨汁荚膜染色(负染)：背景黑色(墨汁)，荚膜透明(不着色 halo)，菌体可复染。用于Cryptococcus等鉴定。关键词: capsule stain, India ink, negative stain, halo, Cryptococcus</desc>
+  <g id="layer-body-capsule_stain" data-name="body">
+    <rect x="5" y="5" width="90" height="80" rx="5" fill="#1B2733" data-pp="ink" fill-opacity="0.85"/>
+    <circle cx="35" cy="42" r="18" fill="#F4F1EA" data-pp="bg" stroke="none"/>
+    <circle cx="65" cy="50" r="15" fill="#F4F1EA" data-pp="bg" stroke="none"/>
+    <circle cx="35" cy="42" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="65" cy="50" r="5" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="50" cy="30" r="3" fill="#1B2733" data-pp="ink" fill-opacity="0.5"/>
+    <circle cx="25" cy="60" r="2" fill="#1B2733" data-pp="ink" fill-opacity="0.5"/>
+    <circle cx="75" cy="35" r="2.5" fill="#1B2733" data-pp="ink" fill-opacity="0.5"/>
+  </g>
+  <g id="layer-annotation-capsule_stain" data-name="annotation">
+    <text x="28" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="start">capsule halo</text>
+  </g>
+</svg>

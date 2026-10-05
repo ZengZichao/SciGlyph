@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="台式离心机" data-name-en="centrifuge" data-cat="lab-equipment" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50">台式离心机 / centrifuge</title>
+  <desc id="d-50">离心分离固液混合。关键词: 离心机,centrifuge,分离,离心</desc>
+  <g id="g-50-台式离心机">
+    <rect x="50" y="50" width="220" height="160" rx="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="160" cy="120" r="55" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="160" cy="120" r="40" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="160" cy="120" r="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="160" y1="80" x2="140" y2="100" stroke="#6b7280" stroke-width="1.5"/>
+    <line x1="160" y1="80" x2="180" y2="100" stroke="#6b7280" stroke-width="1.5"/>
+    <line x1="160" y1="160" x2="140" y2="140" stroke="#6b7280" stroke-width="1.5"/>
+    <line x1="160" y1="160" x2="180" y2="140" stroke="#6b7280" stroke-width="1.5"/>
+    <rect x="80" y="190" width="60" height="12" rx="3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="110" y="199" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">RPM</text>
+    <circle cx="220" cy="196" r="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+  </g>
+</svg>

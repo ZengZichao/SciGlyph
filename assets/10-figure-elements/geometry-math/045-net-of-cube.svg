@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="立方体展开图" data-name-en="Net of Cube" data-cat="geometry-math" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45">立方体展开图 / net_of_cube</title>
+  <desc id="d-45">十字形立方体展开图。关键词: net,cube,unfold</desc>
+  <g id="g-45-立方体展开图">
+    <rect x="50" y="10" width="30" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="20" y="40" width="30" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="40" width="30" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="80" y="40" width="30" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="110" y="40" width="30" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="50" y="70" width="30" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

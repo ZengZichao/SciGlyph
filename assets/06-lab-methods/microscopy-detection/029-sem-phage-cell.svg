@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-sem_phage_cell d-sem_phage_cell" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sem_phage_cell">SEM噬菌体附着细胞 / SEM phage attached to bacterial cell surface</title>
+  <desc id="d-sem_phage_cell">扫描电镜下噬菌体附着于细菌细胞表面。可见噬菌体头部和尾部与细胞表面接触。关键词: SEM, phage attachment, cell surface, adsorption, scanning electron microscopy</desc>
+  <g id="layer-body-sem_phage_cell" data-name="body">
+    <!-- Cell surface (3D topography) -->
+    <path d="M10,50 Q20,40 35,45 Q50,38 65,42 Q80,38 90,50" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M10,50 L10,70 L90,70 L90,50" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Phage attached -->
+    <polygon points="35,28 40,24 40,32 35,36 30,32 30,24" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <line x1="35" y1="36" x2="35" y2="44" stroke="#1B2733" stroke-width="0.8"/>
+    <polygon points="60,22 65,18 65,26 60,30 55,26 55,18" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <line x1="60" y1="30" x2="60" y2="40" stroke="#1B2733" stroke-width="0.8"/>
+    <polygon points="75,30 80,26 80,34 75,38 70,34 70,26" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <line x1="75" y1="38" x2="75" y2="44" stroke="#1B2733" stroke-width="0.8"/>
+  </g>
+  <g id="layer-annotation-sem_phage_cell" data-name="annotation">
+    <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">SEM phage on cell</text>
+    <text x="50" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">surface attachment</text>
+  </g>
+</svg>

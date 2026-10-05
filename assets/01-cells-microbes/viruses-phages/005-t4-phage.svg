@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-t4_phage d-t4_phage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-t4_phage">T4噬菌体 / T4 phage (contractile tail)</title>
+  <desc id="d-t4_phage">T4噬菌体，收缩尾形态群(myovirus)代表。收缩尾+6根长尾纤维锚定于基板，感染大肠杆菌。旧称：Myoviridae 肌病毒科（已废止并入 Caudoviricetes）。关键词: T4, myovirus, contractile tail, tail fiber, E.coli phage</desc>
+  <g id="layer-body-t4_phage" data-name="body">
+    <!-- Elongated head -->
+    <polygon points="50,5 68,14 68,34 50,43 32,34 32,14" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Collar ring -->
+    <ellipse cx="50" cy="44" rx="8" ry="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <!-- Contractile sheath segments -->
+    <rect x="44" y="46" width="12" height="5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="44" y="51" width="12" height="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <rect x="44" y="56" width="12" height="5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="44" y="61" width="12" height="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <!-- Baseplate hexagonal -->
+    <polygon points="40,66 60,66 63,70 60,74 40,74 37,70" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- 6 long tail fibers anchored at baseplate -->
+    <path d="M40,70 Q25,75 15,88" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M42,74 Q28,82 18,95" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M45,74 Q35,85 30,96" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M55,74 Q65,85 70,96" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M58,74 Q72,82 82,95" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M60,70 Q75,75 85,88" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-t4_phage" data-name="annotation">
+    <text x="72" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T4</text>
+  </g>
+</svg>

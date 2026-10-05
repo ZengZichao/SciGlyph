@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-sharps-transfer-no-recapping" data-cat="pp" data-spec="128"
+     data-tags="sharps,recapping,prohibited,one-hand,scoop" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止双手回套针帽 / Sharps Transfer No Recapping</title>
+  <desc id="d">禁止双手回套针帽，使用单手刮板法。</desc>
+  
+  <g id="figure"><circle cx="48" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 28 L36 70 L30 116 L42 116 L48 80 L54 116 L66 116 L60 70 L58 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 34 L70 38 L76 46 L72 48 L68 42 L58 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M72 42 L78 42 L78 52 L72 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M76 38 L100 38 L100 42 L76 42 Z" fill="#33414F" stroke="none" data-ls="dark"/>
+     <path d="M100 36 L106 40 L100 44 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M80 48 L96 48 L94 56 L82 56 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <circle cx="88" cy="42" r="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M74 28 L102 56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

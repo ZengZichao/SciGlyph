@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-battery-pack-lithium-ion" data-cat="el" data-spec="128"
+     data-tags="battery,lithium,ion,pack,bms,锂电池,电池组" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">锂电池组 / Lithium Ion Battery Pack</title>
+  <desc id="d">锂电池组：单体并排+BMS+端子。</desc>
+  <g id="body"><rect x="20" y="30" width="16" height="52" rx="3" fill="#2B7DE9" stroke="#1F2933" stroke-width="1.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <rect x="38" y="30" width="16" height="52" rx="3" fill="#2B7DE9" stroke="#1F2933" stroke-width="1.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <rect x="56" y="30" width="16" height="52" rx="3" fill="#2B7DE9" stroke="#1F2933" stroke-width="1.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <rect x="74" y="30" width="16" height="52" rx="3" fill="#2B7DE9" stroke="#1F2933" stroke-width="1.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <rect x="92" y="40" width="20" height="32" rx="3" fill="#33414F" stroke="#1F2933" stroke-width="1.5" data-ls="dark" data-ls-stroke="stroke"/>
+    <text x="102" y="60" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">BMS</text>
+    <line x1="28" y1="24" x2="28" y2="30" stroke="#E02020" stroke-width="2.5" data-ls="danger"/>
+    <text x="28" y="20" fill="#E02020" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="danger">+</text>
+    <line x1="92" y1="82" x2="92" y2="90" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <text x="92" y="100" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="stroke">−</text></g>
+  <g id="detail"></g>
+</svg>

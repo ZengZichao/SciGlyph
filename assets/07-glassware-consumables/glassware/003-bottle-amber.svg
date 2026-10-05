@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>棕色试剂瓶</title>
+  <path d="M9 6 L9 8 Q6 9 6 12 L6 20 Q6 21 7 21 L17 21 Q18 21 18 20 L18 12 Q18 9 15 8 L15 6"/>
+  <line x1="8.5" y1="6" x2="15.5" y2="6"/>
+  <path d="M10 3 L10 6 L14 6 L14 3 Q14 2 12 2 Q10 2 10 3Z"/>
+  <path d="M7 10 L17 18" stroke-width="0.75"/>
+  <path d="M7 13 L14 18" stroke-width="0.75"/>
+  <path d="M10 10 L17 15" stroke-width="0.75"/>
+  <path d="M7 16 L11 18" stroke-width="0.75"/>
+  <path d="M13 10 L17 12" stroke-width="0.75"/>
+  <path d="M9.5 8 L9.5 12" stroke-width="0.75"/>
+  <path d="M14.5 8 L14.5 12" stroke-width="0.75"/>
+</svg>

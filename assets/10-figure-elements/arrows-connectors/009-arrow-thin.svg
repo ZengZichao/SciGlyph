@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="细线箭头" data-name-en="arrow thin" data-cat="arrows-connectors" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09">细线箭头 / arrow_thin</title>
+  <desc id="d-09">细线杆右向箭头。关键词: arrow,thin,slim,indicator</desc>
+  <g id="g-09-细线箭头">
+    <line x1="10" y1="24" x2="70" y2="24" stroke="#1f2937" stroke-width="0.75" fill="none"/>
+    <polygon points="69,22 78,24 69,26" fill="#1f2937"/>
+  </g>
+</svg>

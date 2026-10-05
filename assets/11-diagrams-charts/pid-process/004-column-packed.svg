@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>填料吸收塔</title>
+  <rect x="8" y="3" width="8" height="16" rx="0.5"/>
+  <path d="M9 8L11 6M10 10L12 8M11 12L13 10M12 14L14 12M9 14L11 12M13 8L15 6M14 10L16 8M13 14L15 12" stroke-width="0.75"/>
+  <line x1="8" y1="6" x2="16" y2="6" stroke-width="1"/>
+  <path d="M10 4L10 5M12 3.5L12 5M14 4L14 5" stroke-width="1"/>
+  <line x1="8" y1="15" x2="16" y2="15" stroke-width="1"/>
+  <line x1="10" y1="15" x2="10" y2="16" stroke-width="0.75"/>
+  <line x1="14" y1="15" x2="14" y2="16" stroke-width="0.75"/>
+  <line x1="8" y1="7" x2="6" y2="7"/>
+  <line x1="16" y1="17" x2="18" y2="17"/>
+  <line x1="16" y1="5" x2="18" y2="5"/>
+  <path d="M7 19L7 22L17 22L17 19"/>
+  <line x1="12" y1="19" x2="12" y2="22"/>
+</svg>

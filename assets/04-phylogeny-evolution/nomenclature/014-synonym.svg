@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-14_synonym d-14_synonym" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14_synonym">异名 / Synonym</title>
+  <desc id="d-14_synonym">异名 syn. 表示同一分类单元的旧名称。约定: ≡ 同模异名(homotypic/nomenclatural, 命名法规性)；= 异模异名(heterotypic/taxonomic, 分类学性)。关键词: synonym, syn., homotypic, heterotypic, nomenclature</desc>
+  <g id="layer-body" data-name="body">
+    <text x="22" y="38" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" text-decoration="line-through">Old name</text>
+    <line x1="38" y1="35" x2="62" y2="35" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="50" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">≡</text>
+    <text x="78" y="38" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">New</text>
+    <text x="50" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">syn.</text>
+    <rect x="30" y="62" width="40" height="14" rx="3" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="50" y="73" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">homotypic</text>
+      <rect x="5" y="24" width="34" height="18" rx="2" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-dasharray="2,1"/>
+    <rect x="61" y="24" width="34" height="18" rx="2" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1"/>
+    <line x1="39" y1="33" x2="61" y2="33" stroke="#1B2733" data-pp="ink" stroke-width="1"/>
+    <polygon points="58,30 62,33 58,36" fill="#1B2733" data-pp="ink"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Synonym</text>
+  </g>
+</svg>

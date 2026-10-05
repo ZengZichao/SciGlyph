@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-sted d-sted" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sted">STED超分辨 / STED stimulated emission depletion</title>
+  <desc id="d-sted">STED超分辨显微镜：激发光(Gaussian)+损耗光(donut形)共聚焦→损耗光通过受激发射抑制外围荧光→有效PSF远小于衍射极限。~20-50nm分辨率。关键词: STED, super-resolution, depletion donut, stimulated emission, sub-diffraction</desc>
+  <g id="layer-body-sted" data-name="body">
+    
+    <circle cx="35" cy="40" r="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" fill-opacity="0.3" />
+    <text x="35" y="43" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">excite</text>
+    
+    <circle cx="65" cy="40" r="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" fill-opacity="0.2" />
+    <circle cx="65" cy="40" r="5" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="0.5" />
+    <text x="65" y="43" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">STED</text>
+    
+    <circle cx="50" cy="70" r="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" />
+    <text x="50" y="73" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">≪λ</text>
+    
+    <path d="M35,52 L45,66" fill="none" stroke="#1B2733" stroke-width="1" />
+    <path d="M65,52 L55,66" fill="none" stroke="#1B2733" stroke-width="1" />
+    <text x="50" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">+</text>
+  </g>
+  <g id="layer-annotation-sted" data-name="annotation">
+    <text x="50" y="84.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">STED super-resolution</text>
+    <text x="50" y="92.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">depletion donut</text>
+  </g>
+</svg>

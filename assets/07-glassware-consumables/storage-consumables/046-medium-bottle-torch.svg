@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-medium-bottle-torch" data-cat="st" data-spec="128"
+     data-tags="culture,medium,bottle,tissue,autoclave,plant" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">组培瓶 / Culture Medium Bottle</title>
+  <desc id="d">组培瓶(培养基瓶)，耐高温高压，用于植物组织培养。</desc>
+  <g id="body"><path d="M42 18 L42 32 L32 40 L32 108 Q32 114 38 114 L90 114 Q96 114 96 108 L96 40 L86 32 L86 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M34 58 L94 58 L94 108 Q94 112 90 112 L38 112 Q34 112 34 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M34 58 L94 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M38 8 L38 20 L90 20 L90 8 Q82 6 64 6 Q46 6 38 8 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M40 14 L88 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

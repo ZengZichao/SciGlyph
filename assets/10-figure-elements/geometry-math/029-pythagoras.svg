@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="勾股定理" data-name-en="Pythagoras" data-cat="geometry-math" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29">勾股定理 / pythagoras</title>
+  <desc id="d-29">三方形直观展示勾股定理。关键词: pythagoras,a²+b²=c²,geometry</desc>
+  <g id="g-29-勾股定理">
+    <rect x="10" y="45" width="30" height="30" fill="#e5e7eb" stroke="#009E73" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="40" y="75" width="40" height="40" fill="#e5e7eb" stroke="#0072B2" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <polygon points="80,75 110,35 70,5 40,45" fill="#e5e7eb" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <polygon points="40,45 80,75 40,75" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M40,67 L48,67 L48,75" fill="none" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="25" y="64" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#009E73" text-anchor="middle" data-drole="series-1">a²</text>
+    <text x="60" y="99" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#0072B2" text-anchor="middle" stroke-dasharray="6 3" data-drole="series-2">b²</text>
+    <text x="75" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#D55E00" text-anchor="middle" stroke-dasharray="2 2" data-drole="series-3">c²</text>
+    </g>
+</svg>

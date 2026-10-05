@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="分子钟时间轴" data-name-en="Molecular clock timeline" data-cat="04-phylo" data-tags="分子钟,分化时间,置信区间,HPD,Ma" aria-labelledby="t-20-molecular-clock d-20-molecular-clock" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20-molecular-clock">分子钟时间轴 / Molecular clock timeline</title>
+  <desc id="d-20-molecular-clock">叶端对齐于现生的时标树，横轴为百万年前（Ma），左侧阴影带标注上新世（约 5.3–2.6 Ma）时段；各节点上方红色括号标示分化时间的 95% 最高后验密度（HPD）区间。关键词: 分子钟, 分化时间, 置信区间, HPD, Ma</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <rect x="33.5" y="14" width="96.2" height="114" fill="#DCEEE4" fill-opacity="0.4"/>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="37.5" y="24" font-size="9" fill="#2B3A42">上新世</text>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 122 65.75 H 110"/>
+      <path d="M 122 41 V 90.5"/>
+      <path d="M 122 41 H 150"/>
+      <path d="M 122 90.5 H 157"/>
+      <path d="M 150 30 V 52"/>
+      <path d="M 150 30 H 214"/>
+      <path d="M 150 52 H 214"/>
+      <path d="M 157 74 V 107"/>
+      <path d="M 157 74 H 214"/>
+      <path d="M 157 107 H 178"/>
+      <path d="M 178 96 V 118"/>
+      <path d="M 178 96 H 214"/>
+      <path d="M 178 118 H 214"/>
+    </g>
+    <g stroke="#C0504D" stroke-width="1.4" fill="none">
+      <path d="M 143 35 H 155 M 143 35 V 39 M 155 35 V 39"/>
+      <path d="M 150 69.5 H 162 M 150 69.5 V 73.5 M 162 69.5 V 73.5"/>
+      <path d="M 111.5 59.25 H 129 M 111.5 59.25 V 63.25 M 129 59.25 V 63.25"/>
+      <path d="M 172.75 90 H 181.5 M 172.75 90 V 94 M 181.5 90 V 94"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="214" cy="30" r="2.6"/>
+      <circle cx="214" cy="52" r="2.6"/>
+      <circle cx="214" cy="74" r="2.6"/>
+      <circle cx="214" cy="96" r="2.6"/>
+      <circle cx="214" cy="118" r="2.6"/>
+    </g>
+    <path d="M 30 128 H 220" stroke="#2B3A42" stroke-width="1.6" fill="none"/>
+    <path d="M 220 128 L 212 124 M 220 128 L 212 132" stroke="#2B3A42" stroke-width="1.6" fill="none"/>
+    <g stroke="#2B3A42" stroke-width="1.4">
+      <path d="M 220 124 V 132"/>
+      <path d="M 185 124 V 132"/>
+      <path d="M 150 124 V 132"/>
+      <path d="M 115 124 V 132"/>
+      <path d="M 80 124 V 132"/>
+      <path d="M 202.5 126 V 130"/>
+      <path d="M 167.5 126 V 130"/>
+      <path d="M 132.5 126 V 130"/>
+      <path d="M 97.5 126 V 130"/>
+    </g>
+    <g font-size="9.5" fill="#2B3A42" text-anchor="middle">
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="220" y="144">0.0</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="185" y="144">1.0</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="150" y="144">2.0</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="115" y="144">3.0</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="80" y="144">4.0</text>
+    </g>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="26" y="144" text-anchor="end" font-size="9.5" fill="#2B3A42">Ma</text>
+    <g stroke="#C0504D" stroke-width="1.4" fill="none">
+      <path d="M 38 60 H 52 M 38 60 V 64 M 52 60 V 64"/>
+    </g>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="56" y="64" font-size="9" fill="#C0504D">95% HPD</text>
+  </g>
+</svg>

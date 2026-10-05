@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-heat-gun" data-cat="hc" data-spec="128"
+     data-tags="heat,gun,hot-air,drying" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">热风枪 / Heat Gun</title>
+  <desc id="d">热风枪，用于加热干燥收缩等操作</desc>
+  <g id="body"><path d="M20 50 L72 50 L72 78 L20 78 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M72 46 L100 46 L100 82 L72 82 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M20 54 L12 54 L12 74 L20 74 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M100 54 L112 50 L112 78 L100 74 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M112 54 L118 52 L118 76 L112 74 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M30 56 L60 56 L60 60 L30 60 Z" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M30 64 L60 64 L60 68 L30 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 72 L60 72 L60 76 L30 76 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

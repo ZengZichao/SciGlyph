@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-lollipop_mutation d-lollipop_mutation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-lollipop_mutation">Lollipop 突变注释图 / Lollipop Mutation Plot</title>
+<desc id="d-lollipop_mutation">沿蛋白/基因的突变 lollipop 注释图骨架。关键词: lollipop, mutation, protein position, missense</desc>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Lollipop Mutation Plot</text><line x1="60" y1="250" x2="540" y2="250" stroke="#2E86AB" data-pp="bacteria" stroke-width="4" stroke-linecap="round" />
+<text x="50" y="255" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Protein</text><rect x="100" y="242" width="80" height="16" rx="5" fill="#6C3FA0" data-pp="gene" stroke="#6C3FA0" stroke-width="1" />
+<text x="140" y="254" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Domain 1</text><rect x="300" y="242" width="100" height="16" rx="5" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1" />
+<text x="350" y="254" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Domain 2</text>
+<line x1="90" y1="250" x2="90" y2="195" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" />
+<circle cx="90" cy="195" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+<line x1="130" y1="250" x2="130" y2="157" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" />
+<circle cx="130" cy="157" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+<line x1="160" y1="250" x2="160" y2="178" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" />
+<circle cx="160" cy="178" r="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+<line x1="220" y1="250" x2="220" y2="175" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" />
+<circle cx="220" cy="175" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+<line x1="280" y1="250" x2="280" y2="200" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5" />
+<circle cx="280" cy="200" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<line x1="340" y1="250" x2="340" y2="195" stroke="#E8871E" data-pp="mge" stroke-width="1.5" />
+<circle cx="340" cy="195" r="6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+<line x1="380" y1="250" x2="380" y2="158" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" />
+<circle cx="380" cy="158" r="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+<line x1="440" y1="250" x2="440" y2="196" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" />
+<circle cx="440" cy="196" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+<line x1="500" y1="250" x2="500" y2="157" stroke="#E8871E" data-pp="mge" stroke-width="1.5" />
+<circle cx="500" cy="157" r="6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+<circle cx="320" cy="330" r="5" fill="#C42D2D" data-pp="alert" />
+<text x="330" y="334" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Missense</text>
+<circle cx="440" cy="331" r="5" fill="#2E86AB" data-pp="bacteria" />
+<text x="450" y="335" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nonsense</text>
+<circle cx="80" cy="332" r="5" fill="#93A0AC" data-pp="muted" />
+<text x="90" y="336" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Silent</text>
+<circle cx="200" cy="333" r="5" fill="#E8871E" data-pp="mge" />
+<text x="210" y="337" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Missense (low)</text></g></svg>

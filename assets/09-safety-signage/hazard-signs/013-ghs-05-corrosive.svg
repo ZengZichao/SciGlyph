@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-05-corrosive" data-cat="hz" data-spec="128"
+     data-tags="ghs,corrosive,corrosion,warning,pictogram,腐蚀" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS05 腐蚀 / GHS05 Corrosive</title>
+  <desc id="d">GHS象形图：试管滴液腐蚀金属和手，表示腐蚀性。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><path d="M50 44 L50 62 C50 66 48 68 46 72 L46 78 L54 78 L54 72 C52 68 50 66 50 62" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <path d="M78 44 L78 62 C78 66 80 68 82 72 L82 78 L74 78 L74 72 C76 68 78 66 78 62" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <path d="M44 80 L56 80" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <path d="M72 80 L84 80" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <rect x="54" y="82" width="20" height="8" rx="1" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M58 82 L56 90 M64 82 L64 92 M70 82 L72 90" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

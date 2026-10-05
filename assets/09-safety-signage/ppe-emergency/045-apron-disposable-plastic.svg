@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-apron-disposable-plastic" data-cat="sf" data-spec="128"
+     data-tags="apron,disposable,plastic,protective,lightweight" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">一次性塑料围裙 / Apron Disposable Plastic</title>
+  <desc id="d">一次性塑料围裙，轻薄，颈带和腰带。</desc>
+  <g id="body"><path d="M46 22 L42 26 L38 108 L90 108 L86 26 L82 22 Z" fill="#FFFFFF" opacity="0.6" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M46 22 Q56 16 64 16 Q72 16 82 22" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M46 22 L34 18" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M82 22 L94 18" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 50 L88 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-pilus_adhesive d-pilus_adhesive" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-pilus_adhesive">附着菌毛 / Adhesive Pilus</title>
+  <desc id="d-pilus_adhesive">Pilus with adhesin tip and base plate for host cell attachment. 关键词: adhesin, attachment, host binding, base plate</desc>
+  <g id="layer-body" data-name="body">
+
+    <circle cx="25" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="38" y="46" width="6" height="8" rx="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <line x1="44" y1="50" x2="65" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="68" cy="50" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <ellipse cx="82" cy="50" rx="12" ry="16" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1" fill-opacity="0.4"/>
+    <circle cx="72" cy="50" r="1.5" fill="#C42D2D" data-pp="alert"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="58" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">adhesin</text>
+    <text x="35" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">base</text>
+    <text x="72" y="75" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#8C6D3F" data-pp="host">host</text>
+
+  </g>
+</svg>

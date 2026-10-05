@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="系统边界加两用例" data-name-en="Usecase System Boundary" data-cat="diagrams-sw-uml" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">系统边界加两用例 / usecase_system_boundary</title>
+  <desc id="d-03">系统边界矩形内含用例椭圆。关键词: system,boundary,usecase</desc>
+  <g id="g-03-系统边界加两用例">
+    <rect x="100" y="30" width="180" height="180" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
+    <text x="190" y="50" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">System</text>
+    <ellipse cx="190" cy="90" rx="50" ry="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="190" y="95" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Login</text>
+    <ellipse cx="190" cy="160" rx="50" ry="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="190" y="165" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Order</text>
+    <circle cx="40" cy="120" r="10" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="40" y1="130" x2="40" y2="155" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="25" y1="140" x2="55" y2="140" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="40" y1="155" x2="28" y2="172" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="40" y1="155" x2="52" y2="172" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="50" y1="115" x2="140" y2="92" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="50" y1="125" x2="140" y2="158" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="280" cy="120" r="10" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="280" y1="130" x2="280" y2="155" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="265" y1="140" x2="295" y2="140" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="280" y1="155" x2="268" y2="172" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="280" y1="155" x2="292" y2="172" stroke="#1f2937" stroke-width="2"/>
+    <line fill="none" x1="270" y1="115" x2="240" y2="92" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

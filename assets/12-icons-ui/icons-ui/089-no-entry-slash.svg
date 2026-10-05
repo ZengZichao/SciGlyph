@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-no-entry-slash" data-cat="ic" data-spec="24"
+     data-tags="icon,no-entry,slash,forbidden,prohibited" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止进入图标 / Icon No Entry Slash</title>
+  <desc id="d">禁止进入微型图标。</desc>
+  <g id="body">
+    <circle cx="12" cy="12" r="8" fill="#E02020" opacity="0.3" stroke="none" data-ls="danger"/>
+    <circle cx="12" cy="12" r="8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="6" y1="6" x2="18" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+  </g>
+</svg>

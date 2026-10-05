@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-gene_duplication_fates d-gene_duplication_fates" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-gene_duplication_fates">Gene Duplication Fates</title>
+<desc id="d-gene_duplication_fates">亚功能化/假基因化 关键词: duplication, neofunctionalization, subfunctionalization, pseudogene</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Gene Duplication Fates</text>
+<text x="300" y="50" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Ancestral gene</text>
+<rect x="250" y="58" width="100" height="25" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" rx="3"/>
+<rect x="255" y="61" width="28" height="19" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="286" y="61" width="28" height="19" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="317" y="61" width="28" height="19" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<text x="269" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E1</text>
+<text x="300" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E2</text>
+<text x="331" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E3</text>
+<line x1="300" y1="85" x2="300" y2="110" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="310" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">Duplication</text>
+<line x1="300" y1="110" x2="120" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="60" y="155" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">Neofunctionalization</text>
+<rect x="50" y="170" width="100" height="22" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" rx="3"/>
+<rect x="55" y="173" width="28" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="86" y="173" width="28" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="117" y="173" width="28" height="16" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="69" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E1</text>
+<text x="100" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E2</text>
+<text x="131" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">New</text>
+<text x="100" y="205" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Novel function</text>
+<circle cx="155" cy="180" r="8" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+<text x="155" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">★</text>
+<line x1="300" y1="110" x2="300" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="255" y="155" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" font-weight="bold">Subfunctionalization (DDC)</text>
+<rect x="240" y="170" width="70" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="3"/>
+<rect x="245" y="173" width="28" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="276" y="173" width="28" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="259" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E1</text>
+<text x="290" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E2</text>
+<rect x="240" y="200" width="70" height="22" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" rx="3"/>
+<rect x="245" y="203" width="28" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="276" y="203" width="28" height="16" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<text x="259" y="214" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E2</text>
+<text x="290" y="214" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E3</text>
+<text x="275" y="238" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Complementary partitioning</text>
+<line x1="300" y1="110" x2="480" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="430" y="155" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">Pseudogenization</text>
+<rect x="420" y="170" width="100" height="22" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" rx="3"/>
+<rect x="425" y="173" width="28" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="456" y="173" width="28" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="487" y="173" width="28" height="16" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<text x="439" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E1</text>
+<text x="470" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E2</text>
+<text x="501" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E3</text>
+<rect x="420" y="200" width="100" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" rx="3"/>
+<line x1="420" y1="200" x2="520" y2="222" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="520" y1="200" x2="420" y2="222" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<text x="470" y="215" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">ψ</text>
+<text x="470" y="238" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Accumulating mutations</text>
+<rect x="60" y="260" width="480" height="110" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="280" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Duplication is the source of innovation</text>
+<text x="100" y="300" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">Neofunctionalization:</text>
+<text x="175.48" y="309.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">One copy free to mutate → new function</text><line x1="171.0" y1="297.66" x2="175.48" y2="303.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="100" y="318" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" font-weight="bold">Subfunctionalization:</text>
+<text x="175.48" y="327.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Each copy loses part → complementation</text><line x1="171.0" y1="315.66" x2="175.48" y2="321.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="100" y="336" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">Pseudogenization:</text>
+<text x="175.48" y="345.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Redundant copy decays → silenced</text><line x1="171.0" y1="333.66" x2="175.48" y2="339.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="100" y="354" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Examples:</text>
+<text x="125.48" y="363.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Hox clusters · hemoglobin family · olfactory receptors</text><line x1="121.0" y1="351.66" x2="125.48" y2="357.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+</g>
+</svg>

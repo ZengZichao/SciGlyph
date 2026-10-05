@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-gc_content d-gc_content" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gc_content">G+C含量 / GC content</title>
+  <desc id="d-gc_content">GC content scale from 30-70 mol% with marker 关键词: GC content, mol%, taxonomy</desc>
+  
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="45" x2="85" y2="45" stroke="#1B2733" stroke-width="2" stroke-linecap="round" data-pp="ink"/>
+    <line x1="15" y1="42" x2="15" y2="48" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <line x1="50" y1="42" x2="50" y2="48" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <line x1="85" y1="42" x2="85" y2="48" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <text x="15" y="55" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">30%</text>
+    <text x="50" y="55" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">50%</text>
+    <text x="85" y="55" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">70%</text>
+    <circle cx="60" cy="45" r="3" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" data-pp="alert"/>
+    <text x="60" y="38" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">GC</text>
+  <line x1="30" y1="42" x2="30" y2="48" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="70" y1="42" x2="70" y2="48" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><path d="M60,50 L60,60" fill="none" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/><circle cx="40" cy="45" r="2" fill="#00857A" stroke="#1B2733" stroke-width="0.6" data-pp="metabolism"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">G+C含量</text>
+  </g>
+</svg>

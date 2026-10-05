@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="拓扑不一致标记" data-name-en="Incongruence marker" data-cat="04-phylo" data-tags="不一致,冲突,基因树,物种树,conflict" aria-labelledby="t-14-incongruence d-14-incongruence" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14-incongruence">拓扑不一致标记 / Incongruence marker</title>
+  <desc id="d-14-incongruence">上为基因树 ((t1,t2),(t3,t4))、下为物种树 ((t1,t4),(t2,t3))；两树之间以连线连接同一类群，灰色为位置一致者，红色为在两树中发生交叉的不一致类群，用于可视化水平基因转移或 ILS。关键词: 不一致, 冲突, 基因树, 物种树, conflict</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <!-- 上：基因树 ((t1,t2),(t3,t4)) -->
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="10" y="16" font-size="9" fill="#5B6B73" stroke="none">基因树</text>
+    <g fill="none" stroke="#5B4B8A" stroke-width="1.8">
+      <path d="M 8 38 H 22"/>
+      <path d="M 22 28 V 48"/>
+      <path d="M 22 28 H 40"/>
+      <path d="M 22 48 H 40"/>
+      <path d="M 40 24 V 32"/>
+      <path d="M 40 24 H 50"/>
+      <path d="M 40 32 H 50"/>
+      <path d="M 40 44 V 52"/>
+      <path d="M 40 44 H 50"/>
+      <path d="M 40 52 H 50"/>
+      <path d="M 8 90 H 22"/>
+      <path d="M 22 80 V 100"/>
+      <path d="M 22 80 H 40"/>
+      <path d="M 22 100 H 40"/>
+      <path d="M 40 76 V 84"/>
+      <path d="M 40 76 H 50"/>
+      <path d="M 40 84 H 50"/>
+      <path d="M 40 96 V 104"/>
+      <path d="M 40 96 H 50"/>
+      <path d="M 40 104 H 50"/>
+    </g>
+    <!-- 下：物种树 ((t1,t4),(t2,t3)) -->
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="10" y="112" font-size="9" fill="#5B6B73" stroke="none">物种树</text>
+    <!-- 同源类群连线：灰色为未冲突者，红色为发生交叉的不一致者 -->
+    <g fill="none" stroke="#B9C6CC" stroke-width="1.2" stroke-dasharray="3 2">
+      <path d="M 50 24 C 80 24, 80 76, 50 76"/>
+    </g>
+    <g fill="none" stroke="#C0504D" stroke-width="1.6" stroke-dasharray="4 2.5">
+      <path d="M 50 32 C 98 32, 98 96, 50 96"/>
+      <path d="M 50 44 C 80 44, 80 104, 50 104"/>
+      <path d="M 50 52 C 98 52, 98 84, 50 84"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="50" cy="24" r="2.6"/>
+      <circle cx="50" cy="32" r="2.6"/>
+      <circle cx="50" cy="44" r="2.6"/>
+      <circle cx="50" cy="52" r="2.6"/>
+      <circle cx="50" cy="76" r="2.6"/>
+      <circle cx="50" cy="84" r="2.6"/>
+      <circle cx="50" cy="96" r="2.6"/>
+      <circle cx="50" cy="104" r="2.6"/>
+    </g>
+    <g fill="none" stroke="#C0504D" stroke-width="1.6">
+      <circle cx="50" cy="32" r="4.2"/>
+      <circle cx="50" cy="52" r="4.2"/>
+      <circle cx="50" cy="84" r="4.2"/>
+      <circle cx="50" cy="96" r="4.2"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-61_skel_tree_rect d-61_skel_tree_rect" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-61_skel_tree_rect">矩形树骨架 / Rect tree skeleton</title>
+  <desc id="d-61_skel_tree_rect">矩形系统树骨架(空树)。骨架，配合系统发育树使用。关键词: skeleton, tree, rectangular, phylogeny</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M10,50 L25,50" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="root"/>
+    <path d="M25,25 L25,75" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="node-1"/>
+    <path d="M25,25 L45,25" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="branch-1"/>
+    <path d="M25,75 L45,75" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="branch-2"/>
+    <path d="M45,15 L45,35" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="node-2"/>
+    <path d="M45,15 L70,15" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="tip-1"/>
+    <path d="M45,35 L70,35" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="tip-2"/>
+    <path d="M45,65 L45,85" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="node-3"/>
+    <path d="M45,65 L70,65" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="tip-3"/>
+    <path d="M45,85 L70,85" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="tip-4"/>
+    <circle cx="25" cy="25" r="2" fill="#1B2733" data-pp="ink" data-name="dot-1"/>
+    <circle cx="25" cy="75" r="2" fill="#1B2733" data-pp="ink" data-name="dot-2"/>
+    <circle cx="45" cy="15" r="2" fill="#1B2733" data-pp="ink" data-name="dot-3"/>
+    <circle cx="45" cy="35" r="2" fill="#1B2733" data-pp="ink" data-name="dot-4"/>
+    <circle cx="45" cy="65" r="2" fill="#1B2733" data-pp="ink" data-name="dot-5"/>
+    <circle cx="45" cy="85" r="2" fill="#1B2733" data-pp="ink" data-name="dot-6"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Rect tree skeleton</text>
+  </g>
+</svg>

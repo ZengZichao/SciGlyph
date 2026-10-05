@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-multi-document-stack" data-cat="pf" data-spec="160"
+     data-tags="multi,document,stack,pages,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">多文档 / Multi-Document Stack</title>
+  <desc id="d">流程图多文档符号，多个文档堆叠。</desc>
+  <g id="body">
+    <path d="M30,12 L142,12 L142,60 Q132,52 122,60 Q112,68 102,60 Q92,52 82,60 Q72,68 62,60 Q52,52 42,60 Q32,68 30,60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M26,18 L138,18 L138,66 Q128,58 118,66 Q108,74 98,66 Q88,58 78,66 Q68,74 58,66 Q48,58 38,66 Q28,74 26,66 Z" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M22,24 L134,24 L134,72 Q124,64 114,72 Q104,80 94,72 Q84,64 74,72 Q64,80 54,72 Q44,64 34,72 Q24,80 22,72 Z" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-21">节点标记: 共同祖先 / Node Marker: ancestor</title>
+<desc id="d-21">祖先节点空心与descendants填充对照, 最近共同祖先高亮 关键词: ancestor, MRCA, node, descendant</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="100.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="100.0" y2="130.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="60.0" x2="240.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="130.0" x2="240.0" y2="130.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="100.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="240.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="270.0" x2="100.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="270.0" x2="240.0" y2="270.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="340.0" x2="240.0" y2="340.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="240.0" cy="60.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="130.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="200.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="270.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="340.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="100.0" cy="200.0" r="12.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.3" stroke="#00857A" stroke-width="2"/>
+<circle cx="100.0" cy="130.0" r="8.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1.5"/>
+<circle cx="100.0" cy="270.0" r="8.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1.5"/>
+<text x="280.0" y="70.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Legend</text>
+<circle cx="290.0" cy="100.0" r="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.3" stroke="#00857A" stroke-width="2"/>
+<text x="310.0" y="104.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">MRCA</text>
+<circle cx="290.0" cy="140.0" r="8.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1.5"/>
+<text x="310.0" y="144.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Ancestor</text>
+<circle cx="290.0" cy="180.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<text x="310.0" y="184.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Descendant</text>
+<line x1="115.0" y1="185.0" x2="112.0" y2="197.0" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round"/>
+<text x="118.0" y="182.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">MRCA</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Hollow=ancestor, filled=tip</text>
+</g>
+</svg>

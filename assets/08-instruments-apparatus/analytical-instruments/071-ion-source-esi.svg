@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-ion-source-esi" data-cat="an" data-spec="128"
+     data-tags="esi,ion,source,electrospray,spray,capillary,desolvation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电喷雾离子源 / ESI Ion Source</title>
+  <desc id="d">电喷雾离子源：毛细管喷针、喷雾锥、去溶剂化。</desc>
+  <g id="body">
+    <rect x="18" y="20" width="92" height="88" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="20" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="24" y="44" width="20" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<line x1="44" y1="47" x2="52" y2="47" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+<path d="M52 47 L72 36 L72 58 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+<path d="M52 47 L72 36 M52 47 L72 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="60" cy="42" r="1.5" fill="#BFE0FF" stroke="none" data-ls="liquid"/>
+<circle cx="64" cy="48" r="1.5" fill="#BFE0FF" stroke="none" data-ls="liquid"/>
+<circle cx="58" cy="52" r="1.5" fill="#BFE0FF" stroke="none" data-ls="liquid"/>
+<rect x="76" y="38" width="4" height="18" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="78" y="34" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Skimmer</text>
+<path d="M46 38 Q56 34 66 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="56" y="32" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">N₂</text>
+    <text x="34" y="40" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HV</text>
+    <text x="64" y="76" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="accent">ESI</text>
+    <text x="64" y="86" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Electrospray</text>
+    <polygon points="80,44 92,47 80,50" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

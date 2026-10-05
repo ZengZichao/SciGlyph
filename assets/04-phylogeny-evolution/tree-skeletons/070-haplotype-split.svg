@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-38 d-38" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38">分裂单倍型网络 / Split Haplotype Network</title>
+  <desc id="d-38">骨架，配合popART/TCS使用。分裂状系统地理单倍型网络，显示两个分化支系。 关键词: phylogenetic tree, haplotype split, Network, popART, TCS, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="network-edges">
+    <line x1="150" y1="120" x2="100" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="100" y1="200" x2="180" y2="260" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="450" y1="120" x2="500" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="500" y1="200" x2="420" y2="260" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="180" y1="260" x2="230" y2="180" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="4 2"/>
+    <line x1="230" y1="180" x2="370" y2="180" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="4 2"/>
+    <line x1="370" y1="180" x2="420" y2="260" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="4 2"/>
+  </g>
+  <g data-name="haplotypes">
+    <circle cx="150" cy="120" r="18" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <circle cx="100" cy="200" r="18" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <circle cx="180" cy="260" r="18" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <circle cx="450" cy="120" r="18" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <circle cx="500" cy="200" r="18" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <circle cx="420" cy="260" r="18" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <circle cx="230" cy="180" r="6" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/>
+    <circle cx="370" cy="180" r="6" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/>
+  </g>
+</svg>

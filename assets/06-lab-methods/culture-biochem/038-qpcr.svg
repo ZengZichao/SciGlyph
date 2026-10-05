@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-qpcr d-qpcr" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-qpcr">qPCR / Real-Time PCR</title>
+  <desc id="d-qpcr">qPCR with schematic microplate wells (well count not to scale) and S-shaped amplification curve with Ct 关键词: qPCR, real-time, Ct, amplification</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="25" width="35" height="25" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="25" cy="30" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="30" cy="30" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="35" cy="30" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="40" cy="30" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="25" cy="35" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="30" cy="35" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="35" cy="35" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="40" cy="35" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="25" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="30" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="35" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="40" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <path d="M60,45 Q65,44 68,40 Q72,35 75,30 Q78,28 80,28" fill="#00857A" stroke="#00857A" stroke-width="2" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="60" y1="35" x2="80" y2="35" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
+    <text x="70" y="38" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Ct</text>
+    <line x1="60" y1="48" x2="80" y2="48" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <line x1="60" y1="25" x2="60" y2="48" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">qPCR</text>
+  </g>
+</svg>

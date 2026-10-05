@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-transmembrane_helix d-transmembrane_helix" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-transmembrane_helix">跨膜螺旋柱状图 / Transmembrane Helix Topology</title>
+<desc id="d-transmembrane_helix">跨膜螺旋 TM + 胞内/胞外拓扑。关键词: transmembrane, TM, topology, intracellular, extracellular</desc>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Transmembrane Helix Topology</text><rect x="40" y="150" width="520" height="120" fill="#E8871E" data-pp="mge" stroke="#E8871E" stroke-width="1" stroke-dasharray="5,3" />
+<text x="554.80" y="165.00" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">Membrane</text><path d="M60,120 L100,120 L100,300 L200,300 L200,120 L320,120 L320,300 L420,300 L420,120 L540,120" stroke="#6C3FA0" data-pp="gene" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" /><rect x="92" y="150" width="16" height="120" rx="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="192" y="150" width="16" height="120" rx="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="312" y="150" width="16" height="120" rx="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="412" y="150" width="16" height="120" rx="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="50" y="110" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N</text>
+<text x="545" y="110" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+<text x="300" y="100" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Extracellular / Periplasm</text>
+<text x="300" y="325" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">Cytoplasm</text></g>  <g data-name="annotation">
+    <line x1="100" y1="140" x2="100" y2="150" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="200" y1="140" x2="200" y2="150" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="320" y1="140" x2="320" y2="150" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="420" y1="140" x2="420" y2="150" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <circle cx="100" cy="135" r="3" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="200" cy="135" r="3" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="420" cy="135" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-bulb-volumetric" data-cat="gl" data-spec="128"
+     data-tags="volumetric,bulb,flask,round,calibrated" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">球形容量瓶 / Bulb Volumetric Flask</title>
+  <desc id="d">球形容量瓶，圆肚细颈，用于精确配制标准溶液。</desc>
+  <g id="body"><path d="M58 10 L58 44 Q30 52 30 78 Q30 112 64 112 Q98 112 98 78 Q98 52 70 44 L70 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M34 78 Q34 108 64 108 Q94 108 94 78 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M58 34 L70 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 8 L56 14 L72 14 L72 8 Q68 6 64 6 Q60 6 56 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

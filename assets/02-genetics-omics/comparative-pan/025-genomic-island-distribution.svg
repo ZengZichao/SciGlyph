@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-comparative" role="img" aria-labelledby="t-genomic_island_distribution d-genomic_island_distribution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-genomic_island_distribution">基因组 island 分布 / Genomic island distribution</title>
+<desc id="d-genomic_island_distribution">Multiple genome bars with island blocks and GC offset curves. schematic. 关键词: comparative genomics, genomic island distribution, blocks, offset, Backbone</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<text x="300.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Genomic Island Distribution (schematic)</text>
+<rect x="100.0" y="130.0" width="500.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="85.0" y="142.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome A</text>
+<rect x="358.0" y="130.0" width="15.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="309.0" y="130.0" width="25.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="452.0" y="130.0" width="36.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="518.0" y="130.0" width="27.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="480.0" y="130.0" width="20.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="540.0" y="130.0" width="29.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<polyline points="100,105 126,125 153,111 179,119 205,125 232,117 258,125 284,125 311,125 337,125 363,116 389,114 416,113 442,119 468,117 495,125 521,119 547,125 574,125 600,111" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<rect x="100.0" y="200.0" width="450.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="85.0" y="212.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome B</text>
+<rect x="174.0" y="200.0" width="30.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="452.0" y="200.0" width="18.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="398.0" y="200.0" width="21.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="348.0" y="200.0" width="37.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<polyline points="100,195 124,195 147,176 171,178 195,195 218,195 242,195 266,181 289,184 313,187 337,195 361,186 384,185 408,178 432,182 455,195 479,195 503,189 526,190 550,195" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<rect x="100.0" y="270.0" width="480.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="85.0" y="282.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome C</text>
+<rect x="164.0" y="270.0" width="28.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="295.0" y="270.0" width="35.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="534.0" y="270.0" width="29.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="472.0" y="270.0" width="19.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="332.0" y="270.0" width="20.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="485.0" y="270.0" width="31.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<polyline points="100,256 125,252 151,265 176,265 201,256 226,248 252,265 277,256 302,265 327,254 353,265 378,257 403,265 428,255 454,249 479,265 504,265 529,259 555,253 580,250" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<rect x="100.0" y="340.0" width="420.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="85.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome D</text>
+<rect x="339.0" y="340.0" width="40.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="118.0" y="340.0" width="17.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="260.0" y="340.0" width="22.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="317.0" y="340.0" width="37.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="234.0" y="340.0" width="24.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="449.0" y="340.0" width="33.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<polyline points="100,335 122,335 144,335 166,322 188,335 211,335 233,335 255,335 277,325 299,316 321,327 343,326 365,335 387,321 409,318 432,335 454,335 476,335 498,328 520,335" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<rect x="420.0" y="55.0" width="10.0" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3"/>
+<text x="435.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Backbone</text>
+<rect x="420.0" y="72.0" width="10.0" height="10.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<text x="435.0" y="81.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Island</text>
+<line x1="420.0" y1="90.0" x2="450.0" y2="90.0" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+<text x="455.0" y="94.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">GC offset</text>
+</svg>

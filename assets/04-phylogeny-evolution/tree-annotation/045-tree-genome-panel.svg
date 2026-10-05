@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-45">树+基因组面板 / Tree+Genome Panel Template</title>
+<desc id="d-45">树每末端微型基因组条彩色基因方块行与tip对齐 关键词: tree, genome, panel, gene, synteny</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="20.0" y1="200.0" x2="55.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="55.0" y1="200.0" x2="55.0" y2="170.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="55.0" y1="50.0" x2="90.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="50.0" x2="130.0" y2="50.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="50.0" x2="90.0" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="110.0" x2="130.0" y2="110.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="55.0" y1="170.0" x2="130.0" y2="170.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="55.0" y1="200.0" x2="55.0" y2="290.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="55.0" y1="230.0" x2="130.0" y2="230.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="55.0" y1="290.0" x2="55.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="55.0" y1="290.0" x2="130.0" y2="290.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="55.0" y1="350.0" x2="130.0" y2="350.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="130.0" cy="50.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="110.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="170.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="230.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="290.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="350.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<rect x="170.0" y="44.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="45.0" width="9.5" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="180.5" y="45.0" width="14.5" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="196.0" y="45.0" width="13.5" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="210.5" y="45.0" width="23.7" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="235.2" y="45.0" width="22.5" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="258.7" y="45.0" width="26.8" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="170.0" y="104.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="105.0" width="20.8" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="191.8" y="105.0" width="9.6" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="202.4" y="105.0" width="10.9" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="214.3" y="105.0" width="13.7" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="229.0" y="105.0" width="21.0" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="251.0" y="105.0" width="20.2" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="170.0" y="164.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="165.0" width="17.4" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="188.4" y="165.0" width="18.0" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="207.4" y="165.0" width="14.6" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="222.9" y="165.0" width="26.4" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="250.3" y="165.0" width="24.2" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="275.5" y="165.0" width="12.2" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="288.7" y="165.0" width="17.5" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="307.1" y="165.0" width="14.6" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="322.7" y="165.0" width="13.3" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="337.0" y="165.0" width="22.0" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="170.0" y="224.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="225.0" width="10.9" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="181.9" y="225.0" width="10.9" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="193.8" y="225.0" width="25.9" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="220.7" y="225.0" width="21.1" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="242.8" y="225.0" width="25.1" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="269.0" y="225.0" width="23.6" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="170.0" y="284.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="285.0" width="11.5" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="182.5" y="285.0" width="27.4" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="210.9" y="285.0" width="10.6" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="222.5" y="285.0" width="14.9" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="238.4" y="285.0" width="21.6" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="261.0" y="285.0" width="26.7" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="288.7" y="285.0" width="16.2" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="305.9" y="285.0" width="12.8" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="319.7" y="285.0" width="10.4" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="331.1" y="285.0" width="22.2" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="170.0" y="344.0" width="190.0" height="12.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.1" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="170.0" y="345.0" width="28.7" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="199.7" y="345.0" width="26.1" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="226.8" y="345.0" width="26.3" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="254.1" y="345.0" width="16.6" height="10.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#2E86AB" stroke-width="1"/>
+<rect x="271.7" y="345.0" width="18.1" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="290.8" y="345.0" width="25.7" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="317.5" y="345.0" width="12.3" height="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="330.7" y="345.0" width="16.1" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<text x="200.0" y="30.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Tree + Genome</text>
+<rect x="170.0" y="370.0" width="10.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="1"/>
+<text x="185.0" y="377.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CDS</text>
+<rect x="220.0" y="370.0" width="10.0" height="8.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<text x="235.0" y="377.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Met</text>
+<rect x="270.0" y="370.0" width="10.0" height="8.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<text x="285.0" y="377.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MGE</text>
+</g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_10um_eukaryote d-size_10um_eukaryote" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_10um_eukaryote">10µm真核细胞 / 10µm eukaryotic cell</title>
+  <desc id="d-size_10um_eukaryote">尺度图标：10µm真核细胞，大小约10 µm。典型真核细胞(如酵母/哺乳细胞)直径约10-30µm。 Scale bar=10 µm。假设放大倍率: ×100 (1cm = 100µm)。关键词: size scale, 10 µm, scale bar</desc>
+  <g id="layer-body-size_10um_eukaryote" data-name="body">
+    <!-- Eukaryotic cell ~10µm -->
+    <circle cx="42" cy="40" r="20" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Nucleus -->
+    <circle cx="42" cy="40" r="8" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <!-- Organelles -->
+    <ellipse cx="30" cy="30" rx="4" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <ellipse cx="55" cy="35" rx="4" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="42" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~10µm eukaryote</text>
+    <!-- Scale bar -->
+    <line x1="15" y1="82" x2="55" y2="82" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <line x1="55" y1="79" x2="55" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <text x="35" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">10 µm</text>
+  </g>
+  <g id="layer-annotation-size_10um_eukaryote" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">10 µm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

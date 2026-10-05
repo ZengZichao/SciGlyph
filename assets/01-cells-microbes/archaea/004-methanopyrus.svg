@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-methanopyrus d-methanopyrus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-methanopyrus">甲烷火菌 / Methanopyrus</title>
+  <desc id="d-methanopyrus">Slender rod with polar tuft of archaella. Class Methanopyri (GTDB phylum Methanobacteriota; 旧称 Euryarchaeota). 关键词: Methanopyrus, rod, polar tuft, hyperthermophile, Methanopyri</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="22" y="40" width="33" height="20" rx="10" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M55.0,42.0 L57.3,43.9 L59.5,44.5 L61.8,43.4 L64.1,41.3 L66.4,39.7 L68.6,39.7 L70.9,41.3 L73.2,43.4 L75.5,44.5 L77.7,43.9 L80.0,42.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M55.0,46.0 L57.3,47.9 L59.5,48.5 L61.8,47.4 L64.1,45.3 L66.4,43.7 L68.6,43.7 L70.9,45.3 L73.2,47.4 L75.5,48.5 L77.7,47.9 L80.0,46.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M55.0,50.0 L57.3,51.9 L59.5,52.5 L61.8,51.4 L64.1,49.3 L66.4,47.7 L68.6,47.7 L70.9,49.3 L73.2,51.4 L75.5,52.5 L77.7,51.9 L80.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M55.0,54.0 L57.3,55.9 L59.5,56.5 L61.8,55.4 L64.1,53.3 L66.4,51.7 L68.6,51.7 L70.9,53.3 L73.2,55.4 L75.5,56.5 L77.7,55.9 L80.0,54.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M55.0,58.0 L57.3,59.9 L59.5,60.5 L61.8,59.4 L64.1,57.3 L66.4,55.7 L68.6,55.7 L70.9,57.3 L73.2,59.4 L75.5,60.5 L77.7,59.9 L80.0,58.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="30" y1="50" x2="50" y2="50" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-dasharray="2,1"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="70" y1="42" x2="78" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <line x1="68.0" y1="19.9" x2="56.1" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="22.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">polar tuft</text>
+    <text x="20" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Methanopyri</text>
+
+  </g>
+</svg>

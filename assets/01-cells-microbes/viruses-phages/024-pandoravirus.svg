@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-pandoravirus d-pandoravirus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-pandoravirus">潘多拉病毒(卵形) / Pandoravirus ovoid giant virus</title>
+  <desc id="d-pandoravirus">Pandoravirus(Pandoraviridae科)。卵形巨病毒(~1µm长)，有包膜和顶端孔(apical pore)。dsDNA基因组~2.5Mb，>90% ORF无已知同源物。感染阿米巴。关键词: Pandoravirus, giant virus, ovoid, apical pore, NCLDV</desc>
+  <g id="layer-body-pandoravirus" data-name="body">
+    <!-- Ovoid body -->
+    <ellipse cx="50" cy="50" rx="28" ry="38" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Envelope -->
+    <ellipse cx="50" cy="50" rx="25" ry="35" fill="none" stroke="#8C6D3F" data-pp="host" stroke-width="1" stroke-dasharray="2,1"/>
+    <!-- Internal particles (dense) -->
+    <circle cx="55.0" cy="23.4" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="41.9" cy="34.5" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="58.5" cy="59.9" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="47.2" cy="23.7" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="39.9" cy="50.3" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="55.4" cy="52.5" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="39.9" cy="55.0" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="61.0" cy="61.1" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="44.2" cy="30.7" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="66.5" cy="40.8" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="62.5" cy="55.8" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="61.1" cy="62.9" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="51.3" cy="76.5" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="45.6" cy="52.9" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="61.9" cy="56.6" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="63.0" cy="54.3" r="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Apical pore -->
+    <ellipse cx="50" cy="14" rx="5" ry="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-pandoravirus" data-name="annotation">
+    <line x1="60.0" y1="11.9" x2="51.76" y2="11.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="14.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">apical pore</text>
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~1µm ovoid</text>
+  </g>
+</svg>

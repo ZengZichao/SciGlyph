@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-freezer-minus20" data-cat="hc" data-spec="128"
+     data-tags="freezer,-20c,storage,lab" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">低温冰箱（-20°C） / Laboratory Freezer (-20°C)</title>
+  <desc id="d">低温冰箱，-20°C储存</desc>
+  <g id="body"><rect x="24" y="12" width="80" height="104" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="16" width="72" height="96" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="44" y="12" width="40" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="46" y="14" width="36" height="8" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="22" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">-20°C</text>
+    <path d="M32 40 L96 40 M32 60 L96 60 M32 80 L96 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M36 44 L92 44 L92 56 L36 56 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <path d="M36 64 L92 64 L92 76 L36 76 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <path d="M36 84 L92 84 L92 96 L36 96 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <circle cx="96" cy="64" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-fluorescence d-fluorescence" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fluorescence">荧光显微镜 / Fluorescence microscopy epifluorescence</title>
+  <desc id="d-fluorescence">荧光显微镜(落射荧光)光路：光源→激发滤片→二色镜(45°,反射激发光)→物镜→样品；荧光发射反向经物镜→透过二色镜→发射滤片→目镜/检测器。发射波长长于激发波长(Stokes位移)。关键词: fluorescence, epifluorescence, dichroic mirror, excitation, emission, emission filter, Stokes shift</desc>
+  <defs>
+    <marker id="pp05__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+  </defs>
+  <g id="layer-body-fluorescence" data-name="body">
+    <!-- Eyepiece / detector -->
+    <rect x="44" y="4" width="12" height="6" rx="2" ry="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <!-- Emission filter (in detection path, above dichroic) -->
+    <rect x="42" y="16" width="16" height="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.6"/>
+    <!-- Dichroic mirror at 45 degrees, crossing optical axis at (50,44) -->
+    <line x1="38" y1="56" x2="62" y2="32" stroke="#E8871E" data-pp="mge" stroke-width="2"/>
+    <!-- Objective between dichroic and sample -->
+    <rect x="42" y="52" width="16" height="14" rx="3" ry="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Sample with fluorophores -->
+    <rect x="30" y="72" width="40" height="6" rx="1" ry="1" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="42" cy="75" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="55" cy="75" r="2" fill="#00857A" data-pp="metabolism"/>
+    <!-- Excitation filter (in excitation path, before dichroic) -->
+    <rect x="86" y="42.5" width="10" height="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.6"/>
+    <!-- Excitation light: source -> ex filter -> dichroic (reflected down) -->
+    <line x1="98" y1="44" x2="53" y2="44" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5" marker-end="url(#pp05__ar)"/>
+    <line x1="50" y1="47" x2="50" y2="69" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5" marker-end="url(#pp05__ar)"/>
+    <!-- Emission light: sample -> up through objective, dichroic, filter to detector -->
+    <line x1="50" y1="69" x2="50" y2="12" stroke="#00857A" data-pp="metabolism" stroke-width="1.2" stroke-dasharray="2,1.5" marker-end="url(#pp05__ar)"/>
+  </g>
+  <g id="layer-annotation-fluorescence" data-name="annotation">
+    <text x="98" y="53" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">ex filter</text>
+    <text x="55" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">em</text>
+    <line x1="64.0" y1="33.9" x2="47.42" y2="33.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="36.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">dichroic 45°</text>
+    <text x="60" y="19" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">em filter</text>
+    <text x="39.56" y="63.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">objective</text>
+    <text x="50" y="86" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">sample</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="26.54" y="95.0">fluorescence</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="23.77" y="78.76">microscopy</text><line x1="8.3" y1="96.28" x2="2.77" y2="74.72" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  </g>
+</svg>

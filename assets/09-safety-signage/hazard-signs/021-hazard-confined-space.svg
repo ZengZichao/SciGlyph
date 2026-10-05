@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-confined-space" data-cat="hz" data-spec="128"
+     data-tags="confined,space,entry,受限空间" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">受限空间标志 / Confined Space Hazard</title>
+  <desc id="d">受限空间警告：人+三角形。</desc>
+  <g id="body"><path d="M64 14 L114 104 L14 104Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="52" r="8" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M64 60 L64 82 M54 70 L74 70 M58 96 L64 82 L70 96" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

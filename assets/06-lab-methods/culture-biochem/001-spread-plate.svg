@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-spread_plate d-spread_plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-spread_plate">稀释涂布 / Spread Plate</title>
+  <desc id="d-spread_plate">稀释涂布平板法: 用涂布棒将菌液均匀涂布在固体培养基表面, 用于分离单菌落或计数。关键词: spread plate, dilution, CFU</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="52" r="30" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="50" cy="52" r="28" fill="#F4F1EA" stroke="#93A0AC" stroke-width="0.5" data-pp="bg"/>
+    <circle cx="40" cy="45" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="55" cy="40" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="60" cy="55" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="45" cy="60" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="35" cy="55" r="1" fill="#2E86AB" data-pp="bacteria"/>
+    <line x1="30" y1="35" x2="70" y2="35" stroke="#1B2733" stroke-width="2.5" stroke-linecap="round" data-pp="ink"/>
+    <line x1="30" y1="35" x2="30" y2="22" stroke="#8C6D3F" stroke-width="2" stroke-linecap="round" data-pp="host"/>
+    <line x1="70" y1="35" x2="70" y2="22" stroke="#8C6D3F" stroke-width="2" stroke-linecap="round" data-pp="host"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">涂布</text>
+  </g>
+</svg>

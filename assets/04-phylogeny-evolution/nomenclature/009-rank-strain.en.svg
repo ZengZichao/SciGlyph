@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-rank_strain d-rank_strain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-rank_strain">Strain</title>
+  <desc id="d-rank_strain">Strain as terminal node with culture collection ID tag 关键词: strain, isolate, ATCC</desc>
+  
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="50" x2="45" y2="50" stroke="#1B2733" stroke-width="2" stroke-linecap="round" data-pp="ink"/>
+    <line x1="45" y1="50" x2="45" y2="35" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <line x1="45" y1="50" x2="45" y2="65" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <circle cx="45" cy="35" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <circle cx="45" cy="65" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <rect x="55" y="30" width="20" height="10" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
+    <text x="65" y="37" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">ATCC</text>
+    <line x1="49" y1="35" x2="55" y2="35" stroke="#E8871E" stroke-width="1" stroke-linecap="round" data-pp="mge"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Strain</text>
+  </g>
+</svg>

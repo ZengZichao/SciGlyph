@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="纵向泳道" data-name-en="swimlane-vertical" data-cat="flowchart-logic" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39">纵向泳道 / swimlane_vertical</title>
+  <desc id="d-39">纵向泳道框架。关键词: swimlane,vertical</desc>
+  <g id="g-39-纵向泳道">
+    <rect x="10" y="10" width="100" height="220" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="110" y="10" width="100" height="220" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="210" y="10" width="100" height="220" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="160" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="260" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+  </g>
+</svg>

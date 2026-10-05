@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-colony-counter" data-cat="ls" data-spec="128" data-tags="colony,counter,agar,plate,cfu,backlight,magnifier" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">菌落计数器 / Colony Counter</title>
+  <desc id="d">菌落计数器：背光板、放大镜、计数笔、网格底板。</desc>
+  <g id="body">
+<rect x="18" y="56" width="92" height="48" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="18" y="56" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<circle cx="56" cy="44" r="28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="56" cy="44" r="24" fill="#F5A623" opacity="0.15" stroke="none" data-ls="warn" />
+<line x1="36" y1="44" x2="76" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="56" y1="24" x2="56" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="46" cy="36" r="2" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="52" cy="42" r="1.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="60" cy="38" r="2.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="48" cy="50" r="1.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="64" cy="48" r="2" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="56" cy="54" r="1.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="42" cy="44" r="2" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<circle cx="68" cy="42" r="1.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<line x1="90" y1="20" x2="72" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke" />
+<circle cx="90" cy="20" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="24" y="64" width="36" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="42" y="74" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">CFU: 127</text>
+    <circle cx="70" cy="70" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="80" cy="70" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="90" cy="70" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="70.0" y="78.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Count</text>
+    <line x1="80.0" y1="75.9" x2="83.47" y2="82.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="84.88" y="85.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Reset</text>
+    <text x="90.0" y="76.6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Size</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

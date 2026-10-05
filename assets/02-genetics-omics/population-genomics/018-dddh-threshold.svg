@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-dddh_threshold d-dddh_threshold" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-dddh_threshold">dDDH 阈值 / dDDH 70% species threshold</title>
+  <desc id="d-dddh_threshold">dDDH值分布与70%物种界定阈值。schematic, not to scale. 关键词: dDDH, species, 70%</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="365" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genome pair index</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">dDDH (%)</text>
+
+</g>
+<g data-name="data">
+  <circle cx="90" cy="159.2" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="102" cy="290.8" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="114" cy="240.4" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="126" cy="285.2" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="138" cy="293.5" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="150" cy="298.6" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="162" cy="137.2" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="174" cy="294.9" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="186" cy="249.9" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="198" cy="282.8" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="210" cy="255.4" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="222" cy="294.4" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="234" cy="177.6" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="246" cy="213.3" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="258" cy="177.8" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="270" cy="159.9" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="282" cy="191.0" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="294" cy="210.8" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="306" cy="211.4" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="318" cy="120.6" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="330" cy="182.6" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="342" cy="125.2" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="354" cy="80.6" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="366" cy="91.8" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="378" cy="234.6" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="390" cy="129.9" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="402" cy="298.9" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="414" cy="225.4" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="426" cy="308.8" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="438" cy="232.2" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="450" cy="306.9" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="462" cy="222.0" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="474" cy="192.5" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="486" cy="271.6" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="498" cy="69.1" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="510" cy="300.7" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="522" cy="277.3" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="534" cy="121.5" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="546" cy="280.5" r="4" fill="#93A0AC" data-pp="muted"/>
+  <circle cx="558" cy="218.9" r="4" fill="#E8871E" data-pp="mge"/>
+  <line x1="80" y1="144.0" x2="560" y2="144.0" stroke="#C42D2D" stroke-width="1.5" stroke-dasharray="5,3" data-pp="alert"/>
+  <text x="540" y="139.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="end" data-pp="alert">70% dDDH threshold</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">dDDH Species Boundary — 70% Threshold (schematic)</text>
+</svg>

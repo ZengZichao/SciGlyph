@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-gradient_plate d-gradient_plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gradient_plate">Gradient Plate</title>
+  <desc id="d-gradient_plate">Antibiotic gradient plate with bacterial growth in low concentration zone 关键词: gradient plate, antibiotic, resistance</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="28" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="25" y="35" width="15" height="20" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" data-pp="alert" fill-opacity="0.5"/>
+    <rect x="40" y="35" width="15" height="20" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" data-pp="alert" fill-opacity="0.3"/>
+    <rect x="55" y="35" width="15" height="20" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" data-pp="alert" fill-opacity="0.1"/>
+    <circle cx="65" cy="45" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="70" cy="50" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="68" cy="40" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <line x1="25" y1="60" x2="75" y2="60" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M73,58 L77,60 L73,62" fill="#1B2733" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="ink"/>
+    <text x="50" y="67" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">concentration</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gradient plate</text>
+  </g>
+</svg>

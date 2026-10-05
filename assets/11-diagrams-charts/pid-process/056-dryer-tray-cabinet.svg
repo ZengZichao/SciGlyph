@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-dryer-tray-cabinet" data-cat="uo" data-spec="128"
+     data-tags="dryer,tray,cabinet,batch,shelves" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">箱式干燥器 / Tray Cabinet Dryer</title>
+  <desc id="d">箱式托盘干燥器，多层托盘。</desc>
+  <g id="body">
+    <rect x="18" y="14" width="92" height="100" rx="4" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="26" y1="34" x2="102" y2="34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="26" y1="54" x2="102" y2="54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="26" y1="74" x2="102" y2="74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="26" y1="94" x2="102" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="10" y1="50" x2="18" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="14,50 20,46 20,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="110" y1="80" x2="118" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="114,80 108,76 108,84" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

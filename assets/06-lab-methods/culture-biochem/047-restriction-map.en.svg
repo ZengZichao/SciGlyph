@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-restriction_map d-restriction_map" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-restriction_map">Restriction Map</title>
+  <desc id="d-restriction_map">限制性酶切图谱: 显示DNA上各限制酶切位点位置。图中标注的 5 kb 等位点距离为示例片段(示意), 非特定参考序列。关键词: restriction map, enzyme, cut site, kb, linear, circular</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="10" y1="40" x2="90" y2="40" stroke="#6C3FA0" stroke-width="2.5" stroke-linecap="round" data-pp="gene"/>
+    <line x1="30" y1="35" x2="30" y2="45" stroke="#C42D2D" stroke-width="2" stroke-linecap="round" data-pp="alert"/>
+    <line x1="50" y1="35" x2="50" y2="45" stroke="#00857A" stroke-width="2" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="70" y1="35" x2="70" y2="45" stroke="#E8871E" stroke-width="2" stroke-linecap="round" data-pp="mge"/>
+    <text x="30.0" y="30.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">EcoRI</text>
+    <text x="52.0" y="30.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">BamHI</text>
+    <line x1="70.0" y1="27.9" x2="78.0" y2="27.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="78.0" y="30.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">HindIII</text>
+    <text x="10" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">0</text>
+    <text x="82.14" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5 kb</text>
+      <line x1="30" y1="48" x2="30" y2="52" stroke="#93A0AC" data-pp="muted" stroke-width="0.5"/>
+    <line x1="50" y1="48" x2="50" y2="52" stroke="#93A0AC" data-pp="muted" stroke-width="0.5"/>
+    <line x1="70" y1="48" x2="70" y2="52" stroke="#93A0AC" data-pp="muted" stroke-width="0.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Restriction map</text>
+  </g>
+</svg>

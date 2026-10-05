@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-marine_phage_abundance d-marine_phage_abundance" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-marine_phage_abundance">海洋噬菌体丰度 / Marine phage abundance 10^7 per mL</title>
+  <desc id="d-marine_phage_abundance">海洋中噬菌体丰度约10^7/mL，是细菌丰度(~10^6/mL)的约10倍。是海洋中数量最多的生物实体。每天裂解约20-40%海洋细菌。关键词: marine phage, abundance, 10^7/mL, phage-to-bacteria ratio, ocean virology</desc>
+  <g id="layer-body-marine_phage_abundance" data-name="body">
+    <!-- Ocean water volume -->
+    <rect x="10" y="10" width="80" height="60" rx="3" ry="3" fill="#F4F1EA" data-pp="bg" stroke="#2E86AB" stroke-width="1"/>
+    <!-- Many small phage particles -->
+    <circle cx="43.1" cy="24.4" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="26.9" cy="26.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="68.7" cy="27.1" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="41.6" cy="49.6" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="52.8" cy="62.8" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="49.2" cy="35.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="58.2" cy="25.3" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="78.9" cy="33.4" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="41.9" cy="49.5" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="25.0" cy="48.3" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="75.2" cy="31.6" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="82.2" cy="41.5" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="69.8" cy="38.4" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="43.0" cy="28.0" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="14.5" cy="24.6" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="85.2" cy="41.8" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="47.3" cy="60.8" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="57.6" cy="64.8" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="39.7" cy="25.2" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="80.3" cy="22.4" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="71.0" cy="45.0" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="84.8" cy="63.1" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="61.5" cy="15.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="15.7" cy="38.6" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="73.0" cy="18.2" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="44.6" cy="18.5" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="36.3" cy="14.3" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="37.7" cy="41.2" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="28.5" cy="54.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="18.0" cy="25.0" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="32.5" cy="35.0" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="69.0" cy="32.4" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="64.0" cy="62.0" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="23.4" cy="58.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="57.2" cy="52.9" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="57.8" cy="35.2" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="20.9" cy="21.5" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="26.5" cy="23.2" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="24.5" cy="24.8" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <circle cx="54.4" cy="54.1" r="1.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.3"/>
+    <!-- Fewer bacteria -->
+    <circle cx="25" cy="30" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="60" cy="45" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="75" cy="25" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  </g>
+  <g id="layer-annotation-marine_phage_abundance" data-name="annotation">
+    <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~10^7 phage/mL</text>
+    <text x="50" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~10^6 bacteria/mL</text>
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phage:bacteria ≈ 10:1</text>
+  </g>
+</svg>

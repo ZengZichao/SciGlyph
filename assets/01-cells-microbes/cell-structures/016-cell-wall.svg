@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="细胞壁" data-name-en="Cell wall" data-cat="02-structures" data-tags="细胞壁,肽聚糖,磷壁酸,革兰氏阳性,自溶素,厚壁" role="img" aria-labelledby="t-16-cell-wall d-16-cell-wall" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16-cell-wall">细胞壁 / Cell wall</title>
+  <desc id="d-16-cell-wall">革兰氏阳性菌的厚肽聚糖细胞壁内嵌磷壁酸与脂磷壁酸聚合物，支撑并维持渗透压稳定，同时可调控自溶素活性。关键词: 细胞壁, 肽聚糖, 磷壁酸, 革兰氏阳性, 自溶素, 厚壁</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<circle cx="60" cy="60" r="48" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<polyline points="98.5 62.2 101.0 57.8 103.5 62.2 106.0 57.8 107.5 62.2" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="98.5" cy="60.0" r="2" fill="#1F6F8B"/>
+<polyline points="85.7 88.8 90.5 87.4 89.2 92.3 94.1 91.0 92.0 95.1" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="87.2" cy="87.2" r="2" fill="#1F6F8B"/>
+<polyline points="57.8 98.5 62.2 101.0 57.8 103.5 62.2 106.0 57.8 107.5" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="60.0" cy="98.5" r="2" fill="#1F6F8B"/>
+<polyline points="31.2 85.7 32.6 90.5 27.7 89.2 29.0 94.1 24.9 92.0" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="32.8" cy="87.2" r="2" fill="#1F6F8B"/>
+<polyline points="21.5 57.8 19.0 62.2 16.5 57.8 14.0 62.2 12.5 57.8" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="21.5" cy="60.0" r="2" fill="#1F6F8B"/>
+<polyline points="34.3 31.2 29.5 32.6 30.8 27.7 25.9 29.0 28.0 24.9" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="32.8" cy="32.8" r="2" fill="#1F6F8B"/>
+<polyline points="62.2 21.5 57.8 19.0 62.2 16.5 57.8 14.0 62.2 12.5" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="60.0" cy="21.5" r="2" fill="#1F6F8B"/>
+<polyline points="88.8 34.3 87.4 29.5 92.3 30.8 91.0 25.9 95.1 28.0" fill="none" stroke="#5FA8C7" stroke-width="1.4"/>
+<circle cx="87.2" cy="32.8" r="2" fill="#1F6F8B"/>
+<circle cx="60" cy="60" r="38" fill="#F2F9F5" stroke="#5FA8C7" stroke-width="3"/>
+<circle cx="60" cy="60" r="36" fill="#F2F9F5" stroke="none"/>
+<path d="M42 60C42 51 53 47 61 51C68 54 76 53 78 60C74 67 62 71 54 67C48 65 42 66 42 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+</g>
+</svg>

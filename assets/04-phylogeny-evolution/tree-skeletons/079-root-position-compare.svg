@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-47 d-47" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">根位置拓扑对照 / Root Position Comparison</title>
+  <desc id="d-47">骨架，配合TreeFix/RAxML使用。同一无根树 ((A,B),C)：左图在 A 枝定根得 (A,(B,C))，右图在 B 枝定根得 (B,(A,C))——根位置改变有根拓扑的对照图。 关键词: phylogenetic tree, root position compare, TreeFix, RAxML, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="tree-left">
+    <text x="130" y="25" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Root at A</text>
+    <circle cx="40" cy="120" r="4" fill="#C42D2D" data-pp="alert"/>
+    <line x1="40" y1="120" x2="130" y2="120" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="130" y1="120" x2="130" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="130" y1="120" x2="230" y2="120" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="130" y1="200" x2="230" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="130" y1="280" x2="230" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="240" y="123" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="240" y="203" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="240" y="283" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+  </g>
+  <g data-name="tree-right">
+    <text x="430" y="25" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Root at B</text>
+    <circle cx="330" cy="200" r="4" fill="#C42D2D" data-pp="alert"/>
+    <line x1="330" y1="200" x2="420" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="420" y1="120" x2="420" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="420" y1="120" x2="520" y2="120" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="420" y1="200" x2="520" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="420" y1="280" x2="520" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="530" y="123" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="530" y="203" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="530" y="283" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+  </g>
+  <line x1="290" y1="30" x2="290" y2="370" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+</svg>

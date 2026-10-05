@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-petri-dish-bottom-label" data-cat="lb" data-spec="160"
+     data-tags="petri,dish,bottom,label,sector,quadrant,culture" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">培养皿底面扇形分区标签 / Petri Dish Bottom Sector Label</title>
+  <desc id="d">培养皿底面扇形分区标签，4段。</desc>
+  <g id="body">
+    <circle cx="80" cy="48" r="38" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="10" x2="80" y2="86" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="42" y1="48" x2="118" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="60" y="32" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">Q1</text>
+    <text x="100" y="32" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">Q2</text>
+    <text x="60" y="68" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">Q3</text>
+    <text x="100" y="68" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">Q4</text>
+    <text x="80" y="92" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="stroke">SAMPLE ID</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>紫外可见分光光度计</title>
+  <rect x="2" y="8" width="20" height="12" rx="1"/>
+  <rect x="4" y="10" width="7" height="4" rx="0.5"/>
+  <line x1="5" y1="12" x2="10" y2="12" stroke-width="0.75"/>
+  <rect x="13" y="10" width="7" height="3" rx="0.5"/>
+  <line x1="14.5" y1="11.5" x2="18.5" y2="11.5" stroke-width="0.75"/>
+  <line x1="15.5" y1="10" x2="15.5" y2="13" stroke-width="0.5"/>
+  <line x1="17.5" y1="10" x2="17.5" y2="13" stroke-width="0.5"/>
+  <circle cx="6" cy="17.5" r="1"/>
+  <circle cx="10" cy="17.5" r="1"/>
+  <line x1="14" y1="16.5" x2="20" y2="16.5" stroke-width="0.75"/>
+  <line x1="14" y1="18.5" x2="20" y2="18.5" stroke-width="0.75"/>
+  <line x1="4" y1="20" x2="4" y2="22" stroke-width="1"/>
+  <line x1="20" y1="20" x2="20" y2="22" stroke-width="1"/>
+</svg>

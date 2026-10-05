@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="色块图例" data-name-en="Legend Color Swatches" data-cat="charts-plots" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55">色块图例 / legend_color_swatches</title>
+  <desc id="d-55">四色色块图例。关键词: legend,swatches,color</desc>
+  <g id="g-55-色块图例">
+    <rect x="10" y="10" width="140" height="95" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="18" y="20" width="14" height="14" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="38" y="31" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">A</text>
+    <rect x="18" y="40" width="14" height="14" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="38" y="51" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">B</text>
+    <rect x="18" y="60" width="14" height="14" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="38" y="71" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">C</text>
+    <rect x="18" y="80" width="14" height="14" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="38" y="91" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">D</text>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-acid_fast_stain d-acid_fast_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-acid_fast_stain">抗酸染色 / Acid-Fast Stain</title>
+  <desc id="d-acid_fast_stain">Ziehl-Neelsen抗酸染色三步: 石炭酸复红CF(初染)→酸醇AA(脱色)→亚甲蓝MB(复染)；抗酸杆菌保留红色。关键词: acid-fast, ZN stain, carbol fuchsin, acid-alcohol, methylene blue</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="35" width="60" height="25" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="30" y="42" width="10" height="4" rx="2.0" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" transform="rotate(10,35,44)"/>
+    <rect x="45" y="48" width="10" height="4" rx="2.0" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" transform="rotate(-5,50,50)"/>
+    <rect x="60" y="44" width="10" height="4" rx="2.0" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" transform="rotate(15,65,46)"/>
+    <rect x="25" y="65" width="8" height="12" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert"/>
+    <rect x="45" y="65" width="8" height="12" rx="1" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <rect x="65" y="65" width="8" height="12" rx="1" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/>
+    <text x="29" y="82" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">CF</text>
+    <text x="49" y="82" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria">AA</text>
+    <text x="69" y="82" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted">MB</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">抗酸染色</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-filter-membrane-disc" data-cat="cs" data-spec="128"
+     data-tags="filter,membrane,disc,0.45μm,microporous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">圆膜过滤器(0.45μm) / Filter Membrane Disc (0.45μm)</title>
+  <desc id="d">0.45μm微孔滤膜圆片。</desc>
+  <g id="body"><ellipse cx="64" cy="64" rx="44" ry="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><ellipse cx="64" cy="64" rx="38" ry="16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><ellipse cx="64" cy="64" rx="30" ry="12" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><circle cx="50" cy="60" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="60" cy="56" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="70" cy="62" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="78" cy="58" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="56" cy="68" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="66" cy="70" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="76" cy="66" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

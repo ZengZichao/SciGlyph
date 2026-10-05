@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-beaker-low-form" data-cat="gl" data-spec="128"
+     data-tags="beaker,glassware,low form,volume,graduation,mixing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">低型烧杯 / Low Form Beaker</title>
+  <desc id="d">实验室常用矮型烧杯，带倾倒嘴、容量刻度与液面。</desc>
+  <g id="body"><path d="M30 34 L30 100 Q30 108 38 108 L90 108 Q98 108 98 100 L98 30 L88 22 L30 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 66 L96 66 L96 100 Q96 106 90 106 L38 106 Q32 106 32 100 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M32 66 L96 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M40 88 L56 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 76 L50 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 64 L56 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 52 L50 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 40 L56 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M34 22 L34 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

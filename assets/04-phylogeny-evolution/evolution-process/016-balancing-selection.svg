@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-balancing_selection d-balancing_selection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-balancing_selection">平衡选择 / Balancing Selection</title>
+<desc id="d-balancing_selection">杂合子优势或负频率依赖选择维持多态 关键词: balancing, heterozygote, advantage, polymorphism</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Balancing Selection</text>
+<text x="60" y="55" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">杂合子优势</text>
+<line x1="70" y1="65" x2="70" y2="230" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="55" y="70" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">W</text>
+<line x1="70" y1="230" x2="440" y2="230" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="95" y="140.0" width="50" height="90.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<text x="120" y="245" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">AA</text>
+<text x="120" y="135.0" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">0.6</text>
+<rect x="215" y="80.0" width="50" height="150.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<text x="240" y="245" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Aa</text>
+<text x="240" y="75.0" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">1.0</text>
+<rect x="335" y="155.0" width="50" height="75.0" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+<text x="360" y="245" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">aa</text>
+<text x="360" y="150.0" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">0.5</text>
+<rect x="205" y="72" width="70" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="240" y="87" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">最高</text>
+<text x="60" y="270" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">等位基因频率动态</text>
+<line x1="80" y1="280" x2="80" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="80" y1="370" x2="350" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="65" y="285" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">p</text>
+<text x="350" y="385" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">代</text>
+<path d="M80,354 L89,349 L98,344 L107,339 L116,336 L125,333 L134,330 L143,328 L152,326 L161,325 L170,324 L179,322 L188,321 L197,321 L206,320 L215,319 L224,319 L233,318 L242,318 L251,318 L260,317 L269,317 L278,317 L287,317 L296,317 L305,317 L314,317 L323,316 L332,316 L341,316" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="80" y1="316.0" x2="350" y2="316.0" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,4"/>
+<text x="355" y="320.0" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">p̂</text>
+<text x="380" y="270" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">负频率依赖</text>
+<line x1="400" y1="280" x2="400" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="400" y1="370" x2="560" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M400,290 L408,294 L416,298 L424,302 L432,306 L440,310 L448,314 L456,318 L464,322 L472,326 L480,330 L488,334 L496,338 L504,342 L512,346 L520,350 L528,354 L536,358 L544,362 L552,366" fill="none" data-pp="virus" stroke="#5B8C3E" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="560" y="385" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">频率</text>
+<text x="390" y="285" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">W</text>
+<rect x="380" y="55" width="190" height="80" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="475" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">镰状细胞贫血</text>
+<text x="475" y="95" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">HbS/HbA 抗疟疾</text>
+<text x="475" y="112" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">HbA/HbA 正常敏感</text>
+<text x="475" y="128" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">HbS/HbS 贫血</text>
+</g>
+</svg>

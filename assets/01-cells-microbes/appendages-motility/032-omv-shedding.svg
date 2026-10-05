@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-appendages" role="img" aria-labelledby="t-omv_shedding d-omv_shedding" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-omv_shedding">外膜囊泡脱落 / OMV Shedding</title>
+  <desc id="d-omv_shedding">Outer membrane vesicles budding and releasing from Gram-negative cell. 关键词: OMV, outer membrane vesicle, blebbing, Gram-negative</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="32" width="45" height="36" rx="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" />
+    <rect x="3" y="30" width="49" height="40" rx="10" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="2,1" />
+    <path d="M50,42 Q56,42 56,48 Q56,54 50,54" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.5" />
+    <circle cx="68" cy="45" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.4" />
+    <circle cx="82" cy="55" r="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.3" />
+    <circle cx="90" cy="38" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.25" />
+    <circle cx="68" cy="45" r="2" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" />
+    <circle cx="82" cy="55" r="1.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" />
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="50" y1="42" x2="50" y2="28" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
+    <text x="42" y="25.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">budding</text>
+    <line x1="68" y1="38" x2="75" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
+    <text x="65" y="17.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">OMV</text>
+
+  </g>
+</svg>

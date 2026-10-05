@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-29_phylo_comparative d-29_phylo_comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29_phylo_comparative">系统发育比较方法 / Phylogenetic Comparative Methods</title>
+  <desc id="d-29_phylo_comparative">骨架流程：系统发育树+性状数据→Pagel's Lambda系统发育信号→PGLS回归→祖先状态重建→系统发育信号(Blomberg's K / Fritz-Purvis D)→可视化。工具：phytools R, caper R。输入：树+性状表；输出：PGLS结果、祖先状态。 关键词: bioinformatics workflow, phylo comparative, Methods, Pagel, Lambda, PGLS, Blomberg K, Fritz-Purvis D, phytools, skeleton template, ancestral state reconstruction, phylogenetics</desc>
+<defs>
+  <marker id="pp29__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp29__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp29__labels" data-name="labels">
+  <rect x="40" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="95.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Tree + Traits</text>
+
+  <rect x="180" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="235.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Pagel Lambda</text>
+
+  <rect x="320" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="375.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PGLS</text>
+
+  <rect x="40" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="95.0" y="243.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Ancestral</text>
+    <text x="95.0" y="255.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">State</text>
+
+  <rect x="180" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="235.0" y="249.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">K / D Trait</text>
+
+  <rect x="320" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="375.0" y="249.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Plot</text>
+
+  <line x1="150" y1="105.0" x2="180" y2="105.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp29__arrow)" stroke-linecap="round"/>
+  <line x1="290" y1="105.0" x2="320" y2="105.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp29__arrow)" stroke-linecap="round"/>
+  <path d="M 375.0 130 L 375.0 175.0 L 95.0 175.0 L 95.0 220" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp29__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="150" y1="245.0" x2="180" y2="245.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp29__arrow)" stroke-linecap="round"/>
+  <line x1="290" y1="245.0" x2="320" y2="245.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp29__arrow)" stroke-linecap="round"/>
+  <text x="40" y="65" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Phylogenetic Comparative Methods</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Tree</text>
+  <rect x="76" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="92" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Signal</text>
+  <rect x="146" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="162" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PGLS</text>
+  </g>
+</svg>

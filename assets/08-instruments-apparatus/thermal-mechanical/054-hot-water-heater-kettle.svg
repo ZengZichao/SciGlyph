@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-hot-water-heater-kettle" data-cat="hc" data-spec="128"
+     data-tags="hot-water,heater,kettle,boiling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">热水加热器（电热水壶）/ Hot Water Heater Kettle</title>
+  <desc id="d">热水加热器/电热水壶</desc>
+  <g id="body"><path d="M36 40 L92 40 L92 108 Q92 116 84 116 L44 116 Q36 116 36 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M40 36 L88 36 L88 40 L40 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M92 60 L104 60 L104 80 L92 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 54 L90 54 L90 106 Q90 114 84 114 L44 114 Q38 114 38 106 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M50 30 L50 36 M64 26 L64 36 M78 30 L78 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M48 26 L52 26 L52 30 L48 30 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M62 22 L66 22 L66 26 L62 26 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M76 26 L80 26 L80 30 L76 30 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <rect x="50" y="40" width="28" height="8" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="52" y="42" width="24" height="4" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g>
+</svg>

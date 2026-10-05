@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-beaker-german-form" data-cat="gl" data-spec="128"
+     data-tags="beaker,german,werkschutz,no spout,glassware" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">德型烧杯(无嘴) / German Form Beaker</title>
+  <desc id="d">德型无嘴烧杯，圆口无倾倒嘴，适合防止蒸发与保温。</desc>
+  <g id="body"><path d="M32 30 L32 100 Q32 108 40 108 L88 108 Q96 108 96 100 L96 30 Q96 22 88 22 L40 22 Q32 22 32 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M34 62 L94 62 L94 100 Q94 106 88 106 L40 106 Q34 106 34 100 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M34 62 L94 62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M42 90 L56 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 76 L50 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 62 L56 62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 48 L50 48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M36 22 L36 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="直角坐标轴" data-name-en="Axis X Y Basic" data-cat="charts-plots" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">直角坐标轴 / axis_x_y_basic</title>
+  <desc id="d-47">干净直角L形坐标轴。关键词: axis,basic,xy</desc>
+  <g id="g-47-直角坐标轴">
+    <line x1="30" y1="15" x2="30" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="30" y1="115" x2="215" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="122" y="140" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="12" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">y</text>
+  </g>
+</svg>

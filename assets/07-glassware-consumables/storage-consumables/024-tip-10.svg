@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-tip-10" data-cat="cs" data-spec="128"
+     data-tags="tip,pipette,10μL,micro,fine tip" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">10μL枪头 / 10μL Pipette Tip</title>
+  <desc id="d">10μL微量移液器枪头，细尖。</desc>
+  <g id="body"><path d="M48 18 L48 34 L54 38 L60 106 L68 106 L74 38 L80 34 L80 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M62 56 L66 56 L68 106 L60 106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/><path d="M54 38 L74 38" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

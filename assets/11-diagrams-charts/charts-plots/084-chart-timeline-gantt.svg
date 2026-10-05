@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-timeline-gantt" data-cat="ch" data-spec="128"
+     data-tags="chart,timeline,gantt,schedule,project,bar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">甘特图 / Chart Timeline Gantt</title>
+  <desc id="d">甘特条4行。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="30" y="28" width="40" height="12" rx="2" ry="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="50" y="48" width="50" height="12" rx="2" ry="2" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="40" y="68" width="35" height="12" rx="2" ry="2" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <rect x="70" y="88" width="30" height="12" rx="2" ry="2" fill="#E02020" stroke="none" data-ls="danger"/>
+    <line x1="44" y1="20" x2="44" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="68" y1="20" x2="68" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="92" y1="20" x2="92" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

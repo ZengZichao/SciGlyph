@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-diet d-diet" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-diet">DIET</title>
+  <desc id="d-diet">Direct interspecies electron transfer via conductive nanowires with electron flow 关键词: DIET, nanowire, electron transfer</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="30" cy="45" r="12" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <rect x="58" y="33" width="24" height="24" rx="2" fill="#A2305B" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <line x1="42" y1="45" x2="58" y2="45" stroke="#00857A" stroke-width="2" stroke-linecap="round" data-pp="metabolism"/>
+    <circle cx="46" cy="45" r="1.5" fill="#6C3FA0" stroke="none" stroke-width="0" data-pp="gene"/>
+    <circle cx="50" cy="45" r="1.5" fill="#6C3FA0" stroke="none" stroke-width="0" data-pp="gene"/>
+    <circle cx="54" cy="45" r="1.5" fill="#6C3FA0" stroke="none" stroke-width="0" data-pp="gene"/>
+    <text x="50" y="40" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">e−</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="33.05" y="92.0">Direct electron</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="27.63" y="84.55">transfer</text><line x1="16.84" y1="96.28" x2="10.83" y2="80.51" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  </g>
+</svg>

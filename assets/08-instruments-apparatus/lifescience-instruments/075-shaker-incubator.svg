@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-shaker-incubator" data-cat="ls" data-spec="128"
+     data-tags="shaker,incubator,orbital,temperature,co2,culture,flask" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">恒温摇床培养箱 / Shaker Incubator</title>
+  <desc id="d">恒温振荡培养箱：腔体、偏心振荡平台、加热/CO₂控制。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="108" height="104" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="10" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="16" y="18" width="72" height="60" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="20" y="56" width="64" height="4" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="52" cy="58" r="8" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1" data-ls="accent"/>
+    <polygon points="58,51 70,54 58,57" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<path d="M26 40 L26 54 L34 54 L34 40 L32 36 L28 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M27 46 L33 46 L33 53 L27 53 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+<path d="M40 40 L40 54 L48 54 L48 40 L46 36 L42 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M41 46 L47 46 L47 53 L41 53 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+<path d="M54 40 L54 54 L62 54 L62 40 L60 36 L56 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M55 46 L61 46 L61 53 L55 53 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+<path d="M68 40 L68 54 L76 54 L76 40 L74 36 L70 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M69 46 L75 46 L75 53 L69 53 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+    <rect x="92" y="20" width="22" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="103" y="28" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">37°C</text>
+    <text x="103" y="36" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">5% CO₂</text>
+    <circle cx="96" cy="46" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="106" cy="46" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="96" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="106" cy="56" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="86" y="36" width="3" height="20" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="100" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

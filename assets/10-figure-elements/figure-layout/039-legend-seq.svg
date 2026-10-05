@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-39_legend_seq d-39_legend_seq" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39_legend_seq">连续色带(顺序) / Sequential</title>
+  <desc id="d-39_legend_seq">顺序连续色带。骨架，配合渐变数值图使用。关键词: legend, sequential, gradient, continuous</desc>
+  <g id="layer-body" data-name="body">
+    <defs><linearGradient id="pp39__g" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F4F1EA" data-pp="bg"/><stop offset="100%" stop-color="#2E86AB" data-pp="bacteria"/></linearGradient></defs>
+    <rect x="10" y="35" width="80" height="14" rx="2" fill="url(#pp39__g)" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="10" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">low</text>
+    <text x="90" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">high</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Sequential</text>
+  </g>
+</svg>

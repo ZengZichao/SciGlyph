@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="发光二极管" data-name-en="led-diode" data-cat="physics-electronics" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17">发光二极管 / led_diode</title>
+  <desc id="d-17">带发光箭头的LED符号。关键词: LED,发光二极管,光电器件</desc>
+  <g id="g-17-发光二极管">
+    <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 45 25 L 45 55 L 70 40 Z" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
+    <line x1="70" y1="40" x2="70" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="60" x2="70" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 75 20 L 85 10" fill="none" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M 77.91 12.58 L 85 10 L 82.42 17.09" fill="none" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M 80 25 L 90 15" fill="none" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M 82.91 17.58 L 90 15 L 87.42 22.09" fill="none" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+  </g>
+</svg>

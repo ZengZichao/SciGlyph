@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-sfs_spectrum d-sfs_spectrum" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sfs_spectrum">位点频谱 SFS / Site frequency spectrum</title>
+  <desc id="d-sfs_spectrum">未折叠SFS条形图。schematic, not to scale. 关键词: SFS, allele frequency</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="365" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Allele frequency</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Count</text>
+
+</g>
+<g data-name="sfs-bars">
+  <rect x="85" y="91.0" width="20" height="249.0" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="109" y="218.0" width="20" height="122.0" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="133" y="254.7" width="20" height="85.3" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="157" y="274.5" width="20" height="65.5" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="181" y="289.0" width="20" height="51.0" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="295.3" width="20" height="44.7" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="229" y="309.3" width="20" height="30.7" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="253" y="312.8" width="20" height="27.2" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="277" y="316.2" width="20" height="23.8" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="301" y="318.0" width="20" height="22.0" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="325" y="314.3" width="20" height="25.7" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="349" y="324.2" width="20" height="15.8" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="373" y="320.8" width="20" height="19.2" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="397" y="318.1" width="20" height="21.9" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="421" y="320.3" width="20" height="19.7" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="445" y="327.4" width="20" height="12.6" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="469" y="324.3" width="20" height="15.7" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="493" y="329.1" width="20" height="10.9" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="517" y="331.8" width="20" height="8.2" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="541" y="328.5" width="20" height="11.5" fill="#2E86AB" data-pp="bacteria"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Site Frequency Spectrum — Unfolded SFS (schematic)</text>
+<text x="300" y="375" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Excess of rare variants expected under neutrality</text>
+</svg>

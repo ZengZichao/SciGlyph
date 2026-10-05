@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="OTU / ASV 聚类" data-name-en="OTU and ASV Clustering" data-cat="05-eco-seq" data-tags="OTU,ASV,操作分类单元,聚类,低丰度过滤,噪声" role="img" aria-labelledby="t-28-otu-cluster d-28-otu-cluster" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28-otu-cluster">OTU / ASV 聚类 / OTU and ASV Clustering</title>
+  <desc id="d-28-otu-cluster">高变区序列按 97% 相似度聚类为 OTU，或经去噪算法（DADA2/UNOISE）推断 ASV；并依丰度阈值剔除噪声与嵌合体读段。关键词: OTU, ASV, 操作分类单元, 聚类, 低丰度过滤, 噪声</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 聚类簇 1 -->
+  <ellipse cx="26" cy="30" rx="13" ry="10" fill="#2E7D5B" fill-opacity="0.12" stroke="#2E7D5B" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <circle cx="20" cy="25" r="2.3" fill="#2E7D5B" stroke="none"/>
+  <circle cx="28" cy="23" r="2.3" fill="#2E7D5B" stroke="none"/>
+  <circle cx="33" cy="30" r="2.3" fill="#2E7D5B" stroke="none"/>
+  <circle cx="24" cy="34" r="2.3" fill="#2E7D5B" stroke="none"/>
+  <circle cx="17" cy="32" r="2.3" fill="#2E7D5B" stroke="none"/>
+  <circle cx="29" cy="37" r="2.1" fill="#2E7D5B" stroke="none"/>
+  <path d="M26 26 v8 M22 28 l8 4 M30 28 l-8 4" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 聚类簇 2 -->
+  <ellipse cx="55" cy="22" rx="10" ry="8" fill="#1F6F8B" fill-opacity="0.12" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <circle cx="51" cy="19" r="2.1" fill="#1F6F8B" stroke="none"/>
+  <circle cx="58" cy="21" r="2.1" fill="#1F6F8B" stroke="none"/>
+  <circle cx="54" cy="26" r="2.1" fill="#1F6F8B" stroke="none"/>
+  <circle cx="60" cy="26" r="1.9" fill="#1F6F8B" stroke="none"/>
+  <path d="M55 19 v6 M52 20 l6 4 M58 20 l-6 4" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 聚类簇 3 -->
+  <ellipse cx="34" cy="62" rx="15" ry="11" fill="#E8B04B" fill-opacity="0.18" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <circle cx="27" cy="57" r="2.4" fill="#E8B04B" stroke="none"/>
+  <circle cx="35" cy="55" r="2.4" fill="#E8B04B" stroke="none"/>
+  <circle cx="42" cy="59" r="2.4" fill="#E8B04B" stroke="none"/>
+  <circle cx="30" cy="65" r="2.4" fill="#E8B04B" stroke="none"/>
+  <circle cx="39" cy="67" r="2.2" fill="#E8B04B" stroke="none"/>
+  <circle cx="33" cy="70" r="2.2" fill="#E8B04B" stroke="none"/>
+  <circle cx="24" cy="62" r="2" fill="#E8B04B" stroke="none"/>
+  <path d="M34 58 v8 M30 60 l8 4 M38 60 l-8 4" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 聚类簇 4 -->
+  <ellipse cx="65" cy="56" rx="11" ry="9" fill="#C0504D" fill-opacity="0.14" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <circle cx="61" cy="52" r="2.1" fill="#C0504D" stroke="none"/>
+  <circle cx="68" cy="55" r="2.1" fill="#C0504D" stroke="none"/>
+  <circle cx="64" cy="60" r="2.1" fill="#C0504D" stroke="none"/>
+  <circle cx="70" cy="61" r="1.9" fill="#C0504D" stroke="none"/>
+  <path d="M65 53 v7 M62 55 l6 3 M68 55 l-6 3" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 噪声/嵌合体读段 -->
+  <circle cx="10" cy="88" r="2" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="18" cy="94" r="1.8" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="52" cy="92" r="2" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="72" cy="88" r="1.8" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="76" cy="14" r="1.8" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="14" cy="48" r="1.8" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="74" cy="40" r="2" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="50" cy="44" r="1.8" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <ellipse cx="44" cy="90" rx="26" ry="11" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <text x="44" y="110" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">低丰度噪声</text>
+  <!-- 右侧：簇丰度与过滤阈值 -->
+  <text x="96" y="24" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">OTU</text>
+  <path d="M80 32 H112" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M80 40 H112 M80 48 H112 M80 56 H112" stroke="#2B3A42" stroke-width="1.2" stroke-opacity="0.5"/>
+  <rect x="80" y="40" width="4" height="52" fill="#2E7D5B" stroke="none"/>
+  <rect x="87" y="52" width="4" height="40" fill="#E8B04B" stroke="none"/>
+  <rect x="94" y="62" width="4" height="30" fill="#1F6F8B" stroke="none"/>
+  <rect x="101" y="76" width="4" height="16" fill="#C0504D" stroke="none"/>
+  <rect x="108" y="88" width="4" height="4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M78 68 H114" stroke="#C0504D" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <path d="M80 64 v4 M112 64 v4" stroke="#C0504D" stroke-width="1.4"/>
+</g>
+</svg>

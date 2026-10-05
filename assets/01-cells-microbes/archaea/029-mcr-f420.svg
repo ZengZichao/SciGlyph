@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-mcr_f420 d-mcr_f420" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mcr_f420">甲基辅酶M还原酶F430 / Methyl-CoM Reductase &amp; cofactor F430</title>
+  <desc id="d-mcr_f420">MCR enzyme active site with nickel-tetrapyrrole cofactor F430. Methanogen autofluorescence comes from coenzyme F420, a different cofactor (F420-dependent enzymes). 关键词: MCR, methyl-coenzyme M reductase, F430, F420 autofluorescence, cofactor</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="30" width="35" height="40" rx="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <circle cx="32" cy="50" r="8" fill="#1B2733" data-pp="ink" fill-opacity="0.3"/>
+    <text x="24" y="53" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">MCR</text>
+    <line x1="27" y1="30" x2="27" y2="70" stroke="#1B2733" stroke-width="0.8" data-pp="ink" stroke-dasharray="2,1"/>
+    <line x1="38" y1="30" x2="38" y2="70" stroke="#1B2733" stroke-width="0.8" data-pp="ink" stroke-dasharray="2,1"/>
+    <circle cx="72" cy="50" r="12" fill="#E8871E" data-pp="mge" stroke="none" fill-opacity="0.15"/>
+    <circle cx="72" cy="50" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" fill-opacity="0.6"/>
+    <circle cx="72" cy="50" r="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.9"/>
+    <line x1="81.0" y1="50.0" x2="86.0" y2="50.0" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="78.4" y1="56.4" x2="81.9" y2="59.9" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="72.0" y1="59.0" x2="72.0" y2="64.0" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="65.6" y1="56.4" x2="62.1" y2="59.9" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="63.0" y1="50.0" x2="58.0" y2="50.0" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="65.6" y1="43.6" x2="62.1" y2="40.1" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="72.0" y1="41.0" x2="72.0" y2="36.0" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="78.4" y1="43.6" x2="81.9" y2="40.1" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="18" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">MCR</text>
+    <text x="58" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">F430</text>
+
+  </g>
+</svg>

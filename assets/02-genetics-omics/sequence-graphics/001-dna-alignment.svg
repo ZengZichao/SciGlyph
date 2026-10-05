@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-dna_alignment d-dna_alignment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-dna_alignment">DNA 序列比对视图 / DNA Sequence Alignment</title>
+<desc id="d-dna_alignment">列对齐多序列比对，保守位点高亮，一致度渐变轨道。关键词: alignment, conservation, MSA</desc>
+<g id="layer-bg" data-name="background">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+</g>
+<g id="layer-title" data-name="title">
+<text x="300" y="30" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">DNA Sequence Alignment</text>
+</g>
+<g id="layer-labels" data-name="seq-labels">
+<text x="90" y="80" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq_1</text>
+<text x="90" y="110" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq_2</text>
+<text x="90" y="140" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq_3</text>
+<text x="90" y="170" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq_4</text>
+<text x="90" y="200" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq_5</text>
+</g>
+<g id="layer-alignment" data-name="alignment-cells">
+<rect x="100" y="60" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="114.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="130" y="60" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="144.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="160" y="60" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="174.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="190" y="60" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.60" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="204.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="220" y="60" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="234.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="250" y="60" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="264.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="280" y="60" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="294.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="310" y="60" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.80" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="324.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="340" y="60" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="354.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="370" y="60" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="384.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="400" y="60" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="414.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="430" y="60" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="444.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="460" y="60" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="1.00" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="474.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="490" y="60" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="0.80" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="504.0" y="78" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="100" y="90" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="114.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="130" y="90" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="144.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="160" y="90" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="174.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="190" y="90" width="28" height="26" rx="2" fill="#93A0AC" fill-opacity="0.30" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="220" y="90" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="234.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="250" y="90" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="264.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="280" y="90" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="294.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="310" y="90" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.80" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="324.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="340" y="90" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="354.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="370" y="90" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="384.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="400" y="90" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="414.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="430" y="90" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="444.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="460" y="90" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="1.00" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="474.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="490" y="90" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="0.80" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="504.0" y="108" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="100" y="120" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="114.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="130" y="120" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="144.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="160" y="120" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="174.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="190" y="120" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.60" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="204.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="220" y="120" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="234.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="250" y="120" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="264.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="280" y="120" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="294.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="310" y="120" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.80" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="324.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="340" y="120" width="28" height="26" rx="2" fill="#93A0AC" fill-opacity="0.30" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="370" y="120" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="384.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="400" y="120" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="414.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="430" y="120" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="444.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="460" y="120" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="1.00" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="474.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="490" y="120" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="0.80" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="504.0" y="138" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="100" y="150" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="114.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="130" y="150" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="144.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="160" y="150" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="174.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="190" y="150" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.60" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="204.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="220" y="150" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="234.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="250" y="150" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="264.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="280" y="150" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="294.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="310" y="150" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.80" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="324.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="340" y="150" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="354.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="370" y="150" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="384.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="400" y="150" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="414.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="430" y="150" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="444.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="460" y="150" width="28" height="26" rx="2" fill="#93A0AC" fill-opacity="0.30" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="490" y="150" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="0.80" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="504.0" y="168" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="100" y="180" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="114.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="130" y="180" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="144.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="160" y="180" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="174.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="190" y="180" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.60" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="204.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="220" y="180" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="234.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="250" y="180" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="264.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="280" y="180" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="294.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="310" y="180" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="0.80" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="324.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="340" y="180" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="354.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="370" y="180" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="1.00" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="384.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<rect x="400" y="180" width="28" height="26" rx="2" fill="#2E86AB" fill-opacity="1.00" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="414.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+<rect x="430" y="180" width="28" height="26" rx="2" fill="#00857A" fill-opacity="1.00" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="444.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+<rect x="460" y="180" width="28" height="26" rx="2" fill="#6C3FA0" fill-opacity="1.00" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="474.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<rect x="490" y="180" width="28" height="26" rx="2" fill="#C42D2D" fill-opacity="0.80" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="504.0" y="198" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+</g>
+<g id="layer-conservation" data-name="conservation-track">
+<text x="90" y="240" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Conservation</text>
+<rect x="100" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="130" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="160" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="190" y="241.0" width="28" height="24" fill="#00857A" data-pp="metabolism" fill-opacity="0.72" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="220" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="250" y="233.0" width="28" height="32" fill="#00857A" data-pp="metabolism" fill-opacity="0.80" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="280" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="310" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="340" y="233.0" width="28" height="32" fill="#00857A" data-pp="metabolism" fill-opacity="0.80" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="370" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="400" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="430" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="460" y="233.0" width="28" height="32" fill="#00857A" data-pp="metabolism" fill-opacity="0.80" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="490" y="225.0" width="28" height="40" fill="#00857A" data-pp="metabolism" fill-opacity="1.00" stroke="#1B2733" stroke-width="0.5"/>
+</g>
+<g id="layer-positions" data-name="position-numbers">
+<text x="114.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">1</text>
+<text x="144.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">2</text>
+<text x="174.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">3</text>
+<text x="204.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">4</text>
+<text x="234.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5</text>
+<text x="264.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">6</text>
+<text x="294.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">7</text>
+<text x="324.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">8</text>
+<text x="354.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">9</text>
+<text x="384.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">10</text>
+<text x="414.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">11</text>
+<text x="444.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">12</text>
+<text x="474.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">13</text>
+<text x="504.0" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">14</text>
+</g></svg>

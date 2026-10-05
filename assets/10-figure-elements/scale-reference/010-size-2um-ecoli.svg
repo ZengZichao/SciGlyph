@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_2um_ecoli d-size_2um_ecoli" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_2um_ecoli">2µm大肠杆菌 / 2µm E.coli</title>
+  <desc id="d-size_2um_ecoli">尺度图标：2µm大肠杆菌，大小约2 µm。典型大肠杆菌长约2µm，宽约0.5µm（图中 55×14 单位按 1 单位≈0.036µm 换算）。 Scale bar=2 µm。假设放大倍率: ×500 (1cm = 20µm)。关键词: size scale, 2 µm, scale bar</desc>
+  <g id="layer-body-size_2um_ecoli" data-name="body">
+    <!-- E. coli ~2µm -->
+    <rect x="15" y="32" width="55" height="14" rx="7" ry="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Length arrow -->
+    <line x1="15" y1="52" x2="70" y2="52" stroke="#1B2733" stroke-width="1"/>
+    <line x1="15" y1="49" x2="15" y2="55" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="70" y1="49" x2="70" y2="55" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="42" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~2µm E.coli</text>
+    <!-- Scale bar -->
+    <line x1="15" y1="82" x2="70" y2="82" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <line x1="70" y1="79" x2="70" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <text x="42" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">2 µm</text>
+  </g>
+  <g id="layer-annotation-size_2um_ecoli" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">2 µm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

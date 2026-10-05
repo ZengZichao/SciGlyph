@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-pinch-point" data-cat="hz" data-spec="128"
+     data-tags="pinch,crush,hand,夹手,危险" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">夹手危险标志 / Pinch Point Hazard</title>
+  <desc id="d">夹手警告：滚轮+手。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="48" cy="58" r="16" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="80" cy="58" r="16" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M56 80 L56 96 C56 98 58 100 60 100 L68 100 C70 100 72 98 72 96 L72 80" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M60 80 L60 92 M64 80 L64 94 M68 80 L68 92" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
+    <path d="M50 42 L58 38 M78 42 L70 38" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/></g>
+  <g id="detail"></g>
+</svg>

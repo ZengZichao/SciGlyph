@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-fitness_landscape d-fitness_landscape" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-fitness_landscape">Fitness Landscape</title>
+<desc id="d-fitness_landscape">双峰适应性景观:局部峰与全局峰,种群跨越适应度谷 关键词: fitness landscape, peak, valley, adaptation, Wright</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Fitness Landscape</text>
+<path d="M40,300 L40,299 L45,298 L50,297 L56,296 L61,294 L66,292 L71,290 L76,286 L82,282 L87,278 L92,272 L97,265 L102,257 L108,249 L113,240 L118,231 L123,221 L128,212 L134,203 L139,196 L144,189 L149,184 L154,181 L160,180 L165,181 L170,184 L175,189 L180,195 L186,203 L191,212 L196,221 L201,231 L206,241 L212,251 L217,260 L222,269 L227,277 L232,285 L238,291 L243,296 L248,296 L253,293 L258,289 L264,284 L269,277 L274,270 L279,261 L284,251 L290,241 L295,229 L560,300 Z" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.15"/>
+<path d="M40,300 L45,300 L50,300 L56,300 L61,300 L66,300 L71,300 L76,300 L82,300 L87,300 L92,300 L97,300 L102,300 L108,300 L113,300 L118,300 L123,300 L128,299 L134,297 L139,292 L144,285 L149,276 L154,268 L160,264 L165,267 L170,275 L175,284 L180,292 L186,296 L191,299 L196,300 L201,300 L206,300 L212,300 L217,300 L222,300 L227,300 L232,300 L238,300 L243,301 L248,301 L253,303 L258,304 L264,303 L269,302 L274,301 L279,300 L284,300 L290,300 L295,300" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4,3"/>
+<path d="M40,300 L45,300 L50,300 L56,300 L61,300 L66,300 L71,300 L76,300 L82,300 L87,300 L92,300 L97,300 L102,299 L108,298 L113,296 L118,293 L123,289 L128,283 L134,275 L139,266 L144,256 L149,248 L154,242 L160,240 L165,242 L170,247 L175,255 L180,264 L186,274 L191,282 L196,288 L201,293 L206,296 L212,298 L217,299 L222,300 L227,300 L232,301 L238,302 L243,303 L248,304 L253,305 L258,306 L264,306 L269,305 L274,304 L279,302 L284,301 L290,299 L295,297" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4,3"/>
+<path d="M40,300 L45,300 L50,300 L56,300 L61,300 L66,300 L71,299 L76,299 L82,298 L87,297 L92,296 L97,293 L102,290 L108,285 L113,280 L118,273 L123,265 L128,256 L134,246 L139,237 L144,229 L149,222 L154,218 L160,216 L165,217 L170,221 L175,228 L180,236 L186,245 L191,254 L196,263 L201,272 L206,279 L212,285 L217,290 L222,294 L227,298 L232,301 L238,303 L243,305 L248,306 L253,307 L258,307 L264,305 L269,303 L274,301 L279,297 L284,292 L290,286 L295,280" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4,3"/>
+<text x="160" y="170" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">Local peak</text>
+<circle cx="160" cy="180" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="360" y="110" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">Global peak</text>
+<circle cx="360" cy="120" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+<text x="260" y="270" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Fitness valley</text>
+<circle cx="120" cy="210" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="140" cy="195" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="155" cy="185" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="175" cy="200" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="200" cy="240" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="230" cy="260" r="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="260" cy="265" r="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="290" cy="250" r="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="320" cy="200" r="4" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+<circle cx="340" cy="150" r="4" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+<circle cx="355" cy="128" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+<path d="M120,210 L140,195 L155,185 L175,200 L200,240 L230,260 L260,265 L290,250 L320,200 L340,150 L355,128" fill="none" data-pp="ink" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="40" y1="300" x2="560" y2="300" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="560" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">Genotype space</text>
+<line x1="40" y1="300" x2="40" y2="100" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="30" y="105" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">W</text>
+<rect x="400" y="310" width="180" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<circle cx="415" cy="330" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="425" y="334" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Population trajectory</text>
+<circle cx="415" cy="350" r="4" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="425" y="354" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Adaptive peak</text>
+<text font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start" font-size="7" x="499.68" y="341.79">Drift can cross valleys</text><line x1="506.0" y1="332.18" x2="502.9" y2="337.75" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+</g>
+</svg>

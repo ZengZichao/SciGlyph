@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-loop-for-brackets" data-cat="pf" data-spec="160"
+     data-tags="loop,for,iteration,bracket,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">循环For方括号 / Loop For Brackets</title>
+  <desc id="d">流程图循环结构符号，方括号形式。</desc>
+  <g id="body">
+    <path d="M40,12 L24,12 L24,84 L40,84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M120,12 L136,12 L136,84 L120,84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

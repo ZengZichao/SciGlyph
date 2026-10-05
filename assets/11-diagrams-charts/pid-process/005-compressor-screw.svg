@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>螺杆压缩机</title>
+  <rect x="4" y="6" width="16" height="12" rx="1"/>
+  <path d="M6 9Q8 11 6 13Q8 11 10 9Q12 11 10 13Q12 11 14 9" stroke-width="1"/>
+  <path d="M10 9Q12 11 10 13Q12 11 14 9Q16 11 14 13Q16 11 18 9" stroke-width="1"/>
+  <line x1="6" y1="15" x2="18" y2="15" stroke-width="0.75"/>
+  <circle cx="8" cy="12" r="0.5"/>
+  <circle cx="16" cy="12" r="0.5"/>
+  <line x1="2" y1="10" x2="4" y2="10"/>
+  <line x1="2" y1="14" x2="4" y2="14"/>
+  <polyline points="3,9 2,10 3,11"/>
+  <line x1="20" y1="10" x2="22" y2="10"/>
+  <line x1="20" y1="14" x2="22" y2="14"/>
+  <polyline points="21,9 22,10 21,11"/>
+  <line x1="8" y1="18" x2="8" y2="20"/>
+  <line x1="16" y1="18" x2="16" y2="20"/>
+  <line x1="6" y1="20" x2="18" y2="20"/>
+</svg>

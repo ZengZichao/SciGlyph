@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-serological-pipette-25ml" data-cat="lh" data-spec="128"
+     data-tags="pipette,serological,25ml,glass,graduated" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">25mL塑料刻度吸管 / 25mL Serological Pipette</title>
+  <desc id="d">25mL塑料刻度吸管，带全刻度，吹出式</desc>
+  <g id="body"><path d="M60 10 L68 10 L68 14 L66 14 L66 100 L68 106 L68 116 L64 120 L60 116 L60 106 L62 100 L62 14 L60 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 10 L68 10 L68 14 L60 14 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><path d="M62 24 L66 24 M62 32 L66 32 M62 40 L66 40 M62 48 L66 48 M62 56 L66 56 M62 64 L66 64 M62 72 L66 72 M62 80 L66 80 M62 88 L66 88 M62 96 L66 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M62 28 L64 28 M62 36 L64 36 M62 44 L64 44 M62 52 L64 52 M62 60 L64 60 M62 68 L64 68 M62 76 L64 76 M62 84 L64 84 M62 92 L64 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="72" y="26" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">25</text>
+    <text x="72" y="98" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">0</text></g>
+</svg>

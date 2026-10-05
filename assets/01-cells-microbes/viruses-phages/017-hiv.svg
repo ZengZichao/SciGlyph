@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-hiv d-hiv" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-hiv">HIV(锥形衣壳) / HIV conical capsid retrovirus</title>
+  <desc id="d-hiv">HIV(逆转录病毒科Retroviridae)。脂质包膜含gp120/gp41刺突复合物。内部锥形衣壳(conical capsid)含两条ssRNA(+)。关键词: HIV, retrovirus, conical capsid, gp120, gp41</desc>
+  <g id="layer-body-hiv" data-name="body">
+    <!-- Envelope -->
+    <circle cx="50" cy="48" r="30" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="2"/>
+    <!-- gp120/gp41 spikes -->
+    <line x1="24" y1="35" x2="16" y2="28" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="15" cy="27" r="3" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <line x1="50" y1="18" x2="50" y2="10" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="50" cy="9" r="3" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <line x1="76" y1="35" x2="84" y2="28" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="85" cy="27" r="3" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <!-- Conical capsid -->
+    <polygon points="50,30 62,60 50,68 38,60" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- RNA inside capsid -->
+    <path d="M44,45 Q48,40 52,45 Q56,50 56,55" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-hiv" data-name="annotation">
+    <text x="3" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gp120</text>
+    <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">conical capsid</text>
+  </g>
+</svg>

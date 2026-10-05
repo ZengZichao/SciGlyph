@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-battery-internal-resistance-model" data-cat="el" data-spec="128"
+     data-tags="battery,internal,resistance,model,内阻,模型" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电池内阻模型 / Battery Internal Resistance Model</title>
+  <desc id="d">理想电源+内阻串联模型。</desc>
+  <g id="body"><line x1="10" y1="64" x2="28" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="28" y1="40" x2="28" y2="88" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="36" y1="48" x2="36" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="36" y1="64" x2="52" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="52" y="52" width="28" height="24" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="66" y="68" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">r</text>
+    <text x="22" y="36" fill="#E02020" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="danger">+</text>
+    <text x="42" y="36" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">−</text>
+    <text x="66" y="48" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">EMF</text></g>
+  <g id="detail"></g>
+</svg>

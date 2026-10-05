@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-soxhlet-assembly" data-cat="sp" data-spec="128"
+     data-tags="soxhlet,assembly,extraction,condenser,complete" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">索氏提取全套装置 / Soxhlet Assembly</title>
+  <desc id="d">索氏提取全套：烧瓶+索氏+冷凝管</desc>
+  <g id="body"><path d="M40 90 L88 90 L88 116 L40 116 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 90 L44 60 L84 60 L84 90" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 60 L48 30 L80 30 L80 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 30 L52 14 L76 14 L76 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 70 L36 70 L36 90 L44 90" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M84 70 L92 70 L92 90 L84 90" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M42 100 L86 100 L86 114 L42 114 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M50 64 L78 64 L78 88 L50 88 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M54 34 L74 34 L74 58 L54 58 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M54 18 L74 18 L74 28 L54 28 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M56 18 L56 28 M64 18 L64 28 M72 18 L72 28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

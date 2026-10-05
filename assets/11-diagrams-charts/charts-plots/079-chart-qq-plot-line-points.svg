@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-qq-plot-line-points" data-cat="ch" data-spec="128"
+     data-tags="chart,qq-plot,quantile,normal,theoretical,statistics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">QQ图 / Chart QQ Plot Line Points</title>
+  <desc id="d">QQ图线加点。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="24" y1="104" x2="112" y2="24" fill="none" stroke="#E02020" stroke-dasharray="4,3" data-ls="danger" stroke-linecap="round"/>
+    <circle cx="28" cy="100" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="36" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="44" cy="84" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="52" cy="74" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="60" cy="66" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="68" cy="58" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="76" cy="50" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="84" cy="42" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="34" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="100" cy="28" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="108" cy="24" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

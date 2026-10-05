@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="革兰阴性包被" data-name-en="Gram-negative envelope" data-cat="02-structures" data-tags="革兰氏阴性,外膜,周质空间,薄肽聚糖,内膜,三层包被,LPS" role="img" aria-labelledby="t-18-gram-negative-envelope d-18-gram-negative-envelope" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18-gram-negative-envelope">革兰阴性包被 / Gram-negative envelope</title>
+  <desc id="d-18-gram-negative-envelope">革兰氏阴性菌包被自外向内依次为外膜（含 LPS）、周质空间中 2–3 层的薄肽聚糖和内膜，共三层，与阳性菌的厚壁形成对比。关键词: 革兰氏阴性, 外膜, 周质空间, 薄肽聚糖, 内膜, 三层包被, LPS</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<circle cx="60" cy="60" r="44" fill="#7FB6CE" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M104.0 60.0L110.0 60.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="109.5" cy="60.0" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M98.1 82.0L103.3 85.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="102.9" cy="84.8" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M82.0 98.1L85.0 103.3" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="84.8" cy="102.9" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M60.0 104.0L60.0 110.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="60.0" cy="109.5" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M38.0 98.1L35.0 103.3" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="35.3" cy="102.9" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M21.9 82.0L16.7 85.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="17.1" cy="84.8" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M16.0 60.0L10.0 60.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="10.5" cy="60.0" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M21.9 38.0L16.7 35.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="17.1" cy="35.2" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M38.0 21.9L35.0 16.7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="35.2" cy="17.1" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M60.0 16.0L60.0 10.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="60.0" cy="10.5" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M82.0 21.9L85.0 16.7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="84.8" cy="17.1" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<path d="M98.1 38.0L103.3 35.0" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="102.9" cy="35.2" r="2.6" fill="#C0504D" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="28.1" cy="37.6" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="49.9" cy="22.3" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="91.9" cy="37.6" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="95.3" cy="76.5" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="60" cy="60" r="36" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+<circle cx="60" cy="60" r="31" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2.4"/>
+<circle cx="60" cy="60" r="27" fill="#7FB6CE" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="60" cy="60" r="25" fill="#F2F9F5" stroke="none"/>
+<path d="M45 60C45 53 54 50 61 53C67 55 73 54 75 60C71 66 61 69 54 66C49 64 45 65 45 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M18 22L29 31" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M102 62L90 61" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M60 104L60 88" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<text x="6" y="18" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="start">①</text>
+<text x="116" y="66" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="end">②</text>
+<text x="60" y="116" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="middle">③</text>
+</g>
+</svg>

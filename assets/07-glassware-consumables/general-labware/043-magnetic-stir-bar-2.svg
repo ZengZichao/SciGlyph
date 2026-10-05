@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="搅拌子" data-name-en="magnetic_stir_bar" data-cat="lab-equipment" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-46">搅拌子 / magnetic_stir_bar</title>
+  <desc id="d-46">在磁力搅拌器中搅拌液体。关键词: 搅拌子,stir_bar,磁力,搅拌</desc>
+  <g id="g-46-搅拌子">
+    <rect x="18" y="18" width="60" height="12" rx="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="48" y1="18" x2="48" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="18" y="18" width="30" height="12" rx="6" fill="#D55E00" stroke="none" data-drole="series-1"/>
+    <rect x="48" y="18" width="30" height="12" rx="6" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="18" y="18" width="60" height="12" rx="6" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

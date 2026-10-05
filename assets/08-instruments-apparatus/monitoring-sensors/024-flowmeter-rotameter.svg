@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-flowmeter-rotameter" data-cat="mt" data-spec="128"
+     data-tags="flowmeter,rotameter,flow,float,流量计,转子" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">转子流量计 / Rotameter Flowmeter</title>
+  <desc id="d">转子流量计：锥形管（下窄上宽）+浮子+刻度，流体自下而上推动浮子。</desc>
+  <g id="body"><path d="M44 14 L50 114 L78 114 L84 14Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M46 20 L52 108 L76 108 L82 20Z" fill="#BFE0FF" opacity="0.2" data-ls="liquid"/>
+    <ellipse cx="64" cy="68" rx="12" ry="6" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><g id="scale">
+    <line x1="80" y1="24" x2="86" y2="24" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <line x1="79" y1="36" x2="85" y2="36" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="78" y1="48" x2="84" y2="48" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <line x1="77" y1="60" x2="83" y2="60" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="76" y1="72" x2="82" y2="72" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <line x1="75" y1="84" x2="81" y2="84" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="74" y1="96" x2="80" y2="96" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <path d="M64 106 L64 94" fill="none" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent"/>
+    <path d="M60 102 L64 92 L68 102" fill="none" stroke="#2B7DE9" stroke-linejoin="round" stroke-width="1.5" data-ls="accent"/>
+  </g></g>
+</svg>

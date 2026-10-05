@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-protein_blosum d-protein_blosum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-protein_blosum">蛋白比对 BLOSUM 5 级着色 / Protein BLOSUM 5-Level Coloring</title>
+  <desc id="d-protein_blosum">BLOSUM62 分值分 5 级着色蛋白多序列比对：按列多数残基着 Identical(红)；替代打分 ≥+2 着 Strong+(橙，如 I/V=+3、K/R=+2)；+1 着 Weak+(蓝，如 A/S)；−1 着 Negative(浅底，如 A/L=−1)。schematic. 关键词: protein, BLOSUM, alignment, coloring, BLOSUM62</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="30" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Protein BLOSUM 5-Level Coloring</text>
+    <text x="110" y="75" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq1</text>
+    <rect x="120" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="139" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
+    <rect x="160" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="179" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
+    <rect x="200" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="219" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="240" y="55" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="280" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="299" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
+    <rect x="320" y="55" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="360" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="379" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="400" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="419" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <text x="110" y="107" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq2</text>
+    <rect x="120" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="139" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
+    <rect x="160" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="179" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
+    <rect x="200" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="219" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="240" y="87" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="280" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="299" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
+    <rect x="320" y="87" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">I</text>
+    <rect x="360" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="379" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="400" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="419" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <text x="110" y="139" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq3</text>
+    <rect x="120" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="139" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
+    <rect x="160" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="179" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">R</text>
+    <rect x="200" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="219" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="240" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="280" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="299" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
+    <rect x="320" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="360" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="379" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="400" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="419" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <text x="110" y="171" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq4</text>
+    <rect x="120" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="139" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
+    <rect x="160" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="179" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
+    <rect x="200" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="219" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="240" y="151" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="280" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="299" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
+    <rect x="320" y="151" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="360" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="379" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="400" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="419" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <text x="110" y="203" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq5</text>
+    <rect x="120" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="139" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
+    <rect x="160" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="179" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
+    <rect x="200" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="219" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="240" y="183" width="38" height="29" rx="2" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">A</text>
+    <rect x="280" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="299" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
+    <rect x="320" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
+    <rect x="360" y="183" width="38" height="29" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="379" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">S</text>
+    <rect x="400" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="419" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="120" y="235" width="14" height="14" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="138" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Identical</text>
+    <rect x="215" y="235" width="14" height="14" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <text x="233" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Strong +</text>
+    <rect x="310" y="235" width="14" height="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="328" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Weak +</text>
+    <rect x="405" y="235" width="14" height="14" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <text x="423" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Neutral</text>
+    <rect x="500" y="235" width="14" height="14" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="0.5" />
+    <text x="518" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Negative</text>
+  </g>
+</svg>

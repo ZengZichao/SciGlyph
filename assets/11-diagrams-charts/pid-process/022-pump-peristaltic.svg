@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>蠕动泵</title>
+  <circle cx="12" cy="11" r="5"/>
+  <circle cx="12" cy="11" r="3" stroke-width="0.75"/>
+  <circle cx="14" cy="8" r="1" stroke-width="0.75"/>
+  <circle cx="15" cy="11" r="1" stroke-width="0.75"/>
+  <circle cx="14" cy="14" r="1" stroke-width="0.75"/>
+  <path d="M7 11Q5 11 5 8L5 5"/>
+  <path d="M17 11Q19 11 19 8L19 5"/>
+  <line x1="5" y1="5" x2="3" y2="5"/>
+  <line x1="19" y1="5" x2="21" y2="5"/>
+  <rect x="7" y="18" width="10" height="4" rx="0.5"/>
+  <line x1="12" y1="16" x2="12" y2="18"/>
+  <line x1="9" y1="20" x2="15" y2="20" stroke-width="0.75"/>
+  <path d="M5 5Q5 3 7 3" stroke-width="0.75"/>
+  <path d="M19 5Q19 3 17 3" stroke-width="0.75"/>
+</svg>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-amr_snp_barcode d-amr_snp_barcode" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-amr_snp_barcode">抗药性 SNP 目录 / AMR resistance SNP barcode</title>
+  <desc id="d-amr_snp_barcode">抗药性SNP存在/缺失热图。schematic, not to scale. 关键词: AMR, resistance, SNP</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="resistance-heatmap">
+  <text x="55" y="98" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">RIF</text>
+  <rect x="70" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="103" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="136" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="169" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="235" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="268" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="301" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="334" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="367" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="400" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="433" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="466" y="80" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="499" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="532" y="80" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="55" y="138" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">INH</text>
+  <rect x="70" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="103" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="136" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="169" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="235" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="268" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="301" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="334" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="367" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="400" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="433" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="466" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="499" y="120" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="532" y="120" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="55" y="178" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">EMB</text>
+  <rect x="70" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="103" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="136" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="169" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="235" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="268" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="301" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="334" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="367" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="400" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="433" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="466" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="499" y="160" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="532" y="160" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="55" y="218" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">PZA</text>
+  <rect x="70" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="103" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="136" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="169" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="235" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="268" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="301" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="334" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="367" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="400" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="433" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="466" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="499" y="200" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="532" y="200" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="55" y="258" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">STR</text>
+  <rect x="70" y="240" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="103" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="136" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="169" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="240" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="235" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="268" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="301" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="334" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="367" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="400" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="433" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="466" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="499" y="240" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="532" y="240" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <text x="55" y="298" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">FLQ</text>
+  <rect x="70" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="103" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="136" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="169" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="202" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="235" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="268" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="301" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="334" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="367" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="400" y="280" width="30" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="433" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="466" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="499" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="532" y="280" width="30" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+</g>
+<g data-name="legend">
+  <rect x="400" y="340" width="15" height="15" fill="#C42D2D" data-pp="alert"/>
+  <text x="425" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Resistant</text>
+  <rect x="500" y="340" width="15" height="15" fill="#00857A" data-pp="metabolism"/>
+  <text x="525" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Susceptible</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Antimicrobial Resistance SNP Catalog (schematic)</text>
+</svg>

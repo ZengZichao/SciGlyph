@@ -1,0 +1,703 @@
+{
+ "category": "08-instruments-apparatus",
+ "subdir": "electrical-equipment",
+ "name_zh": "电气器材",
+ "name_en": "Electrical Equipment",
+ "count": 34,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "items": [
+  {
+   "file": "001-battery-pack-lab.svg",
+   "name_zh": "实验蓄电池组",
+   "name_en": "Battery Pack Lab",
+   "tags": [
+    "实验蓄电池组",
+    "battery pack lab",
+    "battery",
+    "pack",
+    "lab"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "多个单体+连接片+接线端子+液位孔",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "002-constant-current-source.svg",
+   "name_zh": "恒流源",
+   "name_en": "Constant Current Source",
+   "tags": [
+    "恒流源",
+    "constant current source",
+    "constant",
+    "current",
+    "source"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "机箱+电流表+负载电阻符号",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "003-dielectric-breakdown-tester.svg",
+   "name_zh": "绝缘油介电强度测试仪",
+   "name_en": "Dielectric Breakdown Tester",
+   "tags": [
+    "绝缘油介电强度测试仪",
+    "dielectric breakdown tester",
+    "dielectric",
+    "breakdown",
+    "tester"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "高压油杯+电极间隙+升压旋钮+防护箱",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "004-electrochemical-workstation.svg",
+   "name_zh": "电化学工作站",
+   "name_en": "Electrochemical Workstation",
+   "tags": [
+    "电化学工作站",
+    "electrochemical workstation",
+    "electrochemical",
+    "workstation"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "机箱+四色接线柱+电解池+电缆",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "005-electrode-calomel.svg",
+   "name_zh": "饱和甘汞电极",
+   "name_en": "Electrode Calomel",
+   "tags": [
+    "饱和甘汞电极",
+    "electrode calomel",
+    "electrode",
+    "calomel"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "内套细管+汞柱+陶瓷盐桥芯+加液帽",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "006-electrode-platinum.svg",
+   "name_zh": "铂电极",
+   "name_en": "Electrode Platinum",
+   "tags": [
+    "铂电极",
+    "electrode platinum",
+    "electrode",
+    "platinum"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "铂黑片+玻璃杆+引线塞",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "007-electrode-silver-chloride.svg",
+   "name_zh": "氯化银参比电极",
+   "name_en": "Electrode Silver Chloride",
+   "tags": [
+    "氯化银参比电极",
+    "electrode silver chloride",
+    "electrode",
+    "silver",
+    "chloride"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "细玻璃杆+填液孔+素烧芯",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "008-electrophoresis-power-supply.svg",
+   "name_zh": "电泳电源",
+   "name_en": "Electrophoresis Power Supply",
+   "tags": [
+    "电泳电源",
+    "electrophoresis power supply",
+    "electrophoresis",
+    "power",
+    "supply"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "斜面机+电压电流双窗+输出红黑线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "009-electrophoresis-tank-horizontal.svg",
+   "name_zh": "水平电泳槽",
+   "name_en": "Electrophoresis Tank Horizontal",
+   "tags": [
+    "水平电泳槽",
+    "electrophoresis tank horizontal",
+    "electrophoresis",
+    "tank",
+    "horizontal"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "浅槽+凝胶块+梳子孔+电极条+透明盖",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "010-electrophoresis-tank-vertical.svg",
+   "name_zh": "垂直电泳槽",
+   "name_en": "Electrophoresis Tank Vertical",
+   "tags": [
+    "垂直电泳槽",
+    "electrophoresis tank vertical",
+    "electrophoresis",
+    "tank",
+    "vertical"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "双玻璃板夹+电极盖+缓冲槽+螺栓",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "011-electrospinning-apparatus.svg",
+   "name_zh": "静电纺丝装置",
+   "name_en": "Electrospinning Apparatus",
+   "tags": [
+    "静电纺丝装置",
+    "electrospinning apparatus",
+    "electrospinning",
+    "apparatus"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "注射泵+金属针头+高压源+接收平板",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "012-galvanometer.svg",
+   "name_zh": "检流计",
+   "name_en": "Galvanometer",
+   "tags": [
+    "检流计",
+    "galvanometer",
+    "electrical equipment"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "方形表壳+刻度弧+零点标+接线柱",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "013-gel-casting-apparatus.svg",
+   "name_zh": "制胶模与梳子",
+   "name_en": "Gel Casting Apparatus",
+   "tags": [
+    "制胶模与梳子",
+    "gel casting apparatus",
+    "gel",
+    "casting",
+    "apparatus"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "制胶槽+挡板+齿状梳+胶液线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "014-gel-doc-imaging-system.svg",
+   "name_zh": "凝胶成像系统",
+   "name_en": "Gel Doc Imaging System",
+   "tags": [
+    "凝胶成像系统",
+    "gel doc imaging system",
+    "gel",
+    "doc",
+    "imaging",
+    "system"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "暗箱+紫外透射台+顶部相机+抽屉",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "015-grounding-electrode.svg",
+   "name_zh": "接地极与接地符号",
+   "name_en": "Grounding Electrode",
+   "tags": [
+    "接地极与接地符号",
+    "grounding electrode",
+    "grounding",
+    "electrode"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "接地三道横线+金属杆+引线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "016-lcr-meter.svg",
+   "name_zh": "电感电容测试仪",
+   "name_en": "Lcr Meter",
+   "tags": [
+    "电感电容测试仪",
+    "lcr meter",
+    "lcr",
+    "meter"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "显示+夹具四端子+频率旋钮",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "017-microwave-digestion-system.svg",
+   "name_zh": "微波消解仪",
+   "name_en": "Microwave Digestion System",
+   "tags": [
+    "微波消解仪",
+    "microwave digestion system",
+    "microwave",
+    "digestion",
+    "system"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "腔体+转盘+高压消解罐+控制面板",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "018-microwave-synthesis-reactor.svg",
+   "name_zh": "微波合成反应仪",
+   "name_en": "Microwave Synthesis Reactor",
+   "tags": [
+    "微波合成反应仪",
+    "microwave synthesis reactor",
+    "microwave",
+    "synthesis",
+    "reactor"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "单模腔+回流冷凝管+压力传感器+机头",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "019-multimeter-clamp.svg",
+   "name_zh": "钳形电流表",
+   "name_en": "Multimeter Clamp",
+   "tags": [
+    "钳形电流表",
+    "multimeter clamp",
+    "multimeter",
+    "clamp"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "环形钳口+表体+显示+单表笔",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "020-multimeter-digital.svg",
+   "name_zh": "数字万用表",
+   "name_en": "Multimeter Digital",
+   "tags": [
+    "数字万用表",
+    "multimeter digital",
+    "multimeter",
+    "digital"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "大档位旋钮+LCD窗+表笔插孔+表笔",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "021-oscilloscope.svg",
+   "name_zh": "数字示波器",
+   "name_en": "Oscilloscope",
+   "tags": [
+    "数字示波器",
+    "oscilloscope",
+    "electrical equipment"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "屏网格波形+右侧旋钮列+BNC输入",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "022-plasma-cleaner.svg",
+   "name_zh": "等离子清洗机",
+   "name_en": "Plasma Cleaner",
+   "tags": [
+    "等离子清洗机",
+    "plasma cleaner",
+    "plasma",
+    "cleaner"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "真空腔+观察窗+射频源+真空调节钮",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "023-potentiostat-galvanostat.svg",
+   "name_zh": "恒电位恒电流仪",
+   "name_en": "Potentiostat Galvanostat",
+   "tags": [
+    "恒电位恒电流仪",
+    "potentiostat galvanostat",
+    "potentiostat",
+    "galvanostat"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "机箱+三电极接口+显示+参比插口",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "024-power-supply-dc.svg",
+   "name_zh": "直流稳压电源",
+   "name_en": "Power Supply Dc",
+   "tags": [
+    "直流稳压电源",
+    "power supply dc",
+    "power",
+    "supply"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "机箱+双显示窗+双旋钮+四输出端子",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "025-power-supply-dual.svg",
+   "name_zh": "双路直流电源",
+   "name_en": "Power Supply Dual",
+   "tags": [
+    "双路直流电源",
+    "power supply dual",
+    "power",
+    "supply",
+    "dual"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "两组显示与旋钮+公共端子",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "026-signal-generator.svg",
+   "name_zh": "函数信号发生器",
+   "name_en": "Signal Generator",
+   "tags": [
+    "函数信号发生器",
+    "signal generator",
+    "signal",
+    "generator"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "显示窗+数字键区+输出BNC+衰减钮",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "027-transformer-isolation.svg",
+   "name_zh": "隔离变压器",
+   "name_en": "Transformer Isolation",
+   "tags": [
+    "隔离变压器",
+    "transformer isolation",
+    "transformer",
+    "isolation"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "硅钢片铁芯+双绕组+端子板",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "028-transformer-variable-autotransformer.svg",
+   "name_zh": "自耦调压器",
+   "name_en": "Transformer Variable Autotransformer",
+   "tags": [
+    "自耦调压器",
+    "transformer variable autotransformer",
+    "transformer",
+    "variable",
+    "autotransformer"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "圆环绕组+滑动电刷+电压表+转轴",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "029-transilluminator.svg",
+   "name_zh": "透射紫外分析仪",
+   "name_en": "Transilluminator",
+   "tags": [
+    "透射紫外分析仪",
+    "transilluminator",
+    "electrical equipment"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "台面+防护罩斜板+胶槽+开关",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "030-uninterruptible-power-supply.svg",
+   "name_zh": "不间断电源",
+   "name_en": "Uninterruptible Power Supply",
+   "tags": [
+    "不间断电源",
+    "uninterruptible power supply",
+    "uninterruptible",
+    "power",
+    "supply"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "立式机箱+输出插座+状态显示+通风栅",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "031-crosslinker.svg",
+   "name_zh": "紫外交联仪",
+   "name_en": "Uv Crosslinker",
+   "tags": [
+    "紫外交联仪",
+    "uv crosslinker",
+    "crosslinker"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "顶灯箱下照+样品托盘+门+定时钮",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "032-lamp-365nm.svg",
+   "name_zh": "三用紫外分析仪",
+   "name_en": "Uv Lamp 365Nm",
+   "tags": [
+    "三用紫外分析仪",
+    "uv lamp 365nm",
+    "lamp",
+    "365nm"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "灯箱+紫外管+支架+样品台",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "033-lamp-handheld.svg",
+   "name_zh": "手持紫外灯",
+   "name_en": "Uv Lamp Handheld",
+   "tags": [
+    "手持紫外灯",
+    "uv lamp handheld",
+    "lamp",
+    "handheld"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "枪形头+灯罩+手柄+光束虚线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "034-wheatstone-bridge.svg",
+   "name_zh": "惠斯通电桥",
+   "name_en": "Wheatstone Bridge",
+   "tags": [
+    "惠斯通电桥",
+    "wheatstone bridge",
+    "wheatstone",
+    "bridge"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "08-instruments-apparatus",
+   "subdir": "electrical-equipment",
+   "canvas": "0 0 24 24",
+   "desc": "面板+四端子+滑线电阻+检流计窗",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  }
+ ]
+}

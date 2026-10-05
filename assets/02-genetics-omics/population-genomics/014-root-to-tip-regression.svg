@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-root_to_tip_regression d-root_to_tip_regression" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-root_to_tip_regression">Root-to-tip 回归 / Root-to-tip regression with CI</title>
+  <desc id="d-root_to_tip_regression">分子钟root-to-tip回归散点与置信带。schematic, not to scale. 关键词: clock, regression, dating</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="365" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sampling date (year)</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink" transform="rotate(-90 50 195)">Root-to-tip distance</text>
+
+</g>
+<g data-name="regression">
+  <polygon points="100,310 540,110 540,130 100,330" fill="#2E86AB" fill-opacity="0.15" data-pp="bacteria"/>
+  <line x1="100" y1="320" x2="540" y2="120" stroke="#2E86AB" stroke-width="2" data-pp="bacteria"/>
+</g>
+<g data-name="data-points">
+  <circle cx="100" cy="318.6" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="115" cy="302.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="130" cy="295.1" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="145" cy="290.7" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="160" cy="280.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="175" cy="296.3" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="190" cy="278.5" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="205" cy="291.1" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="220" cy="292.8" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="235" cy="258.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="250" cy="233.2" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="265" cy="240.4" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="280" cy="237.3" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="295" cy="213.5" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="310" cy="221.5" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="325" cy="221.2" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="340" cy="205.4" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="355" cy="194.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="370" cy="188.2" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="385" cy="211.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="400" cy="181.7" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="415" cy="166.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="430" cy="165.5" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="445" cy="174.6" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="460" cy="148.1" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="475" cy="155.3" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="490" cy="151.5" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="505" cy="144.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="520" cy="145.9" r="3.5" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="535" cy="115.7" r="3.5" fill="#A2305B" data-pp="archaea"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Root-to-Tip Regression — Molecular Clock (schematic)</text>
+<text x="500" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">95% CI</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>酸式滴定管</title>
+  <path d="M10 2h4"/>
+  <path d="M11 2v11"/>
+  <path d="M13 2v11"/>
+  <rect x="9" y="13" width="6" height="4" rx="1"/>
+  <line x1="7.5" y1="15" x2="9" y2="15" stroke-width="1"/>
+  <line x1="15" y1="15" x2="16.5" y2="15" stroke-width="1"/>
+  <path d="M11 17v3l1 2 1-2v-3"/>
+  <line x1="11" y1="5" x2="12.5" y2="5" stroke-width="1"/>
+  <line x1="11" y1="8" x2="13" y2="8" stroke-width="1"/>
+  <line x1="11" y1="11" x2="12.5" y2="11" stroke-width="1"/>
+</svg>

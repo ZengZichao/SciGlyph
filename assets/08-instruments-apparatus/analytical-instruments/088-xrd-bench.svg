@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-xrd-bench" data-cat="an" data-spec="128"
+     data-tags="xrd,x-ray,diffraction,crystal,structure,powder" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">台式X射线衍射仪 / Benchtop XRD</title>
+  <desc id="d">台式X射线衍射仪：X射线管、样品台、测角仪、探测器。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="16" y="34" width="18" height="20" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="25" cy="44" r="4" fill="#E02020" opacity="0.4" stroke="none" data-ls="danger"/>
+    <text x="25" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">X-ray</text>
+<line x1="34" y1="44" x2="54" y2="54" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round"/>
+    <polygon points="42,45 54,48 42,51" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="54" y="48" width="20" height="8" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="46" width="16" height="3" rx="1" fill="#7FC26B" opacity="0.5" stroke="none" data-ls="liquid-2"/>
+    <text x="64" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<line x1="74" y1="52" x2="96" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="92" y="34" width="14" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="99" y="54" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Det</text>
+<path d="M40 52 Q64 28 88 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="64" y="36" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">2θ</text>
+    <rect x="14" y="70" width="50" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M18 86 L24 86 L28 82 L30 76 L32 86 L38 86 L42 80 L44 72 L46 86 L52 86 L56 84 L60 86" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <text x="39" y="68" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">XRD</text>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

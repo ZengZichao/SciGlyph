@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="离心管" data-name-en="centrifuge_tube" data-cat="lab-equipment" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">离心管 / centrifuge_tube</title>
+  <desc id="d-13">离心分离固液混合物。关键词: 离心管,centrifuge,分离,沉淀</desc>
+  <g id="g-13-离心管">
+    <path d="M 42 12 L 42 85 L 55 110 L 65 110 L 78 85 L 78 12 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="40" y="8" width="40" height="8" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 43 60 L 43 85 L 55 109 L 65 109 L 77 85 L 77 60 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="43" y1="60" x2="77" y2="60" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="78" y1="30" x2="82" y2="30" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="78" y1="45" x2="82" y2="45" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="78" y1="60" x2="82" y2="60" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="78" y1="75" x2="82" y2="75" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="84" y="33" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9">50</text>
+    <text x="84" y="63" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9">mL</text>
+  </g>
+</svg>

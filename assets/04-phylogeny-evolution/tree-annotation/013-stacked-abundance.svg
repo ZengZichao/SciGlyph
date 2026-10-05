@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-13 d-13" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">丰度堆叠条 / Stacked Abundance Bar</title>
+  <desc id="d-13">装饰零件，贴到树上用。堆叠丰度条，显示多组分贡献。 关键词: tree decoration, stacked abundance, community composition, relative abundance</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="stacked-bars">
+    <rect x="80" y="301.0" width="40" height="19.0" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="80" y="250.8" width="40" height="50.3" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="80" y="200.6" width="40" height="50.2" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="135" y="257.7" width="40" height="62.3" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="135" y="244.1" width="40" height="13.6" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="135" y="227.2" width="40" height="16.9" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="190" y="309.2" width="40" height="10.8" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="190" y="292.7" width="40" height="16.5" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="190" y="238.9" width="40" height="53.8" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="245" y="310.5" width="40" height="9.5" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="245" y="271.5" width="40" height="39.0" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="245" y="255.8" width="40" height="15.7" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="300" y="298.4" width="40" height="21.6" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="300" y="266.7" width="40" height="31.6" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="300" y="205.3" width="40" height="61.4" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="355" y="275.4" width="40" height="44.6" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="355" y="274.3" width="40" height="1.1" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="355" y="254.1" width="40" height="20.2" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+  </g>
+</svg>

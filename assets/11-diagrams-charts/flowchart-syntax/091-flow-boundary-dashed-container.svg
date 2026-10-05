@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-flow-boundary-dashed-container" data-cat="pf" data-spec="160"
+     data-tags="boundary,dashed,container,group,swimlane,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">虚线分组容器 / Dashed Boundary Container</title>
+  <desc id="d">流程图虚线分组容器/泳道框。</desc>
+  <g id="body">
+    <rect x="12" y="12" width="136" height="72" rx="6" ry="6" fill="none" stroke="#1F2933" stroke-dasharray="10,5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

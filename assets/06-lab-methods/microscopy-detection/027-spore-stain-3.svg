@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-spore_stain d-spore_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-spore_stain">芽孢染色(孔雀绿) / Spore stain malachite green Schaeffer Fulton</title>
+  <desc id="d-spore_stain">芽孢染色(Schaeffer-Fulton法)：孔雀绿加热染色→水冲洗(芽孢保留绿色)→番红(沙黄)复染(营养体粉红)。绿色圆形芽孢在粉红营养体内/外。关键词: spore stain, malachite green, safranin, Schaeffer-Fulton, endospore, Bacillus, Clostridium</desc>
+  <g id="layer-body-spore_stain" data-name="body">
+    <rect x="10" y="28" width="22" height="9" rx="4.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <rect x="38" y="32" width="24" height="9" rx="4.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <rect x="68" y="28" width="22" height="9" rx="4.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <ellipse cx="21" cy="32.5" rx="4" ry="3.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <ellipse cx="50" cy="36.5" rx="4" ry="3.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <ellipse cx="79" cy="32.5" rx="4" ry="3.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <ellipse cx="50" cy="60" rx="5" ry="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.2"/>
+    <line x1="46" y1="60" x2="54" y2="60" stroke="#1B2733" data-pp="ink" stroke-width="0.3"/>
+    <line x1="50" y1="56" x2="50" y2="64" stroke="#1B2733" data-pp="ink" stroke-width="0.3"/>
+  </g>
+  <g id="layer-annotation-spore_stain" data-name="annotation">
+    <text x="12" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">spore</text>
+    <text x="56.1" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">vegetative</text>
+    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">free spore</text>
+  </g>
+</svg>

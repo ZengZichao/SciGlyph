@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-p22_phage d-p22_phage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-p22_phage">P22噬菌体(Salmonella) / Salmonella phage P22</title>
+  <desc id="d-p22_phage">种 Lederbergvirus P22（属 Lederbergvirus），感染Salmonella的短尾噬菌体，含尾刺(trimeric tailspike protein)用于识别O-抗原。现归 Caudoviricetes（旧称 Podoviridae 短尾噬菌体科已废止）。关键词: P22, Salmonella, tailspike, Lederbergvirus</desc>
+  <g id="layer-body-p22_phage" data-name="body">
+    <!-- Head (pseudo T=7 icosahedral) -->
+    <circle cx="50" cy="28" r="20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Surface pattern -->
+    <line x1="35" y1="20" x2="65" y2="20" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="35" y1="28" x2="65" y2="28" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="35" y1="36" x2="65" y2="36" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="42" y1="10" x2="42" y2="46" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="50" y1="8" x2="50" y2="48" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <line x1="58" y1="10" x2="58" y2="46" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
+    <!-- Short tail with spikes -->
+    <rect x="46" y="48" width="8" height="5" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <line x1="47" y1="53" x2="44" y2="62" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="50" y1="53" x2="50" y2="63" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="53" y1="53" x2="56" y2="62" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-p22_phage" data-name="annotation">
+    <text x="72" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">P22</text>
+    <line x1="60.0" y1="57.9" x2="51.76" y2="57.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">tail spikes</text>
+  </g>
+</svg>

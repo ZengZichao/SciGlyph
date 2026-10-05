@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-comparative" role="img" aria-labelledby="t-heaps_law d-heaps_law" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-heaps_law">Heaps 定律 / Heaps law pangenome accumulation</title>
+<desc id="d-heaps_law">log-log线性加拟合线加残差带 关键词: Heaps, power law, pangenome, log-log</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Heaps Law</text>
+<line x1="80.0" y1="330.0" x2="550.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="315.0" y="370.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">log(Genomes)</text>
+<text x="30.0" y="190.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90 30 190)">log(Genes)</text>
+<polygon points="80.0,296.2 99.6,268.2 119.2,277.3 138.8,255.4 158.3,244.4 177.9,237.7 197.5,238.9 217.1,229.1 236.7,212.0 256.2,197.8 275.8,195.9 295.4,189.8 315.0,184.5 334.6,175.4 354.2,159.6 373.8,157.3 393.3,146.2 412.9,135.3 432.5,126.5 452.1,131.0 471.7,118.0 491.2,98.6 510.8,92.9 530.4,78.2 550.0,87.0 550.0,117.0 530.4,108.2 510.8,122.9 491.2,128.6 471.7,148.0 452.1,161.0 432.5,156.5 412.9,165.3 393.3,176.2 373.8,187.3 354.2,189.6 334.6,205.4 315.0,214.5 295.4,219.8 275.8,225.9 256.2,227.8 236.7,242.0 217.1,259.1 197.5,268.9 177.9,267.7 158.3,274.4 138.8,285.4 119.2,307.3 99.6,298.2 80.0,326.2" fill="#6C3FA0" data-pp="gene" fill-opacity="0.1"/>
+<line x1="80.0" y1="302.0" x2="550.0" y2="92.0" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-dasharray="5,3" stroke-linecap="round"/>
+<circle cx="80.0" cy="311.2" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="99.6" cy="283.2" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="119.2" cy="292.3" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="138.8" cy="270.4" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="158.3" cy="259.4" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="177.9" cy="252.7" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="197.5" cy="253.9" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="217.1" cy="244.1" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="236.7" cy="227.0" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="256.2" cy="212.8" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="275.8" cy="210.9" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="295.4" cy="204.8" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="315.0" cy="199.5" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="334.6" cy="190.4" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="354.2" cy="174.6" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="373.8" cy="172.3" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="393.3" cy="161.2" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="412.9" cy="150.3" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="432.5" cy="141.5" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="452.1" cy="146.0" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="471.7" cy="133.0" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="491.2" cy="113.6" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="510.8" cy="107.9" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="530.4" cy="93.2" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<circle cx="550.0" cy="102.0" r="3.5" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6" stroke="#6C3FA0" stroke-width="0.5"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="80.0" y="346.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+<line x1="197.5" y1="330.0" x2="197.5" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="197.5" y="346.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">1</text>
+<line x1="315.0" y1="330.0" x2="315.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="315.0" y="346.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">2</text>
+<line x1="432.5" y1="330.0" x2="432.5" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="432.5" y="346.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">3</text>
+<line x1="550.0" y1="330.0" x2="550.0" y2="334.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="550.0" y="346.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">4</text>
+<line x1="76.0" y1="330.0" x2="80.0" y2="330.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="70.0" y="333.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0</text>
+<line x1="76.0" y1="260.0" x2="80.0" y2="260.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="70.0" y="263.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">1</text>
+<line x1="76.0" y1="190.0" x2="80.0" y2="190.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="70.0" y="193.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">2</text>
+<line x1="76.0" y1="120.0" x2="80.0" y2="120.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="70.0" y="123.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">3</text>
+<line x1="76.0" y1="50.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="70.0" y="53.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">4</text>
+<text x="300.0" y="390.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">log-log linear fit</text>
+</g>
+</svg>

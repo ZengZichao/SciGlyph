@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="实线链路" data-name-en="Net Link Solid" data-cat="diagrams-sw-uml" aria-labelledby="t-66 d-66" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-66">实线链路 / net_link_solid</title>
+  <desc id="d-66">有线网络连接实线。关键词: link,solid,network</desc>
+  <g id="g-66-实线链路">
+    <line fill="none" x1="10" y1="24" x2="86" y2="24" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

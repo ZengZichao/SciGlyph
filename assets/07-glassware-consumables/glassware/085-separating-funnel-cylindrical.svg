@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-separating-funnel-cylindrical" data-cat="gl" data-spec="128"
+     data-tags="separating,funnel,cylindrical,extraction,stopcock" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">圆筒分液漏斗 / Cylindrical Separating Funnel</title>
+  <desc id="d">圆筒形分液漏斗，带活塞与顶塞。</desc>
+  <g id="body"><path d="M44 18 L44 104 Q44 114 54 114 L74 114 Q84 114 84 104 L84 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 60 L82 60 L82 104 Q82 112 74 112 L54 112 Q46 112 46 104 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M46 40 L82 40 L82 60 L46 60 Z" fill="#BFE0FF" opacity="0.45" stroke="none" data-ls="liquid"/><path d="M46 60 L82 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 14 L42 20 L86 20 L86 14 Q76 10 64 10 Q52 10 42 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M60 114 L60 122 L68 122 L68 114" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M56 118 L72 118 L72 122 L56 122 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

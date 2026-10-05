@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-autoclave-steam-release-face-away" data-cat="pp" data-spec="128"
+     data-tags="autoclave,steam,face away,safety,pressure release" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">开灭菌锅避开面部 / Autoclave Steam Release Face Away</title>
+  <desc id="d">开灭菌锅时避开面部，蒸汽方向朝外。</desc>
+  
+  <g id="figure"><circle cx="36" cy="26" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M26 36 L24 78 L18 116 L30 116 L36 88 L42 116 L54 116 L48 78 L46 36 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M46 42 L58 46 L64 54 L60 56 L56 50 L46 46 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 50 L66 50 L66 60 L60 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M68 40 L108 40 L108 92 L68 92 Z" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <circle cx="88" cy="66" r="16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M68 40 L108 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M64 36 Q58 30 52 36" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+     <path d="M60 32 Q54 24 48 32" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+     <path d="M56 28 Q50 20 44 28" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/></g>
+</svg>

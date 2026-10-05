@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>必须戴口罩</title>
+  <circle cx="12" cy="12" r="9.5"/>
+  <rect x="7" y="10" width="10" height="6" rx="1.5"/>
+  <path d="M7 12 Q4 10 5 8"/>
+  <path d="M17 12 Q20 10 19 8"/>
+  <line x1="8" y1="10" x2="16" y2="10"/>
+  <line x1="7.5" y1="13" x2="16.5" y2="13"/>
+  <line x1="8" y1="15.5" x2="16" y2="15.5"/>
+</svg>

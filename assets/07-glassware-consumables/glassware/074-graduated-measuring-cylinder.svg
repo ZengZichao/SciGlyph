@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-graduated-measuring-cylinder" data-cat="gl" data-spec="128"
+     data-tags="cylinder,graduated,measuring,volume,graduation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">量筒 / Graduated Measuring Cylinder</title>
+  <desc id="d">带刻度量筒，用于粗略量取液体体积。</desc>
+  <g id="body"><path d="M44 14 L44 108 Q44 114 50 114 L78 114 Q84 114 84 108 L84 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M40 14 L44 14 L44 18 L40 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M84 14 L88 14 L88 18 L84 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 56 L82 56 L82 108 Q82 112 78 112 L50 112 Q46 112 46 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M46 56 L82 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M50 100 L64 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 90 L58 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 80 L64 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 70 L58 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 60 L64 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 50 L58 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 40 L64 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 30 L58 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 20 L64 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

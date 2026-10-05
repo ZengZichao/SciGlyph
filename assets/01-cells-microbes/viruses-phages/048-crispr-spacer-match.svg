@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-crispr_spacer_match d-crispr_spacer_match" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-crispr_spacer_match">CRISPR spacer匹配 / CRISPR spacer match phage DNA target</title>
+  <desc id="d-crispr_spacer_match">CRISPR免疫：spacer序列来自噬菌体DNA片段，转录为crRNA引导Cas核酸酶识别并切割入侵噬菌体DNA。R=repeat。关键词: CRISPR, spacer, cas, protospacer, guide RNA, immunity, adaptation</desc>
+  <g id="layer-body-crispr_spacer_match" data-name="body">
+    <!-- CRISPR array -->
+    <rect x="5" y="20" width="90" height="10" rx="2" ry="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <!-- Repeats and spacers -->
+    <rect x="7" y="22" width="8" height="6" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="17" y="22" width="12" height="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="31" y="22" width="8" height="6" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="41" y="22" width="12" height="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="55" y="22" width="8" height="6" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="65" y="22" width="12" height="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="79" y="22" width="8" height="6" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Labels -->
+    <text x="11.0" y="40.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">R</text>
+    <text x="27.0" y="40.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">spacer</text>
+    <!-- Matching phage DNA -->
+    <path d="M17,60 L29,60" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="2"/>
+    <text x="23" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phage DNA</text>
+    <!-- Match indicator -->
+    <line x1="17" y1="44" x2="17" y2="58" stroke="#00857A" data-pp="metabolism" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <line x1="29" y1="44" x2="29" y2="58" stroke="#00857A" data-pp="metabolism" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <text x="23" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">match</text>
+    <!-- Cas9 cutting -->
+    <circle cx="50" cy="55" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="57" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cas</text>
+    <line x1="56" y1="55" x2="62" y2="55" stroke="#C42D2D" data-pp="alert" stroke-width="1.5"/>
+  </g>
+  <g id="layer-annotation-crispr_spacer_match" data-name="annotation">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="39.56" y="75.7">CRISPR spacer from</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="40.05" y="83.96">phage</text>
+    <line x1="50.0" y1="79.9" x2="65.6" y2="79.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="46.07" y="32.83">→ guide RNA matches →</text><line x1="2.97" y1="81.17" x2="1" y2="28.79" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="46.14" y="91.25">cleavage</text>
+  </g>
+</svg>

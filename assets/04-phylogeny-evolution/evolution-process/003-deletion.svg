@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-deletion d-deletion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-deletion">缺失突变 / Deletion Mutation</title>
+<desc id="d-deletion">DNA 缺失突变示意: 删除 3 bp (GCG) 为 in-frame 不移码；非 3 倍数长度的缺失导致移码(frameshift)。关键词: deletion, mutation, in-frame, frameshift, indel</desc>
+<defs>
+<marker id="pp03__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Deletion Mutation</text>
+<text x="80" y="80" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text><rect x="150" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="165" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="185" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="200" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="220" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="235" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="255" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="270" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text><rect x="290" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="305" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="325" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="340" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="360" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="375" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="395" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="410" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text><rect x="430" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="445" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="465" y="65" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="480" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="220" y="60" width="70" height="40" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-dasharray="4,2" />
+<text x="255" y="55" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">deleted</text>
+<line x1="300" y1="110" x2="300" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp03__ar)" />
+<text x="80" y="170" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After:</text><rect x="150" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="165" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="185" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="200" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="220" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="235" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="255" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="270" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="290" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="305" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text><rect x="325" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="340" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="360" y="155" width="30" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="375" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+<text x="300" y="230" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Deletion of "GCG" (3 bp) → in-frame</text>
+<text x="300" y="260" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Deletions remove bases (may hit genes)</text>
+<text x="300" y="290" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Unequal crossover / mispairing</text></g></svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-apply-makeup-in-lab-prohibited" data-cat="pp" data-spec="128"
+     data-tags="makeup,cosmetics,prohibited,lab,forbidden" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">化妆禁止 / Apply Makeup in Lab Prohibited</title>
+  <desc id="d">实验室内禁止化妆。</desc>
+  
+  <g id="figure"><circle cx="48" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 32 L36 74 L30 116 L42 116 L48 84 L54 116 L66 116 L60 74 L58 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 38 L66 30 L70 24 L66 22 L64 28 L58 34 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M66 20 L72 20 L72 28 L66 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M68 16 L76 16 L74 28 L70 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M70 12 L74 12 L74 16 L70 16 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <circle cx="70" cy="30" r="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M58 18 L82 42" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

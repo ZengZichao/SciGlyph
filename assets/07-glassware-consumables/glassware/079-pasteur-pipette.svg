@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-pasteur-pipette" data-cat="gl" data-spec="128"
+     data-tags="pasteur,pipette,dropper,transfer,glass" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">巴斯德吸管 / Pasteur Pipette</title>
+  <desc id="d">巴斯德吸管(滴管)，配合橡皮头使用，用于转移少量液体。</desc>
+  <g id="body"><path d="M58 30 L58 108 L62 118 L66 118 L70 108 L70 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M60 70 L68 70 L68 108 L66 116 L62 116 L60 108 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/><path d="M54 10 L54 32 L74 32 L74 10 Q70 8 64 8 Q58 8 54 10 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M56 10 Q56 6 64 6 Q72 6 72 10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

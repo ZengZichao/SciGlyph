@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-comb_nov d-comb_nov" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-comb_nov">comb. nov.</title>
+  <desc id="d-comb_nov">Nomenclatural act: comb. nov. 关键词: comb. nov., combinatio nova</desc>
+  
+  <g id="layer-body" data-name="body">
+    <text x="35" y="40" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">old</text>
+    <line x1="25" y1="42" x2="45" y2="42" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="50" y1="45" x2="60" y2="45" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <path d="M58,43 L62,45 L58,47" fill="#1B2733" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <rect x="65" y="38" width="25" height="12" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1.5" data-pp="mge"/>
+    <text x="77" y="46" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">comb.</text>
+  <rect x="20" y="36" width="26" height="12" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/><path d="M62,50 Q72,58 84,50" fill="none" stroke="#E8871E" stroke-width="1.2" data-pp="mge" stroke-linecap="round"/><line x1="70" y1="34" x2="85" y2="34" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">comb. nov.</text>
+  </g>
+</svg>

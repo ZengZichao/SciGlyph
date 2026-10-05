@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-top-loading-balance" data-cat="mt" data-spec="128"
+     data-tags="balance,top-loading,weighing,天平,上皿" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">上皿式天平 / Top Loading Balance</title>
+  <desc id="d">上皿式天平：顶部称盘+前置显示屏。</desc>
+  <g id="body"><rect x="22" y="50" width="84" height="68" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="30" y="56" width="44" height="20" rx="3" fill="#33414F" data-ls="dark"/>
+    <text x="52" y="70" fill="#7FC26B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="liquid-2">12.34g</text>
+    <rect x="34" y="14" width="60" height="36" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-width="2" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="38" y="18" width="52" height="28" rx="2" fill="#E8EDF2" stroke="#5A6B7B" stroke-width="1" data-ls="body" data-ls-stroke="thin"/>
+    <circle cx="86" cy="96" r="5" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"></g>
+</svg>

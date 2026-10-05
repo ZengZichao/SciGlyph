@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-archaeal_hami d-archaeal_hami" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-archaeal_hami">古菌钩毛丝 / Archaeal hamus (pl. hami)</title>
+  <desc id="d-archaeal_hami">Archaeal cell with bundle of hook-shaped hamus filaments for attachment. 关键词: hamus, hami, archaeal attachment, hook-shaped, bundle</desc>
+  <g id="layer-body" data-name="body">
+
+    <circle cx="28" cy="50" r="14" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M42,42 Q60,42 72,42 Q80,42 80,36" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <path d="M42,47 Q60,47 72,47 Q80,47 80,41" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <path d="M42,53 Q60,53 72,53 Q80,53 80,47" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <path d="M42,58 Q60,58 72,58 Q80,58 80,52" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <circle cx="80" cy="36" r="2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="80" cy="41" r="2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="80" cy="47" r="2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="80" cy="52" r="2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="40" y="42" width="4" height="16" rx="1" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.8"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">hamus</text>
+    <text x="64.78" y="78.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">hook tip</text>
+    <text x="10" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">archaea</text>
+
+  </g>
+</svg>

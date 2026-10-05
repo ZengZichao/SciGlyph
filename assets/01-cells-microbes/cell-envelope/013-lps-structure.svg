@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-lps_structure d-lps_structure" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lps_structure">脂多糖结构 / LPS structure</title>
+  <desc id="d-lps_structure">LPS结构放大：LipidA+核心链+O抗原。关键词: LPS, Lipid A, core, O-antigen, endotoxin</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <rect x="35" y="75" width="30" height="15" rx="3" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert"/><rect x="40" y="55" width="20" height="18" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/><rect x="42" y="40" width="16" height="12" rx="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/><rect x="42" y="26" width="16" height="12" rx="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/><rect x="42" y="12" width="16" height="12" rx="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="70" y1="82" x2="85" y2="85" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="69.12" y="92.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Lipid A</text><line x1="62" y1="62" x2="80" y2="62" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="82" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">core</text><line x1="60" y1="20" x2="78" y2="15" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="80" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">O-Ag</text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-gas-cylinder-argon" data-cat="sf" data-spec="128"
+     data-tags="gas cylinder,argon,valve,cap,color ring,chain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">氩气瓶 / Gas Cylinder Argon</title>
+  <desc id="d">氩气瓶，含瓶帽、手阀、色环和固定链。</desc>
+  <g id="body"><rect x="40" y="28" width="48" height="84" rx="12" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M48 28 L48 18 Q48 10 64 10 Q80 10 80 18 L80 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <rect x="56" y="10" width="16" height="8" rx="3" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><path d="M40 60 L88 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 72 L88 72" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M40 84 L88 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M32 50 L32 100 Q32 104 36 104" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M96 50 L96 100 Q96 104 92 104" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M56 14 L72 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M64 10 L64 6 L68 6" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

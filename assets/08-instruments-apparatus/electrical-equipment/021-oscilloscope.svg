@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>数字示波器</title>
+  <rect x="2" y="4" width="20" height="16" rx="1"/>
+  <path d="M5 10.5h1.5l1-2.5 1.5 5 1.5-5 1 2.5H12"/>
+  <circle cx="18" cy="7.5" r="1.5"/>
+  <circle cx="18" cy="13" r="1.5"/>
+  <line x1="16.5" y1="17" x2="16.5" y2="18.5"/>
+  <line x1="19.5" y1="17" x2="19.5" y2="18.5"/>
+</svg>

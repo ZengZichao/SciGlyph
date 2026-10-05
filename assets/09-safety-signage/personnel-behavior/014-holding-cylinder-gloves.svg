@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-holding-cylinder-gloves" data-cat="pp" data-spec="128"
+     data-tags="cylinder,holding,gloves,two hands,correct" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">双手抱气瓶戴手套 / Holding Cylinder with Gloves</title>
+  <desc id="d">双手抱气瓶正确姿势，戴防溅手套。</desc>
+  
+  <g id="figure"><circle cx="40" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M30 28 L28 70 L22 116 L34 116 L40 80 L46 116 L58 116 L52 70 L50 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M50 34 L62 38 L66 54 L60 56 L58 42 L50 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M30 34 L22 42 L24 58 L30 56 L28 44 L32 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 50 L68 50 L68 60 L60 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M22 52 L28 52 L28 62 L22 62 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect x="62" y="20" width="24" height="80" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M66 20 L66 14 Q66 8 74 8 Q82 8 82 14 L82 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M62 50 L86 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M62 62 L86 62" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

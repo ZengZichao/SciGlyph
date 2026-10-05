@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-bottle-top-stirrer" data-cat="lh" data-spec="128"
+     data-tags="stirrer,bottle-top,mixing,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">瓶口搅拌器 / Bottle-Top Stirrer</title>
+  <desc id="d">瓶口安装式搅拌器，用于瓶中液体混匀</desc>
+  <g id="body"><path d="M44 60 L84 60 L84 110 Q84 116 78 116 L50 116 Q44 116 44 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M52 60 L52 30 L76 30 L76 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 30 L56 16 L72 16 L72 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="58" y="18" width="12" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><path d="M60 40 Q64 36 68 40 Q72 44 68 48 Q64 52 60 48 Q56 44 60 40 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M50 70 L78 70 M50 80 L78 80 M50 90 L78 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

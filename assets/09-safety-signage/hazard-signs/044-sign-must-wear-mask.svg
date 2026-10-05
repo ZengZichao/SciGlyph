@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-wear-mask" data-cat="hz" data-spec="128"
+     data-tags="mandatory,mask,respirator,PPE,必须,口罩" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须戴口罩标志 / Must Wear Mask</title>
+  <desc id="d">指令标志：蓝底白色口罩。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <path d="M38 54 C38 54 44 48 64 48 C84 48 90 54 90 54 L90 76 C90 86 78 94 64 94 C50 94 38 86 38 76Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" data-ls="fill"/>
+    <path d="M44 62 L84 62 M44 70 L84 70 M44 78 L84 78" fill="none" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent"/>
+    <path d="M38 58 L28 52 M90 58 L100 52" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2.5" data-ls="fill"/></g>
+  <g id="detail"></g>
+</svg>

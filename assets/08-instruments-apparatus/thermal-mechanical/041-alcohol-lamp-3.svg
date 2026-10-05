@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-alcohol-lamp" data-cat="hc" data-spec="128"
+     data-tags="alcohol,lamp,flame,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">酒精灯 / Alcohol Lamp</title>
+  <desc id="d">普通酒精灯，带灯芯和火焰</desc>
+  <g id="body"><path d="M44 74 L84 74 L84 108 Q84 116 76 116 L52 116 Q44 116 44 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M54 74 L54 64 L74 64 L74 74" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 64 L58 58 L70 58 L70 64" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M64 22 Q56 36 56 48 Q56 58 64 58 Q72 58 72 48 Q72 36 64 22 Z" fill="#E02020" stroke="none" data-ls="danger"/>
+    <path d="M64 32 Q60 40 60 48 Q60 56 64 56 Q68 56 68 48 Q68 40 64 32 Z" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <path d="M46 84 L82 84 L82 106 Q82 114 76 114 L52 114 Q46 114 46 106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/></g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-58_quorum_density d-58_quorum_density" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-58_quorum_density">密度依赖表达 / Quorum Density-Dependent Expression</title>
+  <desc id="d-58_quorum_density">群体密度达到阈值后群体感应激活靶基因。生物膜/毒力/发光。关键词: quorum density, threshold, biofilm, virulence, bioluminescence</desc>
+  <g id="layer-body" data-name="body">
+        <circle cx="15" cy="40" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="30" cy="40" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="45" cy="40" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="60" cy="40" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="75" cy="40" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <line x1="55" y1="30" x2="55" y2="55" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="55" y="28" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">threshold</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="30.0" y="60.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">low density</text>
+    <line x1="70.0" y1="57.9" x2="66.95" y2="64.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="66.95" y="67.55" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">high → activate</text>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">biofilm / virulence</text>
+  </g>
+</svg>

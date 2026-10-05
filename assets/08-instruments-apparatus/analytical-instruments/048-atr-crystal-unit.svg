@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-atr-crystal-unit" data-cat="an" data-spec="128"
+     data-tags="atr,attenuated,total,reflection,crystal,irdiamond" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">衰减全反射附件 / ATR Crystal Unit</title>
+  <desc id="d">衰减全反射（ATR）附件：ZnSe/金刚石晶体、红外光束内反射。</desc>
+  <g id="body">
+    <rect x="18" y="22" width="92" height="84" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="22" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<polygon points="64,32 84,52 64,72 44,52" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M48 48 L56 40 L64 48 L72 40 L80 48" fill="#2B7DE9" opacity="0.6" stroke="none" stroke-width="1.5" data-ls="accent"/>
+<path d="M48 56 L56 64 L64 56 L72 64 L80 56" fill="#2B7DE9" opacity="0.6" stroke="none" stroke-width="1.5" data-ls="accent"/>
+<path d="M50 66 Q54 70 58 66 Q62 70 66 66 Q70 70 74 66 Q78 70 82 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="48" y="26" width="32" height="8" rx="2" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <text x="64" y="24" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+    <text x="64" y="82" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="accent">ATR</text>
+    <text x="64" y="92" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Crystal</text>
+<line x1="22" y1="52" x2="44" y2="52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="84" y1="52" x2="106" y2="52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="28,49 40,52 28,55" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="92,49 104,52 92,55" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

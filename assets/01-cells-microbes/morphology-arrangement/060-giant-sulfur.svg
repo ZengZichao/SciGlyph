@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-giant_sulfur d-giant_sulfur" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-giant_sulfur">巨型硫细菌 / Giant sulfur bacterium</title>
+  <desc id="d-giant_sulfur">巨型硫细菌(Thiomargarita)，可见大液泡。关键词: Thiomargarita, giant, vacuole, sulfur</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <ellipse cx="50" cy="50" rx="35" ry="30" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><ellipse cx="50" cy="50" rx="22" ry="18" fill="#F4F1EA" stroke="#93A0AC" stroke-width="1" data-pp="bg"/><circle cx="22" cy="45" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="0.8" data-pp="mge"/><circle cx="78" cy="45" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="0.8" data-pp="mge"/><circle cx="50" cy="22" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="0.8" data-pp="mge"/><circle cx="50" cy="78" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="0.8" data-pp="mge"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="50" y1="30" x2="50" y2="14" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="38" y="10" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">vacuole</text><line x1="78" y1="45" x2="90" y2="38" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="72" y="34" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">S⁰</text><line x1="10" y1="92" x2="30" y2="92" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/><line x1="10" y1="90" x2="10" y2="94" stroke="#1B2733" stroke-width="1" data-pp="ink"/><line x1="30" y1="90" x2="30" y2="94" stroke="#1B2733" stroke-width="1" data-pp="ink"/><text x="20.0" y="89" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~100 μm</text>
+  </g>
+</svg>

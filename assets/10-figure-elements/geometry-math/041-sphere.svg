@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="球体" data-name-en="Sphere" data-cat="geometry-math" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">球体 / sphere</title>
+  <desc id="d-41">带经纬线的球体。关键词: sphere,solid,geometry</desc>
+  <g id="g-41-球体">
+    <circle cx="60" cy="60" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <ellipse cx="60" cy="60" rx="45" ry="15" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <ellipse cx="60" cy="60" rx="15" ry="45" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line fill="none" x1="60" y1="60" x2="98" y2="40" stroke="#0072B2" stroke-width="0.75" data-drole="series-1"/>
+    <text x="80" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#0072B2" text-anchor="middle" data-drole="series-1">r</text>
+    <circle cx="60" cy="60" r="2" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

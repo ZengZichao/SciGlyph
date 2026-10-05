@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-orf_map d-orf_map" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-orf_map">ORF 图 / ORF Map</title>
+  <desc id="d-orf_map">开放阅读框按链方向排布，长短箭头。坐标尺与 1 kb 标注为示意刻度, 非特定基因组实测。关键词: ORF, gene, strand, arrow</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">ORF Map</text>
+    <line x1="40" y1="200" x2="560" y2="200" stroke="#1B2733" data-pp="ink" stroke-width="2" />
+    <text x="30" y="204" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">chr</text>
+    <path d="M50,165 L121.2,165 L130,176.0 L121.2,187 L50,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M140,165 L191.2,165 L200,176.0 L191.2,187 L140,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M210,165 L301.2,165 L310,176.0 L301.2,187 L210,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M320,165 L361.2,165 L370,176.0 L361.2,187 L320,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M380,165 L441.2,165 L450,176.0 L441.2,187 L380,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M460,165 L541.2,165 L550,176.0 L541.2,187 L460,187 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M140,213 L78.8,213 L70,224.0 L78.8,235 L140,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M245,213 L163.8,213 L155,224.0 L163.8,235 L245,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M315,213 L268.8,213 L260,224.0 L268.8,235 L315,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M410,213 L338.8,213 L330,224.0 L338.8,235 L410,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M480,213 L428.8,213 L420,224.0 L428.8,235 L480,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <path d="M555,213 L498.8,213 L490,224.0 L498.8,235 L555,235 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <line x1="40" y1="320" x2="140" y2="320" stroke="#1B2733" data-pp="ink" stroke-width="2" />
+    <line x1="40" y1="315" x2="40" y2="325" stroke="#1B2733" data-pp="ink" stroke-width="1.5" />
+    <line x1="140" y1="315" x2="140" y2="325" stroke="#1B2733" data-pp="ink" stroke-width="1.5" />
+    <text x="90" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1 kb</text>
+    <rect x="350" y="310" width="14" height="14" fill="#2E86AB" data-pp="bacteria" />
+    <text x="368" y="321" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">+ strand</text>
+    <rect x="440" y="310" width="14" height="14" fill="#6C3FA0" data-pp="gene" />
+    <text x="458" y="321" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">− strand</text>
+  </g>
+</svg>

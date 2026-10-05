@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-reverse_gyrase d-reverse_gyrase" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-reverse_gyrase">反向促旋酶 / Reverse Gyrase</title>
+  <desc id="d-reverse_gyrase">DNA topoisomerase introducing positive supercoils into circular DNA. Hyperthermophile-specific. 关键词: reverse gyrase, topoisomerase, positive supercoil, circular DNA</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M64.0,48.0 L66.2,49.7 L67.2,51.5 L66.5,53.3 L64.0,54.5 L60.8,55.2 L57.6,55.5 L55.3,56.0 L54.1,57.0 L53.5,58.6 L52.9,60.8 L51.6,62.8 L49.5,64.1 L46.7,64.4 L43.9,63.4 L41.4,61.9 L39.5,60.3 L37.7,59.4 L35.7,59.3 L33.1,59.9 L29.9,60.6 L26.6,60.8 L23.9,60.1 L22.5,58.5 L22.5,56.4 L23.4,54.3 L24.4,52.5 L24.6,51.1 L23.5,49.9 L21.3,48.7 L18.8,47.2 L17.0,45.4 L16.9,43.6 L18.6,42.0 L21.5,41.1 L24.9,40.6 L27.7,40.3 L29.4,39.6 L30.3,38.3 L30.8,36.3 L31.7,34.2 L33.3,32.4 L35.8,31.6 L38.7,32.0 L41.4,33.3 L43.6,34.9 L45.4,36.2 L47.2,36.8 L49.5,36.5 L52.5,35.7 L55.8,35.2 L58.9,35.4 L61.0,36.6 L61.7,38.5 L61.1,40.7 L60.0,42.7 L59.3,44.3 L59.8,45.5 L61.5,46.6 L64.0,48.0" fill="none" stroke="#E8871E" stroke-width="2.5" data-pp="mge" stroke-linecap="round"/>
+    <ellipse cx="78" cy="48" rx="12" ry="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <ellipse cx="78" cy="48" rx="6" ry="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.5"/>
+    <text x="72" y="51" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">gyrase</text>
+    <path d="M15,22 Q20,16 25,22 Q30,28 35,22" fill="none" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+    <path d="M15,26 Q20,20 25,26 Q30,32 35,26" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round" stroke-dasharray="2,1"/>
+
+  <path d="M15,30 Q20,24 25,30 Q30,36 35,30" fill="none" stroke="#C42D2D" stroke-width="1.2" data-pp="alert" stroke-linecap="round"/><circle cx="88" cy="34" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/><line x1="60" y1="60" x2="68" y2="66" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/></g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="12" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">+ supercoil</text>
+    <text x="15" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">circular DNA</text>
+
+  </g>
+</svg>

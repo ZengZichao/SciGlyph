@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="分液漏斗" data-name-en="separatory_funnel" data-cat="lab-equipment" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">分液漏斗 / separatory_funnel</title>
+  <desc id="d-16">液液萃取和分离。关键词: 分液漏斗,funnel,萃取,分离</desc>
+  <g id="g-16-分液漏斗">
+    <path d="M 50 10 L 50 25 Q 30 40 28 60 Q 26 80 45 90 L 55 95 L 55 105 L 65 105 L 65 95 L 75 90 Q 94 80 92 60 Q 90 40 70 25 L 70 10 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="48" y="6" width="24" height="6" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 32 72 Q 30 82 45 90 L 55 94 L 65 94 L 75 90 Q 90 82 88 72 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="32" y1="72" x2="88" y2="72" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M 35 62 Q 33 70 42 72 L 78 72 Q 87 70 85 62 Z" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="35" y1="62" x2="85" y2="62" stroke="#E69F00" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="55" y="105" width="10" height="4" rx="1" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

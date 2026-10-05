@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-crusher-grinder-mill" data-cat="sp" data-spec="128"
+     data-tags="crusher,grinder,mill,planetary,ball-mill" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">行星式球磨机 / Planetary Ball Mill / Grinder</title>
+  <desc id="d">行星式球磨机/研磨机，带研磨罐和球</desc>
+  <g id="body"><circle cx="64" cy="64" r="44" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="32" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="8" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><circle cx="44" cy="44" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="84" cy="44" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="44" cy="84" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="84" cy="84" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="44" cy="44" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="84" cy="44" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="44" cy="84" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="84" cy="84" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M64 20 L68 20 L68 28 L64 28 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M60 16 L68 16 L68 20 L60 20 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

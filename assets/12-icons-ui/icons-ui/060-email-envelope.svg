@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="邮件信封" data-name-en="email_envelope" data-cat="basic-icons-ui" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-60">邮件信封 / email_envelope</title>
+  <desc id="d-60">邮件与通信图标。关键词: 邮件,信封,email,envelope</desc>
+  <g id="g-60-邮件信封">
+    <rect x="6" y="12" width="36" height="24" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="6,12 24,28 42,12" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="低型烧杯" data-name-en="beaker_low" data-cat="lab-equipment" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01">低型烧杯 / beaker_low</title>
+  <desc id="d-01">盛装、加热和混合液体。关键词: 烧杯,beaker,玻璃器皿,液体</desc>
+  <g id="g-01-低型烧杯">
+    <polygon points="25,22 22,22 30,100 90,100 98,22 95,22" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 31 60 L 89 60 L 90 100 L 30 100 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="31" y1="60" x2="89" y2="60" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="22" y1="22" x2="18" y2="18" stroke="#1f2937" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>

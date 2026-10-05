@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-coccus d-coccus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-coccus">球菌 / Coccus</title>
+  <desc id="d-coccus">Single spherical bacterial cell with double-layer cell wall and division plane indication. 关键词: coccus, spherical, cell wall, division plane</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="50" r="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="2"/>
+    <circle cx="50" cy="50" r="18" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="3,2"/>
+    <line x1="50" y1="28" x2="50" y2="72" stroke="#93A0AC" stroke-width="1.5" data-pp="muted" stroke-dasharray="3,2"/>
+  <path d="M40,52 Q50,42 60,52" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/><circle cx="43" cy="57" r="1.2" fill="#6C3FA0" data-pp="gene"/><circle cx="56" cy="55" r="1.2" fill="#6C3FA0" data-pp="gene"/></g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="68" y1="35" x2="82" y2="20" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <line x1="70.0" y1="13.9" x2="60.44" y2="13.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="16.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cell wall</text>
+    <line x1="50" y1="28" x2="30" y2="15" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="15" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">division</text>
+  </g>
+</svg>

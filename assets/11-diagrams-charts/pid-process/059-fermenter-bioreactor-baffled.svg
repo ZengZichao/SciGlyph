@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-fermenter-bioreactor-baffled" data-cat="uo" data-spec="128"
+     data-tags="fermenter,bioreactor,sparger,aeration,sampling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">发酵罐 / Fermenter Bioreactor</title>
+  <desc id="d">发酵罐，搅拌+挡板+通气分布器+取样口+排气。</desc>
+  <g id="body">
+    <path d="M30,20 L30,90 Q30,108 64,108 Q98,108 98,90 L98,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="64" y1="10" x2="64" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="50" y1="40" x2="78" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="50" y1="56" x2="78" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="64" y1="40" x2="50" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="64" y1="40" x2="78" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="34" y1="28" x2="34" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="94" y1="28" x2="94" y2="94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="44" y1="90" x2="84" y2="90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="52" cy="90" r="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="64" cy="90" r="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="76" cy="90" r="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="108" x2="64" y2="118" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,114 60,108 68,108" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="98" y1="70" x2="112" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="106,70 100,66 100,74" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="10" x2="64" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,12 60,18 68,18" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-sparcc_network d-sparcc_network" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-sparcc_network">SparCC相关网络 / SparCC network</title>
+<desc id="d-sparcc_network">Co-occurrence network with positive/negative edges and degree legend. schematic. 关键词: microbial ecology, sparcc network, Co-occurrence, positive, negative, edges, degree, Correlation</desc>
+<g id="l-sparcc_network" data-name="network">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="250.0" y="28.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">SparCC Correlation Network</text>
+<line x1="363.3" y1="127.7" x2="363.3" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="383.1" y1="166.7" x2="383.1" y2="253.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="363.3" y1="127.7" x2="250.0" y2="350.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="390.0" y1="210.0" x2="136.7" y2="292.3" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="250.0" y1="70.0" x2="332.3" y2="96.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="332.3" y1="323.3" x2="167.7" y2="323.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="250.0" y1="70.0" x2="332.3" y2="323.3" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="206.7" y1="343.1" x2="116.9" y2="253.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="250.0" y1="70.0" x2="136.7" y2="127.7" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="332.3" y1="96.7" x2="136.7" y2="127.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="383.1" y1="253.3" x2="206.7" y2="343.1" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="116.9" y1="166.7" x2="206.7" y2="76.9" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="363.3" y1="292.3" x2="136.7" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="383.1" y1="253.3" x2="136.7" y2="127.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="363.3" y1="127.7" x2="167.7" y2="323.3" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="116.9" y1="253.3" x2="167.7" y2="96.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="293.3" y1="343.1" x2="206.7" y2="76.9" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="206.7" y1="343.1" x2="206.7" y2="76.9" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="293.3" y1="76.9" x2="332.3" y2="323.3" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="383.1" y1="253.3" x2="363.3" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="383.1" y1="166.7" x2="363.3" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="363.3" y1="127.7" x2="206.7" y2="343.1" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="390.0" y1="210.0" x2="206.7" y2="343.1" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="363.3" y1="127.7" x2="136.7" y2="127.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="116.9" y1="253.3" x2="136.7" y2="127.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="250.0" y1="70.0" x2="363.3" y2="127.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="332.3" y1="323.3" x2="250.0" y2="350.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="332.3" y1="96.7" x2="293.3" y2="343.1" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="293.3" y1="76.9" x2="363.3" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="293.3" y1="76.9" x2="136.7" y2="292.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="332.3" y1="96.7" x2="383.1" y2="253.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="332.3" y1="96.7" x2="167.7" y2="323.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="332.3" y1="96.7" x2="167.7" y2="96.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="206.7" y1="343.1" x2="167.7" y2="96.7" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="363.3" y1="292.3" x2="332.3" y2="323.3" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<circle cx="250.0" cy="70.0" r="13.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="293.3" cy="76.9" r="17.2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<circle cx="332.3" cy="96.7" r="9.2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<circle cx="363.3" cy="127.7" r="9.3" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+<circle cx="383.1" cy="166.7" r="12.6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="390.0" cy="210.0" r="13.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="383.1" cy="253.3" r="13.6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<circle cx="363.3" cy="292.3" r="11.2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<circle cx="332.3" cy="323.3" r="15.6" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+<circle cx="293.3" cy="343.1" r="12.4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="250.0" cy="350.0" r="16.2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="206.7" cy="343.1" r="16.9" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<circle cx="167.7" cy="323.3" r="12.3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<circle cx="136.7" cy="292.3" r="17.1" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+<circle cx="116.9" cy="253.3" r="12.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<circle cx="110.0" cy="210.0" r="9.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="116.9" cy="166.7" r="16.6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<circle cx="136.7" cy="127.7" r="12.5" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<circle cx="167.7" cy="96.7" r="15.5" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+<circle cx="206.7" cy="76.9" r="16.4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<text x="250.0" y="74.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">OTU1</text>
+<text x="390.0" y="214.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">OTU6</text>
+<text x="250.0" y="354.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">OTU11</text>
+<text x="110.0" y="214.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">OTU16</text>
+<rect x="460.0" y="60.0" width="120.0" height="80.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+<line x1="470.0" y1="80.0" x2="500.0" y2="80.0" stroke="#00857A" stroke-width="2" data-pp="metabolism" stroke-linecap="round"/>
+<text x="510.0" y="84.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Positive</text>
+<line x1="470.0" y1="100.0" x2="500.0" y2="100.0" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<text x="510.0" y="104.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Negative</text>
+<text x="520.0" y="130.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~20 nodes</text>
+<circle cx="475.0" cy="155.0" r="6.0" fill="#93A0AC" data-pp="muted"/>
+<text x="490.0" y="159.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">low deg</text>
+<circle cx="475.0" cy="175.0" r="12.0" fill="#93A0AC" data-pp="muted"/>
+<text x="490.0" y="179.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">high deg</text>
+</g>
+</svg>

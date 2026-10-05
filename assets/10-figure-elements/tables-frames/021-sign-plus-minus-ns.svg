@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="符号表" data-name-en="sign-plus-minus-ns" data-cat="tables-frames" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">符号表 / sign_plus_minus_ns</title>
+  <desc id="d-21">正负号与ns符号表。关键词: 符号,正负,显著性</desc>
+  <g id="g-21-符号表">
+    <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <text x="90" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Pair</text>
+    <text x="180" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Sign</text>
+    <text x="250" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Sig</text>
+    <text x="90" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">A-B</text>
+    <text x="180" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
+    <text x="250" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">*</text>
+    <text x="90" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">C-D</text>
+    <text x="180" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+    <text x="250" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">**</text>
+    <text x="90" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">E-F</text>
+    <text x="180" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
+    <text x="250" y="130" font-size="11" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">ns</text>
+    <text x="90" y="155" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">G-H</text>
+    <text x="180" y="155" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+    <text x="250" y="155" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">*</text>
+    <line x1="40" y1="185" x2="280" y2="185" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

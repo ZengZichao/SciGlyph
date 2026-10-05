@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-nostoc d-nostoc" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-nostoc">念珠藻 / Nostoc</title>
+  <desc id="d-nostoc">丝状蓝细菌：营养细胞+异形胞(大/透明)+厚壁孢子。关键词: Nostoc, heterocyst, akinete, cyanobacteria</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <circle cx="15" cy="50" r="8" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="30" cy="50" r="8" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="45" cy="50" r="10" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/><circle cx="60" cy="50" r="8" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="75" cy="50" r="8" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="90" cy="50" r="9" fill="#00857A" stroke="#1B2733" stroke-width="2.5" data-pp="metabolism"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="45" y1="38" x2="45" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="32.0" y="18.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">heterocyst</text><line x1="90" y1="38" x2="90" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="72.0" y1="15.9" x2="69.12" y2="22.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="69.12" y="25.55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">akinete</text>
+  </g>
+</svg>

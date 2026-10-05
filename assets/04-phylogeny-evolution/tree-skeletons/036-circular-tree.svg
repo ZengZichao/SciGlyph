@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-04 d-04" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-04">环形圆树 / Circular Tree</title>
+  <desc id="d-04">骨架，配合 iTOL/FastTree 输出使用。环形放射状系统发育树。 关键词: phylogenetic tree, circular tree, iTOL, FastTree, skeleton template, phylogenetics</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp04__branches" data-name="branches">
+    <line x1="200.0" y1="200.0" x2="232.3" y2="186.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 232.3 186.6 A 35.0 35.0 0 0 1 213.4 167.7" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="213.4" y1="167.7" x2="226.8" y2="135.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 232.3 186.6 A 35.0 35.0 0 0 1 235.0 200.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="235.0" y1="200.0" x2="270.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 270.0 200.0 A 70.0 70.0 0 0 1 264.7 173.2" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="264.7" y1="173.2" x2="297.0" y2="159.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 270.0 200.0 A 70.0 70.0 0 0 1 264.7 226.8" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="264.7" y1="226.8" x2="297.0" y2="240.2" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="200.0" x2="167.7" y2="213.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 167.7 213.4 A 35.0 35.0 0 0 1 200.0 235.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="235.0" x2="200.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 200.0 270.0 A 70.0 70.0 0 0 1 226.8 264.7" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="226.8" y1="264.7" x2="240.2" y2="297.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 200.0 270.0 A 70.0 70.0 0 0 1 173.2 264.7" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="173.2" y1="264.7" x2="159.8" y2="297.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 167.7 213.4 A 35.0 35.0 0 0 1 167.7 186.6" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="167.7" y1="186.6" x2="135.3" y2="173.2" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 135.3 173.2 A 70.0 70.0 0 0 1 135.3 226.8" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="135.3" y1="226.8" x2="103.0" y2="240.2" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 135.3 173.2 A 70.0 70.0 0 0 1 150.5 150.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="150.5" y1="150.5" x2="125.8" y2="125.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 125.8 125.8 A 105.0 105.0 0 0 1 103.0 159.8" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="103.0" y1="159.8" x2="70.7" y2="146.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 125.8 125.8 A 105.0 105.0 0 0 1 159.8 103.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="159.8" y1="103.0" x2="146.4" y2="70.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp04__labels" data-name="tip-labels">
+    <text x="257.4" y="61.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" transform="rotate(-67.5 257.4 61.4)">Sp_C</text>
+    <text x="338.6" y="142.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" transform="rotate(-22.5 338.6 142.6)">Sp_A</text>
+    <text x="338.6" y="257.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end" transform="rotate(202.5 338.6 257.4)">Sp_B</text>
+    <text x="257.4" y="338.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end" transform="rotate(247.5 257.4 338.6)">Sp_D</text>
+    <text x="142.6" y="338.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end" transform="rotate(292.5 142.6 338.6)">Sp_E</text>
+    <text x="61.4" y="257.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end" transform="rotate(337.5 61.4 257.4)">Sp_F</text>
+    <text x="61.4" y="142.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" transform="rotate(202.5 61.4 142.6)">Sp_G</text>
+    <text x="142.6" y="61.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" transform="rotate(247.5 142.6 61.4)">Sp_H</text>
+  </g>
+</svg>

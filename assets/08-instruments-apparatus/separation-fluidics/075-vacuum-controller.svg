@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-vacuum-controller" data-cat="sp" data-spec="128"
+     data-tags="vacuum,controller,regulator,gauge" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">真空控制器 / Vacuum Controller</title>
+  <desc id="d">真空度控制器，带真空表</desc>
+  <g id="body"><rect x="28" y="30" width="72" height="68" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="54" r="18" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="40" y="80" width="48" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><path d="M64 40 L64 54 M64 54 L74 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M50 54 L78 54 M64 40 L64 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M44 84 L84 84 L84 88 L44 88 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M28 60 L20 60 L20 68 L28 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M100 60 L108 60 L108 68 L100 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

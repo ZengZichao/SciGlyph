@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-translocation d-translocation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-translocation">易位突变 / Translocation Mutation</title>
+<desc id="d-translocation">染色体片段易位到另一染色体。关键词: translocation, rearrangement, chromosome</desc>
+<defs>
+<marker id="pp06__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Translocation Mutation</text>
+<text x="80" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text>
+<text x="80" y="95" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chr 1:</text><rect x="130" y="80" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="150" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">A</text><rect x="175" y="80" width="40" height="25" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+<text x="195" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">B</text><rect x="220" y="80" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
+<text x="240" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">C</text>
+<text x="80" y="135" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chr 2:</text><rect x="130" y="120" width="40" height="25" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="150" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">X</text><rect x="175" y="120" width="40" height="25" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+<text x="195" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Y</text><rect x="220" y="120" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="240" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Z</text>
+<line x1="300" y1="100" x2="350" y2="100" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp06__ar)" />
+<text x="325" y="95" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">translocate</text>
+<text x="380" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After:</text>
+<text x="380" y="95" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chr 1:</text><rect x="430" y="80" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="450" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">A</text><rect x="475" y="80" width="40" height="25" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+<text x="495" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Y</text><rect x="520" y="80" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
+<text x="540" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">C</text>
+<text x="380" y="135" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chr 2:</text><rect x="430" y="120" width="40" height="25" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="450" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">X</text><rect x="475" y="120" width="40" height="25" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+<text x="495" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">B</text><rect x="520" y="120" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="540" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Z</text>
+<text x="300" y="200" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Segments swap between loci</text>
+<text x="300" y="230" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Fusion genes / regulation</text></g></svg>

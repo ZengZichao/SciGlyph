@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="交流源" data-name-en="ac-source-circle" data-cat="physics-electronics" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33">交流源 / ac_source_circle</title>
+  <desc id="d-33">圆形交流电压源符号。关键词: 交流源,AC,电源</desc>
+  <g id="g-33-交流源">
+    <circle cx="60" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 50 40 Q 55 30 60 40 Q 65 50 70 40" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="80" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

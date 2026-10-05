@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>盖玻片</title>
+  <rect x="6" y="6" width="12" height="12" rx="0.5"/>
+  <line x1="6" y1="6" x2="8" y2="4" stroke-width="0.75"/>
+  <line x1="18" y1="6" x2="20" y2="4" stroke-width="0.75"/>
+  <line x1="6" y1="18" x2="4" y2="20" stroke-width="0.75"/>
+  <line x1="18" y1="18" x2="20" y2="20" stroke-width="0.75"/>
+  <line x1="8" y1="8" x2="16" y2="8" stroke-width="0.75"/>
+  <line x1="8" y1="8" x2="8" y2="16" stroke-width="0.75"/>
+</svg>

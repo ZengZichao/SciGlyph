@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="V形开口箭头" data-name-en="head open v" data-cat="arrows-connectors" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27">V形开口箭头 / head_open_v</title>
+  <desc id="d-27">V形开口线端头。关键词: head,open,v,chevron</desc>
+  <g id="g-27-V形开口箭头">
+    <line x1="10" y1="24" x2="70" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polyline points="70,14 86,24 70,34" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

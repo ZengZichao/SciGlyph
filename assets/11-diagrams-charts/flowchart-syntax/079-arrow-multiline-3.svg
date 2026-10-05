@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-arrow-multiline-3" data-cat="pf" data-spec="160"
+     data-tags="arrow,multi,merge,converge,three,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">三线汇聚 / Multi-line Arrow Merge</title>
+  <desc id="d">流程图三线汇聚箭头。</desc>
+  <g id="body">
+    <line x1="20" y1="20" x2="110" y2="48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="48" x2="110" y2="48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="76" x2="110" y2="48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="110,48 100,40 100,56" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

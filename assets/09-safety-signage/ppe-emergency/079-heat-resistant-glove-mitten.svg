@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-heat-resistant-glove-mitten" data-cat="sf" data-spec="128"
+     data-tags="heat resistant,glove,mitten,insulated,thermal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">隔热手套 / Heat Resistant Glove Mitten</title>
+  <desc id="d">隔热手套，连指型，长筒设计，耐高温材料。</desc>
+  <g id="body"><path d="M36 108 L36 52 Q36 24 64 20 Q92 24 92 52 L92 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M36 60 L24 50 Q20 46 22 40 L30 38 L36 48" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M36 80 L92 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 92 L92 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M44 28 Q64 24 84 28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 40 Q64 36 88 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

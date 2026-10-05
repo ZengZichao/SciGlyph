@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>单标线移液管</title>
+  <path d="M11 2 L11 8 Q8 9 8 12 Q8 15 11 16 L11 21"/>
+  <path d="M13 2 L13 8 Q16 9 16 12 Q16 15 13 16 L13 21"/>
+  <line x1="11" y1="21" x2="13" y2="21" stroke-width="1"/>
+  <line x1="10.5" y1="2" x2="13.5" y2="2"/>
+  <line x1="10" y1="5" x2="14" y2="5" stroke-width="1"/>
+  <path d="M11.5 8 L11.5 16" stroke-width="0.75"/>
+  <path d="M12.5 8 L12.5 16" stroke-width="0.75"/>
+  <path d="M11 19 L13 19" stroke-width="0.75"/>
+</svg>

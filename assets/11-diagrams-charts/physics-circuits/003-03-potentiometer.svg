@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="电位器" data-name-en="potentiometer" data-cat="physics-electronics" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">电位器 / potentiometer</title>
+  <desc id="d-03">三端可变电阻电位器符号。关键词: 电位器,可变电阻,无源元件</desc>
+  <g id="g-03-电位器">
+    <line x1="10" y1="40" x2="35" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="35" y="25" width="50" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="85" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="60" y1="15" x2="60" y2="8" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="60,25 54,15 66,15" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

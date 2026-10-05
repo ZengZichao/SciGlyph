@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-waste-label-general" data-cat="hz" data-spec="128"
+     data-tags="waste,general,label,废物,一般" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">一般废物标签 / General Waste Label</title>
+  <desc id="d">一般废物标签。</desc>
+  <g id="body"><rect x="10" y="16" width="108" height="96" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="10" y="16" width="108" height="22" rx="4" fill="#5A6B7B" data-ls="thin"/>
+    <text x="64" y="32" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="fill">GENERAL WASTE</text>
+    <line x1="16" y1="52" x2="112" y2="52" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <line x1="16" y1="68" x2="112" y2="68" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <line x1="16" y1="84" x2="112" y2="84" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <text x="18" y="50" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="thin">Description</text>
+    <text x="18" y="66" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="thin">Date</text>
+    <text x="18" y="82" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="thin">Dept.</text></g>
+  <g id="detail"></g>
+</svg>

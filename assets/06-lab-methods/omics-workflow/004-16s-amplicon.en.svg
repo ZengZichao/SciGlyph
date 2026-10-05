@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="16S rRNA 扩增子区域" data-name-en="16S rRNA Amplicon Regions" data-cat="05-eco-seq" data-tags="16S,高变区,V1-V9,引物,扩增子,分类学" role="img" aria-labelledby="t-20-16s-amplicon d-20-16s-amplicon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20-16s-amplicon">16S rRNA Amplicon Regions</title>
+  <desc id="d-20-16s-amplicon">1492R 可扩增全长或 V3–V4 等常用片段用于分类学鉴定。关键词: 16S, 高变区, V1-V9, 引物, 扩增子, 分类学</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 供体细胞与基因来源 -->
+  <rect x="6" y="12" width="22" height="10" rx="5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.6"/>
+  <path d="M12 17 A5 4 0 0 0 20 17" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M32 17 H56 m-4 -3 l4 3 l-4 3" stroke="#5B4B8A" stroke-width="1.4"/>
+  <text x="84" y="15" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" fill="#2B3A42" stroke="none" text-anchor="middle">16S rRNA</text>
+  <!-- 引物结合位点：27F 位于 5′ 保守区（V1 上游），1492R 位于 3′ 末端（V9 下游） -->
+  <path d="M8.5 33 H17.5 M14 30.5 l3.5 2.5 l-3.5 2.5" stroke="#B57A17" stroke-width="1.6"/>
+  <path d="M103 33 H94 M97 30.5 l-3.5 2.5 l3.5 2.5" stroke="#B57A17" stroke-width="1.6"/>
+  <text x="13" y="32" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#B57A17" stroke="none" text-anchor="middle">27F</text>
+  <text x="98.5" y="32" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#B57A17" stroke="none" text-anchor="middle">1492R</text>
+  <!-- 高变区标签（单双行错开以免叠字） -->
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="22.8" y="43" font-size="9" text-anchor="middle">V1</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="38" y="43" font-size="9" text-anchor="middle">V3</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="56.3" y="43" font-size="9" text-anchor="middle">V5</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="71.3" y="43" font-size="9" text-anchor="middle">V7</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="88" y="43" font-size="9" text-anchor="middle">V9</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="30.3" y="52" font-size="9" text-anchor="middle">V2</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="47.5" y="52" font-size="9" text-anchor="middle">V4</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="63.8" y="52" font-size="9" text-anchor="middle">V6</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="79.3" y="52" font-size="9" text-anchor="middle">V8</text>
+  </g>
+  <!-- 16S 基因线性图谱：5′ 保守区 | V1..V9 | 3′ 保守区 -->
+  <rect x="8" y="56" width="10.5" height="10" rx="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <rect x="18.5" y="56" width="8.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="27" y="56" width="6.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="33.5" y="56" width="9" height="10" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="42.5" y="56" width="10" height="10" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="52.5" y="56" width="7.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="60" y="56" width="7.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="67.5" y="56" width="7.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="75" y="56" width="8.5" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="83.5" y="56" width="9" height="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="92.5" y="56" width="11.5" height="10" rx="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M18.5 56 V66 M27 56 V66 M33.5 56 V66 M52.5 56 V66 M60 56 V66 M67.5 56 V66 M75 56 V66 M83.5 56 V66 M92.5 56 V66" stroke="#5FA8C7" stroke-width="1.2"/>
+  <!-- 扩增子 1：全长 V1–V9 -->
+  <path d="M17.5 70 v5 h77.5 v-5" stroke="#5B4B8A" stroke-width="1.6"/>
+  <text x="56.3" y="83" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#5B4B8A" stroke="none" text-anchor="middle">V1–V9</text>
+  <!-- 扩增子 2：V3–V4 高变区 -->
+  <path d="M33.5 87 v5 h19 v-5" stroke="#5B4B8A" stroke-width="1.6"/>
+  <text x="43" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#5B4B8A" stroke="none" text-anchor="middle">V3–V4</text>
+  <!-- 引物覆盖示意 -->
+  <path d="M17.5 108 H94" stroke="#C9BFA8" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <path d="M8.5 108 H17.5 M14 105.5 l3.5 2.5 l-3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M103 108 H94 M97 105.5 l-3.5 2.5 l3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
+  <text x="56.3" y="116" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#B57A17" stroke="none" text-anchor="middle">Primer coverage</text>
+</g>
+</svg>

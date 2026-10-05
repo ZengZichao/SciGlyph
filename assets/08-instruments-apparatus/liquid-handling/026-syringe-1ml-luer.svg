@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-syringe-1ml-luer" data-cat="lh" data-spec="128"
+     data-tags="syringe,1ml,luer,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">1mL注射器（鲁尔接口） / 1mL Luer Syringe</title>
+  <desc id="d">1mL鲁尔接口注射器，带刻度</desc>
+  <g id="body"><rect x="56" y="32" width="16" height="52" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="54" y="24" width="20" height="10" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M62 24 L62 16 L66 16 L66 24" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 16 L64 10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M58 42 L70 42 M58 52 L70 52 M58 62 L70 62 M58 72 L70 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M58 47 L64 47 M58 57 L64 57 M58 67 L64 67 M58 77 L64 77" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M52 84 L76 84 L76 88 L52 88 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 58 L70 58 L70 82 L58 82 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

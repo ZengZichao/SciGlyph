@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-haloarcula d-haloarcula" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-haloarcula">盐盒菌 / Haloarcula</title>
+  <desc id="d-haloarcula">Irregular triangular/discoid flat cells with gas vesicles and peritrichous flagella. Halobacteriota, halophile. 关键词: Haloarcula, irregular, discoid, gas vesicle, halophile</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M30,35 L65,30 L70,55 L55,70 L28,60 Z" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <ellipse cx="42" cy="45" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <ellipse cx="52" cy="52" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <ellipse cx="45" cy="58" rx="2.5" ry="1.2" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <path d="M68.0,50.0 L69.1,48.1 L70.3,49.1 L71.4,51.6 L72.6,51.6 L73.7,49.1 L74.9,48.1 L76.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.2,69.0 L56.4,69.5 L55.7,70.9 L53.8,72.8 L54.1,73.9 L56.8,74.2 L58.2,74.9 L56.7,76.6" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M31.8,61.8 L32.0,64.0 L30.5,63.8 L28.1,62.5 L27.2,63.2 L27.7,65.8 L27.4,67.4 L25.3,66.5" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M31.8,38.2 L29.7,39.2 L29.5,37.6 L30.0,35.0 L29.0,34.3 L26.7,35.6 L25.1,35.8 L25.3,33.5" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.2,31.0 L52.7,29.3 L54.1,28.5 L56.7,28.2 L57.1,27.1 L55.1,25.3 L54.4,23.9 L56.7,23.4" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="52" y1="45" x2="65" y2="28" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="52" y="24" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">vesicle</text>
+    <text x="20" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Halobacteriota</text>
+  </g>
+</svg>

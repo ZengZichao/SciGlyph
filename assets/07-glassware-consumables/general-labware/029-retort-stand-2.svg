@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="铁架台带铁夹" data-name-en="retort_stand" data-cat="lab-equipment" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29">铁架台带铁夹 / retort_stand</title>
+  <desc id="d-29">支撑固定实验器材。关键词: 铁架台,stand,支撑,固定</desc>
+  <g id="g-29-铁架台带铁夹">
+    <rect x="15" y="100" width="55" height="8" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="38" y="12" width="6" height="90" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 44 35 L 75 35 L 80 30 L 80 40 L 75 35" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="75" y="28" width="8" height="14" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="79" y1="42" x2="79" y2="55" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 72 55 L 86 55 L 84 60 L 74 60 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

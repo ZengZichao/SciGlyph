@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>结晶皿</title>
+  <path d="M4 10 L4 17 Q4 19 6 19 L18 19 Q20 19 20 17 L20 10"/>
+  <line x1="3" y1="10" x2="21" y2="10"/>
+  <path d="M3 9.5 L3 10.5" stroke-width="1"/>
+  <path d="M21 9.5 L21 10.5" stroke-width="1"/>
+  <path d="M5 10.5 L5 17 Q5 18 6.5 18 L17.5 18 Q19 18 19 17 L19 10.5" stroke-width="0.75"/>
+  <line x1="6" y1="19" x2="18" y2="19" stroke-width="0.75"/>
+  <path d="M3 8.5 Q12 7 21 8.5" stroke-width="0.75"/>
+</svg>

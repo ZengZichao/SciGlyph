@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-contig_scaffold d-contig_scaffold" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-contig_scaffold">Contig 与 Scaffold 层级 / Contig &amp; Scaffold Hierarchy</title>
+<desc id="d-contig_scaffold">Contig 组装为 Scaffold，含 gap N 计数。contig 数、N50 等统计值为示例(示意, 非真实组装结果)。关键词: contig, scaffold, gap, N, assembly</desc>
+<defs>
+<marker id="pp49__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Contig → Scaffold Hierarchy</text>
+<text x="30" y="75" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Contigs:</text><rect x="90" y="60" width="120" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="200" y="60" width="80" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="300" y="60" width="100" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" /><rect x="420" y="60" width="60" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<line x1="300" y1="110" x2="300" y2="145" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp49__ar)" />
+<text x="315" y="132" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">paired-end linking</text>
+<text x="30" y="175" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Scaffold:</text><rect x="60" y="180" width="120" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="120.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig1</text><rect x="180" y="180" width="40" height="20" rx="2" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" stroke-dasharray="3,2" />
+<text x="200.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gap (N×40)</text><rect x="220" y="180" width="80" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="260.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig2</text><rect x="300" y="180" width="40" height="20" rx="2" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" stroke-dasharray="3,2" />
+<text x="320.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gap (N×40)</text><rect x="340" y="180" width="100" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="390.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig3</text>
+<rect x="60" y="240" width="480" height="100" rx="5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" />
+<text x="80" y="265" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Assembly statistics:</text>
+<text x="80" y="285" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">contigs 127 | N50 45 kb</text>
+<text x="80" y="305" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">scaffolds 42 | N50 98 kb</text>
+<text x="80" y="325" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Genome size estimate: ~4.8 Mb</text></g>  <g data-name="annotation">
+    <line x1="60" y1="350" x2="540" y2="350" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <circle cx="540" cy="70" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  </g>
+</svg>

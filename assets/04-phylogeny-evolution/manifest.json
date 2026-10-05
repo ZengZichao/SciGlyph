@@ -1,0 +1,35 @@
+{
+ "category": "04-phylogeny-evolution",
+ "name_zh": "系统发育与进化",
+ "name_en": "Phylogeny & Evolution",
+ "count": 201,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "tree-skeletons",
+   "name_zh": "树骨架",
+   "name_en": "Tree Skeletons",
+   "count": 82
+  },
+  {
+   "id": "tree-annotation",
+   "name_zh": "树注释",
+   "name_en": "Tree Annotation",
+   "count": 50
+  },
+  {
+   "id": "evolution-process",
+   "name_zh": "演化过程",
+   "name_en": "Evolutionary Process",
+   "count": 30
+  },
+  {
+   "id": "nomenclature",
+   "name_zh": "命名法规",
+   "name_en": "Nomenclature",
+   "count": 39
+  }
+ ]
+}

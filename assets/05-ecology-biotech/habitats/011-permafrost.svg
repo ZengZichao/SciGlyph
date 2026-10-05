@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="多年冻土" data-name-en="Permafrost" data-cat="05-eco-seq" data-tags="冻土,多年冻土,冰楔,活跃层,解冻" role="img" aria-labelledby="t-11-permafrost d-11-permafrost" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11-permafrost">多年冻土 / Permafrost</title>
+  <desc id="d-11-permafrost">多年冻土以冻土顶板与冰楔分隔夏季活跃层，融化斑块中冰封的嗜冷菌在解冻后恢复代谢。关键词: 冻土, 多年冻土, 冰楔, 活跃层, 解冻</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 地表积雪 -->
+  <path d="M5 28 Q22 20 42 25 Q62 16 84 24 Q102 19 115 26 L115 5 L5 5 Z" fill="#DCEEE4" fill-opacity="0.8" stroke="#5FA8C7" stroke-width="1.4"/>
+  <!-- 雪花晶体 -->
+  <path d="M22 12 v-7 M22 12 l-5 -4 M22 12 l5 -4 M22 12 l-5 4 M22 12 l5 4" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M38 14 v-5 M38 14 l-4 -3 M38 14 l4 -3" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 地表植被 -->
+  <path d="M92 26 c1 -6 -1 -9 -3 -11 M92 26 c1 -5 3 -7 5 -8 M92 26 c-3 -4 -5 -5 -7 -5" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 活跃层（夏季融化层） -->
+  <path d="M5 28 Q30 24 60 27 T115 26 L115 45 L5 45 Z" fill="#DCEEE4" fill-opacity="0.7" stroke="none"/>
+  <!-- 多年冻土顶板 -->
+  <path d="M5 45 Q30 42 60 45 T115 44" stroke="#1F6F8B" stroke-width="1.4" stroke-dasharray="5 3"/>
+  <!-- 冻土层 -->
+  <path d="M5 45 Q30 42 60 45 T115 44 L115 104 L5 104 Z" fill="#B7D7E8" fill-opacity="0.35" stroke="none"/>
+  <!-- 冰楔 -->
+  <path d="M24 45 H42 L36 104 H28 Z" fill="#B7D7E8" fill-opacity="0.75" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M74 45 H90 L92 104 H80 Z" fill="#B7D7E8" fill-opacity="0.75" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 冰脉网络 -->
+  <path d="M42 62 L74 66 M36 82 L74 86 M60 46 L60 104 M5 70 L28 68 M92 72 L115 70" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 深度轴 -->
+  <path d="M9 34 V100 m-3 -3 l3 3 l3 -3" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M6 45 h6 M6 74 h6 M6 104 h6" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 冻土中冰封的休眠细胞 -->
+  <rect x="50" y="60" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="48" y="58" width="22" height="12" rx="6" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <rect x="46" y="86" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="44" y="84" width="22" height="12" rx="6" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <circle cx="58" cy="76" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="58" cy="76" r="6.5" fill="none" stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <rect x="96" y="58" width="16" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="100" y="88" width="15" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 融化斑块与解冻放热 -->
+  <path d="M46 50 q14 -8 28 0 q-14 8 -28 0 Z" fill="#E8B04B" fill-opacity="0.55" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="52" y="47" width="15" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M60 44 v-6 m-3 3 l3 -3 l3 3" stroke="#B57A17" stroke-width="1.4"/>
+  <!-- 底层冻土 -->
+  <path d="M5 104 H115 V114 H5 Z" fill="#7A8B93" fill-opacity="0.4" stroke="#2B3A42" stroke-width="1.4"/>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="多元节点" data-name-en="Polytomy" data-cat="04-phylo" data-tags="多元节点,多叉,未解析,软多元,星型" aria-labelledby="t-12-polytomy d-12-polytomy" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12-polytomy">多元节点 / Polytomy</title>
+  <desc id="d-12-polytomy">星型辐射的未解析多叉节点（软多元），以实心圆加虚线光晕标记，下方以二叉节点作对照，强调证据不足而非硬 polytomy。关键词: 多元节点, 多叉, 未解析, 软多元, 星型</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 8 44 H 40"/>
+      <path d="M 40 44 L 102 18"/>
+      <path d="M 40 44 L 102 38"/>
+      <path d="M 40 44 L 102 60"/>
+      <path d="M 40 44 L 102 84"/>
+      <path d="M 40 44 L 102 104"/>
+    </g>
+    <circle cx="40" cy="44" r="10" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+    <circle cx="40" cy="44" r="4" fill="#5B4B8A"/>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="102" cy="18" r="3"/>
+      <circle cx="102" cy="38" r="3"/>
+      <circle cx="102" cy="60" r="3"/>
+      <circle cx="102" cy="84" r="3"/>
+      <circle cx="102" cy="104" r="3"/>
+    </g>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 20 104 H 34"/>
+      <path d="M 34 98 V 110"/>
+      <path d="M 34 98 H 74"/>
+      <path d="M 34 110 H 74"/>
+    </g>
+    <circle cx="34" cy="98" r="2.6" fill="#5B4B8A"/>
+    <g fill="#5B4B8A">
+      <circle cx="74" cy="98" r="2.6"/>
+      <circle cx="74" cy="110" r="2.6"/>
+    </g>
+  </g>
+</svg>

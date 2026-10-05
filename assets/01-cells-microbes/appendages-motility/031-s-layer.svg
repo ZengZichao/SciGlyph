@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-s_layer d-s_layer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-s_layer">S层 / S-layer (surface layer)</title>
+  <desc id="d-s_layer">Crystalline protein surface layer. 关键词: S-layer, surface layer, glycoprotein, crystalline</desc>
+  
+  <g id="layer-body-s_layer" data-name="body">
+    <circle cx="50" cy="50" r="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="72.0" y="48.0" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(0,74.0,50.0)"/>
+    <rect x="70.5526228988618" y="56.20848343981605" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(20,72.5526228988618,58.20848343981605)"/>
+    <rect x="66.38506663485548" y="63.42690263247694" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(40,68.38506663485548,65.42690263247694)"/>
+    <rect x="60.0" y="68.78460969082653" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(60,62.0,70.78460969082653)"/>
+    <rect x="52.16755626400633" y="71.63538607229299" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(80,54.16755626400633,73.63538607229299)"/>
+    <rect x="43.83244373599367" y="71.63538607229299" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(100,45.83244373599367,73.63538607229299)"/>
+    <rect x="36.00000000000001" y="68.78460969082653" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(120,38.00000000000001,70.78460969082653)"/>
+    <rect x="29.61493336514453" y="63.42690263247695" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(140,31.61493336514453,65.42690263247695)"/>
+    <rect x="25.4473771011382" y="56.20848343981605" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(160,27.4473771011382,58.20848343981605)"/>
+    <rect x="24.0" y="48.0" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(180,26.0,50.0)"/>
+    <rect x="25.447377101138198" y="39.79151656018395" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(200,27.447377101138198,41.79151656018395)"/>
+    <rect x="29.614933365144527" y="32.57309736752306" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(220,31.614933365144527,34.57309736752306)"/>
+    <rect x="35.999999999999986" y="27.21539030917348" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(240,37.999999999999986,29.21539030917348)"/>
+    <rect x="43.83244373599367" y="24.36461392770701" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(260,45.83244373599367,26.36461392770701)"/>
+    <rect x="52.16755626400632" y="24.364613927707005" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(280,54.16755626400632,26.364613927707005)"/>
+    <rect x="60.0" y="27.215390309173472" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(300,62.0,29.215390309173472)"/>
+    <rect x="66.38506663485546" y="32.57309736752305" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(320,68.38506663485546,34.57309736752305)"/>
+    <rect x="70.5526228988618" y="39.79151656018395" width="4" height="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" transform="rotate(340,72.5526228988618,41.79151656018395)"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="55" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">S-layer</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="并联" data-name-en="circuit-parallel-two-resistors" data-cat="physics-electronics" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">并联 / circuit_parallel_two_resistors</title>
+  <desc id="d-44">两电阻并联电路。关键词: 并联,电阻,分流</desc>
+  <g id="g-44-并联">
+    <line x1="40" y1="120" x2="120" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="240" y1="120" x2="280" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="120" y1="120" x2="120" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="120" y1="80" x2="160" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="160" y="65" width="60" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="190" y="85" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R1</text>
+    <line x1="220" y1="80" x2="240" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="240" y1="80" x2="240" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="120" y1="120" x2="120" y2="160" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="120" y1="160" x2="160" y2="160" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="160" y="145" width="60" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="190" y="165" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R2</text>
+    <line x1="220" y1="160" x2="240" y2="160" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="240" y1="160" x2="240" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

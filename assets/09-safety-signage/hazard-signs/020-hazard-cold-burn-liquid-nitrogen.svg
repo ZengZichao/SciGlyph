@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-cold-burn-liquid-nitrogen" data-cat="hz" data-spec="128"
+     data-tags="cold,cryogenic,ln2,frostbite,冻伤,液氮" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">低温冻伤（液氮）/ Cryogenic Burn (LN2)</title>
+  <desc id="d">低温冻伤警告：雪花+LN2液氮标识。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#2B7DE9" stroke="#1F2933" stroke-width="2.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <path d="M64 30 L64 78 M44 42 L84 66 M84 42 L44 66" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/>
+    <path d="M64 30 L58 36 M64 30 L70 36 M64 78 L58 72 M64 78 L70 72" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" data-ls="fill"/>
+    <path d="M44 42 L44 50 M44 42 L50 40 M84 66 L84 58 M84 66 L78 68" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" data-ls="fill"/>
+    <path d="M84 42 L84 50 M84 42 L78 40 M44 66 L44 58 M44 66 L50 68" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2" data-ls="fill"/>
+    <text x="64" y="100" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle" data-ls="fill">LN₂</text></g>
+  <g id="detail"></g>
+</svg>

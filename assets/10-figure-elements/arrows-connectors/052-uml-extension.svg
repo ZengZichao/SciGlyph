@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML扩展箭头" data-name-en="uml extension" data-cat="arrows-connectors" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">UML扩展箭头 / uml_extension</title>
+  <desc id="d-52">UML用例扩展关系箭头。关键词: uml,extension,use-case,extend</desc>
+  <g id="g-52-UML扩展箭头">
+    <path d="M 20 50 Q 60 50 86 36" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
+    <polyline points="82,28 96,32 86,42" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-settler-decanter" data-cat="uo" data-spec="128"
+     data-tags="settler,decanter,gravity,two-phase,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">沉降分离器 / Settler Decanter</title>
+  <desc id="d">沉降分离器，两相出口，重力分离。</desc>
+  <g id="body">
+    <path d="M20,30 L20,86 Q20,100 64,100 Q108,100 108,86 L108,30 Q108,16 64,16 Q20,16 20,30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M22,64 L106,64 L106,86 Q106,98 64,98 Q22,98 22,86 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <line x1="22" y1="64" x2="106" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="30" y1="100" x2="30" y2="116" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="30,110 26,104 34,104" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="98" y1="100" x2="98" y2="116" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="98,110 94,104 102,104" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="8" y1="40" x2="20" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="14,40 20,36 20,44" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

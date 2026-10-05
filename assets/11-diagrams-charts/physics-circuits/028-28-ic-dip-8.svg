@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="双列直插8脚" data-name-en="ic-dip-8" data-cat="physics-electronics" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28">双列直插8脚 / ic_dip_8</title>
+  <desc id="d-28">8脚DIP双列直插封装符号。关键词: DIP,IC封装,双列直插</desc>
+  <g id="g-28-双列直插8脚">
+    <rect x="30" y="15" width="60" height="50" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 55 15 Q 60 20 65 15" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="20" y1="22" x2="30" y2="22" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="20" y1="34" x2="30" y2="34" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="20" y1="46" x2="30" y2="46" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="20" y1="58" x2="30" y2="58" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="90" y1="22" x2="100" y2="22" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="90" y1="34" x2="100" y2="34" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="90" y1="46" x2="100" y2="46" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="90" y1="58" x2="100" y2="58" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-cryo-glove-long" data-cat="sf" data-spec="128"
+     data-tags="cryo,glove,long,cold protection,insulated" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">防寒长手套 / Cryo Glove Long</title>
+  <desc id="d">防寒长手套，延伸至前臂，用于低温操作。</desc>
+  <g id="body"><path d="M40 116 L38 60 L32 48 L32 34 L38 32 L40 46 L44 30 L50 28 L52 44 L56 26 L62 24 L62 44 L66 30 L72 32 L68 52 L72 58 L76 116 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 60 L36 116 L76 116 L72 60 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 70 L72 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 84 L76 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 98 L76 98" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

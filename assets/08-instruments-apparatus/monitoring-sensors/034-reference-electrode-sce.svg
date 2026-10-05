@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-reference-electrode-sce" data-cat="mt" data-spec="128"
+     data-tags="sce,reference,electrode,calomel,甘汞,参比" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">饱和甘汞电极 / SCE Reference Electrode</title>
+  <desc id="d">饱和甘汞电极（SCE）。</desc>
+  <g id="body"><rect x="48" y="10" width="32" height="14" rx="4" fill="#33414F" stroke="#1F2933" stroke-width="2" data-ls="dark" data-ls-stroke="stroke"/>
+    <rect x="52" y="24" width="24" height="70" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-width="2" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="56" y="30" width="16" height="40" rx="2" fill="#BFE0FF" opacity="0.6" data-ls="liquid"/>
+    <path d="M52 94 L52 108 C52 112 56 116 64 116 C72 116 76 112 76 108 L76 94" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <rect x="58" y="94" width="12" height="8" rx="1" fill="#E8EDF2" stroke="#5A6B7B" stroke-width="1" data-ls="body" data-ls-stroke="thin"/>
+    <text x="64" y="18" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">SCE</text></g>
+  <g id="detail"></g>
+</svg>

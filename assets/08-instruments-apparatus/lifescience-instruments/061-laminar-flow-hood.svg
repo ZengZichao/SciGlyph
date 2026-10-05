@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-laminar-flow-hood" data-cat="ls" data-spec="128"
+     data-tags="laminar,flow,hood,cleanbench,hepa,sterile,workstation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">超净工作台 / Laminar Flow Hood</title>
+  <desc id="d">超净工作台：HEPA过滤器、工作区、紫外灯。</desc>
+  <g id="body">
+    <rect x="14" y="10" width="100" height="104" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+<rect x="20" y="14" width="88" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M24 18 L24 24 M30 18 L30 24 M36 18 L36 24 M42 18 L42 24 M48 18 L48 24 M54 18 L54 24 M60 18 L60 24 M66 18 L66 24 M72 18 L72 24 M78 18 L78 24 M84 18 L84 24 M90 18 L90 24 M96 18 L96 24 M102 18 L102 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="64.0" y="22.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HEPA</text>
+<rect x="20" y="30" width="88" height="50" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <polygon points="33,38 36,50 39,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="49,38 52,50 55,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="65,38 68,50 71,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="81,38 84,50 87,38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="22" y="72" width="84" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="36" y="58" width="10" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="54" y="60" width="8" height="10" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="72" y="58" width="10" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="30" width="68" height="3" rx="1" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <text x="66.82" y="29.98" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">UV Lamp</text>
+<rect x="20" y="30" width="88" height="3" rx="1" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="30" y="84" width="34" height="12" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="47.0" y="92.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Clean Bench</text>
+    <circle cx="72" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="82" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="74.82" y="99.98" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Fan</text>
+    <text x="79.6" y="91.72" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">UV</text><line x1="80.8" y1="96.18" x2="75.4" y2="87.68" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <line x1="92.0" y1="95.9" x2="100.0" y2="95.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="100.0" y="98.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Light</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="108" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

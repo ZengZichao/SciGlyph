@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-weighing-bottle" data-cat="gl" data-spec="128"
+     data-tags="weighing,bottle,ground glass,cover,precise" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">称量瓶 / Weighing Bottle</title>
+  <desc id="d">扁形称量瓶，带磨口盖，用于精确称量。</desc>
+  <g id="body"><path d="M24 56 L24 92 Q24 100 32 100 L96 100 Q104 100 104 92 L104 56 Q104 48 96 48 L32 48 Q24 48 24 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M26 72 L102 72 L102 92 Q102 98 96 98 L32 98 Q26 98 26 92 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M26 72 L102 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M22 40 L22 50 L106 50 L106 40 Q98 36 64 36 Q30 36 22 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M26 44 L102 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

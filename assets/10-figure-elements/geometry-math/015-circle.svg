@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆与圆心半径" data-name-en="Circle" data-cat="geometry-math" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15">圆与圆心半径 / circle</title>
+  <desc id="d-15">标注圆心O和半径r。关键词: circle,radius,geometry</desc>
+  <g id="g-15-圆与圆心半径">
+    <circle cx="58" cy="60" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="58" cy="60" r="2" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="58" y1="60" x2="103" y2="60" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <text x="58" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">O</text>
+    <text x="80" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#0072B2" text-anchor="middle" data-drole="series-1">r</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-55_thermophile_hsp d-55_thermophile_hsp" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55_thermophile_hsp">耐热(热激蛋白) / Thermophile (Heat Shock Proteins)</title>
+  <desc id="d-55_thermophile_hsp">热激蛋白: DnaK(HSP70)、GroEL/GroES(HSP60)分子伴侣。反向促旋酶(reverse gyrase)引入正超螺旋稳定DNA。图中标注的最适温度阈值因菌株而异, 为示意值。关键词: thermophile, HSP, DnaK, GroEL, reverse gyrase</desc>
+  <g id="layer-body" data-name="body">
+        <rect x="10" y="30" width="20" height="15" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="20.0" y="39.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DnaK</text>
+        <rect x="38" y="30" width="20" height="15" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="48.0" y="39.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">GroEL</text>
+        <rect x="66" y="30" width="24" height="15" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="78.0" y="39.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RevGyr</text>
+      <path d="M15,65 Q20,62 25,65 Q30,68 35,65" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="1"/>
+    <path d="M60,65 Q65,62 70,65 Q75,68 80,65" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="1"/>
+    <circle cx="50" cy="68" r="2" fill="#C42D2D" data-pp="alert"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="20.03" y="58.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">chaperone</text>
+    <line x1="48.0" y1="55.9" x2="51.47" y2="62.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="52.88" y="65.55" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">chaperone</text>
+    <text x="76.39" y="57.01" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">+supercoil</text>
+    <text x="50" y="75" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">&gt;60°C</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">protein/DNA stability</text>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="信号地" data-name-en="ground-signal" data-cat="physics-electronics" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">信号地 / ground_signal</title>
+  <desc id="d-37">信号参考地符号。关键词: 信号地,参考地,接地</desc>
+  <g id="g-37-信号地">
+    <line x1="60" y1="10" x2="60" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="35" x2="80" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="50" y1="45" x2="70" y2="45" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="55" y1="55" x2="65" y2="55" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

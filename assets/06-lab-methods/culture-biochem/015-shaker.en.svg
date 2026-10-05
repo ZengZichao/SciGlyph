@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-shaker d-shaker" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-shaker">Shaker</title>
+  <desc id="d-shaker">恒温摇床: 振荡培养提供通气, 用于好氧液体培养。关键词: shaker, orbital incubator, aeration</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="40" width="60" height="30" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <ellipse cx="35" cy="50" rx="8" ry="12" fill="#00857A" fill-opacity="0.2" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <ellipse cx="55" cy="50" rx="8" ry="12" fill="#00857A" fill-opacity="0.2" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <path d="M30,55 Q35,52 40,55" fill="#2E86AB" fill-opacity="0.3" data-pp="bacteria"/>
+    <path d="M50,55 Q55,52 60,55" fill="#2E86AB" fill-opacity="0.3" data-pp="bacteria"/>
+    <path d="M25,75 Q50,80 75,75" fill="none" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted"/>
+    <circle cx="50" cy="78" r="3" fill="#93A0AC" stroke="#1B2733" stroke-width="0.5" data-pp="muted"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Shaker</text>
+  </g>
+</svg>

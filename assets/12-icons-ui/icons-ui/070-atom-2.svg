@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-atom" data-cat="ic" data-spec="24"
+     data-tags="icon,atom,physics,electron,orbital" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">原子图标 / Icon Atom</title>
+  <desc id="d">原子微型图标。</desc>
+  <g id="body">
+    <circle cx="12" cy="12" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <ellipse cx="12" cy="12" rx="8" ry="3" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <ellipse cx="12" cy="12" rx="8" ry="3" transform="rotate(60 12 12)" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <ellipse cx="12" cy="12" rx="8" ry="3" transform="rotate(120 12 12)" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+  </g>
+</svg>

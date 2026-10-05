@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-validly_published d-validly_published" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-validly_published">Valid pub.</title>
+  <desc id="d-validly_published">Validly published name with ICNP approval stamp 关键词: validly published, ICNP</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="25" y="25" width="50" height="45" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <line x1="30" y1="35" x2="70" y2="35" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted"/>
+    <line x1="30" y1="42" x2="70" y2="42" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted"/>
+    <line x1="30" y1="49" x2="70" y2="49" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted"/>
+    <line x1="30" y1="56" x2="60" y2="56" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted"/>
+    <circle cx="65" cy="60" r="8" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" data-pp="alert"/>
+    <text x="65" y="63" text-anchor="middle" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">✓</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Valid publication</text>
+  </g>
+</svg>

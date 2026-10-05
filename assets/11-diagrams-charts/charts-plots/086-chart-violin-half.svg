@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-violin-half" data-cat="ch" data-spec="128"
+     data-tags="chart,violin,half,distribution,density" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">半小提琴图 / Chart Violin Half</title>
+  <desc id="d">半小提琴图。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M64,30 Q80,40 80,64 Q80,88 64,98 L64,30 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="30" x2="64" y2="98" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="58" y1="50" x2="70" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="58" y1="64" x2="70" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="58" y1="78" x2="70" y2="78" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M96,40 Q110,50 110,64 Q110,78 96,88 L96,40 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <line x1="96" y1="40" x2="96" y2="88" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="90" y1="55" x2="102" y2="55" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="90" y1="64" x2="102" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="90" y1="73" x2="102" y2="73" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

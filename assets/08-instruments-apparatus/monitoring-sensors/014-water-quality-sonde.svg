@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-water-quality-sonde" data-cat="en" data-spec="128"
+     data-tags="water,quality,sonde,multi-parameter,水质,探头" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">水质多参数探头 / Water Quality Sonde</title>
+  <desc id="d">水质探头：多参数+电缆+导流。</desc>
+  <g id="body"><rect x="46" y="16" width="36" height="80" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="56" cy="36" r="4" fill="#2B7DE9" data-ls="accent"/>
+    <circle cx="72" cy="36" r="4" fill="#E02020" data-ls="danger"/>
+    <circle cx="56" cy="52" r="4" fill="#7FC26B" data-ls="liquid-2"/>
+    <circle cx="72" cy="52" r="4" fill="#F5A623" data-ls="warn"/>
+    <rect x="52" y="64" width="24" height="12" rx="2" fill="#33414F" data-ls="dark"/>
+    <path d="M64 96 L64 108 C64 112 60 116 56 116 L48 116" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2.5" data-ls="thin"/>
+    <path d="M46 24 L38 24 M46 44 L38 44 M46 64 L38 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/></g>
+  <g id="detail"></g>
+</svg>

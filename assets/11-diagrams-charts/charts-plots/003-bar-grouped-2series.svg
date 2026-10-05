@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="分组双系列柱图" data-name-en="Bar Grouped 2 Series" data-cat="charts-plots" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">分组双系列柱图 / bar_grouped_2series</title>
+  <desc id="d-03">双系列分组柱状图带图例。关键词: bar,grouped,series,legend</desc>
+  <g id="g-03-分组双系列柱图">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <rect x="73" y="130" width="25" height="150" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="103" y="180" width="25" height="100" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="151" y="80" width="25" height="200" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="181" y="142" width="25" height="138" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="229" y="168" width="25" height="112" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="259" y="105" width="25" height="175" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="307" y="55" width="25" height="225" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="337" y="118" width="25" height="162" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="100.5" y1="280" x2="100.5" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="100.5" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">A</text>
+    <line x1="178.5" y1="280" x2="178.5" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="178.5" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">B</text>
+    <line x1="256.5" y1="280" x2="256.5" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="256.5" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">C</text>
+    <line x1="334.5" y1="280" x2="334.5" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="334.5" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">D</text>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">25</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">50</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">75</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">100</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+    <rect x="70" y="40" width="10" height="10" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="84" y="49" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">Series 1</text>
+    <rect x="70" y="55" width="10" height="10" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="84" y="64" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">Series 2</text>
+  </g>
+</svg>

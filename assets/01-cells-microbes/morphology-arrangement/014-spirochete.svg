@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="螺旋体" data-name-en="Spirochete" data-cat="01-morphology" data-tags="螺旋体,spirochete,轴丝,内鞭毛,周质腔,柔性螺旋" role="img" aria-labelledby="t-14-spirochete d-14-spirochete" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14-spirochete">螺旋体 / Spirochete</title>
+  <desc id="d-14-spirochete">细长柔性的螺旋体，轴丝缠绕于原生质体外侧、位于周质腔内，呈密集细波状。关键词: 螺旋体, spirochete, 轴丝, 内鞭毛, 周质腔, 柔性螺旋</desc>
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 18,60 C 21.3,40.8 26.7,40.8 30,60 C 33.3,79.2 38.7,79.2 42,60 C 45.3,40.8 50.7,40.8 54,60 C 57.3,79.2 62.7,79.2 66,60 C 69.3,40.8 74.7,40.8 78,60 C 81.3,79.2 86.7,79.2 90,60 C 93.3,40.8 98.7,40.8 102,60" stroke="#2E7D5B" stroke-width="10"/>
+    <path d="M 18,60 C 21.3,40.8 26.7,40.8 30,60 C 33.3,79.2 38.7,79.2 42,60 C 45.3,40.8 50.7,40.8 54,60 C 57.3,79.2 62.7,79.2 66,60 C 69.3,40.8 74.7,40.8 78,60 C 81.3,79.2 86.7,79.2 90,60 C 93.3,40.8 98.7,40.8 102,60" stroke="#DCEEE4" stroke-width="6"/>
+    <g stroke="#1F6F8B" stroke-width="1.2" stroke-dasharray="2 4">
+      <path d="M 18,60 C 21.3,40.8 26.7,40.8 30,60 C 33.3,79.2 38.7,79.2 42,60 C 45.3,40.8 50.7,40.8 54,60 C 57.3,79.2 62.7,79.2 66,60 C 69.3,40.8 74.7,40.8 78,60 C 81.3,79.2 86.7,79.2 90,60 C 93.3,40.8 98.7,40.8 102,60" transform="translate(0,-2.4)"/>
+      <path d="M 18,60 C 21.3,40.8 26.7,40.8 30,60 C 33.3,79.2 38.7,79.2 42,60 C 45.3,40.8 50.7,40.8 54,60 C 57.3,79.2 62.7,79.2 66,60 C 69.3,40.8 74.7,40.8 78,60 C 81.3,79.2 86.7,79.2 90,60 C 93.3,40.8 98.7,40.8 102,60" transform="translate(0,2.4)"/>
+    </g>
+  </g>
+</svg>

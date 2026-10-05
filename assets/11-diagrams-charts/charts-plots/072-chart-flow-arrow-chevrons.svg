@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-flow-arrow-chevrons" data-cat="ch" data-spec="128"
+     data-tags="chart,flow,arrow,chevrons,chain,process" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">五段箭头链条 / Chart Flow Arrow Chevrons</title>
+  <desc id="d">五段箭头链条。</desc>
+  <g id="body">
+    <polygon points="16,48 28,36 28,42 40,42 40,54 28,54 28,60" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="44,48 56,36 56,42 68,42 68,54 56,54 56,60" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <polygon points="72,48 84,36 84,42 96,42 96,54 84,54 84,60" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <polygon points="100,48 112,36 112,42 124,42 124,54 112,54 112,60" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+  </g>
+</svg>

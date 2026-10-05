@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-pipette-p2" data-cat="lh" data-spec="128"
+     data-tags="pipette,p2,micropipette,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">单道移液器 P2 / Single-Channel Pipette P2</title>
+  <desc id="d">机械式单道移液器，量程0.1-2μL</desc>
+  <g id="body"><path d="M54 14 L74 14 L74 22 L54 22 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M56 22 L56 46 L52 46 L52 56 L56 56 L56 64 L52 64 L52 76 L56 76 L56 84 L52 84 L52 94 L56 94 L56 100 L72 100 L72 94 L76 94 L76 84 L72 84 L72 76 L76 76 L76 64 L72 64 L72 56 L76 56 L76 46 L72 46 L72 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="58" y="28" width="12" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><text x="64" y="38" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">2</text>
+    <path d="M60 100 L60 112 L63 117 L65 117 L68 112 L68 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 94 L70 94 L70 96 L58 96 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

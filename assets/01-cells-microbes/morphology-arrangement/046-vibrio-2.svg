@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-morphology" role="img" aria-labelledby="t-vibrio d-vibrio" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-vibrio">弧菌 / Vibrio</title>
+  <desc id="d-vibrio">Comma-shaped bacterium with single polar flagellum. 关键词: Vibrio, comma-shaped, polar flagellum</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M28,65 Q28,30 55,25 Q75,22 78,38" fill="none" stroke="#2E86AB" stroke-width="12" stroke-linecap="round" data-pp="bacteria" />
+    <path d="M28,65 Q28,30 55,25 Q75,22 78,38" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink" />
+    <path d="M78.0,38.0 L79.1,39.7 L80.1,40.5 L81.2,40.1 L82.3,38.4 L83.4,36.3 L84.4,34.4 L85.5,33.5 L86.6,33.9 L87.6,35.4 L88.7,37.2 L89.8,38.3 L90.9,38.4 L91.9,37.1 L93.0,35.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round" />
+    <path d="M32,62 Q32,33 55,28 Q72,25 74,38" fill="none" stroke="#1B2733" stroke-width="0.8" data-pp="ink" stroke-dasharray="2,1" />
+
+  <path d="M36,55 Q45,35 68,30" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round" /><circle cx="42" cy="48" r="1.2" fill="#6C3FA0" data-pp="gene" /><circle cx="58" cy="32" r="1.2" fill="#6C3FA0" data-pp="gene" /></g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="82" y1="32" x2="88" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
+    <line x1="71.0" y1="11.9" x2="60.44" y2="11.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="14.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">flagellum</text>
+
+  </g>
+</svg>

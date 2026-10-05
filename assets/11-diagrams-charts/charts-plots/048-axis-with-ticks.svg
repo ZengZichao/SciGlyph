@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="带刻度坐标轴" data-name-en="Axis With Ticks" data-cat="charts-plots" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-48">带刻度坐标轴 / axis_with_ticks</title>
+  <desc id="d-48">带刻度短线的坐标轴。关键词: axis,ticks,marks</desc>
+  <g id="g-48-带刻度坐标轴">
+    <line x1="30" y1="15" x2="30" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="30" y1="115" x2="215" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="30" y1="115" x2="30" y2="120" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="30" y="131" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="76" y1="115" x2="76" y2="120" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="76" y="131" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">1</text>
+    <line x1="122" y1="115" x2="122" y2="120" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="122" y="131" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">2</text>
+    <line x1="169" y1="115" x2="169" y2="120" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="169" y="131" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">3</text>
+    <line x1="215" y1="115" x2="215" y2="120" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="215" y="131" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4</text>
+    <line x1="25" y1="115" x2="30" y2="115" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="22" y="118" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="25" y1="90" x2="30" y2="90" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="22" y="93" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">1</text>
+    <line x1="25" y1="65" x2="30" y2="65" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="22" y="68" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">2</text>
+    <line x1="25" y1="40" x2="30" y2="40" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="22" y="43" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">3</text>
+    <line x1="25" y1="15" x2="30" y2="15" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="22" y="18" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">4</text>
+  </g>
+</svg>

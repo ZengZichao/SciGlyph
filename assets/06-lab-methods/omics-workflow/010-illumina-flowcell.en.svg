@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="Illumina 流动池与簇成像" data-name-en="Illumina Flow Cell Bridge Amplification" data-cat="05-eco-seq" data-tags="流动池,簇生成,桥式扩增,荧光成像,双色通道,循环" role="img" aria-labelledby="t-26-illumina-flowcell d-26-illumina-flowcell" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26-illumina-flowcell">Illumina Flow Cell Bridge Amplification</title>
+  <desc id="d-26-illumina-flowcell">接头分子在流动池表面经桥式扩增形成同源簇，成像仪逐轮双色激发荧光采集信号并循环解链复性。关键词: 流动池, 簇生成, 桥式扩增, 荧光成像, 双色通道, 循环</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 成像光锥 -->
+  <path d="M46 24 H66 L80 74 L32 74 Z" fill="#E8B04B" fill-opacity="0.14" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <!-- 成像仪与循环 -->
+  <rect x="44" y="10" width="24" height="13" rx="2" fill="#5B4B8A" stroke="none"/>
+  <path d="M50 23 v4 M62 23 v4" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M36 12 C30 14 30 24 36 26" stroke="#5B4B8A" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M33 23 l3 3 l-4 1" stroke="#5B4B8A" stroke-width="1.4"/>
+  <!-- 荧光成像通道 -->
+  <circle cx="92" cy="14" r="3.4" fill="#2E7D5B" stroke="none"/>
+  <circle cx="104" cy="14" r="3.4" fill="#C0504D" stroke="none"/>
+  <path d="M87 20 h22 M87 18 v4 M109 18 v4" stroke="#7A8B93" stroke-width="1.2"/>
+  <!-- 流动池本体 -->
+  <rect x="6" y="74" width="106" height="28" rx="3" fill="#DCEEE4" fill-opacity="0.4" stroke="#1F6F8B" stroke-width="1.6"/>
+  <path d="M10 80 H108 M10 88 H108" stroke="#5FA8C7" stroke-width="1.4" stroke-dasharray="4 2"/>
+  <path d="M12 80 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4 m4 4 v-4" stroke="#7A8B93" stroke-width="1.2"/>
+  <text x="60" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Flow cell · glass surface</text>
+  <!-- 模式化表面接枝位点（T 形锚定） -->
+  <path d="M18 96 v-5 M14 91 h8 M40 96 v-5 M36 91 h8 M62 96 v-5 M58 91 h8 M84 96 v-5 M80 91 h8 M104 96 v-5 M100 91 h8" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M6 96 H112" stroke="#1F6F8B" stroke-width="1.6"/>
+  <!-- 簇 1：桥式扩增形成的同源克隆簇 -->
+  <path d="M18 96 C13 90 11 84 14 78" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M18 96 C16 88 15 82 18 76" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M18 96 V76" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M18 96 C20 88 21 82 18 76" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M18 96 C23 90 25 84 22 78" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M18 96 C21 90 22 85 20 80" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M18 96 C15 90 14 85 16 80" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="18" cy="94" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 簇 2 -->
+  <path d="M62 96 C58 92 57 87 59 83" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M62 96 V83" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M62 96 C66 92 67 87 65 83" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M62 96 C60 92 60 88 61 86" stroke="#C0504D" stroke-width="1.4"/>
+  <circle cx="62" cy="94" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 簇 3 -->
+  <path d="M84 96 C81 93 80 89 82 86" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M84 96 V86" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M84 96 C87 93 88 89 86 86" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="84" cy="94" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+</g>
+</svg>

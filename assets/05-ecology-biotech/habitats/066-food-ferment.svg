@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-food_ferment d-food_ferment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-food_ferment">食品发酵 / Food fermentation</title>
+  <desc id="d-food_ferment">Fermented food (sauerkraut/cheese/sausage) with LAB 关键词: food, ferment</desc>
+  <g id="l-food_ferment-bg" data-name="habitat-bg">
+    <rect x="5" y="30" width="90" height="45" rx="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+  </g>
+  <g id="l-food_ferment-microbes" data-name="microbes">
+    <circle cx="12.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="18.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="25.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="31.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="38.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="55" cy="55" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="65" cy="48" r="3" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="l-food_ferment-label" data-name="annotation">
+    <text x="50" y="12" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">食品发酵</text>
+  </g>
+</svg>

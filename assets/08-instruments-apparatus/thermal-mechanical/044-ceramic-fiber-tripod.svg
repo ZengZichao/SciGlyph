@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-ceramic-fiber-tripod" data-cat="hc" data-spec="128"
+     data-tags="tripod,ceramic-fiber,clay-triangle,support" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">泥三角+三脚架 / Ceramic Fiber Tripod</title>
+  <desc id="d">泥三角+三脚架支撑</desc>
+  <g id="body"><path d="M64 30 L30 100 L98 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M28 100 L100 100 L100 108 L28 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M40 50 L88 50 M36 60 L92 60 M32 70 L96 70 M30 80 L98 80 M28 90 L100 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M24 108 L32 108 L32 116 L24 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M60 108 L68 108 L68 116 L60 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M96 108 L104 108 L104 116 L96 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+</svg>

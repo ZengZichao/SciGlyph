@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="子程序分支" data-name-en="subroutine-branch" data-cat="flowchart-logic" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20">子程序分支 / subroutine_branch</title>
+  <desc id="d-20">子程序调用分支。关键词: flowchart,subroutine</desc>
+  <g id="g-20-子程序分支">
+    <rect x="10" y="15" width="70" height="50" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="22" y1="15" x2="22" y2="65" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="68" y1="15" x2="68" y2="65" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="80" y1="40" x2="108" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="104,36 112,40 104,44" fill="#1f2937"/>
+    <text x="45" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Sub</text>
+  </g>
+</svg>

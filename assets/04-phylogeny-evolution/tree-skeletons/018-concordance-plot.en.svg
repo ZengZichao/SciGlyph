@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="基因树与物种树一致性" data-name-en="Gene-species tree concordance" data-cat="04-phylo" data-tags="一致性,基因树,物种树,拓扑一致性,tanglegram" aria-labelledby="t-18-concordance-plot d-18-concordance-plot" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18-concordance-plot">Gene-species tree concordance</title>
+  <desc id="d-18-concordance-plot">左右两棵树（物种树、基因树）以连线配对类群，连线交叉处以红色虚线标出不一致关系，用于量化拓扑一致性比例（tanglegram）。关键词: 一致性, 基因树, 物种树, 拓扑一致性, tanglegram</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="18" y="22" font-size="10" fill="#2B3A42">Species tree</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="222" y="22" text-anchor="end" font-size="10" fill="#2B3A42">gene tree</text>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 18 69 H 40"/>
+      <path d="M 40 42 V 96"/>
+      <path d="M 40 42 H 68"/>
+      <path d="M 40 96 H 60"/>
+      <path d="M 68 30 V 54"/>
+      <path d="M 68 30 H 96"/>
+      <path d="M 68 54 H 96"/>
+      <path d="M 60 78 H 96"/>
+      <path d="M 60 78 V 114"/>
+      <path d="M 60 114 H 72"/>
+      <path d="M 72 102 V 126"/>
+      <path d="M 72 102 H 96"/>
+      <path d="M 72 126 H 96"/>
+    </g>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 222 69 H 200"/>
+      <path d="M 200 42 V 96"/>
+      <path d="M 200 42 H 178"/>
+      <path d="M 200 96 H 184"/>
+      <path d="M 178 30 V 54"/>
+      <path d="M 178 30 H 146"/>
+      <path d="M 178 54 H 146"/>
+      <path d="M 184 78 V 114"/>
+      <path d="M 184 78 H 146"/>
+      <path d="M 184 114 H 196"/>
+      <path d="M 196 102 V 126"/>
+      <path d="M 196 102 H 146"/>
+      <path d="M 196 126 H 146"/>
+    </g>
+    <g fill="none" stroke="#5B4B8A" stroke-width="1.4">
+      <path d="M 96 30 H 146"/>
+      <path d="M 96 78 L 146 54"/>
+      <path d="M 96 102 H 146"/>
+      <path d="M 96 126 H 146"/>
+    </g>
+    <path d="M 96 54 L 146 78" fill="none" stroke="#C0504D" stroke-width="1.6" stroke-dasharray="4 2"/>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="96" cy="30" r="2.4"/>
+      <circle cx="96" cy="54" r="2.4"/>
+      <circle cx="96" cy="78" r="2.4"/>
+      <circle cx="96" cy="102" r="2.4"/>
+      <circle cx="96" cy="126" r="2.4"/>
+      <circle cx="146" cy="30" r="2.4"/>
+      <circle cx="146" cy="54" r="2.4"/>
+      <circle cx="146" cy="78" r="2.4"/>
+      <circle cx="146" cy="102" r="2.4"/>
+      <circle cx="146" cy="126" r="2.4"/>
+    </g>
+    <g font-size="9" fill="#2B3A42" text-anchor="middle">
+      <rect x="99" y="24.5" width="11" height="11" rx="2" fill="#F7FAF8"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="104.5" y="33">A</text>
+      <rect x="99" y="52.3" width="11" height="11" rx="2" fill="#F7FAF8"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="104.5" y="61">B</text>
+      <rect x="99" y="68.7" width="11" height="11" rx="2" fill="#F7FAF8"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="104.5" y="77">C</text>
+      <rect x="99" y="96.5" width="11" height="11" rx="2" fill="#F7FAF8"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="104.5" y="105">D</text>
+      <rect x="99" y="120.5" width="11" height="11" rx="2" fill="#F7FAF8"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="104.5" y="129">E</text>
+    </g>
+    <g font-size="9.5" fill="#2B3A42">
+      <path d="M 24 140 H 40" fill="none" stroke="#5B4B8A" stroke-width="1.4"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="45" y="143">Concordant (4/5)</text>
+      <path d="M 120 140 H 136" fill="none" stroke="#C0504D" stroke-width="1.6" stroke-dasharray="4 2"/>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="141" y="143">Discordant (1/5)</text>
+    </g>
+  </g>
+</svg>

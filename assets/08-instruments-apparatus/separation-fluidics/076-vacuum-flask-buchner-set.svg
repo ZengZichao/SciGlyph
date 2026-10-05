@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-vacuum-flask-buchner-set" data-cat="sp" data-spec="128"
+     data-tags="vacuum,flask,buchner,filtration,suction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">抽滤瓶+布氏漏斗装置 / Vacuum Flask with Büchner Funnel Set</title>
+  <desc id="d">抽滤瓶配布氏漏斗和橡皮塞，带侧管抽气接口</desc>
+  <g id="body"><path d="M44 60 L44 108 Q44 116 52 116 L76 116 Q84 116 84 108 L84 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M84 80 L96 80 L96 86 L84 86" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 60 L52 40 L76 40 L76 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 40 L80 40 L80 46 L48 46 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <ellipse cx="64" cy="36" rx="20" ry="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 70 L82 70 L82 106 Q82 114 76 114 L52 114 Q46 114 46 106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M96 80 L102 76 L102 90 L96 86 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M50 46 L50 58 M78 46 L78 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="64" cy="36" r="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-phix174 d-phix174" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-phix174">φX174(无尾二十面体) / phiX174 tailless icosahedral</title>
+  <desc id="d-phix174">φX174噬菌体，Microviridae科。无尾二十面体衣壳，含环状单链DNA(+)基因组(~5.4kb)。首个被完整测序的DNA基因组(Sanger 1977)。T=1对称。关键词: phiX174, Microviridae, ssDNA, icosahedral</desc>
+  <g id="layer-body-phix174" data-name="body">
+    
+    <circle cx="50" cy="45" r="22" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" />
+    
+    <circle cx="50" cy="23" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="50" cy="67" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="28" cy="45" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="72" cy="45" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="35" cy="29" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="65" cy="29" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="35" cy="61" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    <circle cx="65" cy="61" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    
+    <path d="M42,42 Q46,38 50,42 Q54,46 58,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" />
+  </g>
+  <g id="layer-annotation-phix174" data-name="annotation">
+    <text x="75" y="44.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">φX174</text>
+    <text x="75" y="52.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ssDNA</text>
+  </g>
+</svg>

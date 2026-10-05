@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-safety-glasses-anti-fog" data-cat="sf" data-spec="128"
+     data-tags="safety glasses,anti-fog,side shield,goggles,eye protection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">护目镜正面带侧翼 / Safety Glasses Anti-Fog</title>
+  <desc id="d">防雾护目镜正面视图，带侧翼防护和弹性头带。</desc>
+  <g id="body"><path d="M20 48 Q20 36 40 34 L56 34 Q62 34 64 38 Q66 34 72 34 L88 34 Q108 36 108 48 L108 60 Q108 72 88 74 L72 74 Q66 74 64 70 Q62 74 56 74 L40 74 Q20 72 20 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M20 48 L12 46 L12 56 L20 58" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M108 48 L116 46 L116 56 L108 58" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M24 44 Q24 38 40 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M104 44 Q104 38 88 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M12 48 L8 48 L8 54 L12 54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M116 48 L120 48 L120 54 L116 54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

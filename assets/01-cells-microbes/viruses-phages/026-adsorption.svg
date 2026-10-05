@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-adsorption d-adsorption" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-adsorption">噬菌体吸附 / Phage adsorption to host receptor</title>
+  <desc id="d-adsorption">噬菌体生活史第一步：吸附(adsorption)。尾纤维尖端蛋白识别宿主表面特异性受体(LPS/鞭毛/菌毛/膜蛋白)。关键词: adsorption, receptor binding, tail fiber, host recognition</desc>
+  <g id="layer-body-adsorption" data-name="body">
+    <rect x="15" y="60" width="70" height="25" rx="12" ry="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="38" y="56" width="8" height="6" rx="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <rect x="54" y="56" width="8" height="6" rx="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="50.0,10.0 60.4,16.0 60.4,28.0 50.0,34.0 39.6,28.0 39.6,16.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="47" y="34" width="6" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.8"/>
+    <path d="M44,37 Q42,44 40,56" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M47,37 Q46,45 45,56" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M50,37 Q50,45 50,56" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M53,37 Q54,45 55,56" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M56,37 Q58,44 60,56" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <circle cx="42" cy="58" r="2" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="58" cy="58" r="2" fill="#C42D2D" data-pp="alert"/>
+  </g>
+  <g id="layer-annotation-adsorption" data-name="annotation">
+    <text x="64.78" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">receptor</text>
+    <text x="66" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">phage</text>
+  </g>
+</svg>

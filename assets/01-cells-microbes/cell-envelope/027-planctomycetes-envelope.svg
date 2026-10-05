@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-planctomycetes_envelope d-planctomycetes_envelope" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-planctomycetes_envelope">浮霉菌包被 / Planctomycetes envelope</title>
+  <desc id="d-planctomycetes_envelope">Planctomycetes 含肽聚糖细胞壁(Jeske et al. 2015 证实，旧模型"无PG蛋白外被"已被修正)与胞内区室化(pirellulosome) 关键词: Planctomycetes, peptidoglycan, pirellulosome</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="18" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria" fill-opacity="0.3"/>
+    <circle cx="50" cy="45" r="22" fill="none" stroke="#E8871E" stroke-width="1" data-pp="mge"/>
+    <line x1="35" y1="35" x2="38" y2="38" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" data-pp="mge"/>
+    <line x1="45" y1="30" x2="47" y2="33" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" data-pp="mge"/>
+    <line x1="55" y1="30" x2="57" y2="33" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" data-pp="mge"/>
+    <line x1="65" y1="35" x2="62" y2="38" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" data-pp="mge"/>
+    <text x="50" y="20" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">PG wall</text>
+    <circle cx="50" cy="48" r="8" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted" fill-opacity="0.4"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">浮霉菌</text>
+  </g>
+</svg>

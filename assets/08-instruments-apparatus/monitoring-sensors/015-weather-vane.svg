@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-weather-vane" data-cat="en" data-spec="128"
+     data-tags="weather,vane,wind,direction,风向标" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">风向标 / Weather Vane</title>
+  <desc id="d">风向标。</desc>
+  <g id="body"><line x1="64" y1="40" x2="64" y2="118" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <circle cx="64" cy="40" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M30 40 L64 34 L98 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M98 40 L88 34 L88 46Z" fill="#E02020" stroke="#1F2933" stroke-width="1.5" data-ls="danger" data-ls-stroke="stroke"/>
+    <path d="M30 40 L40 36 L40 44Z" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <text x="64" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="thin">N</text></g>
+  <g id="detail"></g>
+</svg>

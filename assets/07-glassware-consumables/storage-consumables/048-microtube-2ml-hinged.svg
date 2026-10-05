@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-microtube-2ml-hinged" data-cat="st" data-spec="128"
+     data-tags="microtube,2mL,hinged,microcentrifuge,ep" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">2mL EP管 / 2mL Microtube (Hinged Cap)</title>
+  <desc id="d">2mL铰链盖微量离心管。</desc>
+  <g id="body"><path d="M46 32 L46 96 L58 116 L70 116 L82 96 L82 32 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 58 L80 58 L80 96 L70 114 L58 114 L48 96 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M48 58 L80 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M48 70 L56 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 80 L54 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 90 L56 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><g id="cap"><path d="M42 16 L42 34 L86 34 L86 16 Q80 12 64 12 Q48 12 42 16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M44 24 L84 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M86 20 L92 16 L92 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g></g>
+  
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-vacuum-desiccator-stopcock" data-cat="st" data-spec="128"
+     data-tags="desiccator,stopcock,valve,vacuum,ptfe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">干燥器活塞阀 / Desiccator Stopcock Valve</title>
+  <desc id="d">干燥器用真空活塞阀。</desc>
+  <g id="body"><path d="M30 50 L30 90 Q30 100 40 100 L88 100 Q98 100 98 90 L98 50 Q98 40 88 40 L40 40 Q30 40 30 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M98 60 L116 60 L116 54 L98 54 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M110 48 L110 66 L120 66 L120 48 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M112 44 L118 44 L118 48 L112 48 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M115 42 L115 36 L118 39 L112 39 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  
+</svg>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-methylation_sites d-methylation_sites" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-methylation_sites">甲基化位点标记 / Methylation Site Marks (Dam/Dcm/GATC)</title>
+<desc id="d-methylation_sites">Dam: N6-腺嘌呤甲基化(m6A) at GATC；Dcm: C5-胞嘧啶甲基化(m5C) at CCWGG。关键词: methylation, Dam, Dcm, GATC, CCWGG, m6A, m5C, restriction-modification</desc>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">DNA Methylation Sites</text><line x1="50" y1="130" x2="550" y2="130" stroke="#2E86AB" data-pp="bacteria" stroke-width="3" stroke-linecap="round" />
+<circle cx="100" cy="130" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="100" y="133" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">m</text>
+<text x="100" y="115" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">GATC</text>
+<circle cx="200" cy="130" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="200" y="133" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">m</text>
+<text x="200" y="115" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">GATC</text>
+<circle cx="320" cy="130" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="320" y="133" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">m</text>
+<text x="320" y="115" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">GATC</text>
+<circle cx="430" cy="130" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+<text x="430" y="133" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">m</text>
+<text x="430" y="115" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">GATC</text>
+<rect x="144" y="124" width="12" height="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+<text x="150" y="155" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">CCWGG</text>
+<rect x="374" y="124" width="12" height="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+<text x="380" y="155" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">CCWGG</text>
+<text x="300" y="185" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Dam methylase: N6-adenine methylation at GATC</text>
+<text x="300" y="205" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Dcm methylase: C5-cytosine methylation (m5C) at CCWGG</text>
+<rect x="80" y="260" width="440" height="90" rx="5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" />
+<text x="100" y="285" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Functions:</text>
+<text x="100" y="305" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">• Mismatch repair strand discrimination</text>
+<text x="100" y="320" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">• Restriction-modification system (self vs foreign DNA)</text>
+<text x="100" y="335" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">• Regulation of gene expression &amp; replication timing</text></g>  <g data-name="annotation">
+    <line x1="50" y1="230" x2="550" y2="230" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <circle cx="530" cy="130" r="5" fill="#E8871E" fill-opacity="0.3" stroke="#E8871E" stroke-width="1" data-pp="mge"/>
+    <rect x="50" y="370" width="12" height="12" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="70" y="370" width="12" height="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="50" y1="130" x2="50" y2="145" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-optical-microscope-upright" data-cat="ls" data-spec="128"
+     data-tags="microscope,optical,upright,biological,objective,eyepiece,stage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">正置光学显微镜 / Upright Optical Microscope</title>
+  <desc id="d">正置生物显微镜：目镜、物镜转盘、载物台、聚光镜、光源。</desc>
+  <g id="body">
+<rect x="24" y="96" width="80" height="14" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+<rect x="80" y="28" width="16" height="72" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+<rect x="42" y="10" width="12" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="40" y="8" width="16" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="38" y="6" width="20" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="44" y="28" width="10" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="49" cy="50" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="40" y="54" width="5" height="10" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="46" y="56" width="5" height="12" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="52" y="54" width="5" height="10" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="30" y="68" width="44" height="6" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="36" y="66" width="6" height="3" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="58" y="66" width="6" height="3" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="42" y="76" width="14" height="8" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="49" cy="92" r="5" fill="#F5A623" opacity="0.5" stroke="none" data-ls="warn"/>
+<circle cx="96" cy="60" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="96" cy="76" r="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" data-name-zh="时间轴事件" data-name-en="Timeline Events" data-cat="charts-plots" aria-labelledby="t-62 d-62" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-62">时间轴事件 / timeline_events</title>
+  <desc id="d-62">时间轴标记事件点。关键词: timeline,events,markers</desc>
+  <g id="g-62-时间轴事件">
+    <line x1="30" y1="120" x2="370" y2="120" stroke="#1f2937" stroke-width="2"/>
+    <polygon points="364,116 372,120 364,124" fill="#1f2937"/>
+    <circle cx="64" cy="120" r="5" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="64" y="106" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">E1</text>
+    <circle cx="132" cy="120" r="5" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="132" y="142" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">E2</text>
+    <circle cx="217" cy="120" r="5" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="217" y="106" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">E3</text>
+    <circle cx="302" cy="120" r="5" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="302" y="142" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">E4</text>
+  </g>
+</svg>

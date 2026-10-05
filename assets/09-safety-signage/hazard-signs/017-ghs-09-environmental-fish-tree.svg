@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-09-environmental-fish-tree" data-cat="hz" data-spec="128"
+     data-tags="ghs,environment,fish,tree,toxic aquatic,环境,死鱼,枯树" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS09 环境危害 / GHS09 Environmental Hazard</title>
+  <desc id="d">GHS象形图：死鱼与枯树，表示对水环境有害。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><path d="M44 78 C50 72 58 72 62 78 C58 84 50 84 44 78Z" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M40 78 L44 74 L44 82Z"/>
+    <circle cx="48" cy="77" r="1.5" fill="#FFFFFF" data-ls="fill"/>
+    <path d="M44 82 L42 86" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
+    <path d="M72 88 L72 56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <path d="M72 60 L64 52 M72 60 L80 54 M72 66 L62 60 M72 66 L82 62 M72 72 L66 68 M72 72 L78 70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/>
+    <path d="M38 90 L90 90" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

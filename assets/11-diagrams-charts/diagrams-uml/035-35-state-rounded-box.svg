@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="状态框" data-name-en="State Rounded Box" data-cat="diagrams-sw-uml" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-35">状态框 / state_rounded_box</title>
+  <desc id="d-35">UML状态圆角矩形。关键词: state,rounded,uml</desc>
+  <g id="g-35-状态框">
+    <rect x="15" y="15" width="90" height="50" rx="18" ry="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="36" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">Idle</text>
+    <text x="60" y="52" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">entry/init</text>
+  </g>
+</svg>

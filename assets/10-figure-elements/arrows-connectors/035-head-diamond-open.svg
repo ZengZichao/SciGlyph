@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="菱形空心端头" data-name-en="head diamond open" data-cat="arrows-connectors" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-35">菱形空心端头 / head_diamond_open</title>
+  <desc id="d-35">空心菱形线端头。关键词: head,diamond,open,outline</desc>
+  <g id="g-35-菱形空心端头">
+    <line x1="10" y1="24" x2="70" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="80,14 90,24 80,34 70,24" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

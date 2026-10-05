@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-31_type_strain d-31_type_strain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31_type_strain">模式株 / Type strain</title>
+  <desc id="d-31_type_strain">模式株(ATCC/DSM/JCM/CCTCC 等保藏编号)；株名后上标 T 为模式株法规标识，如 DSM 1234ᵀ。关键词: type strain, culture collection, ATCC, DSM, superscript T</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="16" width="80" height="58" rx="5" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="50" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">TYPE STRAIN</text>
+    <rect x="18" y="36" width="28" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="32" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">ATCC</text>
+    <rect x="54" y="36" width="28" height="12" rx="2" fill="#A2305B" data-pp="archaea" fill-opacity="0.15" stroke="#A2305B" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="68" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">DSM 1234<tspan font-size="3.5" baseline-shift="super">T</tspan></text>
+    <rect x="18" y="52" width="28" height="12" rx="2" fill="#00857A" data-pp="metabolism" fill-opacity="0.15" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="32" y="61" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">JCM</text>
+    <rect x="54" y="52" width="28" height="12" rx="2" fill="#E8871E" data-pp="mge" fill-opacity="0.15" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="68" y="61" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">CCTCC</text>
+      <polygon points="50,8 52,13 57,13 53,16 54,21 50,18 46,21 47,16 43,13 48,13" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="82" cy="18" r="3" fill="#00857A" data-pp="metabolism"/>
+    <line x1="18" y1="68" x2="82" y2="68" stroke="#93A0AC" data-pp="muted" stroke-width="0.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Type strain</text>
+  </g>
+</svg>

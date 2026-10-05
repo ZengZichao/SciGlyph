@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="两状态转移" data-name-en="State Transition Pair" data-cat="diagrams-sw-uml" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36">两状态转移 / state_transition_pair</title>
+  <desc id="d-36">两个状态间双向转移。关键词: state,transition,uml</desc>
+  <g id="g-36-两状态转移">
+    <rect x="30" y="80" width="100" height="50" rx="18" ry="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="80" y="110" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle">Idle</text>
+    <rect x="190" y="80" width="100" height="50" rx="18" ry="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="240" y="110" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle">Active</text>
+    <line fill="none" x1="130" y1="100" x2="185" y2="100" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="190,100 182,96 182,104" fill="#1f2937"/>
+    <text x="158" y="94" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">start</text>
+    <line fill="none" x1="190" y1="120" x2="135" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="130,120 138,116 138,124" fill="#1f2937"/>
+    <text x="158" y="140" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">stop</text>
+  </g>
+</svg>

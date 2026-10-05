@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-hold-square-corners" data-cat="pf" data-spec="160"
+     data-tags="hold,wait,square,corner,pause,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">暂存方框 / Hold Square Corners</title>
+  <desc id="d">流程图暂存/保持符号，方角矩形。</desc>
+  <g id="body">
+    <rect x="20" y="20" width="120" height="56" rx="0" ry="0" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="14" y1="20" x2="14" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="14" y1="20" x2="24" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="146" y1="20" x2="146" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="136" y1="20" x2="146" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="14" y1="76" x2="14" y2="66" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="14" y1="76" x2="24" y2="76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="146" y1="76" x2="146" y2="66" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="136" y1="76" x2="146" y2="76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

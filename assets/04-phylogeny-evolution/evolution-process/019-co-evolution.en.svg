@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-co_evolution d-co_evolution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-co_evolution">Co-evolution</title>
+<desc id="d-co_evolution">宿主-寄生物军备竞赛:抗性与毒力基因交替上升 关键词: coevolution, arms race, host, parasite, Red Queen</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Co-evolution Arms Race</text>
+<line x1="80" y1="200" x2="550" y2="200" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+<text x="560" y="204" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">time</text>
+<text x="60" y="55" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" font-weight="bold">Host resistance</text>
+<line x1="80" y1="60" x2="80" y2="190" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="65" y="65" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">R</text>
+<path d="M80,170 L130,170 L130,130 L200,130 L200,100 L280,100 L280,80 L360,80 L360,70 L440,70 L440,65 L520,65" fill="none" data-pp="bacteria" stroke="#2E86AB" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="80" cy="170" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="130" cy="170" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="130" cy="130" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="200" cy="130" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="200" cy="100" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="280" cy="100" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="280" cy="80" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="360" cy="80" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="360" cy="70" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="440" cy="70" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="440" cy="65" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="520" cy="65" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="60" y="215" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">Parasite virulence</text>
+<line x1="80" y1="210" x2="80" y2="340" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="75" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">V</text>
+<line x1="80" y1="340" x2="550" y2="340" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M80,320 L150,320 L150,290 L220,290 L220,260 L300,260 L300,240 L380,240 L380,225 L460,225 L460,215 L530,215" fill="none" data-pp="alert" stroke="#C42D2D" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="80" cy="320" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="150" cy="320" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="150" cy="290" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="220" cy="290" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="220" cy="260" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="300" cy="260" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="300" cy="240" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="380" cy="240" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="380" cy="225" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="460" cy="225" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="460" cy="215" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="530" cy="215" r="3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<line x1="165" y1="130" x2="185" y2="290" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="245" y1="100" x2="265" y2="260" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="325" y1="80" x2="345" y2="240" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
+<rect x="440" y="45" width="130" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="505" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">Resistance gene</text>
+<text x="505" y="78" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">R genes · CRISPR</text>
+<text x="505" y="93" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Restriction-modification</text>
+<rect x="440" y="345" width="130" height="40" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="505" y="362" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">Virulence gene</text>
+<text x="505" y="378" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Effectors · toxins</text>
+<text x="300" y="375" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Red Queen: constant change to stay in place</text>
+</g>
+</svg>

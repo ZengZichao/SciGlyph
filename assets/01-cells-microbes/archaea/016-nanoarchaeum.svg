@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-nanoarchaeum d-nanoarchaeum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-nanoarchaeum">纳米古菌 / Nanoarchaeum</title>
+  <desc id="d-nanoarchaeum">Tiny symbiont attached to Ignicoccus hospitalis host cell surface. Nanoarchaeota, obligate symbiont. 关键词: Nanoarchaeum, symbiont, Ignicoccus hospitalis host, parasite</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="42" cy="52" r="22" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="30" y="56" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Ignicoccus</text>
+    <circle cx="66" cy="42" r="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="61" cy="45" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <circle cx="42" cy="52" r="18" fill="none" stroke="#1B2733" stroke-width="0.8" data-pp="ink" stroke-dasharray="2,1"/><path d="M32,52 Q42,45 52,52" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/><circle cx="36" cy="57" r="1.2" fill="#6C3FA0" data-pp="gene"/><path d="M69,37 Q74,33 72,27" fill="none" stroke="#A2305B" stroke-width="1.2" data-pp="archaea" stroke-linecap="round"/></g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="66" y1="36" x2="70" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="58" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Nano</text>
+    <line x1="61" y1="45" x2="80" y2="40" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="72" y="46" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">attach</text>
+    <text x="15" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Nanoarchaeota</text>
+  </g>
+</svg>

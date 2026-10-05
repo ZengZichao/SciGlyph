@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="染色体对" data-name-en="Chromosome Pair" data-cat="natural-sciences" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-07">染色体对 / chromosome_pair</title>
+  <desc id="d-07">展示同源染色体对。关键词: chromosome,homologous,pair</desc>
+  <g id="g-07-染色体对">
+    <path d="M40,15 C30,15 25,25 25,35 C25,45 30,50 40,55 C50,50 55,45 55,35 C55,25 50,15 40,15 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M40,55 C30,55 25,65 25,75 C25,85 30,95 40,105 C50,95 55,85 55,75 C55,65 50,55 40,55 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="40" cy="55" rx="8" ry="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M100,15 C90,15 85,25 85,35 C85,45 90,50 100,55 C110,50 115,45 115,35 C115,25 110,15 100,15 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M100,55 C90,55 85,65 85,75 C85,85 90,95 100,105 C110,95 115,85 115,75 C115,65 110,55 100,55 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="100" cy="55" rx="8" ry="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

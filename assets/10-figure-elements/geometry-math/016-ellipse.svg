@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="椭圆与轴" data-name-en="Ellipse" data-cat="geometry-math" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">椭圆与轴 / ellipse</title>
+  <desc id="d-16">标注长轴a短轴b。关键词: ellipse,axes,geometry</desc>
+  <g id="g-16-椭圆与轴">
+    <ellipse cx="60" cy="60" rx="50" ry="32" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="10" y1="60" x2="110" y2="60" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line fill="none" x1="60" y1="28" x2="60" y2="92" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <circle cx="60" cy="60" r="2" fill="#1f2937" stroke="none"/>
+    <text x="110" y="56" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#0072B2" text-anchor="start" data-drole="series-1">a</text>
+    <text x="64" y="27" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#0072B2" text-anchor="start" data-drole="series-1">b</text>
+    <text x="64" y="68" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">O</text>
+  </g>
+</svg>

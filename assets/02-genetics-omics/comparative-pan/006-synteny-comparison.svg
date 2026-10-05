@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-synteny_comparison d-synteny_comparison" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-synteny_comparison">共线性对比图 / Synteny comparison hourglass</title>
+  <desc id="d-synteny_comparison">两基因组间共线性对比。schematic, not to scale. 关键词: synteny, comparison, hourglass</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="genome-a">
+  <rect x="60" y="100" width="480" height="25" fill="#2E86AB" fill-opacity="0.3" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" rx="3"/>
+  <text x="50" y="115" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Genome A</text>
+  <rect x="70" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="118" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="166" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="214" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="262" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="310" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="358" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="406" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="454" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="502" y="105" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+</g>
+<g data-name="genome-b">
+  <rect x="60" y="280" width="480" height="25" fill="#A2305B" fill-opacity="0.3" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" rx="3"/>
+  <text x="50" y="295" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Genome B</text>
+  <rect x="70" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="118" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="166" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="214" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="262" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="310" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="358" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="406" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="454" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+  <rect x="502" y="285" width="40" height="15" fill="#A2305B" data-pp="archaea" rx="2"/>
+</g>
+<g data-name="synteny-lines">
+  <line x1="90" y1="125" x2="90" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="138" y1="125" x2="138" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="186" y1="125" x2="234" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="234" y1="125" x2="186" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="330" y1="125" x2="330" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="378" y1="125" x2="378" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <line x1="474" y1="125" x2="474" y2="280" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Synteny Comparison — Hourglass Connections (schematic)</text>
+<text x="300" y="370" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Lines connect homologous genes between genomes</text>
+</svg>

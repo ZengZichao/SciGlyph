@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="噬菌体展示文库" data-name-en="Phage Display Library" data-cat="05-eco-seq" data-tags="噬菌体展示,多肽文库,淘选,生物亲和,洗脱,富集,定向进化" role="img" aria-labelledby="t-38-phage-display d-38-phage-display" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38-phage-display">噬菌体展示文库 / Phage Display Library</title>
+  <desc id="d-38-phage-display">随机多肽展示于噬菌体衣壳表面形成巨量文库，经多轮亲和淘选、选择性洗脱与扩增富集获得高亲和力结合肽。关键词: 噬菌体展示, 多肽文库, 淘选, 生物亲和, 洗脱, 富集, 定向进化</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- ① 随机多肽展示文库 -->
+  <circle cx="14" cy="12" r="6.5" fill="#B57A17" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#FFFFFF" stroke="none" text-anchor="middle"><text font-family="Inter,Helvetica,Arial,sans-serif" x="14" y="15">①</text></g>
+  <path d="M14 42 H28 L32 50 L28 58 H14 L10 50 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.6"/>
+  <path d="M15 50 q3 -3 6 0 t6 0" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M21 58 V70 M17 70 H25" stroke="#1F6F8B" stroke-width="1.8"/>
+  <path d="M17 71 C14 73 13 75 12 77 M25 71 C28 73 29 75 30 77" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 衣壳表面随机展示的多肽（多色 = 多样性） -->
+  <path d="M14 41 v-5" stroke="#2E7D5B" stroke-width="2.6"/>
+  <path d="M21 41 v-5" stroke="#E8B04B" stroke-width="2.6"/>
+  <path d="M28 41 v-5" stroke="#C0504D" stroke-width="2.6"/>
+  <path d="M31 47 l4 -3" stroke="#5B4B8A" stroke-width="2.6"/>
+  <path d="M31 53 l4 3" stroke="#2E7D5B" stroke-width="2.6"/>
+  <path d="M27 59 l3 4" stroke="#E8B04B" stroke-width="2.6"/>
+  <path d="M15 59 l-3 4" stroke="#C0504D" stroke-width="2.6"/>
+  <path d="M11 53 l-4 3" stroke="#5B4B8A" stroke-width="2.6"/>
+  <path d="M11 47 l-4 -3" stroke="#2E7D5B" stroke-width="2.6"/>
+  <!-- ①→② -->
+  <path d="M36 50 H40 M37.5 47.5 L40 50 L37.5 52.5" stroke="#B57A17" stroke-width="1.6"/>
+  <!-- ② 靶标包被板上的生物淘选 -->
+  <circle cx="47" cy="12" r="6.5" fill="#B57A17" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#FFFFFF" stroke="none" text-anchor="middle"><text font-family="Inter,Helvetica,Arial,sans-serif" x="47" y="15">②</text></g>
+  <rect x="42" y="76" width="34" height="9" fill="#B7D7E8" fill-opacity="0.5" stroke="#B57A17" stroke-width="1.4"/>
+  <circle cx="48" cy="72" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="58" cy="72" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="68" cy="72" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M48 74.4 V76 M58 74.4 V76 M68 74.4 V76" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 游离噬菌体（尚未结合） -->
+  <path d="M44 27.5 H52 L54 30 L52 32.5 H44 L42 30 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M48 32.5 V38 M45.5 38 H50.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M44 27 l-1 -4" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M48 40 V52" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M62 33.5 H70 L72 36 L70 38.5 H62 L60 36 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M66 38.5 V44 M63.5 44 H68.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M70 33 l1 -4" stroke="#C0504D" stroke-width="2"/>
+  <path d="M66 46 V58" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 结合的噬菌体（展示肽与靶标互补） -->
+  <path d="M42 53.5 H50 L52 56 L50 58.5 H42 L40 56 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M46 58.5 V64 M43.5 64 H48.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M42 53 l-1 -4" stroke="#E8B04B" stroke-width="2"/>
+  <path d="M46 64 V68" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M64 53.5 H72 L74 56 L72 58.5 H64 L62 56 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M68 58.5 V64 M65.5 64 H70.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M72 53 l1 -4" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M68 64 V68" stroke="#B57A17" stroke-width="1.4"/>
+  <!-- ②→③ -->
+  <path d="M78 50 H83 M80.5 47.5 L83 50 L80.5 52.5" stroke="#B57A17" stroke-width="1.6"/>
+  <!-- ③ 洗脱与富集扩增 -->
+  <circle cx="90" cy="12" r="6.5" fill="#B57A17" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#FFFFFF" stroke="none" text-anchor="middle"><text font-family="Inter,Helvetica,Arial,sans-serif" x="90" y="15">③</text></g>
+  <rect x="86" y="76" width="28" height="9" fill="#B7D7E8" fill-opacity="0.5" stroke="#B57A17" stroke-width="1.4"/>
+  <circle cx="98" cy="72" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M98 74.4 V76" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 洗脱：未结合噬菌体被洗去 -->
+  <path d="M83 51.5 H89 L90.5 53.5 L89 55.5 H83 L81.5 53.5 Z" fill="#DCEEE4" fill-opacity="0.7" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M86 55.5 V60" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M86 62 V70" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M106 51.5 H112 L113.5 53.5 L112 55.5 H106 L104.5 53.5 Z" fill="#DCEEE4" fill-opacity="0.7" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M109 55.5 V60" stroke="#7A8B93" stroke-width="1.2"/>
+  <path d="M109 62 V70" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 洗脱：结合噬菌体被洗脱下来 -->
+  <path d="M92 47.5 H100 L102 50 L100 52.5 H92 L90 50 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M96 52.5 V58 M93.5 58 H98.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M92 47 l-1 -4" stroke="#E8B04B" stroke-width="2"/>
+  <path d="M98 74 V62 M95.5 65.5 L98 62 L100.5 65.5" stroke="#B57A17" stroke-width="1.6"/>
+  <!-- 洗脱噬菌体转入扩增培养 -->
+  <path d="M94 44 C84 44 82 54 82 66 V80" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <rect x="88" y="86" width="26" height="22" rx="3" fill="#DCEEE4" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M88 98 H114 V105 A3 3 0 0 1 111 108 H91 A3 3 0 0 1 88 105 Z" fill="#E8B04B" fill-opacity="0.3" stroke="none"/>
+  <path d="M91 91.5 H97 L98.5 93.5 L97 95.5 H91 L89.5 93.5 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M94 95.5 V99" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M105 91.5 H111 L112.5 93.5 L111 95.5 H105 L103.5 93.5 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M108 95.5 V99" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M97 100.5 H103 L104.5 102.5 L103 104.5 H97 L95.5 102.5 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M100 104.5 V107" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 富集循环：回到淘选 -->
+  <path d="M86 112 H36 V80 H40 M38.5 77.5 L41 80 L38.5 82.5" stroke="#5B4B8A" stroke-width="1.4" stroke-dasharray="4 3"/>
+</g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-65_axis_log d-65_axis_log" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-65_axis_log">对数坐标轴 / Log axis</title>
+  <desc id="d-65_axis_log">对数坐标轴骨架。骨架，配合对数数据使用。关键词: skeleton, axis, log, logarithmic</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="75" x2="90" y2="75" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="15" y1="75" x2="15" y2="15" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="15" y1="75" x2="15" y2="79" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" data-name="tick-0"/>
+    <line x1="24.0" y1="75" x2="24.0" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-1"/>
+    <line x1="29.3" y1="75" x2="29.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-2"/>
+    <line x1="33.1" y1="75" x2="33.1" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-3"/>
+    <line x1="36.0" y1="75" x2="36.0" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-4"/>
+    <line x1="38.3" y1="75" x2="38.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-5"/>
+    <line x1="40.3" y1="75" x2="40.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-6"/>
+    <line x1="42.1" y1="75" x2="42.1" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-7"/>
+    <line x1="43.6" y1="75" x2="43.6" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-8"/>
+    <line x1="45" y1="75" x2="45" y2="79" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" data-name="tick-9"/>
+    <line x1="54.0" y1="75" x2="54.0" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-10"/>
+    <line x1="59.3" y1="75" x2="59.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-11"/>
+    <line x1="63.1" y1="75" x2="63.1" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-12"/>
+    <line x1="66.0" y1="75" x2="66.0" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-13"/>
+    <line x1="68.3" y1="75" x2="68.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-14"/>
+    <line x1="70.3" y1="75" x2="70.3" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-15"/>
+    <line x1="72.1" y1="75" x2="72.1" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-16"/>
+    <line x1="73.6" y1="75" x2="73.6" y2="77" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-linecap="round" data-name="tick-17"/>
+    <line x1="75" y1="75" x2="75" y2="79" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" data-name="tick-18"/>
+    <text x="15" y="87" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">1</text>
+    <text x="45" y="87" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10</text>
+    <text x="75" y="87" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Log axis</text>
+  </g>
+</svg>

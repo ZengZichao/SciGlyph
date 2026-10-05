@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-amg d-amg" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-amg">辅助代谢基因AMG / Auxiliary metabolic gene phage genome</title>
+  <desc id="d-amg">辅助代谢基因(AMG)：噬菌体基因组中编码的宿主代谢基因(如psbA光合作用基因、糖代谢基因)。感染时表达以增强宿主代谢，促进噬菌体复制。关键词: auxiliary metabolic gene, AMG, psbA, metabolism hijack, viral gene</desc>
+  <g id="layer-body-amg" data-name="body">
+    
+    <rect x="10" y="35" width="80" height="10" rx="2" ry="2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" />
+    
+    <rect x="12" y="37" width="8" height="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="22" y="37" width="8" height="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="32" y="37" width="8" height="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    
+    <rect x="45" y="36" width="12" height="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" />
+    <text x="51" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">AMG</text>
+    
+    <rect x="62" y="37" width="8" height="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="72" y="37" width="8" height="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    
+    <path d="M51,46 L51,55" fill="none" stroke="#1B2733" stroke-width="1" />
+    <polygon points="49,53 51,57 53,53" fill="#1B2733" data-pp="ink" />
+    <text x="51" y="64.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">boost host</text>
+    <text x="51" y="72.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">metabolism</text>
+  </g>
+  <g id="layer-annotation-amg" data-name="annotation">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="41.73" y="85.0">auxiliary metabolic</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="43.9" y="93.26">genes</text>
+    <text x="39.56" y="57.64" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">(psbA, psbD, etc.)</text><line x1="14.61" y1="91.17" x2="1.2" y2="53.6" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  </g>
+</svg>

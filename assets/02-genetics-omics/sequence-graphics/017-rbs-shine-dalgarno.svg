@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-rbs_shine_dalgarno d-rbs_shine_dalgarno" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-rbs_shine_dalgarno">RBS / SD 序列 / Ribosome Binding Site (Shine-Dalgarno)</title>
+  <desc id="d-rbs_shine_dalgarno">Shine-Dalgarno 序列与起始密码子位置示意。关键词: RBS, Shine-Dalgarno, SD, ribosome, translation</desc>
+  <defs>
+    <marker id="pp17__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+    </marker>
+  </defs>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Ribosome Binding Site (Shine-Dalgarno)</text>
+    <line x1="40" y1="140" x2="560" y2="140" stroke="#2E86AB" data-pp="bacteria" stroke-width="3" stroke-linecap="round" />
+    <rect x="180" y="120" width="70" height="40" rx="3" fill="#E8871E" data-pp="mge" stroke="#E8871E" stroke-width="1.5" />
+    <text x="215" y="145" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">AGGAGG</text>
+    <text x="215" y="110" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">SD sequence</text>
+    <text x="310" y="110" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5-9 nt spacer</text>
+    <rect x="350" y="120" width="40" height="40" rx="3" fill="#6C3FA0" data-pp="gene" stroke="#6C3FA0" stroke-width="1.5" />
+    <text x="370" y="145" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">AUG</text>
+    <text x="370" y="110" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Start</text>
+    <line x1="395" y1="140" x2="540" y2="140" stroke="#6C3FA0" data-pp="gene" stroke-width="2" marker-end="url(#pp17__ar)" />
+    <text x="480" y="130" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">coding region</text>
+    <text x="300" y="230" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">16S rRNA 3′ end: 3′-AUUCCUCCA-5′</text>
+    <text x="300" y="250" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">anti-Shine-Dalgarno base-pairs with SD</text>
+    <circle cx="280" cy="320" r="35" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1.5" />
+    <text x="280" y="318" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">30S</text>
+    <text x="280" y="332" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">subunit</text>
+  </g>
+  <g data-name="annotation">
+    <ellipse cx="280" cy="320" rx="50" ry="30" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="4 2"/>
+    <line x1="40" y1="280" x2="560" y2="280" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="40" y="300" width="12" height="12" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="60" y="300" width="12" height="12" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="78" y="310" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SD / start codon</text>
+    <circle cx="370" cy="140" r="3" fill="#6C3FA0" data-pp="gene"/>
+    <line x1="215" y1="160" x2="215" y2="175" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="370" y1="160" x2="370" y2="175" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="2 2"/>
+    <rect x="250" y="160" width="100" height="4" fill="#00857A" fill-opacity="0.15" stroke="none" data-pp="metabolism"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-42_gene_family_expansion d-42_gene_family_expansion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-42_gene_family_expansion">基因家族扩张收缩 / Gene Family Expansion/Contraction</title>
+  <desc id="d-42_gene_family_expansion">基因家族扩张(基因复制/水平转移)与收缩(基因丢失)。CAFE分析。关键词: gene family, expansion, contraction, gene duplication, CAFE</desc>
+  <defs>
+    <marker id="pp42__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="20" cy="40" r="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="20" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1x</text>
+        <circle cx="50" cy="40" r="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3x</text>
+        <circle cx="80" cy="40" r="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="80" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1x</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="28" y1="40" x2="42" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp42__ar)"/>
+        <line x1="58" y1="40" x2="72" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp42__ar)"/>
+    <text x="35" y="30" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">expand</text>
+    <text x="65" y="30" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">contract</text>
+    <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">duplication + loss</text>
+    <text x="50" y="78" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">CAFE analysis</text>
+  </g>
+</svg>

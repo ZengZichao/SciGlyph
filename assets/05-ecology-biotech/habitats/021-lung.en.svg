@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-lung d-lung" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lung">Lung</title>
+  <desc id="d-lung">Lower respiratory tract with alveoli and occasional Pseudomonas rods 关键词: lung, alveoli, Pseudomonas</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M45,10 L45,30 M55,10 L55,30" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host"/>
+    <circle cx="30" cy="45" r="12" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="50" cy="42" r="12" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="70" cy="45" r="12" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="40" cy="60" r="10" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="60" cy="60" r="10" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <path d="M20,40 Q30,35 40,40" fill="#00857A" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism" stroke-dasharray="2,2"/>
+    <rect x="27" y="48" width="6" height="2.5" rx="1.25" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(20,30,49)"/>
+    <rect x="55" y="55" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(-15,57,56)"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Lung</text>
+  </g>
+</svg>

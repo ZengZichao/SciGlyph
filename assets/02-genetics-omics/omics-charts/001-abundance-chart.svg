@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="物种丰度堆叠图" data-name-en="Species Abundance Stack Plot" data-cat="05-eco-seq" data-tags="丰度,堆叠柱状图,物种组成,群落结构,相对丰度" role="img" aria-labelledby="t-27-abundance-chart d-27-abundance-chart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27-abundance-chart">物种丰度堆叠图 / Species Abundance Stack Plot</title>
+  <desc id="d-27-abundance-chart">以堆叠柱状图比较不同样本中各物种的相对丰度，直观呈现群落结构差异与优势类群更替。关键词: 丰度, 堆叠柱状图, 物种组成, 群落结构, 相对丰度</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 群落图例 -->
+  <rect x="6" y="8" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="28" cy="12" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="44" cy="12" r="3.4" fill="#2E7D5B" stroke="none"/>
+  <circle cx="58" cy="12" r="3.4" fill="#B7D7E8" stroke="none"/>
+  <circle cx="72" cy="12" r="3.4" fill="#1F6F8B" stroke="none"/>
+  <circle cx="86" cy="12" r="3.4" fill="#E8B04B" stroke="none"/>
+  <circle cx="100" cy="12" r="3.4" fill="#C0504D" stroke="none"/>
+  <path d="M41 20 h62 M41 18 v4 M106 18 v4" stroke="#7A8B93" stroke-width="1.2"/>
+  <!-- 坐标轴 -->
+  <path d="M12 100 V22" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M12 100 H112" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M8 100 h4 M8 84 h4 M8 68 h4 M8 52 h4 M8 36 h4 M8 22 h4" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M16 84 v6 m-2.5 -2.5 l2.5 2.5 l2.5 -2.5" stroke="#2B3A42" stroke-width="1.2" stroke-opacity="0.6"/>
+  <!-- 样本 1 -->
+  <rect x="18" y="78" width="17" height="22" fill="#2E7D5B" stroke="none"/>
+  <rect x="18" y="58" width="17" height="20" fill="#B7D7E8" stroke="none"/>
+  <rect x="18" y="42" width="17" height="16" fill="#1F6F8B" stroke="none"/>
+  <rect x="18" y="31" width="17" height="11" fill="#E8B04B" stroke="none"/>
+  <rect x="18" y="22" width="17" height="9" fill="#C0504D" stroke="none"/>
+  <rect x="18" y="22" width="17" height="78" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 样本 2 -->
+  <rect x="41" y="80" width="17" height="20" fill="#2E7D5B" stroke="none"/>
+  <rect x="41" y="57" width="17" height="23" fill="#B7D7E8" stroke="none"/>
+  <rect x="41" y="42" width="17" height="15" fill="#1F6F8B" stroke="none"/>
+  <rect x="41" y="29" width="17" height="13" fill="#E8B04B" stroke="none"/>
+  <rect x="41" y="22" width="17" height="7" fill="#C0504D" stroke="none"/>
+  <rect x="41" y="22" width="17" height="78" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 样本 3 -->
+  <rect x="64" y="73" width="17" height="27" fill="#2E7D5B" stroke="none"/>
+  <rect x="64" y="57" width="17" height="16" fill="#B7D7E8" stroke="none"/>
+  <rect x="64" y="43" width="17" height="14" fill="#1F6F8B" stroke="none"/>
+  <rect x="64" y="30" width="17" height="13" fill="#E8B04B" stroke="none"/>
+  <rect x="64" y="22" width="17" height="8" fill="#C0504D" stroke="none"/>
+  <rect x="64" y="22" width="17" height="78" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 样本 4 -->
+  <rect x="87" y="81" width="17" height="19" fill="#2E7D5B" stroke="none"/>
+  <rect x="87" y="65" width="17" height="16" fill="#B7D7E8" stroke="none"/>
+  <rect x="87" y="46" width="17" height="19" fill="#1F6F8B" stroke="none"/>
+  <rect x="87" y="33" width="17" height="13" fill="#E8B04B" stroke="none"/>
+  <rect x="87" y="22" width="17" height="11" fill="#C0504D" stroke="none"/>
+  <rect x="87" y="22" width="17" height="78" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 样本刻度 -->
+  <path d="M26 100 v5 M49 100 v5 M72 100 v5 M95 100 v5" stroke="#2B3A42" stroke-width="1.2"/>
+  <!-- 堆叠分隔强调线 -->
+  <path d="M18 78 H35 M18 58 H35 M18 42 H35 M18 31 H35" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.7"/>
+  <path d="M64 73 H81 M64 57 H81 M64 43 H81 M64 30 H81" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.7"/>
+  <text x="12" y="116" font-size="9" fill="#5B6B73" stroke="none" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif">各柱 = 100% 相对丰度</text>
+</g>
+</svg>

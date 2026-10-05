@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="全集矩形加圆" data-name-en="universe-box" data-cat="flowchart-logic" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26">全集矩形加圆 / universe_box</title>
+  <desc id="d-26">全集与子集。关键词: set,universe</desc>
+  <g id="g-26-全集矩形加圆">
+    <rect x="10" y="10" width="140" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="35" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="80" y="64" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="140" y="24" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">U</text>
+  </g>
+</svg>

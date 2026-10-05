@@ -1,0 +1,19 @@
+# 科研绘图 SVG 素材库 —— 可选的 Python 质检依赖
+#
+# 安装：pip install -r requirements-dev.txt
+#
+# 说明：素材本身（*.svg）零依赖，可直接拖进 Illustrator / Inkscape / PowerPoint /
+# Figma / LaTeX；全部质量闸门（tools/check_repo.py 及其调用的检查器）只用 python3
+# 标准库即可运行。下面这些包只服务渲染类工具：
+
+# --- 像素级渲染与几何测量 -------------------------------------------------
+# cairosvg：tools/reorg/render_review.py（全量缩略图与接触表）、
+#           tools/derive_en_variants.py 的抽查渲染
+cairosvg>=2.5,<3
+# Pillow：接触表拼图
+Pillow>=9.0,<12
+# numpy / scipy：渲染统计类工具
+numpy>=1.23
+scipy>=1.9
+
+# Node 侧依赖（jsdom，供 tools/reorg/gallery.test.mjs 做画廊交互测试）见 package.json。

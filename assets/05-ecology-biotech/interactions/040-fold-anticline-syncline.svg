@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="背斜向斜" data-name-en="Fold Anticline Syncline" data-cat="natural-sciences" aria-labelledby="t-69 d-69" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-69">背斜向斜 / fold_anticline_syncline</title>
+  <desc id="d-69">展示背斜向斜褶皱结构。关键词: anticline,syncline,fold,geology</desc>
+  <g id="g-69-背斜向斜">
+    <path d="M20,200 C80,120 160,120 240,200 C320,280 400,280 460,200" fill="none" stroke="#E69F00" stroke-width="3" data-drole="series-1"/>
+    <path d="M20,220 C80,140 160,140 240,220 C320,300 400,300 460,220" fill="none" stroke="#6b7280" stroke-width="3"/>
+    <path d="M20,240 C80,160 160,160 240,240 C320,320 400,320 460,240" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M130,100 L130,160" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="125,105 130,95 135,105" fill="#1f2937"/>
+    <path d="M120,100 L130,95 L140,100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M350,310 L350,260" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="345,305 350,315 355,305" fill="#1f2937"/>
+    <path d="M340,315 L350,320 L360,315" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

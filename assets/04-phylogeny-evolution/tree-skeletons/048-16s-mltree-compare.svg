@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-16 d-16" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">16S vs 多基因标记拓扑比较 / 16S vs MLS Tree</title>
+  <desc id="d-16">骨架，配合PhyloPhlAn/GTDB-Tk使用。左：16S树把 A、B 聚为一支；右：多基因标记树把 A、C 聚为一支（拓扑冲突），D、E 两树一致。同色底=两树中发生挪动的并系。 关键词: phylogenetic tree, 16s mltree compare, MLS, PhyloPhlAn, GTDB-Tk, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp16__clades" data-name="clade-shading">
+    <rect x="102.7" y="24.0" width="34.6" height="92.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-A16S"/>
+    <rect x="133.3" y="264.0" width="34.6" height="92.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.12" data-name="clade-DE16S"/>
+    <rect x="402.7" y="24.0" width="34.6" height="92.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-ACMLS"/>
+    <rect x="433.3" y="264.0" width="34.6" height="92.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.12" data-name="clade-DEMLS"/>
+  </g>
+  <g id="pp16__branches" data-name="branches">
+    <line x1="80.0" y1="70.0" x2="80.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="190.0" x2="106.7" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="270.0" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="250.0" x2="106.7" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="190.0" x2="133.3" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="310.0" x2="133.3" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="270.0" x2="160.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp16__nodes" data-name="nodes">
+    <circle cx="80.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp16__labels" data-name="tip-labels">
+    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="138.3" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="138.3" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="165.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">D</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">E</text>
+  </g>
+  <g data-name="tree-left-label">
+    <text x="120" y="20" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">16S</text>
+  </g>
+  <g id="pp16__branches2" data-name="branches-mls">
+    <line x1="380.0" y1="70.0" x2="380.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="30.0" x2="406.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="190.0" x2="406.7" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="433.3" y1="270.0" x2="433.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380.0" y1="70.0" x2="406.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="30.0" x2="433.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="110.0" x2="433.3" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380.0" y1="250.0" x2="406.7" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="190.0" x2="433.3" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="406.7" y1="310.0" x2="433.3" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="433.3" y1="270.0" x2="460.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="433.3" y1="350.0" x2="460.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp16__nodes2" data-name="nodes-mls">
+    <circle cx="380.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="406.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="406.7" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="433.3" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp16__labels2" data-name="tip-labels-mls">
+    <text x="438.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="438.3" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="438.3" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="465.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">D</text>
+    <text x="465.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">E</text>
+  </g>
+  <g data-name="tree-right-label">
+    <text x="420" y="20" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">MLS</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="下弯箭头" data-name-en="arrow curve down" data-cat="arrows-connectors" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18">下弯箭头 / arrow_curve_down</title>
+  <desc id="d-18">向下弯曲箭头。关键词: arrow,curve,down,bend</desc>
+  <g id="g-18-下弯箭头">
+    <path d="M 14 12 Q 48 12 74.63 29.24" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="82,36 70.35,33.9 78.9,24.58" fill="#1f2937"/>
+  </g>
+</svg>

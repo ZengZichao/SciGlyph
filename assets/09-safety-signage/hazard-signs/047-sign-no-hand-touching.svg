@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-no-hand-touching" data-cat="hz" data-spec="128"
+     data-tags="prohibition,no,touch,hand,禁止,触摸" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止触摸标志 / No Touching</title>
+  <desc id="d">禁止触摸：手+红色斜杠。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#FFFFFF" stroke="#E02020" stroke-width="6" data-ls="fill" data-ls-stroke="danger"/>
+    <path d="M54 86 L54 58 C54 54 56 52 58 52 C60 52 62 54 62 58 L62 50 C62 46 64 44 66 44 C68 44 70 46 70 50 L70 48 C70 44 72 42 74 42 C76 42 78 44 78 48 L78 56 C78 52 80 50 82 50 C84 50 86 52 86 56 L86 74 C86 84 78 92 68 92 L58 92 C56 92 54 90 54 86Z" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="22" y1="100" x2="106" y2="28" stroke="#E02020" stroke-linecap="round" stroke-width="6" data-ls="danger"/></g>
+  <g id="detail"></g>
+</svg>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-electrophoresis-vertical-page" data-cat="ls" data-spec="128"
+     data-tags="electrophoresis,sds-page,vertical,gel,protein,western blot,电泳,凝胶" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">垂直电泳槽（SDS-PAGE） / Vertical Electrophoresis Cell</title>
+  <desc id="d">垂直板电泳槽：上槽电极与制胶夹、加样梳与样品孔、浓缩胶与分离胶界面、蛋白 Marker 泳道与样品条带、迁移方向箭头，用于 SDS-PAGE 与蛋白胶鉴定。</desc>
+  <g id="body">
+    <rect x="30" y="90" width="68" height="24" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M32 96 L96 96 L96 110 Q96 112 94 112 L34 112 Q32 112 32 110 Z" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/>
+    <rect x="38" y="14" width="52" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 14 L56 9 L72 9 L72 14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="42" y="32" width="44" height="58" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M46 30 L46 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+  <g id="detail">
+    <rect x="44" y="26" width="40" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <g id="wells">
+      <path d="M50 34 L50 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M57 34 L57 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M64 34 L64 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M71 34 L71 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M78 34 L78 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    </g>
+    <rect x="48" y="40" width="34" height="10" fill="#BFE0FF" opacity="0.35" stroke="none" data-ls="liquid"/>
+    <path d="M48 50 L82 50" fill="none" stroke="#5A6B7B" stroke-dasharray="2,2" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="48" y="50" width="34" height="34" fill="#BFE0FF" opacity="0.2" stroke="none" data-ls="liquid"/>
+    <g id="bands">
+      <rect x="49" y="56" width="6" height="2.5" rx="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+      <rect x="49" y="62" width="6" height="2.5" rx="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+      <rect x="49" y="68" width="6" height="2.5" rx="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+      <rect x="49" y="74" width="6" height="2.5" rx="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+      <rect x="49" y="79" width="6" height="2.5" rx="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+      <rect x="58" y="60" width="6" height="2.5" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+      <rect x="58" y="72" width="6" height="2.5" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+      <rect x="65" y="60" width="6" height="2.5" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+      <rect x="72" y="66" width="6" height="2.5" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+      <rect x="72" y="76" width="6" height="2.5" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    </g>
+    <g id="ladder-ticks">
+      <path d="M86 57 L90 57" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M86 63 L90 63" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M86 69 L90 69" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M86 75 L90 75" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M86 80 L90 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <text x="92" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">kDa</text>
+    </g>
+    <g id="migration">
+      <path d="M64 44 L64 82" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+      <polygon points="60,80 64,90 68,80" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    </g>
+    <g id="electrodes">
+      <text x="34" y="26" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" data-ls="stroke">-</text>
+      <text x="34" y="108" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" data-ls="stroke">+</text>
+      <path d="M38 20 L30 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M38 102 L30 102" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M90 20 L98 20 L98 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+      <path d="M90 102 L98 102 L98 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    </g>
+    <text x="64" y="122" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">SDS-PAGE</text>
+  </g>
+</svg>

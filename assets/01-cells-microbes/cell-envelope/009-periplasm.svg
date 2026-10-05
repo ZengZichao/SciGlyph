@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-periplasm d-periplasm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-periplasm">周质空间 / Periplasmic space</title>
+  <desc id="d-periplasm">周质空间与结合蛋白。关键词: periplasm, binding protein, ABC transporter</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <rect x="10" y="15" width="80" height="70" rx="35" fill="#2E86AB" fill-opacity="0.15" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" /><rect x="25" y="30" width="50" height="40" rx="20" fill="#00857A" fill-opacity="0.2" stroke="#00857A" stroke-width="2" data-pp="metabolism" /><circle cx="20" cy="40" r="3" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene" /><circle cx="78" cy="55" r="3" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene" /><circle cx="22" cy="60" r="3" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene" />
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="85" y1="45" x2="92" y2="35" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><line x1="71.0" y1="29.9" x2="60.44" y2="29.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="32.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">periplasm</text><line x1="22" y1="38" x2="10" y2="28" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><text x="5" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">BP</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="转录翻译偶联" data-name-en="Transcription-translation coupling" data-cat="02-structures" data-tags="转录,翻译,偶联,RNA聚合酶,多聚核糖体,无核膜,mRNA" role="img" aria-labelledby="t-24-transcription-translation d-24-transcription-translation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24-transcription-translation">转录翻译偶联 / Transcription-translation coupling</title>
+  <desc id="d-24-transcription-translation">原核细胞无核膜分隔，RNA 聚合酶转录出的 mRNA 可在同一细胞中被立即翻译，转录与翻译同时进行（偶联）。关键词: 转录, 翻译, 偶联, RNA聚合酶, 多聚核糖体, 无核膜, mRNA</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M8 26L40 26M78 26L112 26" fill="none" stroke="#2B3A42" stroke-width="1.6"/>
+<path d="M40 26C44 38 74 38 78 26" fill="none" stroke="#2B3A42" stroke-width="1.6"/>
+<path d="M44 34C52 46 66 46 74 34" fill="none" stroke="#2B3A42" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M38 18C44 12 56 12 60 18C64 24 72 24 78 18C82 14 78 10 74 12" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<rect x="44" y="16" width="32" height="18" rx="7" fill="#E8B04B" fill-opacity="0.5" stroke="#B57A17" stroke-width="1.4"/>
+<ellipse cx="88" cy="70" rx="14" ry="8.5" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.6"/>
+<ellipse cx="88" cy="81" rx="10" ry="5.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M76 26C86 34 96 52 90 78C88 92 64 98 40 100" fill="none" stroke="#B57A17" stroke-width="1.8"/>
+<circle cx="88" cy="58" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="84" cy="50" r="2.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<ellipse cx="46" cy="94" rx="12" ry="7" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.6"/>
+<ellipse cx="46" cy="103" rx="8.5" ry="4.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M8 108C30 112 90 112 112 108" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+</g>
+</svg>

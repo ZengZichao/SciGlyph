@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="纳米孔测序孔道" data-name-en="Nanopore Sequencing Channel" data-cat="05-eco-seq" data-tags="纳米孔,测序,孔道,脂双层,DNA过孔,离子电流,马达蛋白" role="img" aria-labelledby="t-25-nanopore d-25-nanopore" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25-nanopore">Nanopore Sequencing Channel</title>
+  <desc id="d-25-nanopore">DNA 链在马达蛋白牵引下穿过脂双层上的收缩型孔道，碱基依次阻塞孔道引起离子电流变化实现实时测序。关键词: 纳米孔, 测序, 孔道, 脂双层, DNA过孔, 离子电流, 马达蛋白</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 脂双层膜：磷脂头基与脂肪酸尾 -->
+  <path d="M8 54 V68 M17 54 V68 M26 54 V68 M35 54 V68 M44 54 V68 M75 54 V68 M84 54 V68 M93 54 V68 M102 54 V68 M111 54 V68" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="8" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="17" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="26" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="35" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="44" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="75" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="84" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="93" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="102" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="111" cy="51" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="8" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="17" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="26" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="35" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="44" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="75" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="84" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="93" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="102" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="111" cy="71" r="2.8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 膜分片边界 -->
+  <path d="M5 44 H45 M75 44 H115" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M5 78 H45 M75 78 H115" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 孔道蛋白（收缩型通道） -->
+  <path d="M52 42 C58 50 58 66 52 76 L68 76 C62 66 62 50 68 42 Z" fill="#DCEEE4" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.6"/>
+  <path d="M52 42 C58 50 58 66 52 76" stroke="#5B4B8A" stroke-width="1.6"/>
+  <path d="M68 42 C62 50 62 66 68 76" stroke="#5B4B8A" stroke-width="1.6"/>
+  <!-- 上游 DNA 双链（cis 侧），先导端被马达蛋白捕获 -->
+  <path d="M56 6 C53 11 63 14 58 19 C55 23 58 25 58 27" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M64 6 C67 11 57 14 62 19 C65 23 62 25 62 27" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M55.5 10 H64.5 M55.5 16 H64.5 M56.5 22 H63.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 孔道中堆叠的碱基（k-mer） -->
+  <path d="M57 48 h6" stroke="#2E7D5B" stroke-width="2.6"/>
+  <path d="M57 54 h6" stroke="#E8B04B" stroke-width="2.6"/>
+  <path d="M57 60 h6" stroke="#2E7D5B" stroke-width="2.6"/>
+  <path d="M57 66 h6" stroke="#E8B04B" stroke-width="2.6"/>
+  <!-- 离子电流 -->
+  <path d="M20 60 H44" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M40 57.5 L44 60 L40 62.5" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M76 60 H100" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M96 57.5 L100 60 L96 62.5" stroke="#B57A17" stroke-width="1.4"/>
+  <circle cx="32" cy="60" r="2.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="42" cy="60" r="2.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="92" cy="60" r="2.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="82" cy="60" r="2.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 马达蛋白（解旋酶）停在孔道 cis 侧入口，解开双链并将单链推入孔道 -->
+  <ellipse cx="60" cy="33" rx="12" ry="7.5" fill="#E8B04B" fill-opacity="0.8" stroke="#B57A17" stroke-width="1.6"/>
+  <path d="M52 33 a10 7 0 0 1 14 -5" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="2 2"/>
+  <path d="M64 26 l3 3 l-4 1" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M58 27 C57 33 58 38 58 43" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M62 27 C63 33 62 38 62 43" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M60 78 C56 84 64 88 60 94 C56 100 64 106 60 112" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M57 82 v5 M63 88 v5 M57 96 v5 M63 104 v5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 标注 -->
+  <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" stroke="none" text-anchor="middle" font-size="7" x="28.71" y="32.0">Lipid bilayer</text>
+  <path d="M24 35 v6" stroke="#7A8B93" stroke-width="1.2"/>
+  <text x="98" y="34" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">Pore</text>
+  <path d="M98 37 l-8 5" stroke="#7A8B93" stroke-width="1.2"/>
+</g>
+</svg>

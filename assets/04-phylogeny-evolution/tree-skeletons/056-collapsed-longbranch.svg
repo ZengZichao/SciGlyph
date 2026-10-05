@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-trees" role="img" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-24">压缩长枝树 / Collapsed Long Branch</title>
+<desc id="d-24">低分辨/冗余的 clade(进化枝)被折叠为三角形，并标注该 clade 包含的 tip 数目(~5 tips)，右上角小窗是同一 clade 展开后的 5 个 tip，两者数目一致。schematic, not to scale. 关键词: phylogenetic tree, collapsed clade, triangle, clade collapse, tip count annotation, expanded inset, ggtree, iTOL</desc>
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<g data-name="branches">
+<line x1="60.0" y1="180.0" x2="150.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="100.0" x2="150.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="100.0" x2="280.0" y2="100.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="180.0" x2="280.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="280.0" x2="350.0" y2="280.0" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<polygon points="350,280 520,230 520,330" fill="#93A0AC" fill-opacity="0.2" stroke="#1B2733" stroke-width="1.5" data-pp="muted"/>
+<circle cx="150.0" cy="100.0" r="3.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="150.0" cy="180.0" r="3.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<circle cx="150.0" cy="280.0" r="3.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+</g>
+<g data-name="tip-labels">
+<text x="290.0" y="97.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Sp A</text>
+<text x="290.0" y="177.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Sp B</text>
+<text x="452.0" y="276.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~5 tips</text>
+<text x="452.0" y="292.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">collapsed</text>
+</g>
+<g data-name="annotation">
+<text x="118.0" y="230.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="end">long</text>
+<text x="118.0" y="242.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="end">branch</text>
+<line x1="122.0" y1="238.0" x2="146.0" y2="238.0" stroke="#C42D2D" stroke-width="0.5" data-pp="alert" stroke-linecap="round"/>
+</g>
+<g data-name="inset">
+<rect x="380.0" y="34.0" width="180.0" height="142.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+<text x="470.0" y="46.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Expanded view (same 5 tips)</text>
+<line x1="400.0" y1="101.0" x2="416.0" y2="101.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="416.0" y1="66.0" x2="416.0" y2="126.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="416.0" y1="66.0" x2="434.0" y2="66.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="56.0" x2="434.0" y2="78.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="56.0" x2="470.0" y2="56.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="78.0" x2="470.0" y2="78.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="416.0" y1="126.0" x2="434.0" y2="126.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="110.0" x2="434.0" y2="144.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="110.0" x2="470.0" y2="110.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="434.0" y1="144.0" x2="452.0" y2="144.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="452.0" y1="134.0" x2="452.0" y2="154.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="452.0" y1="134.0" x2="470.0" y2="134.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="452.0" y1="154.0" x2="470.0" y2="154.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<circle cx="470.0" cy="56.0" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="470.0" cy="78.0" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="470.0" cy="110.0" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="470.0" cy="134.0" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="470.0" cy="154.0" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+<text x="478.0" y="59.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">t1</text>
+<text x="478.0" y="81.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">t2</text>
+<text x="478.0" y="113.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">t3</text>
+<text x="478.0" y="137.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">t4</text>
+<text x="478.0" y="157.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">t5</text>
+</g>
+</svg>

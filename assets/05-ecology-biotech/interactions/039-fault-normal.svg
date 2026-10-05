@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="正断层" data-name-en="Normal Fault" data-cat="natural-sciences" aria-labelledby="t-68 d-68" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-68">正断层 / fault_normal</title>
+  <desc id="d-68">展示正断层结构。关键词: normal fault,geology,displacement</desc>
+  <g id="g-68-正断层">
+    <rect x="20" y="40" width="120" height="30" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="20" y="70" width="120" height="40" fill="#6b7280" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="20" y="110" width="120" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="180" y="70" width="120" height="30" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="180" y="100" width="120" height="40" fill="#6b7280" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="180" y="140" width="120" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M140,30 L180,180" fill="none" stroke="#D55E00" stroke-width="2" stroke-dasharray="6 4" data-drole="series-2"/>
+    <path d="M90,180 L90,150" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="85,155 90,145 95,155" fill="#1f2937"/>
+    <path d="M230,30 L230,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="225,55 230,65 235,55" fill="#1f2937"/>
+  </g>
+</svg>

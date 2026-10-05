@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-31_genome_polishing d-31_genome_polishing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31_genome_polishing">基因组组装质量提升流程 / Genome Assembly Polishing</title>
+  <desc id="d-31_genome_polishing">骨架流程：草图组装→长reads→Racon长读长纠错→Illumina短reads→Pilon短读长抛光→BUSCO质控→最终组装（混合抛光顺序：先长读长再短读长）。工具：Racon, Pilon, BUSCO。输入：草图+长短reads；输出：高质量组装。 关键词: bioinformatics workflow, genome polishing, Assembly, reads, Racon, Pilon, BUSCO, Draft, hybrid, skeleton template</desc>
+<defs>
+  <marker id="pp31__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp31__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp31__labels" data-name="labels">
+  <rect x="20" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Draft Assembly</text>
+
+  <rect x="145" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Long Reads</text>
+
+  <rect x="270" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Racon Polish</text>
+
+  <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Illumina Reads</text>
+
+  <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Pilon Polish</text>
+
+  <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">QC BUSCO</text>
+
+  <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Final Assembly</text>
+
+  <line x1="125" y1="94.0" x2="145" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="94.0" x2="270" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="94.0" x2="395" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round"/>
+  <path d="M 447.5 118 L 447.5 163.0 L 72.5 163.0 L 72.5 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="125" y1="232.0" x2="145" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="232.0" x2="270" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp31__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Genome Assembly Polishing Pipeline</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Draft</text>
+  <rect x="83" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="99" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Polish</text>
+  <rect x="153" y="370" width="12" height="12" rx="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="169" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Long Read</text>
+  <rect x="244" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="260" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">BUSCO</text>
+  </g>
+</svg>

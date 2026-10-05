@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-particle-counter" data-cat="an" data-spec="128" data-tags="particle,counter,laser,liquid,cleanroom,contamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">微粒计数器 / Particle Counter</title>
+  <desc id="d">液体微粒计数器：激光光源、流通池、光电探测器。</desc>
+  <g id="body">
+    <rect x="22" y="18" width="84" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="22" y="18" width="84" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+    <rect x="30" y="26" width="68" height="24" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="36" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Particle Count</text>
+    <text x="48.0" y="44.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">≥0.5μm: 120</text>
+    <text x="50.82" y="51.98" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">≥5.0μm: 3</text>
+    <circle cx="36" cy="58" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="48" cy="58" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="60" cy="58" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="72" cy="58" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="36.0" y="64.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Test</text>
+    <line x1="48.0" y1="61.9" x2="56.0" y2="61.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.0" y="64.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Count</text>
+    <line x1="60.0" y1="61.9" x2="63.47" y2="68.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="64.88" y="71.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Size</text>
+    <line x1="72.0" y1="61.9" x2="78.0" y2="61.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="78.0" y="62.6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Print</text>
+<rect x="44" y="10" width="40" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="54" cy="17" r="3" fill="#E02020" opacity="0.4" stroke="none" data-ls="danger" />
+<rect x="70" y="14" width="8" height="6" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="8" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sensor</text>
+<line x1="64" y1="68" x2="64" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<path d="M64 80 Q64 88 56 88 L40 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<rect x="26" y="82" width="14" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<path d="M28 90 L38 90 L38 100 Q38 101 37 101 L29 101 Q28 101 28 100 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid" />
+    <rect x="28" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="96" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-condenser-overhead" data-cat="uo" data-spec="128"
+     data-tags="condenser,overhead,cooling,vapor-liquid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">塔顶冷凝器 / Overhead Condenser</title>
+  <desc id="d">塔顶冷凝器，竖直管壳式带冷却水进出。</desc>
+  <g id="body">
+    <rect x="40" y="16" width="48" height="80" rx="24" ry="24" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="52" y1="30" x2="52" y2="82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="30" x2="64" y2="82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="76" y1="30" x2="76" y2="82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="8" x2="64" y2="16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,12 60,18 68,18" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="96" x2="64" y2="118" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,110 60,104 68,104" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="32" y1="40" x2="40" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="88" y1="72" x2="96" y2="72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

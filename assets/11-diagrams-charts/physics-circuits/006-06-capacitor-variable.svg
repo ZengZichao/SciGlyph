@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="可变电容" data-name-en="capacitor-variable" data-cat="physics-electronics" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-06">可变电容 / capacitor_variable</title>
+  <desc id="d-06">带调节箭头的可变电容符号。关键词: 电容,可变,可调,无源元件</desc>
+  <g id="g-06-可变电容">
+    <line x1="10" y1="40" x2="50" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="50" y1="20" x2="50" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="60" y1="20" x2="60" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 45 25 L 65 55" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 66.39 48.07 L 65 55 L 58.07 53.61" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

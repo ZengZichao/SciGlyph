@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-chemical-label-round-pharma" data-cat="lb" data-spec="160"
+     data-tags="pharma,label,round,rx,medicine,circular" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">圆形药品标签 / Round Pharma Label Rx</title>
+  <desc id="d">圆形药品标签，Rx环。</desc>
+  <g id="body">
+    <circle cx="80" cy="48" r="38" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="80" cy="48" r="32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="42" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" data-ls="stroke">Rx</text>
+    <text x="80" y="56" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="stroke">MEDICINE</text>
+    <line x1="60" y1="62" x2="100" y2="62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="70" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="stroke">LOT/EXP</text>
+  </g>
+</svg>

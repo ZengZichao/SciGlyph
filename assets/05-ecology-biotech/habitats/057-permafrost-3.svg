@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-permafrost d-permafrost" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-permafrost">永久冻土 / Permafrost</title>
+  <desc id="d-permafrost">Permafrost with active layer, ice wedges and psychrotolerant Actinomycetes 关键词: permafrost, ice wedge, Actinomycetes</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="10" width="90" height="20" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg" fill-opacity="0.3"/>
+    <rect x="5" y="30" width="90" height="50" rx="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" fill-opacity="0.1"/>
+    <line x1="5" y1="30" x2="95" y2="30" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted" stroke-dasharray="4,2"/>
+    <path d="M25,30 L28,70 L22,70 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="bg"/>
+    <path d="M65,30 L68,65 L62,65 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="bg"/>
+    <path d="M15,18 Q25,15 35,18 Q40,20 45,18" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.2" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M55,20 Q65,17 75,20" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.2" stroke-linecap="round" data-pp="bacteria"/>
+    <circle cx="45" cy="17" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="47" cy="16" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="40" cy="50" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <circle cx="75" cy="45" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">冻土</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-18_crispr_cas9 d-18_crispr_cas9" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18_crispr_cas9">Cas9切割(II型) / Cas9 Cleavage (Type II)</title>
+  <desc id="d-18_crispr_cas9">II型CRISPR-Cas: Cas9+sgRNA识别PAM(5'-NGG)，PAM紧邻protospacer 3'端；HNH切靶标链、RuvC切非靶标链，在PAM上游约3bp产生平末端DSB。关键词: Cas9, Type II CRISPR, sgRNA, PAM, RuvC, HNH, blunt DSB</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="10" y1="45" x2="90" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+    <line x1="10" y1="50" x2="90" y2="50" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+        <rect x="34" y="33" width="26" height="24" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="47" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cas9</text>
+    <rect x="61" y="42.5" width="8" height="5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="55" y1="41" x2="55" y2="54" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+    <line x1="47" y1="25" x2="47" y2="33" stroke="#5B8C3E" data-pp="virus" stroke-width="1" stroke-dasharray="1,1"/>
+    <circle cx="15" cy="47" r="2" fill="#6C3FA0" data-pp="gene"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="47" y="30" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sgRNA</text>
+    <text x="65" y="39" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PAM</text>
+    <text x="50" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">RuvC + HNH</text>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">blunt DSB</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">~3 bp from PAM</text>
+  </g>
+</svg>

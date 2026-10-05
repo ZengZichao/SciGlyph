@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-analytical-balance-four-digit" data-cat="mt" data-spec="128"
+     data-tags="balance,analytical,weighing,天平,称量" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">四位电子天平 / Analytical Balance (0.1 mg)</title>
+  <desc id="d">电子天平：防风玻璃罩+称盘+水平泡+数显。</desc>
+  <g id="body"><rect x="20" y="70" width="88" height="48" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="76" width="40" height="16" rx="2" fill="#33414F" data-ls="dark"/>
+    <text x="48" y="88" fill="#7FC26B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="liquid-2">0.0000g</text>
+    <rect x="34" y="18" width="60" height="52" rx="2" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent"/>
+    <rect x="38" y="22" width="52" height="44" rx="1" fill="none" opacity="0.3" stroke="#2B7DE9" stroke-width="1" data-ls="accent"/>
+    <rect x="48" y="56" width="32" height="4" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="80" cy="84" r="4" fill="#7FC26B" stroke="#1F2933" stroke-width="1" data-ls="liquid-2" data-ls-stroke="stroke"/>
+    <text x="80" y="86" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">●</text>
+    <rect x="76" y="96" width="24" height="8" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><g id="grid">
+    <line x1="38" y1="30" x2="86" y2="30" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="38" y1="38" x2="86" y2="38" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="38" y1="46" x2="86" y2="46" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="38" y1="54" x2="86" y2="54" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="50" y1="22" x2="50" y2="66" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="64" y1="22" x2="64" y2="66" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+    <line x1="78" y1="22" x2="78" y2="66" opacity="0.3" stroke="#2B7DE9" stroke-width="0.5" data-ls="accent"/>
+  </g></g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="变压器" data-name-en="transformer-two-winding" data-cat="physics-electronics" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08">变压器 / transformer_two_winding</title>
+  <desc id="d-08">双绕组变压器符号。关键词: 变压器,双绕组,磁耦合</desc>
+  <g id="g-08-变压器">
+    <path d="M 30 20 Q 15 27 30 35" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 30 35 Q 15 42 30 50" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 30 50 Q 15 57 30 65" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="35" y1="15" x2="35" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="15" x2="40" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <path d="M 45 20 Q 60 27 45 35" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 45 35 Q 60 42 45 50" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 45 50 Q 60 57 45 65" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="30" y1="20" x2="10" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="30" y1="65" x2="10" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="20" x2="65" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="65" x2="65" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

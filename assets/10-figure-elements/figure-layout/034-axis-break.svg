@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-34_axis_break d-34_axis_break" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34_axis_break">截断波浪线 / Axis break</title>
+  <desc id="d-34_axis_break">坐标轴截断波浪线。骨架，配合截断坐标轴使用。关键词: axis break, wave, zigzag</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="50" y1="10" x2="50" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M50,30 L44,35 L56,40 L44,45 L56,50 L44,55 L56,60 L50,65" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="50" y1="65" x2="50" y2="85" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Axis break</text>
+  </g>
+</svg>

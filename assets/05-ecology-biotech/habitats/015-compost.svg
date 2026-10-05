@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="堆肥高温发酵" data-name-en="Compost Thermophilic Phase" data-cat="05-eco-seq" data-tags="堆肥,嗜热菌,腐生,高温阶段,有机物分解" role="img" aria-labelledby="t-15-compost d-15-compost" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15-compost">堆肥高温发酵 / Compost Thermophilic Phase</title>
+  <desc id="d-15-compost">堆体中心形成 50–70 ℃ 高温核心，嗜热细菌与真菌分解有机物，堆温自内向外递减表示腐熟进程。关键词: 堆肥, 嗜热菌, 腐生, 高温阶段, 有机物分解</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 堆体 -->
+  <path d="M8 106 Q26 50 60 34 Q94 50 112 106 Z" fill="#7A8B93" fill-opacity="0.3" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 高温核心（温度分层） -->
+  <path d="M32 104 Q42 58 60 50 Q78 58 88 104 Z" fill="#E8B04B" fill-opacity="0.3" stroke="none"/>
+  <path d="M44 102 Q50 68 60 64 Q70 68 76 102 Z" fill="#C0504D" fill-opacity="0.3" stroke="none"/>
+  <ellipse cx="60" cy="88" rx="9" ry="6" fill="#C0504D" fill-opacity="0.4" stroke="#C0504D" stroke-width="1.2"/>
+  <!-- 温度等值线 -->
+  <path d="M20 104 Q30 54 60 40 Q90 54 100 104" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <path d="M38 104 Q46 62 60 56 Q74 62 82 104" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <!-- 堆温外溢蒸汽 -->
+  <path d="M60 30 C52 22 68 16 60 8" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.8"/>
+  <path d="M42 44 C36 34 48 28 42 20" stroke="#E8B04B" stroke-width="1.6" stroke-opacity="0.55"/>
+  <path d="M80 44 C86 34 74 28 80 20" stroke="#E8B04B" stroke-width="1.6" stroke-opacity="0.55"/>
+  <!-- 有机物料碎片 -->
+  <path d="M18 92 l9 -4 l5 6 l-6 6 l-9 -3 Z" fill="#E8B04B" fill-opacity="0.7" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M96 88 l9 3 l-2 7 l-9 1 l-3 -6 Z" fill="#E8B04B" fill-opacity="0.7" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M26 70 l8 -3 l4 5 l-5 5 l-8 -2 Z" fill="#B7D7E8" fill-opacity="0.7" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M88 66 l8 2 l-1 6 l-8 1 l-3 -5 Z" fill="#B7D7E8" fill-opacity="0.7" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M50 100 l9 -3 l4 5 l-5 5 l-9 -2 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M70 96 l8 2 l-1 6 l-8 1 l-3 -5 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 嗜热细菌 -->
+  <rect x="44" y="72" width="17" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="62" y="78" width="17" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="36" y="88" width="15" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M61 68 C68 62 72 76 80 70" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="86" cy="52" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 分解菌真菌菌丝 -->
+  <path d="M24 100 C32 94 30 84 38 80 M38 80 C46 76 44 66 50 62 M38 80 C30 78 26 72 26 66" stroke="#7A8B93" stroke-width="1.4"/>
+  <path d="M92 100 C86 94 88 86 82 82 M82 82 C76 80 74 74 76 68" stroke="#7A8B93" stroke-width="1.4"/>
+  <!-- 通气与腐熟进度 -->
+  <path d="M5 88 H22 m-3 -3 l3 3 l-3 3" stroke="#2E7D5B" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M115 88 H98 m3 -3 l-3 3 l3 3" stroke="#2E7D5B" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M60 110 v-4 m-2.5 2 l2.5 -2 l2.5 2" stroke="#2E7D5B" stroke-width="1.2"/>
+</g>
+</svg>

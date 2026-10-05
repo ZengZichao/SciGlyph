@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-genomic_quality_stars d-genomic_quality_stars" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-genomic_quality_stars">基因组质控刻度 / Genome quality completeness vs contamination</title>
+  <desc id="d-genomic_quality_stars">基因组完整性和污染散点。schematic, not to scale. 关键词: quality, completeness, contamination, GTDB</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="378" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Completeness (%)</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink" transform="rotate(-90 50 195)">Contamination (%)</text>
+
+  <line x1="512" y1="340" x2="512" y2="50" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <text x="516" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">90%</text>
+  <line x1="80" y1="195" x2="560" y2="195" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+  <text x="84" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">5%</text>
+  <line x1="152" y1="336" x2="152" y2="344" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  <text x="152" y="356" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">15</text>
+  <line x1="280" y1="336" x2="280" y2="344" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  <text x="280" y="356" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">42</text>
+  <line x1="400" y1="336" x2="400" y2="344" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  <text x="400" y="356" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">67</text>
+  <line x1="512" y1="336" x2="512" y2="344" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  <text x="512" y="372" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">90</text>
+</g>
+<g data-name="quality-points">
+  <circle cx="510" cy="325" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="488" cy="339" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="508" cy="338" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="410" cy="331" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="408" cy="338" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="461" cy="337" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="512" cy="337" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="463" cy="335" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="527" cy="331" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="357" cy="339" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="433" cy="339" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="425" cy="329" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="445" cy="327" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="387" cy="333" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="485" cy="327" r="5" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="344" cy="314" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="246" cy="330" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="244" cy="333" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="297" cy="316" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="261" cy="320" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="349" cy="331" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="259" cy="321" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="265" cy="321" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="265" cy="314" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="202" cy="310" r="5" fill="#E8871E" data-pp="mge"/>
+  <circle cx="209" cy="263" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="163" cy="277" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="229" cy="310" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="108" cy="292" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="178" cy="283" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="166" cy="280" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="198" cy="276" r="5" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="154" cy="291" r="5" fill="#C42D2D" data-pp="alert"/>
+</g>
+<g data-name="legend">
+  <circle cx="460" cy="70" r="5" fill="#00857A" data-pp="metabolism"/>
+  <text x="420" y="74" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">High (≥90%, ≤5% contam.)</text>
+  <circle cx="460" cy="90" r="5" fill="#E8871E" data-pp="mge"/>
+  <text x="475" y="94" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Medium</text>
+  <circle cx="460" cy="110" r="5" fill="#C42D2D" data-pp="alert"/>
+  <text x="475" y="114" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Low</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genome Quality — Completeness vs Contamination (schematic)</text>
+</svg>

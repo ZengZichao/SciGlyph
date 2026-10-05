@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-ear-plugs" data-cat="sf" data-spec="128"
+     data-tags="ear plugs,hearing protection,noise,ppe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">耳塞 / Ear Plugs</title>
+  <desc id="d">防噪声耳塞一对，圆锥形设计。</desc>
+  <g id="body"><path d="M36 40 Q32 40 30 52 Q28 68 34 76 Q38 80 42 76 Q48 68 46 52 Q44 40 40 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M82 40 Q78 40 76 52 Q74 68 80 76 Q84 80 88 76 Q94 68 92 52 Q90 40 86 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M34 52 L42 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M32 62 L44 62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M80 52 L88 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M78 62 L90 62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

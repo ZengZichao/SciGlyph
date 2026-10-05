@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-09 d-09" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09">连续性状渐变条 / Continuous Trait Gradient Bar</title>
+  <desc id="d-09">装饰零件，贴到树上用。连续性状渐变条：顶端 High 色最深(不透明度最高)、底端 Low 色最浅，自下而上单调加深。 关键词: tree decoration, continuous gradient bar, Trait</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="gradient-bar">
+    <rect x="150" y="80.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.80" data-pp="bacteria"/>
+    <rect x="150" y="92.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.765" data-pp="bacteria"/>
+    <rect x="150" y="105.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.73" data-pp="bacteria"/>
+    <rect x="150" y="117.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.695" data-pp="bacteria"/>
+    <rect x="150" y="130.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.66" data-pp="bacteria"/>
+    <rect x="150" y="142.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.625" data-pp="bacteria"/>
+    <rect x="150" y="155.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.59" data-pp="bacteria"/>
+    <rect x="150" y="167.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.555" data-pp="bacteria"/>
+    <rect x="150" y="180.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.52" data-pp="bacteria"/>
+    <rect x="150" y="192.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.485" data-pp="bacteria"/>
+    <rect x="150" y="205.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.45" data-pp="bacteria"/>
+    <rect x="150" y="217.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.415" data-pp="bacteria"/>
+    <rect x="150" y="230.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.38" data-pp="bacteria"/>
+    <rect x="150" y="242.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.345" data-pp="bacteria"/>
+    <rect x="150" y="255.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.31" data-pp="bacteria"/>
+    <rect x="150" y="267.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.275" data-pp="bacteria"/>
+    <rect x="150" y="280.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.24" data-pp="bacteria"/>
+    <rect x="150" y="292.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.205" data-pp="bacteria"/>
+    <rect x="150" y="305.0" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.17" data-pp="bacteria"/>
+    <rect x="150" y="317.5" width="30" height="12.5" fill="#2E86AB" fill-opacity="0.15" data-pp="bacteria"/>
+  </g>
+  <g data-name="scale-labels">
+    <text x="190" y="85" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">High</text>
+    <text x="190" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Low</text>
+  </g>
+  <g data-name="example-tips">
+    <circle cx="80" cy="120" r="8" fill="#2E86AB" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <text x="60" y="123" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">T1</text>
+    <circle cx="80" cy="180" r="8" fill="#2E86AB" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <text x="60" y="183" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">T2</text>
+    <circle cx="80" cy="240" r="8" fill="#2E86AB" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <text x="60" y="243" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">T3</text>
+    <circle cx="80" cy="300" r="8" fill="#2E86AB" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <text x="60" y="303" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">T4</text>
+  </g>
+</svg>

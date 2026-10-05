@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-morphology" role="img" aria-labelledby="t-fusobacterium d-fusobacterium" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fusobacterium">梭杆菌 / Fusobacterium</title>
+  <desc id="d-fusobacterium">Slender spindle-shaped, non-motile obligate anaerobic rod with pointed ends; butyrate producer. 关键词: Fusobacterium, spindle-shaped, pointed ends, anaerobe</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M8,50 Q25,36 50,37 Q75,36 92,50 Q75,64 50,63 Q25,64 8,50 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" />
+    <line x1="30" y1="50" x2="70" y2="50" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-dasharray="4,2" />
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="50" y1="50" x2="70" y2="75" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
+    <text x="56.00" y="82.00" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">nucleoid</text>
+  </g>
+</svg>

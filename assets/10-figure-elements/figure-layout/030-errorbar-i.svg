@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-30_errorbar_i d-30_errorbar_i" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30_errorbar_i">误差棒(I条) / Error bar I</title>
+  <desc id="d-30_errorbar_i">I型误差棒(上下横线)。骨架，配合柱状图/折线图使用。关键词: error bar, I-bar, standard deviation</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="50" y1="20" x2="50" y2="70" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="42" y1="20" x2="58" y2="20" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="42" y1="70" x2="58" y2="70" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="50" cy="45" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Error bar I</text>
+  </g>
+</svg>

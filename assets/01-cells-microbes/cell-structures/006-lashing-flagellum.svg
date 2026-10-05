@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="弯曲鞭毛" data-name-en="Lashing flagellum" data-cat="02-structures" data-tags="弯曲鞭毛,鞭毛,鞭打式摆动,螺旋状运动" role="img" aria-labelledby="t-06-lashing-flagellum d-06-lashing-flagellum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-06-lashing-flagellum">弯曲鞭毛 / Lashing flagellum</title>
+  <desc id="d-06-lashing-flagellum">鞭毛着生后紧贴细胞表面延伸并向后拖曳、以鞭打式摆动推动细胞呈螺旋状钻动，弧菌属典型方式。关键词: 弯曲鞭毛, 鞭毛, 鞭打式摆动, 螺旋状运动</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M20 62L9 62" fill="none" stroke="#7A8B93" stroke-width="1.4"/>
+<path d="M15 59L9 62L15 65" fill="none" stroke="#7A8B93" stroke-width="1.4"/>
+<rect x="22" y="24" width="32" height="76" rx="16" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M28 62C28 52 38 48 48 52C54 55 50 62 46 66C42 70 40 76 42 82" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M54 36C66 34 78 40 88 36C98 32 106 30 116 31" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M54 48C66 46 78 52 88 48C98 44 106 42 116 43" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M54 60C66 58 78 64 88 60C98 56 106 54 116 55" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M54 72C66 70 78 76 88 72C98 68 106 66 116 67" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M54 84C66 82 78 88 88 84C98 80 106 78 116 79" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M96 24C104 22 110 20 116 19" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M96 92C104 94 110 96 116 97" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+</g>
+</svg>

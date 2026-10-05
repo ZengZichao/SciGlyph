@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-oral_plaque d-oral_plaque" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-oral_plaque">口腔牙菌斑 / Oral plaque</title>
+  <desc id="d-oral_plaque">Dental biofilm with Streptococcus-like cocci chains 关键词: oral, plaque</desc>
+  <g id="l-oral_plaque-bg" data-name="habitat-bg">
+    <rect x="5" y="20" width="90" height="25" rx="4" fill="#F4F1EA" data-pp="bg" fill-opacity="0.5" stroke="#1B2733" stroke-width="1"/>
+<rect x="5" y="45" width="90" height="30" rx="4" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+  </g>
+  <g id="l-oral_plaque-microbes" data-name="microbes">
+    <circle cx="17.0" cy="55" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="26.0" cy="55" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="35.0" cy="55" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="44.0" cy="55" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="53.0" cy="55" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="48.0" cy="62" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="56.0" cy="62" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="64.0" cy="62" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="72.0" cy="62" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="50" cy="48" r="3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="l-oral_plaque-label" data-name="annotation">
+    <text x="50" y="12" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">口腔牙菌斑</text>
+  </g>
+</svg>

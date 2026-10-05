@@ -1,0 +1,29 @@
+{
+ "category": "05-ecology-biotech",
+ "name_zh": "生态·生境与应用",
+ "name_en": "Ecology, Habitats & Applications",
+ "count": 121,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "habitats",
+   "name_zh": "生境",
+   "name_en": "Habitats",
+   "count": 73
+  },
+  {
+   "id": "interactions",
+   "name_zh": "互作与物质流",
+   "name_en": "Interactions & Matter Flow",
+   "count": 40
+  },
+  {
+   "id": "biotech-applications",
+   "name_zh": "生物技术应用",
+   "name_en": "Biotech Applications",
+   "count": 8
+  }
+ ]
+}

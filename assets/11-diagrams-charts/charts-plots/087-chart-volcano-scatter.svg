@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-volcano-scatter" data-cat="ch" data-spec="128"
+     data-tags="chart,volcano,scatter,threshold,significance,fold-change" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">火山图 / Chart Volcano Scatter</title>
+  <desc id="d">火山图散点加阈值线。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="30" cy="95" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="38" cy="90" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="45" cy="88" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="52" cy="92" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="60" cy="85" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="68" cy="88" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="76" cy="90" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="84" cy="86" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="92" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="100" cy="88" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="108" cy="94" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="32" cy="50" r="2.5" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="40" cy="42" r="2.5" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="48" cy="35" r="2.5" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="80" cy="38" r="2.5" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <circle cx="88" cy="45" r="2.5" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <circle cx="96" cy="52" r="2.5" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <circle cx="36" cy="72" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="56" cy="68" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="72" cy="70" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="90" cy="66" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="104" cy="72" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="20" y1="60" x2="116" y2="60" fill="none" stroke="#E02020" stroke-dasharray="4,3" data-ls="danger" stroke-linecap="round"/>
+    <line x1="44" y1="20" x2="44" y2="108" fill="none" stroke="#E02020" stroke-dasharray="4,3" data-ls="danger" stroke-linecap="round"/>
+    <line x1="84" y1="20" x2="84" y2="108" fill="none" stroke="#E02020" stroke-dasharray="4,3" data-ls="danger" stroke-linecap="round"/>
+  </g>
+</svg>

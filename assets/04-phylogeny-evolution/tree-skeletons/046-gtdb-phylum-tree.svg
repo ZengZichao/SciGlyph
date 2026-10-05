@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-14 d-14" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">GTDB简化门级树 / GTDB Phylum-level Tree</title>
+  <desc id="d-14">骨架，配合GTDB-Tk输出使用。简化GTDB门级系统发育树(9个门，各以2个tip示意)。 关键词: phylogenetic tree, gtdb phylum tree, Phylum-level, GTDB-Tk, skeleton template, phylogenetics</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp14__clades" data-name="clade-shading">
+    <rect x="92.0" y="24.0" width="56.0" height="106.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="92.0" y="136.9" width="72.0" height="219.1" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+  </g>
+  <g id="pp14__branches" data-name="branches">
+    <line x1="80.0" y1="67.6" x2="80.0" y2="227.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="96.0" y1="39.4" x2="96.0" y2="95.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="30.0" x2="112.0" y2="48.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="77.1" x2="112.0" y2="114.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="67.6" x2="128.0" y2="86.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="105.3" x2="128.0" y2="124.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="96.0" y1="171.2" x2="96.0" y2="284.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="152.4" x2="112.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="142.9" x2="128.0" y2="161.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="180.6" x2="128.0" y2="199.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="246.5" x2="112.0" y2="321.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="227.6" x2="128.0" y2="265.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="218.2" x2="144.0" y2="237.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="255.9" x2="144.0" y2="274.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="302.9" x2="128.0" y2="340.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="293.5" x2="144.0" y2="312.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="331.2" x2="144.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="67.6" x2="96.0" y2="67.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="96.0" y1="39.4" x2="112.0" y2="39.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="30.0" x2="128.0" y2="30.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="112.0" y1="48.8" x2="128.0" y2="48.8" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="96.0" y1="95.9" x2="112.0" y2="95.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="77.1" x2="128.0" y2="77.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="67.6" x2="144.0" y2="67.6" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="128.0" y1="86.5" x2="144.0" y2="86.5" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="112.0" y1="114.7" x2="128.0" y2="114.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="105.3" x2="144.0" y2="105.3" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="128.0" y1="124.1" x2="144.0" y2="124.1" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="80.0" y1="227.6" x2="96.0" y2="227.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="96.0" y1="171.2" x2="112.0" y2="171.2" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="152.4" x2="128.0" y2="152.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="142.9" x2="144.0" y2="142.9" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="128.0" y1="161.8" x2="144.0" y2="161.8" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="112.0" y1="190.0" x2="128.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="180.6" x2="144.0" y2="180.6" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="128.0" y1="199.4" x2="144.0" y2="199.4" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="96.0" y1="284.1" x2="112.0" y2="284.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112.0" y1="246.5" x2="128.0" y2="246.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="227.6" x2="144.0" y2="227.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="218.2" x2="160.0" y2="218.2" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="144.0" y1="237.1" x2="160.0" y2="237.1" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="128.0" y1="265.3" x2="144.0" y2="265.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="255.9" x2="160.0" y2="255.9" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="144.0" y1="274.7" x2="160.0" y2="274.7" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="112.0" y1="321.8" x2="128.0" y2="321.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="128.0" y1="302.9" x2="144.0" y2="302.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="293.5" x2="160.0" y2="293.5" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="144.0" y1="312.4" x2="160.0" y2="312.4" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="128.0" y1="340.6" x2="144.0" y2="340.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="144.0" y1="331.2" x2="160.0" y2="331.2" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="144.0" y1="350.0" x2="160.0" y2="350.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+  </g>
+  <g id="pp14__nodes" data-name="nodes">
+    <circle cx="80.0" cy="147.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="96.0" cy="67.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="112.0" cy="39.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="112.0" cy="95.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="77.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="114.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="96.0" cy="227.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="112.0" cy="171.2" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="152.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="190.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="112.0" cy="284.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="246.5" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="144.0" cy="227.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="144.0" cy="265.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="128.0" cy="321.8" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="144.0" cy="302.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="144.0" cy="340.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp14__labels" data-name="tip-labels">
+    <text x="133.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Ac1</text>
+    <text x="133.0" y="51.8" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Ac2</text>
+    <text x="149.0" y="70.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Fi1</text>
+    <text x="149.0" y="89.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Fi2</text>
+    <text x="149.0" y="108.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Pr1</text>
+    <text x="149.0" y="127.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Pr2</text>
+    <text x="149.0" y="145.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Eu1</text>
+    <text x="149.0" y="164.8" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Eu2</text>
+    <text x="149.0" y="183.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Th1</text>
+    <text x="149.0" y="202.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Th2</text>
+    <text x="165.0" y="221.2" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">As1</text>
+    <text x="165.0" y="240.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">As2</text>
+    <text x="165.0" y="258.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Ba1</text>
+    <text x="165.0" y="277.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Ba2</text>
+    <text x="165.0" y="296.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Ch1</text>
+    <text x="165.0" y="315.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Ch2</text>
+    <text x="165.0" y="334.2" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Cy1</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Cy2</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+  </g>
+</svg>

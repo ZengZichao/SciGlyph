@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-stabilizing_selection d-stabilizing_selection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-stabilizing_selection">稳定选择 / Stabilizing Selection</title>
+<desc id="d-stabilizing_selection">中间表型适合度最高,两端被压制,分布变窄 关键词: stabilizing, selection, intermediate, fitness peak</desc>
+<defs>
+<marker id="pp14__ar_red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#C42D2D" data-pp="alert"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Stabilizing Selection</text>
+<path d="M80,280 L80.0,278.2 L91.0,277.4 L102.0,276.3 L113.0,274.8 L124.0,272.9 L135.0,270.5 L146.0,267.5 L157.0,263.8 L168.0,259.5 L179.0,254.5 L190.0,248.9 L201.0,242.8 L212.0,236.3 L223.0,229.7 L234.0,223.1 L245.0,216.8 L256.0,211.2 L267.0,206.5 L278.0,203.0 L289.0,200.8 L300.0,200.0 L311.0,200.8 L322.0,203.0 L333.0,206.5 L344.0,211.2 L355.0,216.8 L366.0,223.1 L377.0,229.7 L388.0,236.3 L399.0,242.8 L410.0,248.9 L421.0,254.5 L432.0,259.5 L443.0,263.8 L454.0,267.5 L465.0,270.5 L476.0,272.9 L487.0,274.8 L498.0,276.3 L509.0,277.4 L520.0,278.2 L520,280 Z" fill="#93A0AC" data-pp="muted" stroke="#93A0AC" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.2"/>
+<path d="M80.0,278.2 L91.0,277.4 L102.0,276.3 L113.0,274.8 L124.0,272.9 L135.0,270.5 L146.0,267.5 L157.0,263.8 L168.0,259.5 L179.0,254.5 L190.0,248.9 L201.0,242.8 L212.0,236.3 L223.0,229.7 L234.0,223.1 L245.0,216.8 L256.0,211.2 L267.0,206.5 L278.0,203.0 L289.0,200.8 L300.0,200.0 L311.0,200.8 L322.0,203.0 L333.0,206.5 L344.0,211.2 L355.0,216.8 L366.0,223.1 L377.0,229.7 L388.0,236.3 L399.0,242.8 L410.0,248.9 L421.0,254.5 L432.0,259.5 L443.0,263.8 L454.0,267.5 L465.0,270.5 L476.0,272.9 L487.0,274.8 L498.0,276.3 L509.0,277.4 L520.0,278.2" fill="none" data-pp="muted" stroke="#93A0AC" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6,4"/>
+<path d="M150,280 L150.0,280.0 L157.5,280.0 L165.0,279.9 L172.5,279.8 L180.0,279.6 L187.5,279.3 L195.0,278.6 L202.5,277.3 L210.0,275.2 L217.5,271.9 L225.0,266.9 L232.5,259.8 L240.0,250.1 L247.5,237.8 L255.0,223.1 L262.5,206.8 L270.0,190.0 L277.5,174.3 L285.0,161.4 L292.5,153.0 L300.0,150.0 L307.5,153.0 L315.0,161.4 L322.5,174.3 L330.0,190.0 L337.5,206.8 L345.0,223.1 L352.5,237.8 L360.0,250.1 L367.5,259.8 L375.0,266.9 L382.5,271.9 L390.0,275.2 L397.5,277.3 L405.0,278.6 L412.5,279.3 L420.0,279.6 L427.5,279.8 L435.0,279.9 L442.5,280.0 L450.0,280.0 L450,280 Z" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill-opacity="0.3"/>
+<path d="M150.0,280.0 L157.5,280.0 L165.0,279.9 L172.5,279.8 L180.0,279.6 L187.5,279.3 L195.0,278.6 L202.5,277.3 L210.0,275.2 L217.5,271.9 L225.0,266.9 L232.5,259.8 L240.0,250.1 L247.5,237.8 L255.0,223.1 L262.5,206.8 L270.0,190.0 L277.5,174.3 L285.0,161.4 L292.5,153.0 L300.0,150.0 L307.5,153.0 L315.0,161.4 L322.5,174.3 L330.0,190.0 L337.5,206.8 L345.0,223.1 L352.5,237.8 L360.0,250.1 L367.5,259.8 L375.0,266.9 L382.5,271.9 L390.0,275.2 L397.5,277.3 L405.0,278.6 L412.5,279.3 L420.0,279.6 L427.5,279.8 L435.0,279.9 L442.5,280.0 L450.0,280.0" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="420" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">适合度</text>
+<line x1="440" y1="60" x2="440" y2="250" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="440" y1="250" x2="570" y2="250" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M440,249 L444,248 L449,247 L453,244 L457,240 L462,233 L466,224 L470,211 L474,194 L479,174 L483,152 L487,128 L492,106 L496,88 L500,75 L504,70 L509,73 L513,84 L517,101 L522,123 L526,146 L530,169 L535,190 L539,207 L543,221 L548,231 L552,238 L556,243 L560,246 L565,248" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="570" y="265" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">性状值</text>
+<text x="505" y="60" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">峰值</text>
+<text x="450" y="240" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">低</text>
+<text x="560" y="240" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">低</text>
+<line x1="200" y1="270" x2="260" y2="270" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round" marker-end="url(#pp14__ar_red)"/>
+<line x1="400" y1="270" x2="340" y2="270" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round" marker-end="url(#pp14__ar_red)"/>
+<text x="300" y="265" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">压制极端</text>
+<line x1="420" y1="280" x2="450" y2="280" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6,4"/>
+<text x="460" y="284" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">宽分布</text>
+<line x1="420" y1="300" x2="450" y2="300" stroke="#00857A" data-pp="metabolism" stroke-width="2" stroke-linecap="round"/>
+<text x="460" y="304" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">窄分布</text>
+<rect x="60" y="310" width="300" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="210" y="330" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">出生体重 · 卵数 · 酶最适温度</text>
+<text x="210" y="350" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">中间表型存活率最高</text>
+</g>
+</svg>

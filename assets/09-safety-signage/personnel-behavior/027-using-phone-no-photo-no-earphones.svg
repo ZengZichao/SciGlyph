@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-using-phone-no-photo-no-earphones" data-cat="pp" data-spec="128"
+     data-tags="phone,prohibited,earphones,not allowed,distraction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止玩手机戴耳机 / Using Phone No Photo No Earphones</title>
+  <desc id="d">禁止在实验操作时使用手机（非拍照记录）和戴耳机。</desc>
+  
+  <g id="figure"><circle cx="48" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 32 L36 74 L30 116 L42 116 L48 84 L54 116 L66 116 L60 74 L58 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 38 L68 42 L72 52 L68 54 L66 46 L58 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M68 48 L74 48 L74 58 L68 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M72 36 L90 36 L90 58 L72 58 Z" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+     <circle cx="81" cy="47" r="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M69 35 L93 59" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

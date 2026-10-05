@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-confocal d-confocal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-confocal">共聚焦显微镜 / Confocal laser scanning microscopy CLSM</title>
+  <desc id="d-confocal">共聚焦显微镜(CLSM)：激光→激发针孔→二色镜(45°)→物镜→样品；荧光沿原路返回，透过二色镜→检测针孔→PMT。检测侧针孔排除焦外光→光学切片→z-stack三维重建。关键词: confocal, CLSM, pinhole, detection pinhole, dichroic, optical sectioning, z-stack, laser scanning</desc>
+  <defs>
+    <marker id="pp06__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+  </defs>
+  <g id="layer-body-confocal" data-name="body">
+    <!-- Laser -->
+    <rect x="5" y="15" width="15" height="8" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="12" y="21" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">laser</text>
+    <!-- Excitation pinhole -->
+    <rect x="25" y="17" width="3" height="4" fill="#1B2733" data-pp="ink"/>
+    <circle cx="26" cy="19" r="0.5" fill="#FFFFFF" data-pp="white"/>
+    <!-- Dichroic mirror at 45 degrees (excitation reflects down, emission transmits up) -->
+    <line x1="45.5" y1="12" x2="59.5" y2="26" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <!-- Objective -->
+    <rect x="45" y="30" width="15" height="8" rx="2" ry="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <!-- Sample (z-stack) -->
+    <rect x="35" y="45" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="35" y="50" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="35" y="55" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Focal plane highlight -->
+    <line x1="35" y1="51" x2="70" y2="51" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-dasharray="2,1"/>
+    <!-- Detection pinhole + PMT (top) -->
+    <rect x="51" y="9" width="3" height="4" fill="#1B2733" data-pp="ink"/>
+    <rect x="46" y="1" width="12" height="6" rx="1" ry="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="52.0" y="6.1" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PMT</text>
+    <!-- Excitation beam: laser -> pinhole -> dichroic -> down to objective -->
+    <line x1="20" y1="19" x2="25" y2="19" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2"/>
+    <line x1="28" y1="19" x2="51" y2="19" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
+    <line x1="52.5" y1="21" x2="52.5" y2="28" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
+    <!-- Emission beam: sample -> up through dichroic -> detection pinhole -->
+    <line x1="52.5" y1="44" x2="52.5" y2="14" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-dasharray="2,1.5" marker-end="url(#pp06__ar)"/>
+  </g>
+  <g id="layer-annotation-confocal" data-name="annotation">
+    <text x="26" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">pinhole</text>
+    <line x1="64.0" y1="9.9" x2="47.42" y2="10.89" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="13.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">det. pinhole</text>
+    <line x1="64.0" y1="19.9" x2="47.42" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="22.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dichroic 45°</text>
+    <text x="50" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">optical sectioning</text>
+    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">(z-stack)</text>
+  </g>
+</svg>

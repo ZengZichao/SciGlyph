@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-heating-test-tube-angle" data-cat="pp" data-spec="128"
+     data-tags="heating,test tube,angle,flame,correct,45 degree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试管加热45度 / Heating Test Tube Angle</title>
+  <desc id="d">试管加热正确姿势：45°角，管口不对人，火焰加热。</desc>
+  
+  <g id="figure"><circle cx="40" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M30 28 L28 70 L22 116 L34 116 L40 80 L46 116 L58 116 L52 70 L50 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M50 34 L64 38 L72 46 L68 48 L62 42 L50 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M68 42 L74 42 L74 52 L68 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M72 40 L104 64 L102 68 L70 44 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M90 56 L102 64 L100 68 L88 60 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M100 72 L104 80 L108 72 L104 84 L100 72" fill="#F5A623" stroke="none" data-ls="warn"/>
+     <path d="M102 76 L104 82 L106 76" fill="#E02020" stroke="none" data-ls="danger"/>
+     <path d="M74 36 L78 32" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

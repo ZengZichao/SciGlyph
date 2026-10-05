@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-70_grid_concentric d-70_grid_concentric" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-70_grid_concentric">同心圆网格 / Concentric circles</title>
+  <desc id="d-70_grid_concentric">同心圆网格底纹。骨架，配合环形图使用。关键词: grid, concentric, circles</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="8" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.4" stroke-linecap="round"/>
+    <circle cx="50" cy="45" r="16" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.4" stroke-linecap="round"/>
+    <circle cx="50" cy="45" r="24" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.4" stroke-linecap="round"/>
+    <circle cx="50" cy="45" r="32" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.4" stroke-linecap="round"/>
+    <line x1="50" y1="10" x2="50" y2="80" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round"/>
+    <line x1="15" y1="45" x2="85" y2="45" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Concentric circles</text>
+  </g>
+</svg>

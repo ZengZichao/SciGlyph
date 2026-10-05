@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-face-shield-full" data-cat="sf" data-spec="128"
+     data-tags="face shield,full face,headband,transparent,protection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">全脸面屏 / Face Shield Full</title>
+  <desc id="d">全脸防护面屏，透明面罩配头箍固定带。</desc>
+  <g id="body"><path d="M28 36 Q28 18 64 16 Q100 18 100 36 L100 80 Q100 100 64 104 Q28 100 28 80 Z" fill="#FFFFFF" opacity="0.5" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M30 20 Q30 12 64 10 Q98 12 98 20 L98 28 L30 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M36 20 L92 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M34 24 L94 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 40 Q64 36 88 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 60 Q64 56 92 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

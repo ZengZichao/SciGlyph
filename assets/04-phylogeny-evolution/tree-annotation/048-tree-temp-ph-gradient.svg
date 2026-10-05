@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-48 d-48" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-48">树+温度pH梯度 / Tree+Temp/pH Gradient</title>
+  <desc id="d-48">装饰零件，贴到树上用。树+温度/pH/盐度梯度条。 关键词: tree decoration, temperature pH gradient, salinity gradient, environmental covariate</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="tree_temp_ph_gradient">
+    <rect x="100" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.20" data-pp="metabolism"/>
+    <rect x="120" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.28" data-pp="metabolism"/>
+    <rect x="140" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.36" data-pp="metabolism"/>
+    <rect x="160" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.44" data-pp="metabolism"/>
+    <rect x="180" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.52" data-pp="metabolism"/>
+    <rect x="200" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.60" data-pp="metabolism"/>
+    <rect x="220" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.68" data-pp="metabolism"/>
+    <rect x="240" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.76" data-pp="metabolism"/>
+    <rect x="260" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.84" data-pp="metabolism"/>
+    <rect x="280" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.92" data-pp="metabolism"/>
+  </g>
+  <g data-name="annotation">
+    <line x1="100" y1="230" x2="300" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="100" y1="170" x2="100" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="100" y1="240" x2="300" y2="240" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="100" y="260" width="100" height="8" fill="#00857A" fill-opacity="0.2" stroke="none" data-pp="metabolism"/>
+  </g>
+</svg>

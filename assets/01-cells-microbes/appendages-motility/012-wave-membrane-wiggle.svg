@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-wave_membrane_wiggle d-wave_membrane_wiggle" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-wave_membrane_wiggle">波动膜运动 / Wave Membrane Wiggle</title>
+  <desc id="d-wave_membrane_wiggle">Cell body with undulating membrane producing wave-like motility. 关键词: wave membrane, wiggle, undulation, motility</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M10.0,40.0 L12.1,42.5 L14.1,44.8 L16.2,46.6 L18.2,47.7 L20.3,48.0 L22.3,47.5 L24.4,46.2 L26.4,44.3 L28.5,41.9 L30.5,39.4 L32.6,36.9 L34.6,34.7 L36.7,33.1 L38.7,32.2 L40.8,32.1 L42.8,32.8 L44.9,34.2 L46.9,36.3 L49.0,38.7 L51.0,41.3 L53.1,43.7 L55.1,45.8 L57.2,47.2 L59.2,47.9 L61.3,47.8 L63.3,46.9 L65.4,45.3 L67.4,43.1 L69.5,40.6 L71.5,38.1 L73.6,35.7 L75.6,33.8 L77.7,32.5 L79.7,32.0 L81.8,32.3 L83.8,33.4 L85.9,35.2 L87.9,37.5 L90.0,40.0 L90.0,60.0 L87.9,57.5 L85.9,55.2 L83.8,53.4 L81.8,52.3 L79.7,52.0 L77.7,52.5 L75.6,53.8 L73.6,55.7 L71.5,58.1 L69.5,60.6 L67.4,63.1 L65.4,65.3 L63.3,66.9 L61.3,67.8 L59.2,67.9 L57.2,67.2 L55.1,65.8 L53.1,63.7 L51.0,61.3 L49.0,58.7 L46.9,56.3 L44.9,54.2 L42.8,52.8 L40.8,52.1 L38.7,52.2 L36.7,53.1 L34.6,54.7 L32.6,56.9 L30.5,59.4 L28.5,61.9 L26.4,64.3 L24.4,66.2 L22.3,67.5 L20.3,68.0 L18.2,67.7 L16.2,66.6 L14.1,64.8 L12.1,62.5 L10.0,60.0 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="none"/>
+    <path d="M10.0,40.0 L12.1,42.5 L14.1,44.8 L16.2,46.6 L18.2,47.7 L20.3,48.0 L22.3,47.5 L24.4,46.2 L26.4,44.3 L28.5,41.9 L30.5,39.4 L32.6,36.9 L34.6,34.7 L36.7,33.1 L38.7,32.2 L40.8,32.1 L42.8,32.8 L44.9,34.2 L46.9,36.3 L49.0,38.7 L51.0,41.3 L53.1,43.7 L55.1,45.8 L57.2,47.2 L59.2,47.9 L61.3,47.8 L63.3,46.9 L65.4,45.3 L67.4,43.1 L69.5,40.6 L71.5,38.1 L73.6,35.7 L75.6,33.8 L77.7,32.5 L79.7,32.0 L81.8,32.3 L83.8,33.4 L85.9,35.2 L87.9,37.5 L90.0,40.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M10.0,60.0 L12.1,62.5 L14.1,64.8 L16.2,66.6 L18.2,67.7 L20.3,68.0 L22.3,67.5 L24.4,66.2 L26.4,64.3 L28.5,61.9 L30.5,59.4 L32.6,56.9 L34.6,54.7 L36.7,53.1 L38.7,52.2 L40.8,52.1 L42.8,52.8 L44.9,54.2 L46.9,56.3 L49.0,58.7 L51.0,61.3 L53.1,63.7 L55.1,65.8 L57.2,67.2 L59.2,67.9 L61.3,67.8 L63.3,66.9 L65.4,65.3 L67.4,63.1 L69.5,60.6 L71.5,58.1 L73.6,55.7 L75.6,53.8 L77.7,52.5 L79.7,52.0 L81.8,52.3 L83.8,53.4 L85.9,55.2 L87.9,57.5 L90.0,60.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M30,50 L40,50" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+    <path d="M38,47 L43,50 L38,53" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+
+  <path d="M14,50 Q50,42 86,50" fill="none" stroke="#2E86AB" stroke-width="6" data-pp="bacteria" stroke-linecap="round"/><path d="M14,50 Q50,42 86,50" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/><path d="M26,49 Q45,45 64,49" fill="none" stroke="#6C3FA0" stroke-width="1.2" data-pp="gene" stroke-linecap="round"/><circle cx="36" cy="48" r="1.2" fill="#6C3FA0" data-pp="gene"/><circle cx="56" cy="48" r="1.2" fill="#6C3FA0" data-pp="gene"/></g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="30" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">wave</text>
+    <text x="55" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">undulation</text>
+
+  </g>
+</svg>

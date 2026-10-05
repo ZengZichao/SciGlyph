@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="三维坐标轴" data-name-en="Axes 3D" data-cat="geometry-math" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">三维坐标轴 / axes_3d</title>
+  <desc id="d-47">xyz三轴带箭头。关键词: axes,3d,coordinate</desc>
+  <g id="g-47-三维坐标轴">
+    <line fill="none" x1="20" y1="90" x2="100" y2="90" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="97,87 97,93 104,90" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="20" y1="90" x2="20" y2="15" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="17,18 23,18 20,11" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="20" y1="90" x2="53.08" y2="56.92" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="58,52 55.58,59.42 50.58,54.42" fill="#1f2937" stroke="none"/>
+    <text x="106" y="93" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">x</text>
+    <text x="24" y="14" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">y</text>
+    <text x="60" y="54" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">z</text>
+    <text x="16" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">O</text>
+  </g>
+</svg>

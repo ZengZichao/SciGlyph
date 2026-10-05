@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-weighing-boats" data-cat="st" data-spec="128"
+     data-tags="weighing,boat,plastic,solid,weigh" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">称量船 / Weighing Boats</title>
+  <desc id="d">塑料称量船(称量纸船)，用于称量固体试剂。</desc>
+  <g id="body"><path d="M20 60 L30 80 L98 80 L108 60 L90 50 L38 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M30 80 L38 50 M98 80 L90 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M24 44 L34 64 L102 64 L112 44 L94 34 L42 34 Z" fill="#FFFFFF" opacity="0.4" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

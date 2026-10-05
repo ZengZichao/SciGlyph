@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_50um_cyanobacteria d-size_50um_cyanobacteria" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_50um_cyanobacteria">50µm丝状蓝细菌 / 50µm filamentous cyanobacteria</title>
+  <desc id="d-size_50um_cyanobacteria">尺度图标：50µm丝状蓝细菌，大小约50 µm。丝状蓝细菌(如Anabaena/Oscillatoria)藻丝长约50µm(宽3-10µm)。 Scale bar=50 µm。假设放大倍率: ×50 (1cm = 200µm)。关键词: size scale, 50 µm, scale bar</desc>
+  <g id="layer-body-size_50um_cyanobacteria" data-name="body">
+    <!-- Filamentous cyanobacteria bundle -->
+    <rect x="15" y="28" width="55" height="4" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="34" width="55" height="4" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="40" width="55" height="4" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="46" width="55" height="4" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="52" width="55" height="4" rx="2" ry="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Heterocyst -->
+    <circle cx="42" cy="36" r="4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="42" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~50µm filament</text>
+    <!-- Scale bar -->
+    <line x1="15" y1="82" x2="70" y2="82" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <line x1="70" y1="79" x2="70" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <text x="42" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50 µm</text>
+  </g>
+  <g id="layer-annotation-size_50um_cyanobacteria" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">50 µm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

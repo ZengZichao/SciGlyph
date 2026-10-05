@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>傅里叶红外光谱仪</title>
+  <rect x="2" y="10" width="20" height="10" rx="1"/>
+  <rect x="4" y="12" width="6" height="3" rx="0.5"/>
+  <line x1="5" y1="13.5" x2="9" y2="13.5" stroke-width="0.75"/>
+  <rect x="12" y="12" width="4" height="6" rx="0.5"/>
+  <line x1="13" y1="13" x2="15" y2="13" stroke-width="0.75"/>
+  <line x1="13" y1="15" x2="15" y2="15" stroke-width="0.75"/>
+  <rect x="18" y="12" width="2" height="6" rx="0.5"/>
+  <circle cx="19" cy="13" r="0.5"/>
+  <circle cx="19" cy="15" r="0.5"/>
+  <circle cx="19" cy="17" r="0.5"/>
+  <rect x="6" y="17" width="4" height="1" rx="0.5"/>
+  <line x1="4" y1="20" x2="4" y2="22" stroke-width="1"/>
+  <line x1="20" y1="20" x2="20" y2="22" stroke-width="1"/>
+  <rect x="8" y="6" width="8" height="4" rx="1"/>
+  <line x1="8" y1="8" x2="16" y2="8" stroke-width="0.75"/>
+</svg>

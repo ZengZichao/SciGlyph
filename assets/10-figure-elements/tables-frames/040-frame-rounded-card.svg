@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="圆角卡片框" data-name-en="frame-rounded-card" data-cat="tables-frames" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-40">圆角卡片框 / frame_rounded_card</title>
+  <desc id="d-40">圆角矩形卡片框。关键词: 圆角,卡片,矩形框</desc>
+  <g id="g-40-圆角卡片框">
+    <rect x="30" y="30" width="260" height="180" fill="#ffffff" stroke="#1f2937" stroke-width="2" rx="12"/>
+    <text x="160" y="130" font-size="14" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Card</text>
+  </g>
+</svg>

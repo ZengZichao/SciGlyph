@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-31_acetyl_coa_pathway d-31_acetyl_coa_pathway" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31_acetyl_coa_pathway">乙酰-CoA/WL途径 / Wood-Ljungdahl Pathway</title>
+  <desc id="d-31_acetyl_coa_pathway">乙酰-CoA/Wood-Ljungdahl途径。产甲烷与产乙酸共用。东部=甲基支路(CO₂→CH₃)，西部=羰基支路(CO₂→CO)，合并为乙酰-CoA。关键词: Wood-Ljungdahl, acetyl-CoA, CODH, ACS</desc>
+  <defs>
+    <marker id="pp31__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="15" cy="30" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="15" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CO₂</text>
+        <circle cx="15" cy="70" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="15" y="71.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CO₂</text>
+        <rect x="35" y="22" width="16" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="43.0" y="29.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">West</text>
+        <rect x="35" y="62" width="16" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="43.0" y="69.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">East</text>
+        <circle cx="75" cy="47" r="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="75" y="48.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AcCoA</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="23" y1="30" x2="35" y2="28" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp31__ar)"/>
+        <line x1="23" y1="70" x2="35" y2="68" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp31__ar)"/>
+        <line x1="51" y1="28" x2="65" y2="42" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp31__ar)"/>
+        <line x1="51" y1="68" x2="65" y2="52" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp31__ar)"/>
+    <text x="55" y="15" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CO branch</text>
+    <text x="55" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CH₃ branch</text>
+    <text x="75" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">CODH/ACS</text>
+  </g>
+</svg>

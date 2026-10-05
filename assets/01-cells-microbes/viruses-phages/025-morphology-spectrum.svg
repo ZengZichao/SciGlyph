@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-morphology_spectrum d-morphology_spectrum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-morphology_spectrum">病毒形态谱 / Virus morphology spectrum</title>
+  <desc id="d-morphology_spectrum">病毒四种基本形态：二十面体对称(icosahedral)、螺旋对称(helical/filament)、包膜多形性(enveloped pleomorphic)、复杂头尾复合体(complex head-tail)。关键词: virus morphology, icosahedral, helical, enveloped, complex</desc>
+  <g id="layer-body-morphology_spectrum" data-name="body">
+    <!-- Icosahedral -->
+    <polygon points="15,25 22,20 22,30 15,35 8,30 8,20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <text x="15" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">ico</text>
+    <!-- Helical filament -->
+    <rect x="32" y="22" width="18" height="10" rx="5" ry="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="41.0" y="42.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">helical</text>
+    <!-- Enveloped pleomorphic -->
+    <ellipse cx="68" cy="27" rx="10" ry="8" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="1"/>
+    <circle cx="65" cy="24" r="1" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="71" cy="22" r="1" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="68" cy="30" r="1" fill="#C42D2D" data-pp="alert"/>
+    <line x1="68.0" y1="39.9" x2="76.0" y2="39.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="76.0" y="42.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">enveloped</text>
+    <!-- Complex head-tail -->
+    <polygon points="88,18 94,22 94,28 88,32 82,28 82,22" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <line x1="88" y1="32" x2="88" y2="40" stroke="#1B2733" stroke-width="1"/>
+    <text x="90.0" y="49.42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">h-t</text>
+  </g>
+  <g id="layer-annotation-morphology_spectrum" data-name="annotation">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="35.22" y="60.0">Virus morphology</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="37.39" y="68.26">spectrum</text>
+    <line x1="10" y1="55" x2="90" y2="55" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,2"/>
+  </g>
+</svg>

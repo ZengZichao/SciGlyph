@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-water-bath" data-cat="hc" data-spec="128"
+     data-tags="water-bath,constant-temperature,heating,incubation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">恒温水浴锅 / Constant Temperature Water Bath</title>
+  <desc id="d">恒温水浴锅：水+加热管+浮子盖+温度显示</desc>
+  <g id="body"><path d="M20 50 L108 50 L108 108 Q108 116 100 116 L28 116 Q20 116 20 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M24 46 L104 46 L104 50 L24 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M22 54 L106 54 L106 106 Q106 114 100 114 L28 114 Q22 114 22 106 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M30 70 L34 70 L34 100 L30 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M50 70 L54 70 L54 100 L50 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M74 70 L78 70 L78 100 L74 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M94 70 L98 70 L98 100 L94 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <rect x="40" y="50" width="48" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="42" y="52" width="44" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="58" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">37.0°C</text></g>
+</svg>

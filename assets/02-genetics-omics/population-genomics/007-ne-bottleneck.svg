@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-population-genomics" role="img" aria-labelledby="t-ne_bottleneck d-ne_bottleneck" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-ne_bottleneck">有效群体大小瓶颈与恢复 / Ne bottleneck and recovery</title>
+<desc id="d-ne_bottleneck">Ne随时间阶跃下降加recovery双曲线；叠加杂合度(Het)下冲：瓶颈后仅部分恢复，终值低于瓶颈前水平（杂合度损失不可在短期内完全重建）。schematic, not to scale. 关键词: Ne, bottleneck, heterozygosity, recovery</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Ne Bottleneck &amp; Recovery</text>
+<line x1="80.0" y1="330.0" x2="560.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="320.0" y="355.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Time (generations)</text>
+<text x="50.0" y="190.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ne</text>
+<polyline points="80.0,122.0 86.1,122.0 92.2,122.0 98.2,122.0 104.3,122.0 110.4,122.0 116.5,122.0 122.5,122.0 128.6,122.0 134.7,122.0 140.8,122.0 146.8,122.0 152.9,122.0 159.0,122.0 165.1,122.0 171.1,122.0 177.2,124.9 183.3,139.1 189.4,153.4 195.4,167.6 201.5,181.9 207.6,196.2 213.7,210.4 219.7,224.7 225.8,238.9 231.9,253.2 238.0,267.5 244.1,281.7 250.1,291.0 256.2,291.0 262.3,291.0 268.4,291.0 274.4,291.0 280.5,291.0 286.6,291.0 292.7,291.0 298.7,291.0 304.8,291.0 310.9,291.0 317.0,291.0 323.0,289.7 329.1,287.1 335.2,284.4 341.3,281.8 347.3,279.2 353.4,276.5 359.5,273.9 365.6,271.3 371.6,268.6 377.7,266.0 383.8,263.4 389.9,260.7 395.9,258.1 402.0,255.5 408.1,252.8 414.2,250.2 420.3,247.6 426.3,244.9 432.4,242.3 438.5,239.7 444.6,237.0 450.6,234.4 456.7,231.8 462.8,229.1 468.9,226.5 474.9,223.9 481.0,221.2 487.1,218.6 493.2,216.0 499.2,213.3 505.3,210.7 511.4,208.1 517.5,205.4 523.5,202.8 529.6,200.2 535.7,197.5 541.8,194.9 547.8,192.3 553.9,189.6 560.0,187.0" fill="none" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Ne data points -->
+<circle cx="80.0" cy="122.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="140.8" cy="122.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="201.5" cy="181.9" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="250.1" cy="291.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="310.9" cy="291.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="371.6" cy="268.6" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="432.4" cy="242.3" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="493.2" cy="216.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<circle cx="560.0" cy="187.0" r="3.0" fill="#C42D2D" data-pp="alert"/>
+<polyline points="80.0,109.0 86.1,109.0 92.2,109.2 98.3,109.6 104.4,110.0 110.5,110.7 116.6,111.5 122.7,112.6 128.8,113.8 134.9,115.2 141.0,116.8 147.1,118.6 153.2,120.7 159.3,122.9 165.4,125.4 171.5,128.1 177.6,131.0 183.7,134.1 189.8,137.5 195.9,141.1 202.0,144.9 208.1,149.0 214.2,153.3 220.3,157.9 226.4,162.7 232.5,167.7 238.6,173.0 244.7,178.6 250.8,184.3 256.9,190.4 263.0,196.7 269.1,203.3 275.2,210.1 281.3,217.2 287.4,224.5 293.5,232.1 298.7,238.8 304.8,224.2 310.9,211.5 317.0,200.4 323.1,190.8 329.2,182.3 335.3,174.9 341.4,168.4 347.5,162.8 353.6,157.9 359.7,153.6 365.8,149.8 371.9,146.6 378.0,143.7 384.1,141.2 390.2,139.0 396.3,137.1 402.4,135.5 408.5,134.0 414.6,132.7 420.7,131.6 426.8,130.7 432.9,129.8 439.0,129.1 445.1,128.4 451.2,127.9 457.3,127.4 463.4,127.0 469.5,126.6 475.6,126.3 481.7,126.0 487.8,125.7 493.9,125.5 500.0,125.3 506.1,125.1 512.2,125.0 518.3,124.9 524.4,124.8 530.5,124.7 536.6,124.6 542.7,124.5 548.8,124.4 554.9,124.4 560.0,124.3" fill="none" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-dasharray="5,3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="248.0" y1="60.0" x2="248.0" y2="320.0" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-dasharray="4,3" stroke-linecap="round"/>
+<text x="257.6" y="70.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Bottle</text>
+<line x1="400.0" y1="60.0" x2="430.0" y2="60.0" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round"/>
+<text x="435.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Ne</text>
+<line x1="400.0" y1="80.0" x2="430.0" y2="80.0" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-dasharray="5,3" stroke-linecap="round"/>
+<text x="435.0" y="84.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Het</text>
+<text x="300.0" y="375.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">schematic, not to scale</text>
+</g>
+</svg>

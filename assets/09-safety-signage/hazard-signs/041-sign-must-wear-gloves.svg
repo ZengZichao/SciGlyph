@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-wear-gloves" data-cat="hz" data-spec="128"
+     data-tags="mandatory,gloves,PPE,hand,必须,手套" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须戴手套标志 / Must Wear Gloves</title>
+  <desc id="d">指令标志：蓝底白色手套。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <path d="M50 90 L50 56 C50 52 52 50 54 50 C56 50 58 52 58 56 L58 46 C58 42 60 40 62 40 C64 40 66 42 66 46 L66 44 C66 40 68 38 70 38 C72 38 74 40 74 44 L74 52 C74 48 76 46 78 46 C80 46 82 48 82 52 L82 72 C82 82 74 90 64 90 L54 90 C52 90 50 88 50 86Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" data-ls="fill"/></g>
+  <g id="detail"></g>
+</svg>

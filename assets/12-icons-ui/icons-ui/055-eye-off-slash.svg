@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="隐藏眼睛" data-name-en="eye_off_slash" data-cat="basic-icons-ui" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55">隐藏眼睛 / eye_off_slash</title>
+  <desc id="d-55">隐藏与不可见图标。关键词: 眼睛,隐藏,eye,hidden</desc>
+  <g id="g-55-隐藏眼睛">
+    <path d="M4 24 Q24 8 44 24 Q24 40 4 24 Z" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="24" r="6" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8" y1="40" x2="40" y2="8" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

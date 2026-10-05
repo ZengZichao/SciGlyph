@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-24">演化事件旗标: 基因丢失 / Evolutionary Event: loss</title>
+<desc id="d-24">树上一枝虚线终止加✕表示基因丢失, 另一枝保留 关键词: loss, gene, event, tree</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="60.0" y1="200.0" x2="150.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="200.0" x2="150.0" y2="120.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="120.0" x2="300.0" y2="120.0" stroke="#00857A" stroke-width="2" data-pp="metabolism" stroke-linecap="round"/>
+<circle cx="300.0" cy="120.0" r="4.0" fill="#00857A" data-pp="metabolism"/>
+<rect x="200.0" y="112.0" width="40.0" height="16.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="1"/>
+<text x="220.0" y="105.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">Retained</text>
+<line x1="150.0" y1="200.0" x2="150.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="150.0" y1="280.0" x2="300.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-dasharray="5,4" stroke-linecap="round"/>
+<circle cx="300.0" cy="280.0" r="4.0" fill="#93A0AC" data-pp="muted"/>
+<line x1="210.0" y1="270.0" x2="230.0" y2="290.0" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="210.0" y1="290.0" x2="230.0" y2="270.0" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round"/>
+<text x="250.0" y="275.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Lost</text>
+<rect x="160.0" y="272.0" width="40.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" stroke-width="1" rx="3,2"/>
+<circle cx="150.0" cy="200.0" r="6.0" fill="#1B2733" data-pp="ink"/>
+<text x="50.0" y="50.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Gene Loss Event</text>
+<line x1="50.0" y1="340.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-dasharray="5,4" stroke-linecap="round"/>
+<text x="90.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Lost branch</text>
+<line x1="200.0" y1="340.0" x2="230.0" y2="340.0" stroke="#00857A" stroke-width="2" data-pp="metabolism" stroke-linecap="round"/>
+<text x="240.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Retained</text>
+<line x1="50.0" y1="360.0" x2="65.0" y2="375.0" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round"/>
+<line x1="50.0" y1="375.0" x2="65.0" y2="360.0" stroke="#C42D2D" stroke-width="2.5" data-pp="alert" stroke-linecap="round"/>
+<text x="75.0" y="372.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Loss marker</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Dashed + X = gene loss</text>
+</g>
+</svg>

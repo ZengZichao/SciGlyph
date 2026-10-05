@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-dpann_nanoarchaeota d-dpann_nanoarchaeota" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-dpann_nanoarchaeota">DPANN纳米古菌门 / DPANN Nanoarchaeota</title>
+  <desc id="d-dpann_nanoarchaeota">Ultra-small archaeon attached to larger host cell. DPANN superphylum with reduced genome. 关键词: DPANN, Nanoarchaeota, symbiont, ultra-small, host</desc>
+  <g id="layer-body" data-name="body">
+
+    <ellipse cx="55" cy="50" rx="28" ry="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="42" y="54" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">host</text>
+
+    <circle cx="22" cy="38" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="38" r="2.5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="30" cy="42" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="10" y="72" width="18" height="8" rx="2" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="11" y="79" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">DPANN</text>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="22" y1="31" x2="22" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="12" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">symbiont</text>
+
+    <line x1="30" y1="42" x2="40" y2="60" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="32" y="66" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">attach</text>
+    <line x1="55.0" y1="85.9" x2="38.74" y2="85.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="38.74" y="88.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">reduced genome</text>
+
+  </g>
+</svg>

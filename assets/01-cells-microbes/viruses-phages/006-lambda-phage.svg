@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-lambda_phage d-lambda_phage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lambda_phage">λ噬菌体(温和) / Lambda phage temperate</title>
+  <desc id="d-lambda_phage">λ噬菌体，温和噬菌体代表，长尾形态群(siphovirus)。可进入溶原态(线状DNA注入后环化并integration到宿主染色体attB位点)，不裂解宿主。头部含线状dsDNA(cos末端)示意。旧称：Siphoviridae 长尾噬菌体科（已废止并入 Caudoviricetes）。关键词: lambda, temperate, lysogeny, siphovirus</desc>
+  <g id="layer-body-lambda_phage" data-name="body">
+    <polygon points="50.0,7.0 61.3,13.5 61.3,26.5 50.0,33.0 38.7,26.5 38.7,13.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M44,16 Q47,13 50,16 Q53,19 56,16" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <ellipse cx="50" cy="24" rx="5" ry="3" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="0.8" stroke-dasharray="2,1"/>
+    <rect x="46" y="33" width="8" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" rx="1"/>
+    <path d="M50,36 Q47,45 50,50 Q53,55 50,60 Q47,65 50,70 Q53,75 50,80" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="3" stroke-linecap="round"/>
+    <path d="M50,36 Q47,45 50,50 Q53,55 50,60 Q47,65 50,70 Q53,75 50,80" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M44,80 Q38,86 30,93" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M47,80 Q43,87 38,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M50,80 Q50,88 50,95" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M53,80 Q57,87 62,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M56,80 Q62,86 70,93" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <polygon points="44,80 56,80 54,84 46,84" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-lambda_phage" data-name="annotation">
+    <text x="68" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">lambda</text>
+    <text x="58" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">temperate</text>
+  </g>
+</svg>

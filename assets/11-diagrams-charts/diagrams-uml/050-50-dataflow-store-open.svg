@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="数据存储开口框" data-name-en="Dataflow Store Open" data-cat="diagrams-sw-uml" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50">数据存储开口框 / dataflow_store_open</title>
+  <desc id="d-50">数据流图开口矩形存储。关键词: store,open,dfd</desc>
+  <g id="g-50-数据存储开口框">
+    <line fill="none" x1="20" y1="25" x2="100" y2="25" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="20" y1="55" x2="100" y2="55" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Store</text>
+  </g>
+</svg>

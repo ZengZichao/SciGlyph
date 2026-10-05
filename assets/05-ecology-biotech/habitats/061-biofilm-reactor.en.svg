@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-biofilm_reactor d-biofilm_reactor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-biofilm_reactor">Biofilm reactor</title>
+  <desc id="d-biofilm_reactor">Biofilm reactor with packing media, attached biofilm and flow arrows 关键词: biofilm, reactor, packing, flow</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="10" width="70" height="70" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="25" y="25" width="15" height="15" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted"/>
+    <rect x="45" y="25" width="15" height="15" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted"/>
+    <rect x="25" y="45" width="15" height="15" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted"/>
+    <rect x="45" y="45" width="15" height="15" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="0.8" data-pp="muted"/>
+    <path d="M25,25 Q22,22 25,20 Q28,22 30,20 Q33,22 35,20 Q38,22 40,25" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M45,45 Q42,42 45,40 Q48,42 50,40 Q53,42 55,40 Q58,42 60,45" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <line x1="10" y1="40" x2="15" y2="40" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M13,38 L16,40 L13,42" fill="#2E86AB" stroke="#2E86AB" stroke-width="1" stroke-linecap="round" data-pp="bacteria"/>
+    <line x1="85" y1="40" x2="90" y2="40" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M88,38 L91,40 L88,42" fill="#2E86AB" stroke="#2E86AB" stroke-width="1" stroke-linecap="round" data-pp="bacteria"/>
+    <circle cx="30" cy="30" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <circle cx="50" cy="50" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Biofilm reactor</text>
+  </g>
+</svg>

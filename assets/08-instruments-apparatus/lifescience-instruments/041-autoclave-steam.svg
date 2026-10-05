@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-autoclave-steam" data-cat="ls" data-spec="128"
+     data-tags="autoclave,steam,sterilizer,pressure,sterilization,chamber" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">高压蒸汽灭菌锅 / Steam Autoclave</title>
+  <desc id="d">高压蒸汽灭菌器：密封腔体、门盖、蒸汽发生器、压力表。</desc>
+  <g id="body">
+<rect x="20" y="16" width="88" height="96" rx="10" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="20" y="16" width="88" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<circle cx="64" cy="52" r="28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="64" cy="52" r="24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="64" cy="52" r="8" fill="#33414F" stroke="none" data-ls="dark"/>
+<line x1="64" y1="44" x2="64" y2="60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+<line x1="56" y1="52" x2="72" y2="52" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+<circle cx="64" cy="52" r="18" fill="#33414F" opacity="0.1" stroke="none" data-ls="dark"/>
+<path d="M52 44 Q56 40 60 44 Q64 48 68 44 Q72 40 76 44" fill="#BFE0FF" opacity="0.3" stroke="none" stroke-width="1" data-ls="liquid"/>
+<path d="M50 52 Q54 48 58 52 Q62 56 66 52 Q70 48 74 52" fill="#BFE0FF" opacity="0.3" stroke="none" stroke-width="1" data-ls="liquid"/>
+<circle cx="36" cy="88" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<line x1="36" y1="88" x2="40" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="36" y="100" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">PSI</text>
+    <rect x="56" y="84" width="28" height="12" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="70" y="92" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">121°C</text>
+<rect x="96" y="30" width="6" height="10" rx="2" fill="#E02020" opacity="0.5" stroke="none" data-ls="danger"/>
+    <text x="99" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Safety</text>
+<path d="M99 26 Q101 22 99 18" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M103 26 Q105 20 103 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="26" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="106" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

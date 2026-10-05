@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-fire-equipment-red" data-cat="hz" data-spec="128"
+     data-tags="fire,equipment,extinguisher,消防,灭火器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">消防设施标志 / Fire Equipment</title>
+  <desc id="d">提示标志：红底白色灭火器。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="8" fill="#E02020" stroke="#E02020" stroke-width="2" data-ls="danger"/>
+    <rect x="52" y="36" width="24" height="56" rx="6" fill="#FFFFFF" data-ls="fill"/>
+    <rect x="58" y="28" width="12" height="10" rx="2" fill="#FFFFFF" data-ls="fill"/>
+    <path d="M70 34 L80 28 L82 32" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2.5" data-ls="fill"/>
+    <rect x="56" y="52" width="16" height="12" rx="2" fill="#E02020" data-ls="danger"/></g>
+  <g id="detail"></g>
+</svg>

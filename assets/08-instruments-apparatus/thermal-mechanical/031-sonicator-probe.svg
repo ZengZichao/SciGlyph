@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>超声破碎仪</title>
+  <rect x="3" y="12" width="10" height="8" rx="1" />
+  <rect x="4" y="13" width="5" height="3" rx="0.5" stroke-width="0.75" />
+  <circle cx="11" cy="15" r="0.75" stroke-width="0.75" />
+  <line x1="13" y1="14" x2="17" y2="10" stroke-width="1.25" />
+  <line x1="17" y1="10" x2="17" y2="5" stroke-width="1" />
+  <line x1="16" y1="5" x2="18" y2="5" stroke-width="0.75" />
+  <path d="M15 5 V10 Q15 11 16 11 H18 Q19 11 19 10 V5" stroke-width="0.75" />
+  <line x1="17" y1="11" x2="17" y2="14" stroke-width="0.75" />
+  <path d="M13 16 Q15 18 13 20" stroke-width="0.75" />
+</svg>

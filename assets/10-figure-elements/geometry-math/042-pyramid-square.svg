@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="四棱锥" data-name-en="Square Pyramid" data-cat="geometry-math" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-42">四棱锥 / pyramid_square</title>
+  <desc id="d-42">底面为正方形的棱锥。关键词: pyramid,square,solid</desc>
+  <g id="g-42-四棱锥">
+    <polygon points="20,90 80,90 95,75 35,75" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <line fill="none" x1="20" y1="90" x2="57" y2="20" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="80" y1="90" x2="57" y2="20" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="95" y1="75" x2="57" y2="20" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="35" y1="75" x2="57" y2="20" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <text x="15" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="84" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="100" y="72" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="57" y="15" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">S</text>
+  </g>
+</svg>

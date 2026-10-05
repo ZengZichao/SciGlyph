@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-writing-in-lab-coat-pocket" data-cat="pp" data-spec="128"
+     data-tags="writing,lab notebook,recording,pocket,allowed" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">记录于实验手册 / Writing in Lab Coat Pocket</title>
+  <desc id="d">允许：在实验手册上记录数据，笔插白大褂口袋。</desc>
+  
+  <g id="figure"><circle cx="48" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 28 L36 100 L60 100 L58 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M36 100 L30 116 L42 116 L48 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 100 L54 116 L66 116 L62 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 34 L70 40 L74 52 L70 54 L68 44 L58 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M38 34 L28 42 L26 54 L32 54 L32 44 L38 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M70 48 L76 48 L76 58 L70 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M24 48 L32 48 L32 58 L24 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M72 40 L96 40 L94 64 L74 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M76 46 L92 46 M76 50 L92 50 M76 54 L90 54 M76 58 L88 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M44 68 L46 68 L46 80 L44 80 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

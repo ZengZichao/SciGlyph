@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-biohazard-bin-foot-pedal" data-cat="sf" data-spec="128"
+     data-tags="biohazard bin,foot pedal,waste,pedal,lid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">脚踏式医废桶 / Biohazard Bin Foot Pedal</title>
+  <desc id="d">脚踏式生物危害废物桶，带盖和脚踏板。</desc>
+  <g id="body"><path d="M28 32 L28 100 Q28 108 36 108 L92 108 Q100 108 100 100 L100 32 Z" fill="#F5A623" opacity="0.3" stroke="none" data-ls="warn"/>
+     <path d="M28 32 L28 100 Q28 108 36 108 L92 108 Q100 108 100 100 L100 32 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M24 32 L104 32 L104 24 Q104 16 96 16 L32 16 Q24 16 24 24 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M44 108 L44 116 L84 116 L84 108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><rect x="50" y="116" width="28" height="6" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path cx="64" cy="68" d="M54 58 L74 58 L74 78 L54 78 Z" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="60" cy="64" r="4" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="68" cy="64" r="4" fill="#E02020" stroke="none" data-ls="danger"/>
+     <circle cx="64" cy="72" r="4" fill="#E02020" stroke="none" data-ls="danger"/></g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-dnds_along_branches d-dnds_along_branches" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-dnds_along_branches">dN/dS 沿分支 / dN/dS ratios along branches</title>
+  <desc id="d-dnds_along_branches">系统发育树各分支的dN/dS值。schematic, not to scale. 关键词: dN/dS, omega, selection</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="tree">
+  <line x1="100" y1="200" x2="200" y2="120" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="100" y1="200" x2="200" y2="280" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="120" x2="350" y2="80" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="120" x2="350" y2="160" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="280" x2="350" y2="250" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="280" x2="350" y2="330" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <circle cx="100" cy="200" r="6" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="350" cy="80" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="350" cy="160" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="350" cy="250" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="350" cy="330" r="5" fill="#2E86AB" data-pp="bacteria"/>
+</g>
+<g data-name="dnds-labels">
+  <text x="150" y="150" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">ω=0.1</text>
+  <text x="150" y="250" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">ω=0.2</text>
+  <text x="280" y="90" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" text-anchor="middle" data-pp="mge">ω=1.0</text>
+  <text x="280" y="150" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">ω=2.5</text>
+  <text x="280" y="260" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">ω=0.3</text>
+  <text x="280" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">ω=0.1</text>
+</g>
+<g data-name="legend">
+  <text x="480" y="80" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="start" data-pp="metabolism">w &lt; 1: purifying</text>
+  <text x="480" y="100" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" text-anchor="start" data-pp="mge">w = 1: neutral</text>
+  <text x="480" y="120" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="start" data-pp="alert">w &gt; 1: positive</text>
+  <rect x="460" y="140" width="15" height="15" fill="#00857A" data-pp="metabolism"/>
+  <rect x="460" y="160" width="15" height="15" fill="#E8871E" data-pp="mge"/>
+  <rect x="460" y="180" width="15" height="15" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="467" cy="207" r="6" fill="#6C3FA0" data-pp="gene"/>
+  <text x="488" y="211" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">root (ancestral)</text>
+  <text x="460" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink" font-weight="bold">Branch colour = &#969; class</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">dN/dS (ω) Along Phylogenetic Branches (schematic)</text>
+</svg>

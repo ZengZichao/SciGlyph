@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-melting-point-apparatus" data-cat="an" data-spec="128" data-tags="melting,point,apparatus,capillary,heating,block,temperature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">熔点仪 / Melting Point Apparatus</title>
+  <desc id="d">熔点测定仪：加热块、毛细管样品、放大镜/CCD相机。</desc>
+  <g id="body">
+    <rect x="22" y="18" width="84" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="22" y="18" width="84" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="34" y="30" width="60" height="30" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="36" y="32" width="56" height="26" rx="3" fill="#F5A623" opacity="0.12" stroke="none" data-ls="warn" />
+<rect x="44" y="24" width="4" height="20" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="54" y="24" width="4" height="20" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="64" y="24" width="4" height="20" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="74" y="24" width="4" height="20" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="45" y="34" width="2" height="6" rx="0.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<rect x="55" y="34" width="2" height="6" rx="0.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<rect x="65" y="34" width="2" height="6" rx="0.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<rect x="75" y="34" width="2" height="6" rx="0.5" fill="#7FC26B" stroke="none" data-ls="liquid-2" />
+<rect x="40" y="64" width="48" height="20" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="44" y="67" width="40" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="64" y="77" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">CCD View</text>
+    <rect x="26" y="88" width="30" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="41" y="96" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">132°C</text>
+    <circle cx="64" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="74" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="84" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="64.0" y="100.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Start</text>
+    <line x1="74.0" y1="97.9" x2="84.0" y2="97.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="84.0" y="100.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Stop</text>
+    <line x1="84.0" y1="97.9" x2="87.47" y2="104.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="88.88" y="107.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Set</text>
+    <rect x="28" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="90" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

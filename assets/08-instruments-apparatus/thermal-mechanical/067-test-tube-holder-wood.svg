@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-test-tube-holder-wood" data-cat="hc" data-spec="128"
+     data-tags="test-tube,holder,wood,clamp" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">木质试管夹 / Wooden Test Tube Holder</title>
+  <desc id="d">试管夹，木质材料</desc>
+  <g id="body"><path d="M30 30 L44 30 L44 100 L30 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M84 30 L98 30 L98 100 L84 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 50 L84 50 L84 58 L44 58 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 30 L84 30 L84 38 L44 38 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M34 40 L40 40 M34 50 L40 50 M34 60 L40 60 M34 70 L40 70 M34 80 L40 80 M34 90 L40 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M88 40 L94 40 M88 50 L94 50 M88 60 L94 60 M88 70 L94 70 M88 80 L94 80 M88 90 L94 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

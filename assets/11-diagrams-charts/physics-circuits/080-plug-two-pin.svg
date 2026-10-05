@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-plug-two-pin" data-cat="el" data-spec="128"
+     data-tags="plug,two,pin,unearthed,插头" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">两极插头 / Two-Pin Plug (Unearthed)</title>
+  <desc id="d">两极插头（无接地极）+两线。</desc>
+  <g id="body"><circle cx="64" cy="56" r="30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="50" y1="46" x2="50" y2="26" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="78" y1="46" x2="78" y2="26" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M54 86 L54 118" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="74" y1="86" x2="74" y2="118" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M44 74 Q64 92 84 74" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

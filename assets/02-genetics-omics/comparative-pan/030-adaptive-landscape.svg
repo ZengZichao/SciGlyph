@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-comparative" role="img" aria-labelledby="t-adaptive_landscape d-adaptive_landscape" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-adaptive_landscape">跨物种适应景观 / Cross-species adaptive landscape</title>
+<desc id="d-adaptive_landscape">Contour landscape with multiple peaks, population trajectories, and fitness axis. schematic. 关键词: comparative genomics, adaptive landscape, Cross-species, Contour, peaks, population, trajectories, fitness</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<text x="300.0" y="25.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Adaptive Landscape (schematic)</text>
+<line x1="80.0" y1="340.0" x2="560.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="50.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="320.0" y="365.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Phenotypic trait space</text>
+<text x="50.0" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Fitness</text>
+<line x1="75.0" y1="340.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="343.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.0</text>
+<line x1="75.0" y1="282.0" x2="80.0" y2="282.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="285.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.2</text>
+<line x1="75.0" y1="224.0" x2="80.0" y2="224.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="227.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.4</text>
+<line x1="75.0" y1="166.0" x2="80.0" y2="166.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="169.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.6</text>
+<line x1="75.0" y1="108.0" x2="80.0" y2="108.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="111.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.8</text>
+<line x1="75.0" y1="50.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="53.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">1.0</text>
+<line x1="80.0" y1="340.0" x2="80.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="148.6" y1="340.0" x2="148.6" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="217.2" y1="340.0" x2="217.2" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="285.8" y1="340.0" x2="285.8" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="354.4" y1="340.0" x2="354.4" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="423.0" y1="340.0" x2="423.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="491.6" y1="340.0" x2="491.6" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="560.2" y1="340.0" x2="560.2" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<polygon points="80,294 88,291 96,286 104,279 112,270 120,258 128,244 136,226 144,207 152,186 160,165 168,144 176,126 184,112 192,103 200,100 208,103 216,112 224,126 232,144 240,165 248,186 256,207 264,226 272,244 280,258 288,270 296,279 304,277 312,270 320,262 328,252 336,241 344,229 352,216 360,202 368,188 376,175 384,164 392,154 400,146 408,142 416,140 424,142 432,146 440,154 448,164 456,175 464,188 472,202 480,216 488,229 496,241 504,252 512,262 520,270 528,277 536,283 544,288 552,291 560,340 80,340" fill="#6C3FA0" fill-opacity="0.1" data-pp="gene"/>
+<polyline points="80,294 88,291 96,286 104,279 112,270 120,258 128,244 136,226 144,207 152,186 160,165 168,144 176,126 184,112 192,103 200,100 208,103 216,112 224,126 232,144 240,165 248,186 256,207 264,226 272,244 280,258 288,270 296,279 304,277 312,270 320,262 328,252 336,241 344,229 352,216 360,202 368,188 376,175 384,164 392,154 400,146 408,142 416,140 424,142 432,146 440,154 448,164 456,175 464,188 472,202 480,216 488,229 496,241 504,252 512,262 520,270 528,277 536,283 544,288 552,291" fill="none" stroke="#6C3FA0" stroke-width="2.5" data-pp="gene" stroke-linecap="round"/>
+<polyline points="80,298 88,297 96,296 104,294 112,291 120,287 128,283 136,278 144,272 152,266 160,259 168,253 176,248 184,244 192,241 200,240 208,241 216,244 224,248 232,253 240,259 248,266 256,272 264,278 272,283 280,287 288,291 296,294 304,293 312,291 320,289 328,286 336,282 344,279 352,275 360,271 368,267 376,263 384,259 392,256 400,254 408,252 416,252 424,252 432,254 440,256 448,259 456,263 464,267 472,271 480,275 488,279 496,282 504,286 512,289 520,291 528,293 536,295 544,296 552,297" fill="none" stroke="#6C3FA0" stroke-width="0.5" data-pp="gene" stroke-dasharray="3,3" stroke-linecap="round"/>
+<polyline points="80,297 88,295 96,293 104,289 112,285 120,279 128,272 136,263 144,253 152,243 160,232 168,222 176,213 184,206 192,202 200,200 208,202 216,206 224,213 232,222 240,232 248,243 256,253 264,263 272,272 280,279 288,285 296,289 304,289 312,285 320,281 328,276 336,271 344,264 352,258 360,251 368,244 376,238 384,232 392,227 400,223 408,221 416,220 424,221 432,223 440,227 448,232 456,238 464,244 472,251 480,258 488,264 496,271 504,276 512,281 520,285 528,289 536,292 544,294 552,296" fill="none" stroke="#6C3FA0" stroke-width="0.5" data-pp="gene" stroke-dasharray="3,3" stroke-linecap="round"/>
+<polyline points="80,296 88,293 96,290 104,285 112,279 120,271 128,261 136,248 144,235 152,220 160,205 168,191 176,178 184,168 192,162 200,160 208,162 216,168 224,178 232,191 240,205 248,220 256,235 264,248 272,261 280,271 288,279 296,285 304,284 312,279 320,273 328,267 336,259 344,250 352,241 360,231 368,222 376,213 384,205 392,198 400,192 408,189 416,188 424,189 432,192 440,198 448,205 456,213 464,222 472,231 480,241 488,250 496,259 504,267 512,273 520,279 528,284 536,288 544,291 552,294" fill="none" stroke="#6C3FA0" stroke-width="0.5" data-pp="gene" stroke-dasharray="3,3" stroke-linecap="round"/>
+<line x1="100.0" y1="290.0" x2="120.0" y2="250.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round" stroke-dasharray="3,2"/>
+<line x1="120.0" y1="250.0" x2="140.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round" stroke-dasharray="3,2"/>
+<line x1="140.0" y1="200.0" x2="155.0" y2="140.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round" stroke-dasharray="3,2"/>
+<line x1="155.0" y1="140.0" x2="165.0" y2="115.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round" stroke-dasharray="3,2"/>
+<circle cx="100.0" cy="290.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="120.0" cy="250.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="140.0" cy="200.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="155.0" cy="140.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="165.0" cy="115.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<line x1="350.0" y1="290.0" x2="380.0" y2="240.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round" stroke-dasharray="3,2"/>
+<line x1="380.0" y1="240.0" x2="410.0" y2="195.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round" stroke-dasharray="3,2"/>
+<line x1="410.0" y1="195.0" x2="430.0" y2="160.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round" stroke-dasharray="3,2"/>
+<circle cx="350.0" cy="290.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="380.0" cy="240.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="410.0" cy="195.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="430.0" cy="160.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<text x="200.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">Peak A</text>
+<text x="418.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">Peak B</text>
+<circle cx="460.0" cy="60.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="470.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Sp A</text>
+<circle cx="460.0" cy="78.0" r="4.0" fill="#A2305B" data-pp="archaea"/>
+<text x="470.0" y="82.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Sp B</text>
+</svg>

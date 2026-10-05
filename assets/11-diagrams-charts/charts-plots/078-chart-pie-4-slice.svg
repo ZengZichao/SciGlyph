@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-pie-4-slice" data-cat="ch" data-spec="128"
+     data-tags="chart,pie,4-slice,proportion,percentage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">饼图四扇 / Chart Pie 4 Slice</title>
+  <desc id="d">饼图4扇区。</desc>
+  <g id="body">
+    <circle cx="64" cy="64" r="44" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64,64 L64,20 A44,44 0 0,1 108,64 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M64,64 L108,64 A44,44 0 0,1 64,108 Z" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <path d="M64,64 L64,108 A44,44 0 0,1 20,64 Z" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <path d="M64,64 L20,64 A44,44 0 0,1 64,20 Z" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+    <circle cx="64" cy="64" r="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

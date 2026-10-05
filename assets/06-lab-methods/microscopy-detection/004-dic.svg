@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-dic d-dic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-dic">DIC微分干涉 / DIC differential interference contrast</title>
+  <desc id="d-dic">DIC(微分干涉差)显微镜(透射式，光路自下而上)：偏振光(polarizer)经Wollaston棱镜分为两束剪切光→穿过样品→物镜后复合→检偏器(analyzer)把相位差转为强度差→伪3D浮雕像。关键词: DIC, differential interference contrast, Wollaston prism, Nomarski, analyzer, polarizer, pseudo-3D, shear</desc>
+  <g id="layer-body-dic" data-name="body">
+    <!-- Analyzer (topmost, above the second Wollaston prism) -->
+    <rect x="40" y="6" width="20" height="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <!-- Wollaston prism 2 (above objective, near back focal plane) -->
+    <polygon points="42,14 58,14 55,21 45,21" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <!-- Objective -->
+    <rect x="40" y="25" width="20" height="12" rx="3" ry="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Sample -->
+    <rect x="30" y="44" width="40" height="8" rx="1" ry="1" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <!-- Wollaston prism 1 (below condenser side) -->
+    <polygon points="42,56 58,56 55,63 45,63" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <!-- Polarizer -->
+    <rect x="40" y="67" width="20" height="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <!-- Sheared beams (bottom-up: polarizer -> prism1 -> sample -> objective -> prism2 -> analyzer) -->
+    <line x1="47" y1="67" x2="47" y2="63" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="53" y1="67" x2="53" y2="63" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="47" y1="56" x2="47" y2="52" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="53" y1="56" x2="53" y2="52" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="47" y1="44" x2="47" y2="37" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="53" y1="44" x2="53" y2="37" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="47" y1="25" x2="47" y2="21" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="53" y1="25" x2="53" y2="21" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="47" y1="14" x2="47" y2="10" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="53" y1="14" x2="53" y2="10" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-dic" data-name="annotation">
+    <text x="62" y="10" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">analyzer</text>
+    <text x="62" y="19" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">prism ×2</text>
+    <text x="60.44" y="71.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">polarizer</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">DIC</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="泥三角" data-name-en="three_leg_triangle" data-cat="lab-equipment" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31">泥三角 / three_leg_triangle</title>
+  <desc id="d-31">支撑坩埚进行高温灼烧。关键词: 泥三角,triangle,坩埚,灼烧</desc>
+  <g id="g-31-泥三角">
+    <line x1="20" y1="105" x2="60" y2="35" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <line x1="100" y1="105" x2="60" y2="35" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <line x1="20" y1="105" x2="100" y2="105" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <polygon points="35,65 85,65 60,35" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <line x1="35" y1="65" x2="45" y2="65" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="55" y1="65" x2="65" y2="65" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="75" y1="65" x2="85" y2="65" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
+  </g>
+</svg>

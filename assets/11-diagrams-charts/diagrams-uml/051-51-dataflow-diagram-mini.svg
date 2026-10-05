@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="DFD四元素小图" data-name-en="Dataflow Diagram Mini" data-cat="diagrams-sw-uml" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-51">DFD四元素小图 / dataflow_diagram_mini</title>
+  <desc id="d-51">数据流图四元素组合小图。关键词: dfd,dataflow,diagram</desc>
+  <g id="g-51-DFD四元素小图">
+    <rect x="15" y="95" width="55" height="35" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="42" y="117" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Src</text>
+    <circle cx="140" cy="112" r="28" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="140" y="116" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">P1</text>
+    <circle cx="230" cy="112" r="28" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="230" y="116" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">P2</text>
+    <line fill="none" x1="265" y1="85" x2="305" y2="85" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="265" y1="135" x2="305" y2="135" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="285" y="114" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">D1</text>
+    <line fill="none" x1="70" y1="112" x2="112" y2="112" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="112,112 106,108 106,116" fill="#1f2937"/>
+    <line fill="none" x1="168" y1="112" x2="202" y2="112" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="202,112 196,108 196,116" fill="#1f2937"/>
+    <line fill="none" x1="245" y1="90" x2="270" y2="90" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="270" y1="130" x2="245" y2="130" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="110" y="180" width="80" height="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="150" y="205" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">D2</text>
+    <line fill="none" x1="140" y1="140" x2="140" y2="180" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="140,180 136,174 144,174" fill="#1f2937"/>
+  </g>
+</svg>

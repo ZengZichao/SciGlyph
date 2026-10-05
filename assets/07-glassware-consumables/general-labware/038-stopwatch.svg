@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="秒表" data-name-en="stopwatch" data-cat="lab-equipment" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-40">秒表 / stopwatch</title>
+  <desc id="d-40">精确计时实验反应。关键词: 秒表,stopwatch,计时,反应</desc>
+  <g id="g-40-秒表">
+    <circle cx="60" cy="65" r="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="60" cy="65" r="35" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="60" y1="65" x2="60" y2="38" stroke="#1f2937" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="60" y1="65" x2="78" y2="55" stroke="#D55E00" stroke-width="0.75" stroke-linecap="round" data-drole="series-1"/>
+    <circle cx="60" cy="65" r="2" fill="#1f2937" stroke="none"/>
+    <rect x="55" y="18" width="10" height="8" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="82" y="30" width="8" height="6" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="90" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">s</text>
+  </g>
+</svg>

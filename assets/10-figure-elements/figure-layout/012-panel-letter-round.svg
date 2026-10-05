@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-12_panel_letter_round d-12_panel_letter_round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12_panel_letter_round">面板字母(圆底) / Panel letter round</title>
+  <desc id="d-12_panel_letter_round">面板字母圆底版。骨架，配合多面板图使用。关键词: panel, letter, circle</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="30" cy="30" r="18" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="30" y="37" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">A</text>
+    <circle cx="70" cy="30" r="18" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="37" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">B</text>
+    <circle cx="30" cy="68" r="18" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="30" y="75" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">C</text>
+    <circle cx="70" cy="68" r="18" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="75" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">D</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Panel letter round</text>
+  </g>
+</svg>

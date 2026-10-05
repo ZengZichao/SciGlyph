@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="异或门" data-name-en="gate-xor" data-cat="flowchart-logic" aria-labelledby="t-54 d-54" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-54">异或门 / gate_xor</title>
+  <desc id="d-54">逻辑异或门符号。关键词: gate,xor,logic</desc>
+  <g id="g-54-异或门">
+    <path d="M20,15 Q45,40 20,65 Q60,65 85,40 Q60,15 20,15 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M12,15 Q37,40 12,65" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="30" x2="25" y2="30" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="50" x2="25" y2="50" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="85" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="106,36 114,40 106,44" fill="#1f2937"/>
+    <text x="48" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">XOR</text>
+  </g>
+</svg>

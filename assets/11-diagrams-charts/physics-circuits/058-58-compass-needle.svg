@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="小磁针" data-name-en="compass-needle" data-cat="physics-electronics" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-58">小磁针 / compass_needle</title>
+  <desc id="d-58">指南针小磁针符号。关键词: 磁针,指南针,方向</desc>
+  <g id="g-58-小磁针">
+    <circle cx="160" cy="120" r="60" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <polygon points="160,80 155,120 165,120" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="155,120 160,160 165,120" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="160" y="70" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">N</text>
+  </g>
+</svg>

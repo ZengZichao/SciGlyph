@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-38_paraphyletic d-38_paraphyletic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38_paraphyletic">并系 / Paraphyletic</title>
+  <desc id="d-38_paraphyletic">并系群(paraphyletic group)：包含共同祖先与部分后代，但排除了一个后代（红色 excluded 末端），故非单系。关键词: paraphyletic, clade, common ancestor, excluded descendant, group</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M50 14 L50 30" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 30 L74 30" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26 30 L26 44" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50 30 L50 44" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M74 30 L74 44" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="26" cy="48" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="48" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="74" cy="48" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" stroke-dasharray="2 1" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M14 8 Q38 2 62 8 Q66 34 62 58 Q38 62 14 58 Q10 34 14 8 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.1" stroke="#E8871E" stroke-width="1.5" stroke-dasharray="3 2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="50" y="74" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle" font-weight="bold">para ✗</text>
+    <text x="74" y="64" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">excluded</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Paraphyletic</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="抗酸菌索状成束" data-name-en="Mycobacterial cords" data-cat="01-morphology" data-tags="抗酸菌,分枝杆菌,索状束,cord formation,微弯杆菌,平行排列" role="img" aria-labelledby="t-24-mycobacterial-cords d-24-mycobacterial-cords" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24-mycobacterial-cords">抗酸菌索状成束 / Mycobacterial cords</title>
+  <desc id="d-24-mycobacterial-cords">抗酸菌（结核分枝杆菌等）镜下典型形态：细长、微弯、不分枝的杆菌，常平行聚集成蛇形索状束（cord）排列；“分枝”仅在特定培养条件下偶见。关键词: 抗酸菌, 分枝杆菌, 索状束, cord formation, 微弯杆菌, 平行排列</desc>
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <g transform="translate(0,-17) rotate(-3 60 60)">
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#2E7D5B" stroke-width="9"/>
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#DCEEE4" stroke-width="5"/>
+    </g>
+    <g>
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#2E7D5B" stroke-width="9"/>
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#DCEEE4" stroke-width="5"/>
+    </g>
+    <g transform="translate(0,17) rotate(3 60 60)">
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#2E7D5B" stroke-width="9"/>
+      <path d="M 20,60 C 25.5,51.6 34.5,51.6 40,60 C 45.5,51.6 54.5,51.6 60,60 C 65.5,51.6 74.5,51.6 80,60 C 85.5,51.6 94.5,51.6 100,60" stroke="#DCEEE4" stroke-width="5"/>
+    </g>
+  </g>
+  <g fill="#1F6F8B">
+    <circle cx="30" cy="53.7" r="1.6"/>
+    <circle cx="50" cy="53.7" r="1.6"/>
+    <circle cx="70" cy="53.7" r="1.6"/>
+    <circle cx="90" cy="53.7" r="1.6"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="微生物垫分层" data-name-en="Microbial Mat Stratification" data-cat="05-eco-seq" data-tags="微生物垫,分层,蓝细菌,硫化物,光衰减" role="img" aria-labelledby="t-13-microbial-mat d-13-microbial-mat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13-microbial-mat">微生物垫分层 / Microbial Mat Stratification</title>
+  <desc id="d-13-microbial-mat">微生物垫由表层产氧蓝细菌、紫硫细菌、硫酸盐还原黑层至沉积物逐层堆叠，光照与代谢底物随深度递减。关键词: 微生物垫, 分层, 蓝细菌, 硫化物, 光衰减</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 表层絮状物与逸气 -->
+  <path d="M5 12 Q22 6 40 11 Q60 4 80 10 Q100 5 115 11" stroke="#E8B04B" stroke-width="1.4" stroke-opacity="0.7"/>
+  <circle cx="30" cy="16" r="3" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <circle cx="72" cy="15" r="2.4" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <circle cx="96" cy="17" r="2.8" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <!-- 第 1 层：产氧型蓝细菌（表层） -->
+  <path d="M5 14 Q30 11 60 14 T115 13 L115 46 L5 46 Z" fill="#DCEEE4" fill-opacity="0.75" stroke="none"/>
+  <path d="M22 18 C20 28 24 36 22 44" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M34 17 C32 28 36 36 34 45" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M78 17 C76 28 80 36 78 45" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M90 18 C88 28 92 36 90 44" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="56" cy="26" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="66" cy="34" r="3.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="44" y="36" width="14" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M5 46 H115" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 第 2 层：光合硫细菌（紫硫细菌） -->
+  <path d="M5 46 H115 V66 H5 Z" fill="#C0504D" fill-opacity="0.2" stroke="none"/>
+  <path d="M5 46 H115" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="26" cy="55" r="4.6" fill="#F6DADA" stroke="#C0504D" stroke-width="1.4"/>
+  <circle cx="38" cy="58" r="4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.4"/>
+  <rect x="56" y="52" width="18" height="8" rx="4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.4"/>
+  <circle cx="86" cy="56" r="4.4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.4"/>
+  <circle cx="98" cy="59" r="3.4" fill="#F6DADA" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M5 66 H115" stroke="#C0504D" stroke-width="1.4"/>
+  <!-- 第 3 层：硫酸盐还原菌（黑层） -->
+  <path d="M5 66 H115 V88 H5 Z" fill="#2B3A42" fill-opacity="0.55" stroke="none"/>
+  <path d="M5 66 H115" stroke="#C0504D" stroke-width="1.4"/>
+  <rect x="24" y="72" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="52" y="76" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="86" cy="76" r="5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="52" cy="80" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M5 88 H115" stroke="#2B3A42" stroke-width="1.4"/>
+  <!-- 底层沉积物 -->
+  <path d="M5 88 H115 V104 L5 104 Z" fill="#7A8B93" fill-opacity="0.45" stroke="none"/>
+  <path d="M5 104 Q30 100 60 103 T115 101 L115 114 L5 114 Z" fill="#7A8B93" fill-opacity="0.5" stroke="#2B3A42" stroke-width="1.4"/>
+  <circle cx="24" cy="97" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="70" cy="96" r="1.6" fill="#7A8B93" stroke="none"/>
+  <circle cx="96" cy="98" r="1.6" fill="#7A8B93" stroke="none"/>
+  <!-- 硫化氢上逸气泡 -->
+  <circle cx="46" cy="60" r="2.6" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="44" cy="50" r="2" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <circle cx="70" cy="58" r="2.4" fill="#DCEEE4" stroke="#7A8B93" stroke-width="1.2"/>
+  <!-- 深度轴与光照穿透 -->
+  <path d="M10 16 V100 m-3 -3 l3 3 l3 -3" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M7 14 h6 M7 46 h6 M7 66 h6 M7 88 h6" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M110 12 v8 m-2.5 -2.5 l2.5 2.5 l2.5 -2.5" stroke="#E8B04B" stroke-width="1.4"/>
+  <path d="M110 26 v6 m-2.5 -2.5 l2.5 2.5 l2.5 -2.5" stroke="#E8B04B" stroke-width="1.2" stroke-opacity="0.6"/>
+  <path d="M110 40 v4 m-2.5 -2 l2.5 2 l2.5 -2" stroke="#E8B04B" stroke-width="1.2" stroke-opacity="0.3"/>
+</g>
+</svg>

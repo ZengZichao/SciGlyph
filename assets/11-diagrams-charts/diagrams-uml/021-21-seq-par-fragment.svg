@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="PAR框" data-name-en="Seq Par Fragment" data-cat="diagrams-sw-uml" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">PAR框 / seq_par_fragment</title>
+  <desc id="d-21">时序图并行片段。关键词: par,fragment,concurrent</desc>
+  <g id="g-21-PAR框">
+    <rect x="10" y="10" width="140" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="10" y="10" width="30" height="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="25" y="23" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle" font-weight="bold">PAR</text>
+    <line fill="none" x1="10" y1="60" x2="150" y2="60" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line fill="none" x1="40" y1="35" x2="120" y2="35" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="125,35 117,31 117,39" fill="#1f2937"/>
+    <line fill="none" x1="40" y1="85" x2="120" y2="85" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="125,85 117,81 117,89" fill="#1f2937"/>
+  </g>
+</svg>

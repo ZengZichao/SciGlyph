@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="试管架6孔" data-name-en="centrifuge_rack" data-cat="lab-equipment" aria-labelledby="t-64 d-64" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-64">试管架6孔 / centrifuge_rack</title>
+  <desc id="d-64">放置和晾干试管。关键词: 试管架,rack,放置,试管</desc>
+  <g id="g-64-试管架6孔">
+    <rect x="15" y="40" width="90" height="50" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="15" y="85" width="90" height="10" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="30" cy="50" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="50" cy="50" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="70" cy="50" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="90" cy="50" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="30" cy="70" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="50" cy="70" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 25 20 L 25 44 M 35 20 L 35 44" fill="none" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 24 20 Q 30 15 36 20" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="22" y="20" width="16" height="24" rx="3" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 23 30 L 37 30 L 36 43 Q 30 46 24 43 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="23" y1="30" x2="37" y2="30" stroke="#0072B2" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="15" y="95" width="8" height="15" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="97" y="95" width="8" height="15" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

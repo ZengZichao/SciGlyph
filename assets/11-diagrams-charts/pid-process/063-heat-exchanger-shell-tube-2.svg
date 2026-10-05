@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-heat-exchanger-shell-tube" data-cat="uo" data-spec="128"
+     data-tags="heat-exchanger,shell-tube,baffle,tubes,thermal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">列管换热器 / Shell and Tube Heat Exchanger</title>
+  <desc id="d">壳管式换热器，壳体内含管束和折流板，四个进出口。</desc>
+  <g id="body">
+    <rect x="20" y="28" width="88" height="52" rx="26" ry="26" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="36" y1="42" x2="92" y2="42" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="36" y1="54" x2="92" y2="54" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="36" y1="66" x2="92" y2="66" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="36" y1="78" x2="92" y2="78" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="48" y1="30" x2="48" y2="78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="30" x2="64" y2="78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="80" y1="30" x2="80" y2="78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="10" y1="38" x2="20" y2="38" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="16,38 22,34 22,42" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="108" y1="38" x2="118" y2="38" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="112,38 106,34 106,42" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="10" y1="72" x2="20" y2="72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="16,72 22,68 22,76" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="108" y1="72" x2="118" y2="72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="112,72 106,68 106,76" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

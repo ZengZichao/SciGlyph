@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="双集合韦恩" data-name-en="venn-two" data-cat="flowchart-logic" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22">双集合韦恩 / venn_two</title>
+  <desc id="d-22">两集合韦恩图。关键词: set,venn,two</desc>
+  <g id="g-22-双集合韦恩">
+    <circle cx="95" cy="80" r="50" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="145" cy="80" r="50" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="80" y="84" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">A</text>
+    <text x="160" y="84" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#ffffff" text-anchor="middle">B</text>
+  </g>
+</svg>

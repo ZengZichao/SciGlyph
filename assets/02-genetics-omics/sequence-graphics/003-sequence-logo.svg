@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-sequence_logo d-sequence_logo" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sequence_logo">序列 Logo / Sequence Logo</title>
+  <desc id="d-sequence_logo">信息量按 bits 计，单字母完全保守位 = 2 bits。信息含量 y 轴 + 字母堆叠 + IC 刻度。关键词: sequence logo, information content, bits</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Sequence Logo</text>
+    <line x1="80" y1="330" x2="540" y2="330" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <line x1="80" y1="50" x2="80" y2="330" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <text x="50" y="190.0" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" transform="rotate(-90,50,190.0)">Bits</text>
+    <text x="310.0" y="370" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Position</text>
+    <line x1="75" y1="330.0" x2="80" y2="330.0" stroke="#1B2733" data-pp="ink" stroke-width="1" />
+    <text x="70" y="334.0" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">0</text>
+    <line x1="75" y1="190.0" x2="80" y2="190.0" stroke="#1B2733" data-pp="ink" stroke-width="1" />
+    <text x="70" y="194.0" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1</text>
+    <line x1="75" y1="50.0" x2="80" y2="50.0" stroke="#1B2733" data-pp="ink" stroke-width="1" />
+    <text x="70" y="54.0" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">2</text>
+    <rect x="82.0" y="294.78369259589726" width="34.333333333333336" height="35.2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="99.16666666666667" y="316.39184629794863" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="82.0" y="279.6365060153747" width="34.333333333333336" height="15.1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="99.16666666666667" y="291.210099305636" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="82.0" y="267.34321773045565" width="34.333333333333336" height="12.3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="99.16666666666667" y="277.4898618729152" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
+    <rect x="82.0" y="265.9657552180079" width="34.333333333333336" height="1.4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="99.16666666666667" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">1</text>
+    <rect x="120.33333333333334" y="316.58488953335524" width="34.333333333333336" height="13.4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="137.5" y="327.29244476667765" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="120.33333333333334" y="305.5110619641694" width="34.333333333333336" height="11.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="120.33333333333334" y="295.33598207542724" width="34.333333333333336" height="10.2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="120.33333333333334" y="294.0287407018492" width="34.333333333333336" height="1.3" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="137.5" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">2</text>
+    <rect x="158.66666666666669" y="50" width="34.333333333333336" height="280" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="175.83333333333334" y="265.43128844956215" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="158.66666666666669" y="184.7956696578963" width="34.333333333333336" height="8.1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="158.66666666666669" y="176.7287624166683" width="34.333333333333336" height="8.1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="158.66666666666669" y="168.6618551754403" width="34.333333333333336" height="8.1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="175.83333333333334" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">3</text>
+    <rect x="197.0" y="328.7347290391854" width="34.333333333333336" height="1.3" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="197.0" y="327.49542482577704" width="34.333333333333336" height="1.2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="197.0" y="326.5036543948828" width="34.333333333333336" height="1.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="197.0" y="325.7623251947196" width="34.333333333333336" height="0.7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="214.16666666666666" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">4</text>
+    <rect x="235.33333333333334" y="323.6483352626475" width="34.333333333333336" height="6.4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="235.33333333333334" y="318.1040027909361" width="34.333333333333336" height="5.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="235.33333333333334" y="314.82179388023616" width="34.333333333333336" height="3.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="235.33333333333334" y="312.78915444658674" width="34.333333333333336" height="2.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="252.5" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5</text>
+    <rect x="273.6666666666667" y="192.8625768991243" width="34.333333333333336" height="137.1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="290.83333333333337" y="265.43128844956215" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="273.6666666666667" y="184.7956696578963" width="34.333333333333336" height="8.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="273.6666666666667" y="176.7287624166683" width="34.333333333333336" height="8.1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="273.6666666666667" y="168.6618551754403" width="34.333333333333336" height="8.1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="290.83333333333337" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">6</text>
+    <rect x="312.0" y="324.2093988266301" width="34.333333333333336" height="5.8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="312.0" y="318.73807202710077" width="34.333333333333336" height="5.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="312.0" y="313.4957259076382" width="34.333333333333336" height="5.2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="312.0" y="311.93790432926403" width="34.333333333333336" height="1.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="329.1666666666667" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">7</text>
+    <rect x="350.33333333333337" y="302.77929449881555" width="34.333333333333336" height="27.2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="367.50000000000006" y="320.38964724940774" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="350.33333333333337" y="287.1065589893424" width="34.333333333333336" height="15.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="367.50000000000006" y="298.942926744079" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="350.33333333333337" y="279.71066823937446" width="34.333333333333336" height="7.4" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="350.33333333333337" y="277.13625017226747" width="34.333333333333336" height="2.6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="367.50000000000006" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">8</text>
+    <rect x="388.6666666666667" y="192.8625768991243" width="34.333333333333336" height="137.1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="405.83333333333337" y="265.43128844956215" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text>
+    <rect x="388.6666666666667" y="184.7956696578963" width="34.333333333333336" height="8.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="388.6666666666667" y="176.7287624166683" width="34.333333333333336" height="8.1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="388.6666666666667" y="168.6618551754403" width="34.333333333333336" height="8.1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="405.83333333333337" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">9</text>
+    <rect x="427.0" y="304.89090068560967" width="34.333333333333336" height="25.1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="444.1666666666667" y="321.4454503428048" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+    <rect x="427.0" y="284.31557875320385" width="34.333333333333336" height="20.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="444.1666666666667" y="298.60323971940676" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
+    <rect x="427.0" y="276.19387966904196" width="34.333333333333336" height="8.1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="427.0" y="274.5608183670007" width="34.333333333333336" height="1.6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="444.1666666666667" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">10</text>
+    <rect x="465.33333333333337" y="319.25731449173395" width="34.333333333333336" height="10.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="465.33333333333337" y="310.615630676558" width="34.333333333333336" height="8.6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="465.33333333333337" y="306.8662467058898" width="34.333333333333336" height="3.7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="465.33333333333337" y="303.9042019010412" width="34.333333333333336" height="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="482.50000000000006" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">11</text>
+    <rect x="503.6666666666667" y="326.1431368426882" width="34.333333333333336" height="3.9" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="503.6666666666667" y="323.8971524608251" width="34.333333333333336" height="2.2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="503.6666666666667" y="321.6836205703291" width="34.333333333333336" height="2.2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="503.6666666666667" y="319.997082291449" width="34.333333333333336" height="1.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="520.8333333333334" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">12</text>
+  </g>
+</svg>

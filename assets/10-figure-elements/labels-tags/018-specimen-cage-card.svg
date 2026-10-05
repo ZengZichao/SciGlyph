@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-specimen-cage-card" data-cat="lb" data-spec="160"
+     data-tags="specimen,cage,card,animal,strain,id,date,owner" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">动物笼卡 / Specimen Cage Card</title>
+  <desc id="d">动物笼卡，品系/编号/日期/负责人四栏。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="16" y="24" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">STRAIN:</text>
+    <line x1="16" y1="28" x2="144" y2="28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="40" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">ID#:</text>
+    <line x1="16" y1="44" x2="144" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="56" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">DATE:</text>
+    <line x1="16" y1="60" x2="80" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="86" y="56" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">OWNER:</text>
+    <line x1="86" y1="60" x2="144" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="76" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="stroke">NOTES:</text>
+    <line x1="16" y1="80" x2="144" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

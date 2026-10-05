@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>离子计</title>
+  <rect x="2" y="10" width="8" height="12" rx="1"/>
+  <rect x="3" y="12" width="6" height="3" rx="0.5"/>
+  <line x1="3.5" y1="13.5" x2="8.5" y2="13.5" stroke-width="0.75"/>
+  <circle cx="4" cy="18" r="0.75"/>
+  <circle cx="7.5" cy="18" r="0.75"/>
+  <rect x="11" y="19" width="11" height="3" rx="0.5" stroke-width="1"/>
+  <line x1="12" y1="19" x2="12" y2="4" stroke-width="1"/>
+  <line x1="12" y1="4" x2="17" y2="4" stroke-width="1"/>
+  <line x1="17" y1="4" x2="17" y2="17" stroke-width="0.75"/>
+  <path d="M14.5 12h5v5.5a1.5 1.5 0 0 1-1.5 1.5h-2a1.5 1.5 0 0 1-1.5-1.5Z" stroke-width="1"/>
+  <ellipse cx="16" cy="17.5" rx="1.5" ry="0.6" stroke-width="0.75"/>
+</svg>

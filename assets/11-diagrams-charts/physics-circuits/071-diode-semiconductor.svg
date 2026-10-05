@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-diode-semiconductor" data-cat="el" data-spec="128"
+     data-tags="diode,semiconductor,pn-junction,electronic,二极管" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">半导体二极管 / Semiconductor Diode</title>
+  <desc id="d">二极管符号：三角形+竖线。</desc>
+  <g id="body"><line x1="10" y1="64" x2="44" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M44 44 L44 84 L80 64Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="44" x2="80" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="80" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

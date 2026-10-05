@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="二极管" data-name-en="diode" data-cat="physics-electronics" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">二极管 / diode</title>
+  <desc id="d-16">普通PN结二极管符号。关键词: 二极管,PN结,整流</desc>
+  <g id="g-16-二极管">
+    <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 45 25 L 45 55 L 70 40 Z" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
+    <line x1="70" y1="40" x2="70" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="60" x2="70" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

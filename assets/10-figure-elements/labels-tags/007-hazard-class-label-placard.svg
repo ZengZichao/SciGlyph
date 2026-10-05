@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-hazard-class-label-placard" data-cat="lb" data-spec="160"
+     data-tags="hazard,class,label,placard,transport,diamond,ghs" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">运输危险性标志牌 / Hazard Class Label Placard</title>
+  <desc id="d">运输危险性标志牌，菱形空位。</desc>
+  <g id="body">
+    <rect x="10" y="8" width="140" height="80" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <polygon points="80,16 108,44 80,72 52,44" fill="#E02020" opacity="0.15" stroke="none" data-ls="danger"/>
+    <polygon points="80,16 108,44 80,72 52,44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="80" y="50" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" data-ls="stroke">!</text>
+    <text x="80" y="84" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">CLASS / DIVISION</text>
+  </g>
+</svg>

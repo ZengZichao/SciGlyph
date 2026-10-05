@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-ribbon-banner-blank" data-cat="lb" data-spec="160"
+     data-tags="ribbon,banner,blank,decorative,title" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">空白缎带横幅 / Ribbon Banner Blank</title>
+  <desc id="d">空白缎带横幅。</desc>
+  <g id="body">
+    <path d="M20,36 L140,36 L140,60 L20,60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M20,36 L10,30 L10,66 L20,60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M140,36 L150,30 L150,66 L140,60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M10,30 L20,36 L20,60 L10,66 Z" fill="#FFFFFF" opacity="0.3" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M150,30 L140,36 L140,60 L150,66 Z" fill="#FFFFFF" opacity="0.3" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="80" y="52" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="stroke">TITLE</text>
+  </g>
+</svg>

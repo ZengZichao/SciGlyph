@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-chromatography-column-glass" data-cat="sp" data-spec="128"
+     data-tags="chromatography,column,glass,silica,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">玻璃层析柱 / Glass Chromatography Column</title>
+  <desc id="d">玻璃层析柱，带砂芯、液面和出口活塞</desc>
+  <g id="body"><path d="M52 10 L76 10 L76 14 L74 14 L74 100 L76 104 L76 110 L72 114 L56 114 L52 110 L52 104 L54 100 L54 14 L52 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 10 L72 10 L72 14 L56 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M56 70 L72 70 L72 100 L56 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M56 30 L72 30 L72 68 L56 68 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M56 50 L72 50 L72 68 L56 68 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M56 74 L72 74 M56 78 L72 78 M56 82 L72 82 M56 86 L72 86 M56 90 L72 90 M56 94 L72 94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 110 L68 110 L68 114 L60 114 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

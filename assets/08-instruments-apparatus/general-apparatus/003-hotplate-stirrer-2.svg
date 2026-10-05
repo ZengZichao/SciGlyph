@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="磁力搅拌器" data-name-en="hotplate_stirrer" data-cat="lab-equipment" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45">磁力搅拌器 / hotplate_stirrer</title>
+  <desc id="d-45">加热并搅拌溶液。关键词: 搅拌器,hotplate,加热,搅拌</desc>
+  <g id="g-45-磁力搅拌器">
+    <rect x="40" y="100" width="240" height="110" rx="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <rect x="60" y="80" width="200" height="25" rx="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="160" cy="92" r="8" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <rect x="60" y="195" width="40" height="10" rx="3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="80" y="203" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">SPD</text>
+    <rect x="120" y="195" width="40" height="10" rx="3" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="140" y="203" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">TMP</text>
+    <circle cx="200" cy="200" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="200" y="203" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">ON</text>
+    <rect x="100" y="60" width="120" height="22" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <text x="160" y="75" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Hotplate</text>
+  </g>
+</svg>

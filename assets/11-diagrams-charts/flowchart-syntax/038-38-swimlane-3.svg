@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" data-name-zh="三泳道" data-name-en="swimlane-3" data-cat="flowchart-logic" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38">三泳道 / swimlane_3</title>
+  <desc id="d-38">三泳道流程图。关键词: swimlane,three</desc>
+  <g id="g-38-三泳道">
+    <rect x="10" y="10" width="380" height="66" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="10" y="76" width="380" height="66" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="10" y="142" width="380" height="66" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="20" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">A</text>
+    <text x="20" y="96" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">B</text>
+    <text x="20" y="162" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">C</text>
+  </g>
+</svg>

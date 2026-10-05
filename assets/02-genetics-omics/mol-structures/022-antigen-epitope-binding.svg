@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="抗原抗体结合" data-name-en="Antigen Epitope Binding" data-cat="natural-sciences" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33">抗原抗体结合 / antigen_epitope_binding</title>
+  <desc id="d-33">展示抗原抗体特异性结合。关键词: antigen,antibody,epitope,binding</desc>
+  <g id="g-33-抗原抗体结合">
+    <circle cx="60" cy="60" r="35" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="45" cy="45" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="75" cy="50" r="6" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="55" cy="75" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M100,60 L130,40" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M100,60 L130,80" fill="none" stroke="#0072B2" stroke-width="3" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="135" cy="35" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="135" cy="85" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="135" cy="35" r="5" fill="#D55E00" stroke="none" data-drole="series-1"/>
+    <circle cx="135" cy="85" r="5" fill="#D55E00" stroke="none" data-drole="series-1"/>
+  </g>
+</svg>

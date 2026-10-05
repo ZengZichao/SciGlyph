@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="IGBT" data-name-en="igbt" data-cat="physics-electronics" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25">IGBT / igbt</title>
+  <desc id="d-25">绝缘栅双极晶体管符号。关键词: IGBT,功率器件,晶体管</desc>
+  <g id="g-25-IGBT">
+    <line x1="10" y1="40" x2="38" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="38" y1="15" x2="38" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="44" y1="15" x2="44" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="44" y1="22" x2="66" y2="22" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="66" y1="22" x2="66" y2="10" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="44" y1="58" x2="66" y2="58" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="66" y1="58" x2="66" y2="64" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="66,70 62.8,63 69.2,63" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

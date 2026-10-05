@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-bar-vertical-grouped" data-cat="ch" data-spec="128"
+     data-tags="chart,bar,vertical,grouped,axis,comparison" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">柱状分组图 / Chart Bar Vertical Grouped</title>
+  <desc id="d">柱状分组图，含坐标轴。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="30" y="60" width="12" height="48" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="44" y="45" width="12" height="63" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="66" y="40" width="12" height="68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="80" y="55" width="12" height="53" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="102" y="70" width="12" height="38" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="116" y="50" width="12" height="58" fill="#F5A623" opacity="0.01" stroke="none" data-ls="warn"/>
+    <line x1="20" y1="40" x2="116" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="20" y1="60" x2="116" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="20" y1="80" x2="116" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

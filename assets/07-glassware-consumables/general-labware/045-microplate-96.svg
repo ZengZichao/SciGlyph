@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="96孔板" data-name-en="microplate_96" data-cat="lab-equipment" aria-labelledby="t-62 d-62" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-62">96孔板 / microplate_96</title>
+  <desc id="d-62">高通量微量样品检测。关键词: 96孔板,microplate,高通量,检测</desc>
+  <g id="g-62-96孔板">
+    <rect x="10" y="15" width="140" height="90" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="25" cy="30" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="40" cy="30" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="55" cy="30" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="70" cy="30" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="85" cy="30" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="100" cy="30" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="115" cy="30" r="4" fill="#009E73" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="130" cy="30" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="25" cy="48" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="40" cy="48" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="55" cy="48" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="70" cy="48" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="85" cy="48" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="100" cy="48" r="4" fill="#009E73" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="115" cy="48" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="130" cy="48" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="25" cy="66" r="4" fill="#009E73" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="40" cy="66" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="55" cy="66" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="70" cy="66" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="85" cy="66" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="100" cy="66" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="115" cy="66" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="130" cy="66" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="25" cy="84" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="40" cy="84" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="55" cy="84" r="4" fill="#009E73" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="70" cy="84" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="85" cy="84" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="100" cy="84" r="4" fill="#0072B2" stroke="#6b7280" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="115" cy="84" r="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="130" cy="84" r="4" fill="#009E73" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="80" y="112" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">96 wells</text>
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="方形细菌" data-name-en="Square bacterium" data-cat="01-morphology" data-tags="方形细菌,square bacterium,盒形,立方体细胞,极端嗜盐" role="img" aria-labelledby="t-21-square-bacterium d-21-square-bacterium" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21-square-bacterium">方形细菌 / Square bacterium</title>
+  <desc id="d-21-square-bacterium">细胞呈方形薄片状形态（扁平、近正方形，常两两相连成片），胞内含颗粒状内容物，常见于极端嗜盐古菌。关键词: 方形细菌, square bacterium, 盒形, 立方体细胞, 极端嗜盐</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2">
+      <rect x="14" y="34" width="44" height="44" rx="5"/>
+      <rect x="62" y="34" width="44" height="44" rx="5"/>
+    </g>
+    <path d="M 60,34 L 60,78" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+    <g fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4">
+      <circle cx="26" cy="46" r="4"/>
+      <circle cx="46" cy="46" r="4"/>
+      <circle cx="26" cy="66" r="4"/>
+      <circle cx="46" cy="66" r="4"/>
+      <circle cx="74" cy="46" r="4"/>
+      <circle cx="94" cy="46" r="4"/>
+      <circle cx="74" cy="66" r="4"/>
+      <circle cx="94" cy="66" r="4"/>
+    </g>
+    <path d="M 20,40 L 20,72 M 104,40 L 104,72" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+  </g>
+</svg>

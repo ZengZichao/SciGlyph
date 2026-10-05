@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-prd1 d-prd1" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-prd1">PRD1(脂质双层内衣壳) / PRD1 lipid bilayer inner icosahedral</title>
+  <desc id="d-prd1">PRD1噬菌体(Tectiviridae科, 纲 Tectiliviricetes)。二十面体衣壳内含宿主来源脂质双层膜。vertex spike蛋白P5介导膜穿透。dsDNA基因组。关键词: PRD1, internal lipid bilayer, Tectiliviricetes, membrane-containing virus</desc>
+  <g id="layer-body-prd1" data-name="body">
+    <!-- Outer icosahedral capsid -->
+    <polygon points="50,10 70,22 70,50 50,62 30,50 30,22" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linejoin="round"/>
+    <!-- Inner lipid bilayer -->
+    <polygon points="50,20 62,28 62,46 50,54 38,46 38,28" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1" fill-opacity="0.3" stroke-linejoin="round"/>
+    <!-- Lipid dots -->
+    <circle cx="42" cy="30" r="1" fill="#8C6D3F" data-pp="host"/>
+    <circle cx="42" cy="34" r="1" fill="#8C6D3F" data-pp="host"/>
+    <circle cx="58" cy="30" r="1" fill="#8C6D3F" data-pp="host"/>
+    <circle cx="58" cy="34" r="1" fill="#8C6D3F" data-pp="host"/>
+    <circle cx="42" cy="42" r="1" fill="#8C6D3F" data-pp="host"/>
+    <circle cx="58" cy="42" r="1" fill="#8C6D3F" data-pp="host"/>
+    <!-- Core with DNA -->
+    <circle cx="50" cy="38" r="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" fill-opacity="0.4"/>
+    <!-- Vertex spike -->
+    <line x1="50" y1="10" x2="50" y2="4" stroke="#5B8C3E" data-pp="virus" stroke-width="1.5"/>
+    <circle cx="50" cy="3" r="2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+  </g>
+  <g id="layer-annotation-prd1" data-name="annotation">
+    <text x="72" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">capsid</text>
+    <text x="72" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">lipid</text>
+    <text x="69.12" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">bilayer</text>
+    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">PRD1-like</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆环" data-name-en="Annulus" data-cat="geometry-math" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19">圆环 / annulus</title>
+  <desc id="d-19">标注内外半径R和r。关键词: annulus,ring,geometry</desc>
+  <g id="g-19-圆环">
+    <circle cx="60" cy="60" r="48" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="25" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="2" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="60" y1="60" x2="60" y2="12" stroke="#0072B2" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <line fill="none" x1="60" y1="60" x2="60" y2="35" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <text x="64" y="25" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#0072B2" text-anchor="start" data-drole="series-1">R</text>
+    <text x="64" y="50" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#D55E00" text-anchor="start" stroke-dasharray="6 3" data-drole="series-2">r</text>
+  </g>
+</svg>

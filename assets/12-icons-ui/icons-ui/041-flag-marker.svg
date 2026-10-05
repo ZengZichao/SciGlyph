@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="旗帜标记" data-name-en="flag_marker" data-cat="basic-icons-ui" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">旗帜标记 / flag_marker</title>
+  <desc id="d-41">标记与旗帜图标。关键词: 旗帜,标记,flag,marker</desc>
+  <g id="g-41-旗帜标记">
+    <line x1="10" y1="6" x2="10" y2="42" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="10,8 38,14 10,22" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

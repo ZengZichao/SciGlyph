@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="汇合圈" data-name-en="Activity Merge Circle" data-cat="diagrams-sw-uml" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30">汇合圈 / activity_merge_circle</title>
+  <desc id="d-30">活动图汇合(实心圆)节点。关键词: merge,join,activity</desc>
+  <g id="g-30-汇合圈">
+    <circle cx="48" cy="24" r="10" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

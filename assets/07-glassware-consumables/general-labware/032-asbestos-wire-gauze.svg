@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="石棉网" data-name-en="asbestos_wire_gauze" data-cat="lab-equipment" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-32">石棉网 / asbestos_wire_gauze</title>
+  <desc id="d-32">均匀分散加热热量。关键词: 石棉网,gauze,加热,均匀</desc>
+  <g id="g-32-石棉网">
+    <rect x="15" y="15" width="90" height="50" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="30" y1="15" x2="30" y2="65" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="45" y1="15" x2="45" y2="65" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="60" y1="15" x2="60" y2="65" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="75" y1="15" x2="75" y2="65" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="90" y1="15" x2="90" y2="65" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="15" y1="28" x2="105" y2="28" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="15" y1="40" x2="105" y2="40" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="15" y1="52" x2="105" y2="52" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="15" cy="15" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="105" cy="15" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="15" cy="65" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="105" cy="65" r="3" fill="#6b7280" stroke="none"/>
+  </g>
+</svg>

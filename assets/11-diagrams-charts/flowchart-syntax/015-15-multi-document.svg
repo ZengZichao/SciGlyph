@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="多文档" data-name-en="multi-document" data-cat="flowchart-logic" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15">多文档 / multi_document</title>
+  <desc id="d-15">多文档输出。关键词: flowchart,document,multi</desc>
+  <g id="g-15-多文档">
+    <path d="M20,8 L108,8 L108,48 Q95,42 82,48 Q69,54 56,48 Q43,42 30,48 Q20,52 20,48 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M15,14 L103,14 L103,54 Q90,48 77,54 Q64,60 51,54 Q38,48 25,54 Q15,58 15,54 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="58" y="40" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">Docs</text>
+  </g>
+</svg>

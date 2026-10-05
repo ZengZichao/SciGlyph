@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="采样—提取—建库—测序流程" data-name-en="Sampling-to-Sequencing Workflow" data-cat="05-eco-seq" data-tags="采样,DNA提取,建库,测序,流程条,宏基因组" role="img" aria-labelledby="t-17-sampling-workflow d-17-sampling-workflow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17-sampling-workflow">采样—提取—建库—测序流程 / Sampling-to-Sequencing Workflow</title>
+  <desc id="d-17-sampling-workflow">无菌采样后裂解细胞获取核酸，加接头建库并上机测序，四个步骤以箭头串联构成组学分析前端流程。关键词: 采样, DNA提取, 建库, 测序, 流程条, 宏基因组</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 流程主干与方向箭头 -->
+  <path d="M9 20 H111" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M29 20 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M57 20 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M85 20 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <!-- 步骤徽标 -->
+  <circle cx="17" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="45" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="73" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="101" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#FFFFFF" stroke="none" text-anchor="middle">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="17" y="24">①</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="45" y="24">②</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="73" y="24">③</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="101" y="24">④</text>
+  </g>
+  <path d="M17 29 V36 M45 29 V36 M73 29 V36 M101 29 V36" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- ① 环境采样：无菌拭子 + 样本管 -->
+  <path d="M5 70 Q17 66 29 70" stroke="#7A8B93" stroke-width="1.4"/>
+  <circle cx="12" cy="62" r="2" fill="#7A8B93" stroke="none"/>
+  <circle cx="23" cy="60" r="2" fill="#7A8B93" stroke="none"/>
+  <path d="M17 38 V60" stroke="#2B3A42" stroke-width="1.4"/>
+  <ellipse cx="17" cy="63" rx="3" ry="4" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="6" y="74" width="22" height="6" rx="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M8 80 H26 V98 A9 9 0 0 1 8 98 Z" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M8 88 H26 V98 A9 9 0 0 1 8 98 Z" fill="#7A8B93" fill-opacity="0.45" stroke="none"/>
+  <circle cx="13" cy="92" r="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="21" cy="94" r="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- ② 提取：裂解与 DNA 释放 -->
+  <ellipse cx="45" cy="58" rx="11" ry="7" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.6"/>
+  <path d="M36 55 l5 3 M54 58 l-5 3" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M45 66 v6" stroke="#5B4B8A" stroke-width="1.4" stroke-dasharray="2 2"/>
+  <path d="M40 74 C40 80 50 82 50 88" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M50 74 C50 80 40 82 40 88" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M40 88 C40 92 50 92 50 96" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M50 88 C50 92 40 92 40 96" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M37 80 H53 V100 A8 8 0 0 1 37 100 Z" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M37 92 H53 V100 A8 8 0 0 1 37 100 Z" fill="#B7D7E8" fill-opacity="0.6" stroke="none"/>
+  <!-- ③ 建库：片段 + 接头 + 扩增 -->
+  <path d="M64 76 q4 -5 9 0 t9 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M64 80 q4 5 9 0 t9 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M67.5 74.5 V81.5 M73 74.5 V81.5 M78.5 74.5 V81.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <rect x="60" y="74" width="5" height="8" rx="1" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="81" y="74" width="5" height="8" rx="1" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M73 66 v-5 m-2.5 2.5 l2.5 -2.5 l2.5 2.5" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M73 86 v4" stroke="#5B4B8A" stroke-width="1.4"/>
+  <rect x="62" y="92" width="22" height="8" rx="2" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.4"/>
+  <rect x="65" y="88" width="16" height="4" rx="1.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="70" cy="90" r="1.2" fill="#1F6F8B" stroke="none"/>
+  <!-- ④ 测序：流动池 + 成像光束 + 读段 -->
+  <path d="M94 30 L106 30 L100 70 L90 70 Z" fill="#E8B04B" fill-opacity="0.2" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <rect x="96" y="26" width="8" height="5" rx="1.5" fill="#5B4B8A" stroke="none"/>
+  <rect x="90" y="70" width="22" height="20" rx="2" fill="#DCEEE4" fill-opacity="0.5" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M90 86 H112" stroke="#1F6F8B" stroke-width="1.4"/>
+  <circle cx="95" cy="80" r="2" fill="#2E7D5B" stroke="none"/>
+  <circle cx="101" cy="78" r="2" fill="#C0504D" stroke="none"/>
+  <circle cx="107" cy="81" r="2" fill="#E8B04B" stroke="none"/>
+  <circle cx="99" cy="83" r="2" fill="#2E7D5B" stroke="none"/>
+  <path d="M90 96 h22" stroke="#2E7D5B" stroke-width="3" stroke-opacity="0.8"/>
+  <path d="M90 101 h14" stroke="#C0504D" stroke-width="3" stroke-opacity="0.8"/>
+  <path d="M90 106 h18" stroke="#1F6F8B" stroke-width="3" stroke-opacity="0.8"/>
+</g>
+</svg>

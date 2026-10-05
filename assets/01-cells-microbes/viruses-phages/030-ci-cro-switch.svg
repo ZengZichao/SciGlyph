@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-ci_cro_switch d-ci_cro_switch" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-ci_cro_switch">cI/Cro开关 / cI Cro lysis lysogeny switch</title>
+  <desc id="d-ci_cro_switch">λ噬菌体裂解-溶原决定开关：cI阻遏蛋白维持溶原态(抑制Cro)，Cro蛋白促进裂解(抑制cI)。双负反馈toggle switch。SOS反应(RecA)切割cI诱导裂解。关键词: cI, Cro, lysis-lysogeny decision, toggle switch, PRM, PR</desc>
+  <g id="layer-body-ci_cro_switch" data-name="body">
+    <!-- Two states -->
+    <!-- Lysogenic state (cI dominant) -->
+    <rect x="5" y="15" width="40" height="30" rx="5" ry="5" fill="#F4F1EA" data-pp="bg" stroke="#5B8C3E" stroke-width="1.5"/>
+    <text x="25" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus" text-anchor="middle">cI ↑</text>
+    <text x="25" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">lysogeny</text>
+    <!-- Lytic state (Cro dominant) -->
+    <rect x="55" y="15" width="40" height="30" rx="5" ry="5" fill="#F4F1EA" data-pp="bg" stroke="#C42D2D" stroke-width="1.5"/>
+    <text x="75" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Cro ↑</text>
+    <text x="75" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">lytic</text>
+    <!-- Toggle arrow -->
+    <path d="M46,30 L54,30" fill="none" stroke="#1B2733" stroke-width="1.5"/>
+    <polygon points="52,28 56,30 52,32" fill="#1B2733" data-pp="ink"/>
+    <polygon points="48,28 44,30 48,32" fill="#1B2733" data-pp="ink"/>
+    <!-- Regulatory elements -->
+    <text x="25" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">PRM → cI</text>
+    <text x="25" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">⊣ Cro</text>
+    <text x="75" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">PR → Cro</text>
+    <text x="75" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">⊣ cI</text>
+    <!-- DNA bar -->
+    <rect x="10" y="78" width="80" height="4" rx="2" ry="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <rect x="20" y="76" width="8" height="8" rx="1" ry="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="72" y="76" width="8" height="8" rx="1" ry="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  </g>
+  <g id="layer-annotation-ci_cro_switch" data-name="annotation">
+    <text x="24" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cI</text>
+    <text x="76" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cro</text>
+  </g>
+</svg>

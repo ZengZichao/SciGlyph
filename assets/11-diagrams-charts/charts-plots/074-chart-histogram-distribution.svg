@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-histogram-distribution" data-cat="ch" data-spec="128"
+     data-tags="chart,histogram,distribution,normal,curve,frequency" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">直方图钟形曲线 / Chart Histogram Distribution</title>
+  <desc id="d">直方图加拟合钟形曲线。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="28" y="85" width="10" height="23" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="40" y="65" width="10" height="43" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="52" y="40" width="10" height="68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="64" y="30" width="10" height="78" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="76" y="40" width="10" height="68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="88" y="65" width="10" height="43" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="100" y="85" width="10" height="23" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M24,95 Q40,70 52,45 Q64,25 76,45 Q88,70 104,95" fill="#E02020" stroke="none" stroke-dasharray="4,3" data-ls="danger"/>
+  </g>
+</svg>

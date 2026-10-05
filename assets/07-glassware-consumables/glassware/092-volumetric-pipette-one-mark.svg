@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-volumetric-pipette-one-mark" data-cat="gl" data-spec="128"
+     data-tags="pipette,volumetric,one mark,bulb,transfer,precise" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">单标线大肚吸管 / Volumetric Pipette (One Mark)</title>
+  <desc id="d">单标线大肚吸管(移液管)，用于精确移取固定体积。</desc>
+  <g id="body"><path d="M60 8 L60 36 Q44 42 44 58 Q44 74 60 80 L60 116 L68 116 L68 80 Q84 74 84 58 Q84 42 68 36 L68 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 52 Q48 70 60 76 L60 112 L68 112 L68 76 Q80 70 80 52 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/><path d="M60 36 L68 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

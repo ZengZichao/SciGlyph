@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="脂双层" data-name-en="Lipid Bilayer" data-cat="natural-sciences" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">脂双层 / lipid_bilayer</title>
+  <desc id="d-21">展示脂双层剖面结构。关键词: lipid bilayer,membrane,phospholipid</desc>
+  <g id="g-21-脂双层">
+    <circle cx="40" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="36" y1="88" x2="33" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="44" y1="88" x2="47" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="76" y1="88" x2="73" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="84" y1="88" x2="87" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="120" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="116" y1="88" x2="113" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="124" y1="88" x2="127" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="160" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="156" y1="88" x2="153" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="164" y1="88" x2="167" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="200" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="196" y1="88" x2="193" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="204" y1="88" x2="207" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="240" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="236" y1="88" x2="233" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="244" y1="88" x2="247" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="280" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="276" y1="88" x2="273" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="284" y1="88" x2="287" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="40" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="36" y1="152" x2="33" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="44" y1="152" x2="47" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="76" y1="152" x2="73" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="84" y1="152" x2="87" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="120" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="116" y1="152" x2="113" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="124" y1="152" x2="127" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="160" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="156" y1="152" x2="153" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="164" y1="152" x2="167" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="200" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="196" y1="152" x2="193" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="204" y1="152" x2="207" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="240" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="236" y1="152" x2="233" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="244" y1="152" x2="247" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="280" cy="160" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="276" y1="152" x2="273" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="284" y1="152" x2="287" y2="125" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-22_anti_crispr d-22_anti_crispr" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22_anti_crispr">抗CRISPR / Anti-CRISPR (Acr)</title>
+  <desc id="d-22_anti_crispr">噬菌体抗CRISPR蛋白(Acr)。阻断Cas蛋白功能。AcrIIA4抑制Cas9。关键词: anti-CRISPR, Acr, phage defense, Cas inhibitor</desc>
+  <g id="layer-body" data-name="body">
+        <rect x="15" y="35" width="25" height="15" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="27.5" y="44.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cas9</text>
+        <rect x="55" y="35" width="20" height="15" rx="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <text x="65.0" y="44.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Acr</text>
+    <line x1="40" y1="42" x2="55" y2="42" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
+    <text x="47" y="40" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">X</text>
+      <line x1="10" y1="42" x2="90" y2="42" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+    <line x1="42" y1="36" x2="52" y2="48" stroke="#C42D2D" data-pp="alert" stroke-width="1.5"/>
+    <line x1="52" y1="36" x2="42" y2="48" stroke="#C42D2D" data-pp="alert" stroke-width="1.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Acr blocks Cas</text>
+    <text x="50" y="78" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">phage counter-defense</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">AcrIIA4, AcrF etc</text>
+  </g>
+</svg>

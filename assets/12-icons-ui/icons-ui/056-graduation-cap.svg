@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="学士帽" data-name-en="graduation_cap" data-cat="basic-icons-ui" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-56">学士帽 / graduation_cap</title>
+  <desc id="d-56">毕业与学位图标。关键词: 毕业,学位,graduation,cap</desc>
+  <g id="g-56-学士帽">
+    <polygon points="24,8 44,20 24,30 4,20" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12 22 L12 34 Q24 42 36 34 L36 22" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="44" y1="20" x2="44" y2="36" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-cv_biofilm d-cv_biofilm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cv_biofilm">结晶紫生物被膜 / Crystal violet biofilm microtiter assay</title>
+  <desc id="d-cv_biofilm">结晶紫生物被膜定量：96孔板培养→染色→溶解→OD测量。评估生物被膜形成能力。关键词: crystal violet, biofilm assay, microtiter plate, quantification, OD</desc>
+  <g id="layer-body-cv_biofilm" data-name="body">
+    
+    <circle cx="25" cy="30" r="12" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1" />
+    <circle cx="25" cy="30" r="8" fill="#A2305B" data-pp="archaea" stroke="none" fill-opacity="0.2" />
+    <circle cx="50" cy="30" r="12" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1" />
+    <circle cx="50" cy="30" r="8" fill="#A2305B" data-pp="archaea" stroke="none" fill-opacity="0.5" />
+    <circle cx="75" cy="30" r="12" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1" />
+    <circle cx="75" cy="30" r="8" fill="#A2305B" data-pp="archaea" stroke="none" fill-opacity="0.8" />
+    
+    <text x="25" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">none</text>
+    <text x="50" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">weak</text>
+    <text x="75" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">strong</text>
+  </g>
+  <g id="layer-annotation-cv_biofilm" data-name="annotation">
+    <text x="50" y="64.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">crystal violet</text>
+    <text x="50" y="72.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">biofilm assay</text>
+    <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">96-well plate</text>
+  </g>
+</svg>

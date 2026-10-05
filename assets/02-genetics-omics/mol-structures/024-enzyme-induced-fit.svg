@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="诱导契合" data-name-en="Enzyme Induced Fit" data-cat="natural-sciences" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-35">诱导契合 / enzyme_induced_fit</title>
+  <desc id="d-35">展示酶诱导契合模型。关键词: enzyme,induced fit,conformational change</desc>
+  <g id="g-35-诱导契合">
+    <path d="M30,40 C35,35 45,35 50,40 L50,80 C45,85 35,85 30,80 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M50,50 C55,48 60,50 65,55 L65,65 C60,70 55,72 50,70 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="90" cy="60" r="15" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M65,55 C70,52 75,55 80,60" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <path d="M65,65 C70,68 75,65 80,60" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+  </g>
+</svg>

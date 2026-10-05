@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-34 d-34" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">祖先状态重建: 连续性状曲线 / ASR: continuous</title>
+  <desc id="d-34">装饰零件，贴到树上用。连续性状曲线祖先状态重建。 关键词: tree decoration, ASR, ancestral state reconstruction, continuous trait, trait curve</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="asr-continuous">
+    <path d="M 80 250 L 150 180 L 220 200 L 290 150 L 360 120" fill="none" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-linecap="round"/>
+    <circle cx="80" cy="250" r="4" fill="#6C3FA0" data-pp="gene"/>
+    <circle cx="150" cy="180" r="4" fill="#6C3FA0" data-pp="gene"/>
+    <circle cx="220" cy="200" r="4" fill="#6C3FA0" data-pp="gene"/>
+    <circle cx="290" cy="150" r="4" fill="#6C3FA0" data-pp="gene"/>
+    <circle cx="360" cy="120" r="4" fill="#6C3FA0" data-pp="gene"/>
+  </g>
+  <g data-name="annotation">
+    <line x1="80" y1="300" x2="360" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80" y1="100" x2="80" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <path d="M 80 260 L 150 195 L 220 210 L 290 165 L 360 130" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-dasharray="3 2" stroke-opacity="0.4"/>
+    <path d="M 80 240 L 150 165 L 220 190 L 290 135 L 360 110" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-dasharray="3 2" stroke-opacity="0.4"/>
+    <circle cx="80" cy="250" r="8" fill="#6C3FA0" fill-opacity="0.15" stroke="none" data-pp="gene"/>
+    <circle cx="360" cy="120" r="8" fill="#6C3FA0" fill-opacity="0.15" stroke="none" data-pp="gene"/>
+    <line x1="80" y1="200" x2="360" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4 2"/>
+    <rect x="80" y="310" width="280" height="4" fill="#6C3FA0" fill-opacity="0.2" stroke="none" data-pp="gene"/>
+  </g>
+</svg>

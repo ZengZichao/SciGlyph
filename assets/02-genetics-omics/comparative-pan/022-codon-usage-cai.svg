@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-codon_usage_cai d-codon_usage_cai" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-codon_usage_cai">密码子使用偏性 CAI / Codon usage bias CAI comparison</title>
+  <desc id="d-codon_usage_cai">密码子使用偏性CAI比较。schematic, not to scale. 关键词: CAI, codon, bias</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="390" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species</text>
+
+  <line x1="80" y1="340" x2="80" y2="325" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="80" y1="340" x2="80" y2="255" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="80" y1="340" x2="80" y2="185" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="80" y1="340" x2="80" y2="115" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#93A0AC" stroke-width="1" data-pp="muted"/>
+  <rect x="440" y="55" width="12" height="12" fill="#00857A" data-pp="metabolism"/>
+  <text x="456" y="65" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">High CAI</text>
+  <rect x="440" y="72" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+  <text x="456" y="82" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Low CAI</text>
+</g>
+<g data-name="cai-bars">
+  <rect x="95" y="107.5" width="40" height="232.5" fill="#00857A" data-pp="metabolism"/>
+  <text x="115" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp1</text>
+  <text x="115" y="102.47658550886152" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.93</text>
+  <rect x="160" y="204.8" width="40" height="135.2" fill="#E8871E" data-pp="mge"/>
+  <text x="180" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp2</text>
+  <text x="180" y="199.77077568262413" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.54</text>
+  <rect x="225" y="170.8" width="40" height="169.2" fill="#E8871E" data-pp="mge"/>
+  <text x="245" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp3</text>
+  <text x="245" y="165.81678438714448" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.68</text>
+  <rect x="290" y="115.3" width="40" height="224.7" fill="#00857A" data-pp="metabolism"/>
+  <text x="310" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp4</text>
+  <text x="310" y="110.25922259940899" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.90</text>
+  <rect x="355" y="119.7" width="40" height="220.3" fill="#00857A" data-pp="metabolism"/>
+  <text x="375" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp5</text>
+  <text x="375" y="114.7434553944922" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.88</text>
+  <rect x="420" y="131.6" width="40" height="208.4" fill="#00857A" data-pp="metabolism"/>
+  <text x="440" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp6</text>
+  <text x="440" y="126.62192808016371" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.83</text>
+  <rect x="485" y="166.7" width="40" height="173.3" fill="#E8871E" data-pp="mge"/>
+  <text x="505" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp7</text>
+  <text x="505" y="161.67893260716605" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.69</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Codon Usage Bias — CAI Comparison (schematic)</text>
+</svg>

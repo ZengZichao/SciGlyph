@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-flagella_stain d-flagella_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flagella_stain">Flagella Stain</title>
+  <desc id="d-flagella_stain">鞭毛染色增粗鞭毛使其可见, 观察鞭毛着生方式。关键词: flagella stain, Leifson, peritrichous, polar, motility</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <path d="M38,45 Q25,35 15,40 Q10,42 8,38" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M38,42 Q28,30 18,32 Q12,33 10,28" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M42,35 Q35,20 25,18" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M62,45 Q75,35 85,40 Q90,42 92,38" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M62,48 Q75,55 85,52 Q90,50 92,55" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M55,35 Q60,20 70,18" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M50,57 Q50,70 45,80" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">flagellum</text>
+  </g>
+</svg>

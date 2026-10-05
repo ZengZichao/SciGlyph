@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>立式压力蒸汽灭菌器</title>
+  <rect x="5" y="5" width="14" height="14" rx="1" />
+  <path d="M6 5 L12 2.5 L18 5" stroke-width="1.25" />
+  <line x1="8" y1="3" x2="8" y2="5" stroke-width="1" />
+  <line x1="16" y1="3" x2="16" y2="5" stroke-width="1" />
+  <circle cx="9" cy="3.5" r="0.5" fill="currentColor" stroke="none" />
+  <circle cx="15" cy="3.5" r="0.5" fill="currentColor" stroke="none" />
+  <circle cx="9" cy="10" r="2" stroke-width="1" />
+  <line x1="9" y1="8.5" x2="9.5" y2="9.5" stroke-width="0.75" />
+  <circle cx="15" cy="10" r="2" stroke-width="1" />
+  <line x1="15" y1="8.5" x2="15.5" y2="9.5" stroke-width="0.75" />
+  <line x1="7" y1="19" x2="7" y2="21" stroke-width="1.25" />
+  <line x1="17" y1="19" x2="17" y2="21" stroke-width="1.25" />
+</svg>

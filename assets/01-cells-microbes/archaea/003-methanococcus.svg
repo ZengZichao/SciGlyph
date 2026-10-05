@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-methanococcus d-methanococcus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-methanococcus">甲烷球菌 / Methanococcus</title>
+  <desc id="d-methanococcus">球形细胞，单端丛毛(archaellum)，仅蛋白质S层包被、无刚性细胞壁。纲 Methanococci（GTDB 门 Methanobacteriota；旧称 Euryarchaeota 已拆分）。关键词: Methanococcus, coccus, archaellum, S-layer, methanogen, Methanococci</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="40" cy="50" rx="14" ry="12" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="40" cy="50" r="11" fill="none" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-dasharray="2,1"/>
+    <path d="M54.0,47.0 L56.1,49.3 L58.3,49.9 L60.4,48.3 L62.6,45.7 L64.7,44.1 L66.9,44.7 L69.0,47.0 L71.1,49.3 L73.3,49.9 L75.4,48.3 L77.6,45.7 L79.7,44.1 L81.9,44.7 L84.0,47.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.0,50.0 L56.1,52.3 L58.3,52.9 L60.4,51.3 L62.6,48.7 L64.7,47.1 L66.9,47.7 L69.0,50.0 L71.1,52.3 L73.3,52.9 L75.4,51.3 L77.6,48.7 L79.7,47.1 L81.9,47.7 L84.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M54.0,53.0 L56.1,55.3 L58.3,55.9 L60.4,54.3 L62.6,51.7 L64.7,50.1 L66.9,50.7 L69.0,53.0 L71.1,55.3 L73.3,55.9 L75.4,54.3 L77.6,51.7 L79.7,50.1 L81.9,50.7 L84.0,53.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="54" y1="42" x2="70" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <line x1="62.0" y1="19.9" x2="56.1" y2="16.26" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="18.36" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">archaellum</text>
+    <line x1="33" y1="43" x2="20" y2="28" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="11.41" y="25.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">S-layer only</text>
+    <text x="20" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Methanococci</text>
+  </g>
+</svg>

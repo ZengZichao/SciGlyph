@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-u-tube" data-cat="gl" data-spec="128"
+     data-tags="u-tube,drying,desiccant,u-shape,guard" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">U形管 / U-Tube</title>
+  <desc id="d">U形干燥管，内填干燥剂，用于保护反应体系。</desc>
+  <g id="body"><path d="M30 14 L30 88 Q30 112 54 112 L74 112 Q98 112 98 88 L98 14 L86 14 L86 88 Q86 100 74 100 L54 100 Q42 100 42 88 L42 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 70 L44 88 Q44 98 54 98 L74 98 Q84 98 84 88 L84 70 Z" fill="#7FC26B" opacity="0.6" stroke="none" data-ls="liquid-2"/><path d="M44 70 L84 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M28 12 L44 12 L44 16 L28 16 Z" fill="#33414F" opacity="0.3" stroke="none" data-ls="dark"/><path d="M84 12 L100 12 L100 16 L84 16 Z" fill="#33414F" opacity="0.3" stroke="none" data-ls="dark"/></g>
+  
+</svg>

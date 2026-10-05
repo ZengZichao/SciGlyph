@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>台式临床离心机</title>
+  <rect x="4" y="8" width="16" height="10" rx="1" />
+  <path d="M4 8 Q12 3 20 8" stroke-width="1.25" />
+  <line x1="6" y1="8" x2="6" y2="6" stroke-width="1" />
+  <line x1="6" y1="6" x2="12" y2="4.5" stroke-width="0.75" />
+  <circle cx="8" cy="13" r="2.5" stroke-width="1" />
+  <circle cx="8" cy="13" r="0.75" stroke-width="0.75" />
+  <circle cx="15" cy="12" r="1.5" stroke-width="1" />
+  <circle cx="18" cy="12" r="1" stroke-width="0.75" />
+  <line x1="6" y1="18" x2="6" y2="20" stroke-width="1" />
+  <line x1="18" y1="18" x2="18" y2="20" stroke-width="1" />
+</svg>

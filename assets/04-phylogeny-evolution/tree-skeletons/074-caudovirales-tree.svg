@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-42 d-42" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-42">有尾病毒分类树 / Tailed viruses (Caudoviricetes)</title>
+  <desc id="d-42">骨架，配合ICTV/PhaGCNS使用。有尾病毒(class Caudoviricetes)分类树，tip 按尾型分组：Myo=肌尾型、Siph=长尾型、Pod=短尾型、Auto=Autographiviridae。旧称“目 Caudovirales”已被 ICTV 废止，仅作历史名保留在本描述中。绿色带=形态群 A(肌尾/长尾)，紫色带=形态群 B(短尾/自转录型)，色带仅区分分支群，不表示宿主域。 关键词: tailed virus, Caudoviricetes, Caudovirales obsolete, ICTV, phage taxonomy, Myoviridae, Siphoviridae, Podoviridae, Autographiviridae, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp42__clades" data-name="clade-shading">
+    <rect x="102.7" y="24.0" width="61.3" height="149.1" fill="#5B8C3E" data-pp="virus" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="102.7" y="206.9" width="61.3" height="149.1" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-B"/>
+  </g>
+  <g id="pp42__branches" data-name="branches">
+    <line x1="80.0" y1="98.6" x2="80.0" y2="281.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="52.9" x2="106.7" y2="144.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="30.0" x2="133.3" y2="75.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="121.4" x2="133.3" y2="167.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="235.7" x2="106.7" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="212.9" x2="133.3" y2="258.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="304.3" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="98.6" x2="106.7" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="52.9" x2="133.3" y2="52.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="30.0" x2="160.0" y2="30.0" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="75.7" x2="160.0" y2="75.7" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="106.7" y1="144.3" x2="133.3" y2="144.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="121.4" x2="160.0" y2="121.4" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="167.1" x2="160.0" y2="167.1" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="80.0" y1="281.4" x2="106.7" y2="281.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="235.7" x2="133.3" y2="235.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="212.9" x2="160.0" y2="212.9" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="258.6" x2="160.0" y2="258.6" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="106.7" y1="327.1" x2="133.3" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="304.3" x2="160.0" y2="304.3" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+  </g>
+  <g id="pp42__nodes" data-name="nodes">
+    <circle cx="80.0" cy="190.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="98.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="52.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="144.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="281.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="235.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="327.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp42__labels" data-name="tip-labels">
+    <text x="165.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Myo1</text>
+    <text x="165.0" y="78.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Myo2</text>
+    <text x="165.0" y="124.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Siph1</text>
+    <text x="165.0" y="170.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Siph2</text>
+    <text x="165.0" y="215.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Pod1</text>
+    <text x="165.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Pod2</text>
+    <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Auto1</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Auto2</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+  </g>
+</svg>

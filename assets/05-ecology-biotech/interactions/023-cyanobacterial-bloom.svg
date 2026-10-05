@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-cyanobacterial_bloom d-cyanobacterial_bloom" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cyanobacterial_bloom">蓝细菌水华 / Cyanobacterial Bloom</title>
+  <desc id="d-cyanobacterial_bloom">蓝细菌水华: 富营养化导致微囊藻等大量繁殖, 产生毒素。关键词: cyanobacterial bloom, Microcystis, eutrophication, microcystin, toxin, harmful algal bloom</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="25" width="70" height="45" rx="3" fill="#00857A" fill-opacity="0.2" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism"/>
+    <circle cx="30" cy="40" r="5" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="45" cy="35" r="6" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="60" cy="42" r="5" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="38" cy="52" r="4" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="55" cy="55" r="5" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="70" cy="50" r="4" fill="#00857A" data-pp="metabolism"/>
+    <text x="50" y="75" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">toxin</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">水华</text>
+  </g>
+</svg>

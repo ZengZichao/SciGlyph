@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>保护柱</title>
+  <rect x="8" y="7" width="8" height="10" rx="1"/>
+  <path d="M8 7l-1.5-2h3"/>
+  <path d="M16 17l1.5 2h-3"/>
+  <line x1="6.5" y1="5" x2="5" y2="3.5" stroke-width="1"/>
+  <line x1="17.5" y1="19" x2="19" y2="20.5" stroke-width="1"/>
+  <line x1="8" y1="12" x2="16" y2="12" stroke-width="0.75"/>
+</svg>

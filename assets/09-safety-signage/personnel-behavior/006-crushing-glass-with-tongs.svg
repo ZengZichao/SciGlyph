@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-crushing-glass-with-tongs" data-cat="pp" data-spec="128"
+     data-tags="tongs,broken glass,sharps,disposal,tweezers" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">钳子夹碎玻璃 / Crushing Glass with Tongs</title>
+  <desc id="d">用钳子夹碎玻璃放入利器盒。</desc>
+  
+  <g id="figure"><circle cx="48" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M38 28 L36 70 L30 116 L42 116 L48 80 L54 116 L66 116 L60 70 L58 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M58 34 L72 40 L78 50 L74 52 L70 44 L58 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M74 46 L80 46 L80 56 L74 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M78 48 L96 36 L98 38 L80 50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M78 52 L96 44 L98 46 L80 54" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <rect d="M86 68 L110 68 L108 108 L88 108 Z" fill="#E02020" opacity="0.2" stroke="none" data-ls="danger"/>
+     <path d="M86 68 L110 68 L108 108 L88 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M92 78 L104 78" fill="#E02020" stroke="none" data-ls="danger"/>
+     <path d="M92 84 L104 84" fill="#E02020" stroke="none" data-ls="danger"/></g>
+</svg>

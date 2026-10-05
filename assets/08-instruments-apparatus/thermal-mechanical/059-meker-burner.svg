@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-meker-burner" data-cat="hc" data-spec="128"
+     data-tags="meker,burner,gas,grid,flame,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">梅克尔灯（Meker）/ Meker Burner</title>
+  <desc id="d">Meker-Fisher燃气灯：底座+宽管+空气调节环+顶部金属网格，网格上多束短火焰，温度高于本生灯。</desc>
+  <g id="body"><path d="M40 104 L88 104 L88 116 L40 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M54 104 L54 46 L74 46 L74 104" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="48" y="78" width="32" height="8" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="46" y="38" width="36" height="8" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail">
+    <path d="M52 38.8 L52 45.2 M58 38.8 L58 45.2 M64 38.8 L64 45.2 M70 38.8 L70 45.2 M76 38.8 L76 45.2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M52 37 C49.2 32.5 49.2 28 52 23 C54.8 28 54.8 32.5 52 37 Z" fill="#2B7DE9" opacity="0.55" stroke="none" data-ls="accent"/>
+    <path d="M52 36 C50.8 33 50.8 30.5 52 27.5 C53.2 30.5 53.2 33 52 36 Z" fill="#BFE0FF" opacity="0.9" stroke="none" data-ls="liquid"/>
+    <path d="M58 37 C55.2 32.5 55.2 28 58 23 C60.8 28 60.8 32.5 58 37 Z" fill="#2B7DE9" opacity="0.55" stroke="none" data-ls="accent"/>
+    <path d="M58 36 C56.8 33 56.8 30.5 58 27.5 C59.2 30.5 59.2 33 58 36 Z" fill="#BFE0FF" opacity="0.9" stroke="none" data-ls="liquid"/>
+    <path d="M64 37 C61.2 32.5 61.2 28 64 23 C66.8 28 66.8 32.5 64 37 Z" fill="#2B7DE9" opacity="0.55" stroke="none" data-ls="accent"/>
+    <path d="M64 36 C62.8 33 62.8 30.5 64 27.5 C65.2 30.5 65.2 33 64 36 Z" fill="#BFE0FF" opacity="0.9" stroke="none" data-ls="liquid"/>
+    <path d="M70 37 C67.2 32.5 67.2 28 70 23 C72.8 28 72.8 32.5 70 37 Z" fill="#2B7DE9" opacity="0.55" stroke="none" data-ls="accent"/>
+    <path d="M70 36 C68.8 33 68.8 30.5 70 27.5 C71.2 30.5 71.2 33 70 36 Z" fill="#BFE0FF" opacity="0.9" stroke="none" data-ls="liquid"/>
+    <path d="M76 37 C73.2 32.5 73.2 28 76 23 C78.8 28 78.8 32.5 76 37 Z" fill="#2B7DE9" opacity="0.55" stroke="none" data-ls="accent"/>
+    <path d="M76 36 C74.8 33 74.8 30.5 76 27.5 C77.2 30.5 77.2 33 76 36 Z" fill="#BFE0FF" opacity="0.9" stroke="none" data-ls="liquid"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="等边三角形" data-name-en="Equilateral Triangle" data-cat="geometry-math" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">等边三角形 / triangle_equilateral</title>
+  <desc id="d-03">三边相等的三角形。关键词: triangle,equilateral,geometry</desc>
+  <g id="g-03-等边三角形">
+    <polygon points="60,12 18,84 102,84" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="60" y="12" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="12" y="96" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="108" y="96" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-valve-needle-tight" data-cat="cs" data-spec="128"
+     data-tags="valve,needle,tight seal,precision,flow control" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">针阀 / Needle Valve (Tight Seal)</title>
+  <desc id="d">针阀，精密流量控制，密封性好。</desc>
+  <g id="body"><path d="M48 38 L48 90 Q48 96 54 96 L74 96 Q80 96 80 90 L80 38 Q80 32 74 32 L54 32 Q48 32 48 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M18 54 L48 54 L48 74 L18 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M80 54 L110 54 L110 74 L80 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M56 14 L56 34 L72 34 L72 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M52 10 L52 16 L76 16 L76 10 Q72 8 64 8 Q56 8 52 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M60 20 L68 20 M60 26 L68 26" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M64 8 L60 4 L68 4 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  
+</svg>

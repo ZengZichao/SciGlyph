@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-round-bottom-3-neck" data-cat="gl" data-spec="128"
+     data-tags="round bottom,flask,three neck,reaction,multi-neck" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">三口圆底烧瓶 / 3-Neck Round Bottom Flask</title>
+  <desc id="d">三口圆底烧瓶，中间口+两侧口，用于复杂反应装置。</desc>
+  <g id="body"><path d="M56 16 L56 42 Q26 50 26 78 Q26 114 64 114 Q102 114 102 78 Q102 50 72 42 L72 16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M30 52 L30 36 L42 36 L42 48 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M86 48 L86 36 L98 36 L98 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M30 80 Q30 110 64 110 Q98 110 98 80 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M30 80 L98 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 16 L72 16 M30 36 L42 36 M86 36 L98 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

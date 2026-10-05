@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-gut_microbiome d-gut_microbiome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gut_microbiome">Gut Microbiome</title>
+  <desc id="d-gut_microbiome">管腔层分区, 产短链脂肪酸。关键词: gut microbiome, intestine, mucosa, lumen, SCFA, butyrate, microbiota</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="20" width="60" height="55" rx="5" fill="#8C6D3F" fill-opacity="0.3" stroke="#1B2733" stroke-width="1.5" data-pp="host"/>
+    <rect x="25" y="25" width="50" height="20" rx="2" fill="#2E86AB" fill-opacity="0.3" data-pp="bacteria"/>
+    <rect x="25" y="50" width="50" height="20" rx="2" fill="#00857A" fill-opacity="0.3" data-pp="metabolism"/>
+    <circle cx="35" cy="35" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="45" cy="32" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="55" cy="38" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="65" cy="34" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="35" cy="60" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="50" cy="58" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="65" cy="62" r="2" fill="#00857A" data-pp="metabolism"/>
+    <text x="50" y="40" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Lumen</text>
+    <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Mucosa</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Gut</text>
+  </g>
+</svg>

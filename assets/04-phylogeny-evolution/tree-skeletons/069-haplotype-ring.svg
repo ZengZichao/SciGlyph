@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-37 d-37" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">环状单倍型网络 / Ring Haplotype Network</title>
+  <desc id="d-37">骨架，配合popART使用。环状系统地理单倍型网络。 关键词: phylogenetic tree, haplotype ring, Network, popART, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="network-edges">
+    <line x1="300" y1="80" x2="404" y2="140" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="404" y1="140" x2="404" y2="260" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="404" y1="260" x2="300" y2="320" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="320" x2="196" y2="260" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="196" y1="260" x2="196" y2="140" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="196" y1="140" x2="300" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="haplotypes">
+    <circle cx="300" cy="80" r="15" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="300" y="80" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H1</text>
+    <circle cx="404" cy="140" r="20" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="404" y="140" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H2</text>
+    <circle cx="404" cy="260" r="25" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="404" y="260" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H3</text>
+    <circle cx="300" cy="320" r="15" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="300" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H4</text>
+    <circle cx="196" cy="260" r="20" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="196" y="260" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H5</text>
+    <circle cx="196" cy="140" r="25" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1.5" data-pp="archaea"/>
+    <text x="196" y="140" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H6</text>
+    <circle cx="300" cy="200" r="18" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <text x="300" y="200" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" dominant-baseline="central">H7</text>
+    <line x1="300" y1="200" x2="300" y2="80" stroke="#1B2733" stroke-width="1" stroke-dasharray="2,2" data-pp="ink"/>
+    <line x1="300" y1="200" x2="404" y2="260" stroke="#1B2733" stroke-width="1" stroke-dasharray="2,2" data-pp="ink"/>
+  </g>
+</svg>

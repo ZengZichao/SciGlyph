@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-darkfield d-darkfield" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-darkfield">暗场显微镜 / Darkfield microscopy oblique illumination</title>
+  <desc id="d-darkfield">暗场显微镜：聚光镜中央遮光，只有斜射光到达样品。未散射光不进入物镜，只有样品散射的光成像→暗背景上的亮样品。关键词: darkfield, oblique illumination, scattered light, condenser stop</desc>
+  <g id="layer-body-darkfield" data-name="body">
+    <!-- Objective -->
+    <rect x="40" y="10" width="20" height="12" rx="3" ry="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Darkfield condenser (opaque center) -->
+    <rect x="35" y="65" width="30" height="10" rx="3" ry="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <circle cx="50" cy="70" r="4" fill="#1B2733" data-pp="ink"/>
+    <!-- Oblique light rays: converge from condenser edge ONTO the specimen, direct light misses the objective -->
+    <line x1="38" y1="65" x2="48" y2="57" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="62" y1="65" x2="52" y2="57" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <!-- Specimen scattering -->
+    <circle cx="50" cy="55" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Scattered rays -->
+    <line x1="50" y1="52" x2="48" y2="25" stroke="#E8871E" data-pp="mge" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <line x1="50" y1="52" x2="52" y2="25" stroke="#E8871E" data-pp="mge" stroke-width="0.5" stroke-dasharray="1,1"/>
+    <!-- Dark background -->
+    <rect x="25" y="48" width="50" height="14" fill="#1B2733" data-pp="ink" fill-opacity="0.1" stroke="none"/>
+  </g>
+  <g id="layer-annotation-darkfield" data-name="annotation">
+    <line x1="68.0" y1="67.9" x2="60.44" y2="67.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="70.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">darkfield</text>
+    <line x1="68.0" y1="74.9" x2="60.44" y2="74.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="77.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">condenser</text>
+    <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">scattered light</text>
+  </g>
+</svg>

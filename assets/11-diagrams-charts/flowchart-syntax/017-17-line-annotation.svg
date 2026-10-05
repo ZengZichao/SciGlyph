@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="竖向说明线" data-name-en="line-annotation" data-cat="flowchart-logic" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17">竖向说明线 / line_annotation</title>
+  <desc id="d-17">注释说明线。关键词: flowchart,annotation</desc>
+  <g id="g-17-竖向说明线">
+    <line fill="none" x1="40" y1="10" x2="40" y2="70" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <line fill="none" x1="40" y1="10" x2="55" y2="18" stroke="#6b7280" stroke-width="1.5"/>
+    <text x="65" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="start">Note</text>
+  </g>
+</svg>

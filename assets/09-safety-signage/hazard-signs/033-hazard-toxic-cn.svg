@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-toxic-cn" data-cat="hz" data-spec="128"
+     data-tags="toxic,poison,skull,有毒,骷髅" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">有毒标志 / Toxic Hazard CN</title>
+  <desc id="d">中国标准有毒标志：骷髅交叉骨。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="50" r="16" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <circle cx="58" cy="48" r="4" fill="#1F2933" data-ls="stroke"/>
+    <circle cx="70" cy="48" r="4" fill="#1F2933" data-ls="stroke"/>
+    <rect x="60" y="58" width="8" height="4" rx="1" fill="#1F2933" data-ls="stroke"/>
+    <path d="M42 78 L86 98" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="4" data-ls="stroke"/>
+    <path d="M86 78 L42 98" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="4" data-ls="stroke"/>
+    <circle cx="42" cy="78" r="5" fill="#1F2933" data-ls="stroke"/><circle cx="86" cy="78" r="5" fill="#1F2933" data-ls="stroke"/>
+    <circle cx="42" cy="98" r="5" fill="#1F2933" data-ls="stroke"/><circle cx="86" cy="98" r="5" fill="#1F2933" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

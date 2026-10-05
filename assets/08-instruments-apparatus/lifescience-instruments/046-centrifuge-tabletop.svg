@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-centrifuge-tabletop" data-cat="ls" data-spec="128" data-tags="centrifuge,tabletop,rotor,angle,fixed,swing,rpm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">台式离心机 / Tabletop Centrifuge</title>
+  <desc id="d">台式离心机：转子腔、角转子、盖锁、转速显示。</desc>
+  <g id="body">
+<rect x="18" y="30" width="92" height="72" rx="10" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="18" y="30" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<path d="M24 38 Q64 18 104 38 L104 42 Q64 24 24 42 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="58" y="36" width="12" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+<circle cx="64" cy="60" r="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="64" cy="60" r="6" fill="#33414F" stroke="none" data-ls="dark" />
+<circle cx="52" cy="50" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="64" cy="46" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="76" cy="50" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="52" cy="70" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="64" cy="74" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="76" cy="70" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <rect x="28" y="86" width="32" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="44.0" y="94.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">14000 rpm</text>
+    <circle cx="70" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="80" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="90" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="74.0" y="98.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Start</text>
+    <line x1="80.0" y1="95.9" x2="83.47" y2="102.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="84.88" y="105.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Stop</text>
+    <text x="94.0" y="96.6" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Open</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="96" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

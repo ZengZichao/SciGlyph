@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-42">树基座与树干 / Tree Base and Trunk</title>
+<desc id="d-42">树基座装饰：粗干渐细主干、根部三角支撑与年轮式老化圈示意 关键词: tree, trunk, base, trunk taper, ring</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<polygon points="160.0,350.0 192.0,80.0 208.0,80.0 240.0,350.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.5" stroke="#8C6D3F" stroke-width="1.5"/>
+<ellipse cx="200.0" cy="340.0" rx="40.0" ry="12.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.2" stroke="#8C6D3F" stroke-width="0.8"/>
+<ellipse cx="200.0" cy="340.0" rx="33.0" ry="9.9" fill="#8C6D3F" data-pp="host" fill-opacity="0.25" stroke="#8C6D3F" stroke-width="0.8"/>
+<ellipse cx="200.0" cy="340.0" rx="26.0" ry="7.8" fill="#8C6D3F" data-pp="host" fill-opacity="0.30000000000000004" stroke="#8C6D3F" stroke-width="0.8"/>
+<ellipse cx="200.0" cy="340.0" rx="19.0" ry="5.7" fill="#8C6D3F" data-pp="host" fill-opacity="0.35000000000000003" stroke="#8C6D3F" stroke-width="0.8"/>
+<ellipse cx="200.0" cy="340.0" rx="12.0" ry="3.6" fill="#8C6D3F" data-pp="host" fill-opacity="0.4" stroke="#8C6D3F" stroke-width="0.8"/>
+<polygon points="145.0,370.0 200.0,345.0 255.0,370.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="1"/>
+<line x1="200.0" y1="80.0" x2="140.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="200.0" y1="80.0" x2="260.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="200.0" y1="80.0" x2="200.0" y2="40.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="140.0" y1="50.0" x2="100.0" y2="30.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="140.0" y1="50.0" x2="120.0" y2="70.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="260.0" y1="50.0" x2="300.0" y2="30.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="260.0" y1="50.0" x2="280.0" y2="70.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="200.0" y1="40.0" x2="180.0" y2="20.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="200.0" y1="40.0" x2="220.0" y2="20.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="100.0" cy="30.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="120.0" cy="70.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="300.0" cy="30.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="280.0" cy="70.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="180.0" cy="20.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="220.0" cy="20.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="260.0" y="340.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Base</text>
+<text x="218.0" y="85.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Crown</text>
+<text x="260.0" y="365.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Rings</text>
+<text x="200.0" y="390.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Tapered trunk + rings</text>
+</g>
+</svg>

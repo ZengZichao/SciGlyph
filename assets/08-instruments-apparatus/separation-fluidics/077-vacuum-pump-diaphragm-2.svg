@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-vacuum-pump-diaphragm" data-cat="sp" data-spec="128"
+     data-tags="vacuum,pump,diaphragm,lab" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">隔膜真空泵 / Diaphragm Vacuum Pump</title>
+  <desc id="d">隔膜真空泵，带接口</desc>
+  <g id="body"><path d="M24 40 L104 40 L104 100 Q104 108 96 108 L32 108 Q24 108 24 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="32" y="48" width="64" height="20" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="36" y="52" width="56" height="12" rx="1" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><path d="M104 60 L112 60 L112 68 L104 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M24 60 L16 60 L16 68 L24 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M40 80 L88 80 M40 88 L88 88 M40 96 L88 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="40" cy="88" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="88" cy="88" r="4" fill="#33414F" stroke="none" data-ls="dark"/></g>
+</svg>

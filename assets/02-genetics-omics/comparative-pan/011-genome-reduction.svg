@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-genome_reduction d-genome_reduction" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-genome_reduction">基因组减少梯度 / Genome reduction gradient (endosymbiont)</title>
+  <desc id="d-genome_reduction">内共生基因组减少梯度尺。schematic, not to scale. 关键词: reduction, endosymbiont, gene loss</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="gradient-scale">
+  <rect x="80" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="90" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="110" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="120" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="130" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="140" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="150" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="160" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="180" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="190" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="200" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="210" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="220" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="230" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="250" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="260" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="270" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="280" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="290" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="300" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="320" y="150" width="10" height="60" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="330" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="340" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="350" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="360" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="370" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="380" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="390" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="400" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="410" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="420" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="430" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="440" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="450" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="460" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="470" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="480" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="490" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="500" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="510" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="520" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="530" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="540" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="550" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="560" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <rect x="570" y="150" width="10" height="60" fill="#C42D2D" data-pp="alert"/>
+  <text x="80" y="240" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Free-living</text>
+  <text x="580" y="240" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Obligate endosymbiont</text>
+  <text x="80" y="130" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">~5 Mb</text>
+  <text x="580" y="130" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">~0.2 Mb</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genome Reduction — Endosymbiont Gradient (schematic)</text>
+<text x="300" y="300" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Progressive gene loss during symbiosis transition</text>
+</svg>

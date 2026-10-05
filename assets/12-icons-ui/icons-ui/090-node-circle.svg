@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-node-circle" data-cat="ic" data-spec="24"
+     data-tags="icon,node,circle,point,connection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">节点圆图标 / Icon Node Circle</title>
+  <desc id="d">节点圆微型图标。</desc>
+  <g id="body">
+    <circle cx="12" cy="12" r="6" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <circle cx="12" cy="12" r="6" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <circle cx="12" cy="12" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

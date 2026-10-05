@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-anme d-anme" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-anme">厌氧甲烷氧化古菌 / ANME</title>
+  <desc id="d-anme">ANME archaea in syntrophic aggregate with sulfate-reducing bacteria (SRB). Direct electron transfer. 关键词: ANME, anaerobic methanotroph, SRB, aggregate, DIET, electron transfer</desc>
+  <g id="layer-body" data-name="body">
+
+    <circle cx="28" cy="38" r="10" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="42" cy="35" r="9" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="35" cy="52" r="10" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="48" cy="50" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="62" cy="38" r="9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="75" cy="42" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="68" cy="55" r="9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <circle cx="80" cy="55" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <line x1="48" y1="40" x2="62" y2="40" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="2,2" stroke-linecap="round"/>
+
+    <line x1="45" y1="50" x2="65" y2="50" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="2,2" stroke-linecap="round"/>
+
+    <line x1="42" y1="55" x2="62" y2="55" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="2,2" stroke-linecap="round"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="15" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">ANME</text>
+    <text x="55" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">SRB</text>
+    <text x="35" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">DIET</text>
+
+  </g>
+</svg>

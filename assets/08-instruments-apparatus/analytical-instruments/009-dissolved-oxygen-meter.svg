@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>溶氧仪</title>
+  <rect x="3" y="10" width="10" height="12" rx="1"/>
+  <rect x="5" y="12" width="6" height="3" rx="0.5"/>
+  <line x1="6" y1="13.5" x2="10" y2="13.5" stroke-width="0.75"/>
+  <circle cx="7" cy="18" r="0.75"/>
+  <circle cx="10" cy="18" r="0.75"/>
+  <path d="M13 16q2-2 4 0t4 0"/>
+  <line x1="13" y1="16" x2="13" y2="20" stroke-width="0.75"/>
+  <line x1="21" y1="16" x2="21" y2="20" stroke-width="0.75"/>
+  <circle cx="20" cy="8" r="2.5"/>
+  <line x1="21" y1="8" x2="21" y2="6" stroke-width="1"/>
+  <line x1="21" y1="8" x2="22.5" y2="9" stroke-width="1"/>
+  <line x1="13" y1="16" x2="18" y2="11" stroke-width="0.75"/>
+</svg>

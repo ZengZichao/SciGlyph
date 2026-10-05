@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="极性电容" data-name-en="capacitor-polar" data-cat="physics-electronics" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-05">极性电容 / capacitor_polar</title>
+  <desc id="d-05">带正负极性的电解电容符号。关键词: 电容,极性,电解,无源元件</desc>
+  <g id="g-05-极性电容">
+    <line x1="10" y1="40" x2="50" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="50" y1="20" x2="50" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 60 20 Q 70 40 60 60" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="65" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="40" y="30" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
+  </g>
+</svg>

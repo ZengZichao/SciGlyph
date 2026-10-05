@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-n95-respirator-with-strap" data-cat="sf" data-spec="128"
+     data-tags="n95,respirator,strap,mask,filtering,ppe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">N95口罩带系带 / N95 Respirator with Strap</title>
+  <desc id="d">N95防护口罩，带上下两条系带和鼻夹。</desc>
+  <g id="body"><path d="M34 40 Q34 28 64 24 Q94 28 94 40 L94 72 Q94 96 64 100 Q34 96 34 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M34 44 Q24 40 20 48 Q18 56 28 56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M34 72 Q24 76 20 84 Q18 92 30 88" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M94 44 Q104 40 108 48 Q110 56 100 56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M94 72 Q104 76 108 84 Q110 92 98 88" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M48 30 L80 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M44 40 L84 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M42 52 L86 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M42 64 L86 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M44 76 L84 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M48 86 L80 86" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

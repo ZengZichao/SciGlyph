@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="甘特图" data-name-en="Gantt 3 Tasks" data-cat="charts-plots" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28">甘特图 / gantt_3tasks</title>
+  <desc id="d-28">三任务甘特图。关键词: gantt,timeline,tasks</desc>
+  <g id="g-28-甘特图">
+    <rect x="80" y="50" width="140" height="35" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="72" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="end">Task A</text>
+    <rect x="164" y="105" width="168" height="35" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="72" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="end">Task B</text>
+    <rect x="220" y="160" width="112" height="35" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="72" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="end">Task C</text>
+    <line x1="80" y1="215" x2="360" y2="215" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="80" y1="215" x2="80" y2="220" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="80" y="231" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="150" y1="215" x2="150" y2="220" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="150" y="231" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">25</text>
+    <line x1="220" y1="215" x2="220" y2="220" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="231" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">50</text>
+    <line x1="290" y1="215" x2="290" y2="220" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="290" y="231" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">75</text>
+    <line x1="360" y1="215" x2="360" y2="220" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="360" y="231" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">100</text>
+  </g>
+</svg>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-hplc-system" data-cat="an" data-spec="128"
+     data-tags="hplc,chromatography,liquid,system,pump,detector,column" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">高效液相色谱系统 / HPLC System</title>
+  <desc id="d">高效液相色谱完整系统：储液瓶→脱气机→泵→自动进样器→柱温箱→检测器→废液。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="14" y="26" width="10" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="26" y="26" width="10" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M15 34 L23 34 L23 40 Q23 41 22 41 L16 41 Q15 41 15 40 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/>
+<path d="M27 34 L35 34 L35 40 Q35 41 34 41 L28 41 Q27 41 27 40 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/>
+    <rect x="40" y="28" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="47.0" y="38.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">DG</text>
+    <rect x="58" y="28" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="65.0" y="38.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">P</text>
+    <rect x="76" y="28" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="83.0" y="38.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">AS</text>
+    <rect x="94" y="28" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="101.0" y="38.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">CO</text>
+    <rect x="94" y="52" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="101.0" y="62.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">UV</text>
+<rect x="14" y="76" width="14" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M16 84 L26 84 L26 92 Q26 93 25 93 L17 93 Q16 93 16 92 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <text x="21" y="100" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Waste</text>
+<path d="M20 42 L20 48 L47 48 L47 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M54 42 L54 48 L65 48 L65 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M72 42 L72 48 L83 48 L83 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M90 42 L90 48 L101 48 L101 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M101 66 L101 72 L28 72 L28 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="34,45 46,48 34,51" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="58,45 70,48 58,51" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="76,45 88,48 76,51" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="98,56 101,68 104,56" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="25,68 28,80 31,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="14" y="52" width="30" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M18 66 L22 60 L26 64 L30 58 L34 62 L38 56" fill="#2B7DE9" stroke="none" stroke-width="1.5" data-ls="accent"/>
+    <text x="29" y="50" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HPLC</text>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="100" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

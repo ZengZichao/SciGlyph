@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="周期表小片段" data-name-en="periodic-table-mini" data-cat="tables-frames" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">周期表小片段 / periodic_table_mini</title>
+  <desc id="d-44">元素周期表小片段。关键词: 周期表,元素,化学</desc>
+  <g id="g-44-周期表小片段">
+    <rect x="40" y="40" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="65" y="62" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">H</text>
+    <text x="65" y="80" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+    <rect x="220" y="40" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="245" y="62" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">He</text>
+    <text x="245" y="80" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
+    <rect x="40" y="100" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="65" y="122" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Li</text>
+    <text x="65" y="140" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3</text>
+    <rect x="100" y="100" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="125" y="122" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Be</text>
+    <text x="125" y="140" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4</text>
+    <rect x="160" y="100" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="185" y="122" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">B</text>
+    <text x="185" y="140" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5</text>
+    <rect x="220" y="100" width="50" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="245" y="122" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">C</text>
+    <text x="245" y="140" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6</text>
+  </g>
+</svg>

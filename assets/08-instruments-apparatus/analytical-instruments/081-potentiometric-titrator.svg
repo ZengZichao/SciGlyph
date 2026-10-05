@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-potentiometric-titrator" data-cat="an" data-spec="128"
+     data-tags="potentiometric,titrator,electrode,pH,endpoint,volume" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电位滴定仪 / Potentiometric Titrator</title>
+  <desc id="d">电位滴定仪：滴定管、指示电极、参比电极、搅拌器。</desc>
+  <g id="body">
+    <rect x="18" y="18" width="92" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="18" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="56" y="14" width="8" height="30" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="58" y="24" width="4" height="18" rx="1" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+<line x1="60" y1="44" x2="60" y2="52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M40 56 L40 88 Q40 94 46 94 L78 94 Q84 94 84 88 L84 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M42 68 L82 68 L82 88 Q82 92 78 92 L46 92 Q42 92 42 88 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+<rect x="48" y="46" width="4" height="24" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="50" y="44" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Ind</text>
+<rect x="70" y="46" width="4" height="24" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="72" y="44" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Ref</text>
+<ellipse cx="62" cy="88" rx="6" ry="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="22" y="30" width="16" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="30" y="40" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">pH</text>
+<path d="M24 38 L28 38 L30 34 L32 36 L36 36" fill="#2B7DE9" stroke="none" stroke-width="1" data-ls="accent"/>
+    <text x="64" y="102" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Titrator</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

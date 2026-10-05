@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-alpha_diversity d-alpha_diversity" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-alpha_diversity">Alpha多样性指数 / Alpha diversity indices</title>
+<desc id="d-alpha_diversity">三个指数各一对箱线图(每列左箱=Group A、右箱=Group B；颜色=指数, 不表示分组)：Shannon/Simpson(指数单位)与Chao1(丰富度, ASV计数, 量纲不同)；Chao1 仅示意, 实际应单独坐标轴/分面。schematic. 关键词: microbial ecology, alpha diversity, indices, Shannon, Chao1, richness, significance, Index, Simpson</desc>
+<g id="l-alpha_diversity" data-name="alpha-div">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="28.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Alpha Diversity</text>
+<line x1="80.0" y1="340.0" x2="540.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="60.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="300.0" y="385.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Index</text>
+<text x="55.0" y="200.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90,55.0,200.0)">Diversity</text>
+<line x1="75.0" y1="340.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="343.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0</text>
+<line x1="75.0" y1="290.0" x2="80.0" y2="290.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="293.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">1</text>
+<line x1="75.0" y1="240.0" x2="80.0" y2="240.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="243.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">2</text>
+<line x1="75.0" y1="190.0" x2="80.0" y2="190.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="193.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">3</text>
+<line x1="75.0" y1="140.0" x2="80.0" y2="140.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="143.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">4</text>
+<line x1="75.0" y1="90.0" x2="80.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="93.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">5</text>
+<line x1="80.0" y1="60.0" x2="540.0" y2="60.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="116.0" x2="540.0" y2="116.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="172.0" x2="540.0" y2="172.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="228.0" x2="540.0" y2="228.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="284.0" x2="540.0" y2="284.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="340.0" x2="540.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="160.0" y1="145.0" x2="160.0" y2="165.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="160.0" y1="215.0" x2="160.0" y2="235.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="150.0" y1="145.0" x2="170.0" y2="145.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="150.0" y1="235.0" x2="170.0" y2="235.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<rect x="147.5" y="165.0" width="25.0" height="50.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.4" stroke="#2E86AB" stroke-width="1.5"/>
+<line x1="147.5" y1="190.0" x2="172.5" y2="190.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="163.9" cy="151.1" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="154.2" cy="164.5" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="163.9" cy="150.2" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="161.4" cy="194.5" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="153.5" cy="143.2" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<line x1="300.0" y1="119.0" x2="300.0" y2="139.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="300.0" y1="189.0" x2="300.0" y2="209.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="290.0" y1="119.0" x2="310.0" y2="119.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="290.0" y1="209.0" x2="310.0" y2="209.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<rect x="287.5" y="139.0" width="25.0" height="50.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.4" stroke="#00857A" stroke-width="1.5"/>
+<line x1="287.5" y1="164.0" x2="312.5" y2="164.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="292.4" cy="164.5" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="302.4" cy="133.9" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="295.5" cy="168.5" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="305.0" cy="172.9" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="304.9" cy="114.6" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<line x1="440.0" y1="149.0" x2="440.0" y2="169.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="440.0" y1="219.0" x2="440.0" y2="239.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="430.0" y1="149.0" x2="450.0" y2="149.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="430.0" y1="239.0" x2="450.0" y2="239.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<rect x="427.5" y="169.0" width="25.0" height="50.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.4" stroke="#A2305B" stroke-width="1.5"/>
+<line x1="427.5" y1="194.0" x2="452.5" y2="194.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="436.4" cy="186.3" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="444.2" cy="165.5" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="438.1" cy="154.2" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="437.5" cy="179.9" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="432.7" cy="170.5" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<line x1="200.0" y1="174.0" x2="200.0" y2="194.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="200.0" y1="244.0" x2="200.0" y2="264.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="190.0" y1="174.0" x2="210.0" y2="174.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="190.0" y1="264.0" x2="210.0" y2="264.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<rect x="187.5" y="194.0" width="25.0" height="50.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.4" stroke="#2E86AB" stroke-width="1.5"/>
+<line x1="187.5" y1="219.0" x2="212.5" y2="219.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="247.6" cy="222.6" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="240.8" cy="206.9" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="241.9" cy="251.9" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="241.2" cy="255.2" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<circle cx="232.7" cy="239.5" r="2.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<line x1="340.0" y1="159.0" x2="340.0" y2="179.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="340.0" y1="229.0" x2="340.0" y2="249.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="330.0" y1="159.0" x2="350.0" y2="159.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<line x1="330.0" y1="249.0" x2="350.0" y2="249.0" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+<rect x="327.5" y="179.0" width="25.0" height="50.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.4" stroke="#00857A" stroke-width="1.5"/>
+<line x1="327.5" y1="204.0" x2="352.5" y2="204.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="387.8" cy="231.3" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="385.9" cy="239.5" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="379.3" cy="192.0" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="374.6" cy="237.4" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<circle cx="382.7" cy="189.5" r="2.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+<line x1="480.0" y1="189.0" x2="480.0" y2="209.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="480.0" y1="259.0" x2="480.0" y2="279.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="470.0" y1="189.0" x2="490.0" y2="189.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="470.0" y1="279.0" x2="490.0" y2="279.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<rect x="467.5" y="209.0" width="25.0" height="50.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.4" stroke="#A2305B" stroke-width="1.5"/>
+<line x1="467.5" y1="234.0" x2="492.5" y2="234.0" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="522.4" cy="277.7" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="514.7" cy="244.9" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="514.6" cy="256.9" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="527.8" cy="221.9" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<circle cx="520.9" cy="248.0" r="2.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5"/>
+<line x1="140.0" y1="100.0" x2="140.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="140.0" y1="90.0" x2="215.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="215.0" y1="100.0" x2="215.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="177.5" y="86.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">**</text>
+<line x1="280.0" y1="100.0" x2="280.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="280.0" y1="90.0" x2="355.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="355.0" y1="100.0" x2="355.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="317.5" y="86.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">ns</text>
+<line x1="420.0" y1="100.0" x2="420.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="420.0" y1="90.0" x2="495.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="495.0" y1="100.0" x2="495.0" y2="90.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="457.5" y="86.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">ns</text>
+<rect x="110.0" y="355.0" width="10.0" height="10.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="126.0" y="364.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Shannon</text>
+<rect x="250.0" y="355.0" width="10.0" height="10.0" fill="#00857A" data-pp="metabolism"/>
+<text x="266.0" y="364.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Simpson</text>
+<rect x="390.0" y="355.0" width="10.0" height="10.0" fill="#A2305B" data-pp="archaea"/>
+<text x="406.0" y="364.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Chao1</text>
+<text x="160.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Shannon</text>
+<text x="300.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Simpson</text>
+<text x="440.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Chao1</text>
+</g>
+</svg>

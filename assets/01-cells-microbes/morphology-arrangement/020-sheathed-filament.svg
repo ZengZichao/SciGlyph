@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="鞘状丝状体" data-name-en="Sheathed filament" data-cat="01-morphology" data-tags="鞘,sheath,丝状体,包被,波动状,横隔" role="img" aria-labelledby="t-20-sheathed-filament d-20-sheathed-filament" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20-sheathed-filament">鞘状丝状体 / Sheathed filament</title>
+  <desc id="d-20-sheathed-filament">丝状体外包裹一层无结构的菌鞘，鞘内菌体呈波动状排列并具横隔。关键词: 鞘, sheath, 丝状体, 包被, 波动状, 横隔</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 20,32 C 34,24 86,24 100,32 C 108,40 108,80 100,88 C 86,96 34,96 20,88 C 12,80 12,40 20,32 Z" fill="#B7D7E8" fill-opacity="0.45" stroke="#5FA8C7" stroke-width="1.6" stroke-dasharray="4 3"/>
+    <g fill="none">
+      <path d="M 26,60 C 32.3,48 42.4,48 48.7,60 C 54.9,48 65.1,48 71.3,60 C 77.6,48 87.7,48 94,60" stroke="#2E7D5B" stroke-width="8"/>
+      <path d="M 26,60 C 32.3,48 42.4,48 48.7,60 C 54.9,48 65.1,48 71.3,60 C 77.6,48 87.7,48 94,60" stroke="#DCEEE4" stroke-width="4.5"/>
+    </g>
+    <g stroke="#1F6F8B" stroke-width="1.4" stroke-linecap="round">
+      <path d="M 40.8,47.9 L 38.8,54.8"/>
+      <path d="M 60,47.4 L 60,54.6"/>
+      <path d="M 79.2,47.9 L 81.2,54.8"/>
+    </g>
+  </g>
+</svg>

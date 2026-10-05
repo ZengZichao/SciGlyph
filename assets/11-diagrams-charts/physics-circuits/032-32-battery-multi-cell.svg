@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="多节电池" data-name-en="battery-multi-cell" data-cat="physics-electronics" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-32">多节电池 / battery_multi_cell</title>
+  <desc id="d-32">多节串联电池组符号。关键词: 电池,多节,串联,电源</desc>
+  <g id="g-32-多节电池">
+    <line x1="10" y1="40" x2="30" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="30" y1="20" x2="30" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="38" y1="30" x2="38" y2="50" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="38" y1="40" x2="50" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="50" y1="20" x2="50" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="58" y1="30" x2="58" y2="50" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="58" y1="40" x2="70" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="20" x2="70" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="78" y1="30" x2="78" y2="50" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="78" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

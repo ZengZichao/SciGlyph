@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-pipette" data-cat="ic" data-spec="24"
+     data-tags="icon,pipette,liquid,transfer,volume" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">移液枪图标 / Icon Pipette</title>
+  <desc id="d">移液枪微型图标。</desc>
+  <g id="body">
+    <rect x="10" y="4" width="4" height="12" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M10,16 L14,16 L13,20 L11,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="12" y1="4" x2="12" y2="2" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <rect x="11" y="8" width="2" height="4" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

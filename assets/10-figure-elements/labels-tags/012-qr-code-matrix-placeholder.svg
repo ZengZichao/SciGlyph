@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-qr-code-matrix-placeholder" data-cat="lb" data-spec="160"
+     data-tags="qr-code,matrix,2d,scan,placeholder" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">二维码 / QR Code Matrix Placeholder</title>
+  <desc id="d">二维码21×21模块示意，定位三角加散点。</desc>
+  <g id="body">
+    <rect x="30" y="18" width="100" height="60" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="36" y="24" width="14" height="14" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="39" y="27" width="8" height="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="110" y="24" width="14" height="14" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="113" y="27" width="8" height="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="36" y="58" width="14" height="14" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="39" y="61" width="8" height="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="58" y="30" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="64" y="30" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="70" y="36" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="76" y="30" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="82" y="42" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="88" y="36" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="48" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="64" y="54" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="76" y="60" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="88" y="66" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="100" y="54" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="106" y="60" width="3" height="3" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

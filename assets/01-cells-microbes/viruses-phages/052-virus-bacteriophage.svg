@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="噬菌体" data-name-en="Virus Bacteriophage" data-cat="natural-sciences" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-43">噬菌体 / virus_bacteriophage</title>
+  <desc id="d-43">展示噬菌体结构。关键词: bacteriophage,phage,virus</desc>
+  <g id="g-43-噬菌体">
+    <polygon points="80,20 95,35 95,55 80,70 65,55 65,35" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="75" y="70" width="10" height="20" fill="#6b7280" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="70" y1="90" x2="60" y2="105" stroke="#6b7280" stroke-width="1.5"/>
+    <line x1="80" y1="90" x2="80" y2="110" stroke="#6b7280" stroke-width="1.5"/>
+    <line x1="90" y1="90" x2="100" y2="105" stroke="#6b7280" stroke-width="1.5"/>
+    <circle cx="60" cy="108" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="80" cy="113" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="100" cy="108" r="3" fill="#6b7280" stroke="none"/>
+  </g>
+</svg>

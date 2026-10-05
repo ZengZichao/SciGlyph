@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-metagenome_krona d-metagenome_krona" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-metagenome_krona">宏基因组同心环分类图 / Metagenome Krona-style Concentric Ring</title>
+<desc id="d-metagenome_krona">Krona 式同心环分类图骨架。关键词: Krona, metagenome, taxonomy, concentric, ring</desc>
+<g data-name="body"><rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="200" y="22" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Metagenome Taxonomy (Krona-style)</text>
+<path d="M200.0,70.0 L200.0,50.0 A160,160 0 0,1 338.6,290.0 L321.2,280.0 A140,140 0 0,0 200.0,70.0 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M321.2,280.0 L338.6,290.0 A160,160 0 0,1 145.3,360.4 L152.1,341.6 A140,140 0 0,0 321.2,280.0 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M152.1,341.6 L145.3,360.4 A160,160 0 0,1 200.0,50.0 L200.0,70.0 A140,140 0 0,0 152.1,341.6 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M200.0,100.0 L200.0,80.0 A130,130 0 0,1 312.6,145.0 L295.3,155.0 A110,110 0 0,0 200.0,100.0 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M295.3,155.0 L312.6,145.0 A130,130 0 0,1 312.6,275.0 L295.3,265.0 A110,110 0 0,0 295.3,155.0 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M295.3,265.0 L312.6,275.0 A130,130 0 0,1 244.5,332.2 L237.6,313.4 A110,110 0 0,0 295.3,265.0 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M237.6,313.4 L244.5,332.2 A130,130 0 0,1 87.4,275.0 L104.7,265.0 A110,110 0 0,0 237.6,313.4 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M104.7,265.0 L87.4,275.0 A130,130 0 0,1 87.4,145.0 L104.7,155.0 A110,110 0 0,0 104.7,265.0 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M104.7,155.0 L87.4,145.0 A130,130 0 0,1 200.0,80.0 L200.0,100.0 A110,110 0 0,0 104.7,155.0 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M200.0,130.0 L200.0,110.0 A100,100 0 0,1 264.3,133.4 L251.4,148.7 A80,80 0 0,0 200.0,130.0 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M251.4,148.7 L264.3,133.4 A100,100 0 0,1 294.0,175.8 L275.2,182.6 A80,80 0 0,0 251.4,148.7 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M275.2,182.6 L294.0,175.8 A100,100 0 0,1 286.6,260.0 L269.3,250.0 A80,80 0 0,0 275.2,182.6 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M269.3,250.0 L286.6,260.0 A100,100 0 0,1 250.0,296.6 L240.0,279.3 A80,80 0 0,0 269.3,250.0 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M240.0,279.3 L250.0,296.6 A100,100 0 0,1 165.8,304.0 L172.6,285.2 A80,80 0 0,0 240.0,279.3 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M172.6,285.2 L165.8,304.0 A100,100 0 0,1 113.4,260.0 L130.7,250.0 A80,80 0 0,0 172.6,285.2 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M130.7,250.0 L113.4,260.0 A100,100 0 0,1 101.5,192.6 L121.2,196.1 A80,80 0 0,0 130.7,250.0 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M121.2,196.1 L101.5,192.6 A100,100 0 0,1 135.7,133.4 L148.6,148.7 A80,80 0 0,0 121.2,196.1 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<path d="M148.6,148.7 L135.7,133.4 A100,100 0 0,1 200.0,110.0 L200.0,130.0 A80,80 0 0,0 148.6,148.7 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
+<circle cx="200" cy="210" r="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1" />
+<text x="200" y="214" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sample</text>
+<text x="200" y="45" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Domain</text>
+<text x="200" y="75" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Phylum</text>
+<text x="200" y="105" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Class</text></g></svg>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-22_dna_sip_nanosims d-22_dna_sip_nanosims" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22_dna_sip_nanosims">原位活性检测流程 / In Situ Activity Detection (DNA-SIP)</title>
+  <desc id="d-22_dna_sip_nanosims">骨架流程：样本→13C标记底物→incubation→DNA提取→超离心分离→收集重馏分→测序重DNA→NanoSIMS验证→活性类群鉴定。工具：DNA-SIP, NanoSIMS。输入：环境样本+13C底物；输出：活性微生物鉴定。 关键词: bioinformatics workflow, dna sip nanosims, Situ, Activity, DNA-SIP, incubation, Incubate, skeleton template</desc>
+<defs>
+  <marker id="pp22__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp22__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp22__labels" data-name="labels">
+  <rect x="20" y="60" width="95" height="44" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="67.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Sample</text>
+
+  <rect x="130" y="60" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="177.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">13C Label</text>
+
+  <rect x="240" y="60" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="287.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Incubate</text>
+
+  <rect x="350" y="60" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="397.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">DNA Extract</text>
+
+  <rect x="460" y="60" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="507.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Ultracentrifuge</text>
+
+  <rect x="20" y="184" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="67.5" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Fraction</text>
+    <text x="67.5" y="216.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Collect</text>
+
+  <rect x="130" y="184" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="177.5" y="210.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Seq Heavy</text>
+
+  <rect x="240" y="184" width="95" height="44" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="287.5" y="210.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">NanoSIMS</text>
+
+  <rect x="350" y="184" width="95" height="44" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="397.5" y="210.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Active Taxa</text>
+
+  <line x1="115" y1="82.0" x2="130" y2="82.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <line x1="225" y1="82.0" x2="240" y2="82.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <line x1="335" y1="82.0" x2="350" y2="82.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <line x1="445" y1="82.0" x2="460" y2="82.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <path d="M 507.5 104 L 507.5 144.0 L 67.5 144.0 L 67.5 184" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="115" y1="206.0" x2="130" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <line x1="225" y1="206.0" x2="240" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <line x1="335" y1="206.0" x2="350" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
+  <text x="20" y="45" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA-SIP / NanoSIMS In Situ Activity</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">13C/DNA</text>
+  <rect x="97" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="113" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SIP</text>
+  <rect x="146" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="162" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Taxa</text>
+  <rect x="202" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="218" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NanoSIMS</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="平行四边形" data-name-en="Quadrilateral Parallelogram" data-cat="geometry-math" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-05">平行四边形 / quadrilateral_parallelogram</title>
+  <desc id="d-05">对边平行的四边形。关键词: quadrilateral,parallelogram,geometry</desc>
+  <g id="g-05-平行四边形">
+    <polygon points="30,95 100,95 90,25 20,25" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="26" y="108" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="104" y="108" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="94" y="20" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="14" y="20" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">D</text>
+  </g>
+</svg>

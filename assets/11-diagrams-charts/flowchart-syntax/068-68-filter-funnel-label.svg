@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="带FILTER标签" data-name-en="filter-funnel-label" data-cat="flowchart-logic" aria-labelledby="t-68 d-68" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-68">带FILTER标签 / filter_funnel_label</title>
+  <desc id="d-68">过滤漏斗标签。关键词: filter,funnel</desc>
+  <g id="g-68-带FILTER标签">
+    <polygon points="20,12 100,12 75,40 45,40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="48" y="40" width="24" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">FILTER</text>
+  </g>
+</svg>

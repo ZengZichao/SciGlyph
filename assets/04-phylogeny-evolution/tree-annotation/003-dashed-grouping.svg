@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-03 d-03" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">虚线分组 / Dashed Grouping</title>
+  <desc id="d-03">装饰零件，贴到树上用。虚线分组圈，标记相关分类群。 关键词: tree decoration, dashed grouping, taxon group, clade highlight, iTOL</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="dashed-group">
+    <ellipse cx="200" cy="200" rx="150" ry="120" fill="none" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-dasharray="6 3"/>
+    <text x="200" y="60" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">Group</text>
+  </g>
+  <g data-name="example-tips">
+    <circle cx="120" cy="150" r="6" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+    <circle cx="180" cy="180" r="6" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+    <circle cx="220" cy="200" r="6" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+    <circle cx="280" cy="230" r="6" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+    <circle cx="150" cy="260" r="6" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+  </g>
+  <g data-name="annotation">
+    <ellipse cx="280" cy="160" rx="60" ry="50" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-dasharray="4 2"/>
+    <circle cx="260" cy="140" r="5" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="300" cy="160" r="5" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="280" cy="185" r="5" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <line x1="150" y1="260" x2="260" y2="185" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="3 2"/>
+    <line x1="220" y1="200" x2="260" y2="185" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="3 2"/>
+    <path d="M 100 340 L 300 340" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="2 2"/>
+    <circle cx="200" cy="340" r="4" fill="#93A0AC" data-pp="muted"/>
+  </g>
+</svg>

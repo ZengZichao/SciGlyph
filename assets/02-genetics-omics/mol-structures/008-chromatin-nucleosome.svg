@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="核小体串珠" data-name-en="Chromatin Nucleosome" data-cat="natural-sciences" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08">核小体串珠 / chromatin_nucleosome</title>
+  <desc id="d-08">展示染色质核小体串珠结构。关键词: chromatin,nucleosome,histone</desc>
+  <g id="g-08-核小体串珠">
+    <path d="M20,120 C30,120 40,120 50,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="70" cy="120" r="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M52,120 C52,108 62,102 70,102 C78,102 88,108 88,120 C88,132 78,138 70,138 C62,138 52,132 52,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M88,120 C100,120 110,120 120,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="140" cy="120" r="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M122,120 C122,108 132,102 140,102 C148,102 158,108 158,120 C158,132 148,138 140,138 C132,138 122,132 122,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M158,120 C170,120 180,120 190,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="210" cy="120" r="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M192,120 C192,108 202,102 210,102 C218,102 228,108 228,120 C228,132 218,138 210,138 C202,138 192,132 192,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M228,120 C240,120 250,120 260,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="280" cy="120" r="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M262,120 C262,108 272,102 280,102 C288,102 298,108 298,120 C298,132 288,138 280,138 C272,138 262,132 262,120" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <text x="70" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">nucleosome</text>
+    <text x="140" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">nucleosome</text>
+    <text x="210" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">nucleosome</text>
+    <text x="280" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">nucleosome</text>
+  </g>
+</svg>

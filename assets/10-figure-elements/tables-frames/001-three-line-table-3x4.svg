@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="学术三线表" data-name-en="three-line-table-3x4" data-cat="tables-frames" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01">学术三线表 / three_line_table_3x4</title>
+  <desc id="d-01">标准三线表3行4列。关键词: 三线表,学术表格,booktabs</desc>
+  <g id="g-01-学术三线表">
+    <line x1="40" y1="40" x2="280" y2="40" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="40" y1="70" x2="280" y2="70" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="190" x2="280" y2="190" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <text x="100" y="60" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Group</text>
+    <text x="180" y="60" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">X</text>
+    <text x="240" y="60" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Y</text>
+    <text x="100" y="95" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">A</text>
+    <text x="180" y="95" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1.2</text>
+    <text x="240" y="95" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3.4</text>
+    <text x="100" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">B</text>
+    <text x="180" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5.6</text>
+    <text x="240" y="120" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">7.8</text>
+    <text x="100" y="145" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">C</text>
+    <text x="180" y="145" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">9.0</text>
+    <text x="240" y="145" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1.2</text>
+    <text x="100" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">D</text>
+    <text x="180" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3.4</text>
+    <text x="240" y="170" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5.6</text>
+  </g>
+</svg>

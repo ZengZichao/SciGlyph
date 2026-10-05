@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="肽聚糖网" data-name-en="Peptidoglycan mesh" data-cat="02-structures" data-tags="肽聚糖,NAG,NAM,糖链,肽侧链,交联,网状骨架" role="img" aria-labelledby="t-17-peptidoglycan d-17-peptidoglycan" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17-peptidoglycan">肽聚糖网 / Peptidoglycan mesh</title>
+  <desc id="d-17-peptidoglycan">肽聚糖由 NAG 与 NAM 交替连接成的糖链经短肽侧链交联为网状大分子，构成细菌细胞壁的刚性骨架（革兰阴性菌仅 2–3 层）。关键词: 肽聚糖, NAG, NAM, 糖链, 肽侧链, 交联, 网状骨架</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="120" height="120" fill="#F7FBF9"/>
+<path d="M6 16L114 16" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="14" cy="16" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="32" cy="16" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="50" cy="16" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="68" cy="16" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="86" cy="16" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="104" cy="16" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M6 42L114 42" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="14" cy="42" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="32" cy="42" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="50" cy="42" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="68" cy="42" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="86" cy="42" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="104" cy="42" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M6 68L114 68" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="14" cy="68" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="32" cy="68" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="50" cy="68" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="68" cy="68" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="86" cy="68" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="104" cy="68" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M6 94L114 94" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="14" cy="94" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="32" cy="94" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="50" cy="94" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="68" cy="94" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="86" cy="94" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="104" cy="94" r="2.4" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M32 16L32 42" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="32" cy="29" r="1.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M68 16L68 42" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="68" cy="29" r="1.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M104 42L104 68" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="104" cy="55" r="1.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M32 68L32 94" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="32" cy="81" r="1.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M68 68L68 94" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="68" cy="81" r="1.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+</g>
+</svg>

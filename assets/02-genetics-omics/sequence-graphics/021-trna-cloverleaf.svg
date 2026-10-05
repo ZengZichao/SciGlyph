@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-trna_cloverleaf d-trna_cloverleaf" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-trna_cloverleaf">tRNA 三叶草二级结构 / tRNA Cloverleaf Secondary Structure</title>
+  <desc id="d-trna_cloverleaf">tRNA 三叶草二级结构：接受臂、D 臂、反密码子臂、TΨC 臂。关键词: tRNA, cloverleaf, anticodon, amino acid</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="200" y="25" text-anchor="middle" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">tRNA Cloverleaf</text>
+    <path d="M185,290 L185,250" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <path d="M215,290 L215,250" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <text x="200" y="310" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′ ... 3′</text>
+    <text x="235" y="300" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">-CCA</text>
+    <path d="M185,250 L140,220" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <path d="M185,240 L150,210" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <circle cx="125" cy="200" r="18" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1.5" />
+    <text x="125" y="204" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">D</text>
+    <path d="M185,250 L190,180" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <path d="M215,250 L210,180" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <circle cx="200" cy="155" r="22" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1.5" />
+    <text x="200" y="158" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Anti-</text>
+    <text x="200" y="168" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">codon</text>
+    <path d="M215,250 L260,220" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <path d="M215,240 L250,210" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" />
+    <circle cx="275" cy="200" r="18" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1.5" />
+    <text x="275" y="204" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TΨC</text>
+    <circle cx="238" cy="228" r="10" fill="#93A0AC" data-pp="muted" stroke="#93A0AC" stroke-width="1" />
+    <text x="238" y="231" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">V</text>
+  </g>
+  <g data-name="annotation">
+    <circle cx="200" cy="330" r="12" fill="#C42D2D" fill-opacity="0.15" stroke="#C42D2D" stroke-width="1" data-pp="alert"/>
+  </g>
+</svg>

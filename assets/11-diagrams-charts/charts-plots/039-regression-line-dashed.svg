@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="回归虚线" data-name-en="Regression Line Dashed" data-cat="charts-plots" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39">回归虚线 / regression_line_dashed</title>
+  <desc id="d-39">散点加回归虚线。关键词: regression,dashed,fit</desc>
+  <g id="g-39-回归虚线">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <circle cx="167.2" cy="235" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="243.1" cy="218" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="160.6" cy="242" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="246.4" cy="160" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="319.0" cy="180" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="352.0" cy="145" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="229.9" cy="170" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="154.0" cy="262" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="203.5" cy="185" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="111.1" cy="255" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="84.7" cy="268" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="259.6" cy="182" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="259.6" cy="150" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="121.0" cy="248" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="295.9" cy="148" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="206.8" cy="218" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="107.8" cy="250" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="262.9" cy="190" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="322.3" cy="155" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="72" y1="260" x2="368" y2="110" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 4" data-drole="series-2"/>
+    <line x1="55" y1="280" x2="55" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="138" y1="280" x2="138" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="138" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">25</text>
+    <line x1="220" y1="280" x2="220" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">50</text>
+    <line x1="302" y1="280" x2="302" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="302" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">75</text>
+    <line x1="385" y1="280" x2="385" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="385" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">100</text>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">25</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">50</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">75</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">100</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

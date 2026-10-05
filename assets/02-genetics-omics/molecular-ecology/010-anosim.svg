@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-anosim d-anosim" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-anosim">ANOSIM分析 / ANOSIM analysis</title>
+<desc id="d-anosim">排序空间两组分隔, 组间组内秩距离条形, R统计量仪表盘 关键词: ANOSIM, R statistic, rank distance</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">ANOSIM</text>
+<rect x="30.0" y="40.0" width="260.0" height="220.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+<line x1="40.0" y1="150.0" x2="280.0" y2="150.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="6,3" stroke-linecap="round"/>
+<text x="155.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Ordination</text>
+<circle cx="80.0" cy="80.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="100.0" cy="70.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="120.0" cy="90.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="90.0" cy="100.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="110.0" cy="85.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="130.0" cy="75.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="70.0" cy="95.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="140.0" cy="88.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="95.0" cy="78.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="115.0" cy="92.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<text x="160.0" y="75.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">A</text>
+<circle cx="80.0" cy="190.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="100.0" cy="200.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="120.0" cy="180.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="90.0" cy="210.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="110.0" cy="195.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="130.0" cy="205.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="70.0" cy="185.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="140.0" cy="215.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="95.0" cy="220.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="115.0" cy="188.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<text x="160.0" y="230.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle" font-weight="bold">B</text>
+<text x="400.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Rank Distance</text>
+<rect x="320.0" y="106.0" width="12.0" height="24.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="335.0" y="98.0" width="12.0" height="32.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="350.0" y="102.0" width="12.0" height="28.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="365.0" y="94.0" width="12.0" height="36.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="380.0" y="90.0" width="12.0" height="40.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="395.0" y="99.6" width="12.0" height="30.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="410.0" y="96.4" width="12.0" height="33.6" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="425.0" y="91.6" width="12.0" height="38.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<rect x="320.0" y="216.0" width="12.0" height="64.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="335.0" y="212.0" width="12.0" height="68.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="350.0" y="208.0" width="12.0" height="72.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="365.0" y="220.0" width="12.0" height="60.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="380.0" y="209.6" width="12.0" height="70.4" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="395.0" y="206.4" width="12.0" height="73.6" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="410.0" y="214.4" width="12.0" height="65.6" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<rect x="425.0" y="217.6" width="12.0" height="62.4" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<text x="360.0" y="145.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">Within</text>
+<text x="360.0" y="295.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">Between</text>
+<text x="490.0" y="190.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">R Statistic</text>
+<path d="M 440 260 A 50 50 0 0 1 540 260" fill="none" stroke="#93A0AC" stroke-width="2" data-pp="muted" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 440 260 A 50 50 0 0 1 521.9 221.5" fill="none" stroke="#00857A" stroke-width="3" data-pp="metabolism" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="490.0" y1="260.0" x2="515.5" y2="229.2" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+<circle cx="490.0" cy="260.0" r="4.0" fill="#1B2733" data-pp="ink"/>
+<text x="490.0" y="280.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">0.72</text>
+<text x="490.0" y="295.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">p=0.001</text>
+<circle cx="50.0" cy="310.0" r="5.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="60.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Within</text>
+<circle cx="130.0" cy="310.0" r="5.0" fill="#A2305B" data-pp="archaea"/>
+<text x="140.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Between</text>
+<text x="300.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Bray-Curtis, perm=999</text>
+</g>
+</svg>

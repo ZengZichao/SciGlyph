@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-stella d-stella" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-stella">星形菌 / Stella</title>
+  <desc id="d-stella">Hexagonal star-shaped bacterium (Stella genus, class Alphaproteobacteria；旧称 Proteobacteria 已拆分为多门), with 6 lobes. 关键词: Stella, star-shaped, 6 lobes, Alphaproteobacteria</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M77.0,50.0 L76.2,52.8 L74.1,55.2 L70.8,56.9 L66.8,57.6 L63.2,57.8 L65.3,61.4 L66.5,65.2 L66.5,68.8 L65.3,71.7 L63.1,73.6 L60.2,74.1 L57.0,73.2 L54.0,71.0 L51.4,67.8 L49.6,66.0 L47.4,69.5 L44.6,72.2 L41.4,73.8 L38.3,74.0 L35.7,72.8 L34.0,70.4 L33.4,67.1 L34.0,63.3 L35.6,59.5 L35.3,57.7 L31.1,57.4 L27.5,56.1 L24.7,54.1 L23.2,51.4 L23.2,48.6 L24.7,45.9 L27.5,43.9 L31.1,42.6 L35.3,42.3 L35.6,40.5 L34.0,36.7 L33.4,32.9 L34.0,29.6 L35.7,27.2 L38.3,26.0 L41.4,26.2 L44.6,27.8 L47.4,30.5 L49.6,34.0 L51.4,32.2 L54.0,29.0 L57.0,26.8 L60.2,25.9 L63.1,26.4 L65.3,28.3 L66.5,31.2 L66.5,34.8 L65.3,38.6 L63.2,42.2 L66.8,42.4 L70.8,43.1 L74.1,44.8 L76.2,47.2 L77.0,50.0 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M75.0,50.0 L76.1,48.1 L77.3,49.1 L78.4,51.6 L79.6,51.6 L80.7,49.1 L81.9,48.1 L83.0,50.0" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M62.5,71.7 L64.8,71.7 L64.4,73.2 L62.9,75.4 L63.4,76.4 L66.1,76.2 L67.6,76.6 L66.5,78.6" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M37.5,71.7 L38.6,73.6 L37.1,74.1 L34.4,73.8 L33.9,74.8 L35.4,77.0 L35.8,78.6 L33.5,78.6" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M25.0,50.0 L23.9,51.9 L22.7,50.9 L21.6,48.4 L20.4,48.4 L19.3,50.9 L18.1,51.9 L17.0,50.0" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M37.5,28.3 L35.2,28.3 L35.6,26.8 L37.1,24.6 L36.6,23.6 L33.9,23.8 L32.4,23.4 L33.5,21.4" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M62.5,28.3 L61.4,26.4 L62.9,25.9 L65.6,26.2 L66.1,25.2 L64.6,23.0 L64.2,21.4 L66.5,21.4" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="75" y1="30" x2="85" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="69.12" y="14.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">6 lobes</text>
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-44">树+地图面板 / Tree+Map Panel Template</title>
+<desc id="d-44">左树右地图框地理点每末端分布色条连线到tip 关键词: tree, map, geography, distribution, panel</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="20.0" y1="200.0" x2="60.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="200.0" x2="60.0" y2="125.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="50.0" x2="140.0" y2="50.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="60.0" y1="125.0" x2="140.0" y2="125.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="60.0" y1="200.0" x2="60.0" y2="275.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="200.0" x2="140.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="60.0" y1="275.0" x2="60.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="275.0" x2="140.0" y2="275.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="60.0" y1="350.0" x2="140.0" y2="350.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="140.0" cy="50.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="140.0" cy="125.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="140.0" cy="200.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="140.0" cy="275.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="140.0" cy="350.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<rect x="200.0" y="50.0" width="180.0" height="300.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5"/>
+<ellipse cx="260.0" cy="130.0" rx="40.0" ry="30.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.2" stroke="#8C6D3F" stroke-width="0.5"/>
+<ellipse cx="330.0" cy="200.0" rx="35.0" ry="45.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.2" stroke="#8C6D3F" stroke-width="0.5"/>
+<ellipse cx="270.0" cy="280.0" rx="50.0" ry="30.0" fill="#8C6D3F" data-pp="host" fill-opacity="0.2" stroke="#8C6D3F" stroke-width="0.5"/>
+<circle cx="240.0" cy="120.0" r="5.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<line x1="145.0" y1="50.0" x2="240.0" y2="120.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<circle cx="280.0" cy="140.0" r="5.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1"/>
+<line x1="145.0" y1="125.0" x2="280.0" y2="140.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<circle cx="320.0" cy="190.0" r="5.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<line x1="145.0" y1="200.0" x2="320.0" y2="190.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<circle cx="340.0" cy="220.0" r="5.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<line x1="145.0" y1="275.0" x2="340.0" y2="220.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<circle cx="260.0" cy="280.0" r="5.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="1"/>
+<line x1="145.0" y1="350.0" x2="260.0" y2="280.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<rect x="148.0" y="46.0" width="25.0" height="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#2E86AB" stroke-width="1"/>
+<rect x="148.0" y="121.0" width="25.0" height="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#2E86AB" stroke-width="1"/>
+<rect x="148.0" y="196.0" width="25.0" height="8.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#00857A" stroke-width="1"/>
+<rect x="148.0" y="271.0" width="25.0" height="8.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#00857A" stroke-width="1"/>
+<rect x="148.0" y="346.0" width="25.0" height="8.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#A2305B" stroke-width="1"/>
+<text x="200.0" y="30.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Tree + Map</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Geo-distribution per tip</text>
+</g>
+</svg>

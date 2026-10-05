@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="树型拓扑" data-name-en="Topology Tree" data-cat="diagrams-sw-uml" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-56">树型拓扑 / topology_tree</title>
+  <desc id="d-56">树型网络拓扑。关键词: tree,topology,network</desc>
+  <g id="g-56-树型拓扑">
+    <circle cx="160" cy="40" r="14" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="80" cy="110" r="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="240" cy="110" r="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="40" cy="190" r="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="120" cy="190" r="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="200" cy="190" r="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="280" cy="190" r="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="152" y1="50" x2="88" y2="100" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="168" y1="50" x2="232" y2="100" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="74" y1="120" x2="46" y2="182" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="86" y1="120" x2="114" y2="182" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="234" y1="120" x2="206" y2="182" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="246" y1="120" x2="274" y2="182" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

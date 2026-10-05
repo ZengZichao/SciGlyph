@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-ion-exchange-column" data-cat="sp" data-spec="128"
+     data-tags="ion-exchange,column,chromatography,resin" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">离子交换柱 / Ion-Exchange Column</title>
+  <desc id="d">离子交换层析柱</desc>
+  <g id="body"><path d="M52 10 L76 10 L76 14 L74 14 L74 100 L76 104 L76 110 L72 114 L56 114 L52 110 L52 104 L54 100 L54 14 L52 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 10 L72 10 L72 14 L56 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M56 50 L72 50 L72 100 L56 100 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M56 30 L72 30 L72 48 L56 48 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M58 54 L70 54 M58 58 L70 58 M58 62 L70 62 M58 66 L70 66 M58 70 L70 70 M58 74 L70 74 M58 78 L70 78 M58 82 L70 82 M58 86 L70 86 M58 90 L70 90 M58 94 L70 94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 110 L68 110 L68 114 L60 114 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

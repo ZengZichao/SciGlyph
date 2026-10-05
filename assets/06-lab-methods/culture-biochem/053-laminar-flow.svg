@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-laminar_flow d-laminar_flow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-laminar_flow">超净台 / Laminar Flow Hood</title>
+  <desc id="d-laminar_flow">超净工作台: HEPA过滤层流提供无菌操作环境。关键词: laminar flow hood, biosafety cabinet, HEPA, aseptic technique</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="15" width="70" height="55" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="15" y="15" width="70" height="10" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/>
+    <text x="50" y="23" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">HEPA</text>
+    <line x1="30" y1="28" x2="30" y2="60" stroke="#00857A" stroke-width="0.5" stroke-dasharray="2,2" data-pp="metabolism"/>
+    <line x1="45" y1="28" x2="45" y2="60" stroke="#00857A" stroke-width="0.5" stroke-dasharray="2,2" data-pp="metabolism"/>
+    <line x1="60" y1="28" x2="60" y2="60" stroke="#00857A" stroke-width="0.5" stroke-dasharray="2,2" data-pp="metabolism"/>
+    <line x1="75" y1="28" x2="75" y2="60" stroke="#00857A" stroke-width="0.5" stroke-dasharray="2,2" data-pp="metabolism"/>
+    <rect x="35" y="55" width="30" height="10" rx="1" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">超净台</text>
+  </g>
+</svg>

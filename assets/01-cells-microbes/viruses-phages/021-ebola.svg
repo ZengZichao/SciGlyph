@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-ebola d-ebola" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-ebola">埃博拉(丝状) / Ebola filamentous enveloped virus</title>
+  <desc id="d-ebola">埃博拉病毒(Filoviridae科)。丝状/卷曲形态，有脂质包膜含GP糖蛋白刺突。内部螺旋核衣壳含ssRNA(-)约19kb。可呈6形/环形。关键词: Ebola, filovirus, filamentous, enveloped, GP spike</desc>
+  <g id="layer-body-ebola" data-name="body">
+    
+    <path d="M15,50 Q25,30 40,40 Q55,50 65,35 Q75,20 85,40" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="8" stroke-linecap="round" />
+    
+    <line x1="22" y1="37" x2="22" y2="32" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="29" y1="30" x2="29" y2="25" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="36" y1="26" x2="36" y2="21" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="43" y1="27" x2="43" y2="22" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="50" y1="32" x2="50" y2="27" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="57" y1="40" x2="57" y2="35" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="64" y1="49" x2="64" y2="44" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="71" y1="58" x2="71" y2="53" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    <line x1="78" y1="64" x2="78" y2="59" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-linecap="round" />
+    
+    <path d="M18,50 Q28,32 42,42 Q56,52 66,37 Q76,22 84,40" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" stroke-dasharray="3,2" />
+  </g>
+  <g id="layer-annotation-ebola" data-name="annotation">
+    <text x="50" y="74.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ebola</text>
+    <text x="50" y="82.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">filamentous</text>
+  </g>
+</svg>

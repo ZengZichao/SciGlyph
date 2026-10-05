@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-emergency-safety-shower" data-cat="sf" data-spec="128"
+     data-tags="safety shower,emergency,pull rod,spray,decontamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">紧急冲淋器 / Emergency Safety Shower</title>
+  <desc id="d">紧急冲淋器，拉杆、花洒头、水柱，用于全身化学污染冲洗。</desc>
+  <g id="body"><rect x="58" y="8" width="12" height="16" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M64 24 L64 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M44 40 L84 40 L80 52 L48 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M64 8 L78 8 L78 16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M50 56 L50 108 M58 56 L58 108 M66 56 L66 108 M74 56 L74 108 M82 56 L78 108" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><path d="M46 52 Q50 54 54 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M56 52 Q60 54 64 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M66 52 Q70 54 74 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M76 52 Q80 54 82 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-ce-capillary-electrophoresis" data-cat="an" data-spec="128"
+     data-tags="ce,capillary,electrophoresis,high,voltage,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">毛细管电泳仪 / Capillary Electrophoresis</title>
+  <desc id="d">毛细管电泳仪：高压电源、毛细管、进样端、检测窗口。</desc>
+  <g id="body">
+    <rect x="18" y="18" width="92" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="18" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="26" y="40" width="12" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M28 48 L36 48 L36 56 Q36 57 35 57 L29 57 Q28 57 28 56 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <text x="32" y="38" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">−</text>
+<path d="M38 44 Q50 30 64 44 Q78 58 90 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="60" y="40" width="8" height="8" rx="1" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+<line x1="64" y1="36" x2="64" y2="32" fill="none" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round"/>
+    <text x="64" y="30" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Det</text>
+<rect x="84" y="40" width="12" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M86 48 L94 48 L94 56 Q94 57 93 57 L87 57 Q86 57 86 56 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <text x="90" y="38" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">+</text>
+<rect x="44" y="62" width="30" height="16" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="59" y="73" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HV</text>
+<line x1="44" y1="66" x2="32" y2="58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="74" y1="66" x2="90" y2="58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="22" y="82" width="40" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M26 92 L30 90 L34 86 L36 92 L40 92 L44 88 L46 84 L48 92 L52 92 L56 90 L58 92" fill="#2B7DE9" stroke="none" stroke-width="1" data-ls="accent"/>
+    <text x="42" y="80" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">CE</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

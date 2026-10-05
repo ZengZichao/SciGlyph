@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-34 d-34" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">时间校准树+HPD区间 / Time Tree with HPD Intervals</title>
+  <desc id="d-34">骨架，配合BEAST/MCMCTree使用。时间校准树带节点95%最高后验密度(HPD)可信区间带(credible interval；贝叶斯后验区间，非频率学派置信区间)。 关键词: phylogenetic tree, time tree, BEAST, MCMCTree, HPD, credible interval, Present, skeleton template, time calibration</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="confidence-bands">
+    <rect x="140" y="60" width="40" height="280" fill="#93A0AC" fill-opacity="0.15" data-pp="muted"/>
+    <rect x="335" y="80" width="50" height="240" fill="#93A0AC" fill-opacity="0.15" data-pp="muted"/>
+  </g>
+  <g data-name="branches">
+    <line x1="60" y1="200" x2="160" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="160" y1="120" x2="160" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="160" y1="120" x2="360" y2="120" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="160" y1="280" x2="560" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="360" y1="80" x2="360" y2="160" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="360" y1="80" x2="560" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="360" y1="160" x2="560" y2="160" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="tip-labels">
+    <text x="568" y="83" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp A</text>
+    <text x="568" y="163" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp B</text>
+    <text x="568" y="283" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp C</text>
+  </g>
+  <g data-name="time-axis">
+    <line x1="60" y1="370" x2="560" y2="370" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="60" y1="367" x2="60" y2="373" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="60" y="388" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">500 Ma</text>
+    <line x1="160" y1="367" x2="160" y2="373" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="160" y="388" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">400 Ma</text>
+    <line x1="360" y1="367" x2="360" y2="373" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="360" y="388" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">200 Ma</text>
+    <line x1="560" y1="367" x2="560" y2="373" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="560" y="388" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Present</text>
+  </g>
+</svg>

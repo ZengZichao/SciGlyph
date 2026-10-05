@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-comment-balloon" data-cat="pf" data-spec="160"
+     data-tags="comment,balloon,note,speech,annotation,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">注释气泡 / Comment Balloon</title>
+  <desc id="d">流程图注释气泡符号。</desc>
+  <g id="body">
+    <path d="M20,16 L140,16 Q148,16 148,24 L148,56 Q148,64 140,64 L60,64 L40,82 L48,64 L20,64 Q12,64 12,56 L12,24 Q12,16 20,16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

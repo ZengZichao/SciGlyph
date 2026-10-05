@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-metabolic_pathway_completeness d-metabolic_pathway_completeness" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-metabolic_pathway_completeness">代谢通路完备性比较 / Metabolic pathway completeness comparison</title>
+  <desc id="d-metabolic_pathway_completeness">物种间代谢通路完备性比较。schematic, not to scale. 关键词: pathway, completeness, metabolic</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="completeness-bars">
+  <text x="55" y="100" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp1</text>
+  <rect x="70" y="80" width="65.6" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="70" y="80" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="170" y="80" width="30.2" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="170" y="80" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="270" y="80" width="39.9" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="270" y="80" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="370" y="80" width="30.4" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="370" y="80" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="470" y="80" width="17.3" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="470" y="80" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <text x="55" y="160" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp2</text>
+  <rect x="70" y="140" width="41.2" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="70" y="140" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="170" y="140" width="37.1" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="170" y="140" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="270" y="140" width="74.8" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="270" y="140" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="370" y="140" width="77.6" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="370" y="140" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="470" y="140" width="62.4" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="470" y="140" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <text x="55" y="220" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp3</text>
+  <rect x="70" y="200" width="70.7" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="70" y="200" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="170" y="200" width="34.7" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="170" y="200" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="270" y="200" width="45.3" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="270" y="200" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="370" y="200" width="68.2" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="370" y="200" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="470" y="200" width="65.0" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="470" y="200" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <text x="55" y="280" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp4</text>
+  <rect x="70" y="260" width="44.8" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="70" y="260" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="170" y="260" width="75.6" height="30" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <rect x="170" y="260" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="270" y="260" width="61.6" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="270" y="260" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="370" y="260" width="17.2" height="30" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <rect x="370" y="260" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+  <rect x="470" y="260" width="51.1" height="30" fill="#E8871E" data-pp="mge" rx="2"/>
+  <rect x="470" y="260" width="85" height="30" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" rx="2"/>
+</g>
+<g data-name="pathway-labels">
+  <text x="112" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Glycolysis</text>
+  <text x="212" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">TCA cycle</text>
+  <text x="312" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pentose-P</text>
+  <text x="412" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ETC</text>
+  <text x="512" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">N-fixation</text>
+</g>
+<text x="300" y="30" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Metabolic Pathway Completeness Comparison (schematic)</text>
+</svg>

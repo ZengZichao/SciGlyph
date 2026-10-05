@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>水银温度计</title>
+  <rect x="10" y="3" width="4" height="16" rx="2"/>
+  <rect x="10.75" y="4" width="2.5" height="14" rx="1.25"/>
+  <circle cx="12" cy="20" r="2.5"/>
+  <circle cx="12" cy="20" r="1.5" fill="currentColor"/>
+  <line x1="12" y1="18" x2="12" y2="8" stroke-width="1"/>
+  <line x1="14" y1="6" x2="15.5" y2="6" stroke-width="0.75"/>
+  <line x1="14" y1="8" x2="15" y2="8" stroke-width="0.75"/>
+  <line x1="14" y1="10" x2="15.5" y2="10" stroke-width="0.75"/>
+  <line x1="14" y1="12" x2="15" y2="12" stroke-width="0.75"/>
+  <line x1="14" y1="14" x2="15.5" y2="14" stroke-width="0.75"/>
+  <line x1="14" y1="16" x2="15" y2="16" stroke-width="0.75"/>
+  <line x1="14" y1="5" x2="16" y2="5" stroke-width="1"/>
+</svg>

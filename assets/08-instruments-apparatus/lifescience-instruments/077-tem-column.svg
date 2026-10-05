@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-tem-column" data-cat="ls" data-spec="128"
+     data-tags="tem,electron,microscope,lens,vacuum,imaging" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">透射电子显微镜 / Transmission Electron Microscope</title>
+  <desc id="d">透射电子显微镜：电子枪、电磁透镜、样品室、荧光屏。</desc>
+  <g id="body">
+<rect x="30" y="8" width="68" height="108" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="30" y="8" width="68" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="52" y="14" width="24" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<polygon points="64,24 60,28 68,28" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="64" y="12" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">e⁻ Gun</text>
+<ellipse cx="64" cy="34" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="82" y="36" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">C1</text>
+<rect x="60" y="42" width="8" height="3" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<ellipse cx="64" cy="52" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="82" y="54" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Obj</text>
+<rect x="56" y="60" width="16" height="4" rx="1" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+    <text x="78" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<ellipse cx="64" cy="72" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="82" y="74" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Int</text>
+<ellipse cx="64" cy="82" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="82" y="84" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Proj</text>
+<rect x="48" y="92" width="32" height="8" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="50" y="94" width="28" height="4" rx="1" fill="#F5A623" opacity="0.3" stroke="none" data-ls="warn"/>
+    <text x="64" y="106" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Screen</text>
+<line x1="64" y1="28" x2="64" y2="92" fill="none" opacity="0.3" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round"/>
+    <rect x="36" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="110" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

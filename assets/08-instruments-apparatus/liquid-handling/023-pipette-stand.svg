@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-pipette-stand" data-cat="lh" data-spec="128"
+     data-tags="pipette,stand,holder,lab" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">移液器支架 / Pipette Stand</title>
+  <desc id="d">移液器放置支架，可挂多支移液器</desc>
+  <g id="body"><path d="M36 100 L92 100 L92 110 Q92 116 86 116 L42 116 Q36 116 36 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M62 30 L66 30 L66 100 L62 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 30 L84 30 L84 36 L44 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 36 L48 70 L54 70 L54 36" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 36 L58 80 L64 80 L64 36" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M68 36 L68 70 L74 70 L74 36" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M50 50 L52 50 L52 66 L50 66 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M60 50 L62 50 L62 76 L60 76 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M70 50 L72 50 L72 66 L70 66 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/></g>
+</svg>

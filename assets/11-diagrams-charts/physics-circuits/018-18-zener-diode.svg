@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="稳压二极管" data-name-en="zener-diode" data-cat="physics-electronics" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18">稳压二极管 / zener_diode</title>
+  <desc id="d-18">齐纳稳压二极管符号。关键词: 稳压管,齐纳,电压调节</desc>
+  <g id="g-18-稳压二极管">
+    <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 45 25 L 45 55 L 70 40 Z" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 68 24 L 74 24 L 66 56 L 72 56" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <line x1="70" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

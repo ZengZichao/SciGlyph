@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-syringe-10ml" data-cat="lh" data-spec="128"
+     data-tags="syringe,10ml,liquid-handling,needle,injection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">10mL注射器 / 10mL Syringe</title>
+  <desc id="d">10mL大容量注射器</desc>
+  <g id="body"><rect x="52" y="30" width="24" height="56" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="50" y="22" width="28" height="10" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M60 22 L60 14 L68 14 L68 22" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 14 L64 8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M54 40 L74 40 M54 50 L74 50 M54 60 L74 60 M54 70 L74 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M54 45 L60 45 M54 55 L60 55 M54 65 L60 65 M54 75 L60 75" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M48 86 L80 86 L80 90 L48 90 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M54 56 L74 56 L74 84 L54 84 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

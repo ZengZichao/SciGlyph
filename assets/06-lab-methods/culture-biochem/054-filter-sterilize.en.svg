@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-filter_sterilize d-filter_sterilize" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-filter_sterilize">Filter Sterilization</title>
+  <desc id="d-filter_sterilize">0.22μm滤膜除菌: 热敏感液体通过微孔滤膜除去细菌。0.22μm 为除菌过滤常用标称孔径(示意, 实际取决于滤膜规格)。关键词: filter sterilization, 0.22 um, membrane, syringe filter, heat-labile</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="35" y="10" width="30" height="25" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>
+    <rect x="37" y="15" width="26" height="18" rx="2" fill="#2E86AB" fill-opacity="0.2" data-pp="bacteria"/>
+    <circle cx="45" cy="22" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="55" cy="25" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="30" y="38" width="40" height="6" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <text x="50" y="43" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">0.22μm</text>
+    <rect x="38" y="48" width="24" height="25" rx="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <line x1="50" y1="44" x2="50" y2="48" stroke="#00857A" stroke-width="1" stroke-linecap="round" data-pp="metabolism"/>
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">sterile</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="95" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Membrane filter</text>
+  </g>
+</svg>

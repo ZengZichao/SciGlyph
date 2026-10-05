@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-bunsen-burner" data-cat="hc" data-spec="128"
+     data-tags="bunsen,burner,gas,flame,heating,laboratory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">本生灯 / Bunsen Burner</title>
+  <desc id="d">本生灯：底座+管+进气口调节环+内外双层火焰</desc>
+  <g id="body"><path d="M40 104 L88 104 L88 116 L40 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M56 104 L56 50 L72 50 L72 104" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 80 L52 70 L76 70 L76 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="50" y="72" width="28" height="6" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M64 8 Q50 24 50 38 Q50 50 64 50 Q78 50 78 38 Q78 24 64 8 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M64 16 Q54 28 54 38 Q54 48 64 48 Q74 48 74 38 Q74 28 64 16 Z" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/>
+    <path d="M64 28 Q60 34 60 40 Q60 46 64 46 Q68 46 68 40 Q68 34 64 28 Z" fill="#FFFFFF" opacity="0.8" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M50 74 L44 74 L44 78 L50 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M78 74 L84 74 L84 78 L78 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-uv-radiation" data-cat="hz" data-spec="128"
+     data-tags="uv,ultraviolet,radiation,紫外,辐射" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">紫外辐射标志 / UV Radiation Hazard</title>
+  <desc id="d">紫外灯+波线辐射警告标志。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <rect x="40" y="40" width="48" height="16" rx="4" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M48 56 L48 62 M56 56 L56 62 M64 56 L64 62 M72 56 L72 62 M80 56 L80 62" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <path d="M44 70 Q50 76 56 70 Q62 64 68 70 Q74 76 80 70 Q86 64 92 70" fill="none" stroke="#2B7DE9" stroke-width="2.5" data-ls="accent"/>
+    <path d="M44 80 Q50 86 56 80 Q62 74 68 80 Q74 86 80 80 Q86 74 92 80" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <text x="64" y="100" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="stroke">UV</text></g>
+  <g id="detail"></g>
+</svg>

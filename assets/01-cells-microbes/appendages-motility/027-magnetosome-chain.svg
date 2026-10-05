@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-magnetosome_chain d-magnetosome_chain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-magnetosome_chain">磁小体链 / Magnetosome Chain</title>
+  <desc id="d-magnetosome_chain">Fe3O4 crystal chain with lipid/protein shell for magnetotaxis. 关键词: magnetosome, Fe3O4, magnetotaxis, biomineralization</desc>
+  
+  <g id="layer-body-magnetosome_chain" data-name="body">
+    <ellipse cx="50" cy="50" rx="35" ry="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.2"/>
+    <rect x="20" y="44" width="55" height="12" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" rx="3" stroke-dasharray="2,1"/>
+    <rect x="22" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    <rect x="32" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    <rect x="42" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    <rect x="52" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    <rect x="62" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    <rect x="72" y="47" width="6" height="6" fill="#1B2733" data-pp="ink" stroke="#00857A" stroke-width="1" rx="1"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="25" y="75" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Fe₃O₄ crystals</text>
+    <line x1="25.0" y1="82.9" x2="17.04" y2="82.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="17.04" y="85.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">lipid/protein shell</text>
+  </g>
+</svg>

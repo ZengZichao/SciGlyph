@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="横向误差棒" data-name-en="Errorbar Horizontal" data-cat="charts-plots" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">横向误差棒 / errorbar_horizontal</title>
+  <desc id="d-34">横向误差棒展示。关键词: errorbar,horizontal,range</desc>
+  <g id="g-34-横向误差棒">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="187" cy="205" r="3.5" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="154" y1="205" x2="213" y2="205" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="154" y1="197" x2="154" y2="213" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="213" y1="197" x2="213" y2="213" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="47" y="208" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">A</text>
+    <circle cx="237" cy="142" r="3.5" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="197" y1="142" x2="286" y2="142" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="197" y1="134" x2="197" y2="150" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="286" y1="134" x2="286" y2="150" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="47" y="146" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">B</text>
+    <circle cx="286" cy="92" r="3.5" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="260" y1="92" x2="319" y2="92" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="260" y1="84" x2="260" y2="100" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="319" y1="84" x2="319" y2="100" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="47" y="96" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">C</text>
+    <line x1="55" y1="280" x2="55" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="138" y1="280" x2="138" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="138" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">25</text>
+    <line x1="220" y1="280" x2="220" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">50</text>
+    <line x1="302" y1="280" x2="302" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="302" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">75</text>
+    <line x1="385" y1="280" x2="385" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="385" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">100</text>
+  </g>
+</svg>

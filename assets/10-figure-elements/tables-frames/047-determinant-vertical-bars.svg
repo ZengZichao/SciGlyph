@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="行列式" data-name-en="determinant-vertical-bars" data-cat="tables-frames" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">行列式 / determinant_vertical_bars</title>
+  <desc id="d-47">竖线包围的行列式。关键词: 行列式,竖线,2x2</desc>
+  <g id="g-47-行列式">
+    <line x1="80" y1="50" x2="80" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="240" y1="50" x2="240" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="130" y="100" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">a</text>
+    <text x="190" y="100" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">b</text>
+    <text x="130" y="150" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">c</text>
+    <text x="190" y="150" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">d</text>
+  </g>
+</svg>

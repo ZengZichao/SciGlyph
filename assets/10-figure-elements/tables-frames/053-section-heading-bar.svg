@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="章节色条" data-name-en="section-heading-bar" data-cat="tables-frames" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-53">章节色条 / section_heading_bar</title>
+  <desc id="d-53">章节标题色条。关键词: 章节,标题,色条</desc>
+  <g id="g-53-章节色条">
+    <rect x="20" y="50" width="440" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="40" y="76" font-size="14" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Section 1</text>
+  </g>
+</svg>

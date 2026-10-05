@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-reservoir-plate" data-cat="st" data-spec="128"
+     data-tags="reservoir,plate,trough,automation,reagent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">储液槽板 / Reservoir Plate</title>
+  <desc id="d">储液槽板，用于自动化液体处理的试剂储液。</desc>
+  <g id="body"><rect x="10" y="20" width="108" height="88" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="16" y="28" width="20" height="72" rx="3" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/><rect x="40" y="28" width="20" height="72" rx="3" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/><rect x="64" y="28" width="20" height="72" rx="3" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/><rect x="88" y="28" width="20" height="72" rx="3" fill="#BFE0FF" opacity="0.7" stroke="none" data-ls="liquid"/></g>
+  
+</svg>

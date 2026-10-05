@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-dispenser-bottle-top" data-cat="lh" data-spec="128"
+     data-tags="dispenser,bottle-top,reagent,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">瓶口分液器 / Bottle-Top Dispenser</title>
+  <desc id="d">瓶口分液器，安装在试剂瓶上，可调体积分液</desc>
+  <g id="body"><path d="M48 10 L80 10 L80 16 L76 16 L76 40 L52 40 L52 16 L48 16 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="54" y="18" width="20" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="56" y="20" width="16" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <path d="M56 40 L56 56 L72 56 L72 40" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 56 L52 110 Q52 116 58 116 L70 116 Q76 116 76 110 L76 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><text x="64" y="26" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">mL</text>
+    <path d="M54 66 L74 66 M54 76 L74 76 M54 86 L74 86 M54 96 L74 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M54 80 L74 80 L74 108 Q74 114 70 114 L58 114 Q54 114 54 108 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M76 48 L84 48 L84 52 L76 52 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

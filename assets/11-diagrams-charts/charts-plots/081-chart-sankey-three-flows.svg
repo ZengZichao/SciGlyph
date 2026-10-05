@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-sankey-three-flows" data-cat="ch" data-spec="128"
+     data-tags="chart,sankey,three,flows,band,width,gradient" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">桑基图三流 / Chart Sankey Three Flows</title>
+  <desc id="d">桑基三股带宽渐变用不同opacity。</desc>
+  <g id="body">
+    <rect x="16" y="24" width="12" height="20" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="16" y="54" width="12" height="20" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="16" y="84" width="12" height="20" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <rect x="100" y="20" width="12" height="30" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="100" y="58" width="12" height="24" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="100" y="88" width="12" height="20" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <path d="M28,34 Q60,34 100,35" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="16" data-ls="accent"/>
+    <path d="M28,64 Q60,64 100,70" fill="#F5A623" opacity="0.4" stroke="none" stroke-width="16" data-ls="warn"/>
+    <path d="M28,94 Q60,94 100,98" fill="#7FC26B" opacity="0.4" stroke="none" stroke-width="16" data-ls="liquid-2"/>
+  </g>
+</svg>

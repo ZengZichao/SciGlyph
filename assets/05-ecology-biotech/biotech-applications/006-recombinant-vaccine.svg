@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="重组疫苗抗原表达" data-name-en="Recombinant Vaccine Antigen Expression" data-cat="05-eco-seq" data-tags="重组疫苗,质粒,基因工程,抗原表达,抗体,免疫应答" role="img" aria-labelledby="t-36-recombinant-vaccine d-36-recombinant-vaccine" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36-recombinant-vaccine">重组疫苗抗原表达 / Recombinant Vaccine Antigen Expression</title>
+  <desc id="d-36-recombinant-vaccine">目的基因插入质粒转入工程菌表达并分泌抗原，抗原与佐剂配制成疫苗后诱导特异性抗体结合。关键词: 重组疫苗, 质粒, 基因工程, 抗原表达, 抗体, 免疫应答</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- ① 重组质粒（环形载体 + 插入的目的基因） -->
+  <circle cx="22" cy="42" r="16" fill="none" stroke="#1F6F8B" stroke-width="3"/>
+  <path d="M22 26 A16 16 0 0 1 35 33" stroke="#E8B04B" stroke-width="4.5"/>
+  <path d="M37 50 A16 16 0 0 1 22 58" stroke="#5FA8C7" stroke-width="4"/>
+  <path d="M7 50 A16 16 0 0 1 7 34" stroke="#5FA8C7" stroke-width="4"/>
+  <circle cx="30" cy="27" r="1.8" fill="#B57A17" stroke="none"/>
+  <text x="18" y="66" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">质粒</text>
+  <!-- ①→② -->
+  <path d="M38 42 H43 M41 40 l2.5 2 l-2.5 2" stroke="#B57A17" stroke-width="1.6"/>
+  <!-- ② 宿主细胞表达抗原 -->
+  <rect x="44" y="36" width="34" height="15" rx="7.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.8"/>
+  <circle cx="48" cy="43" r="5" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M56 43.5 A7 5 0 0 0 70 43.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="52" cy="33" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="66" cy="33" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="76" cy="33" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M52 30 v-4 M66 30 v-6 M76 30 v-4" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <circle cx="52" cy="23" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="66" cy="19" r="2.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="76" cy="23" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- ③ 抗体特异性结合抗原 -->
+  <path d="M90 33 C94 41 98 45 98 49" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M106 33 C102 41 98 45 98 49" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M98 49 V62" stroke="#2E7D5B" stroke-width="2"/>
+  <circle cx="90" cy="30" r="4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="106" cy="30" r="4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M79 23 L86 28" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- ④ 疫苗制剂（抗原 + 佐剂） -->
+  <path d="M61 54 V60 H34 V72 M31.5 68.5 L34 72 L36.5 68.5" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <rect x="6" y="72" width="26" height="7" rx="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M8 79 H30 V102 A4 4 0 0 1 26 106 H12 A4 4 0 0 1 8 102 Z" fill="#DCEEE4" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M8 94 H30 V102 A4 4 0 0 1 26 106 H12 A4 4 0 0 1 8 102 Z" fill="#E8B04B" fill-opacity="0.35" stroke="none"/>
+  <circle cx="14" cy="98" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="22" cy="101" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="26" cy="96" r="1.8" fill="#5FA8C7" stroke="none"/>
+  <!-- 注射器 -->
+  <path d="M32 92 H44 M41 89.5 l3 2.5 l-3 2.5" stroke="#B57A17" stroke-width="1.4"/>
+  <rect x="47" y="84" width="30" height="13" rx="2" fill="#DCEEE4" fill-opacity="0.7" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M50 94 H74 V95 A2 2 0 0 1 72 97 H52 A2 2 0 0 1 50 95 Z" fill="#E8B04B" fill-opacity="0.4" stroke="none"/>
+  <path d="M47 90 H43 M43 84 V97" stroke="#B57A17" stroke-width="1.6"/>
+  <path d="M77 90 H86" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M56 84 v13 M63 84 v13 M70 84 v13" stroke="#7A8B93" stroke-width="1.2"/>
+  <text x="62" y="72" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">疫苗制剂</text>
+</g>
+</svg>

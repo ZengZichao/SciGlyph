@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-waste-label-base" data-cat="lb" data-spec="160"
+     data-tags="waste,label,base,alkaline,corrosive,hazardous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">废液标签碱 / Waste Label Base</title>
+  <desc id="d">废液标签，碱性废液。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="10" y="10" width="140" height="10" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="80" y="18" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="stroke">BASE WASTE</text>
+    <text x="16" y="32" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">BASE TYPE:</text>
+    <line x1="16" y1="36" x2="144" y2="36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="46" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">CONCENTRATION:</text>
+    <line x1="16" y1="50" x2="144" y2="50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="60" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">CONTAMINANTS:</text>
+    <line x1="16" y1="64" x2="144" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="144" y1="24" x2="144" y2="82" fill="none" stroke="#1F2933" stroke-dasharray="2,2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="16" y="78" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" data-ls="stroke">DATE:</text>
+    <line x1="16" y1="82" x2="80" y2="82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

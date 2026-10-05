@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-capacitor-electrolytic-polarized" data-cat="el" data-spec="128"
+     data-tags="capacitor,electrolytic,polarized,电解电容,极性" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电解电容（有极性） / Electrolytic Capacitor Polarized</title>
+  <desc id="d">电解电容符号：一实一虚线+极性标记。</desc>
+  <g id="body"><line x1="10" y1="64" x2="56" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="72" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="56" y1="38" x2="56" y2="90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M72 38 Q78 64 72 90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <text x="44" y="34" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle" data-ls="stroke">+</text></g>
+  <g id="detail"></g>
+</svg>

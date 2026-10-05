@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="铃铛" data-name-en="bell" data-cat="basic-icons-ui" aria-labelledby="t-61 d-61" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-61">铃铛 / bell</title>
+  <desc id="d-61">通知与提醒图标。关键词: 铃铛,通知,bell,notification</desc>
+  <g id="g-61-铃铛">
+    <path d="M12 32 L12 20 Q12 8 24 8 Q36 8 36 20 L36 32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8" y1="32" x2="40" y2="32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 36 Q24 42 28 36" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

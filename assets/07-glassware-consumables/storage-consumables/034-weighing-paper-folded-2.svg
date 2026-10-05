@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-weighing-paper-folded" data-cat="cs" data-spec="128"
+     data-tags="weighing paper,folded,v-shape,powder,transfer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">折叠称量纸 / Folded Weighing Paper</title>
+  <desc id="d">V形折叠称量纸，便于转移粉末。</desc>
+  <g id="body"><path d="M20 40 L64 90 L108 40 L100 36 L64 78 L28 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 42 L64 82 L100 42" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 44 L64 72 L88 44" fill="none" opacity="0.3" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

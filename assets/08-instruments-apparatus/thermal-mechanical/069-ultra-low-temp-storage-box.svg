@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-ultra-low-temp-storage-box" data-cat="hc" data-spec="128"
+     data-tags="ultra-low,temperature,storage,box,cryo" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">超低温储存箱 / Ultra-Low Temperature Storage Box</title>
+  <desc id="d">超低温储存箱</desc>
+  <g id="body"><rect x="20" y="24" width="88" height="84" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="24" y="28" width="80" height="76" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="40" y="24" width="48" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="42" y="26" width="44" height="8" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="34" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">-150°C</text>
+    <path d="M28 50 L100 50 M28 66 L100 66 M28 82 L100 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M32 54 L96 54 L96 62 L32 62 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <path d="M32 70 L96 70 L96 78 L32 78 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <path d="M32 86 L96 86 L96 94 L32 94 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/></g>
+</svg>

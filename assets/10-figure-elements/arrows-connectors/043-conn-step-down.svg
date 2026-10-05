@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="阶梯下降连接" data-name-en="conn step down" data-cat="arrows-connectors" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-43">阶梯下降连接 / conn_step_down</title>
+  <desc id="d-43">阶梯式下降路径连接。关键词: conn,step,down,descent</desc>
+  <g id="g-43-阶梯下降连接">
+    <polyline points="14,14 40,14 40,24 60,24 60,34 78,34" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="76,28 84,34 76,40" fill="#1f2937"/>
+  </g>
+</svg>

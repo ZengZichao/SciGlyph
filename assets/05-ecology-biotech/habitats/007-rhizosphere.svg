@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="植物根际" data-name-en="Plant Rhizosphere" data-cat="05-eco-seq" data-tags="根际,根毛,根际效应,植物促生菌,根际微生物群落" role="img" aria-labelledby="t-07-rhizosphere d-07-rhizosphere" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-07-rhizosphere">植物根际 / Plant Rhizosphere</title>
+  <desc id="d-07-rhizosphere">根毛与根系分泌物在根表形成菌群富集的根际圈，根际菌参与养分吸收、固氮与植物促生。关键词: 根际, 根毛, 根际效应, 植物促生菌, 根际微生物群落</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 根际影响圈（虚线包络） -->
+  <path d="M40 16 C26 34 32 58 28 82 C26 98 32 108 36 112" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M80 16 C94 34 88 58 92 82 C94 98 88 108 84 112" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 主根 -->
+  <path d="M52 16 C49 34 56 50 53 68 C51 84 55 96 54 111 L66 111 C65 96 69 84 67 68 C64 50 71 34 68 16 Z" fill="#E8B04B" fill-opacity="0.45" stroke="#B57A17" stroke-width="1.6"/>
+  <path d="M60 18 C57 40 63 56 60 76 C59 90 61 100 60 110" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 侧根 -->
+  <path d="M53 40 C44 42 40 48 32 50" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M67 68 C78 70 84 76 92 78" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M54 86 C46 88 42 94 36 96" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 根毛 -->
+  <path d="M49 28 C44 27 40 30 37 33 M51 46 C46 46 43 50 40 53 M50 62 C45 63 42 66 39 70 M53 80 C48 81 45 84 42 88" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M71 30 C76 29 80 32 83 35 M69 48 C74 48 77 52 80 55 M70 64 C75 65 78 68 81 72 M67 84 C72 85 75 88 78 91" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M30 50 C26 51 24 54 23 57 M92 78 C96 79 98 82 99 85 M36 96 C32 97 30 100 29 103" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 地上部幼苗 -->
+  <path d="M60 16 C56 10 51 9 47 12 C51 16 56 17 60 16 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M60 16 C64 10 69 9 73 12 C69 16 64 17 60 16 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M60 16 V6" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 土壤颗粒 -->
+  <circle cx="16" cy="20" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="104" cy="24" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="14" cy="60" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="108" cy="52" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="18" cy="104" r="1.8" fill="#7A8B93" stroke="none"/>
+  <circle cx="102" cy="102" r="1.8" fill="#7A8B93" stroke="none"/>
+  <!-- 养分离子（近根富集） -->
+  <circle cx="36" cy="36" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="84" cy="34" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="34" cy="76" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="86" cy="72" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="20" cy="40" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="100" cy="36" r="2" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 根际定殖菌 -->
+  <rect x="24" y="30" width="14" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="93" cy="28" r="4.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="92" y="50" width="13" height="6.5" rx="3.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="26" cy="64" r="4.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="22" y="88" width="13" height="6.5" rx="3.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="98" cy="90" r="4.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <circle cx="45" cy="22" r="3.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <!-- 根际菌鞭毛 -->
+  <path d="M38 32 c5 -3 7 4 12 1" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M93 32 c5 -3 7 4 12 1" stroke="#2E7D5B" stroke-width="1.2"/>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>八连管</title>
+  <path d="M3 8h18v2H3z"/>
+  <path d="M5 10v6l1 3h1"/>
+  <path d="M9.5 10v6l1 3h1"/>
+  <path d="M14 10v6l1 3h1"/>
+  <path d="M18.5 10v6l1 3"/>
+  <line x1="3" y1="8" x2="3" y2="6"/>
+  <line x1="21" y1="8" x2="21" y2="6"/>
+  <path d="M3 6c0-1 1.5-2 3-2h12c1.5 0 3 1 3 2"/>
+</svg>

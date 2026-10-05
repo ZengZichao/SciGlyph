@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="问号圆" data-name-en="question_circle" data-cat="basic-icons-ui" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-48">问号圆 / question_circle</title>
+  <desc id="d-48">帮助与疑问图标。关键词: 问号,帮助,question,help</desc>
+  <g id="g-48-问号圆">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 18 Q18 12 24 12 Q30 12 30 18 Q30 22 24 24 L24 28" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="34" r="2" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

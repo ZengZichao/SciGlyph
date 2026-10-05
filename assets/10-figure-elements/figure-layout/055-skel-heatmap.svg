@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-55_skel_heatmap d-55_skel_heatmap" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55_skel_heatmap">热图网格骨架 / Heatmap skeleton</title>
+  <desc id="d-55_skel_heatmap">热图网格骨架(带行列标签位)。骨架，配合矩阵数据使用。关键词: skeleton, heatmap, matrix, grid</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="25" y="15" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-1-1"/>
+    <rect x="37" y="15" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-1-2"/>
+    <rect x="49" y="15" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-1-3"/>
+    <rect x="61" y="15" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-1-4"/>
+    <rect x="73" y="15" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-1-5"/>
+    <rect x="25" y="27" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-2-1"/>
+    <rect x="37" y="27" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-2-2"/>
+    <rect x="49" y="27" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-2-3"/>
+    <rect x="61" y="27" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-2-4"/>
+    <rect x="73" y="27" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-2-5"/>
+    <rect x="25" y="39" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-3-1"/>
+    <rect x="37" y="39" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-3-2"/>
+    <rect x="49" y="39" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-3-3"/>
+    <rect x="61" y="39" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-3-4"/>
+    <rect x="73" y="39" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-3-5"/>
+    <rect x="25" y="51" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-4-1"/>
+    <rect x="37" y="51" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-4-2"/>
+    <rect x="49" y="51" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-4-3"/>
+    <rect x="61" y="51" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-4-4"/>
+    <rect x="73" y="51" width="12" height="12" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" data-name="cell-4-5"/>
+    <text x="20" y="24" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end" data-name="row-label-1">R1</text>
+    <text x="20" y="36" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end" data-name="row-label-2">R2</text>
+    <text x="20" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end" data-name="row-label-3">R3</text>
+    <text x="20" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end" data-name="row-label-4">R4</text>
+    <text x="31" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" data-name="col-label-1">C1</text>
+    <text x="43" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" data-name="col-label-2">C2</text>
+    <text x="55" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" data-name="col-label-3">C3</text>
+    <text x="67" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" data-name="col-label-4">C4</text>
+    <text x="79" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle" data-name="col-label-5">C5</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Heatmap skeleton</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="多联图带箭头" data-name-en="multi-panel-with-arrows" data-cat="tables-frames" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-55">多联图带箭头 / multi_panel_with_arrows</title>
+  <desc id="d-55">多面板带箭头连接。关键词: 多联图,箭头,流程</desc>
+  <g id="g-55-多联图带箭头">
+    <rect x="20" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="190" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="360" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="70" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(a)</text>
+    <text x="240" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(b)</text>
+    <text x="410" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(c)</text>
+    <line x1="125" y1="130" x2="180" y2="130" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="180,125 190,130 180,135" fill="#1f2937"/>
+    <line x1="295" y1="130" x2="350" y2="130" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="350,125 360,130 350,135" fill="#1f2937"/>
+  </g>
+</svg>

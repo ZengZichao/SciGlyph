@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-insect_gut d-insect_gut" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-insect_gut">Insect endosymbiosis (bacteriome)</title>
+  <desc id="d-insect_gut">Insect bacteriome: bacteriocyte cells packed with Buchnera endosymbionts (located in the hemocoel alongside the gut) 关键词: insect, symbiosis, Buchnera, bacteriocyte, bacteriome</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M15,25 Q30,20 50,25 Q70,30 85,25 L85,65 Q70,70 50,65 Q30,60 15,65 Z" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host" fill-opacity="0.3"/>
+    <line x1="35" y1="22" x2="35" y2="68" stroke="#8C6D3F" stroke-width="0.8" stroke-linecap="round" data-pp="host" stroke-dasharray="3,2"/>
+    <line x1="65" y1="25" x2="65" y2="68" stroke="#8C6D3F" stroke-width="0.8" stroke-linecap="round" data-pp="host" stroke-dasharray="3,2"/>
+    <circle cx="50" cy="45" r="10" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.2" data-pp="bg"/>
+    <circle cx="46" cy="42" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="50" cy="40" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="54" cy="42" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="48" cy="46" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="52" cy="46" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="50" cy="49" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <rect x="20" y="40" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <rect x="75" y="45" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Insect endosymbiosis</text>
+  </g>
+</svg>

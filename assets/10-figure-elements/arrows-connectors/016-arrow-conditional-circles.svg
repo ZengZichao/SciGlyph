@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="条件圆头箭头" data-name-en="arrow conditional circles" data-cat="arrows-connectors" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">条件圆头箭头 / arrow_conditional_circles</title>
+  <desc id="d-16">带圆尾的条件箭头。关键词: arrow,conditional,circle,tail</desc>
+  <g id="g-16-条件圆头箭头">
+    <rect x="20" y="21" width="52" height="6" fill="#1f2937"/>
+    <polygon points="70,12 86,24 70,36" fill="#1f2937"/>
+    <circle cx="14" cy="24" r="4" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

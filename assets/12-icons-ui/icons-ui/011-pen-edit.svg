@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="笔编辑" data-name-en="pen_edit" data-cat="basic-icons-ui" aria-labelledby="t-11 d-11" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11">笔编辑 / pen_edit</title>
+  <desc id="d-11">编辑修改图标。关键词: 编辑,笔,edit,pen</desc>
+  <g id="g-11-笔编辑">
+    <path d="M8 40 L8 34 L30 10 L36 16 L14 40 Z" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="26" y1="14" x2="32" y2="20" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="40" x2="40" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

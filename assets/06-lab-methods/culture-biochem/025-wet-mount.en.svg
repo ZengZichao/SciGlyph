@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-wet_mount d-wet_mount" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-wet_mount">Wet Mount</title>
+  <desc id="d-wet_mount">湿片压滴活体观察: 盖玻片下液滴中观察微生物运动。关键词: wet mount, live observation, motility, coverslip</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="55" width="60" height="8" rx="1" fill="#00857A" fill-opacity="0.2" stroke="#93A0AC" stroke-width="1" data-pp="metabolism"/>
+    <rect x="25" y="38" width="50" height="5" rx="1" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.6" data-pp="white"/>
+    <circle cx="38" cy="48" r="3" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="55" cy="46" r="2.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="48" cy="50" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <path d="M38,48 Q33,45 28,47" fill="none" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="1,1" data-pp="muted"/>
+    <path d="M55,46 Q60,43 65,44" fill="none" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="1,1" data-pp="muted"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Wet mount</text>
+  </g>
+</svg>

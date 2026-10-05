@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-operon d-operon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-operon">操纵子 / Operon Structure</title>
+  <desc id="d-operon">原核操纵子结构：启动子、操纵基因、多基因共转录。关键词: operon, promoter, operator, polycistronic</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Operon Structure (e.g. lac operon)</text>
+    <line x1="30" y1="180" x2="570" y2="180" stroke="#1B2733" data-pp="ink" stroke-width="2" />
+    <rect x="60" y="160" width="50" height="40" rx="3" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1.5" />
+    <text x="85" y="185" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">P</text>
+    <text x="85" y="152" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Promoter</text>
+    <rect x="120" y="160" width="40" height="40" rx="3" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1.5" />
+    <text x="140" y="185" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">O</text>
+    <text x="140" y="152" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Operator</text>
+    <path d="M180,162 L245.6,162 L260,180.0 L245.6,198 L180,198 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="220.0" y="183.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">geneA</text>
+    <path d="M270,162 L325.6,162 L340,180.0 L325.6,198 L270,198 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="305.0" y="183.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">geneB</text>
+    <path d="M350,162 L425.6,162 L440,180.0 L425.6,198 L350,198 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="395.0" y="183.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">geneC</text>
+    <line x1="450" y1="155" x2="450" y2="205" stroke="#C42D2D" data-pp="alert" stroke-width="2.5" />
+    <text x="450" y="148" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Terminator</text>
+    <line x1="100" y1="280" x2="460" y2="280" stroke="#6C3FA0" data-pp="gene" stroke-width="2" stroke-linecap="round" />
+    <text x="80" y="284" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">mRNA</text>
+    <circle cx="180" cy="280" r="8" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1" />
+    <circle cx="260" cy="280" r="8" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1" />
+    <circle cx="340" cy="280" r="8" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1" />
+    <text x="300" y="310" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Polycistronic mRNA → multiple proteins</text>
+  </g>
+  <g data-name="annotation">
+    <circle cx="140" cy="180" r="12" fill="#C42D2D" fill-opacity="0.15" stroke="#C42D2D" stroke-width="1" data-pp="alert"/>
+    <line x1="30" y1="340" x2="570" y2="340" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+  </g>
+</svg>

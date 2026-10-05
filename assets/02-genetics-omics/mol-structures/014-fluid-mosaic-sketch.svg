@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="流动镶嵌模型" data-name-en="Fluid Mosaic Sketch" data-cat="natural-sciences" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25">流动镶嵌模型 / fluid_mosaic_sketch</title>
+  <desc id="d-25">展示细胞膜流动镶嵌模型。关键词: fluid mosaic,membrane,protein</desc>
+  <g id="g-25-流动镶嵌模型">
+    <rect x="20" y="100" width="280" height="40" fill="#e5e7eb" stroke="none"/>
+    <circle cx="50" cy="90" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="46" y1="98" x2="44" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="54" y1="98" x2="56" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="100" cy="90" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="96" y1="98" x2="94" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="104" y1="98" x2="106" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="220" cy="90" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="216" y1="98" x2="214" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="224" y1="98" x2="226" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="270" cy="90" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="266" y1="98" x2="264" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="274" y1="98" x2="276" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="50" cy="150" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="46" y1="142" x2="44" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="54" y1="142" x2="56" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="100" cy="150" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="96" y1="142" x2="94" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="104" y1="142" x2="106" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="220" cy="150" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="216" y1="142" x2="214" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="224" y1="142" x2="226" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="270" cy="150" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="266" y1="142" x2="264" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="274" y1="142" x2="276" y2="120" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="140" y="80" width="20" height="80" rx="4" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <rect x="170" y="90" width="15" height="60" rx="3" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+  </g>
+</svg>

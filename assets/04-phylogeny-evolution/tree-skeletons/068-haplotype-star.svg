@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-36 d-36" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36">星状单倍型网络 / Star Haplotype Network</title>
+  <desc id="d-36">骨架，配合popART/Network使用。星状系统地理单倍型网络，中心为常见单倍型。 关键词: phylogenetic tree, haplotype star, Network, popART, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="network-edges">
+    <line x1="300" y1="200" x2="180" y2="100" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="420" y2="100" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="150" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="450" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="200" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="400" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300" y1="200" x2="300" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="haplotypes">
+    <circle cx="300" cy="200" r="25" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <circle cx="180" cy="100" r="8" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="420" cy="100" r="12" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="150" cy="250" r="16" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="450" cy="250" r="8" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="200" cy="340" r="12" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="400" cy="340" r="16" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="300" cy="80" r="8" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+  </g>
+  <g data-name="labels">
+    <text x="300" y="204" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H1</text>
+    <text x="180" y="104" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H2</text>
+    <text x="420" y="104" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H3</text>
+    <text x="150" y="254" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H4</text>
+    <text x="450" y="254" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H5</text>
+    <text x="200" y="344" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H6</text>
+    <text x="400" y="344" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H7</text>
+    <text x="300" y="84" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">H8</text>
+  </g>
+</svg>

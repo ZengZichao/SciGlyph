@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-wear-labcoat" data-cat="hz" data-spec="128"
+     data-tags="mandatory,sign,ppe,lab coat,laboratory coat,gb2894,指令标志,实验服" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须穿实验服 / Must Wear Laboratory Coat</title>
+  <desc id="d">GB 2894 指令标志：蓝底圆形，白色实验服图形，表示进入该区域必须穿着实验服。</desc>
+  <g id="body">
+    <circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+  </g>
+  <g id="detail">
+    <path d="M52 34 L44 38 L36 52 L42 56 L46 50 L46 92 C46 94 47 95 49 95 L79 95 C81 95 82 94 82 92 L82 50 L86 56 L92 52 L84 38 L76 34 C73 40 69 43 64 43 C59 43 55 40 52 34 Z" fill="#FFFFFF" stroke="none" data-ls="fill"/>
+    <path d="M52 34 C55 40 59 43 64 43 C69 43 73 40 76 34" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <path d="M64 43 L64 95" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <path d="M58 46 L64 43 L70 46" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <rect x="50" y="66" width="9" height="8" rx="1" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <rect x="69" y="66" width="9" height="8" rx="1" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <circle cx="60" cy="58" r="1.8" fill="#FFFFFF" stroke="none" data-ls="fill"/>
+    <circle cx="60" cy="78" r="1.8" fill="#FFFFFF" stroke="none" data-ls="fill"/>
+    <path d="M46 60 L36 60" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+    <path d="M82 60 L92 60" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="fill"/>
+  </g>
+</svg>

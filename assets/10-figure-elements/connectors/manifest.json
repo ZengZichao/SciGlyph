@@ -1,0 +1,391 @@
+{
+ "category": "10-figure-elements",
+ "subdir": "connectors",
+ "name_zh": "流程连接符",
+ "name_en": "Flow Connectors",
+ "count": 18,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "items": [
+  {
+   "file": "001-arrow-bidirectional-line.svg",
+   "name_zh": "双向箭头",
+   "name_en": "Arrow Bidirectional Line",
+   "tags": [
+    "双向箭头",
+    "arrow bidirectional line",
+    "arrow",
+    "bidirectional",
+    "line"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "两端箭头+中线+刻度",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "002-arrow-curved-flow.svg",
+   "name_zh": "弧线箭头",
+   "name_en": "Arrow Curved Flow",
+   "tags": [
+    "弧线箭头",
+    "arrow curved flow",
+    "arrow",
+    "curved",
+    "flow"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "弯曲路径+箭头+控制点",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "003-arrow-cycle-loop.svg",
+   "name_zh": "物料循环环",
+   "name_en": "Arrow Cycle Loop",
+   "tags": [
+    "物料循环环",
+    "arrow cycle loop",
+    "arrow",
+    "cycle",
+    "loop"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "双弧环+两箭头+中心点",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "004-arrow-elbow-flow.svg",
+   "name_zh": "折线箭头",
+   "name_en": "Arrow Elbow Flow",
+   "tags": [
+    "折线箭头",
+    "arrow elbow flow",
+    "arrow",
+    "elbow",
+    "flow"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "L形转角+箭头+圆角节点",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "005-arrow-merge-collect.svg",
+   "name_zh": "汇合箭头",
+   "name_en": "Arrow Merge Collect",
+   "tags": [
+    "汇合箭头",
+    "arrow merge collect",
+    "arrow",
+    "merge",
+    "collect"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "二入一出+节点+单箭头",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "006-arrow-return-feedback.svg",
+   "name_zh": "回流反馈箭头",
+   "name_en": "Arrow Return Feedback",
+   "tags": [
+    "回流反馈箭头",
+    "arrow return feedback",
+    "arrow",
+    "return",
+    "feedback"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "回线弧+双向箭头+虚线段",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "007-arrow-split-branch.svg",
+   "name_zh": "分流箭头",
+   "name_en": "Arrow Split Branch",
+   "tags": [
+    "分流箭头",
+    "arrow split branch",
+    "arrow",
+    "split",
+    "branch"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "一入两出+双箭头+节点圆",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "008-arrow-straight-flow.svg",
+   "name_zh": "直线流程箭头",
+   "name_en": "Arrow Straight Flow",
+   "tags": [
+    "直线流程箭头",
+    "arrow straight flow",
+    "arrow",
+    "straight",
+    "flow"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "长杆+实心箭头+尾竖线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "009-badge-step-number.svg",
+   "name_zh": "工序编号位",
+   "name_en": "Badge Step Number",
+   "tags": [
+    "工序编号位",
+    "badge step number",
+    "badge",
+    "step",
+    "number"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "圆环+中心点+四向刻度",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "010-bracket-step-group.svg",
+   "name_zh": "步骤分组括号",
+   "name_en": "Bracket Step Group",
+   "tags": [
+    "步骤分组括号",
+    "bracket step group",
+    "bracket",
+    "step",
+    "group"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "大方括号+连线+序号点",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "011-connector-cross-over.svg",
+   "name_zh": "跨线连接",
+   "name_en": "Connector Cross Over",
+   "tags": [
+    "跨线连接",
+    "connector cross over",
+    "connector",
+    "cross",
+    "over"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "横线+竖线跳线半圆+接点",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "012-connector-dashed-zone.svg",
+   "name_zh": "虚线分区框",
+   "name_en": "Connector Dashed Zone",
+   "tags": [
+    "虚线分区框",
+    "connector dashed zone",
+    "connector",
+    "dashed",
+    "zone"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "圆角矩形+等分虚线+内边线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "013-connector-node-dot.svg",
+   "name_zh": "连接节点",
+   "name_en": "Connector Node Dot",
+   "tags": [
+    "连接节点",
+    "connector node dot",
+    "connector",
+    "node",
+    "dot"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "实心圆点+四向出线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "014-connector-swimlane-vertical.svg",
+   "name_zh": "纵向泳道分隔",
+   "name_en": "Connector Swimlane Vertical",
+   "tags": [
+    "纵向泳道分隔",
+    "connector swimlane vertical",
+    "connector",
+    "swimlane",
+    "vertical"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "两竖线+顶部标签头+分隔横",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "015-connector-tee-junction.svg",
+   "name_zh": "三通连接",
+   "name_en": "Connector Tee Junction",
+   "tags": [
+    "三通连接",
+    "connector tee junction",
+    "connector",
+    "tee",
+    "junction"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "T形管+交点+端法兰",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "016-flow-database-cylinder.svg",
+   "name_zh": "数据存储符号",
+   "name_en": "Flow Database Cylinder",
+   "tags": [
+    "数据存储符号",
+    "flow database cylinder",
+    "flow",
+    "database",
+    "cylinder"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "圆柱+顶椭圆+分层线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "017-flow-doc-input-skewed.svg",
+   "name_zh": "数据输入符号",
+   "name_en": "Flow Doc Input Skewed",
+   "tags": [
+    "数据输入符号",
+    "flow doc input skewed",
+    "flow",
+    "doc",
+    "input",
+    "skewed"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "斜底矩形+入箭+底线",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  },
+  {
+   "file": "018-legend-swatch-frame.svg",
+   "name_zh": "图例色块框",
+   "name_en": "Legend Swatch Frame",
+   "tags": [
+    "图例色块框",
+    "legend swatch frame",
+    "legend",
+    "swatch",
+    "frame"
+   ],
+   "series": "icon24",
+   "format": "icon",
+   "category": "10-figure-elements",
+   "subdir": "connectors",
+   "canvas": "0 0 24 24",
+   "desc": "外框+内框+中线示意",
+   "license": "CC-BY-4.0",
+   "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+   "attribution": "ZengZichao (https://github.com/ZengZichao)"
+  }
+ ]
+}

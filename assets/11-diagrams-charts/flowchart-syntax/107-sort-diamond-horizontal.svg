@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-sort-diamond-horizontal" data-cat="pf" data-spec="160"
+     data-tags="sort,diamond,horizontal,order,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">排序横向菱形 / Sort Diamond Horizontal</title>
+  <desc id="d">流程图排序符号，横向菱形。</desc>
+  <g id="body">
+    <polygon points="80,10 150,48 80,86 10,48" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="10" x2="80" y2="86" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

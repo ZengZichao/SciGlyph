@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-radar-pentagon" data-cat="ch" data-spec="128"
+     data-tags="chart,radar,pentagon,5-axis,spider,multi-dimensional" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">雷达图五轴 / Chart Radar Pentagon</title>
+  <desc id="d">雷达图5轴加多边形。</desc>
+  <g id="body">
+    <polygon points="64,20 104,48 88,96 40,96 24,48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="64,36 88,52 80,80 48,80 40,52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="64,52 76,60 72,72 56,72 52,60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="64" x2="64" y2="20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="64" x2="104" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="64" x2="88" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="64" x2="40" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="64" y1="64" x2="24" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="64,28 96,50 82,88 46,88 32,50" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <polygon points="64,28 96,50 82,88 46,88 32,50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

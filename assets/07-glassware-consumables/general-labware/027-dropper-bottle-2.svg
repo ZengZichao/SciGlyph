@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="滴瓶" data-name-en="dropper_bottle" data-cat="lab-equipment" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27">滴瓶 / dropper_bottle</title>
+  <desc id="d-27">储存和逐滴取用试剂。关键词: 滴瓶,dropper,储存,滴加</desc>
+  <g id="g-27-滴瓶">
+    <path d="M 40 35 L 40 100 Q 40 110 50 110 L 70 110 Q 80 110 80 100 L 80 35 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="45" y="28" width="30" height="10" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 55 28 L 55 15 Q 55 8 60 8 Q 65 8 65 15 L 65 28" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="60" y1="38" x2="60" y2="90" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M 41 65 L 79 65 L 79 100 Q 79 109 70 109 L 50 109 Q 41 109 41 100 Z" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="41" y1="65" x2="79" y2="65" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

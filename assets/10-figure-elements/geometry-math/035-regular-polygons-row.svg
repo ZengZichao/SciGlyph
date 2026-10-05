@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="正多边形一排" data-name-en="Regular Polygons Row" data-cat="geometry-math" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-35">正多边形一排 / regular_polygons_row</title>
+  <desc id="d-35">正三角到正八边形排列。关键词: polygon,regular,row</desc>
+  <g id="g-35-正多边形一排">
+    <polygon points="40,60 25,100 55,100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="40" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">3</text>
+
+    <rect x="75" y="65" width="40" height="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="95" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">4</text>
+
+    <polygon points="150,58 172,70 172,95 150,108 128,95 128,70" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="150" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">6</text>
+
+    <polygon points="209,55 228,63 233,83 224,102 205,105 189,97 184,77" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="209" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">7</text>
+
+    <polygon points="270,55 288,62 295,80 288,98 270,105 252,98 245,80 252,62" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="272" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">8</text>
+  </g>
+</svg>

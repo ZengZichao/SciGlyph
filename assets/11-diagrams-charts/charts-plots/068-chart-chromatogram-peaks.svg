@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-chromatogram-peaks" data-cat="ch" data-spec="128"
+     data-tags="chart,chromatogram,peaks,separation,resolution,hplc" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">色谱峰序列 / Chart Chromatogram Peaks</title>
+  <desc id="d">色谱峰序列加分离度标尺。</desc>
+  <g id="body">
+    <line x1="12" y1="100" x2="116" y2="100" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="12" y1="20" x2="12" y2="100" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M20,98 Q28,98 32,60 Q36,98 44,98" fill="#2B7DE9" stroke="none" stroke-width="2" data-ls="accent"/>
+    <path d="M50,98 Q58,98 62,45 Q66,98 74,98" fill="#F5A623" stroke="none" stroke-width="2" data-ls="warn"/>
+    <path d="M80,98 Q88,98 92,55 Q96,98 104,98" fill="#7FC26B" stroke="none" stroke-width="2" data-ls="liquid-2"/>
+    <line x1="36" y1="80" x2="58" y2="80" fill="none" stroke="#E02020" stroke-dasharray="3,2" data-ls="danger" stroke-linecap="round"/>
+    <text x="47" y="76" fill="#E02020" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" data-ls="danger">Rs</text>
+  </g>
+</svg>

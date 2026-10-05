@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-absl-2-label" data-cat="hz" data-spec="128"
+     data-tags="animal,facility,absl,动物设施" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">动物设施ABSL-2标志 / Animal Facility ABSL-2</title>
+  <desc id="d">动物实验设施ABSL-2级标识。</desc>
+  <g id="body"><rect x="10" y="20" width="108" height="88" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <text x="64" y="56" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" data-ls="stroke">ANIMAL</text>
+    <text x="64" y="78" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" font-weight="600" text-anchor="middle" data-ls="stroke">FACILITY</text>
+    <text x="64" y="100" fill="#E02020" font-family="Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="middle" data-ls="danger">ABSL-2</text></g>
+  <g id="detail"></g>
+</svg>

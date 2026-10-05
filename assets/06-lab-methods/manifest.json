@@ -1,0 +1,35 @@
+{
+ "category": "06-lab-methods",
+ "name_zh": "实验方法与流程",
+ "name_en": "Lab Methods & Workflows",
+ "count": 140,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "culture-biochem",
+   "name_zh": "培养与生化鉴定",
+   "name_en": "Culture & Biochemical Tests",
+   "count": 60
+  },
+  {
+   "id": "analysis-pipelines",
+   "name_zh": "分析流程",
+   "name_en": "Analysis Pipelines",
+   "count": 34
+  },
+  {
+   "id": "omics-workflow",
+   "name_zh": "组学工作流",
+   "name_en": "Omics Workflows",
+   "count": 10
+  },
+  {
+   "id": "microscopy-detection",
+   "name_zh": "镜检与检测技术",
+   "name_en": "Microscopy & Detection",
+   "count": 36
+  }
+ ]
+}

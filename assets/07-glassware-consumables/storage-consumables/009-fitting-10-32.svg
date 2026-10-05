@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-fitting-10-32" data-cat="cs" data-spec="128"
+     data-tags="fitting,10-32,thread,connector,tubing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">10-32接头 / 10-32 Fitting</title>
+  <desc id="d">10-32螺纹管路接头。</desc>
+  <g id="body"><path d="M44 34 L44 94 Q44 100 50 100 L78 100 Q84 100 84 94 L84 34 Q84 28 78 28 L50 28 Q44 28 44 34 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 24 L48 30 L80 30 L80 24 Q74 20 64 20 Q54 20 48 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M50 26 L78 26" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M52 10 L52 22 L76 22 L76 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M54 14 L74 14 M54 18 L74 18" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

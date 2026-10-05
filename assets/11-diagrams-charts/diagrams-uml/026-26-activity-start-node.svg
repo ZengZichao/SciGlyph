@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="实心起点" data-name-en="Activity Start Node" data-cat="diagrams-sw-uml" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26">实心起点 / activity_start_node</title>
+  <desc id="d-26">活动图实心圆起始节点。关键词: start,node,initial,activity</desc>
+  <g id="g-26-实心起点">
+    <circle cx="48" cy="24" r="12" fill="#1f2937"/>
+  </g>
+</svg>

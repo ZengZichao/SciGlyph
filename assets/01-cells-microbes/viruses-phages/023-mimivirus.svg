@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-mimivirus d-mimivirus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mimivirus">拟菌病毒(巨病毒) / Mimivirus giant virus stargate</title>
+  <desc id="d-mimivirus">Mimivirus(Mimiviridae科)。已知最大病毒之一(衣壳~500nm，含纤维冠~600nm)，二十面体+stargate门户结构+纤维冠。含内部脂质膜和核心。dsDNA基因组~1.2Mb。感染阿米巴。关键词: Mimivirus, giant virus, stargate, NCLDV, fiber</desc>
+  <g id="layer-body-mimivirus" data-name="body">
+    <!-- Large icosahedral body -->
+    <polygon points="50,8 75,20 80,48 65,72 35,72 20,48 25,20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Stargate portal at one vertex -->
+    <polygon points="50,8 56,14 53,20 47,20 44,14" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Fiber crown -->
+    <line x1="26.5" y1="12.0" x2="17.1" y2="8.0" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="30.8" y1="10.0" x2="23.2" y2="5.5" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="37.5" y1="8.4" x2="32.5" y2="3.4" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="45.7" y1="7.5" x2="43.9" y2="2.4" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="54.3" y1="7.5" x2="56.1" y2="2.4" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="62.5" y1="8.4" x2="67.5" y2="3.4" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="69.2" y1="10.0" x2="76.8" y2="5.5" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <line x1="73.5" y1="12.0" x2="82.9" y2="8.0" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round"/>
+    <!-- Internal membrane -->
+    <polygon points="50,22 66,30 68,48 58,62 42,62 32,48 34,30" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="1"/>
+    <!-- Core -->
+    <circle cx="50" cy="45" r="10" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" fill-opacity="0.4"/>
+  </g>
+  <g id="layer-annotation-mimivirus" data-name="annotation">
+    <text x="60" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">stargate</text>
+    <text x="50" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Mimivirus ~500nm</text>
+  </g>
+</svg>

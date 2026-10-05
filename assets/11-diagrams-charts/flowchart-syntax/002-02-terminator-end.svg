@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="圆角结束" data-name-en="terminator-end" data-cat="flowchart-logic" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02">圆角结束 / terminator_end</title>
+  <desc id="d-02">流程图结束端子。关键词: flowchart,terminator,end</desc>
+  <g id="g-02-圆角结束">
+    <rect x="10" y="20" width="100" height="40" rx="20" ry="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="45" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">END</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>禁止明火</title>
+  <circle cx="12" cy="12" r="9.5"/>
+  <line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/>
+  <path d="M11 6.5Q13 9 12 11Q14 10.5 13.5 13Q13 15.5 11 16Q9 15.5 9 13Q8.5 10.5 10 11Q9 9 11 6.5Z" stroke-width="1"/>
+  <line x1="9.5" y1="17.5" x2="14.5" y2="9" stroke-width="1"/>
+  <path d="M13.5 7.25l2.25.9-0.7 1.85-2.25-.9Z" fill="currentColor" stroke="none"/>
+</svg>

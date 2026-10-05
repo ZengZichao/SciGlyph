@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-spore_envelope d-spore_envelope" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-spore_envelope">芽孢被膜 / Spore envelope</title>
+  <desc id="d-spore_envelope">芽孢被膜(由外到内)：外壁exosporium+孢子衣coat+皮层cortex(特化肽聚糖)+核心core(含Ca-DPA)。关键词: endospore, coat, exosporium, cortex, DPA-Ca</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <ellipse cx="50" cy="50" rx="40" ry="35" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-dasharray="4,2" data-pp="muted" /><ellipse cx="50" cy="50" rx="35" ry="30" fill="#8C6D3F" fill-opacity="0.3" stroke="#8C6D3F" stroke-width="2" data-pp="host" /><ellipse cx="50" cy="50" rx="28" ry="23" fill="#E8871E" fill-opacity="0.4" stroke="#E8871E" stroke-width="1.5" data-pp="mge" /><ellipse cx="50" cy="50" rx="18" ry="14" fill="#2E86AB" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="bacteria" />
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="88" y1="22" x2="92" y2="12" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><line x1="68.0" y1="7.9" x2="56.1" y2="7.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="10.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">exosporium</text><line x1="82" y1="35" x2="92" y2="30" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><text x="78" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#8C6D3F" data-pp="host">coat</text><line x1="75" y1="50" x2="90" y2="55" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><text x="73.46" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">cortex</text><line x1="65" y1="50" x2="75" y2="75" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" /><text x="68" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">DPA-Ca</text>
+  </g>
+</svg>

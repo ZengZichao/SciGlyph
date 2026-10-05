@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" data-name-zh="迷你折线" data-name-en="Sparkline Inline" data-cat="charts-plots" aria-labelledby="t-61 d-61" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-61">迷你折线 / sparkline_inline</title>
+  <desc id="d-61">内嵌迷你折线图。关键词: sparkline,inline,trend</desc>
+  <g id="g-61-迷你折线">
+    <polyline points="20,192 53,168 85,184 118,152 151,160 184,136 216,152 249,128 282,144 315,120 347,136 380,112" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <circle cx="380" cy="112" r="3" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="20" y1="160" x2="380" y2="160" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

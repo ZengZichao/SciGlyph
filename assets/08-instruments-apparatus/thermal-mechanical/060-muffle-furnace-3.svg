@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-muffle-furnace" data-cat="hc" data-spec="128"
+     data-tags="muffle,furnace,high-temperature,kiln,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">马弗炉 / Muffle Furnace</title>
+  <desc id="d">马弗炉：腔体+加热丝+控温表</desc>
+  <g id="body"><rect x="20" y="24" width="88" height="88" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="32" width="72" height="72" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="36" y="40" width="56" height="56" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M40 44 L42 44 L42 92 L40 92 Z" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger"/>
+    <path d="M86 44 L88 44 L88 92 L86 92 Z" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger"/>
+    <path d="M44 44 L44 46 L84 46 L84 44 Z" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger"/>
+    <path d="M44 90 L44 92 L84 92 L84 90 Z" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger"/>
+    <path d="M44 56 L84 56 L84 58 L44 58 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M44 66 L84 66 L84 68 L44 68 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M44 76 L84 76 L84 78 L44 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <rect x="48" y="24" width="32" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="50" y="26" width="28" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="32" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">1200°C</text></g>
+</svg>

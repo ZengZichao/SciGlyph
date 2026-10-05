@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>卡尔费休水分测定仪</title>
+  <rect x="2" y="12" width="9" height="8" rx="1"/>
+  <rect x="3.5" y="13.5" width="6" height="2.5" rx="0.5" stroke-width="1"/>
+  <line x1="4.5" y1="14.75" x2="8.5" y2="14.75" stroke-width="0.75"/>
+  <path d="M6 20v-2.5" stroke-width="0.75"/>
+  <line x1="4.5" y1="17.5" x2="7.5" y2="17.5" stroke-width="0.75"/>
+  <path d="M13 19h2" stroke-width="1"/>
+  <path d="M15 8.5V6" stroke-width="1"/>
+  <path d="M13.5 6h3" stroke-width="1"/>
+  <rect x="15" y="8.5" width="6" height="10.5" rx="0.5"/>
+  <line x1="16.5" y1="10" x2="16.5" y2="17" stroke-width="0.75"/>
+  <line x1="19.5" y1="10" x2="19.5" y2="17" stroke-width="0.75"/>
+  <path d="M15.5 12h4" stroke-width="0.75" stroke-dasharray="2 2"/>
+  <circle cx="18" cy="15" r="0.75" stroke-width="0.75"/>
+  <path d="M15 17h4" stroke-width="0.75"/>
+  <line x1="3.5" y1="20" x2="3.5" y2="22" stroke-width="1"/>
+  <line x1="9.5" y1="20" x2="9.5" y2="22" stroke-width="1"/>
+  <line x1="18" y1="19" x2="18" y2="22" stroke-width="1"/>
+</svg>

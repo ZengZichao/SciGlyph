@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆周角" data-name-en="Circle Inscribed Angle" data-cat="geometry-math" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27">圆周角 / circle_inscribed_angle</title>
+  <desc id="d-27">圆上圆周角示意。关键词: inscribed,angle,circle</desc>
+  <g id="g-27-圆周角">
+    <circle cx="60" cy="58" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="58" r="2" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="25" y1="85" x2="95" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <line fill="none" x1="25" y1="85" x2="80" y2="90" stroke="#1f2937" stroke-width="0.75"/>
+    <line fill="none" x1="95" y1="30" x2="80" y2="90" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M35,78 A12,12 0 0,0 33,72" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <text x="40" y="72" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#0072B2" text-anchor="middle" data-drole="series-1">θ</text>
+    <text x="60" y="54" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">O</text>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-clonal_complex_clustering d-clonal_complex_clustering" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-clonal_complex_clustering">克隆复合体分群 / Clonal complex CC clustering</title>
+  <desc id="d-clonal_complex_clustering">克隆复合体的聚类展示。schematic, not to scale. 关键词: CC, clonal complex, eBURST</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="cc-groups">
+  <circle cx="200" cy="200" r="60" fill="#2E86AB" fill-opacity="0.1" stroke="#2E86AB" stroke-width="1.5" stroke-dasharray="4,3" data-pp="bacteria"/>
+  <text x="200" y="160" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" text-anchor="middle" data-pp="bacteria">CC1</text>
+  <circle cx="207.5" cy="189.0" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="182.8" cy="215.2" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="202.1" cy="226.0" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="144.1" cy="171.6" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="184.5" cy="253.0" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="191.3" cy="186.6" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="172.1" cy="187.8" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="199.8" cy="193.7" r="4" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="400" cy="180" r="60" fill="#A2305B" fill-opacity="0.1" stroke="#A2305B" stroke-width="1.5" stroke-dasharray="4,3" data-pp="archaea"/>
+  <text x="400" y="140" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" text-anchor="middle" data-pp="archaea">CC2</text>
+  <circle cx="381.6" cy="165.5" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="413.5" cy="170.7" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="408.3" cy="153.9" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="382.9" cy="202.8" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="378.2" cy="159.3" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="394.7" cy="151.1" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="414.8" cy="156.1" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="423.7" cy="163.6" r="4" fill="#A2305B" data-pp="archaea"/>
+  <circle cx="300" cy="300" r="60" fill="#00857A" fill-opacity="0.1" stroke="#00857A" stroke-width="1.5" stroke-dasharray="4,3" data-pp="metabolism"/>
+  <text x="300" y="260" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">CC3</text>
+  <circle cx="292.2" cy="320.1" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="271.5" cy="284.4" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="314.1" cy="309.0" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="299.8" cy="287.6" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="316.8" cy="318.4" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="324.2" cy="295.6" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="332.2" cy="280.5" r="4" fill="#00857A" data-pp="metabolism"/>
+  <circle cx="298.4" cy="337.3" r="4" fill="#00857A" data-pp="metabolism"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Clonal Complex (CC) Clustering (schematic)</text>
+</svg>

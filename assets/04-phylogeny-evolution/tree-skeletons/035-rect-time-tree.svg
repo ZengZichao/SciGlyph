@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-03 d-03" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">时间校准树 / Time-calibrated Tree</title>
+  <desc id="d-03">骨架，配合 MCMCTree/BEAST 输出使用。枝长正比于百万年(Ma)。 关键词: phylogenetic tree, rect time tree, Time-calibrated, MCMCTree, BEAST, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp03__clades" data-name="clade-shading">
+    <rect x="106.6" y="24.0" width="57.4" height="92.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="86.9" y="184.0" width="77.1" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+  </g>
+  <g id="pp03__branches" data-name="branches">
+    <line x1="81.0" y1="70.0" x2="81.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="30.0" x2="110.6" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.9" y1="190.0" x2="90.9" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="270.0" x2="110.6" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="81.0" y1="70.0" x2="110.6" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="30.0" x2="160.0" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="110.0" x2="160.0" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="81.0" y1="250.0" x2="90.9" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.9" y1="190.0" x2="160.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.9" y1="310.0" x2="110.6" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="270.0" x2="160.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="110.6" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp03__nodes" data-name="nodes">
+    <circle cx="81.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="110.6" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="90.9" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="110.6" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp03__labels" data-name="tip-labels">
+    <text x="165.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
+    <text x="165.0" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
+    <text x="165.0" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
+    <text x="165.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
+  </g>
+  <g data-name="present-line">
+    <line x1="160.0" y1="20.0" x2="160.0" y2="360.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <text x="160.0" y="14.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Present</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50 Ma</text>
+  </g>
+</svg>

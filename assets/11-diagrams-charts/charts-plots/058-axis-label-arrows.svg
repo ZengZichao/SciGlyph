@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="箭头坐标轴" data-name-en="Axis Label Arrows" data-cat="charts-plots" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-58">箭头坐标轴 / axis_label_arrows</title>
+  <desc id="d-58">带箭头和标签的坐标轴。关键词: axis,arrows,labels</desc>
+  <g id="g-58-箭头坐标轴">
+    <line x1="30" y1="115" x2="30" y2="15" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="26,21 30,13 34,21" fill="#1f2937"/>
+    <line x1="30" y1="115" x2="215" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="209,111 217,115 209,119" fill="#1f2937"/>
+    <text x="220" y="119" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="start">x</text>
+    <text x="30" y="12" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">y</text>
+  </g>
+</svg>

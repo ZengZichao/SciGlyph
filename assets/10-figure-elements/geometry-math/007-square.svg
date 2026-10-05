@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="正方形" data-name-en="Square" data-cat="geometry-math" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-07">正方形 / square</title>
+  <desc id="d-07">四边等长四角直角。关键词: square,rectangle,geometry</desc>
+  <g id="g-07-正方形">
+    <rect x="20" y="20" width="80" height="80" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="15" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="105" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="105" y="16" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="15" y="16" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">D</text>
+  </g>
+</svg>

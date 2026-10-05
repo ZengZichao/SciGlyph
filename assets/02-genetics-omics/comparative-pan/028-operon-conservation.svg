@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-operon_conservation d-operon_conservation" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-operon_conservation">操纵子保守性 / Operon conservation across species</title>
+  <desc id="d-operon_conservation">操纵子基因顺序在物种间的保守性：SpA–SpC 共线性保守(✓)，SpD 的 gC/gE 与 SpE 的 gD/gE 发生重排(✗)。schematic, not to scale. 关键词: operon, conservation, gene order, rearrangement</desc>
+
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="operon-tracks">
+  <text x="55" y="98" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">SpA</text>
+  <rect x="70" y="80" width="70" height="25" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="105" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gA</text>
+  <rect x="160" y="80" width="70" height="25" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <text x="195" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gB</text>
+  <rect x="250" y="80" width="70" height="25" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="285" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gC</text>
+  <rect x="340" y="80" width="70" height="25" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="375" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gD</text>
+  <rect x="430" y="80" width="70" height="25" fill="#8C6D3F" data-pp="host" rx="2"/>
+  <text x="465" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gE</text>
+  <text x="55" y="148" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">SpB</text>
+  <rect x="70" y="130" width="70" height="25" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="105" y="146" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gA</text>
+  <rect x="160" y="130" width="70" height="25" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <text x="195" y="146" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gB</text>
+  <rect x="250" y="130" width="70" height="25" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="285" y="146" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gC</text>
+  <rect x="340" y="130" width="70" height="25" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="375" y="146" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gD</text>
+  <rect x="430" y="130" width="70" height="25" fill="#8C6D3F" data-pp="host" rx="2"/>
+  <text x="465" y="146" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gE</text>
+  <text x="55" y="198" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">SpC</text>
+  <rect x="70" y="180" width="70" height="25" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="105" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gA</text>
+  <rect x="160" y="180" width="70" height="25" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <text x="195" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gB</text>
+  <rect x="250" y="180" width="70" height="25" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="285" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gC</text>
+  <rect x="340" y="180" width="70" height="25" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="375" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gD</text>
+  <rect x="430" y="180" width="70" height="25" fill="#8C6D3F" data-pp="host" rx="2"/>
+  <text x="465" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gE</text>
+  <text x="55" y="248" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">SpD</text>
+  <rect x="70" y="230" width="70" height="25" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="105" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gA</text>
+  <rect x="160" y="230" width="70" height="25" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <text x="195" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gB</text>
+  <rect x="250" y="230" width="70" height="25" fill="#8C6D3F" data-pp="host" rx="2"/>
+  <text x="285" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gE</text>
+  <rect x="340" y="230" width="70" height="25" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="375" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gC</text>
+  <rect x="430" y="230" width="70" height="25" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="465" y="246" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gD</text>
+  <text x="55" y="298" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">SpE</text>
+  <rect x="70" y="280" width="70" height="25" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="105" y="296" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gA</text>
+  <rect x="160" y="280" width="70" height="25" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <text x="195" y="296" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gB</text>
+  <rect x="250" y="280" width="70" height="25" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="285" y="296" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gC</text>
+  <rect x="340" y="280" width="70" height="25" fill="#8C6D3F" data-pp="host" rx="2"/>
+  <text x="375" y="296" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gE</text>
+  <rect x="430" y="280" width="70" height="25" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="465" y="296" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="middle" data-pp="white">gD</text>
+</g>
+<g data-name="conservation">
+  <text x="105" y="350" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">✓</text>
+  <text x="195" y="350" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" text-anchor="middle" data-pp="metabolism">✓</text>
+  <text x="285" y="350" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">✗</text>
+  <text x="375" y="350" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">✗</text>
+  <text x="465" y="350" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">✗</text>
+  <text x="300" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Gene order conservation</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Operon Conservation Across Species (schematic)</text>
+</svg>

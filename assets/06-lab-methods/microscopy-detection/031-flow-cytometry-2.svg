@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-flow_cytometry d-flow_cytometry" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flow_cytometry">流式细胞术散点图 / Flow cytometry scatter plot quadrants</title>
+  <desc id="d-flow_cytometry">流式细胞术散点图：FSC(前向散射≈细胞大小) vs SSC(侧向散射≈内部颗粒度/结构复杂度)。注意: 活/死判别需荧光通道(如 SYTO9/PI 膜通透性染色)，仅凭 FSC/SSC 不可靠；SSC 与 GC 含量无关。关键词: flow cytometry, FSC, SSC, granularity, debris, fluorescence channel</desc>
+  <g id="layer-body-flow_cytometry" data-name="body">
+    <!-- Axes -->
+    <line x1="15" y1="75" x2="85" y2="75" stroke="#1B2733" stroke-width="1"/>
+    <line x1="15" y1="15" x2="15" y2="75" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">FSC (size)</text>
+    <text x="8" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">SSC</text>
+    <!-- Q1: live high GC -->
+    <circle cx="35" cy="30" r="8" fill="#00857A" data-pp="metabolism" fill-opacity="0.3" stroke="#00857A" stroke-width="1"/>
+    <!-- Q2: dead -->
+    <circle cx="65" cy="30" r="6" fill="#C42D2D" data-pp="alert" fill-opacity="0.3" stroke="#C42D2D" stroke-width="1"/>
+    <!-- Q3: debris -->
+    <circle cx="25" cy="60" r="5" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" stroke-width="1"/>
+    <!-- Q4: live low GC -->
+    <circle cx="60" cy="55" r="7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-flow_cytometry" data-name="annotation">
+    <text x="35" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">granular</text>
+    <text x="65" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">large</text>
+    <text x="25" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">debris</text>
+    <text x="60" y="67" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">small</text>
+    <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">flow cytometry</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_100nm_omv d-size_100nm_omv" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_100nm_omv">100nm外膜囊泡 / 100nm outer membrane vesicle</title>
+  <desc id="d-size_100nm_omv">尺度图标：100nm外膜囊泡，大小约100 nm。革兰阴性菌外膜囊泡(OMV)直径约100nm。 Scale bar=100 nm。假设放大倍率: ×10^4 (1cm = 1µm)。关键词: size scale, 100 nm, scale bar</desc>
+  <g id="layer-body-size_100nm_omv" data-name="body">
+    <!-- Outer membrane vesicle -->
+    <circle cx="40" cy="40" r="15" fill="#F4F1EA" data-pp="bg" stroke="#2E86AB" stroke-width="2"/>
+    <circle cx="40" cy="40" r="12" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-dasharray="2,1"/>
+    <!-- Some cargo inside -->
+    <circle cx="37" cy="37" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="43" cy="42" r="2" fill="#6C3FA0" data-pp="gene"/>
+    <text x="40" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~100nm OMV</text>
+    <!-- Scale bar -->
+    <line x1="15" y1="82" x2="45" y2="82" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <line x1="45" y1="79" x2="45" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <text x="30" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">100 nm</text>
+  </g>
+  <g id="layer-annotation-size_100nm_omv" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">100 nm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

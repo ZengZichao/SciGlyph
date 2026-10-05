@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="三级结构" data-name-en="Protein Tertiary Blob" data-cat="natural-sciences" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31">三级结构 / protein_tertiary_blob</title>
+  <desc id="d-31">展示蛋白质三级结构团块。关键词: tertiary structure,folding,3d</desc>
+  <g id="g-31-三级结构">
+    <path d="M40,30 C50,20 70,25 75,40 C80,55 70,70 55,75 C40,80 25,70 25,55 C25,40 35,35 40,30" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M60,50 C70,45 85,50 90,65 C95,80 85,95 70,95 C55,95 50,80 55,65 C60,50 60,50 60,50" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M45,60 C50,55 60,58 62,68 C64,78 55,85 45,82 C35,79 35,68 45,60" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+  </g>
+</svg>

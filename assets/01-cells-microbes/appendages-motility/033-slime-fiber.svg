@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-slime_fiber d-slime_fiber" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-slime_fiber">黏液纤维 / Slime Fiber (EPS)</title>
+  <desc id="d-slime_fiber">Extracellular slimy glycan fibers. 关键词: slime layer, glycocalyx, extracellular polysaccharide</desc>
+  
+  <g id="layer-body-slime_fiber" data-name="body">
+    <circle cx="35" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M49.0,34.6 L51.9,32.4 L54.7,32.2 L57.6,34.1 L60.4,36.7 L63.3,38.0 L66.1,37.1 L69.0,34.6 L71.9,32.4 L74.7,32.2 L77.6,34.1 L80.4,36.7 L83.3,38.0 L86.1,37.1 L89.0,34.6" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round" stroke-opacity="0.6"/>
+    <path d="M49.0,39.5 L51.9,40.8 L54.7,43.4 L57.6,45.3 L60.4,45.1 L63.3,43.0 L66.1,40.5 L69.0,39.5 L71.9,40.8 L74.7,43.4 L77.6,45.3 L80.4,45.1 L83.3,43.0 L86.1,40.5 L89.0,39.5" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round" stroke-opacity="0.6"/>
+    <path d="M49.0,50.0 L51.9,52.3 L54.7,52.9 L57.6,51.3 L60.4,48.7 L63.3,47.1 L66.1,47.7 L69.0,50.0 L71.9,52.3 L74.7,52.9 L77.6,51.3 L80.4,48.7 L83.3,47.1 L86.1,47.7 L89.0,50.0" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round" stroke-opacity="0.6"/>
+    <path d="M49.0,60.5 L51.9,59.5 L54.7,57.0 L57.6,54.9 L60.4,54.7 L63.3,56.6 L66.1,59.2 L69.0,60.5 L71.9,59.5 L74.7,57.0 L77.6,54.9 L80.4,54.7 L83.3,56.6 L86.1,59.2 L89.0,60.5" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round" stroke-opacity="0.6"/>
+    <path d="M49.0,65.4 L51.9,62.9 L54.7,62.0 L57.6,63.3 L60.4,65.9 L63.3,67.8 L66.1,67.6 L69.0,65.4 L71.9,62.9 L74.7,62.0 L77.6,63.3 L80.4,65.9 L83.3,67.8 L86.1,67.6 L89.0,65.4" fill="none" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-linecap="round" stroke-opacity="0.6"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="55" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">slime</text>
+  </g>
+</svg>

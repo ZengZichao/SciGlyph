@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>水基型灭火器</title>
+  <rect x="8" y="7" rx="2" ry="2" width="8" height="14"/>
+  <path d="M10 7V5h4v2"/>
+  <path d="M10 5V3.5h4V5"/>
+  <line x1="10" y1="4" x2="7" y2="3" stroke-width="1"/>
+  <path d="M7 3Q4 4 4.5 7Q5 9.5 6.5 11.5Q7.5 13 7 14.5" stroke-width="1"/>
+  <path d="M6 15.5l2-1" stroke-width="1"/>
+  <path d="M10 11h4" stroke-width="0.75"/>
+  <path d="M10.5 13.5q1.5 1.5 3 0" stroke-width="0.75"/>
+  <path d="M10.5 15.5q1.5 1.5 3 0" stroke-width="0.75"/>
+  <line x1="10" y1="21" x2="14" y2="21"/>
+</svg>

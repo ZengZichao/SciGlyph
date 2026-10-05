@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-spe-manifold-vacuum" data-cat="sp" data-spec="128"
+     data-tags="spe,manifold,vacuum,solid-phase" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">固相萃取真空装置 / SPE Vacuum Manifold</title>
+  <desc id="d">固相萃取真空装置（多柱位，接真空泵）</desc>
+  <g id="body"><path d="M20 40 L108 40 L108 100 Q108 108 100 108 L28 108 Q20 108 20 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M24 36 L104 36 L104 40 L24 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 16 L40 16 L40 36 L32 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 16 L56 16 L56 36 L48 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 16 L72 16 L72 36 L64 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M80 16 L88 16 L88 36 L80 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M96 16 L104 16 L104 36 L96 36 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M34 20 L38 20 L38 32 L34 32 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M50 20 L54 20 L54 32 L50 32 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M66 20 L70 20 L70 32 L66 32 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M82 20 L86 20 L86 32 L82 32 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M98 20 L102 20 L102 32 L98 32 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M108 70 L116 70 L116 78 L108 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

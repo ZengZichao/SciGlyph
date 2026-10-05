@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-tirf d-tirf" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-tirf">TIRF全内反射 / TIRF total internal reflection fluorescence</title>
+  <desc id="d-tirf">全内反射荧光(TIRF)显微镜：激发光以超过临界角入射玻璃-水界面→全反射→产生衰减波(evanescent field)仅激发~100nm深度内荧光。单分子成像。关键词: TIRF, total internal reflection, evanescent wave, single molecule, surface</desc>
+  <g id="layer-body-tirf" data-name="body">
+    
+    <line x1="10" y1="50" x2="90" y2="50" stroke="#1B2733" stroke-width="1.5" />
+    <rect x="10" y="50" width="80" height="20" fill="#F4F1EA" data-pp="bg" stroke="none" />
+    <text x="50.0" y="62.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">glass</text>
+    <text x="50" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">sample</text>
+    
+    <line x1="22" y1="66" x2="50" y2="50" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" />
+    <line x1="50" y1="50" x2="78" y2="66" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" />
+    
+    <path d="M30,50 Q35,48.5 40,50 Q45,51.5 50,50 Q55,48.5 60,50 Q65,51.5 70,50" fill="none" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.8" />
+    <path d="M34,50 Q39,49.2 44,50 Q49,50.8 54,50 Q59,49.2 64,50" fill="none" stroke="#00857A" data-pp="metabolism" stroke-width="0.5" stroke-opacity="0.4" />
+    
+    <circle cx="40" cy="47" r="1.5" fill="#00857A" data-pp="metabolism" />
+    <circle cx="55" cy="48" r="1.5" fill="#00857A" data-pp="metabolism" />
+    
+    <text x="66.0" y="57.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">θc</text>
+  </g>
+  <g id="layer-annotation-tirf" data-name="annotation">
+    <text x="50" y="79.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">evanescent field</text>
+    <text x="50" y="87.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~100nm depth</text>
+  </g>
+</svg>

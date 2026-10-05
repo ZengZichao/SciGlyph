@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-no-flame-toward-hood" data-cat="pp" data-spec="128"
+     data-tags="flame,fume hood,prohibited,fire,direction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">明火朝向通风橱禁止 / No Flame Toward Hood</title>
+  <desc id="d">禁止将明火朝向通风橱方向。</desc>
+  
+  <g id="figure"><circle cx="40" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M30 32 L28 74 L22 116 L34 116 L40 84 L46 116 L58 116 L52 74 L50 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M50 38 L62 42 L68 50 L64 52 L60 46 L50 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M64 46 L70 46 L70 56 L64 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M76 24 L112 24 L112 68 L76 68 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M76 44 L112 44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M80 28 L80 44 M88 28 L88 44 M96 28 L96 44 M104 28 L104 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M68 56 L72 64 L76 56 L72 68 L68 56" fill="#F5A623" stroke="none" data-ls="warn"/>
+     <circle cx="90" cy="50" r="28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M68 30 L112 70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

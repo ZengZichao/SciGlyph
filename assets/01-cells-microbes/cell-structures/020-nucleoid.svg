@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="拟核" data-name-en="Nucleoid" data-cat="02-structures" data-tags="拟核,染色体,环状DNA,无核膜,类核蛋白,rRNA" role="img" aria-labelledby="t-20-nucleoid d-20-nucleoid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20-nucleoid">拟核 / Nucleoid</title>
+  <desc id="d-20-nucleoid">拟核是原核细胞中环状染色体 DNA 的集中区，无核膜包被，DNA 与类核蛋白及少量 RNA 缠绕形成不规则团块。关键词: 拟核, 染色体, 环状DNA, 无核膜, 类核蛋白, rRNA</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="60" cy="60" rx="52" ry="34" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M32 58C32 47 42 42 51 46C60 50 68 44 78 47C88 50 92 59 85 66C78 73 68 66 58 70C48 74 39 69 32 58Z" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M40 58C40 51 49 49 56 52C63 55 71 51 78 54C83 56 84 61 79 63C72 65 66 60 58 63C50 66 42 63 40 58Z" fill="none" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="26" cy="50" r="2" fill="#5FA8C7"/>
+<circle cx="22" cy="62" r="2" fill="#5FA8C7"/>
+<circle cx="30" cy="72" r="2" fill="#5FA8C7"/>
+<circle cx="94" cy="50" r="2" fill="#5FA8C7"/>
+<circle cx="99" cy="62" r="2" fill="#5FA8C7"/>
+<circle cx="90" cy="72" r="2" fill="#5FA8C7"/>
+<circle cx="40" cy="36" r="2" fill="#5FA8C7"/>
+<circle cx="80" cy="36" r="2" fill="#5FA8C7"/>
+<circle cx="60" cy="86" r="2" fill="#5FA8C7"/>
+</g>
+</svg>

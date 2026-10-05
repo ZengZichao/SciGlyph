@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-23_nitrification d-23_nitrification" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23_nitrification">硝化作用 / Nitrification</title>
+  <desc id="d-23_nitrification">两步硝化: 氨→羟胺→亚硝酸(Amo/Hao, 氨氧化菌AOB如Nitrosomonas); 亚硝酸→硝酸(Nxr, 亚硝酸氧化菌NOB如Nitrobacter/Nitrospira)。关键词: amo, hao, nxr, nitrification</desc>
+  <defs>
+    <marker id="pp23__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="15" cy="30" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="15" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NH₃</text>
+        <circle cx="42" cy="30" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="42" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NH₂OH</text>
+        <circle cx="68" cy="30" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="68" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₂⁻</text>
+        <circle cx="68" cy="65" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="68" y="66.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₃⁻</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="23" y1="30" x2="34" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
+        <line x1="50" y1="30" x2="60" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
+        <line x1="68" y1="38" x2="68" y2="57" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
+    <text x="28" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Amo/Hao</text>
+    <text x="55" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AOB</text>
+    <text x="80" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nxr</text>
+    <text x="80" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">NOB</text>
+    <text x="15" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">2 steps, 2 guilds</text>
+  </g>
+</svg>

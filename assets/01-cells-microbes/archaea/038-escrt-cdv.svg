@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-escrt_cdv d-escrt_cdv" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-escrt_cdv">ESCRT/Cdv分裂机器 / ESCRT/Cdv Division Machinery</title>
+  <desc id="d-escrt_cdv">Archaeal ESCRT/Cdv cell division system. Two connected cells with CdvA/B contractile ring at neck. 关键词: ESCRT, Cdv, cell division, contractile ring, CdvA, CdvB</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="32" cy="50" rx="18" ry="14" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="68" cy="50" rx="18" ry="14" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="46" y="40" width="8" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <ellipse cx="50" cy="50" rx="5" ry="14" fill="none" stroke="#00857A" stroke-width="2.5" data-pp="metabolism"/>
+    <ellipse cx="50" cy="50" rx="3" ry="10" fill="none" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-dasharray="2,1"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="50" y1="36" x2="50" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="38" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">CdvA/B ring</text>
+    <text x="20" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">ESCRT/Cdv</text>
+    <text x="60" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">division</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="环形图" data-name-en="Donut 3 Seg" data-cat="charts-plots" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">环形图 / donut_3seg</title>
+  <desc id="d-16">三段环形图。关键词: donut,ring,three</desc>
+  <g id="g-16-环形图">
+    <path d="M120.0,30.0 A90,90 0 0 1 197.9,165.0 L163.3,145.0 A50,50 0 0 0 120.0,70.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="181" y="88" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">A</text>
+    <path d="M197.9,165.0 A90,90 0 0 1 42.1,165.0 L76.7,145.0 A50,50 0 0 0 163.3,145.0 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="120" y="193" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">B</text>
+    <path d="M42.1,165.0 A90,90 0 0 1 120.0,30.0 L120.0,70.0 A50,50 0 0 0 76.7,145.0 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="59" y="88" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">C</text>
+  </g>
+</svg>

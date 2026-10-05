@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="t d" data-id="lb-equipment-asset-tag" data-cat="lb" data-spec="160" data-tags="equipment,asset,tag,id,barcode,inventory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">设备资产编号标签 / Equipment Asset Tag</title>
+  <desc id="d">设备资产编号标签加条码。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="16" y="24" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">ASSET #:</text>
+    <text x="17.41" y="36.99" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" data-ls="stroke">EQ-001234</text>
+    <rect x="16" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="20" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="23" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="28" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="31" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="35" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="38" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="43" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="47" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="50" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="54" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="59" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="62" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="66" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="69" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="74" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="78" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="81" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="85" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="90" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="93" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="97" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="100" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="105" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="109" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="112" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="116" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="121" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="124" y="44" width="2" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="128" y="44" width="1" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="131" y="44" width="3" height="24" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="80" y="80" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">LAB EQUIPMENT</text>
+  </g>
+</svg>

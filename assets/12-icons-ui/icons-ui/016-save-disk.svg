@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="保存磁盘" data-name-en="save_disk" data-cat="basic-icons-ui" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16">保存磁盘 / save_disk</title>
+  <desc id="d-16">保存操作图标。关键词: 保存,磁盘,save,disk</desc>
+  <g id="g-16-保存磁盘">
+    <rect x="8" y="8" width="32" height="32" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="8" width="16" height="12" rx="1" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="28" width="20" height="12" rx="1" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="32" x2="30" y2="32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

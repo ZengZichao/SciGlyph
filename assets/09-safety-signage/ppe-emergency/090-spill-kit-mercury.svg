@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-spill-kit-mercury" data-cat="sf" data-spec="128"
+     data-tags="spill kit,mercury,syringe,sulfur powder,selenium" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">汞溢洒套件 / Spill Kit Mercury</title>
+  <desc id="d">汞溢洒处理套件，含注射器、硫磺粉和硒粉棉。</desc>
+  <g id="body"><rect x="16" y="32" width="96" height="72" rx="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M16 48 L112 48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M28 56 L28 92 L34 92 L34 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M26 56 L36 56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M30 60 L30 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <rect x="44" y="60" width="24" height="32" rx="3" fill="#F5A623" stroke="none" data-ls="warn"/>
+     <circle cx="88" cy="76" r="14" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M80 72 L96 72 M80 76 L96 76 M80 80 L96 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

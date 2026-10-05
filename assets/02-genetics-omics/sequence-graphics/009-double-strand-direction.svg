@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-double_strand_direction d-double_strand_direction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-double_strand_direction">双链方向标记 / Double-Strand 5′/3′ Direction</title>
+  <desc id="d-double_strand_direction">DNA 双链 5′→3′ 方向标记与反平行箭头。关键词: 5 prime, 3 prime, antiparallel, strand</desc>
+  <defs>
+    <marker id="pp09__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+    </marker>
+  </defs>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Double-Strand Direction (5′→3′)</text>
+    <line x1="80" y1="120" x2="520" y2="120" stroke="#2E86AB" data-pp="bacteria" stroke-width="3" stroke-linecap="round" marker-end="url(#pp09__ar)" />
+    <text x="60" y="125" text-anchor="end" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" font-weight="bold">5′</text>
+    <text x="540" y="125" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" font-weight="bold">3′</text>
+    <text x="538.00" y="110.00" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Top strand</text>
+    <line x1="90" y1="112" x2="90" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="110" y1="112" x2="110" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="130" y1="112" x2="130" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="150" y1="112" x2="150" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="170" y1="112" x2="170" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="190" y1="112" x2="190" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="210" y1="112" x2="210" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="230" y1="112" x2="230" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="250" y1="112" x2="250" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="270" y1="112" x2="270" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="290" y1="112" x2="290" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="310" y1="112" x2="310" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="330" y1="112" x2="330" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="350" y1="112" x2="350" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="370" y1="112" x2="370" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="390" y1="112" x2="390" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="410" y1="112" x2="410" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="430" y1="112" x2="430" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="450" y1="112" x2="450" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="470" y1="112" x2="470" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="490" y1="112" x2="490" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="510" y1="112" x2="510" y2="148" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="520" y1="150" x2="80" y2="150" stroke="#6C3FA0" data-pp="gene" stroke-width="3" stroke-linecap="round" marker-end="url(#pp09__ar)" />
+    <text x="540" y="155" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" font-weight="bold">5′</text>
+    <text x="60" y="155" text-anchor="end" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" font-weight="bold">3′</text>
+    <text x="540" y="170" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bottom</text>
+    <text x="90" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="110" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="130" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="150" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="170" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="190" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="210" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="230" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="250" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="270" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="290" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="310" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="330" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="350" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="370" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="390" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="410" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="430" y="108" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="90" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="110" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="130" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="150" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="170" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="190" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="210" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="230" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="250" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="270" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="290" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="310" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="330" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="350" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="370" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">T</text>
+    <text x="390" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+    <text x="410" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+    <text x="430" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="300" y="260" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Antiparallel strands</text>
+    <text x="300" y="290" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">A=T (2 H-bonds)  |  G≡C (3 H-bonds)</text>
+  </g>
+</svg>

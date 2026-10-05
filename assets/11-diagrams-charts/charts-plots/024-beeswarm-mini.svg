@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="蜂群图" data-name-en="Beeswarm Mini" data-cat="charts-plots" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24">蜂群图 / beeswarm_mini</title>
+  <desc id="d-24">蜂群散点图。关键词: beeswarm,jitter,points</desc>
+  <g id="g-24-蜂群图">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <circle cx="208" cy="172" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="212" cy="225" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="196" cy="130" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="204" cy="155" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="186" cy="144" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="241" cy="184" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="199" cy="214" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="188" cy="143" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="241" cy="249" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="223" cy="165" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="217" cy="255" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="205" cy="155" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="194" cy="195" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="254" cy="241" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="189" cy="188" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="212" cy="199" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="193" cy="187" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="224" cy="82" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="204" cy="109" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="247" cy="123" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="220" cy="136" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="210" cy="178" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="204" cy="119" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="203" cy="131" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="201" cy="166" r="5" fill="#009E73" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">25</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">50</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">75</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">100</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

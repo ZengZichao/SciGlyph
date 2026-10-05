@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-opening-reagent-bottle-face-away" data-cat="pp" data-spec="128"
+     data-tags="opening,bottle,face away,wafting,reagent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">开瓶远离面部 / Opening Reagent Bottle Face Away</title>
+  <desc id="d">开试剂瓶时远离面部，扇闻气味。</desc>
+  
+  <g id="figure"><circle cx="44" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M34 28 L32 70 L26 116 L38 116 L44 80 L50 116 L62 116 L56 70 L54 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M54 34 L68 36 L76 44 L72 46 L66 40 L54 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M34 34 L22 40 L20 52 L26 52 L26 42 L34 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M72 40 L78 40 L78 50 L72 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M18 46 L26 46 L26 56 L18 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M76 30 L96 30 L94 60 L78 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <rect d="M78 26 L94 26 L94 30 L78 30 Z" fill="#33414F" stroke="none" data-ls="dark"/>
+     <path d="M80 38 L92 38" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M56 14 Q60 10 64 14 Q60 18 56 14" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/></g>
+</svg>

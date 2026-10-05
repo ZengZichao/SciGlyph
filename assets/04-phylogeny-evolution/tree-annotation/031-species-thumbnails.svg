@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-31">物种缩略图图标 / Species Thumbnail Icons</title>
+<desc id="d-31">4末端旁贴微型细胞剪影球杆螺旋古菌, 引线 关键词: species, thumbnail, coccus, bacillus, spirillum, archaea</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="90.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="150.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="50.0" x2="200.0" y2="50.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="150.0" x2="200.0" y2="150.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="250.0" x2="200.0" y2="250.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="350.0" x2="200.0" y2="350.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<circle cx="200.0" cy="50.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="200.0" cy="150.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="200.0" cy="250.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="200.0" cy="350.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<line x1="205.0" y1="50.0" x2="275.0" y2="50.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<circle cx="295.0" cy="50.0" r="14.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="1"/>
+<text x="320.0" y="54.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Coccus</text>
+<line x1="205.0" y1="150.0" x2="275.0" y2="150.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<ellipse cx="295.0" cy="150.0" rx="18.0" ry="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="1"/>
+<text x="320.0" y="154.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacillus</text>
+<line x1="205.0" y1="250.0" x2="275.0" y2="250.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<path d="M 280 250.0 Q 288 238.0 295 250.0 Q 302 262.0 310 250.0" fill="none" stroke="#2E86AB" stroke-width="3" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320.0" y="254.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Spirillum</text>
+<line x1="205.0" y1="350.0" x2="275.0" y2="350.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="2,2" stroke-linecap="round"/>
+<rect x="282.0" y="338.0" width="24.0" height="24.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="320.0" y="354.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Archaeon</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Cell shape icons at tips</text>
+</g>
+</svg>

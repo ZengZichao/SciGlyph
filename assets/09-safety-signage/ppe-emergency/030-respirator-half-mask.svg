@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>半面罩防毒面具</title>
+  <path d="M7 8 Q7 5 12 4 Q17 5 17 8 L17 15 Q17 18 12 19 Q7 18 7 15 Z"/>
+  <circle cx="5" cy="13" r="2.5"/>
+  <circle cx="19" cy="13" r="2.5"/>
+  <path d="M5 10.5 L7 9"/>
+  <path d="M19 10.5 L17 9"/>
+  <circle cx="12" cy="12" r="1"/>
+</svg>

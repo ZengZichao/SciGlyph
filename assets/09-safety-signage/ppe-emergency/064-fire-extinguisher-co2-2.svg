@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-fire-extinguisher-co2" data-cat="sf" data-spec="128"
+     data-tags="fire extinguisher,co2,horn,carbon dioxide" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">CO2灭火器 / Fire Extinguisher CO2</title>
+  <desc id="d">二氧化碳灭火器，喇叭喷口，瓶体较高。</desc>
+  <g id="body"><rect x="44" y="36" width="40" height="76" rx="6" fill="#33414F" stroke="none" data-ls="dark"/>
+     <rect x="50" y="24" width="28" height="16" rx="4" fill="#33414F" stroke="none" data-ls="dark"/>
+     <path d="M58 24 L58 16 L70 16 L70 24" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M70 18 L92 10 L96 20 L92 26 L70 22" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M52 50 L76 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M52 64 L76 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <rect x="52" y="76" width="24" height="12" rx="2" fill="#E02020" stroke="none" data-ls="danger"/></g>
+</svg>

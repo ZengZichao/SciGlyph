@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-vial-snap-ring" data-cat="st" data-spec="128"
+     data-tags="vial,snap ring,sample,HPLC,snap" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">卡口瓶 / Snap Ring Vial</title>
+  <desc id="d">卡口式样品瓶，用于色谱进样。</desc>
+  <g id="body"><path d="M44 30 L44 108 Q44 116 52 116 L76 116 Q84 116 84 108 L84 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 58 L82 58 L82 108 Q82 114 76 114 L52 114 Q46 114 46 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M46 58 L82 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M40 14 L40 32 L88 32 L88 14 Q80 10 64 10 Q48 10 40 14 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M42 22 L86 22" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="横杠端头" data-name-en="head bar" data-cat="arrows-connectors" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31">横杠端头 / head_bar</title>
+  <desc id="d-31">横杠形线端头。关键词: head,bar,stop,cap</desc>
+  <g id="g-31-横杠端头">
+    <line x1="10" y1="24" x2="78" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <rect x="78" y="14" width="4" height="20" fill="#1f2937"/>
+  </g>
+</svg>

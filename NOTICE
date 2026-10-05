@@ -1,0 +1,17 @@
+SciGlyph · 绘图素材库 NOTICE
+
+版权所有 (c) 2026 ZengZichao (https://github.com/ZengZichao)
+
+1. assets/ 下的全部 SVG 素材以 CC BY 4.0 授权：
+   https://creativecommons.org/licenses/by/4.0/
+   每个素材文件内嵌 data-license="CC-BY-4.0" 与 data-copyright="ZengZichao"。
+   使用时请署名：ZengZichao · CC BY 4.0（附链接即可）。
+
+2. tools/ 与 index.html 等代码以 MIT 授权（见 LICENSE）。
+
+3. AI 生成声明：本库素材由 AI（大模型）辅助生成，经人工审查与程序化质检后发布；
+   仍可能存在科学性或事实性误差。使用者应自行核实图中信息（形态、数值、术语、
+   安全标志语义等）的准确性，正式发表前请对照权威文献与官方标准。
+
+4. 安全标志（09-safety-signage）依据 ISO 361 / ISO 7010 / GHS 的公开几何定义绘制，
+   仅为教学与研究示意用途；正式合规标识请以各国标准发布物为准。

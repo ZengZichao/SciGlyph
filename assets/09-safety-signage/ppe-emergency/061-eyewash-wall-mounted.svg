@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-eyewash-wall-mounted" data-cat="sf" data-spec="128"
+     data-tags="eyewash,wall mounted,dual nozzle,push plate,emergency" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">壁挂洗眼器 / Eyewash Wall Mounted</title>
+  <desc id="d">壁挂式洗眼器，双喷头、推板、水流线，紧急冲洗眼睛用。</desc>
+  <g id="body"><rect x="32" y="20" width="64" height="48" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M44 68 L44 80 Q44 84 40 88 L36 92" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M84 68 L84 80 Q84 84 88 88 L92 92" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <circle cx="40" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <circle cx="88" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><rect x="48" y="28" width="32" height="20" rx="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 92 L32 100 M36 92 L36 102 M36 92 L40 100" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+     <path d="M88 92 L84 100 M88 92 L88 102 M88 92 L92 100" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+     <path d="M60 32 L68 32 L68 44 L60 44 Z" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <text x="64" y="42" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">H₂O</text></g>
+</svg>

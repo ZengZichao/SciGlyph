@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-lane-swimlane-header" data-cat="pf" data-spec="160"
+     data-tags="lane,swimlane,header,divider,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">泳道分隔 / Swimlane Header</title>
+  <desc id="d">流程图泳道分隔符号，带标题栏。</desc>
+  <g id="body">
+    <rect x="12" y="12" width="136" height="20" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="12" y1="32" x2="148" y2="32" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="12" y1="64" x2="148" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="12" y="32" width="136" height="32" fill="none" stroke="none" stroke-dasharray="4,3" stroke-width="1"/>
+  </g>
+</svg>

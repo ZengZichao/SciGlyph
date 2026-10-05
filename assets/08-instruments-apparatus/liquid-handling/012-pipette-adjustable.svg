@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-pipette-adjustable" data-cat="lh" data-spec="128"
+     data-tags="pipette,adjustable,micropipette,volume" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">可调式移液器 / Adjustable Volume Pipette</title>
+  <desc id="d">可调量程移液器，带旋转调节环</desc>
+  <g id="body"><path d="M54 12 L74 12 L74 20 L54 20 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M56 20 L56 44 L52 44 L52 54 L56 54 L56 62 L52 62 L52 74 L56 74 L56 82 L52 82 L52 94 L56 94 L56 100 L72 100 L72 94 L76 94 L76 82 L72 82 L72 74 L76 74 L76 62 L72 62 L72 54 L76 54 L76 44 L72 44 L72 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="58" y="26" width="12" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><text x="64" y="36" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">μL</text>
+    <path d="M54 68 L74 68 L74 72 L54 72 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M54 68 L54 72 M74 68 L74 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 100 L60 112 L63 117 L65 117 L68 112 L68 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+</svg>

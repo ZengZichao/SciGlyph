@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="鞭毛锚定" data-name-en="Flagellar anchoring" data-cat="02-structures" data-tags="锚定,鞭毛基体,L环,P环,肽聚糖,外膜,穿膜" role="img" aria-labelledby="t-14-flagellar-anchor d-14-flagellar-anchor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14-flagellar-anchor">鞭毛锚定 / Flagellar anchoring</title>
+  <desc id="d-14-flagellar-anchor">基体由外侧 L/P 环锚定在细胞包被上，轴杆自内向外穿过肽聚糖层与外膜，外侧接钩与鞭毛丝（革兰阳性菌无外膜亦无 L/P 环）。关键词: 锚定, 鞭毛基体, L环, P环, 肽聚糖, 外膜, 穿膜</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<circle cx="44" cy="74" r="38" fill="#7FB6CE" stroke="#1F6F8B" stroke-width="2"/>
+<circle cx="44" cy="74" r="29" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="44" cy="74" r="23" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="44" cy="74" r="22" fill="#F2F9F5" stroke="none"/>
+<path d="M44 74L74 44" fill="none" stroke="#1F6F8B" stroke-width="2.6"/>
+<path d="M62 56L74 44" fill="none" stroke="#1F6F8B" stroke-width="1.8"/>
+<path d="M60.3 66.4A18 18 0 0 1 36.4 90.3L38.9 84.9A12 12 0 0 0 54.9 68.9Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.6"/>
+<circle cx="67.6" cy="78.2" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="48.2" cy="97.6" r="3.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M74 44C79 38 88 40 90 47" fill="none" stroke="#1F6F8B" stroke-width="2.6"/>
+<path d="M90 47C98 41 102 27 110 19C114 15 116 13 117 11" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+</g>
+</svg>

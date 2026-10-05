@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-oven-drying-105" data-cat="hc" data-spec="128"
+     data-tags="oven,drying,105c,temperature,laboratory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">烘箱（105℃） / Drying Oven (105°C)</title>
+  <desc id="d">烘箱：门+腔+搁板+温度显示</desc>
+  <g id="body"><rect x="20" y="16" width="88" height="100" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="24" width="72" height="84" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="48" y="16" width="32" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="50" y="18" width="28" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="24" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">105°C</text>
+    <path d="M32 50 L96 50 M32 70 L96 70 M32 90 L96 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M36 30 L92 30 L92 34 L36 34 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M36 54 L92 54 L92 58 L36 58 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M36 74 L92 74 L92 78 L36 78 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M36 94 L92 94 L92 98 L36 98 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <circle cx="100" cy="64" r="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M100 60 L100 64 L103 66" fill="#33414F" stroke="none" data-ls="dark"/></g>
+</svg>

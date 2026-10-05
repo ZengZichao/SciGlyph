@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="容量瓶" data-name-en="volumetric_flask" data-cat="lab-equipment" aria-labelledby="t-04 d-04" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-04">容量瓶 / volumetric_flask</title>
+  <desc id="d-04">精确配制标准溶液。关键词: 容量瓶,flask,定容,标准溶液</desc>
+  <g id="g-04-容量瓶">
+    <path d="M 55 12 L 55 35 Q 30 50 25 75 Q 22 95 40 105 L 80 105 Q 98 95 95 75 Q 90 50 65 35 L 65 12 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 30 75 Q 25 95 40 105 L 80 105 Q 95 95 90 75 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="30" y1="75" x2="90" y2="75" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <line x1="54" y1="28" x2="66" y2="28" stroke="#6b7280" stroke-width="0.75"/>
+    <rect x="53" y="8" width="14" height="6" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

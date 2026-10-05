@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-no-food-drink" data-cat="hz" data-spec="128"
+     data-tags="prohibition,no,food,drink,禁止,饮食" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">禁止饮食标志 / No Food or Drink</title>
+  <desc id="d">禁止饮食：杯子+叉号+红色圆圈斜杠。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#FFFFFF" stroke="#E02020" stroke-width="6" data-ls="fill" data-ls-stroke="danger"/>
+    <path d="M44 44 L44 78 C44 82 48 86 52 86 L56 86 C60 86 64 82 64 78 L64 44Z" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M72 44 L72 78 C72 82 76 86 80 86 L84 86" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M44 86 L64 86" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <line x1="22" y1="100" x2="106" y2="28" stroke="#E02020" stroke-linecap="round" stroke-width="6" data-ls="danger"/></g>
+  <g id="detail"></g>
+</svg>

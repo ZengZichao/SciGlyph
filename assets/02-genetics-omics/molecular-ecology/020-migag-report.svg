@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-migag_report d-migag_report" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-migag_report">MIMAG报告卡 / MIMAG report card</title>
+<desc id="d-migag_report">MIMAG 分档：高质量 ≥90% 且 &lt;10%（示意阈值线为 90% completeness）；中质量 ≥50% 且 &lt;10%。多bin行, 每行completeness条与90%阈值虚线, contamination条, N50列, 标记基因数, 质量星 关键词: MIMAG, MAG, completeness, contamination, N50, quality</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">MIMAG Quality Report</text>
+<text x="40.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Bin</text>
+<text x="130.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Completeness</text>
+<text x="270.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Contamination</text>
+<text x="390.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">N50</text>
+<text x="460.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Markers</text>
+<text x="540.0" y="48.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Quality</text>
+<line x1="30.0" y1="54.0" x2="580.0" y2="54.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="238.0" y1="55.0" x2="238.0" y2="380.0" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+<text x="238.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">90% completeness</text>
+<rect x="30.0" y="65.0" width="555.0" height="44.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.08" stroke="#93A0AC" stroke-width="1"/>
+<text x="40.0" y="93.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_001</text>
+<rect x="130.0" y="75.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="75.0" width="114.2" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="248.2" y="88.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">95%</text>
+<rect x="270.0" y="75.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="75.0" width="10.5" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="284.5" y="88.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">2.1%</text>
+<text x="395.0" y="88.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">125k</text>
+<text x="460.0" y="88.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">108</text>
+<text x="540.0" y="88.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">★★★</text>
+<text x="40.0" y="137.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_002</text>
+<rect x="130.0" y="119.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="119.0" width="104.8" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="238.8" y="132.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">87%</text>
+<rect x="270.0" y="119.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="119.0" width="29.0" height="16.0" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#E8871E" stroke-width="1"/>
+<text x="303.0" y="132.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5.8%</text>
+<text x="395.0" y="132.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">45k</text>
+<text x="460.0" y="132.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">89</text>
+<text x="540.0" y="132.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">★★</text>
+<rect x="30.0" y="153.0" width="555.0" height="44.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.08" stroke="#93A0AC" stroke-width="1"/>
+<text x="40.0" y="181.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_003</text>
+<rect x="130.0" y="163.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="163.0" width="86.5" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="220.5" y="176.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">72%</text>
+<rect x="270.0" y="163.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="163.0" width="61.5" height="16.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#C42D2D" stroke-width="1"/>
+<text x="335.5" y="176.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">12.3%</text>
+<text x="395.0" y="176.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">18k</text>
+<text x="460.0" y="176.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">65</text>
+<text x="540.0" y="176.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">★</text>
+<text x="40.0" y="225.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_004</text>
+<rect x="130.0" y="207.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="207.0" width="118.2" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="252.2" y="220.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">98%</text>
+<rect x="270.0" y="207.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="207.0" width="6.0" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="280.0" y="220.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1.2%</text>
+<text x="395.0" y="220.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">210k</text>
+<text x="460.0" y="220.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">115</text>
+<text x="540.0" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">★★★</text>
+<rect x="30.0" y="241.0" width="555.0" height="44.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.08" stroke="#93A0AC" stroke-width="1"/>
+<text x="40.0" y="269.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_005</text>
+<rect x="130.0" y="251.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="251.0" width="109.2" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="243.2" y="264.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">91%</text>
+<rect x="270.0" y="251.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="251.0" width="17.5" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="291.5" y="264.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3.5%</text>
+<text x="395.0" y="264.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">88k</text>
+<text x="460.0" y="264.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">98</text>
+<text x="540.0" y="264.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">★★★</text>
+<text x="40.0" y="313.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_006</text>
+<rect x="130.0" y="295.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="295.0" width="78.5" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="212.5" y="308.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">65%</text>
+<rect x="270.0" y="295.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="295.0" width="44.5" height="16.0" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#E8871E" stroke-width="1"/>
+<text x="318.5" y="308.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">8.9%</text>
+<text x="395.0" y="308.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">12k</text>
+<text x="460.0" y="308.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">52</text>
+<text x="540.0" y="308.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">★★</text>
+<rect x="30.0" y="329.0" width="555.0" height="44.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.08" stroke="#93A0AC" stroke-width="1"/>
+<text x="40.0" y="357.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MAG_007</text>
+<rect x="130.0" y="339.0" width="120.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="130.0" y="339.0" width="100.4" height="16.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.7" stroke="#00857A" stroke-width="1"/>
+<text x="234.4" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">84%</text>
+<rect x="270.0" y="339.0" width="100.0" height="16.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5"/>
+<rect x="270.0" y="339.0" width="31.0" height="16.0" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#E8871E" stroke-width="1"/>
+<text x="305.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">6.2%</text>
+<text x="395.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">35k</text>
+<text x="460.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">78</text>
+<text x="540.0" y="352.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">★★</text>
+</g>
+</svg>

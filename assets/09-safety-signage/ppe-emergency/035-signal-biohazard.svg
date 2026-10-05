@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>生物危害标志</title>
+  <circle cx="12" cy="12" r="9"/>
+  <circle cx="12" cy="8.5" r="3.7"/>
+  <circle cx="8.969" cy="13.75" r="3.7"/>
+  <circle cx="15.031" cy="13.75" r="3.7"/>
+  <circle cx="12" cy="12" r="1.6"/>
+  <path d="M12 7.4 L12 8.6 M15.98 14.3 L14.94 13.7 M8.02 14.3 L9.06 13.7" stroke-width="1"/>
+</svg>

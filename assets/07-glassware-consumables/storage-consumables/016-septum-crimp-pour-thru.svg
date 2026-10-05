@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-septum-crimp-pour-thru" data-cat="cs" data-spec="128"
+     data-tags="septum,crimp,pour thru,membrane,seal,vial" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">隔垫(倾注式) / Crimp Septum (Pour-Thru)</title>
+  <desc id="d">压接式隔垫，用于瓶口密封进样。</desc>
+  <g id="body"><ellipse cx="64" cy="64" rx="42" ry="42" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><ellipse cx="64" cy="64" rx="30" ry="30" fill="#33414F" opacity="0.4" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><ellipse cx="64" cy="64" rx="36" ry="36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><ellipse cx="64" cy="64" rx="18" ry="18" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><circle cx="64" cy="64" r="6" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

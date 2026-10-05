@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-biohazard" data-cat="ic" data-spec="24"
+     data-tags="icon,biohazard,safety,hazard,biological" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">生物危害图标 / Icon Biohazard</title>
+  <desc id="d">生物危害微型图标。</desc>
+  <g id="body">
+    <circle cx="12" cy="12" r="3" fill="#E02020" opacity="0.3" stroke="none" data-ls="danger"/>
+    <circle cx="12" cy="6" r="3" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <circle cx="7" cy="16" r="3" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <circle cx="17" cy="16" r="3" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <circle cx="12" cy="12" r="1.5" fill="#E02020" stroke="none" data-ls="danger"/>
+  </g>
+</svg>

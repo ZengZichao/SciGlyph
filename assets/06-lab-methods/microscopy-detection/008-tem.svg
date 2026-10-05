@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-tem d-tem" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-tem">透射电镜TEM / TEM transmission electron microscopy</title>
+  <desc id="d-tem">TEM截面示意：电子枪→聚光镜→超薄切片样品→物镜→投影镜→荧光屏/探测器。电子穿透样品成像，分辨率~0.1nm。关键词: TEM, transmission electron microscopy, electron gun, ultrathin section, lens</desc>
+  <g id="layer-body-tem" data-name="body">
+    <!-- Electron gun -->
+    <polygon points="45,5 55,5 52,15 48,15" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <!-- Electron beam -->
+    <line x1="50" y1="15" x2="50" y2="35" stroke="#00857A" data-pp="metabolism" stroke-width="2"/>
+    <!-- Condenser lens -->
+    <ellipse cx="50" cy="28" rx="8" ry="3" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1.5"/>
+    <!-- Sample (ultrathin section) -->
+    <rect x="35" y="40" width="30" height="4" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1"/>
+    <!-- Objective lens -->
+    <ellipse cx="50" cy="52" rx="8" ry="3" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1.5"/>
+    <!-- Projector lens -->
+    <ellipse cx="50" cy="65" rx="8" ry="3" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1.5"/>
+    <!-- Screen/detector -->
+    <rect x="35" y="75" width="30" height="10" rx="2" ry="2" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <!-- Image on screen -->
+    <circle cx="45" cy="80" r="2" fill="#1B2733" data-pp="ink" fill-opacity="0.3"/>
+    <circle cx="55" cy="80" r="2" fill="#1B2733" data-pp="ink" fill-opacity="0.5"/>
+  </g>
+  <g id="layer-annotation-tem" data-name="annotation">
+    <text x="60" y="10" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">e⁻ gun</text>
+    <text x="65" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">section</text>
+    <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">TEM</text>
+  </g>
+</svg>

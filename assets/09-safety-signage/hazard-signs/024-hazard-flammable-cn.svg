@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-flammable-cn" data-cat="hz" data-spec="128"
+     data-tags="flammable,fire,flame,易燃,火焰" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">易燃标志 / Flammable Hazard CN</title>
+  <desc id="d">中国标准易燃标志：火焰。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <path d="M64 28 C56 44 44 54 44 72 C44 86 53 96 64 96 C75 96 84 86 84 72 C84 54 72 44 64 28Z" fill="#E02020" stroke="#1F2933" stroke-width="2" data-ls="danger" data-ls-stroke="stroke"/>
+    <path d="M64 52 C60 60 54 66 54 76 C54 82 58 88 64 88 C70 88 74 82 74 76 C74 66 68 60 64 52Z" fill="#F5A623" data-ls="warn"/></g>
+  <g id="detail"></g>
+</svg>

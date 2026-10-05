@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-thermometer" data-cat="ic" data-spec="24"
+     data-tags="icon,thermometer,temperature,heat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">温度计图标 / Icon Thermometer</title>
+  <desc id="d">温度计微型图标。</desc>
+  <g id="body">
+    <path d="M10,4 L10,14 Q8,15 8,18 Q8,21 12,21 Q16,21 16,18 Q16,15 14,14 L14,4 Q14,3 12,3 Q10,3 10,4 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="12" cy="18" r="2" fill="#E02020" stroke="none" data-ls="danger"/>
+    <line x1="12" y1="14" x2="12" y2="8" fill="none" stroke="#E02020" data-ls="danger" stroke-linecap="round"/>
+  </g>
+</svg>

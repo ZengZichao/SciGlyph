@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="服务器" data-name-en="server_rack" data-cat="basic-icons-ui" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23">服务器 / server_rack</title>
+  <desc id="d-23">服务器机架图标。关键词: 服务器,机架,server,rack</desc>
+  <g id="g-23-服务器">
+    <rect x="8" y="6" width="32" height="10" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8" y="19" width="32" height="10" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="8" y="32" width="32" height="10" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="14" cy="11" r="2" fill="#1f2937" stroke="none"/>
+    <circle cx="14" cy="24" r="2" fill="#1f2937" stroke="none"/>
+    <circle cx="14" cy="37" r="2" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

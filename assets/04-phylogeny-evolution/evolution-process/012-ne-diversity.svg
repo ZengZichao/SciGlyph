@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-ne_diversity d-ne_diversity" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-ne_diversity">有效种群大小与多样性 / Ne and Diversity</title>
+<desc id="d-ne_diversity">π=4Neμ关系:不同有效种群大小对应的核苷酸多样性。上方圆半径与下方柱高均 ∝ log10(Ne),因此四级之间为等步长;真实 π 随 Ne 线性增长,此处取对数仅为示意。 关键词: Ne, diversity, pi, heterozygosity, population size, effective population size, neutral theory</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Ne and Nucleotide Diversity</text>
+<line x1="30" y1="112" x2="560" y2="112" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-linecap="round"/>
+<circle cx="80" cy="94" r="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.25"/>
+<circle cx="200" cy="88" r="24" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.25"/>
+<circle cx="340" cy="82" r="30" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.25"/>
+<circle cx="490" cy="76" r="36" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.25"/>
+<text x="80" y="70" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ne=10³</text>
+<text x="200" y="58" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ne=10⁴</text>
+<text x="340" y="46" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ne=10⁵</text>
+<text x="490" y="34" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Ne=10⁶</text>
+<text x="30" y="130" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">符号大小 ∝ log10Ne</text>
+</g>
+<g data-name="chart">
+<line x1="80" y1="150" x2="80" y2="280" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="72" y="158" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">π</text>
+<line x1="80" y1="280" x2="550" y2="280" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="550" y="295" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">Ne</text>
+<line x1="80" y1="190" x2="550" y2="190" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-dasharray="4,4"/>
+<line x1="80" y1="220" x2="550" y2="220" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-dasharray="4,4"/>
+<line x1="80" y1="250" x2="550" y2="250" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-dasharray="4,4"/>
+<rect x="130" y="210" width="40" height="70" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="150.0" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10³</text>
+<rect x="230" y="185" width="40" height="95" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<text x="250.0" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10⁴</text>
+<rect x="330" y="160" width="40" height="120" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+<text x="350.0" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10⁵</text>
+<rect x="430" y="135" width="40" height="145" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<text x="450.0" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10⁶</text>
+<path d="M150,210 L250,185 L350,160 L450,135" fill="none" data-pp="alert" stroke="#C42D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6,3"/>
+</g>
+<g data-name="notes">
+<rect x="60" y="310" width="230" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="175" y="335" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">π = 4Neμ</text>
+<text x="175" y="355" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">θ = 4Neμ (中性理论)</text>
+<rect x="310" y="310" width="240" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="430" y="330" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">影响 Ne 的因素</text>
+<text x="430" y="348" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">性别比 · 世代重叠 · 方差</text>
+<text x="430" y="363" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Ne/N 通常 &lt; 0.5</text>
+</g>
+</svg>

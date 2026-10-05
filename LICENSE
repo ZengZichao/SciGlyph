@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2026 ZengZichao
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+适用范围：本文件（仓库根 LICENSE）只覆盖仓库根的跨库治理脚本 `tools/**`。
+五个子库各有自己的许可证，素材与代码的许可映射见 [`LICENSE.md`](LICENSE.md)：
+
+  * 子库A  脚本 MIT（`子库A/LICENSE`）· 素材 CC BY 4.0（`子库A/LICENSE-ASSETS`）
+  * 子库B  CC BY 4.0
+  * 子库C  CC BY 4.0
+  * 子库D  CC0 1.0
+  * 子库E  素材 CC BY 4.0（`子库E/LICENSE`）· 脚本与页面代码 MIT（`子库E/LICENSE-CODE`）

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 240 160" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="MCC 树与节点后验" data-name-en="MCC tree" data-cat="04-phylo" data-tags="最大枝可信度树,MCC,后验,节点标注,支长加宽" aria-labelledby="t-22-mcc-tree d-22-mcc-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22-mcc-tree">MCC 树与节点后验 / MCC tree</title>
+  <desc id="d-22-mcc-tree">最大枝可信度（MCC）树：分支线宽与节点后验值对应（3.0 / 2.0 / 1.2 px），右侧折线给出 4 个内部节点各自的后验 clade credibility。关键词: 最大枝可信度树, MCC, 后验, 节点标注, 支长加宽</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2" />
+    <g fill="none" stroke="#5B4B8A" stroke-width="3">
+      <path d="M 38 88 H 62" />
+      <path d="M 62 68 V 107" />
+      <path d="M 62 68 H 118" />
+    </g>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 62 107 H 78" />
+      <path d="M 78 98 V 116" />
+      <path d="M 78 98 H 118" />
+      <path d="M 78 116 H 118" />
+    </g>
+    <g fill="none" stroke="#5B4B8A" stroke-width="1.2">
+      <path d="M 16 60 H 38" />
+      <path d="M 38 32 V 88" />
+      <path d="M 38 32 H 58" />
+      <path d="M 58 24 V 40" />
+      <path d="M 58 24 H 118" />
+      <path d="M 58 40 H 118" />
+    </g>
+    <g font-size="9.5" fill="#2B3A42">
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="34" y="52" text-anchor="end">0.81</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="64" y="35">0.72</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="68" y="83">0.97</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="84" y="112">0.88</text>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="118" cy="24" r="2.4" />
+      <circle cx="118" cy="40" r="2.4" />
+      <circle cx="118" cy="68" r="2.4" />
+      <circle cx="118" cy="98" r="2.4" />
+      <circle cx="118" cy="116" r="2.4" />
+    </g>
+    <g font-size="9" fill="#2B3A42">
+      <path d="M 16 134 H 40" fill="none" stroke="#5B4B8A" stroke-width="3" />
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="45" y="137">高</text>
+      <path d="M 66 134 H 90" fill="none" stroke="#5B4B8A" stroke-width="1.2" />
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="95" y="137">低 PP</text>
+    </g>
+    <path d="M 136 20 V 124" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none" />
+    <g stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none">
+      <path d="M 152 44 H 224" />
+      <path d="M 152 64 H 224" />
+      <path d="M 152 84 H 224" />
+      <path d="M 152 104 H 224" />
+    </g>
+    <path d="M 152 24 V 124 H 224" fill="none" stroke="#2B3A42" stroke-width="1.4" />
+    <polyline points="164,62 180,80 196,30 212,48" fill="none" stroke="#5B4B8A" stroke-width="2" />
+    <g fill="#5B4B8A">
+      <circle cx="164" cy="62" r="2" />
+      <circle cx="180" cy="80" r="2" />
+      <circle cx="196" cy="30" r="2" />
+      <circle cx="212" cy="48" r="2" />
+    </g>
+    <g font-size="9" fill="#2B3A42" text-anchor="end">
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="28">1.0</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="48">0.9</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="68">0.8</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="88">0.7</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="108">0.6</text>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="148" y="128">0.5</text>
+    </g>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="190.0" y="136.0" text-anchor="middle" font-size="9.5" fill="#2B3A42">各节点后验</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="188" y="147" text-anchor="middle" font-size="9.5" fill="#2B3A42">clade credibility</text>
+  </g>
+</svg>

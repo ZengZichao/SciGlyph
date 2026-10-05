@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-latex-glove-pair" data-cat="sf" data-spec="128"
+     data-tags="latex,glove,pair,ppe,disposable" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">乳胶手套一对 / Latex Glove Pair</title>
+  <desc id="d">乳胶手套一对，左右手各一只。</desc>
+  <g id="body"><path d="M16 108 L16 60 L10 48 L10 34 L16 32 L18 46 L20 30 L26 28 L28 44 L30 24 L36 22 L38 42 L42 26 L48 28 L46 50 L52 58 L56 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M72 108 L72 60 L66 48 L66 34 L72 32 L74 46 L76 30 L82 28 L84 44 L86 24 L92 22 L94 42 L98 26 L104 28 L102 50 L108 58 L112 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M16 82 L56 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M72 82 L112 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

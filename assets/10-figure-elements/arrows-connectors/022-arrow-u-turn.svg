@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="U形掉头箭头" data-name-en="arrow u turn" data-cat="arrows-connectors" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22">U形掉头箭头 / arrow_u_turn</title>
+  <desc id="d-22">U形回转箭头。关键词: arrow,u-turn,return,loop</desc>
+  <g id="g-22-U形掉头箭头">
+    <path d="M 14 14 L 70 14 Q 86 14 86 24 Q 86 34 70 34 L 30 34" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="32,28 22,34 32,40" fill="#1f2937"/>
+  </g>
+</svg>

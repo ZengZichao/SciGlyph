@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-blue-media-tube-50ml" data-cat="st" data-spec="128"
+     data-tags="centrifuge,tube,50mL,conical,graduated,falcon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">50mL离心管(带盖) / 50mL Conical Centrifuge Tube</title>
+  <desc id="d">50mL锥形离心管，带刻度与螺帽盖。</desc>
+  <g id="body"><path d="M44 22 L44 92 L56 118 L72 118 L84 92 L84 22 Z" fill="#FFFFFF" fill-opacity="0.12" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 48 L82 48 L82 92 L72 116 L56 116 L46 92 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/><path d="M46 48 L82 48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M46 58 L56 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M46 68 L54 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M46 78 L56 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 88 L54 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 98 L56 98" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 108 L58 108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><g id="cap"><path d="M40 10 L40 24 L88 24 L88 10 Q80 8 64 8 Q48 8 40 10 Z" fill="#2B7DE9" opacity="0.8" stroke="none" data-ls="accent"/><path d="M42 16 L86 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>光电比色计</title>
+  <rect x="2" y="7" width="20" height="13" rx="1"/>
+  <rect x="4" y="9" width="8" height="4" rx="0.5"/>
+  <line x1="5" y1="11" x2="11" y2="11" stroke-width="0.75"/>
+  <circle cx="17" cy="11" r="2" stroke-width="1"/>
+  <line x1="17" y1="9.5" x2="17" y2="11" stroke-width="0.75"/>
+  <rect x="4" y="15" width="8" height="3" rx="0.5" stroke-width="1"/>
+  <line x1="8" y1="15" x2="8" y2="16.5" stroke-width="0.75"/>
+  <circle cx="17" cy="16.5" r="1.5" stroke-width="1"/>
+  <line x1="4" y1="20" x2="4" y2="22" stroke-width="1"/>
+  <line x1="20" y1="20" x2="20" y2="22" stroke-width="1"/>
+</svg>

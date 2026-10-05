@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-plate-label-96-a1" data-cat="lb" data-spec="160"
+     data-tags="plate,96-well,label,strip,a1,microplate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">96孔板标签条 / 96-Well Plate Label Strip A1</title>
+  <desc id="d">96孔板标签条，含A1高亮。</desc>
+  <g id="body">
+    <rect x="10" y="30" width="140" height="36" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="16" y="36" width="12" height="24" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="22" y="52" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">A1</text>
+    <line x1="34" y1="36" x2="34" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="46" y1="36" x2="46" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="58" y1="36" x2="58" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="70" y1="36" x2="70" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="82" y1="36" x2="82" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="94" y1="36" x2="94" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="106" y1="36" x2="106" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="118" y1="36" x2="118" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="130" y1="36" x2="130" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="24" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="stroke">PLATE ID</text>
+    <text x="80" y="78" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="stroke">DATE / OPERATOR</text>
+  </g>
+</svg>

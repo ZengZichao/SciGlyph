@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-39_mlva_tandem_repeats d-39_mlva_tandem_repeats" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39_mlva_tandem_repeats">串联重复与MLVA / Tandem Repeats and MLVA</title>
+  <desc id="d-39_mlva_tandem_repeats">多位点可变数目串联重复分析(MLVA)。VNTR位点数目多态性用于菌株分型。关键词: MLVA, VNTR, tandem repeat, strain typing, microsatellite</desc>
+  <g id="layer-body" data-name="body">
+        <rect x="10" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="14.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="20" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="24.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="30" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="34.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="40" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="44.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="55" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="59.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="65" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="69.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+        <rect x="75" y="35" width="8" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="79.0" y="42.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AB</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="30.0" y="55.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">locus 1: 4x</text>
+    <line x1="65.0" y1="52.9" x2="68.47" y2="59.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="69.88" y="62.55" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">locus 2: 3x</text>
+    <text x="50" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">VNTR polymorphism</text>
+    <text x="50" y="84" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">strain fingerprinting</text>
+  </g>
+</svg>

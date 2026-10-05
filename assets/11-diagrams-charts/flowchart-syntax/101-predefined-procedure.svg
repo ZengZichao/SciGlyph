@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-predefined-procedure" data-cat="pf" data-spec="160"
+     data-tags="procedure,subroutine,sub-process,double-vertical,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">子流程双竖边框 / Predefined Procedure</title>
+  <desc id="d">流程图子流程符号，矩形两侧竖线标记。</desc>
+  <g id="body">
+    <rect x="20" y="20" width="120" height="56" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="34" y1="20" x2="34" y2="76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="126" y1="20" x2="126" y2="76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

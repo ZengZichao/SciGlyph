@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-20_crispr_cas3 d-20_crispr_cas3" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20_crispr_cas3">Cascade-Cas3 / Cascade-Cas3</title>
+  <desc id="d-20_crispr_cas3">Type I CRISPR with Cascade complex and Cas3 helicase-nuclease degrading DNA 关键词: Cas3, Cascade, degradation</desc>
+  
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="45" x2="85" y2="45" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <line x1="15" y1="50" x2="85" y2="50" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <circle cx="40" cy="47" r="6" fill="#00857A" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism"/>
+    <circle cx="48" cy="47" r="5" fill="#00857A" stroke="#1B2733" stroke-width="1.2" data-pp="metabolism"/>
+    <circle cx="55" cy="47" r="5" fill="#00857A" stroke="#1B2733" stroke-width="1.2" data-pp="metabolism"/>
+    <text x="47" y="49" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Cas</text>
+    <path d="M60,47 L70,47 L75,45 L75,49 L70,47" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <line x1="75" y1="47" x2="85" y2="47" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
+    <path d="M35,40 Q38,43 40,43" fill="#E8871E" stroke="#E8871E" stroke-width="1.5" stroke-linecap="round" data-pp="mge"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cascade-Cas3</text>
+  </g>
+</svg>

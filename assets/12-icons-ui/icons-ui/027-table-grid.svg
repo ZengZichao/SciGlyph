@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="表格网格" data-name-en="table_grid" data-cat="basic-icons-ui" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27">表格网格 / table_grid</title>
+  <desc id="d-27">表格与数据网格图标。关键词: 表格,网格,table,grid</desc>
+  <g id="g-27-表格网格">
+    <rect x="6" y="8" width="36" height="32" rx="2" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="6" y1="18" x2="42" y2="18" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="6" y1="28" x2="42" y2="28" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="18" y1="8" x2="18" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="30" y1="8" x2="30" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

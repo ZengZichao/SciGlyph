@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-reagent-bottle-wide-mouth" data-cat="st" data-spec="128"
+     data-tags="reagent,bottle,wide mouth,western,storage,solid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">广口试剂瓶 / Wide Mouth Reagent Bottle</title>
+  <desc id="d">广口试剂瓶，宽口便于取用固体与配制缓冲液。</desc>
+  <g id="body"><path d="M46 16 L46 30 L30 40 L30 108 Q30 114 36 114 L92 114 Q98 114 98 108 L98 40 L82 30 L82 16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 58 L96 58 L96 108 Q96 112 92 112 L36 112 Q32 112 32 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M32 58 L96 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M42 8 L42 18 L86 18 L86 8 Q78 6 64 6 Q50 6 42 8 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M44 12 L84 12 M44 16 L84 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="信号源箱" data-name-en="function-generator-box" data-cat="physics-electronics" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-42">信号源箱 / function_generator_box</title>
+  <desc id="d-42">函数信号发生器方框符号。关键词: 信号源,函数发生器,波形</desc>
+  <g id="g-42-信号源箱">
+    <rect x="25" y="20" width="70" height="40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 40 40 Q 50 30 60 40 Q 70 50 80 40" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="95" y1="30" x2="110" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="95" y1="50" x2="110" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

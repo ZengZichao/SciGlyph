@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-carboys" data-cat="st" data-spec="128"
+     data-tags="carboy,drum,reagent,solvent,large volume,spigot" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试剂桶 / Carboy (Reagent Drum)</title>
+  <desc id="d">大容量试剂桶(试剂桶)，带龙头，用于储存大量溶剂。</desc>
+  <g id="body"><path d="M30 20 L30 108 Q30 116 38 116 L90 116 Q98 116 98 108 L98 20 Q98 12 90 12 L38 12 Q30 12 30 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 50 L96 50 L96 108 Q96 114 90 114 L38 114 Q32 114 32 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M32 50 L96 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M48 8 L48 14 L80 14 L80 8 Q74 6 64 6 Q54 6 48 8 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g><path d="M98 80 L110 80 L110 74 L98 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M108 74 L108 66 L112 66 L112 80 L108 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

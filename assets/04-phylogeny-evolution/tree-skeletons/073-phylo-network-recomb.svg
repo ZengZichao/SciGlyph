@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-41 d-41" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">系统发育网络(重组) / Phylogenetic Network</title>
+  <desc id="d-41">骨架，配合PhyloNet/SplitsTree使用。显示重组/水平转移事件的系统发育网络。 关键词: phylogenetic tree, phylo network recomb, PhyloNet, SplitsTree, skeleton template, phylogenetics</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp41__tree-edges" data-name="tree-edges">
+    <line x1="80" y1="200" x2="200" y2="100" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80" y1="200" x2="200" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80" y1="200" x2="200" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200" y1="100" x2="350" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200" y1="100" x2="350" y2="160" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200" y1="300" x2="350" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200" y1="300" x2="350" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="350" y1="80" x2="500" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="350" y1="80" x2="500" y2="160" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="350" y1="250" x2="500" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="350" y1="340" x2="500" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp41__retic-edges" data-name="reticulation-edges">
+    <path d="M 350 160 Q 350 245 350 250" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-dasharray="5 3" stroke-linecap="round"/>
+  </g>
+  <g id="pp41__nodes" data-name="nodes">
+    <circle cx="80" cy="200" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="200" cy="100" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="200" cy="200" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="200" cy="300" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="350" cy="80" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="350" cy="160" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="350" cy="250" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="350" cy="340" r="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="500" cy="80" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="500" cy="160" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="500" cy="250" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="500" cy="340" r="4" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+  </g>
+  <g id="pp41__labels" data-name="tip-labels">
+    <text x="508" y="83" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H</text>
+    <text x="508" y="163" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">I</text>
+    <text x="508" y="253" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">J</text>
+    <text x="508" y="343" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">K</text>
+    <text x="208" y="203" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="358" y="163" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">E</text>
+    <text x="358" y="343" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G</text>
+  </g>
+</svg>

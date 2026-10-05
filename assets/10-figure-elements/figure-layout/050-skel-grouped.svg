@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-50_skel_grouped d-50_skel_grouped" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50_skel_grouped">分组条形骨架 / Grouped skeleton</title>
+  <desc id="d-50_skel_grouped">分组条形图空骨架，可填数据。虚线框为两组数据的占位槽(无实际数值)，填入数据后替换为实色条。关键词: skeleton, grouped bar, comparison</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="15" x2="15" y2="75" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="15" y1="75" x2="90" y2="75" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <rect x="22" y="44" width="5" height="31" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-a1-slot"/>
+    <rect x="28" y="44" width="5" height="31" fill="none" stroke="#A2305B" data-pp="archaea" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-b1-slot"/>
+    <rect x="42" y="44" width="5" height="31" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-a2-slot"/>
+    <rect x="48" y="44" width="5" height="31" fill="none" stroke="#A2305B" data-pp="archaea" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-b2-slot"/>
+    <rect x="62" y="44" width="5" height="31" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-a3-slot"/>
+    <rect x="68" y="44" width="5" height="31" fill="none" stroke="#A2305B" data-pp="archaea" stroke-width="0.5" stroke-dasharray="2,2" stroke-linejoin="round" data-name="group-b3-slot"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Grouped skeleton</text>
+  </g>
+</svg>

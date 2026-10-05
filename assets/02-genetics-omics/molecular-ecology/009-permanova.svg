@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-permanova d-permanova" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-permanova">PERMANOVA结果 / PERMANOVA results</title>
+<desc id="d-permanova">PCoA散点分组, 各组质心与1/SD椭圆, 侧边结果表R²与p值, 置换检验示意 关键词: PERMANOVA, PCoA, R², permutation</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="200.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">PERMANOVA</text>
+<rect x="30.0" y="35.0" width="340.0" height="280.0" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5"/>
+<line x1="60.0" y1="290.0" x2="350.0" y2="290.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="290.0" x2="60.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="200.0" y="305.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">PCoA1</text>
+<text x="42.0" y="170.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">PCoA2</text>
+<circle cx="100.0" cy="150.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="120.0" cy="130.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="110.0" cy="170.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="130.0" cy="140.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="95.0" cy="160.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="115.0" cy="155.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="105.0" cy="145.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="125.0" cy="165.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="140.0" cy="135.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="90.0" cy="175.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<circle cx="113.0" cy="152.0" r="6.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<ellipse cx="113.0" cy="152.0" rx="30.0" ry="25.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" stroke="#2E86AB" stroke-width="1" stroke-dasharray="4,2"/>
+<circle cx="210.0" cy="200.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="225.0" cy="210.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="200.0" cy="220.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="230.0" cy="195.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="215.0" cy="230.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="205.0" cy="205.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="220.0" cy="215.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="235.0" cy="225.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="195.0" cy="210.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="240.0" cy="200.0" r="3.5" fill="#00857A" data-pp="metabolism" fill-opacity="0.7"/>
+<circle cx="217.0" cy="211.0" r="6.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<ellipse cx="217.0" cy="211.0" rx="28.0" ry="22.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.15" stroke="#00857A" stroke-width="1" stroke-dasharray="4,2"/>
+<circle cx="280.0" cy="100.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="290.0" cy="110.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="270.0" cy="95.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="300.0" cy="105.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="275.0" cy="115.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="295.0" cy="90.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="285.0" cy="120.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="265.0" cy="108.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="305.0" cy="112.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="288.0" cy="98.0" r="3.5" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<circle cx="285.0" cy="105.0" r="6.0" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+<ellipse cx="285.0" cy="105.0" rx="25.0" ry="20.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.15" stroke="#A2305B" stroke-width="1" stroke-dasharray="4,2"/>
+<rect x="390.0" y="35.0" width="190.0" height="130.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<text x="485.0" y="52.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">PERMANOVA</text>
+<line x1="400.0" y1="58.0" x2="570.0" y2="58.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
+<text x="410.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Term</text>
+<text x="475.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">R²</text>
+<text x="540.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">p</text>
+<line x1="400.0" y1="78.0" x2="570.0" y2="78.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-linecap="round"/>
+<text x="410.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group</text>
+<text x="475.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.35</text>
+<text x="540.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">0.001</text>
+<text x="410.0" y="115.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pH</text>
+<text x="475.0" y="115.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.18</text>
+<text x="540.0" y="115.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">0.012</text>
+<text x="410.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Temp</text>
+<text x="475.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.09</text>
+<text x="540.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0.084</text>
+<line x1="400.0" y1="142.0" x2="570.0" y2="142.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-linecap="round"/>
+<text x="410.0" y="157.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Resid</text>
+<text x="475.0" y="157.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0.38</text>
+<text x="485.0" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Permutations</text>
+<circle cx="485.0" cy="250.0" r="40.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5"/>
+<circle cx="520.0" cy="250.0" r="2.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.8"/>
+<circle cx="519.5" cy="256.1" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="517.9" cy="262.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="515.3" cy="267.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="511.8" cy="272.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="507.5" cy="276.8" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="502.5" cy="280.3" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="497.0" cy="282.9" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="491.1" cy="284.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="485.0" cy="285.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="478.9" cy="284.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="473.0" cy="282.9" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="467.5" cy="280.3" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="462.5" cy="276.8" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="458.2" cy="272.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="454.7" cy="267.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="452.1" cy="262.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="450.5" cy="256.1" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="450.0" cy="250.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="450.5" cy="243.9" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="452.1" cy="238.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="454.7" cy="232.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="458.2" cy="227.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="462.5" cy="223.2" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="467.5" cy="219.7" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="473.0" cy="217.1" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="478.9" cy="215.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="485.0" cy="215.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="491.1" cy="215.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="497.0" cy="217.1" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="502.5" cy="219.7" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="507.5" cy="223.2" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="511.8" cy="227.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="515.3" cy="232.5" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="517.9" cy="238.0" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<circle cx="519.5" cy="243.9" r="2.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.8"/>
+<text x="485.0" y="253.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">999</text>
+<circle cx="50.0" cy="340.0" r="5.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="60.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group A</text>
+<circle cx="140.0" cy="340.0" r="5.0" fill="#00857A" data-pp="metabolism"/>
+<text x="150.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group B</text>
+<circle cx="230.0" cy="340.0" r="5.0" fill="#A2305B" data-pp="archaea"/>
+<text x="240.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group C</text>
+<text x="350.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">adonis2, Bray-Curtis</text>
+</g>
+</svg>

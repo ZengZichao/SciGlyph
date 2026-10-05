@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-spill-report-then-clean" data-cat="pp" data-spec="128"
+     data-tags="spill,report,clean,procedure,first report" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">先报告后清理 / Spill Report then Clean</title>
+  <desc id="d">溢洒处理：先报告后清理。</desc>
+  
+  <g id="figure"><circle cx="40" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M30 32 L28 74 L22 116 L34 116 L40 84 L46 116 L58 116 L52 74 L50 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M50 38 L60 42 L64 52 L60 54 L58 46 L50 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 48 L66 48 L66 58 L60 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M68 32 L92 32 L92 56 L68 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M72 38 L88 38 M72 42 L88 42 M72 46 L86 46 M72 50 L84 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M70 72 L86 72 L84 88 L72 88 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M80 60 L80 68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M76 64 L84 64" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

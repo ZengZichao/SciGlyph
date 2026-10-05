@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-wear-goggles" data-cat="hz" data-spec="128"
+     data-tags="mandatory,goggles,PPE,eye,必须,护目镜" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须戴护目镜标志 / Must Wear Goggles</title>
+  <desc id="d">指令标志：蓝底白色护目镜。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <path d="M34 54 L34 72 C34 78 40 82 48 82 L52 82 C56 82 58 78 58 74 L58 54 C58 50 56 48 52 48 L40 48 C36 48 34 50 34 54Z" fill="none" stroke="#FFFFFF" stroke-width="3" data-ls="fill"/>
+    <path d="M70 54 L70 72 C70 78 76 82 84 82 L88 82 C92 82 94 78 94 74 L94 54 C94 50 92 48 88 48 L76 48 C72 48 70 50 70 54Z" fill="none" stroke="#FFFFFF" stroke-width="3" data-ls="fill"/>
+    <path d="M58 62 L70 62" fill="none" stroke="#FFFFFF" stroke-width="3" data-ls="fill"/>
+    <path d="M34 58 L28 54 M94 58 L100 54" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2.5" data-ls="fill"/></g>
+  <g id="detail"></g>
+</svg>

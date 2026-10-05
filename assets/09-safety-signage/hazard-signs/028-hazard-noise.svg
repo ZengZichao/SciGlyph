@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-noise" data-cat="hz" data-spec="128"
+     data-tags="noise,ear,sound,噪声,听力" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">噪声危害标志 / Noise Hazard</title>
+  <desc id="d">耳朵+声波噪声危害标志。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <path d="M48 48 C38 48 34 58 34 68 C34 78 38 86 48 86 C52 86 54 82 54 78 L54 56 C54 52 52 48 48 48Z" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <path d="M54 56 C54 56 62 54 66 58 C70 62 68 70 64 74" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M74 54 Q80 64 74 74" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/>
+    <path d="M80 48 Q88 64 80 80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/>
+    <path d="M86 44 Q96 64 86 84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="培养组学分离芯片" data-name-en="Culturomics" data-cat="05-eco-seq" data-tags="培养组学,分离芯片,微孔阵列,单菌落,菌种保藏" role="img" aria-labelledby="t-23-culturomics d-23-culturomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23-culturomics">Culturomics</title>
+  <desc id="d-23-culturomics">微孔阵列以不同培养基将环境样本中的细胞物理分隔，使低丰度菌被单独富集为可培养单菌落并扩增鉴定。关键词: 培养组学, 分离芯片, 微孔阵列, 单菌落, 菌种保藏</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 流程轴 -->
+  <path d="M10 18 H110" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M42 18 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M80 18 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <circle cx="20" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="58" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="96" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#FFFFFF" stroke="none" text-anchor="middle">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="20" y="22">①</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="58" y="22">②</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="96" y="22">③</text>
+  </g>
+  <path d="M20 27 V32 M58 27 V36 M96 27 V32" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- ① 稀释接种 -->
+  <path d="M20 30 L14 54 H26 Z" fill="#DCEEE4" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M20 54 v6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M16 66 c2 3 3 4 3 5 a3 3 0 0 1 -6 0 c0 -1 1 -2 3 -5 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="8" y="74" width="24" height="7" rx="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M10 81 H30 V100 A10 10 0 0 1 10 100 Z" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M10 90 H30 V100 A10 10 0 0 1 10 100 Z" fill="#B7D7E8" fill-opacity="0.5" stroke="none"/>
+  <circle cx="15" cy="95" r="2.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <rect x="21" y="93" width="8" height="4" rx="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="26" cy="86" r="1.8" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- ② 微孔分离芯片：不同培养基上长出可分辨菌落 -->
+  <rect x="40" y="38" width="36" height="48" rx="3" fill="#B7D7E8" fill-opacity="0.25" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M40 46 H44 M72 46 H76" stroke="#1F6F8B" stroke-width="1.4"/>
+  <rect x="46" y="52" width="8" height="9" rx="1.5" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="58" y="52" width="8" height="9" rx="1.5" fill="#E8B04B" fill-opacity="0.35" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="68" y="52" width="5" height="9" rx="1.5" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="46" y="64" width="8" height="9" rx="1.5" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="58" y="64" width="8" height="9" rx="1.5" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="68" y="64" width="5" height="9" rx="1.5" fill="#E8B04B" fill-opacity="0.35" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="46" y="76" width="8" height="7" rx="1.5" fill="#E8B04B" fill-opacity="0.35" stroke="#B57A17" stroke-width="1.2"/>
+  <rect x="58" y="76" width="8" height="7" rx="1.5" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <rect x="68" y="76" width="5" height="7" rx="1.5" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="50" cy="56" r="2.6" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="62" cy="56" r="2.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="50" cy="68" r="2.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <circle cx="62" cy="68" r="2.8" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="50" cy="79" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <text x="58" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">Microwell array</text>
+  <!-- ③ 单菌落挑取与富集扩增 -->
+  <path d="M58 88 l20 -8" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <circle cx="96" cy="60" r="18" fill="#DCEEE4" fill-opacity="0.45" stroke="#1F6F8B" stroke-width="1.4"/>
+  <circle cx="91" cy="57" r="3.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="99" cy="55" r="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="95" cy="63" r="3.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M96 78 v8 m-3 -3 l3 3 l3 -3" stroke="#5B4B8A" stroke-width="1.4"/>
+  <circle cx="89" cy="96" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="97" cy="95" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="105" cy="96" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="93" cy="104" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="101" cy="104" r="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="109" cy="103" r="3.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M84 108 q12 6 28 0" stroke="#5B4B8A" stroke-width="1.4" stroke-dasharray="3 2"/>
+</g>
+</svg>

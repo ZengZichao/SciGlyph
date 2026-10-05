@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-terminator_hairpin d-terminator_hairpin" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-terminator_hairpin">终止子发夹 / Rho-Independent Terminator Hairpin</title>
+  <desc id="d-terminator_hairpin">内在终止子发夹结构 + U-tail。关键词: terminator, hairpin, rho-independent, intrinsic</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Intrinsic Terminator Hairpin</text>
+    <path d="M270,280 L270,180" stroke="#6C3FA0" data-pp="gene" stroke-width="3" fill="none" stroke-linecap="round" />
+    <path d="M330,280 L330,180" stroke="#6C3FA0" data-pp="gene" stroke-width="3" fill="none" stroke-linecap="round" />
+    <path d="M270,180 Q300,140 330,180" stroke="#6C3FA0" data-pp="gene" stroke-width="3" fill="none" stroke-linecap="round" />
+    <line x1="272" y1="270" x2="328" y2="270" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="272" y1="250" x2="328" y2="250" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="272" y1="230" x2="328" y2="230" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="272" y1="210" x2="328" y2="210" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <line x1="272" y1="190" x2="328" y2="190" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2" />
+    <path d="M330,280 Q350,300 370,280 Q390,260 410,280 Q430,300 450,280" stroke="#C42D2D" data-pp="alert" stroke-width="3" fill="none" stroke-linecap="round" />
+    <text x="240" y="230" text-anchor="end" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Stem</text>
+    <text x="240" y="245" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">(GC-rich)</text>
+    <text x="300" y="135" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Loop</text>
+    <text x="390" y="310" text-anchor="middle" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">U-tail (poly-U)</text>
+    <text x="100" y="280" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′</text>
+    <text x="460" y="280" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′</text>
+    <text x="300" y="360" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Hairpin + poly-U causes RNA polymerase dissociation</text>
+  </g>
+  <g data-name="annotation">
+    <circle cx="300" cy="155" r="30" fill="#6C3FA0" fill-opacity="0.08" stroke="none" data-pp="gene"/>
+    <line x1="270" y1="280" x2="270" y2="290" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene"/>
+    <line x1="330" y1="280" x2="330" y2="290" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene"/>
+    <path d="M270,290 L330,290" stroke="#6C3FA0" stroke-width="1.5" fill="none" data-pp="gene"/>
+  </g>
+</svg>

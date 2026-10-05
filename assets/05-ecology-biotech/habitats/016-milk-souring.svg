@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="乳品乳酸菌发酵" data-name-en="Dairy Lactic Fermentation" data-cat="05-eco-seq" data-tags="乳品发酵,乳酸菌,酸化,凝乳,同型发酵" role="img" aria-labelledby="t-16-milk-souring d-16-milk-souring" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16-milk-souring">乳品乳酸菌发酵 / Dairy Lactic Fermentation</title>
+  <desc id="d-16-milk-souring">同型发酵乳酸菌将乳糖转化为乳酸使乳品酸化凝固（不产气；CO₂ 仅来自异型发酵或柠檬酸代谢菌株），伴随乳酸细菌成链增殖。关键词: 乳品发酵, 乳酸菌, 酸化, 凝乳, 同型发酵</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 发酵瓶 -->
+  <path d="M50 14 H70 V24 C70 28 82 32 82 44 V98 C82 104 77 108 71 108 H49 C43 108 38 104 38 98 V44 C38 32 50 28 50 24 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.6"/>
+  <rect x="45" y="7" width="30" height="8" rx="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
+  <!-- 液面 -->
+  <path d="M38 40 Q60 37 82 40" stroke="#5FA8C7" stroke-width="1.4"/>
+  <path d="M38 41 Q60 38 82 41 L82 98 C82 104 77 108 71 108 H49 C43 108 38 104 38 98 Z" fill="#B7D7E8" fill-opacity="0.4" stroke="none"/>
+  <!-- 标签 -->
+  <rect x="45" y="46" width="30" height="24" rx="2" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <rect x="51" y="55" width="18" height="7" rx="3.5" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M54 58.5 A3 2.5 0 0 0 60 58.5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M53 64 h14 M57 61 v6" stroke="#7A8B93" stroke-width="1.2"/>
+  <!-- 乳酸菌长杆（成链） -->
+  <rect x="44" y="80" width="13" height="6" rx="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="60" y="80" width="13" height="6" rx="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="52" y="88" width="13" height="6" rx="3" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <rect x="44" y="72" width="12" height="5.5" rx="2.75" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M73 80 C78 76 80 86 85 82" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 产气二氧化碳 -->
+  <circle cx="50" cy="34" r="2.8" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <circle cx="62" cy="29" r="3.4" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <circle cx="70" cy="35" r="2.2" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <!-- 凝乳颗粒 -->
+  <circle cx="47" cy="98" r="3" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="56" cy="101" r="2.6" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="64" cy="97" r="2.8" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="72" cy="101" r="2.4" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 发酵时间进程 -->
+  <path d="M98 26 C112 38 112 70 98 82" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="4 3"/>
+  <path d="M97 78 l2 5 l4 -3" stroke="#B57A17" stroke-width="1.4"/>
+  <!-- 接种与冷藏提示 -->
+  <path d="M12 30 c3 4 4 6 4 8 a4 4 0 0 1 -8 0 c0 -2 1 -4 4 -8 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M14 56 v-8 m-3 3 l3 -3 l3 3" stroke="#2E7D5B" stroke-width="1.4"/>
+  <path d="M6 44 l6 4 l-6 4" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <path d="M8 76 c3 -3 8 -3 11 0 c-3 3 -8 3 -11 0 Z" fill="#DCEEE4" stroke="#5FA8C7" stroke-width="1.2"/>
+  <path d="M9 92 h9 M12 89 v6 M16 89 v6" stroke="#1F6F8B" stroke-width="1.2"/>
+</g>
+</svg>

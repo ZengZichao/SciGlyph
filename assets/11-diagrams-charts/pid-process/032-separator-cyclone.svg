@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>旋风分离器</title>
+  <rect x="7" y="3" width="10" height="8" rx="0.5"/>
+  <path d="M7 11L10 20L14 20L17 11"/>
+  <path d="M3 6L7 6"/>
+  <path d="M3 6L3 10"/>
+  <line x1="12" y1="3" x2="12" y2="2"/>
+  <rect x="11" y="2" width="2" height="1"/>
+  <line x1="12" y1="20" x2="12" y2="22"/>
+  <path d="M10 22L14 22"/>
+  <circle cx="12" cy="7" r="2" stroke-width="0.75"/>
+  <line x1="7" y1="5" x2="17" y2="5" stroke-width="0.75"/>
+  <path d="M5 14L3 14L3 16"/>
+  <polyline points="10,20 12,22 14,20"/>
+</svg>

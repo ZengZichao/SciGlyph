@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-ground" data-cat="hz" data-spec="128"
+     data-tags="mandatory,ground,earth,必须,接地" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须接地标志 / Must Ground / Earth</title>
+  <desc id="d">指令标志：蓝底白色接地符号。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <line x1="64" y1="34" x2="64" y2="64" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/>
+    <line x1="44" y1="68" x2="84" y2="68" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/>
+    <line x1="50" y1="78" x2="78" y2="78" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/>
+    <line x1="56" y1="88" x2="72" y2="88" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/></g>
+  <g id="detail"></g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-annotation-box-dashed" data-cat="pf" data-spec="160"
+     data-tags="annotation,dashed,box,optional,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">虚线注解框 / Annotation Dashed Box</title>
+  <desc id="d">流程图虚线注解框，用于标注可选或注释区域。</desc>
+  <g id="body">
+    <rect x="16" y="16" width="128" height="64" rx="4" ry="4" fill="none" stroke="#1F2933" stroke-dasharray="8,4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

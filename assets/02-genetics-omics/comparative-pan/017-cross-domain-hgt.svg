@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-comparative" role="img" aria-labelledby="t-cross_domain_hgt d-cross_domain_hgt" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-cross_domain_hgt">跨域 HGT / Cross-domain horizontal gene transfer</title>
+<desc id="d-cross_domain_hgt">跨域水平基因转移弧线与供体受体。schematic, not to scale. 关键词: HGT, transfer, cross-domain</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="domains">
+<rect x="40.0" y="100.0" width="160.0" height="100.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" stroke="#2E86AB" stroke-width="2" rx="5"/>
+<line x1="70.0" y1="150.0" x2="100.0" y2="150.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="150.0" x2="100.0" y2="125.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="150.0" x2="100.0" y2="175.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="125.0" x2="130.0" y2="115.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="125.0" x2="130.0" y2="135.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="175.0" x2="130.0" y2="165.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="175.0" x2="130.0" y2="185.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<circle cx="130.0" cy="115.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="135.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="165.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="130.0" cy="185.0" r="4.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="120.0" y="95.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Bacteria</text>
+<rect x="40.0" y="220.0" width="160.0" height="100.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.15" stroke="#A2305B" stroke-width="2" rx="5"/>
+<line x1="70.0" y1="270.0" x2="100.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="270.0" x2="100.0" y2="245.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="270.0" x2="100.0" y2="295.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="245.0" x2="130.0" y2="235.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="245.0" x2="130.0" y2="255.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="295.0" x2="130.0" y2="285.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="100.0" y1="295.0" x2="130.0" y2="305.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<circle cx="130.0" cy="235.0" r="4.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="130.0" cy="255.0" r="4.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="130.0" cy="285.0" r="4.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="130.0" cy="305.0" r="4.0" fill="#A2305B" data-pp="archaea"/>
+<text x="120.0" y="215.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Archaea</text>
+<rect x="400.0" y="160.0" width="160.0" height="100.0" fill="#3F8FBF" data-pp="eukaryote" fill-opacity="0.15" stroke="#3F8FBF" stroke-width="2" rx="5"/>
+<line x1="430.0" y1="210.0" x2="460.0" y2="210.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="210.0" x2="460.0" y2="185.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="210.0" x2="460.0" y2="235.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="185.0" x2="490.0" y2="175.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="185.0" x2="490.0" y2="195.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="235.0" x2="490.0" y2="225.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="460.0" y1="235.0" x2="490.0" y2="245.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<circle cx="490.0" cy="175.0" r="4.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<circle cx="490.0" cy="195.0" r="4.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<circle cx="490.0" cy="225.0" r="4.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<circle cx="490.0" cy="245.0" r="4.0" fill="#3F8FBF" data-pp="eukaryote"/>
+<text x="480.0" y="155.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Eukaryote</text>
+<path d="M 170,140 Q 300,60 400,180" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="3"/>
+<text x="290.0" y="75.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">~12 events</text>
+<path d="M 170,260 Q 300,340 400,230" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="2"/>
+<text x="290.0" y="325.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">~5 events</text>
+<path d="M 120,200 Q 120,210 120,220" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="2" stroke-dasharray="4,3"/>
+<text x="145.0" y="212.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">~8</text>
+<rect x="230.0" y="140.0" width="140.0" height="120.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1"/>
+<text x="300.0" y="155.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Transfer freq.</text>
+<line x1="240.0" y1="162.0" x2="360.0" y2="162.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
+<text x="250.0" y="178.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">B→E</text>
+<text x="340.0" y="178.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~12</text>
+<text x="250.0" y="198.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">A→E</text>
+<text x="340.0" y="198.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~5</text>
+<text x="250.0" y="218.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">B→A</text>
+<text x="340.0" y="218.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~8</text>
+<text x="250.0" y="238.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Total</text>
+<text x="340.0" y="238.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~25</text>
+<line x1="240.0" y1="245.0" x2="360.0" y2="245.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
+<text x="300.0" y="30.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Cross-domain HGT (schematic)</text>
+</g>
+</svg>

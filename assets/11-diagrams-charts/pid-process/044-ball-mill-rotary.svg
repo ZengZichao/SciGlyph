@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-ball-mill-rotary" data-cat="uo" data-spec="128"
+     data-tags="ball-mill,rotary,grinding,media,milling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">球磨机 / Ball Mill Rotary</title>
+  <desc id="d">球磨机，旋转圆筒内含研磨球。</desc>
+  <g id="body">
+    <ellipse cx="64" cy="64" rx="44" ry="36" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="44" cy="56" r="5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="58" cy="72" r="5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="72" cy="52" r="5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="84" cy="68" r="5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="56" cy="48" r="4" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="76" cy="76" r="4" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="14" y1="64" x2="20" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="18,64 24,60 24,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="108" y1="64" x2="114" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="110,64 104,60 104,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M30,88 Q64,100 98,88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-mortar-pestle" data-cat="cs" data-spec="128"
+     data-tags="mortar,pestle,grind,crush,powder,sample prep" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">研钵与研杵 / Mortar and Pestle</title>
+  <desc id="d">研钵与研杵，用于研磨固体样品。</desc>
+  <g id="body"><path d="M22 56 Q22 100 64 108 Q106 100 106 56 L106 48 Q106 42 100 42 L28 42 Q22 42 22 48 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M76 18 L64 50 L72 54 L84 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><ellipse cx="64" cy="42" rx="40" ry="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M26 60 Q26 96 64 104 Q102 96 102 60 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/></g>
+  
+</svg>

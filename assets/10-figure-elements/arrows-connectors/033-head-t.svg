@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="T形端头" data-name-en="head t" data-cat="arrows-connectors" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33">T形端头 / head_t</title>
+  <desc id="d-33">T形线端头。关键词: head,t,cap,terminator</desc>
+  <g id="g-33-T形端头">
+    <line x1="10" y1="24" x2="78" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <rect x="78" y="12" width="4" height="24" fill="#1f2937"/>
+    <rect x="72" y="12" width="16" height="4" fill="#1f2937"/>
+  </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-freshwater d-freshwater" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-freshwater">淡水 / Freshwater</title>
+  <desc id="d-freshwater">Freshwater lake with cyanobacteria and heterotrophs 关键词: freshwater, lake, cyanobacteria, heterotrophs, pelagic, low salinity</desc>
+  <g id="l-freshwater-bg" data-name="habitat-bg">
+    <rect x="5" y="30" width="90" height="45" rx="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+  </g>
+  <g id="l-freshwater-microbes" data-name="microbes">
+    <circle cx="17.0" cy="50" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="23.5" cy="50" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="30.0" cy="50" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="36.5" cy="50" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="43.0" cy="50" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.8"/>
+<rect x="50.0" y="53.0" width="10" height="4" rx="1.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<circle cx="70" cy="48" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="l-freshwater-label" data-name="annotation">
+    <text x="50" y="12" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">淡水</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>搪玻璃反应釜</title>
+  <path d="M6 5L6 16Q6 20 12 20Q18 20 18 16L18 5"/>
+  <line x1="6" y1="5" x2="18" y2="5"/>
+  <rect x="10" y="2" width="4" height="3" rx="0.5"/>
+  <line x1="12" y1="5" x2="12" y2="15"/>
+  <path d="M9 8Q10 10 12 9Q14 8 15 10Q14 12 12 11Q10 12 9 10" stroke-width="1"/>
+  <circle cx="16" cy="10" r="1.5"/>
+  <circle cx="16" cy="10" r="0.5"/>
+  <path d="M10 20L10 22L14 22L14 20"/>
+  <line x1="12" y1="22" x2="12" y2="22.5"/>
+  <line x1="11" y1="22.5" x2="13" y2="22.5" stroke-width="1"/>
+  <circle cx="7" cy="13" r="0.75"/>
+  <line x1="6" y1="8" x2="4" y2="8"/>
+  <line x1="18" y1="8" x2="20" y2="8"/>
+</svg>

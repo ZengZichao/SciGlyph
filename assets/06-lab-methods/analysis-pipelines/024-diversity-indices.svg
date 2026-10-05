@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-24_diversity_indices d-24_diversity_indices" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24_diversity_indices">多样性指数计算与统计检验 / Diversity Index and Statistics</title>
+  <desc id="d-24_diversity_indices">骨架流程：ASV表→Shannon指数→Simpson指数→丰富度→PCoA排序→PERMANOVA统计检验→报告。工具：vegan R, QIIME2。输入：ASV/OTU表；输出：多样性指数、排序图、统计结果。 关键词: bioinformatics workflow, diversity indices, Index, Statistics, ASV, Shannon, Simpson, PCoA, PERMANOVA, skeleton template</desc>
+<defs>
+  <marker id="pp24__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp24__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp24__labels" data-name="labels">
+  <rect x="20" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">ASV Table</text>
+
+  <rect x="145" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Shannon</text>
+
+  <rect x="270" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Simpson</text>
+
+  <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Richness</text>
+
+  <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PCoA</text>
+
+  <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PERMANOVA</text>
+
+  <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Report</text>
+
+  <line x1="125" y1="94.0" x2="145" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="94.0" x2="270" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="94.0" x2="395" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round"/>
+  <path d="M 447.5 118 L 447.5 163.0 L 72.5 163.0 L 72.5 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="125" y1="232.0" x2="145" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="232.0" x2="270" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp24__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Diversity Index and Statistics</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ASV Table</text>
+  <rect x="111" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="127" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Indices</text>
+  <rect x="188" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="204" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Ordination</text>
+  <rect x="286" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="302" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PERMANOVA</text>
+  </g>
+</svg>

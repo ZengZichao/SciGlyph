@@ -1,0 +1,35 @@
+{
+ "category": "09-safety-signage",
+ "name_zh": "安全·防护与标识",
+ "name_en": "Safety & Signage",
+ "count": 191,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "hazard-signs",
+   "name_zh": "危害警示标志",
+   "name_en": "Hazard Signs",
+   "count": 53
+  },
+  {
+   "id": "ppe-emergency",
+   "name_zh": "防护与应急",
+   "name_en": "PPE & Emergency",
+   "count": 94
+  },
+  {
+   "id": "personnel-behavior",
+   "name_zh": "人员行为",
+   "name_en": "Personnel Behavior",
+   "count": 30
+  },
+  {
+   "id": "signage",
+   "name_zh": "安全标识",
+   "name_en": "Safety Signage",
+   "count": 14
+  }
+ ]
+}

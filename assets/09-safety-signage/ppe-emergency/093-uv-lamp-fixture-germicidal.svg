@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-uv-lamp-fixture-germicidal" data-cat="sf" data-spec="128"
+     data-tags="uv lamp,germicidal,ultraviolet,sterilization,radiation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">紫外杀菌灯 / UV Lamp Fixture Germicidal</title>
+  <desc id="d">紫外杀菌灯管，带支架和辐射线。</desc>
+  <g id="body"><rect x="20" y="52" width="88" height="24" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <rect x="28" y="56" width="72" height="16" rx="8" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M28 52 L28 40 L36 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M100 52 L100 40 L92 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M40 48 L36 32" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M56 48 L54 28" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M72 48 L74 28" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M88 48 L92 32" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M40 80 L36 96" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M56 80 L54 100" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M72 80 L74 100" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+     <path d="M88 80 L92 96" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="靶环" data-name-en="target-bullseye" data-cat="flowchart-logic" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">靶环 / target_bullseye</title>
+  <desc id="d-34">靶心同心环。关键词: target,bullseye</desc>
+  <g id="g-34-靶环">
+    <circle cx="80" cy="60" r="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="60" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <line fill="none" x1="80" y1="5" x2="80" y2="115" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line fill="none" x1="25" y1="60" x2="135" y2="60" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-air-sampler-impinger" data-cat="en" data-spec="128"
+     data-tags="air,sampler,impinger,absorption,bubble,采样,吸收管" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">气泡吸收管采样器 / Impinger Air Sampler</title>
+  <desc id="d">气泡吸收管采样器。</desc>
+  <g id="body"><path d="M48 14 L48 80 C48 96 56 108 64 108 C72 108 80 96 80 80 L80 14" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M50 60 L78 60 L78 80 C78 92 72 104 64 104 C56 104 50 92 50 80Z" fill="#BFE0FF" opacity="0.5" data-ls="liquid"/>
+    <path d="M56 14 L56 70" fill="none" stroke="#5A6B7B" stroke-width="2" data-ls="thin"/>
+    <circle cx="58" cy="76" r="2" fill="#BFE0FF" data-ls="liquid"/>
+    <circle cx="64" cy="82" r="2" fill="#BFE0FF" data-ls="liquid"/>
+    <circle cx="70" cy="74" r="2" fill="#BFE0FF" data-ls="liquid"/>
+    <circle cx="62" cy="90" r="1.5" fill="#BFE0FF" data-ls="liquid"/>
+    <rect x="52" y="8" width="24" height="8" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"></g>
+</svg>

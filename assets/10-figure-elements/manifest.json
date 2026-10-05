@@ -1,0 +1,53 @@
+{
+ "category": "10-figure-elements",
+ "name_zh": "图版构件",
+ "name_en": "Figure Elements",
+ "count": 325,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "scale-reference",
+   "name_zh": "比例与尺度参照",
+   "name_en": "Scale Reference",
+   "count": 13
+  },
+  {
+   "id": "figure-layout",
+   "name_zh": "图版布局",
+   "name_en": "Figure Layout",
+   "count": 85
+  },
+  {
+   "id": "arrows-connectors",
+   "name_zh": "箭头与连接件",
+   "name_en": "Arrows & Connectors",
+   "count": 56
+  },
+  {
+   "id": "geometry-math",
+   "name_zh": "几何与数学",
+   "name_en": "Geometry & Math",
+   "count": 60
+  },
+  {
+   "id": "tables-frames",
+   "name_zh": "表格与框线",
+   "name_en": "Tables & Frames",
+   "count": 60
+  },
+  {
+   "id": "labels-tags",
+   "name_zh": "标签与标牌",
+   "name_en": "Labels & Tags",
+   "count": 33
+  },
+  {
+   "id": "connectors",
+   "name_zh": "流程连接符",
+   "name_en": "Flow Connectors",
+   "count": 18
+  }
+ ]
+}

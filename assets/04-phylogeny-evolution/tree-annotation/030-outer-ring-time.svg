@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-30 d-30" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30">外环时间 / Outer Ring: time</title>
+  <desc id="d-30">装饰零件，贴到树上用。圆形地质时间外环：半径 150 的刻度环，12 个主刻度沿顺时针从 0 Ma（顶部）到 1100 Ma，每 30° 一档、间隔 100 Ma（角度均匀，为示意刻度，不表示年代比例）。配合环形树使用，替换为实际起止年代与步长即可。 关键词: tree decoration, outer ring time, time scale ring, molecular clock, geologic time, Ma ticks, circular layout</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="outer-ring-time">
+    <circle cx="200" cy="200" r="150" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="200.0" y1="50.0" x2="200.0" y2="60.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="200.0" y="35.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0 Ma</text>
+    <line x1="275.0" y1="70.1" x2="270.0" y2="78.8" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="282.5" y="57.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">100 Ma</text>
+    <line x1="329.9" y1="125.0" x2="321.2" y2="130.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="342.9" y="117.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">200 Ma</text>
+    <line x1="350.0" y1="200.0" x2="340.0" y2="200.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="365.0" y="200.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">300 Ma</text>
+    <line x1="329.9" y1="275.0" x2="321.2" y2="270.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="342.9" y="282.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">400 Ma</text>
+    <line x1="275.0" y1="329.9" x2="270.0" y2="321.2" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="282.5" y="342.9" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">500 Ma</text>
+    <line x1="200.0" y1="350.0" x2="200.0" y2="340.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="200.0" y="365.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">600 Ma</text>
+    <line x1="125.0" y1="329.9" x2="130.0" y2="321.2" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="117.5" y="342.9" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">700 Ma</text>
+    <line x1="70.1" y1="275.0" x2="78.8" y2="270.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="57.1" y="282.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">800 Ma</text>
+    <line x1="50.0" y1="200.0" x2="60.0" y2="200.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="35.0" y="200.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">900 Ma</text>
+    <line x1="70.1" y1="125.0" x2="78.8" y2="130.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="57.1" y="117.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1000 Ma</text>
+    <line x1="125.0" y1="70.1" x2="130.0" y2="78.8" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="117.5" y="57.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1100 Ma</text>
+  </g>
+  <g data-name="annotation">
+    <circle cx="200" cy="200" r="3" fill="#93A0AC" data-pp="muted"/>
+  </g>
+</svg>

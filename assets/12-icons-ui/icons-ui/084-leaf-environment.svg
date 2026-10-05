@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-leaf-environment" data-cat="ic" data-spec="24"
+     data-tags="icon,leaf,environment,green,eco,nature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">叶子环保图标 / Icon Leaf Environment</title>
+  <desc id="d">叶子环保微型图标。</desc>
+  <g id="body">
+    <path d="M12,4 Q6,8 6,14 Q6,20 12,20 Q18,20 18,14 Q18,8 12,4 Z" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+    <path d="M12,4 Q6,8 6,14 Q6,20 12,20 Q18,20 18,14 Q18,8 12,4 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="8" x2="12" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="12" x2="9" y2="10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="12" y1="14" x2="15" y2="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+  </g>
+</svg>

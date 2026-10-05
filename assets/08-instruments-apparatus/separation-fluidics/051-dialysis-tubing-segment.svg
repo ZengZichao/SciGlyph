@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-dialysis-tubing-segment" data-cat="sp" data-spec="128"
+     data-tags="dialysis,tubing,membrane,mwco,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">透析袋 / Dialysis Tubing Segment</title>
+  <desc id="d">透析袋，显示截留分子量膜剖面，小分子穿过/大分子截留</desc>
+  <g id="body"><path d="M40 20 L88 20 L88 108 L40 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 24 L84 24 L84 104 L44 104 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 24 L84 24 L84 104 L44 104 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <circle cx="52" cy="40" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="64" cy="50" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="76" cy="44" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="56" cy="70" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="68" cy="80" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="78" cy="66" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="32" cy="50" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="36" cy="70" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="60" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="96" cy="80" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M32 50 L44 50 M36 70 L44 70 M84 60 L92 60 M84 80 L96 80" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-endolith d-endolith" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-endolith">岩内内生 / Endolith</title>
+  <desc id="d-endolith">Rock with internal pores hosting endolithic bacteria and archaea 关键词: endolith, rock, pore</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M10,20 L40,12 L70,15 L90,25 L88,70 L60,78 L25,75 L8,60 Z" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host" fill-opacity="0.6"/>
+    <circle cx="30" cy="35" r="6" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="55" cy="40" r="7" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="70" cy="55" r="5" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="40" cy="60" r="5" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <rect x="27" y="33" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(20,30,34)"/>
+    <circle cx="55" cy="38" r="2" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <circle cx="57" cy="42" r="2" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <rect x="68" y="53" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(-10,70,54)"/>
+    <circle cx="40" cy="58" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">岩内</text>
+  </g>
+</svg>

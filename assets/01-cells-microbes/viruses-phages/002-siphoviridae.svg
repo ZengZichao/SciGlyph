@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-siphoviridae d-siphoviridae" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-siphoviridae">长尾噬菌体 / Long non-contractile-tail phage (siphovirus)</title>
+  <desc id="d-siphoviridae">有尾病毒纲 Caudoviricetes 长尾形态群，长而柔韧的非收缩尾。旧称：Siphoviridae 长尾噬菌体科、Caudovirales 目名均已废止。关键词: siphovirus, lambda-like, flexible tail</desc>
+  <g id="layer-body-siphoviridae" data-name="body">
+    <polygon points="50,6 62,13 62,27 50,34 38,27 38,13" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="46" y="34" width="8" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" rx="1"/>
+    <path d="M50,37 Q47,46 50,51 Q53,56 50,61 Q47,66 50,71 Q53,76 50,80" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="3" stroke-linecap="round"/>
+    <path d="M50,37 Q47,46 50,51 Q53,56 50,61 Q47,66 50,71 Q53,76 50,80" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <polygon points="44,80 56,80 54,84 46,84" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <path d="M44,84 Q40,88 36,93" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M46,84 Q43,89 40,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M48,84 Q47,89 46,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M52,84 Q53,89 54,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M54,84 Q57,89 60,94" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <path d="M56,84 Q60,88 64,93" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-siphoviridae" data-name="annotation">
+    <text x="68" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">head</text>
+    <line x1="58.0" y1="52.9" x2="51.76" y2="52.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">tail fibers</text>
+  </g>
+</svg>

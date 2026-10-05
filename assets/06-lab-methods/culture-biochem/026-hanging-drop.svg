@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-hanging_drop d-hanging_drop" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-hanging_drop">悬滴法 / Hanging Drop</title>
+  <desc id="d-hanging_drop">悬滴法观察微生物运动: 液滴悬挂于盖玻片下, 凹玻片承载。关键词: hanging drop, motility, concave slide</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="30" width="70" height="10" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="20" y="28" width="60" height="4" rx="1" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <path d="M42,40 Q50,55 58,40" fill="#00857A" fill-opacity="0.3" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <circle cx="48" cy="45" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="53" cy="48" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="50" cy="42" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <path d="M35,30 Q35,22 42,22 L58,22 Q65,22 65,30" fill="none" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,2" data-pp="muted"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">悬滴</text>
+  </g>
+</svg>

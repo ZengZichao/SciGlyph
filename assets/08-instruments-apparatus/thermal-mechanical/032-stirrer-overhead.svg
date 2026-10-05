@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>顶置式搅拌器</title>
+  <rect x="8" y="2.5" width="8" height="5" rx="1" />
+  <circle cx="12" cy="5" r="1.5" stroke-width="1" />
+  <line x1="12" y1="7.5" x2="12" y2="14" stroke-width="1.25" />
+  <line x1="12" y1="2" x2="12" y2="2.5" stroke-width="2" />
+  <path d="M7 14 L12 16 L17 14" stroke-width="1" />
+  <path d="M7 14 V20 Q7 21 8 21 H16 Q17 21 17 20 V14" />
+  <line x1="7" y1="17" x2="17" y2="17" stroke-dasharray="2 2" stroke-width="0.75" />
+  <line x1="10.5" y1="15" x2="10.5" y2="19" stroke-width="0.75" />
+  <line x1="13.5" y1="15" x2="13.5" y2="19" stroke-width="0.75" />
+</svg>

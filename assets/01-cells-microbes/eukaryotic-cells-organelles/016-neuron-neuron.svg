@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="神经元与突触" data-name-en="Neuron Neuron" data-cat="natural-sciences" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50">神经元与突触 / neuron_neuron</title>
+  <desc id="d-50">展示神经元与突触连接。关键词: neuron,synapse,nerve cell</desc>
+  <g id="g-50-神经元与突触">
+    <circle cx="80" cy="120" r="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="80" cy="120" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M55,100 C40,85 30,80 20,75" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M55,140 C40,155 30,160 20,165" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M60,95 C50,80 45,70 40,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M110,120 L200,120" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <circle cx="240" cy="120" r="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="240" cy="120" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M265,110 L290,95" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M265,130 L290,145" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="205" cy="120" r="3" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="212" cy="118" r="2" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="218" cy="122" r="2" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

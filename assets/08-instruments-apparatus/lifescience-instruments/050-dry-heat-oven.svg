@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-dry-heat-oven" data-cat="ls" data-spec="128"
+     data-tags="dry,heat,oven,sterilization,glassware,depyrogenation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">干热灭菌箱 / Dry Heat Oven</title>
+  <desc id="d">干热灭菌箱：加热腔体、搁架、门、温度控制。</desc>
+  <g id="body">
+    <rect x="18" y="12" width="92" height="100" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="12" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="24" y="20" width="60" height="60" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="26" y="22" width="56" height="56" rx="3" fill="#F5A623" opacity="0.08" stroke="none" data-ls="warn"/>
+<line x1="26" y1="40" x2="82" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="26" y1="58" x2="82" y2="58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="32" y="28" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="44" y="28" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="28" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="68" y="28" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="32" y="46" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="44" y="46" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="46" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="68" y="46" width="8" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M28 24 Q38 22 48 24 Q58 26 68 24 Q78 22 82 24" fill="#E02020" opacity="0.3" stroke="none" stroke-width="1.5" data-ls="danger"/>
+<rect x="86" y="36" width="4" height="24" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="24" y="86" width="36" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="42" y="96" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">180°C</text>
+    <rect x="66" y="86" width="36" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="84" y="96" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">120 min</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="106" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

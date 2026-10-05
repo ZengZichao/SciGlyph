@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>弹簧安全阀</title>
+  <path d="M8 13L12 15.5L8 18"/>
+  <path d="M16 13L12 15.5L16 18"/>
+  <line x1="8" y1="13" x2="8" y2="18"/>
+  <line x1="16" y1="13" x2="16" y2="18"/>
+  <line x1="2" y1="15.5" x2="8" y2="15.5"/>
+  <line x1="16" y1="15.5" x2="22" y2="15.5"/>
+  <line x1="12" y1="13" x2="12" y2="11.5"/>
+  <rect x="9.5" y="5.5" width="5" height="6" rx="0.5"/>
+  <polyline points="10,10.5 11,9 10,7.5 11,6" stroke-width="0.75"/>
+  <polyline points="13,10.5 14,9 13,7.5 14,6" stroke-width="0.75"/>
+  <line x1="9.5" y1="5.5" x2="14.5" y2="5.5" stroke-width="2"/>
+  <path d="M20 15.5V11.5"/>
+  <path d="M20 11.5L17.5 8.5" stroke-width="1"/>
+  <line x1="18.5" y1="9.5" x2="20.5" y2="7" stroke-width="0.75"/>
+  <polyline points="19.5,8 20.5,7 20.9,8.3" stroke-width="0.75"/>
+</svg>

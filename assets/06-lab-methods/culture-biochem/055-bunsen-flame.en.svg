@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-bunsen_flame d-bunsen_flame" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-bunsen_flame">Bunsen Flame</title>
+  <desc id="d-bunsen_flame">Bunsen burner with inner and outer flame zones for sterilization 关键词: Bunsen, flame, sterilization</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="40" y="60" width="20" height="15" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1.5" data-pp="muted"/>
+    <rect x="45" y="45" width="10" height="15" rx="1" fill="#93A0AC" stroke="#1B2733" stroke-width="1.5" data-pp="muted"/>
+    <path d="M45,45 Q43,35 45,25 Q50,20 55,25 Q57,35 55,45 Z" fill="#2E86AB" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="bacteria" fill-opacity="0.4"/>
+    <path d="M47,45 Q46,38 48,32 Q50,30 52,32 Q54,38 53,45 Z" fill="#E8871E" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="mge" fill-opacity="0.6"/>
+    <line x1="60" y1="40" x2="70" y2="30" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <circle cx="72" cy="28" r="2" fill="#1B2733" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <path d="M40,20 Q42,18 44,20" fill="#C42D2D" stroke="#C42D2D" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
+    <path d="M56,20 Q58,18 60,20" fill="#C42D2D" stroke="#C42D2D" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Flame sterilization</text>
+  </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="双凹红细胞" data-name-en="Red Blood Cell" data-cat="natural-sciences" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-57">双凹红细胞 / red_blood_cell</title>
+  <desc id="d-57">展示双凹圆盘状红细胞。关键词: red blood cell,erythrocyte,biconcave</desc>
+  <g id="g-57-双凹红细胞">
+    <ellipse cx="60" cy="60" rx="40" ry="25" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="60" cy="60" rx="15" ry="10" fill="#e5e7eb" stroke="none"/>
+  </g>
+</svg>

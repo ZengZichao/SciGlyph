@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="断开连接点" data-name-en="connector-circle-off" data-cat="flowchart-logic" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-10">断开连接点 / connector_circle_off</title>
+  <desc id="d-10">断开连接标记。关键词: flowchart,connector,off</desc>
+  <g id="g-10-断开连接点">
+    <circle cx="60" cy="40" r="18" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <line x1="52" y1="32" x2="68" y2="48" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="68" y1="32" x2="52" y2="48" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="72" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">OFF</text>
+  </g>
+</svg>

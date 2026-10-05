@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-19">支持值显示: 渐变 / Support Values: gradient</title>
+<desc id="d-19">连续色带映射支持值, 色标条 关键词: support, gradient, colorbar</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="90.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="130.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="60.0" x2="150.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="130.0" x2="150.0" y2="130.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="150.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="270.0" x2="90.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="270.0" x2="150.0" y2="270.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="340.0" x2="150.0" y2="340.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="150.0" cy="60.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="130.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="200.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="270.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="340.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="90.0" cy="200.0" r="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.95" stroke="#6C3FA0" stroke-width="1"/>
+<circle cx="90.0" cy="130.0" r="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.75" stroke="#6C3FA0" stroke-width="1"/>
+<circle cx="90.0" cy="270.0" r="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.55" stroke="#6C3FA0" stroke-width="1"/>
+<circle cx="90.0" cy="95.0" r="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.35" stroke="#6C3FA0" stroke-width="1"/>
+<circle cx="90.0" cy="305.0" r="10.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.2" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="70.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.95" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="82.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.9105263157894736" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="95.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.8710526315789473" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="107.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.831578947368421" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="120.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7921052631578946" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="132.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7526315789473683" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="145.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7131578947368421" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="157.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6736842105263158" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="170.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.6342105263157894" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="182.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5947368421052631" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="195.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5552631578947368" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="207.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5157894736842105" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="220.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.4763157894736842" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="232.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.4368421052631578" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="245.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.3973684210526316" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="257.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.35789473684210527" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="270.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.31842105263157894" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="282.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.2789473684210526" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="295.0" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.23947368421052628" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="307.5" width="20.0" height="13.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.19999999999999996" stroke="#6C3FA0" stroke-width="1"/>
+<rect x="280.0" y="70.0" width="20.0" height="250.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<text x="308.0" y="78.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">100</text>
+<text x="308.0" y="195.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">60</text>
+<text x="308.0" y="318.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">20</text>
+<text x="290.0" y="60.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Support</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Opacity ~ support value</text>
+</g>
+</svg>

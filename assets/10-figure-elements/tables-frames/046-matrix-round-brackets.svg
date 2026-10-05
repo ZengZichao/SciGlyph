@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="圆括号矩阵" data-name-en="matrix-round-brackets" data-cat="tables-frames" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-46">圆括号矩阵 / matrix_round_brackets</title>
+  <desc id="d-46">圆括号包围的矩阵。关键词: 矩阵,圆括号,2x2</desc>
+  <g id="g-46-圆括号矩阵">
+    <path d="M 80 50 Q 60 120 80 190" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 240 50 Q 260 120 240 190" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="130" y="100" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">a</text>
+    <text x="190" y="100" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">b</text>
+    <text x="130" y="150" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">c</text>
+    <text x="190" y="150" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">d</text>
+  </g>
+</svg>

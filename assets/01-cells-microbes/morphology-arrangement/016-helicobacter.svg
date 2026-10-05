@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="螺杆菌" data-name-en="Helicobacter" data-cat="01-morphology" data-tags="螺杆菌,helicobacter,螺旋杆状菌,紧密螺旋,幽门螺杆菌" role="img" aria-labelledby="t-16-helicobacter d-16-helicobacter" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-16-helicobacter">螺杆菌 / Helicobacter</title>
+  <desc id="d-16-helicobacter">紧密多圈螺旋的杆菌状细胞，两端圆钝，螺旋圈数多，幽门螺杆菌为代表。关键词: 螺杆菌, helicobacter, 螺旋杆状菌, 紧密螺旋, 幽门螺杆菌</desc>
+  <g stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 34.29,60 C 37.14,48 41.71,48 44.57,60 C 47.43,72 52,72 54.86,60 C 57.71,48 62.29,48 65.14,60 C 68,72 72.57,72 75.43,60 C 78.29,48 82.86,48 85.71,60" stroke="#2E7D5B" stroke-width="8"/>
+    <path d="M 34.29,60 C 37.14,48 41.71,48 44.57,60 C 47.43,72 52,72 54.86,60 C 57.71,48 62.29,48 65.14,60 C 68,72 72.57,72 75.43,60 C 78.29,48 82.86,48 85.71,60" stroke="#DCEEE4" stroke-width="4.6"/>
+    <path d="M 34.29,60 C 37.14,56 41.71,56 44.57,60 C 47.43,64 52,64 54.86,60 C 57.71,56 62.29,56 65.14,60 C 68,64 72.57,64 75.43,60 C 78.29,56 82.86,56 85.71,60" stroke="#1F6F8B" stroke-width="1.4" stroke-dasharray="3 3"/>
+  </g>
+</svg>

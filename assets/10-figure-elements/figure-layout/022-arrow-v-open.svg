@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-22_arrow_v_open d-22_arrow_v_open" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22_arrow_v_open">开放V型端 / Open V-end</title>
+  <desc id="d-22_arrow_v_open">开放V型终端。骨架，配合标注使用。关键词: arrow, V-end, open</desc>
+  <defs><marker id="pp22__m" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,1 L8,5 L0,9" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5"/></marker></defs>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="50" x2="80" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#pp22__m)"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Open V-end</text>
+  </g>
+</svg>

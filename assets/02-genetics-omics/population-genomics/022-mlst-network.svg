@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-mlst_network d-mlst_network" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mlst_network">MLST 序列型网络 / MLST sequence type network</title>
+  <desc id="d-mlst_network">MLST序列型网络图。schematic, not to scale. 关键词: MLST, ST, network, clonal complex</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="edges">
+  <line x1="300" y1="200" x2="180" y2="120" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="300" y1="200" x2="420" y2="120" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="300" y1="200" x2="180" y2="300" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="300" y1="200" x2="420" y2="300" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="180" y1="120" x2="100" y2="200" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="420" y1="120" x2="500" y2="200" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="180" y1="300" x2="100" y2="200" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+  <line x1="420" y1="300" x2="500" y2="200" stroke="#93A0AC" stroke-width="1.5" data-pp="muted"/>
+</g>
+<g data-name="nodes">
+  <circle cx="300" cy="200" r="30" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="300" y="204" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-1</text>
+  <circle cx="180" cy="120" r="20" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="180" y="124" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-2</text>
+  <circle cx="420" cy="120" r="22" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="420" y="124" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-3</text>
+  <circle cx="180" cy="300" r="18" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="180" y="304" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-4</text>
+  <circle cx="420" cy="300" r="15" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="420" y="304" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-5</text>
+  <circle cx="100" cy="200" r="12" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="100" y="204" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-6</text>
+  <circle cx="500" cy="200" r="14" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria"/>
+  <text x="500" y="204" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ST-7</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">MLST Sequence Type Network (schematic)</text>
+<text x="300" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Node size ~ number of isolates; edges ~ single locus variant</text>
+</svg>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-founder_effect d-founder_effect" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-founder_effect">Founder Effect</title>
+<desc id="d-founder_effect">少数个体迁移建立新种群,等位基因频率偏移 关键词: founder, effect, migration, allele, bottleneck</desc>
+<defs>
+<marker id="pp22__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Founder Effect</text>
+<text x="80" y="50" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">source population</text>
+<rect x="20" y="55" width="140" height="130" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="5"/>
+<circle cx="35" cy="70" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="70" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="70" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="70" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="70" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="70" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="35" cy="90" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="90" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="90" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="90" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="90" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="90" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="35" cy="110" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="110" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="110" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="110" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="110" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="110" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="35" cy="130" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="130" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="130" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="130" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="130" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="130" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="35" cy="150" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="150" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="150" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="150" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="150" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="150" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="35" cy="170" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="57" cy="170" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="79" cy="170" r="7" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="101" cy="170" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="123" cy="170" r="7" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="145" cy="170" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
+<line x1="170" y1="120" x2="240" y2="120" stroke="#E8871E" data-pp="mge" stroke-width="2" marker-end="url(#pp22__ar)"/>
+<text x="190" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">Migration</text>
+<text x="310" y="50" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Founders</text>
+<rect x="250" y="55" width="120" height="130" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="5"/>
+<circle cx="280" cy="85" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<circle cx="320" cy="85" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<circle cx="280" cy="135" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<circle cx="320" cy="135" r="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<line x1="380" y1="120" x2="420" y2="120" stroke="#E8871E" data-pp="mge" stroke-width="2" marker-end="url(#pp22__ar)"/>
+<text x="500" y="50" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">new population</text>
+<rect x="430" y="55" width="140" height="130" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="5"/>
+<circle cx="445" cy="70" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="471" cy="70" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="497" cy="70" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="523" cy="70" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="549" cy="70" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="445" cy="98" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="471" cy="98" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="497" cy="98" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="523" cy="98" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="549" cy="98" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="445" cy="126" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="471" cy="126" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="497" cy="126" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="523" cy="126" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="549" cy="126" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="445" cy="154" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="471" cy="154" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="497" cy="154" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="523" cy="154" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="549" cy="154" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="60" y="210" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Allele frequency contrast</text>
+<text x="80" y="235" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">source population</text>
+<rect x="80" y="250" width="25" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="92" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">A</text>
+<rect x="115" y="250" width="25" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="127" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">B</text>
+<rect x="150" y="250" width="25" height="16" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="162" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C</text>
+<rect x="185" y="250" width="25" height="16" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="197" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">D</text>
+<text x="300" y="235" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">new population</text>
+<rect x="300" y="250" width="80" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="340" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">A (dominant)</text>
+<rect x="390" y="250" width="25" height="16" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="402" y="280" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">B</text>
+<rect x="60" y="300" width="480" height="70" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">Lost alleles</text>
+<text x="300" y="340" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C, D present in source but absent in founders</text>
+<text x="300" y="358" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Amish · Finland · Pacific islands</text>
+</g>
+</svg>

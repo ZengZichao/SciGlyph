@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="高尔基体" data-name-en="Golgi Apparatus" data-cat="natural-sciences" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15">高尔基体 / golgi_apparatus</title>
+  <desc id="d-15">展示高尔基体囊泡结构。关键词: golgi,vesicle,secretion</desc>
+  <g id="g-15-高尔基体">
+    <path d="M30,25 C50,20 110,20 130,25" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-1"/>
+    <path d="M25,40 C50,35 110,35 135,40" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-1"/>
+    <path d="M20,55 C50,50 110,50 140,55" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-1"/>
+    <path d="M25,70 C50,65 110,65 135,70" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-1"/>
+    <path d="M30,85 C50,80 110,80 130,85" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-1"/>
+    <circle cx="140" cy="30" r="6" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="145" cy="50" r="5" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="142" cy="68" r="4" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="18" cy="40" r="5" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="15" cy="60" r="6" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+  </g>
+</svg>

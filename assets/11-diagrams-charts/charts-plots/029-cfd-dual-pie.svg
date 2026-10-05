@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="漏斗双饼图" data-name-en="CFD Dual Pie" data-cat="charts-plots" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29">漏斗双饼图 / cfd_dual_pie</title>
+  <desc id="d-29">漏斗式双饼对比。关键词: pie,dual,funnel</desc>
+  <g id="g-29-漏斗双饼图">
+    <path d="M130,160 L130.0,90.0 A70,70 0 0 1 130.0,230.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M130,160 L130.0,230.0 A70,70 0 0 1 69.4,125.0 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M130,160 L69.4,125.0 A70,70 0 0 1 130.0,90.0 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <path d="M290,160 L290.0,110.0 A50,50 0 0 1 333.3,185.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M290,160 L333.3,185.0 A50,50 0 0 1 246.7,185.0 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M290,160 L246.7,185.0 A50,50 0 0 1 290.0,110.0 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="175" y1="120" x2="255" y2="135" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line x1="175" y1="200" x2="255" y2="185" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+  </g>
+</svg>

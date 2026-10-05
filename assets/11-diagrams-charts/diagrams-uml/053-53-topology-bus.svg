@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="总线拓扑" data-name-en="Topology Bus" data-cat="diagrams-sw-uml" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-53">总线拓扑 / topology_bus</title>
+  <desc id="d-53">总线型网络拓扑。关键词: bus,topology,network</desc>
+  <g id="g-53-总线拓扑">
+    <line fill="none" x1="30" y1="120" x2="290" y2="120" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="60" cy="120" r="4" fill="#1f2937"/>
+    <line fill="none" x1="60" y1="116" x2="60" y2="80" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="45" y="55" width="30" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="130" cy="120" r="4" fill="#1f2937"/>
+    <line fill="none" x1="130" y1="116" x2="130" y2="80" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="115" y="55" width="30" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="200" cy="120" r="4" fill="#1f2937"/>
+    <line fill="none" x1="200" y1="116" x2="200" y2="80" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="185" y="55" width="30" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="270" cy="120" r="4" fill="#1f2937"/>
+    <line fill="none" x1="270" y1="116" x2="270" y2="80" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="255" y="55" width="30" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

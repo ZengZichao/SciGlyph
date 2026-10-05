@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-snowflake-cold" data-cat="ic" data-spec="24"
+     data-tags="icon,snowflake,cold,freeze,temperature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">雪花冷图标 / Icon Snowflake Cold</title>
+  <desc id="d">雪花冷微型图标。</desc>
+  <g id="body">
+    <line x1="12" y1="4" x2="12" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="4" y1="12" x2="20" y2="12" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="6" y1="6" x2="18" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="18" y1="6" x2="6" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="10" y1="6" x2="12" y2="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="14" y1="6" x2="12" y2="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="10" y1="18" x2="12" y2="16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="14" y1="18" x2="12" y2="16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+  </g>
+</svg>

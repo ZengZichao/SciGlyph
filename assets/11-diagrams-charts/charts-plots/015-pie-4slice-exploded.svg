@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="分离饼图" data-name-en="Pie 4 Slice Exploded" data-cat="charts-plots" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15">分离饼图 / pie_4slice_exploded</title>
+  <desc id="d-15">四瓣分离饼图。关键词: pie,exploded,four</desc>
+  <g id="g-15-分离饼图">
+    <path d="M122.1,117.9 L122.1,37.9 A80,80 0 0 1 202.1,117.9 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="153" y="90" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">A</text>
+    <path d="M122.1,122.1 L202.1,122.1 A80,80 0 0 1 122.1,202.1 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="153" y="156" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">B</text>
+    <path d="M117.9,122.1 L117.9,202.1 A80,80 0 0 1 37.9,122.1 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="87" y="156" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">C</text>
+    <path d="M117.9,117.9 L37.9,117.9 A80,80 0 0 1 117.9,37.9 Z" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="87" y="90" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">D</text>
+  </g>
+</svg>

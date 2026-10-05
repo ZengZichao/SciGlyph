@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="打勾清单表" data-name-en="checklist-ticks" data-cat="tables-frames" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-20">打勾清单表 / checklist_ticks</title>
+  <desc id="d-20">带勾选标记的清单表。关键词: 清单,勾选,检查表</desc>
+  <g id="g-20-打勾清单表">
+    <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <text x="70" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">OK</text>
+    <text x="180" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Item</text>
+    <line x1="62" y1="78" x2="68" y2="84" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <line x1="68" y1="84" x2="78" y2="74" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <text x="180" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">A</text>
+    <line x1="62" y1="103" x2="68" y2="109" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <line x1="68" y1="109" x2="78" y2="99" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <text x="180" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">B</text>
+    <text x="70" y="130" font-size="11" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+    <text x="180" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">C</text>
+    <line x1="62" y1="153" x2="68" y2="159" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <line x1="68" y1="159" x2="78" y2="149" stroke="#009E73" stroke-width="1.5" fill="none" data-drole="series-1"/>
+    <text x="180" y="155" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">D</text>
+    <text x="70" y="180" font-size="11" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+    <text x="180" y="180" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">E</text>
+    <line x1="40" y1="210" x2="280" y2="210" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

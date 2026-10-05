@@ -1,0 +1,53 @@
+{
+ "category": "02-genetics-omics",
+ "name_zh": "遗传信息与组学",
+ "name_en": "Genetics & Omics",
+ "count": 233,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "genes-mge",
+   "name_zh": "基因与移动遗传元件",
+   "name_en": "Genes & MGE",
+   "count": 60
+  },
+  {
+   "id": "sequence-graphics",
+   "name_zh": "序列图形",
+   "name_en": "Sequence Graphics",
+   "count": 54
+  },
+  {
+   "id": "population-genomics",
+   "name_zh": "群体基因组",
+   "name_en": "Population Genomics",
+   "count": 30
+  },
+  {
+   "id": "comparative-pan",
+   "name_zh": "比较基因组与泛基因组",
+   "name_en": "Comparative & Pan-genomics",
+   "count": 30
+  },
+  {
+   "id": "molecular-ecology",
+   "name_zh": "分子生态",
+   "name_en": "Molecular Ecology",
+   "count": 28
+  },
+  {
+   "id": "mol-structures",
+   "name_zh": "分子结构",
+   "name_en": "Molecular Structures",
+   "count": 27
+  },
+  {
+   "id": "omics-charts",
+   "name_zh": "组学数据图",
+   "name_en": "Omics Charts",
+   "count": 4
+  }
+ ]
+}

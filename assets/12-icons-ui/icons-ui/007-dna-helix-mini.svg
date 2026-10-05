@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="DNA双螺旋" data-name-en="dna_helix_mini" data-cat="basic-icons-ui" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-07">DNA双螺旋 / dna_helix_mini</title>
+  <desc id="d-07">生命科学DNA图标。关键词: DNA,双螺旋,基因,生物</desc>
+  <g id="g-07-DNA双螺旋">
+    <path d="M14 6 Q34 14 14 24 Q34 34 14 42" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34 6 Q14 14 34 24 Q14 34 34 42" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="17" y1="10" x2="31" y2="10" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="15" y1="18" x2="33" y2="18" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="17" y1="30" x2="33" y2="30" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="15" y1="38" x2="31" y2="38" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

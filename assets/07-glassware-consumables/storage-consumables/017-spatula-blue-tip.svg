@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-spatula-blue-tip" data-cat="cs" data-spec="128"
+     data-tags="spatula,blue tip,plastic,solid,reagent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">蓝色尖头药匙 / Blue Tip Spatula</title>
+  <desc id="d">蓝色塑料尖头药匙，用于取用固体试剂。</desc>
+  <g id="body"><path d="M60 10 L60 70 L54 78 L54 118 L74 118 L74 78 L68 70 L68 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M56 80 L56 116 L72 116 L72 80 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/><path d="M58 10 L58 72 L54 78 L54 80 L60 72 L60 10 Z" fill="#FFFFFF" opacity="0.5" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

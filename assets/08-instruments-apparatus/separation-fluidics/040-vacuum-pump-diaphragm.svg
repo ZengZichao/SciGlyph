@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>隔膜真空泵</title>
+  <rect x="3" y="9" width="10" height="10" rx="1"/>
+  <circle cx="8" cy="14" r="3"/>
+  <rect x="13" y="10" width="8" height="8" rx="1"/>
+  <line x1="15" y1="12" x2="19" y2="12" stroke-width="0.75"/>
+  <line x1="15" y1="14" x2="19" y2="14" stroke-width="0.75"/>
+  <line x1="15" y1="16" x2="19" y2="16" stroke-width="0.75"/>
+  <path d="M21 11h1.5v2H21" stroke-width="1"/>
+  <path d="M21 15h1.5" stroke-width="1"/>
+  <circle cx="22.5" cy="12" r="0.5" fill="currentColor" stroke="none"/>
+  <line x1="3" y1="19" x2="13" y2="19" stroke-width="0.75"/>
+  <rect x="5" y="20" width="2" height="1.5" rx="0.5"/>
+  <line x1="8" y1="9" x2="8" y2="7"/>
+  <circle cx="8" cy="6" r="1"/>
+</svg>

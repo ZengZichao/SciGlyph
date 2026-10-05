@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-stir-bar-in-beaker" data-cat="hc" data-spec="128"
+     data-tags="stir-bar,beaker,vortex,mixing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">烧杯内搅拌子 / Stir Bar in Beaker</title>
+  <desc id="d">烧杯内搅拌子+涡流箭头</desc>
+  <g id="body"><path d="M30 34 L30 100 Q30 108 38 108 L90 108 Q98 108 98 100 L98 30 L88 22 L30 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 56 L96 56 L96 100 Q96 106 90 106 L38 106 Q32 106 32 100 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M54 96 L74 96 L74 100 L54 100 Z" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M42 70 Q54 62 64 70 Q74 78 86 70" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M42 78 Q54 70 64 78 Q74 86 86 78" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M86 70 L90 68 L88 74 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/></g>
+</svg>

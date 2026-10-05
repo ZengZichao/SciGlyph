@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-pouring-down-side-beaker" data-cat="pp" data-spec="128"
+     data-tags="pouring,beaker,glass rod,side wall,decanting" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">沿杯壁倾倒引流 / Pouring Down Side Beaker</title>
+  <desc id="d">沿杯壁倾倒液体，使用玻棒引流。</desc>
+  
+  <g id="figure"><circle cx="36" cy="18" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M26 28 L24 70 L18 116 L30 116 L36 80 L42 116 L54 116 L48 70 L46 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M46 34 L60 38 L68 48 L64 50 L58 42 L46 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M64 44 L70 44 L70 54 L64 54 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M66 34 L86 34 L84 58 L68 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M69 46 L83 46 L82 56 L70 56 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M76 60 L100 60 L98 100 L78 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M79 76 L97 76 L96 98 L80 98 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M74 38 L82 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

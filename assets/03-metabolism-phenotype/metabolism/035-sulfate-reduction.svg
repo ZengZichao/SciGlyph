@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-35_sulfate_reduction d-35_sulfate_reduction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-35_sulfate_reduction">硫酸盐还原 / Sulfate Reduction</title>
+  <desc id="d-35_sulfate_reduction">Desulfovibrio硫酸盐还原。APS途径: SO₄²⁻→APS→SO₃²⁻→H₂S。Dissimilatory亚硫酸盐还原酶DsrAB。关键词: sulfate reduction, Desulfovibrio, APS, DsrAB</desc>
+  <defs>
+    <marker id="pp35__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="10" cy="45" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="11.35" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SO₄²⁻</text>
+        <circle cx="32" cy="45" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="32" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">APS</text>
+        <circle cx="52" cy="45" r="7" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="52" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SO₃²⁻</text>
+        <circle cx="75" cy="45" r="8" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1"/>
+    <text x="75" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">H₂S</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="18" y1="45" x2="25" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp35__ar)"/>
+        <line x1="39" y1="45" x2="45" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp35__ar)"/>
+        <line x1="59" y1="45" x2="67" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp35__ar)"/>
+    <text x="21" y="35" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sat</text>
+    <text x="42" y="35" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Apr</text>
+    <text x="63" y="35" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Dsr</text>
+    <text x="50" y="75" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Desulfovibrio</text>
+  </g>
+</svg>

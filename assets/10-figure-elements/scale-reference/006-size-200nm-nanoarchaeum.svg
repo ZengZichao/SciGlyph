@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_200nm_nanoarchaeum d-size_200nm_nanoarchaeum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_200nm_nanoarchaeum">0.2µm超小细胞 / 0.2µm ultra-small cell</title>
+  <desc id="d-size_200nm_nanoarchaeum">尺度图标：超小细胞(ultra-small cell, DPANN类超小古菌/超小细菌)直径约0.2 µm，接近细胞生命的尺寸下限；注意 Nanoarchaeum equitans 实测约 0.4 µm，本图取的是 DPANN 超小细胞的 0.2 µm 量级。 Scale bar=200 nm。假设放大倍率: ×5×10^4 (1cm = 200nm)。关键词: size scale, 200 nm, ultra-small cell, scale bar</desc>
+  <g id="layer-body-size_200nm_nanoarchaeum" data-name="body">
+    
+    <circle cx="40" cy="40" r="15" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" />
+    
+    <circle cx="40" cy="40" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.5" />
+    <text x="40" y="61.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~200nm</text>
+    <text x="40" y="69.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">ultra-small</text>
+    
+    <line x1="15" y1="82" x2="45" y2="82" stroke="#1B2733" stroke-width="1.5" />
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1" />
+    <line x1="45" y1="79" x2="45" y2="85" stroke="#1B2733" stroke-width="1" />
+    <text x="30" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">200 nm</text>
+      <circle cx="60" cy="35" r="8" fill="#A2305B" data-pp="archaea" fill-opacity="0.2" stroke="#A2305B" stroke-width="0.8" />
+    <line x1="52" y1="38" x2="55" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="0.8" />
+    <circle cx="35" cy="30" r="1.5" fill="#A2305B" data-pp="archaea" />
+
+  </g>
+  <g id="layer-annotation-size_200nm_nanoarchaeum" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">200 nm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-sterile-filter-unit" data-cat="cs" data-spec="128"
+     data-tags="sterile,filter unit,disposable,syringe,membrane" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">一次性滤器 / Sterile Filter Unit (Disposable)</title>
+  <desc id="d">一次性针头式无菌过滤器。</desc>
+  <g id="body"><path d="M28 38 L28 90 Q28 98 36 98 L92 98 Q100 98 100 90 L100 38 Q100 30 92 30 L36 30 Q28 30 28 38 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M100 56 L116 56 L116 50 L100 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M12 56 L28 56 L28 50 L12 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="34" y="52" width="60" height="24" rx="4" fill="#7FC26B" opacity="0.5" stroke="none" data-ls="liquid-2"/><path d="M38 56 L90 56 M38 64 L90 64 M38 72 L90 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M10 53 L16 48 L16 58 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/><path d="M118 53 L112 48 L112 58 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g>
+  
+</svg>

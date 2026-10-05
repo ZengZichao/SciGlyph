@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="球杆菌" data-name-en="Coccobacillus" data-cat="01-morphology" data-tags="球杆菌,coccobacillus,短粗,卵圆形,过渡型" role="img" aria-labelledby="t-08-coccobacillus d-08-coccobacillus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08-coccobacillus">球杆菌 / Coccobacillus</title>
+  <desc id="d-08-coccobacillus">介于球菌与杆菌之间的短粗卵圆形细胞，长宽比约 1–1.5，如嗜血杆菌属。关键词: 球杆菌, coccobacillus, 短粗, 卵圆形, 过渡型</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2">
+      <ellipse cx="30" cy="60" rx="11" ry="17"/>
+      <ellipse cx="60" cy="60" rx="11" ry="17"/>
+      <ellipse cx="90" cy="60" rx="11" ry="17"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4">
+      <ellipse cx="30" cy="60" rx="4.2" ry="5.4"/>
+      <ellipse cx="60" cy="60" rx="4.2" ry="5.4"/>
+      <ellipse cx="90" cy="60" rx="4.2" ry="5.4"/>
+    </g>
+  </g>
+</svg>

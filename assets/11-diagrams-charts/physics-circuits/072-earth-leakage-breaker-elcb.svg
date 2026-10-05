@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-earth-leakage-breaker-elcb" data-cat="el" data-spec="128"
+     data-tags="elcb,rccb,residual,leakage,breaker,漏电,断路器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">漏电断路器ELCB / Earth Leakage Circuit Breaker</title>
+  <desc id="d">漏电断路器+T测试键。</desc>
+  <g id="body"><rect x="30" y="20" width="68" height="88" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="10" y1="44" x2="30" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="98" y1="44" x2="118" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="10" y1="84" x2="30" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="98" y1="84" x2="118" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="52" cy="54" r="10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="76" cy="54" r="10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M52 44 L52 36 M76 44 L76 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="44" y="72" width="40" height="16" rx="3" fill="#2B7DE9" stroke="#1F2933" stroke-width="1.5" data-ls="accent" data-ls-stroke="stroke"/>
+    <text x="64" y="84" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="fill">T</text></g>
+  <g id="detail"></g>
+</svg>

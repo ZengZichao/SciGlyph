@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-41">系统发育信号表 / Phylogenetic Signal Table</title>
+<desc id="d-41">迷你树右侧性状系统发育信号表含Blomberg K与λ列名, 行色块强弱 关键词: phylogenetic signal, Blomberg K, lambda, trait</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="30.0" y1="200.0" x2="70.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="200.0" x2="70.0" y2="130.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="60.0" x2="120.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="120.0" y1="60.0" x2="160.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="70.0" y1="130.0" x2="160.0" y2="130.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="70.0" y1="200.0" x2="70.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="200.0" x2="160.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="70.0" y1="270.0" x2="70.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="270.0" x2="160.0" y2="270.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="70.0" y1="340.0" x2="160.0" y2="340.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="160.0" cy="60.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="160.0" cy="130.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="160.0" cy="200.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="160.0" cy="270.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="160.0" cy="340.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<rect x="168.0" y="55.0" width="27.0" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="168.0" y="125.0" width="25.5" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="168.0" y="195.0" width="9.0" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="168.0" y="265.0" width="7.5" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="168.0" y="335.0" width="6.0" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
+<rect x="190.0" y="55.0" width="190.0" height="25.0" fill="#1B2733" data-pp="ink" fill-opacity="0.1" stroke="#1B2733" stroke-width="1"/>
+<text x="200.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Trait</text>
+<text x="275.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">K</text>
+<text x="325.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">λ</text>
+<text x="365.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Signal</text>
+<rect x="190.0" y="85.0" width="190.0" height="28.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.06" stroke="#93A0AC" stroke-width="1"/>
+<text x="200.0" y="103.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">GC%</text>
+<text x="275.0" y="103.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1.2</text>
+<text x="325.0" y="103.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.95</text>
+<rect x="352.0" y="91.0" width="20.0" height="14.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="0.5"/>
+<text x="200.0" y="133.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Size</text>
+<text x="275.0" y="133.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.8</text>
+<text x="325.0" y="133.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.72</text>
+<rect x="352.0" y="121.0" width="20.0" height="14.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="0.5"/>
+<rect x="190.0" y="145.0" width="190.0" height="28.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.06" stroke="#93A0AC" stroke-width="1"/>
+<text x="200.0" y="163.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Motility</text>
+<text x="275.0" y="163.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.3</text>
+<text x="325.0" y="163.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.25</text>
+<rect x="352.0" y="151.0" width="20.0" height="14.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.6" stroke="#93A0AC" stroke-width="0.5"/>
+<text x="200.0" y="193.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Habitat</text>
+<text x="275.0" y="193.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1.5</text>
+<text x="325.0" y="193.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.98</text>
+<rect x="352.0" y="181.0" width="20.0" height="14.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="0.5"/>
+<rect x="190.0" y="205.0" width="190.0" height="28.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.06" stroke="#93A0AC" stroke-width="1"/>
+<text x="200.0" y="223.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pathogen</text>
+<text x="275.0" y="223.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.1</text>
+<text x="325.0" y="223.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.08</text>
+<rect x="352.0" y="211.0" width="20.0" height="14.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.6" stroke="#93A0AC" stroke-width="0.5"/>
+<text x="200.0" y="253.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Gram</text>
+<text x="275.0" y="253.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1.1</text>
+<text x="325.0" y="253.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.88</text>
+<rect x="352.0" y="241.0" width="20.0" height="14.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="0.5"/>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">K&gt;1: strong signal</text>
+</g>
+</svg>

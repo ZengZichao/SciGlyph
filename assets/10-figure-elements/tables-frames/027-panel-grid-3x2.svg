@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="六格面板" data-name-en="panel-grid-3x2" data-cat="tables-frames" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27">六格面板 / panel_grid_3x2</title>
+  <desc id="d-27">3x2六格面板。关键词: 3x2面板,六格图,子图网格</desc>
+  <g id="g-27-六格面板">
+    <rect x="20" y="20" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="30" y="38" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(a)</text>
+    <rect x="170" y="20" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="180" y="38" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(b)</text>
+    <rect x="320" y="20" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="330" y="38" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(c)</text>
+    <rect x="20" y="180" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="30" y="198" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(d)</text>
+    <rect x="170" y="180" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="180" y="198" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(e)</text>
+    <rect x="320" y="180" width="135" height="140" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="330" y="198" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(f)</text>
+  </g>
+</svg>

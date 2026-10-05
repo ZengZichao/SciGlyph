@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-balance-calibration-weight" data-cat="mt" data-spec="128"
+     data-tags="weight,calibration,mass,砝码,校准" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">砝码组与镊子 / Calibration Weights</title>
+  <desc id="d">砝码组+镊子：标准校准砝码。</desc>
+  <g id="body"><rect x="20" y="60" width="24" height="40" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="24" y="52" width="16" height="10" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="50" y="68" width="20" height="32" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="53" y="62" width="14" height="8" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="76" y="76" width="16" height="24" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="78" y="70" width="12" height="8" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M96 30 L104 16 L108 18 L100 32" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2" data-ls="accent"/>
+    <path d="M96 30 L92 40 M100 32 L104 42" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="1.5" data-ls="accent"/>
+    <text x="32" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">200g</text>
+    <text x="60" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">100g</text>
+    <text x="84" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">50g</text></g>
+  <g id="detail"></g>
+</svg>

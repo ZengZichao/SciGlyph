@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-staphylococcus d-staphylococcus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-staphylococcus">葡萄球菌 / Staphylococcus</title>
+  <desc id="d-staphylococcus">球菌不规则聚集如葡萄串。关键词: staphylococcus, grape-like cluster</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <circle cx="50" cy="40" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="35" cy="52" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="65" cy="52" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="42" cy="65" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="58" cy="65" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="50" cy="55" r="10" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="30" cy="38" r="9" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="70" cy="38" r="9" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="78" y1="35" x2="88" y2="20" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="65" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cluster</text>
+  </g>
+</svg>

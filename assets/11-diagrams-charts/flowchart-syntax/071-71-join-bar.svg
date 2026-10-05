@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="同步汇合" data-name-en="join-bar" data-cat="flowchart-logic" aria-labelledby="t-71 d-71" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-71">同步汇合 / join_bar</title>
+  <desc id="d-71">UML活动图汇合条。关键词: join,bar,uml</desc>
+  <g id="g-71-同步汇合">
+    <rect x="60" y="10" width="8" height="60" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="10" y1="20" x2="60" y2="20" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="10" y1="40" x2="60" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="10" y1="60" x2="60" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="68" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="106,36 114,40 106,44" fill="#1f2937"/>
+  </g>
+</svg>

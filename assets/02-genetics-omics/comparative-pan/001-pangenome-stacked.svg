@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-pangenome_stacked d-pangenome_stacked" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-pangenome_stacked">泛基因组堆叠条 / Pangenome core/dispensable/private</title>
+  <desc id="d-pangenome_stacked">开放泛基因组堆叠条形图：基因家族总数随基因组数单调上升（Core 收缩、Dispensable 与 Private 增长）。schematic, not to scale. 关键词: pangenome, open pangenome, core, dispensable, private</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="390" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Number of genomes</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene families</text>
+
+</g>
+<g data-name="pangenome-bars">
+  <rect x="125" y="188" width="35" height="152" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="125" y="179" width="35" height="9" fill="#E8871E" data-pp="mge"/>
+  <text x="142" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">1</text>
+  <rect x="170" y="201" width="35" height="139" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="169" width="35" height="32" fill="#E8871E" data-pp="mge"/>
+  <rect x="170" y="159" width="35" height="10" fill="#C42D2D" data-pp="alert"/>
+  <text x="187" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">2</text>
+  <rect x="215" y="209" width="35" height="131" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="215" y="161" width="35" height="48" fill="#E8871E" data-pp="mge"/>
+  <rect x="215" y="142" width="35" height="19" fill="#C42D2D" data-pp="alert"/>
+  <text x="232" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">3</text>
+  <rect x="260" y="216" width="35" height="124" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="260" y="153" width="35" height="63" fill="#E8871E" data-pp="mge"/>
+  <rect x="260" y="126" width="35" height="27" fill="#C42D2D" data-pp="alert"/>
+  <text x="277" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">4</text>
+  <rect x="305" y="220" width="35" height="120" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="305" y="146" width="35" height="74" fill="#E8871E" data-pp="mge"/>
+  <rect x="305" y="112" width="35" height="34" fill="#C42D2D" data-pp="alert"/>
+  <text x="322" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">5</text>
+  <rect x="350" y="223" width="35" height="117" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="350" y="139" width="35" height="84" fill="#E8871E" data-pp="mge"/>
+  <rect x="350" y="99" width="35" height="40" fill="#C42D2D" data-pp="alert"/>
+  <text x="367" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">6</text>
+  <rect x="395" y="226" width="35" height="114" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="395" y="132" width="35" height="94" fill="#E8871E" data-pp="mge"/>
+  <rect x="395" y="87" width="35" height="45" fill="#C42D2D" data-pp="alert"/>
+  <text x="412" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">7</text>
+  <rect x="440" y="228" width="35" height="112" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="440" y="126" width="35" height="102" fill="#E8871E" data-pp="mge"/>
+  <rect x="440" y="76" width="35" height="50" fill="#C42D2D" data-pp="alert"/>
+  <text x="457" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">8</text>
+  <rect x="485" y="229" width="35" height="111" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="120" width="35" height="109" fill="#E8871E" data-pp="mge"/>
+  <rect x="485" y="65" width="35" height="55" fill="#C42D2D" data-pp="alert"/>
+  <text x="502" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">9</text>
+  <rect x="530" y="230" width="35" height="110" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="530" y="115" width="35" height="115" fill="#E8871E" data-pp="mge"/>
+  <rect x="530" y="56" width="35" height="59" fill="#C42D2D" data-pp="alert"/>
+  <text x="547" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">10</text>
+</g>
+<g data-name="legend">
+  <rect x="420" y="70" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="445" y="80" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Core</text>
+  <rect x="420" y="90" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+  <text x="445" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Dispensable</text>
+  <rect x="420" y="110" width="12" height="12" fill="#C42D2D" data-pp="alert"/>
+  <text x="445" y="120" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Private</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pangenome — Core, Dispensable, Private Genes (schematic)</text>
+</svg>

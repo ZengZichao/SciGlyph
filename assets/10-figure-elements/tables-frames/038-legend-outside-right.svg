@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="图例置右" data-name-en="legend-outside-right" data-cat="tables-frames" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-38">图例置右 / legend_outside_right</title>
+  <desc id="d-38">图例放置在右侧。关键词: 图例,右侧,外部图例</desc>
+  <g id="g-38-图例置右">
+    <rect x="20" y="30" width="200" height="180" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="235" y="60" width="70" height="100" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="242" y="75" width="10" height="10" fill="#0072B2" data-drole="series-1"/>
+    <text x="258" y="84" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">A</text>
+    <rect x="242" y="95" width="10" height="10" fill="#009E73" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="258" y="104" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">B</text>
+    <rect x="242" y="115" width="10" height="10" fill="#D55E00" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="258" y="124" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">C</text>
+  </g>
+</svg>

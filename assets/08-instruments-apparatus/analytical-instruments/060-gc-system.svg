@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-gc-system" data-cat="an" data-spec="128"
+     data-tags="gc,gas,chromatography,system,injector,detector,column" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">气相色谱系统 / GC System</title>
+  <desc id="d">气相色谱完整系统：载气→进样口→色谱柱→检测器→数据系统。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="14" y="30" width="12" height="24" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="16" y="28" width="8" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="20" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Gas</text>
+    <rect x="32" y="32" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="40.0" y="43.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Inj</text>
+<rect x="54" y="28" width="32" height="30" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="30" width="28" height="26" rx="3" fill="#F5A623" opacity="0.1" stroke="none" data-ls="warn"/>
+<path d="M60 38 Q70 34 80 38 Q70 42 60 46 Q70 50 80 46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="70" y="64" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Column</text>
+    <rect x="92" y="32" width="16" height="16" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="100.0" y="43.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">FID</text>
+<path d="M26 42 L32 42" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M48 40 L54 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M86 40 L92 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="27,39 39,42 27,45" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="49,37 61,40 49,43" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="87,37 99,40 87,43" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="14" y="68" width="44" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M18 84 L24 82 L28 78 L32 84 L36 76 L40 82 L44 78 L48 80 L52 84" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <text x="36" y="66" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">GC</text>
+<path d="M100 48 L100 78 L58 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="68" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="78" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="100" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

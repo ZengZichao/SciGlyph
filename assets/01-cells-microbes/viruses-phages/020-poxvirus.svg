@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-poxvirus d-poxvirus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-poxvirus">痘病毒(砖形) / Poxvirus brick-shaped complex</title>
+  <desc id="d-poxvirus">痘病毒(Poxviridae科)。砖形/卵形复杂结构，~200-350nm。含表面管状元素、侧体、哑铃形核心(含dsDNA)。最大的动物DNA病毒之一，胞质复制。关键词: poxvirus, brick-shaped, complex, vaccinia, dsDNA</desc>
+  <g id="layer-body-poxvirus" data-name="body">
+    <!-- Brick shape -->
+    <rect x="20" y="30" width="60" height="40" rx="8" ry="8" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Surface tubular elements -->
+    <path d="M25,35 Q30,32 35,35 Q40,38 45,35 Q50,32 55,35 Q60,38 65,35 Q70,32 75,35" fill="none" stroke="#1B2733" stroke-width="0.8" stroke-opacity="0.5"/>
+    <path d="M25,45 Q30,42 35,45 Q40,48 45,45 Q50,42 55,45 Q60,48 65,45 Q70,42 75,45" fill="none" stroke="#1B2733" stroke-width="0.8" stroke-opacity="0.5"/>
+    <path d="M25,55 Q30,52 35,55 Q40,58 45,55 Q50,52 55,55 Q60,58 65,55 Q70,52 75,55" fill="none" stroke="#1B2733" stroke-width="0.8" stroke-opacity="0.5"/>
+    <path d="M25,65 Q30,62 35,65 Q40,68 45,65 Q50,62 55,65 Q60,68 65,65 Q70,62 75,65" fill="none" stroke="#1B2733" stroke-width="0.8" stroke-opacity="0.5"/>
+    <!-- Core (dumbbell shape) -->
+    <ellipse cx="40" cy="50" rx="8" ry="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <ellipse cx="60" cy="50" rx="8" ry="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <rect x="40" y="46" width="20" height="8" fill="#6C3FA0" data-pp="gene" stroke="none"/>
+  </g>
+  <g id="layer-annotation-poxvirus" data-name="annotation">
+    <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">brick-shaped</text>
+    <text x="50" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">complex virion</text>
+  </g>
+</svg>

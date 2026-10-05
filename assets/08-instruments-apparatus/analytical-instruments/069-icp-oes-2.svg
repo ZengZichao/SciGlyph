@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-icp-oes" data-cat="an" data-spec="128"
+     data-tags="icp,oes,plasma,emission,spectrometer,argone" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电感耦合等离子体发射光谱仪 / ICP-OES</title>
+  <desc id="d">ICP-OES：蠕动泵→雾化器→ICP炬管→光栅→检测器。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<circle cx="22" cy="44" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="22" cy="44" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="22" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Pump</text>
+<rect x="36" y="38" width="10" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="41" y="56" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Neb</text>
+<rect x="52" y="32" width="14" height="24" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M59 32 Q55 24 59 20 Q63 24 59 32" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+<path d="M59 30 Q57 26 59 23 Q61 26 59 30" fill="#F5A623" opacity="0.5" stroke="none" data-ls="warn"/>
+<path d="M50 36 Q48 40 50 44 Q48 48 50 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M68 36 Q70 40 68 44 Q70 48 68 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="61.0" y="62.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">ICP</text>
+    <polygon points="66,41 78,44 66,47" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="74" y="36" width="8" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M76 38 L76 50 M78 38 L78 50 M80 38 L80 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="88" y="34" width="14" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="95" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">CCD</text>
+    <polygon points="82,41 94,44 82,47" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="14" y="70" width="48" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M18 84 L24 82 L28 76 L30 84 L34 84 L40 84 L44 78 L46 84 L52 84 L56 80" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <text x="38" y="68" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">ICP-OES</text>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

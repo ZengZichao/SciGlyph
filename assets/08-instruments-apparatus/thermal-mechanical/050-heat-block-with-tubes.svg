@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-heat-block-with-tubes" data-cat="hc" data-spec="128"
+     data-tags="heat-block,tubes,incubator,dry-bath" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">加热块（插管） / Heat Block with Tubes</title>
+  <desc id="d">加热块插0.2/1.5/15mL管</desc>
+  <g id="body"><path d="M24 60 L104 60 L104 108 Q104 116 96 116 L32 116 Q24 116 24 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M28 56 L100 56 L100 60 L28 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M36 30 L44 30 L44 56 L36 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M50 24 L58 24 L58 56 L50 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 18 L78 18 L78 56 L64 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M38 36 L42 36 L42 54 L38 54 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M52 30 L56 30 L56 54 L52 54 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M66 24 L76 24 L76 54 L66 54 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M30 70 L98 70 L98 74 L30 74 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 82 L98 82 L98 86 L30 86 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 94 L98 94 L98 98 L30 98 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

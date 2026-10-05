@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="六角分箱图" data-name-en="Hexbin Mini" data-cat="charts-plots" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26">六角分箱图 / hexbin_mini</title>
+  <desc id="d-26">六角形分箱图。关键词: hexbin,hexagon,bin</desc>
+  <g id="g-26-六角分箱图">
+    <polygon points="97.3,40.0 97.3,60.0 80.0,70.0 62.7,60.0 62.7,40.0 80.0,30.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="132.3,40.0 132.3,60.0 115.0,70.0 97.7,60.0 97.7,40.0 115.0,30.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="167.3,40.0 167.3,60.0 150.0,70.0 132.7,60.0 132.7,40.0 150.0,30.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="202.3,40.0 202.3,60.0 185.0,70.0 167.7,60.0 167.7,40.0 185.0,30.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="237.3,40.0 237.3,60.0 220.0,70.0 202.7,60.0 202.7,40.0 220.0,30.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="272.3,40.0 272.3,60.0 255.0,70.0 237.7,60.0 237.7,40.0 255.0,30.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="307.3,40.0 307.3,60.0 290.0,70.0 272.7,60.0 272.7,40.0 290.0,30.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="114.8,70.0 114.8,90.0 97.5,100.0 80.2,90.0 80.2,70.0 97.5,60.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="149.8,70.0 149.8,90.0 132.5,100.0 115.2,90.0 115.2,70.0 132.5,60.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="184.8,70.0 184.8,90.0 167.5,100.0 150.2,90.0 150.2,70.0 167.5,60.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="219.8,70.0 219.8,90.0 202.5,100.0 185.2,90.0 185.2,70.0 202.5,60.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="254.8,70.0 254.8,90.0 237.5,100.0 220.2,90.0 220.2,70.0 237.5,60.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="289.8,70.0 289.8,90.0 272.5,100.0 255.2,90.0 255.2,70.0 272.5,60.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="324.8,70.0 324.8,90.0 307.5,100.0 290.2,90.0 290.2,70.0 307.5,60.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="97.3,100.0 97.3,120.0 80.0,130.0 62.7,120.0 62.7,100.0 80.0,90.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="132.3,100.0 132.3,120.0 115.0,130.0 97.7,120.0 97.7,100.0 115.0,90.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="167.3,100.0 167.3,120.0 150.0,130.0 132.7,120.0 132.7,100.0 150.0,90.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="202.3,100.0 202.3,120.0 185.0,130.0 167.7,120.0 167.7,100.0 185.0,90.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="237.3,100.0 237.3,120.0 220.0,130.0 202.7,120.0 202.7,100.0 220.0,90.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="272.3,100.0 272.3,120.0 255.0,130.0 237.7,120.0 237.7,100.0 255.0,90.0" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <polygon points="307.3,100.0 307.3,120.0 290.0,130.0 272.7,120.0 272.7,100.0 290.0,90.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="114.8,130.0 114.8,150.0 97.5,160.0 80.2,150.0 80.2,130.0 97.5,120.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="149.8,130.0 149.8,150.0 132.5,160.0 115.2,150.0 115.2,130.0 132.5,120.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="184.8,130.0 184.8,150.0 167.5,160.0 150.2,150.0 150.2,130.0 167.5,120.0" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <polygon points="219.8,130.0 219.8,150.0 202.5,160.0 185.2,150.0 185.2,130.0 202.5,120.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="254.8,130.0 254.8,150.0 237.5,160.0 220.2,150.0 220.2,130.0 237.5,120.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="289.8,130.0 289.8,150.0 272.5,160.0 255.2,150.0 255.2,130.0 272.5,120.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="324.8,130.0 324.8,150.0 307.5,160.0 290.2,150.0 290.2,130.0 307.5,120.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="97.3,160.0 97.3,180.0 80.0,190.0 62.7,180.0 62.7,160.0 80.0,150.0" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <polygon points="132.3,160.0 132.3,180.0 115.0,190.0 97.7,180.0 97.7,160.0 115.0,150.0" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <polygon points="167.3,160.0 167.3,180.0 150.0,190.0 132.7,180.0 132.7,160.0 150.0,150.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="202.3,160.0 202.3,180.0 185.0,190.0 167.7,180.0 167.7,160.0 185.0,150.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="237.3,160.0 237.3,180.0 220.0,190.0 202.7,180.0 202.7,160.0 220.0,150.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="272.3,160.0 272.3,180.0 255.0,190.0 237.7,180.0 237.7,160.0 255.0,150.0" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <polygon points="307.3,160.0 307.3,180.0 290.0,190.0 272.7,180.0 272.7,160.0 290.0,150.0" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+  </g>
+</svg>

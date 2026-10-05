@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-crispr_array d-crispr_array" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-crispr_array">CRISPR Array / CRISPR Array (Repeats + Spacers)</title>
+  <desc id="d-crispr_array">CRISPR 阵列：repeat 方块 + spacer + leader 序列。关键词: CRISPR, repeat, spacer, leader, Cas</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">CRISPR Array</text>
+    <rect x="40" y="155" width="60" height="30" rx="3" fill="#E8871E" data-pp="mge" stroke="#E8871E" stroke-width="1.5" />
+    <text x="70" y="174" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">Leader</text>
+    <rect x="110" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="125.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <rect x="140" y="158" width="40" height="24" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1" />
+    <text x="160.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">S1</text>
+    <rect x="180" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="195.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <rect x="210" y="158" width="40" height="24" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1" />
+    <text x="230.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">S2</text>
+    <rect x="250" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="265.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <rect x="280" y="158" width="40" height="24" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1" />
+    <text x="300.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">S3</text>
+    <rect x="320" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="335.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <rect x="350" y="158" width="40" height="24" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1" />
+    <text x="370.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">S4</text>
+    <rect x="390" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="405.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <rect x="420" y="158" width="40" height="24" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1" />
+    <text x="440.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">S5</text>
+    <rect x="460" y="155" width="30" height="30" rx="2" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1" />
+    <text x="475.0" y="174" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">R</text>
+    <text x="300" y="130" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">← 5′ | 3′ →</text>
+    <rect x="100" y="240" width="14" height="14" fill="#C42D2D" data-pp="alert" fill-opacity="0.4" />
+    <text x="118" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Repeat (DR)</text>
+    <rect x="220" y="240" width="14" height="14" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" />
+    <text x="238" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Spacer (from protospacer)</text>
+    <rect x="380" y="240" width="14" height="14" fill="#E8871E" data-pp="mge" fill-opacity="0.3" />
+    <text x="398" y="251" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Leader</text>
+    <text x="100" y="290" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas genes:</text>
+    <path d="M160,300 L191.2,300 L200,311.0 L191.2,322 L160,322 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="180.0" y="314.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas1</text>
+    <path d="M210,300 L236.2,300 L245,311.0 L236.2,322 L210,322 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="227.5" y="314.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas2</text>
+    <path d="M260,300 L306.2,300 L315,311.0 L306.2,322 L260,322 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="287.5" y="314.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas9</text>
+    <path d="M325,300 L356.2,300 L365,311.0 L356.2,322 L325,322 Z" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="345.0" y="314.0" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">csn2</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-vacuum-trap-bubbler" data-cat="sf" data-spec="128"
+     data-tags="vacuum trap,bubbler,anti-suckback,safety bottle,buffer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">安全瓶缓冲瓶 / Vacuum Trap Bubbler</title>
+  <desc id="d">安全瓶/缓冲瓶，防倒吸设计，用于真空管路。</desc>
+  <g id="body"><path d="M44 20 L44 100 Q44 112 56 112 L72 112 Q84 112 84 100 L84 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M44 40 L32 40 L32 28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M84 40 L96 40 L96 28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M48 60 L80 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M48 72 L80 72 L80 100 Q80 108 72 108 L56 108 Q48 108 48 100 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M32 32 L32 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M96 32 L96 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M30 24 L34 24" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M94 24 L98 24" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

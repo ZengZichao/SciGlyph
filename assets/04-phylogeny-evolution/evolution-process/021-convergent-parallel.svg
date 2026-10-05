@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-convergent_parallel d-convergent_parallel" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-convergent_parallel">趋同与平行演化 / Convergent vs Parallel Evolution</title>
+<desc id="d-convergent_parallel">同一表型:不同位点(趋同)vs同一位点(平行)独立演化 关键词: convergent, parallel, mutation, phenotype, independent</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Convergent vs Parallel</text>
+<text x="60" y="55" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">平行演化 (同一位点)</text>
+<rect x="80" y="70" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="100" y="87" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<text x="100" y="110" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">祖先</text>
+<line x1="120" y1="82" x2="180" y2="65" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="120" y1="82" x2="180" y2="100" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="180" y="52" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="200" y="69" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<rect x="240" y="52" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="260" y="69" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<text x="220" y="45" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">A→G</text>
+<rect x="180" y="88" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="200" y="105" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<rect x="240" y="88" width="40" height="25" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="260" y="105" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<text x="220" y="120" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">A→G</text>
+<circle cx="300" cy="82" r="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<text x="300" y="87" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">✓</text>
+<text x="340" y="55" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">趋同演化 (不同位点)</text>
+<rect x="360" y="70" width="40" height="25" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="380" y="87" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<rect x="360" y="105" width="40" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="380" y="122" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">C</text>
+<line x1="400" y1="82" x2="440" y2="82" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="440" y="70" width="40" height="25" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="460" y="87" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<text x="420" y="65" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">位点1</text>
+<line x1="400" y1="118" x2="440" y2="118" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="440" y="105" width="40" height="25" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="460" y="122" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">G</text>
+<text x="420" y="138" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">位点2</text>
+<circle cx="500" cy="100" r="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+<text x="500" y="105" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">✓</text>
+<text x="60" y="155" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">表型对比</text>
+<rect x="80" y="170" width="80" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<path d="M100,195 L120,180 L140,195 L130,210 L110,210 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M170,195 L190,180 L210,195 L200,210 L180,210 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="145" y="235" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">平行: 同源</text>
+<rect x="280" y="170" width="80" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<circle cx="310" cy="195" r="15" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" fill-opacity="0.3"/>
+<circle cx="370" cy="195" r="15" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" fill-opacity="0.3"/>
+<text x="340" y="235" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">趋同: 非同源</text>
+<rect x="60" y="260" width="480" height="110" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="280" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">实例</text>
+<text x="120" y="300" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">平行:</text>
+<text x="170" y="300" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">乳酸菌独立获得抗酸突变 (同一基因)</text>
+<text x="120" y="320" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">趋同:</text>
+<text x="170" y="320" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">翼龙/鸟/蝙蝠飞行 (不同结构)</text>
+<text x="120" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">趋同:</text>
+<text x="170" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">鲸/鱼流线体型 (不同谱系)</text>
+<text x="120" y="358" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">平行:</text>
+<text x="170" y="358" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">独立耐药突变 (rpoB S531L)</text>
+</g>
+</svg>

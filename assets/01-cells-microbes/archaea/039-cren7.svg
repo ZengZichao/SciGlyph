@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-cren7 d-cren7" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cren7">Cren7蛋白 / Cren7 DNA-binding Protein</title>
+  <desc id="d-cren7">Small chromatin protein Cren7 binding and bending short DNA double helix segment. Phylum Thermoproteota (旧称 Crenarchaeota)。关键词: Cren7, DNA binding, chromatin, bending, Thermoproteota</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M15.0,50.0 L16.8,52.5 L18.6,54.6 L20.4,55.9 L22.2,56.3 L24.0,55.8 L25.8,54.7 L27.6,53.3 L29.4,52.2 L31.2,51.6 L32.9,51.8 L34.7,52.9 L36.5,54.7 L38.3,56.9 L40.1,59.1 L41.9,60.8 L43.7,61.7 L45.5,61.6 L47.3,60.6 L49.1,59.0 L50.9,57.0 L52.7,55.3 L54.5,54.1 L56.3,53.7 L58.1,54.2 L59.9,55.4 L61.7,56.9 L63.5,58.4 L65.3,59.5 L67.1,59.7 L68.8,59.0 L70.6,57.5 L72.4,55.2 L74.2,52.8 L76.0,50.5 L77.8,48.8 L79.6,47.9 L81.4,48.0 L83.2,48.8 L85.0,50.0" fill="none" stroke="#E8871E" stroke-width="2" data-pp="mge" stroke-linecap="round"/>
+    <path d="M15.0,50.0 L16.8,48.8 L18.6,48.0 L20.4,47.9 L22.2,48.8 L24.0,50.5 L25.8,52.8 L27.6,55.2 L29.4,57.5 L31.2,59.0 L32.9,59.7 L34.7,59.5 L36.5,58.4 L38.3,56.9 L40.1,55.4 L41.9,54.2 L43.7,53.7 L45.5,54.1 L47.3,55.3 L49.1,57.0 L50.9,59.0 L52.7,60.6 L54.5,61.6 L56.3,61.7 L58.1,60.8 L59.9,59.1 L61.7,56.9 L63.5,54.7 L65.3,52.9 L67.1,51.8 L68.8,51.6 L70.6,52.2 L72.4,53.3 L74.2,54.7 L76.0,55.8 L77.8,56.3 L79.6,55.9 L81.4,54.6 L83.2,52.5 L85.0,50.0" fill="none" stroke="#E8871E" stroke-width="2" data-pp="mge" stroke-linecap="round"/>
+    <line x1="15.0" y1="46.0" x2="15.0" y2="54.0" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="24.0" y1="49.1" x2="24.0" y2="57.1" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="32.9" y1="51.8" x2="32.9" y2="59.8" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="41.9" y1="53.5" x2="41.9" y2="61.5" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="50.9" y1="54.0" x2="50.9" y2="62.0" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="59.9" y1="53.2" x2="59.9" y2="61.2" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="68.8" y1="51.3" x2="68.8" y2="59.3" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <line x1="77.8" y1="48.5" x2="77.8" y2="56.5" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+    <ellipse cx="50" cy="46" rx="10" ry="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="44" y="49" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cren7</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="50" y1="39" x2="50" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="40" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">DNA bend</text>
+    <text x="20" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Thermoproteota</text>
+  </g>
+</svg>

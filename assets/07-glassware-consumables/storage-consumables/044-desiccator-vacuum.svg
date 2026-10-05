@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-desiccator-vacuum" data-cat="st" data-spec="128"
+     data-tags="desiccator,vacuum,dry,storage,valve" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">真空干燥器 / Vacuum Desiccator</title>
+  <desc id="d">真空干燥器，带阀门，用于干燥保存样品。</desc>
+  <g id="body"><path d="M22 40 L22 98 Q22 112 36 112 L92 112 Q106 112 106 98 L106 40 Q106 28 92 28 L36 28 Q22 28 22 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 68 L100 68" fill="#FFFFFF" opacity="0.5" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M28 68 L100 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M106 56 L118 56 L118 50 L106 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><circle cx="118" cy="53" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M24 74 L104 74 L104 98 Q104 110 92 110 L36 110 Q24 110 24 98 Z" fill="#BFE0FF" opacity="0.6" stroke="none" data-ls="liquid"/><ellipse cx="64" cy="28" rx="42" ry="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M26 32 Q26 24 64 20 Q102 24 102 32" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

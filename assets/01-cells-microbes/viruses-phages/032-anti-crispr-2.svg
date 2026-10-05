@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-anti_crispr d-anti_crispr" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-anti_crispr">抗CRISPR蛋白 / Anti-CRISPR protein blocks Cas</title>
+  <desc id="d-anti_crispr">抗CRISPR(Acr)蛋白：噬菌体编码的小蛋白，通过模拟DNA底物、二聚化Cas、或阻断crRNA加载等方式抑制CRISPR-Cas系统。关键词: anti-CRISPR, Acr, Cas inhibition, phage defense evasion</desc>
+  <g id="layer-body-anti_crispr" data-name="body">
+    
+    <rect x="10" y="35" width="35" height="15" rx="3" ry="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" />
+    <text x="27" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cas9+crRNA</text>
+    
+    <path d="M50,42 L85,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2" />
+    <path d="M50,46 L85,46" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2" />
+    
+    <circle cx="55" cy="44" r="8" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.7" />
+    <text x="55" y="46" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Acr</text>
+    
+    <line x1="45" y1="42" x2="48" y2="42" stroke="#1B2733" stroke-width="1.5" />
+    <line x1="45" y1="46" x2="48" y2="46" stroke="#1B2733" stroke-width="1.5" />
+  </g>
+  <g id="layer-annotation-anti_crispr" data-name="annotation">
+    <text x="55" y="61.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">anti-CRISPR</text>
+    <text x="55" y="83.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">protein blocks</text>
+    <text x="55" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Cas nuclease</text>
+  </g>
+</svg>

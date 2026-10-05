@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-micrometer-screw-gauge" data-cat="mt" data-spec="128"
+     data-tags="micrometer,screw,gauge,千分尺" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">外径千分尺 / Micrometer Screw Gauge</title>
+  <desc id="d">外径千分尺：弓架+测微筒+棘轮。</desc>
+  <g id="body"><path d="M16 40 C16 30 24 20 36 20 L36 108 C24 108 16 98 16 88Z" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="36" y="48" width="56" height="32" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="92" y="44" width="16" height="40" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="108" y="50" width="10" height="28" rx="4" fill="#33414F" stroke="#1F2933" stroke-width="1.5" data-ls="dark" data-ls-stroke="stroke"/></g>
+  <g id="detail"><g id="thimble-scale">
+    <line x1="40" y1="48" x2="40" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="46" y1="48" x2="46" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="52" y1="48" x2="52" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="58" y1="48" x2="58" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="64" y1="48" x2="64" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="70" y1="48" x2="70" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="76" y1="48" x2="76" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="82" y1="48" x2="82" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+    <line x1="88" y1="48" x2="88" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
+  </g></g>
+</svg>

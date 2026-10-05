@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-planctomycetes_budding d-planctomycetes_budding" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-planctomycetes_budding">芽殖浮霉菌 / Budding Planctomycetes</title>
+  <desc id="d-planctomycetes_budding">Planctomycetes出芽繁殖，有柄。关键词: Planctomycetes, budding, stalk</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <ellipse cx="40" cy="55" rx="18" ry="22" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><ellipse cx="68" cy="40" rx="10" ry="12" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><path d="M55,48 Q60,44 62,42" fill="none" stroke="#2E86AB" stroke-width="6" data-pp="bacteria"/><path d="M55,48 Q60,44 62,42" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="80" y1="35" x2="90" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="72" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">bud</text><line x1="25" y1="45" x2="12" y2="30" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="5" y="26" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">mother</text>
+  </g>
+</svg>

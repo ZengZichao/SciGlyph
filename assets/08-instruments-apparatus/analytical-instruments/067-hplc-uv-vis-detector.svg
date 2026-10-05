@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-hplc-uv-vis-detector" data-cat="an" data-spec="128" data-tags="hplc,detector,uv,vis,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">紫外-可见检测器 / HPLC UV-Vis Detector</title>
+  <desc id="d">紫外-可见光检测器，氘灯/钨灯、流通池、光电二极管。</desc>
+  <g id="body">
+    <rect x="14" y="20" width="100" height="88" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="14" y="20" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="22" y="34" width="18" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="31" cy="44" r="5" fill="#F5A623" opacity="0.7" stroke="none" data-ls="warn" />
+    <text x="29.59" y="59.01" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">D₂</text>
+<rect x="54" y="38" width="14" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="56" y="40" width="10" height="8" rx="1" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid" />
+    <text x="61" y="56" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Cell</text>
+<rect x="82" y="34" width="18" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="85" y="37" width="12" height="14" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="91" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">PD</text>
+<line x1="40" y1="44" x2="54" y2="44" fill="none" opacity="0.7" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="68" y1="44" x2="82" y2="44" fill="none" opacity="0.7" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+    <polygon points="44,41 56,44 44,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <polygon points="72,41 84,44 72,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+<line x1="61" y1="20" x2="61" y2="38" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="61" y1="50" x2="61" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <rect x="22" y="68" width="40" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M26 80 L32 76 L38 78 L44 74 L50 76 L56 72" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent" />
+    <text x="43.41" y="66.99" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">UV-Vis</text>
+    <circle cx="72" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="82" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="周生鞭毛" data-name-en="Peritrichous flagella" data-cat="02-structures" data-tags="周生鞭毛,鞭毛,全表面着生,大肠杆菌,沙门氏菌" role="img" aria-labelledby="t-05-peritrichous d-05-peritrichous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-05-peritrichous">周生鞭毛 / Peritrichous flagella</title>
+  <desc id="d-05-peritrichous">周生鞭毛型：鞭毛均匀着生于细胞整个表面，推动效率高，大肠杆菌属、沙门氏菌属的典型着生方式。关键词: 周生鞭毛, 鞭毛, 全表面着生, 大肠杆菌, 沙门氏菌</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="26" y="44" width="68" height="32" rx="16" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M36 60C36 53 45 50 53 53C60 55 68 54 84 60C68 66 60 69 53 67C45 64 36 67 36 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M30.7 71.3C27.4 70.4 27.8 78.5 22.9 79.1" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M26.0 60.0C24.4 57.0 18.9 63.0 15.0 60.0" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M30.7 48.7C31.6 45.4 23.5 45.8 22.9 40.9" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M89.3 48.7C92.6 49.6 92.2 41.5 97.1 40.9" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M94.0 60.0C95.7 63.0 101.2 57.0 105.0 60.0" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M89.3 71.3C88.4 74.6 96.5 74.2 97.1 79.1" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M50.4 47.2C51.8 44.1 43.7 43.3 43.8 38.4" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M50.4 72.8C51.8 75.9 43.7 76.7 43.8 81.6" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M60.0 44.0C63.0 42.4 57.0 36.9 60.0 33.0" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M60.0 76.0C63.0 77.7 57.0 83.2 60.0 87.0" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M69.6 47.2C73.0 47.7 71.5 39.7 76.2 38.4" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M69.6 72.8C73.0 72.3 71.5 80.3 76.2 81.6" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+</g>
+</svg>

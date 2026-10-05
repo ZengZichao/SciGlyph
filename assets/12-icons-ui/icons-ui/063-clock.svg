@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="时钟" data-name-en="clock" data-cat="basic-icons-ui" aria-labelledby="t-63 d-63" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-63">时钟 / clock</title>
+  <desc id="d-63">时间与钟表图标。关键词: 时钟,时间,clock,time</desc>
+  <g id="g-63-时钟">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="24" y1="24" x2="24" y2="14" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="24" y1="24" x2="32" y2="28" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

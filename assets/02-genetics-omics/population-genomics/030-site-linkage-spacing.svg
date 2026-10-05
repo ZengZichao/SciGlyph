@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-site_linkage_spacing d-site_linkage_spacing" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-site_linkage_spacing">位点连锁与间隔 / Site linkage and spacing</title>
+  <desc id="d-site_linkage_spacing">基因组位点连锁与间距展示。schematic, not to scale. 关键词: linkage, spacing, sites</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="genome-track">
+  <rect x="60" y="170" width="480" height="30" fill="#2E86AB" fill-opacity="0.2" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" rx="5"/>
+  <text x="300" y="160" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genomic region</text>
+  <line x1="80" y1="170" x2="80" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="120" y1="170" x2="120" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="135" y1="170" x2="135" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="200" y1="170" x2="200" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="280" y1="170" x2="280" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="300" y1="170" x2="300" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="310" y1="170" x2="310" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="380" y1="170" x2="380" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="420" y1="170" x2="420" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="480" y1="170" x2="480" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="500" y1="170" x2="500" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="520" y1="170" x2="520" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+</g>
+<g data-name="linkage-arcs">
+  <path d="M 80,170 Q 100.0,100 120,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <path d="M 120,170 Q 127.5,100 135,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <path d="M 280,170 Q 290.0,100 300,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <path d="M 300,170 Q 305.0,100 310,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <path d="M 480,170 Q 490.0,100 500,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+  <path d="M 500,170 Q 510.0,100 520,170" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+</g>
+<g data-name="distances">
+  <text x="128" y="230" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">15 bp</text>
+  <text x="290" y="230" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">20 bp</text>
+  <text x="510" y="230" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">20 bp</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Site Linkage &amp; Spacing (schematic)</text>
+<text x="300" y="370" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Arcs indicate linked polymorphic sites</text>
+</svg>

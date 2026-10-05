@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-freeze-dryer-lyophilizer" data-cat="ls" data-spec="128" data-tags="lyophilizer,freeze,dry,condenser,vacuum,pump,shelf" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">冷冻干燥机 / Freeze Dryer (Lyophilizer)</title>
+  <desc id="d">冷冻干燥机：干燥腔体、冷凝阱、真空泵、制冷系统。</desc>
+  <g id="body">
+    <rect x="8" y="14" width="112" height="98" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="8" y="14" width="112" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="14" y="24" width="36" height="44" rx="5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<line x1="18" y1="36" x2="46" y2="36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="18" y1="48" x2="46" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<rect x="22" y="28" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="28" y="28" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="34" y="28" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="40" y="28" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="22" y="40" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="28" y="40" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="34" y="40" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="40" y="40" width="4" height="6" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="32" y="22" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Chamber</text>
+<line x1="50" y1="46" x2="62" y2="46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<rect x="62" y="30" width="22" height="34" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="64" y="32" width="18" height="30" rx="3" fill="#2B7DE9" opacity="0.15" stroke="none" data-ls="accent" />
+    <text x="73" y="44" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">❄</text>
+    <text x="73" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Condenser</text>
+<rect x="90" y="34" width="24" height="26" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="102" cy="47" r="6" fill="#33414F" stroke="none" data-ls="dark" />
+<circle cx="102" cy="47" r="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="102" y="66" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Vac Pump</text>
+<line x1="84" y1="46" x2="90" y2="46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <rect x="12" y="74" width="48" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="36" y="72" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Lyophilizer</text>
+    <text x="36.0" y="86.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">-50°C / 0.1mbar</text>
+    <circle cx="68" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="78" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="88" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="98" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <line x1="68.0" y1="83.9" x2="71.47" y2="90.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="72.88" y="93.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Start</text>
+    <text x="93.18" y="95.12" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Stop</text><line x1="70.6" y1="84.18" x2="84.78" y2="91.08" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <line x1="88.0" y1="83.9" x2="85.49" y2="77.12" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="84.08" y="78.23" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Defrost</text>
+    <text x="99.41" y="86.99" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Vac</text>
+    <rect x="14" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="106" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

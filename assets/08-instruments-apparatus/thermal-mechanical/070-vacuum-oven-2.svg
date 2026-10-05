@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-vacuum-oven" data-cat="hc" data-spec="128"
+     data-tags="vacuum,oven,drying,temperature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">真空烘箱 / Vacuum Oven</title>
+  <desc id="d">真空烘箱+真空表</desc>
+  <g id="body"><rect x="20" y="16" width="88" height="100" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="24" width="72" height="84" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><circle cx="64" cy="56" r="16" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 44 L64 56 M64 56 L72 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M52 56 L76 56 M64 44 L64 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="48" y="16" width="32" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="50" y="18" width="28" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <text x="64" y="24" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">60°C</text>
+    <path d="M108 40 L116 40 L116 48 L108 48 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M32 80 L96 80 M32 90 L96 90 M32 100 L96 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

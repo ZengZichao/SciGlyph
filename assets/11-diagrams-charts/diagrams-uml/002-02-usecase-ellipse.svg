@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="用例椭圆" data-name-en="Usecase Ellipse" data-cat="diagrams-sw-uml" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02">用例椭圆 / usecase_ellipse</title>
+  <desc id="d-02">表示一个用例的椭圆符号。关键词: usecase,ellipse,oval</desc>
+  <g id="g-02-用例椭圆">
+    <ellipse cx="60" cy="40" rx="48" ry="28" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">UseCase</text>
+  </g>
+</svg>

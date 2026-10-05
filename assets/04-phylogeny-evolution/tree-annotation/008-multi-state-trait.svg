@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-08 d-08" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08">多状态性状 / Multi-state Trait</title>
+  <desc id="d-08">装饰零件，贴到树上用。多状态性状矩阵，多色方块。 关键词: tree decoration, multi-state trait, character state, discrete trait matrix</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="multi-trait">
+    <rect x="120" y="80" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="160" y="80" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="200" y="80" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="240" y="80" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="280" y="80" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="120" y="110" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="160" y="110" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="200" y="110" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="240" y="110" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="280" y="110" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="120" y="140" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="160" y="140" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="200" y="140" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="240" y="140" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="280" y="140" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="120" y="170" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="160" y="170" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="200" y="170" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="240" y="170" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="280" y="170" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="120" y="200" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="160" y="200" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="200" y="200" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="240" y="200" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="280" y="200" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="120" y="230" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="160" y="230" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="200" y="230" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="240" y="230" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="280" y="230" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="120" y="260" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <rect x="160" y="260" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="200" y="260" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="240" y="260" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="280" y="260" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="120" y="290" width="40" height="30" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <rect x="160" y="290" width="40" height="30" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <rect x="200" y="290" width="40" height="30" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="240" y="290" width="40" height="30" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="280" y="290" width="40" height="30" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+  </g>
+  <g data-name="tip-labels">
+    <text x="100" y="98.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp1</text>
+    <text x="100" y="128.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp2</text>
+    <text x="100" y="158.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp3</text>
+    <text x="100" y="188.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp4</text>
+    <text x="100" y="218.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp5</text>
+    <text x="100" y="248.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp6</text>
+    <text x="100" y="278.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp7</text>
+    <text x="100" y="308.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp8</text>
+  </g>
+  <g data-name="legend">
+    <rect x="120" y="340" width="15" height="15" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <text x="140" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">bac</text>
+    <rect x="170" y="340" width="15" height="15" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <text x="190" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">arc</text>
+    <rect x="220" y="340" width="15" height="15" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <text x="240" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">euk</text>
+    <rect x="270" y="340" width="15" height="15" fill="#5B8C3E" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="virus"/>
+    <text x="290" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">vir</text>
+    <rect x="320" y="340" width="15" height="15" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="340" y="352" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">met</text>
+  </g>
+</svg>

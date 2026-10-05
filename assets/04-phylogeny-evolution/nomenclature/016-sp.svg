@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-sp d-sp" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sp">未定种 / sp.</title>
+  <desc id="d-sp">Species indeterminata: genus known, species unspecified 关键词: sp., species indeterminata</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="40" cy="45" r="12" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <rect x="55" y="35" width="25" height="12" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
+    <text x="67" y="43" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">sp.</text>
+    <line x1="52" y1="45" x2="55" y2="41" stroke="#E8871E" stroke-width="1" stroke-linecap="round" data-pp="mge"/>
+    <circle cx="40" cy="45" r="3" fill="none" stroke="#2E86AB" stroke-width="0.8" stroke-dasharray="2,1" data-pp="bacteria"/>
+  <path d="M28,45 Q22,50 28,55" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><path d="M34,45 Q40,40 46,45" fill="none" stroke="#6C3FA0" stroke-width="1.1" data-pp="gene" stroke-linecap="round"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">未定种</text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="打开的书" data-name-en="book_open" data-cat="basic-icons-ui" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08">打开的书 / book_open</title>
+  <desc id="d-08">阅读与文献图标。关键词: 书,阅读,文献,book</desc>
+  <g id="g-08-打开的书">
+    <path d="M24 12 L24 40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 12 Q16 8 8 12 L8 36 Q16 32 24 36" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 12 Q32 8 40 12 L40 36 Q32 32 24 36" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

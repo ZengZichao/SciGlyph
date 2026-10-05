@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="外膜" data-name-en="Outer membrane" data-cat="02-structures" data-tags="外膜,革兰氏阴性,脂质双层,脂多糖,LPS,内毒素,孔蛋白,lipid A,O抗原" role="img" aria-labelledby="t-19-outer-membrane d-19-outer-membrane" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19-outer-membrane">外膜 / Outer membrane</title>
+  <desc id="d-19-outer-membrane">外膜是革兰氏阴性菌特有的类脂双层，含孔蛋白与脂多糖；LPS 由 lipid A、核心多糖与 O 抗原组成，即内毒素。关键词: 外膜, 革兰氏阴性, 脂质双层, 脂多糖, LPS, 内毒素, 孔蛋白, lipid A, O抗原</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="0" y="0" width="120" height="120" fill="#F7FBF9"/>
+<path d="M14 70C10 78 10 86 14 94C18 86 18 78 14 70Z" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M32 70C28 78 28 86 32 94C36 86 36 78 32 70Z" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M100 70C96 78 96 86 100 94C104 86 104 78 100 70Z" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M60 53L60 48" stroke="#C0504D" stroke-width="1.4"/>
+<path d="M59 52L63 44L57 37L63 30L57 23L62 17" fill="none" stroke="#C0504D" stroke-width="1.6"/>
+<circle cx="60" cy="48" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="60" cy="41" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="60" cy="34" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="60" cy="27" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="60" cy="20" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="60" cy="13" r="2" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="10" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="10" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M10 74.4L5 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M10 74.4L15 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M10 89.6L5 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M10 89.6L15 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="24" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="24" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M24 74.4L19 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M24 74.4L29 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M24 89.6L19 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M24 89.6L29 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="38" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="38" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M38 74.4L33 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M38 74.4L43 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M38 89.6L33 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M38 89.6L43 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="52" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="52" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M52 74.4L47 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M52 74.4L57 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M52 89.6L47 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M52 89.6L57 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="66" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="66" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M66 74.4L61 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M66 74.4L71 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M66 89.6L61 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M66 89.6L71 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="80" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="80" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M80 74.4L75 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M80 74.4L85 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M80 89.6L75 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M80 89.6L85 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="94" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="94" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M94 74.4L89 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M94 74.4L99 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M94 89.6L89 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M94 89.6L99 78" stroke="#7A8B93" stroke-width="1.2"/>
+<circle cx="108" cy="70" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="108" cy="94" r="4.4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M108 74.4L103 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M108 74.4L113 86" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M108 89.6L103 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M108 89.6L113 78" stroke="#7A8B93" stroke-width="1.2"/>
+<path d="M55 70L63 70" stroke="#C0504D" stroke-width="1.4"/>
+<path d="M64.5 67.5L60.5 50" stroke="#C0504D" stroke-width="1.4"/>
+<circle cx="52" cy="70" r="3" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+<circle cx="66" cy="70" r="3" fill="#F6DADA" stroke="#C0504D" stroke-width="1.2"/>
+</g>
+</svg>

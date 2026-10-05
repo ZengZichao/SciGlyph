@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-rrna_domains d-rrna_domains" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-rrna_domains">rRNA 二级结构域 / rRNA Secondary Structure Domains</title>
+  <desc id="d-rrna_domains">16S rRNA 二级结构域示意。关键词: rRNA, 16S, domain, secondary structure</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">16S rRNA Secondary Structure Domains</text>
+    <path d="M60,250 Q120.0,130 180,250" stroke="#2E86AB" data-pp="bacteria" stroke-width="2.5" fill="#2E86AB" fill-opacity="0.1" />
+    <line x1="70" y1="250" x2="70" y2="202.2354286469244" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="85" y1="250" x2="85" y2="191.73715712973836" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="100" y1="250" x2="100" y2="184.01923788646684" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="115" y1="250" x2="115" y2="180.2566541587857" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="130" y1="250" x2="130" y2="181.02222521132796" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="145" y1="250" x2="145" y2="186.19939979126295" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="160" y1="250" x2="160" y2="195.0" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-opacity="0.5" />
+    <text x="120.0" y="275" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′ domain</text>
+    <path d="M190,250 Q240.0,130 290,250" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="#6C3FA0" fill-opacity="0.1" />
+    <line x1="200" y1="250" x2="200" y2="200.72949016875157" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="215" y1="250" x2="215" y2="188.78679656440357" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="230" y1="250" x2="230" y2="181.4683045111454" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="245" y1="250" x2="245" y2="180.36934978214586" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="260" y1="250" x2="260" y2="185.72949016875157" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="275" y1="250" x2="275" y2="196.3802850078136" stroke="#6C3FA0" data-pp="gene" stroke-width="1" stroke-opacity="0.5" />
+    <text x="240.0" y="275" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Central domain</text>
+    <path d="M310,250 Q380.0,130 450,250" stroke="#00857A" data-pp="metabolism" stroke-width="2.5" fill="#00857A" fill-opacity="0.1" />
+    <line x1="320" y1="250" x2="320" y2="203.32437198131058" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="335" y1="250" x2="335" y2="194.0390377045399" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="350" y1="250" x2="350" y2="186.5450555259591" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="365" y1="250" x2="365" y2="181.68350009074896" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="380" y1="250" x2="380" y2="180.0" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="395" y1="250" x2="395" y2="181.68350009074896" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="410" y1="250" x2="410" y2="186.5450555259591" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="425" y1="250" x2="425" y2="194.0390377045399" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-opacity="0.5" />
+    <text x="380.0" y="275" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′ major domain</text>
+    <path d="M470,250 Q510.0,130 550,250" stroke="#E8871E" data-pp="mge" stroke-width="2.5" fill="#E8871E" fill-opacity="0.1" />
+    <line x1="480" y1="250" x2="480" y2="198.5194970290473" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="495" y1="250" x2="495" y2="185.05591163092365" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="510" y1="250" x2="510" y2="180.0" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="525" y1="250" x2="525" y2="185.05591163092365" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-opacity="0.5" />
+    <text x="510.0" y="275" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′ minor domain</text>
+    <line x1="50" y1="250" x2="560" y2="250" stroke="#1B2733" data-pp="ink" stroke-width="2" />
+    <text x="45" y="255" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5′</text>
+    <text x="565" y="255" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3′</text>
+    <text x="300" y="320" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">~1500 nt | Contains decoding center, Shine-Dalgarno anti-SD</text>
+    <text x="300" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Used for phylogenetic classification &amp; taxonomy</text>
+  </g>
+</svg>

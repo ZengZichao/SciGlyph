@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-distillation-flask-round" data-cat="gl" data-spec="128"
+     data-tags="distillation,flask,round,side arm,vapor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">蒸馏烧瓶(圆底) / Round Distillation Flask</title>
+  <desc id="d">圆底蒸馏烧瓶，带侧管，用于蒸馏操作。</desc>
+  <g id="body"><path d="M54 10 L54 38 Q24 46 24 74 Q24 110 64 110 Q104 110 104 74 Q104 46 74 38 L74 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M98 48 L116 36 L116 30 L98 42 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 78 Q28 106 64 106 Q100 106 100 78 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M28 78 L100 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 10 L74 10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

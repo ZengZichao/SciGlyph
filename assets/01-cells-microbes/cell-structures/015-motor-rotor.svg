@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="马达转子" data-name-en="Motor rotor" data-cat="02-structures" data-tags="马达,转子,C环,固定子,质子动力,转矩,旋转" role="img" aria-labelledby="t-15-motor-rotor d-15-motor-rotor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-15-motor-rotor">马达转子 / Motor rotor</title>
+  <desc id="d-15-motor-rotor">转子由 C 环与 MS 环组成并随轴旋转，固定子（stator）嵌于细胞膜中，利用跨膜质子动力产生转矩驱动鞭毛旋转。关键词: 马达, 转子, C环, 固定子, 质子动力, 转矩, 旋转</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="8" y="26" width="104" height="8" rx="4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M60 68L60 20" stroke="#1F6F8B" stroke-width="2.4"/>
+<path d="M60 20C60 12 51 12 51 18" fill="none" stroke="#1F6F8B" stroke-width="2"/>
+<circle cx="60" cy="68" r="26" fill="none" stroke="#1F6F8B" stroke-width="2.6"/>
+<circle cx="60" cy="30" r="9" fill="none" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M73.8 78.0L79.4 82.1" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M54.7 84.2L52.6 90.8" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M43.0 68.0L36.0 68.0" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M54.7 51.8L52.6 45.2" stroke="#1F6F8B" stroke-width="1.6"/>
+<path d="M73.8 58.0L79.4 53.9" stroke="#1F6F8B" stroke-width="1.6"/>
+<circle cx="60" cy="68" r="8" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.6"/>
+<circle cx="41.1" cy="30.0" r="5.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="78.9" cy="30.0" r="5.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M43.6 27.0L44.5 34.9" stroke="#B57A17" stroke-width="1.4"/>
+<path d="M76.4 27.0L75.5 34.9" stroke="#B57A17" stroke-width="1.4"/>
+<polygon points="34.0,72.6 34.2,79.8 38.5,78.3" fill="#1F6F8B" stroke="none"/>
+<polygon points="82.9,81.2 87.4,75.5 83.1,73.9" fill="#1F6F8B" stroke="none"/>
+</g>
+</svg>

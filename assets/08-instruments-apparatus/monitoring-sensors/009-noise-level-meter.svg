@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-noise-level-meter" data-cat="en" data-spec="128"
+     data-tags="noise,sound,level,meter,decibel,声级计,噪声" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">声级计 / Noise Level Meter / Sound Level Meter</title>
+  <desc id="d">声级计：传声器+刻度+慢快档。</desc>
+  <g id="body"><rect x="30" y="24" width="68" height="84" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="16" r="10" fill="#33414F" stroke="#1F2933" stroke-width="2" data-ls="dark" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="16" r="4" fill="#E8EDF2" data-ls="body"/>
+    <rect x="36" y="32" width="56" height="24" rx="3" fill="#33414F" data-ls="dark"/>
+    <text x="64" y="48" fill="#7FC26B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="liquid-2">65.2 dB</text>
+    <rect x="36" y="62" width="24" height="10" rx="2" fill="#FFFFFF" stroke="#5A6B7B" stroke-width="1" data-ls="fill" data-ls-stroke="thin"/>
+    <rect x="68" y="62" width="24" height="10" rx="2" fill="#FFFFFF" stroke="#5A6B7B" stroke-width="1" data-ls="fill" data-ls-stroke="thin"/>
+    <text x="48" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">SLOW</text>
+    <text x="80" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">FAST</text>
+    <path d="M40 82 L88 82" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <path d="M40 86 L40 98 M52 86 L52 98 M64 86 L64 98 M76 86 L76 98 M88 86 L88 98" fill="none" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/></g>
+  <g id="detail"></g>
+</svg>

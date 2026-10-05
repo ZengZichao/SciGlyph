@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-08-health-hazard" data-cat="hz" data-spec="128"
+     data-tags="ghs,health hazard,respiratory,carcinogen,健康危害,致癌" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS08 健康危害 / GHS08 Health Hazard</title>
+  <desc id="d">GHS象形图：人体轮廓胸部星芒，表示长期健康危害。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><circle cx="64" cy="44" r="8"/>
+    <path d="M50 56 L50 86 L58 86 L58 66 L70 66 L70 86 L78 86 L78 56 Z" fill="#1F2933" data-ls="stroke"/>
+    <path d="M64 62 L66 68 L72 68 L67 72 L69 78 L64 74 L59 78 L61 72 L56 68 L62 68Z" fill="#E02020" data-ls="danger"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

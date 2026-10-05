@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-lc-ms-system" data-cat="an" data-spec="128"
+     data-tags="lc,ms,chromatography,mass,spectrometry,hyphenated" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">液质联用系统 / LC-MS System</title>
+  <desc id="d">液相色谱-质谱联用系统：泵→进样器→色谱柱→离子源→质量分析器→检测器。</desc>
+  <g id="body">
+    <rect x="8" y="18" width="112" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="8" y="18" width="112" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+    <rect x="12" y="30" width="16" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="20.0" y="40.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">P</text>
+    <rect x="30" y="30" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="37.0" y="40.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">AS</text>
+    <rect x="46" y="30" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+        <text x="53.0" y="40.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Col</text>
+    <polygon points="28,34 40,37 28,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="44,34 56,37 44,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="64" y="28" width="14" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="71" y="40" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">ESI</text>
+<rect x="82" y="26" width="20" height="22" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="92" cy="37" r="6" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="92" cy="37" r="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="92" y="54" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Q</text>
+<rect x="106" y="30" width="10" height="14" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="111" y="50" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Det</text>
+<path d="M60 37 L64 37" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M78 37 L82 37" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M102 37 L106 37" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="61,34 73,37 61,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="79,34 91,37 79,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="103,34 115,37 103,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="12" y="60" width="56" height="28" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<path d="M18 84 L24 84 L26 72 L28 84 L34 84 L38 84 L40 66 L42 84 L48 84 L52 78 L54 84 L60 84 L64 80" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <text x="40" y="58" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">LC-MS</text>
+    <circle cx="76" cy="68" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="86" cy="68" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="14" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="104" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

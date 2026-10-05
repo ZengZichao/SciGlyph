@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-33_missing_hatch d-33_missing_hatch" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33_missing_hatch">缺失斜线填充 / Missing hatch</title>
+  <desc id="d-33_missing_hatch">缺失数据斜线填充。骨架，配合热图/矩阵使用。关键词: missing data, hatching, NA</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="20" width="60" height="60" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="20" y1="30" x2="30" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="20" y1="40" x2="40" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="20" y1="50" x2="50" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="20" y1="60" x2="60" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="20" y1="70" x2="70" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="20" y1="80" x2="80" y2="20" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="30" y1="80" x2="80" y2="30" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="40" y1="80" x2="80" y2="40" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="50" y1="80" x2="80" y2="50" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="60" y1="80" x2="80" y2="60" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+    <line x1="70" y1="80" x2="80" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Missing hatch</text>
+  </g>
+</svg>

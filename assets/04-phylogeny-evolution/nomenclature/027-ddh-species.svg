@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-ddh_species d-ddh_species" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-ddh_species">DDH定种 / DDH 70%</title>
+  <desc id="d-ddh_species">DNA-DNA hybridization with 70% species threshold 关键词: DDH, hybridization, 70%</desc>
+  
+  <g id="layer-body" data-name="body">
+    <line x1="20" y1="40" x2="80" y2="40" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <line x1="20" y1="45" x2="80" y2="45" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <rect x="30" y="38" width="15" height="9" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism" fill-opacity="0.4"/>
+    <rect x="55" y="38" width="15" height="9" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism" fill-opacity="0.4"/>
+    <text x="50" y="55" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism">DDH</text>
+    <line x1="20" y1="65" x2="80" y2="65" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert" stroke-dasharray="3,2"/>
+    <text x="50" y="72" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">70%</text>
+  <line x1="35" y1="50" x2="65" y2="50" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><path d="M50,40 L50,60" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="50" cy="38" r="2" fill="#C42D2D" stroke="#1B2733" stroke-width="0.6" data-pp="alert"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">DDH定种</text>
+  </g>
+</svg>

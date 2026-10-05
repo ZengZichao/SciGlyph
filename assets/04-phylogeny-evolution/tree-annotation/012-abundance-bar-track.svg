@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-12 d-12" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12">丰度条形轨道 / Abundance Bar Track</title>
+  <desc id="d-12">装饰零件，贴到树上用。物种丰度条形图轨道。 关键词: tree decoration, abundance bar track, relative abundance, per-taxon bar</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="abundance-bars">
+    <rect x="100" y="214.6" width="30" height="85.4" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="138" y="181.7" width="30" height="118.3" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="176" y="180.0" width="30" height="120.0" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="214" y="274.3" width="30" height="25.7" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="252" y="298.0" width="30" height="2.0" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="290" y="232.5" width="30" height="67.5" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="328" y="250.7" width="30" height="49.3" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <rect x="366" y="154.1" width="30" height="145.9" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+  </g>
+  <g data-name="annotation">
+    <line x1="100" y1="300" x2="396" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="100" y1="100" x2="100" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="100" y1="200" x2="396" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="100" y="330" width="10" height="10" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <circle cx="138" cy="310" r="2" fill="#1B2733" data-pp="ink"/>
+    <circle cx="252" cy="310" r="2" fill="#1B2733" data-pp="ink"/>
+  </g>
+</svg>

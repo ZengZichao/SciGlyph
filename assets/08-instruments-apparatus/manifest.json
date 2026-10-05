@@ -1,0 +1,59 @@
+{
+ "category": "08-instruments-apparatus",
+ "name_zh": "仪器与装置",
+ "name_en": "Instruments & Apparatus",
+ "count": 440,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "analytical-instruments",
+   "name_zh": "分析仪器",
+   "name_en": "Analytical Instruments",
+   "count": 89
+  },
+  {
+   "id": "lifescience-instruments",
+   "name_zh": "生命科学仪器",
+   "name_en": "Life-science Instruments",
+   "count": 81
+  },
+  {
+   "id": "thermal-mechanical",
+   "name_zh": "热学与机械",
+   "name_en": "Thermal & Mechanical",
+   "count": 72
+  },
+  {
+   "id": "separation-fluidics",
+   "name_zh": "分离与流控",
+   "name_en": "Separation & Fluidics",
+   "count": 77
+  },
+  {
+   "id": "liquid-handling",
+   "name_zh": "移液与液体处理",
+   "name_en": "Liquid Handling",
+   "count": 28
+  },
+  {
+   "id": "electrical-equipment",
+   "name_zh": "电气器材",
+   "name_en": "Electrical Equipment",
+   "count": 34
+  },
+  {
+   "id": "monitoring-sensors",
+   "name_zh": "监测与传感",
+   "name_en": "Monitoring & Sensors",
+   "count": 42
+  },
+  {
+   "id": "general-apparatus",
+   "name_zh": "通用装置",
+   "name_en": "General Apparatus",
+   "count": 17
+  }
+ ]
+}

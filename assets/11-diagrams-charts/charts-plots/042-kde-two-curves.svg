@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="双KDE曲线" data-name-en="KDE Two Curves" data-cat="charts-plots" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-42">双KDE曲线 / kde_two_curves</title>
+  <desc id="d-42">两条核密度估计曲线。关键词: kde,density,two</desc>
+  <g id="g-42-双KDE曲线">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <path d="M55,280 C69,279 82,277 96,273 C110,264 124,247 138,219" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M138,219 C151,175 165,117 179,60 C192,35 206,30 220,30" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M220,30 C234,30 248,35 261,60 C275,117 289,175 302,219" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M302,219 C316,247 330,264 344,273 C358,277 371,279 385,280" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M55,279 C82,276 110,252 137,180 C150,130 158,98 172,95" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M172,95 C186,92 198,130 210,160 C218,175 226,178 234,175" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M234,175 C248,168 262,120 276,80 C284,62 292,58 300,62" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M300,62 C312,70 324,130 340,190 C352,235 368,266 385,272" fill="none" stroke="#009E73" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="55" y1="280" x2="55" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">-3</text>
+    <line x1="165" y1="280" x2="165" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="165" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">-1</text>
+    <line x1="220" y1="280" x2="220" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="275" y1="280" x2="275" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="275" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">1</text>
+    <line x1="385" y1="280" x2="385" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="385" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">3</text>
+    <line x1="315" y1="40" x2="330" y2="40" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <text x="334" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">A</text>
+    <line x1="315" y1="55" x2="330" y2="55" stroke="#009E73" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="334" y="59" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937">B</text>
+  </g>
+</svg>

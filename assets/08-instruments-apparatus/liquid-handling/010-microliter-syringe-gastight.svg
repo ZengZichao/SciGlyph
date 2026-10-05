@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-microliter-syringe-gastight" data-cat="lh" data-spec="128"
+     data-tags="syringe,gas-tight,microliter,hamilton" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">微量注射器（气密式） / Gas-Tight Microliter Syringe</title>
+  <desc id="d">气密式微量注射器，带刻度筒和针头，用于精密进样</desc>
+  <g id="body"><rect x="58" y="30" width="12" height="60" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="56" y="22" width="16" height="10" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M62 22 L62 14 L66 14 L66 22" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M63 14 L63 8 L65 8 L65 14" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 8 L64 4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M60 40 L68 40 M60 48 L68 48 M60 56 L68 56 M60 64 L68 64 M60 72 L68 72 M60 80 L68 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 44 L64 44 M60 52 L64 52 M60 60 L64 60 M60 68 L64 68 M60 76 L64 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M54 90 L74 90 L74 94 L54 94 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 60 L68 60 L68 88 L60 88 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="带a标签空面板" data-name-en="panel-label-a" data-cat="tables-frames" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25">带a标签空面板 / panel_label_a</title>
+  <desc id="d-25">带(a)标签的空面板。关键词: 面板标签,子图标签,空面板</desc>
+  <g id="g-25-带a标签空面板">
+    <rect x="30" y="30" width="260" height="180" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="50" y="55" font-size="14" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">(a)</text>
+  </g>
+</svg>

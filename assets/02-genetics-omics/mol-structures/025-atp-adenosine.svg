@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="ATP简图" data-name-en="Atp Adenosine" data-cat="natural-sciences" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36">ATP简图 / atp_adenosine</title>
+  <desc id="d-36">展示ATP分子结构简图。关键词: atp,adenosine,energy currency</desc>
+  <g id="g-36-ATP简图">
+    <circle cx="40" cy="60" r="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="58" y1="60" x2="65" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="40" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <rect x="65" y="50" width="25" height="20" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="77" y="63" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">P</text>
+    <line x1="90" y1="60" x2="95" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="95" y="50" width="25" height="20" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="107" y="63" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">P</text>
+    <line x1="120" y1="60" x2="125" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="125" y="50" width="25" height="20" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="137" y="63" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">P</text>
+  </g>
+</svg>

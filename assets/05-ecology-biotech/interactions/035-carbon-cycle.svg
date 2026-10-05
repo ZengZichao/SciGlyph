@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="碳循环" data-name-en="Carbon Cycle" data-cat="natural-sciences" aria-labelledby="t-64 d-64" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-64">碳循环 / carbon_cycle</title>
+  <desc id="d-64">展示碳循环过程。关键词: carbon cycle,photosynthesis,respiration</desc>
+  <g id="g-64-碳循环">
+    <circle cx="240" cy="52" r="32" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="240" y="56" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">CO2</text>
+    <rect x="40" y="150" width="92" height="52" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="86" y="180" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">生产者</text>
+    <rect x="348" y="150" width="92" height="52" rx="8" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="394" y="180" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">消费者</text>
+    <rect x="194" y="230" width="92" height="52" rx="8" fill="#6b7280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="240" y="260" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">分解者</text>
+    <rect x="40" y="262" width="92" height="52" rx="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="86" y="292" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">化石燃料</text>
+    <path d="M 211.9,71.1 L 102.3,145.5" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="95.7,150 104.2,148.3 100.4,142.7" fill="#1f2937"/>
+    <path d="M 132,154.4 L 209.5,80.9" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="215.3,75.4 211.8,83.4 207.2,78.4" fill="#1f2937"/>
+    <path d="M 132,176 L 344,176" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="348,176 340,172.6 340,179.4" fill="#1f2937"/>
+    <path d="M 110,202 L 205,230" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="210,231.4 201.4,233.7 202.6,226.4" fill="#1f2937"/>
+    <path d="M 380,202 L 285,240" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="280,242 288.9,243.5 288.6,236.2" fill="#1f2937"/>
+    <path d="M 372,150 L 270.44,72.01" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="263.4,66.6 272.72,69.05 268.17,74.97" fill="#1f2937"/>
+    <path d="M 240,230 L 240,88" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="240,84 236.6,92 243.4,92" fill="#1f2937"/>
+    <path d="M 86,202 L 86,258" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <polygon points="86,262 82.6,254 89.4,254" fill="#6b7280"/>
+    <path d="M 120,262 L 206.9,86.9" fill="none" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <polygon points="210.6,81.2 207.44,90.08 201.57,83.88" fill="#D55E00" stroke-dasharray="2 2" data-drole="series-3"/>
+  </g>
+</svg>

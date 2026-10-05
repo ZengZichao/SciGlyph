@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="变形虫" data-name-en="Protozoan Amoeba" data-cat="natural-sciences" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">变形虫 / protozoan_amoeba</title>
+  <desc id="d-47">展示变形虫形态。关键词: amoeba,protozoan,pseudopod</desc>
+  <g id="g-47-变形虫">
+    <path d="M40,50 C50,35 70,30 85,40 C100,50 105,70 95,85 C85,100 65,105 50,95 C35,85 30,65 40,50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="60" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="75" cy="75" r="5" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="50" cy="80" r="4" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M90,50 C95,45 100,48 105,55" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+  </g>
+</svg>

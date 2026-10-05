@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="导出" data-name-en="export_arrow_box" data-cat="basic-icons-ui" aria-labelledby="t-68 d-68" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-68">导出 / export_arrow_box</title>
+  <desc id="d-68">导出与方框箭头图标。关键词: 导出,方框,箭头,export</desc>
+  <g id="g-68-导出">
+    <path d="M6 38 L6 18 Q6 14 10 14 L34 14 M42 6 L42 38 Q42 42 38 42 L10 42 Q6 42 6 38" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="26" y1="14" x2="42" y2="6" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="35.16,3.72 42,6 39.72,12.84" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

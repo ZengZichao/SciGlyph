@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-12_mlst_typing d-12_mlst_typing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12_mlst_typing">MLST 分型流程 / MLST Typing Pipeline</title>
+  <desc id="d-12_mlst_typing">骨架流程：基因组→MLST扫描→等位基因调用→ST型别分配→cgMLST/wgMLST→聚类分析→暴发追踪。工具：mlst, chewBBACA, PubMLST。输入：基因组FASTA；输出：ST型、聚类树。 关键词: bioinformatics workflow, mlst typing, cgMLST, wgMLST, chewBBACA, PubMLST, FASTA, skeleton template</desc>
+<defs>
+  <marker id="pp12__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp12__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp12__labels" data-name="labels">
+  <rect x="20" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Genome</text>
+
+  <rect x="145" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">MLST Scan</text>
+
+  <rect x="270" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Allele Call</text>
+
+  <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">ST Assign</text>
+
+  <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">cgMLST</text>
+
+  <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">wgMLST</text>
+
+  <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cluster</text>
+
+  <rect x="395" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Outbreak</text>
+
+  <line x1="125" y1="94.0" x2="145" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="94.0" x2="270" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="94.0" x2="395" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <path d="M 447.5 118 L 447.5 163.0 L 72.5 163.0 L 72.5 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="125" y1="232.0" x2="145" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="232.0" x2="270" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="232.0" x2="395" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp12__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MLST/cgMLST/wgMLST Typing</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Allele</text>
+  <rect x="90" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="106" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Genome</text>
+  <rect x="160" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="176" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ST/Outbreak</text>
+  <rect x="265" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="281" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Process</text>
+  </g>
+</svg>

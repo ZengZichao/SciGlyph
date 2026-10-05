@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="基因条带" data-name-en="Gene Bar" data-cat="natural-sciences" aria-labelledby="t-04 d-04" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-04">基因条带 / gene_bar</title>
+  <desc id="d-04">展示基因结构（外显子内含子）。关键词: gene,exon,intron,structure</desc>
+  <g id="g-04-基因条带">
+    <rect x="20" y="100" width="280" height="40" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="40" y="105" width="50" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="110" y="105" width="30" height="30" fill="#e5e7eb" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <rect x="160" y="105" width="60" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="240" y="105" width="40" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="15" y1="120" x2="25" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="25,116 32,120 25,124" fill="#1f2937"/>
+    <line x1="300" y1="120" x2="310" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="303,116 310,120 303,124" fill="#1f2937"/>
+    <text x="15" y="90" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="start">5'</text>
+    <text x="300" y="90" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="start">3'</text>
+  </g>
+</svg>

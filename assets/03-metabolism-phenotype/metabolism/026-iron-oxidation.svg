@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-26_iron_oxidation d-26_iron_oxidation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26_iron_oxidation">铁氧化(AMD) / Iron Oxidation (AMD)</title>
+  <desc id="d-26_iron_oxidation">酸性矿山排水中Acidithiobacillus ferrooxidans氧化Fe²⁺→Fe³⁺获能。Rusticyanin+细胞色素c氧化酶。关键词: iron oxidation, AMD, Acidithiobacillus, Fe2+</desc>
+  <defs>
+    <marker id="pp26__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="15" cy="45" r="9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="15" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Fe²⁺</text>
+        <circle cx="50" cy="45" r="9" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Fe³⁺</text>
+        <rect x="70" y="38" width="20" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="80.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ETC</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="24" y1="45" x2="41" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp26__ar)"/>
+        <line x1="59" y1="45" x2="70" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp26__ar)"/>
+    <text x="33" y="32" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Rus</text>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="39.15" y="70.0">pH~2,</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="37.39" y="78.26">Acidithiobacillus</text>
+    <text x="51.41" y="85.99" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ATP via PMF</text>
+  </g>
+</svg>

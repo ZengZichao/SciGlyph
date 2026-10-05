@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-circulating-water-bath-chiller" data-cat="hc" data-spec="128"
+     data-tags="circulating,chiller,water-bath,cooling,temperature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">低温冷却循环水浴机 / Circulating Water Bath Chiller</title>
+  <desc id="d">低温循环水浴/冷却循环，内外回路箭头</desc>
+  <g id="body"><rect x="20" y="30" width="88" height="78" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="28" y="38" width="72" height="20" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="30" y="40" width="68" height="16" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><text x="64" y="52" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">4°C</text>
+    <path d="M30 62 L98 62 L98 100 L30 100 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M20 70 L12 70 L12 78 L20 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M12 70 L8 66 L8 82 L12 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M108 70 L116 70 L116 78 L108 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M116 70 L120 66 L120 82 L116 78 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M8 74 L4 74 L4 78 L8 78 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M120 74 L124 74 L124 78 L120 78 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

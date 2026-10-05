@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-02_shotgun_metagenomics d-02_shotgun_metagenomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-02_shotgun_metagenomics">宏基因组鸟枪法流程 / Shotgun Metagenomics Pipeline</title>
+  <desc id="d-02_shotgun_metagenomics">骨架流程：样本→DNA提取→建库→鸟枪法测序→MEGAHIT组装→MetaBAT2分箱→CheckM2质量评估→Prokka注释→Bin比较分析。工具：MEGAHIT, MetaBAT2, CheckM2, Prokka。输入：FASTQ；输出：MAGs、注释GFF。 关键词: bioinformatics workflow, shotgun metagenomics, DNA, MEGAHIT, MetaBAT2, CheckM2, Prokka, skeleton template</desc>
+<defs>
+  <marker id="pp02__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp02__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp02__labels" data-name="labels">
+  <rect x="20" y="70" width="95" height="44" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="67.5" y="96.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Sample</text>
+
+  <rect x="127" y="70" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="174.5" y="96.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">DNA Extract</text>
+
+  <rect x="234" y="70" width="95" height="44" rx="8" ry="8"
+        fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="281.5" y="96.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Lib Prep</text>
+
+  <rect x="341" y="70" width="95" height="44" rx="8" ry="8"
+        fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="388.5" y="96.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Seq Shotgun</text>
+
+  <rect x="448" y="70" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="495.5" y="96.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Assembly</text>
+
+  <rect x="20" y="194" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="67.5" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">MEGAHIT</text>
+
+  <rect x="127" y="194" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="174.5" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Binning</text>
+
+  <rect x="234" y="194" width="95" height="44" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="281.5" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">MetaBAT2</text>
+
+  <rect x="341" y="194" width="95" height="44" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="388.5" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">CheckM2</text>
+
+  <rect x="448" y="194" width="95" height="44" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="495.5" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Prokka</text>
+
+  <rect x="20" y="318" width="95" height="44" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="67.5" y="344.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Bin Compare</text>
+
+  <line x1="115" y1="92.0" x2="127" y2="92.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="222" y1="92.0" x2="234" y2="92.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="329" y1="92.0" x2="341" y2="92.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="436" y1="92.0" x2="448" y2="92.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <path d="M 495.5 114 L 495.5 154.0 L 67.5 154.0 L 67.5 194" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="115" y1="216.0" x2="127" y2="216.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="222" y1="216.0" x2="234" y2="216.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="329" y1="216.0" x2="341" y2="216.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <line x1="436" y1="216.0" x2="448" y2="216.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round"/>
+  <path d="M 495.5 238 L 495.5 278.0 L 67.5 278.0 L 67.5 318" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Shotgun Metagenomics Pipeline</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sample</text>
+  <rect x="90" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="106" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Assembly</text>
+  <rect x="174" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="190" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Tools</text>
+  <rect x="237" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="253" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">QC</text>
+  </g>
+</svg>

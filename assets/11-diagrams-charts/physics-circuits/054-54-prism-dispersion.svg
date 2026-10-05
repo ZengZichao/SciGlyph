@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="三棱镜色散" data-name-en="prism-dispersion" data-cat="physics-electronics" aria-labelledby="t-54 d-54" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-54">三棱镜色散 / prism_dispersion</title>
+  <desc id="d-54">三棱镜白光色散示意图。关键词: 三棱镜,色散,光谱</desc>
+  <g id="g-54-三棱镜色散">
+    <path d="M 160 60 L 100 180 L 220 180 Z" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <line x1="40" y1="120" x2="130" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="130" y1="120" x2="195" y2="130" stroke="#D55E00" stroke-width="2" fill="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="130" y1="120" x2="200" y2="140" stroke="#E69F00" stroke-width="2" fill="none" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="130" y1="120" x2="205" y2="150" stroke="#009E73" stroke-width="2" fill="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <line x1="130" y1="120" x2="210" y2="160" stroke="#0072B2" stroke-width="2" fill="none" data-drole="series-1"/>
+    <line x1="195" y1="130" x2="280" y2="145" stroke="#D55E00" stroke-width="2" fill="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="200" y1="140" x2="280" y2="160" stroke="#E69F00" stroke-width="2" fill="none" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="205" y1="150" x2="280" y2="175" stroke="#009E73" stroke-width="2" fill="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <line x1="210" y1="160" x2="280" y2="190" stroke="#0072B2" stroke-width="2" fill="none" data-drole="series-1"/>
+  </g>
+</svg>

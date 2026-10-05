@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-bar-horizontal-stacked" data-cat="ch" data-spec="128"
+     data-tags="chart,bar,horizontal,stacked,proportion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">水平堆叠条形图 / Chart Bar Horizontal Stacked</title>
+  <desc id="d">水平堆叠条形图。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="20" y="30" width="40" height="16" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="60" y="30" width="30" height="16" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="90" y="30" width="20" height="16" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <rect x="20" y="56" width="25" height="16" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="45" y="56" width="45" height="16" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="90" y="56" width="15" height="16" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <rect x="20" y="82" width="55" height="16" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="75" y="82" width="20" height="16" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <rect x="95" y="82" width="10" height="16" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <line x1="44" y1="20" x2="44" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="68" y1="20" x2="68" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="92" y1="20" x2="92" y2="108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

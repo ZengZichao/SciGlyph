@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-tof-analyzer" data-cat="an" data-spec="128"
+     data-tags="tof,mass,analyzer,flight,drift,time,pulsed" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">飞行时间质量分析器 / TOF Analyzer</title>
+  <desc id="d">飞行时间分析器：脉冲离子源→漂移管→检测器。</desc>
+  <g id="body">
+    <rect x="10" y="22" width="108" height="84" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="22" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="16" y="38" width="16" height="24" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<polygon points="32,50 38,46 38,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="24" y="52" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Pulse</text>
+<rect x="40" y="40" width="52" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="42" y="42" width="48" height="16" rx="2" fill="#BFE0FF" opacity="0.15" stroke="none" data-ls="liquid"/>
+    <text x="66" y="53" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Drift Tube</text>
+<rect x="96" y="36" width="14" height="28" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="98" y="39" width="10" height="22" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="103" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">MCP</text>
+<line x1="38" y1="46" x2="96" y2="46" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round"/>
+<line x1="38" y1="50" x2="80" y2="50" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round"/>
+<line x1="38" y1="54" x2="60" y2="54" fill="none" opacity="0.8" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round"/>
+    <polygon points="86,43 98,46 86,49" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="72,47 84,50 72,53" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="64" y="80" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">TOF-MS</text>
+    <text x="64" y="90" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">m/z ∝ t²</text>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

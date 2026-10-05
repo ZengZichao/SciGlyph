@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-fire-drill-evacuate-walk" data-cat="pp" data-spec="128"
+     data-tags="fire drill,evacuation,walk,direction,arrow,exit" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">疏散行走方向 / Fire Drill Evacuate Walk</title>
+  <desc id="d">火灾疏散行走方向指示。</desc>
+  
+  <g id="figure"><circle cx="44" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M34 32 L32 60 L26 72 L36 72 L40 60 L44 72 L54 72 L48 60 L54 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M36 60 L24 92 L34 92 L44 68 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M52 60 L60 92 L70 92 L56 68 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M54 36 L68 30 L72 36 L58 40 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M34 36 L22 42 L20 48 L32 44 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="prop"><path d="M80 48 L108 48 L104 40 L120 52 L104 64 L108 56 L80 56 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

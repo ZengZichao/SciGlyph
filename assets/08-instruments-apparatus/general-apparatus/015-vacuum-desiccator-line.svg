@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="真空管路" data-name-en="vacuum_desiccator_line" data-cat="lab-equipment" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-58">真空管路 / vacuum_desiccator_line</title>
+  <desc id="d-58">真空抽滤和减压操作。关键词: 真空管,vacuum,抽滤,减压</desc>
+  <g id="g-58-真空管路">
+    <line x1="30" y1="120" x2="290" y2="120" stroke="#1f2937" stroke-width="2"/>
+    <line x1="30" y1="126" x2="290" y2="126" stroke="#1f2937" stroke-width="2"/>
+    <rect x="60" y="100" width="20" height="30" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="120" y="100" width="20" height="30" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="180" y="100" width="20" height="30" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="240" y="100" width="20" height="30" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="70" y1="100" x2="70" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="130" y1="100" x2="130" y2="70" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="190" y1="100" x2="190" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="70" cy="55" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="190" cy="55" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="250" y="60" width="30" height="40" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="265" y="83" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">P</text>
+    <line x1="265" y1="100" x2="265" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="160" y="170" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Vacuum Line</text>
+  </g>
+</svg>

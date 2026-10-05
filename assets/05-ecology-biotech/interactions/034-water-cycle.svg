@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="水循环" data-name-en="Water Cycle" data-cat="natural-sciences" aria-labelledby="t-63 d-63" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-63">水循环 / water_cycle</title>
+  <desc id="d-63">展示水循环过程。关键词: water cycle,evaporation,precipitation</desc>
+  <g id="g-63-水循环">
+    <rect x="20" y="280" width="440" height="60" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M100,280 C100,240 120,220 160,220 C200,220 220,200 220,180 C220,160 200,140 160,140 C120,140 100,160 100,180" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M300,280 C300,250 310,230 340,230 C370,230 380,210 380,190 C380,170 370,150 340,150 C310,150 300,170 300,190" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M80,280 L80,200" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="4 3" data-drole="series-1"/>
+    <path d="M120,280 L120,220" fill="none" stroke="#0072B2" stroke-width="1.5" stroke-dasharray="4 3" data-drole="series-1"/>
+    <path d="M200,140 L300,150" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <polygon points="295,145 305,150 295,155" fill="#6b7280"/>
+    <path d="M180,220 L163.16,275.51" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="160,285 158.42,273.93 167.91,277.09" fill="#0072B2" data-drole="series-1"/>
+    <path d="M350,230 L333.71,275.72" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="330,285 329.07,273.86 338.36,277.57" fill="#0072B2" data-drole="series-1"/>
+  </g>
+</svg>

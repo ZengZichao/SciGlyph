@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-tubing-ptfe-cut" data-cat="cs" data-spec="128"
+     data-tags="tubing,ptfe,teflon,cut,chemical resistant" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">PTFE管(切割段) / PTFE Tubing Cut</title>
+  <desc id="d">PTFE(特氟龙)管切割段，化学惰性。</desc>
+  <g id="body"><path d="M20 52 L108 52 L108 76 L20 76 Z" fill="#FFFFFF" opacity="0.25" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M20 52 L108 52 L108 76 L20 76 Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M24 58 L104 58 M24 70 L104 70" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M20 52 L20 76 M108 52 L108 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

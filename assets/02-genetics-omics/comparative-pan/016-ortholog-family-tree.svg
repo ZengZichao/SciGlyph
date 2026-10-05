@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-ortholog_family_tree d-ortholog_family_tree" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-ortholog_family_tree">同源基因家族树 / Orthologous gene family tree</title>
+  <desc id="d-ortholog_family_tree">同源基因家族的系统发育树。schematic, not to scale. 关键词: ortholog, gene family, tree</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="gene-tree">
+  <line x1="80" y1="200" x2="180" y2="120" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="80" y1="200" x2="180" y2="280" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="180" y1="120" x2="300" y2="80" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="180" y1="120" x2="300" y2="160" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="180" y1="280" x2="300" y2="240" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="180" y1="280" x2="300" y2="320" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+</g>
+<g data-name="tips">
+  <circle cx="300" cy="80" r="6" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="310" y="84" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SpA_gene1</text>
+  <circle cx="300" cy="160" r="6" fill="#A2305B" data-pp="archaea"/>
+  <text x="310" y="164" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SpB_gene1</text>
+  <circle cx="300" cy="240" r="6" fill="#00857A" data-pp="metabolism"/>
+  <text x="310" y="244" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SpC_gene1</text>
+  <circle cx="300" cy="320" r="6" fill="#3F8FBF" data-pp="eukaryote"/>
+  <text x="310" y="324" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SpD_gene1</text>
+</g>
+<g data-name="events">
+  <rect x="172" y="112" width="16" height="16" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="200" y="120" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" text-anchor="start" data-pp="mge">Duplication</text>
+  <rect x="172" y="272" width="16" height="16" fill="#5B8C3E" data-pp="virus" rx="2"/>
+<text x="185" y="284" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Loss</text>
+  <circle cx="180" cy="200" r="5" fill="#8C6D3F" data-pp="host"/>
+  <line x1="180" y1="200" x2="180" y2="280" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Orthologous Gene Family Tree (schematic)</text>
+</svg>

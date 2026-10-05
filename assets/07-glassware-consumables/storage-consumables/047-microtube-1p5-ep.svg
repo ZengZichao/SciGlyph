@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-microtube-1.5-ep" data-cat="st" data-spec="128"
+     data-tags="microtube,ep,eppendorf,1.5mL,hinged,microcentrifuge" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">1.5mL EP管 / 1.5mL Microcentrifuge Tube (EP)</title>
+  <desc id="d">1.5mL铰链盖微量离心管（EP管），带刻度。</desc>
+  <g id="body"><path d="M48 32 L48 96 L58 116 L70 116 L80 96 L80 32 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M50 60 L78 60 L78 96 L70 114 L58 114 L50 96 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M50 60 L78 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M50 72 L58 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 82 L56 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M52 92 L58 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><g id="cap"><path d="M44 16 L44 34 L84 34 L84 16 Q78 12 64 12 Q50 12 44 16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M46 24 L82 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M84 20 L90 16 L90 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g></g>
+  
+</svg>

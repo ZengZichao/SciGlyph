@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="连接点" data-name-en="connector-circle-on" data-cat="flowchart-logic" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09">连接点 / connector_circle_on</title>
+  <desc id="d-09">页内连接点。关键词: flowchart,connector</desc>
+  <g id="g-09-连接点">
+    <circle cx="60" cy="40" r="18" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="40" r="4" fill="#1f2937" stroke="none"/>
+    <text x="60" y="72" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">ON</text>
+  </g>
+</svg>

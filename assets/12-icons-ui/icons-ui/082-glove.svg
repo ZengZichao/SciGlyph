@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-glove" data-cat="ic" data-spec="24"
+     data-tags="icon,glove,safety,ppe,protection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">手套图标 / Icon Glove</title>
+  <desc id="d">手套微型图标。</desc>
+  <g id="body">
+    <path d="M8,8 L8,18 Q8,20 10,20 L14,20 Q16,20 16,18 L16,8 Q16,6 14,6 L10,6 Q8,6 8,8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M6,10 L8,10 L8,14 L6,14 Q5,14 5,13 L5,11 Q5,10 6,10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M16,10 L18,10 Q19,10 19,11 L19,13 Q19,14 18,14 L16,14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

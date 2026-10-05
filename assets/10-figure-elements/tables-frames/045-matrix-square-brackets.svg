@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="3x3方阵括号" data-name-en="matrix-square-brackets" data-cat="tables-frames" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45">3x3方阵括号 / matrix_square_brackets</title>
+  <desc id="d-45">3x3方阵方括号。关键词: 矩阵,方括号,方阵</desc>
+  <g id="g-45-3x3方阵括号">
+    <line x1="80" y1="50" x2="70" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="50" x2="70" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="190" x2="80" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="240" y1="50" x2="250" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="250" y1="50" x2="250" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="250" y1="190" x2="240" y2="190" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="120" y="90" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+    <text x="170" y="90" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="220" y="90" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="120" y="130" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="170" y="130" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+    <text x="220" y="130" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="120" y="170" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="170" y="170" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">0</text>
+    <text x="220" y="170" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1</text>
+  </g>
+</svg>

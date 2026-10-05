@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-pipette-repeater-digital" data-cat="lh" data-spec="128"
+     data-tags="pipette,repeater,digital,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">连续分液器 / Digital Repeater Pipette</title>
+  <desc id="d">数字式连续分液器，带储液管接头</desc>
+  <g id="body"><path d="M52 10 L76 10 L76 18 L52 18 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M54 18 L54 42 L50 42 L50 52 L54 52 L54 60 L50 60 L50 72 L54 72 L54 80 L50 80 L50 92 L54 92 L54 100 L74 100 L74 92 L78 92 L78 80 L74 80 L74 72 L78 72 L78 60 L74 60 L74 52 L78 52 L78 42 L74 42 L74 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="56" y="22" width="16" height="16" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="58" y="24" width="12" height="8" rx="1" fill="#2B7DE9" opacity="0.8" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><text x="64" y="30" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">50μL</text>
+    <path d="M58 34 L70 34 L70 36 L58 36 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M58 100 L58 110 L62 116 L66 116 L70 110 L70 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 94 L72 94 L72 96 L56 96 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

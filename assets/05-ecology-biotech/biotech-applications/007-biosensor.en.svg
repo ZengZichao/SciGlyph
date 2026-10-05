@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="微生物生物传感器" data-name-en="Microbial Biosensor" data-cat="05-eco-seq" data-tags="生物传感器,受体,信号转导,报告基因,电极,生物发光,剂量响应" role="img" aria-labelledby="t-37-biosensor d-37-biosensor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37-biosensor">Microbial Biosensor</title>
+  <desc id="d-37-biosensor">工程菌膜受体识别待测物并经胞内级联放大驱动报告基因，由电极与生物发光读出信号并呈剂量响应曲线。关键词: 生物传感器, 受体, 信号转导, 报告基因, 电极, 生物发光, 剂量响应</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 待测物 -->
+  <path d="M10 24 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M8 40 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M18 12 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 工程菌 -->
+  <rect x="14" y="42" width="46" height="24" rx="12" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.8"/>
+  <!-- 膜受体识别待测物 -->
+  <path d="M22 42 V50 M22 47 C18 44 16 40 16 35 M22 47 C26 44 28 40 28 35" stroke="#2E7D5B" stroke-width="1.8"/>
+  <path d="M22 27 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M46 42 V50 M46 47 C42 44 40 40 40 35 M46 47 C50 44 52 40 52 35" stroke="#2E7D5B" stroke-width="1.8"/>
+  <path d="M46 27 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 细胞内信号级联 -->
+  <path d="M18 56 H26 M23.5 53.5 L26 56 L23.5 58.5" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M31 56 H39 M36.5 53.5 L39 56 L36.5 58.5" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M44 56 H52 M49.5 53.5 L52 56 L49.5 58.5" stroke="#1F6F8B" stroke-width="1.4"/>
+  <rect x="22" y="60" width="18" height="5" rx="1.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M27 60 v5 M33 60 v5 M39 60 v5" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M31 55 V60 M28.5 58 L31 60 L33.5 58" stroke="#1F6F8B" stroke-width="1.2"/>
+  <!-- 电极读出 -->
+  <path d="M60 50 H70 V40 H78" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M78 40 V74 M88 40 V74" stroke="#2B3A42" stroke-width="2.4"/>
+  <path d="M78 40 H88" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M80 48 H86 M83.5 45.5 L86 48 L83.5 50.5" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M83 28 l-4 8 h4 l-3 8 l7 -9 h-4 l3 -7 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- 生物发光输出 -->
+  <path d="M88 44 H93" stroke="#B57A17" stroke-width="1.4" stroke-dasharray="2 2"/>
+  <circle cx="102" cy="44" r="7" fill="#E8B04B" fill-opacity="0.6" stroke="#B57A17" stroke-width="1.4"/>
+  <rect x="99" y="51" width="6" height="4" rx="1" fill="#B57A17" stroke="none"/>
+  <path d="M102 34 v-3 M112 44 h-3 M102 58 v3 M92 44 h3" stroke="#B57A17" stroke-width="1.4"/>
+  <!-- 剂量响应曲线 -->
+  <path d="M70 112 V88" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M70 112 H114" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M74 110 C84 110 90 108 96 100 C101 93 107 89 113 88" stroke="#B57A17" stroke-width="1.8"/>
+  <path d="M70 100 H110" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <circle cx="96" cy="100" r="2.8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M66 110 h4 M66 100 h4" stroke="#2B3A42" stroke-width="1.2"/>
+  <text x="62" y="84" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">Dose response</text>
+</g>
+</svg>

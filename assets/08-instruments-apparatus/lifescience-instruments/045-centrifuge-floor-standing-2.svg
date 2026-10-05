@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-centrifuge-floor-standing" data-cat="ls" data-spec="128"
+     data-tags="centrifuge,floor,standing,high,speed,refrigerated,large,capacity" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">落地式高速离心机 / Floor-standing Centrifuge</title>
+  <desc id="d">落地式大容量高速离心机：大型转子腔、冷冻系统。</desc>
+  <g id="body">
+<rect x="22" y="10" width="84" height="108" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="22" y="10" width="84" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<path d="M28 22 Q64 8 100 22 L100 28 Q64 14 28 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="20" width="16" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="64" cy="54" r="26" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="64" cy="54" r="8" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="44" y="38" width="6" height="10" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="78" y="38" width="6" height="10" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="44" y="60" width="6" height="10" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="78" y="60" width="6" height="10" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="30" y="86" width="40" height="14" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="50.0" y="94.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">15000×g</text>
+    <text x="52.82" y="101.98" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">4°C</text>
+    <circle cx="78" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="88" cy="90" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="78" cy="100" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="88" cy="100" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="28" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="112" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

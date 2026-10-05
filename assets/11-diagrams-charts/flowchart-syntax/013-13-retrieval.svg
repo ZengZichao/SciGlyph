@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="检索" data-name-en="retrieval" data-cat="flowchart-logic" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">检索 / retrieval</title>
+  <desc id="d-13">数据检索操作。关键词: flowchart,retrieval</desc>
+  <g id="g-13-检索">
+    <path d="M25,15 L95,15 Q110,40 95,65 L25,65 Q10,40 25,15 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Fetch</text>
+  </g>
+</svg>

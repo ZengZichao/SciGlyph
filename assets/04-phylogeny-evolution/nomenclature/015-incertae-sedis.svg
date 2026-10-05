@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-incertae_sedis d-incertae_sedis" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-incertae_sedis">位置未定 / Incertae sedis</title>
+  <desc id="d-incertae_sedis">Incertae sedis with uncertain phylogenetic placement and question mark 关键词: incertae sedis, uncertain</desc>
+  
+  <g id="layer-body" data-name="body">
+    <line x1="20" y1="50" x2="40" y2="50" stroke="#1B2733" stroke-width="2" stroke-linecap="round" data-pp="ink"/>
+    <line x1="40" y1="50" x2="50" y2="35" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <line x1="40" y1="50" x2="50" y2="65" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="ink"/>
+    <circle cx="60" cy="50" r="6" fill="#C42D2D" stroke="#93A0AC" stroke-width="1.5" data-pp="alert" stroke-dasharray="3,2"/>
+    <text x="60" y="53" text-anchor="middle" font-size="8" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">?</text>
+    <line x1="50" y1="50" x2="54" y2="50" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted" stroke-dasharray="2,2"/>
+  <path d="M54,44 Q64,36 66,56" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="60" y1="56" x2="60" y2="62" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="60" cy="50" r="2" fill="#C42D2D" stroke="#1B2733" stroke-width="0.6" data-pp="alert"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">位置未定</text>
+  </g>
+</svg>

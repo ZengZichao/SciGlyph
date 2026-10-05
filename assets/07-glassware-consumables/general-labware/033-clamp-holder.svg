@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="试管夹" data-name-en="clamp_holder" data-cat="lab-equipment" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33">试管夹 / clamp_holder</title>
+  <desc id="d-33">夹持试管进行加热操作。关键词: 试管夹,clamp,夹持,加热</desc>
+  <g id="g-33-试管夹">
+    <path d="M 25 15 L 25 60 Q 25 70 35 75 L 50 80" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 35 15 L 35 55 Q 35 65 42 70 L 55 75" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 50 80 Q 60 85 70 80 L 85 70" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 55 75 Q 62 80 72 76 L 85 66" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
+    <path d="M 85 70 Q 95 65 95 55 L 90 50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 85 66 Q 92 62 92 54 L 88 50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="30" cy="15" r="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-methanobacterium d-methanobacterium" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-methanobacterium">产甲烷杆菌 / Methanobacterium</title>
+  <desc id="d-methanobacterium">Straight rod cells in chains with gas vesicles. Class Methanobacteria (GTDB phylum Methanobacteriota; 旧称 Euryarchaeota 已拆分). 关键词: Methanobacterium, rod, chain, methanogen, Methanobacteria, gas vesicle</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="18" cy="48" rx="8" ry="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="36" cy="48" rx="8" ry="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="54" cy="48" rx="8" ry="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="72" cy="48" rx="8" ry="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <ellipse cx="18" cy="46" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+
+    <ellipse cx="54" cy="50" rx="3" ry="1.5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="0.5" fill-opacity="0.7"/>
+    <line x1="26" y1="48" x2="28" y2="48" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="44" y1="48" x2="46" y2="48" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="62" y1="48" x2="64" y2="48" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="54" y1="42" x2="60" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="52" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">vesicle</text>
+    <text x="20" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Methanobacteria</text>
+    <text x="55" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">chain</text>
+
+  </g>
+</svg>

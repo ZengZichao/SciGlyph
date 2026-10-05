@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="带芯电感" data-name-en="inductor-core" data-cat="physics-electronics" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-07">带芯电感 / inductor_core</title>
+  <desc id="d-07">带磁芯的电感线圈符号。关键词: 电感,磁芯,线圈,无源元件</desc>
+  <g id="g-07-带芯电感">
+    <line x1="10" y1="40" x2="30" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 30 40 Q 37 25 45 40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 45 40 Q 52 25 60 40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 60 40 Q 67 25 75 40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 75 40 Q 82 25 90 40" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="90" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="30" y1="50" x2="90" y2="50" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="30" y1="55" x2="90" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="坩埚架" data-name-en="crucible_holder" data-cat="lab-equipment" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">坩埚架 / crucible_holder</title>
+  <desc id="d-34">支撑三角架放置坩埚。关键词: 坩埚架,holder,支撑,坩埚</desc>
+  <g id="g-34-坩埚架">
+    <line x1="60" y1="38" x2="60" y2="96" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+    <line x1="34" y1="49" x2="24" y2="104" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <line x1="86" y1="49" x2="96" y2="104" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <ellipse cx="60" cy="45" rx="30" ry="8" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <ellipse cx="60" cy="45" rx="21" ry="5" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <line x1="55" y1="98" x2="65" y2="98" stroke="#6b7280" stroke-width="2" stroke-linecap="round"/>
+    <line x1="19" y1="106" x2="29" y2="106" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+    <line x1="91" y1="106" x2="101" y2="106" stroke="#1f2937" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>

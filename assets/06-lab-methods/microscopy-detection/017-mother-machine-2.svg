@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-mother_machine d-mother_machine" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mother_machine">微流控Mother Machine / Mother machine microfluidic single cell</title>
+  <desc id="d-mother_machine">Mother Machine微流控芯片：死端通道中细菌生长，母细胞始终在通道底部被追踪。连续培养基流动冲走子细胞。长期单细胞谱系追踪。关键词: Mother Machine, microfluidic, single cell, lineage tracking, dead-end channel</desc>
+  <g id="layer-body-mother_machine" data-name="body">
+    
+    <rect x="10" y="15" width="80" height="55" rx="3" ry="3" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" />
+    
+    <rect x="15" y="35" width="70" height="8" rx="2" ry="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2" stroke="#1B2733" stroke-width="1" />
+    
+    <rect x="20" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="30" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="40" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="50" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="60" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="70" y="43" width="4" height="20" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5" />
+    
+    <rect x="21" y="55" width="2" height="4" rx="0.5" ry="0.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="21" y="50" width="2" height="4" rx="0.5" ry="0.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="31" y="55" width="2" height="4" rx="0.5" ry="0.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="31" y="50" width="2" height="4" rx="0.5" ry="0.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="31" y="45" width="2" height="4" rx="0.5" ry="0.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    
+    <path d="M15,30 L80,30" fill="none" stroke="#00857A" data-pp="metabolism" stroke-width="1" />
+    <polygon points="78,28 82,30 78,32" fill="#00857A" data-pp="metabolism" />
+    <text x="50" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">medium flow</text>
+  </g>
+  <g id="layer-annotation-mother_machine" data-name="annotation">
+    <text x="50" y="77.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Mother Machine</text>
+    <text x="50" y="85.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">single-cell tracking</text>
+  </g>
+</svg>

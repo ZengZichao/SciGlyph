@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="SNP 距离热图" data-name-en="SNP distance heatmap" data-cat="04-phylo" data-tags="SNP,距离矩阵,热图,色阶,聚类" aria-labelledby="t-17-snp-heatmap d-17-snp-heatmap" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17-snp-heatmap">SNP distance heatmap</title>
+  <desc id="d-17-snp-heatmap">NJ 聚类树并排。关键词: SNP, 距离矩阵, 热图, 色阶, 聚类</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="16" y="24" font-size="10" fill="#2B3A42">SNP distance matrix (5 × 5 isolates)</text>
+    <g fill="#2B3A42" font-size="9" text-anchor="end">
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="43">Sp. A</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="65">Sp. B</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="87">Sp. C</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="109">Sp. D</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="131">Sp. E</text>
+    </g>
+    <g>
+      <rect x="68" y="26" width="22" height="22" fill="#DCEEE4"/>
+      <rect x="90" y="26" width="22" height="22" fill="#C6D3E3"/>
+      <rect x="112" y="26" width="22" height="22" fill="#A79CC8"/>
+      <rect x="134" y="26" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="156" y="26" width="22" height="22" fill="#5B4B8A"/>
+
+      <rect x="68" y="48" width="22" height="22" fill="#C6D3E3"/>
+      <rect x="90" y="48" width="22" height="22" fill="#DCEEE4"/>
+      <rect x="112" y="48" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="134" y="48" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="156" y="48" width="22" height="22" fill="#5B4B8A"/>
+
+      <rect x="68" y="70" width="22" height="22" fill="#A79CC8"/>
+      <rect x="90" y="70" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="112" y="70" width="22" height="22" fill="#DCEEE4"/>
+      <rect x="134" y="70" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="156" y="70" width="22" height="22" fill="#7B6BA5"/>
+
+      <rect x="68" y="92" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="90" y="92" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="112" y="92" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="134" y="92" width="22" height="22" fill="#DCEEE4"/>
+      <rect x="156" y="92" width="22" height="22" fill="#A79CC8"/>
+
+      <rect x="68" y="114" width="22" height="22" fill="#5B4B8A"/>
+      <rect x="90" y="114" width="22" height="22" fill="#5B4B8A"/>
+      <rect x="112" y="114" width="22" height="22" fill="#7B6BA5"/>
+      <rect x="134" y="114" width="22" height="22" fill="#A79CC8"/>
+      <rect x="156" y="114" width="22" height="22" fill="#DCEEE4"/>
+    </g>
+    <g fill="none" stroke="#FFFFFF" stroke-width="1.2">
+      <path d="M 68 26 H 178 V 136 H 68 Z"/>
+    </g>
+    <g fill="#2B3A42" font-size="9" text-anchor="middle">
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="79" y="150">A</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="101" y="150">B</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="123" y="150">C</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="145" y="150">D</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="167" y="150">E</text>
+    </g>
+    <rect x="190" y="26" width="8" height="22" fill="#DCEEE4"/>
+    <rect x="190" y="48" width="8" height="22" fill="#C6D3E3"/>
+    <rect x="190" y="70" width="8" height="22" fill="#A79CC8"/>
+    <rect x="190" y="92" width="8" height="22" fill="#7B6BA5"/>
+    <rect x="190" y="114" width="8" height="22" fill="#5B4B8A"/>
+    <g fill="#2B3A42" font-size="9">
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="201.0" y="33.4">low</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="201" y="134">high</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="216" y="81" font-size="9" transform="rotate(-90 216 81)" text-anchor="middle">Distance</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-spectrum-peaks-xrd" data-cat="ch" data-spec="128"
+     data-tags="chart,spectrum,xrd,peaks,diffraction,comparison" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">XRD上下谱对置 / Chart Spectrum Peaks XRD</title>
+  <desc id="d">XRD上下两谱对置峰线。</desc>
+  <g id="body">
+    <line x1="12" y1="64" x2="116" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="12" y1="20" x2="12" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M20,62 L30,62 L35,35 L40,62 L55,62 L60,28 L65,62 L80,62 L85,40 L90,62 L105,62" fill="#2B7DE9" stroke="none" stroke-width="2" data-ls="accent"/>
+    <path d="M20,66 L30,66 L35,93 L40,66 L55,66 L60,100 L65,66 L80,66 L85,88 L90,66 L105,66" fill="#F5A623" stroke="none" stroke-width="2" data-ls="warn"/>
+  </g>
+</svg>

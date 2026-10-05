@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-dispensing-robot-deck" data-cat="lh" data-spec="128"
+     data-tags="robot,deck,automation,dispensing,workstation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">移液工作站 / Dispensing Robot Deck</title>
+  <desc id="d">移液工作站台面，含板位和模块布局</desc>
+  <g id="body"><rect x="16" y="40" width="96" height="72" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="20" y="44" width="88" height="64" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="24" y="48" width="20" height="28" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="48" y="48" width="20" height="28" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="72" y="48" width="32" height="28" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="24" y="80" width="28" height="24" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="56" y="80" width="20" height="24" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="80" y="80" width="24" height="24" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M28 52 L40 52 L40 72 L28 72 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M52 52 L64 52 L64 72 L52 72 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M76 52 L100 52 L100 72 L76 72 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

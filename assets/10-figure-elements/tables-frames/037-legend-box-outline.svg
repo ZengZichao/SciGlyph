@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="图例边框盒" data-name-en="legend-box-outline" data-cat="tables-frames" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">图例边框盒 / legend_box_outline</title>
+  <desc id="d-37">带边框的图例盒。关键词: 图例,边框,图例盒</desc>
+  <g id="g-37-图例边框盒">
+    <rect x="100" y="60" width="120" height="120" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="110" y="75" width="12" height="12" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <text x="135" y="86" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">A</text>
+    <rect x="110" y="100" width="12" height="12" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="135" y="111" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">B</text>
+    <rect x="110" y="125" width="12" height="12" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="135" y="136" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">C</text>
+    <rect x="110" y="150" width="12" height="12" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="135" y="161" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">D</text>
+  </g>
+</svg>

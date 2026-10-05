@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="惠斯通电桥" data-name-en="circuit-wheatstone-bridge" data-cat="physics-electronics" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50">惠斯通电桥 / circuit_wheatstone_bridge</title>
+  <desc id="d-50">四电阻惠斯通电桥电路。关键词: 电桥,惠斯通,测量</desc>
+  <g id="g-50-惠斯通电桥">
+    <line x1="160" y1="60" x2="140" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="120" y1="100" x2="100" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="160" y1="60" x2="180" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="200" y1="100" x2="220" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="100" y1="120" x2="120" y2="140" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="140" y1="160" x2="160" y2="180" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="220" y1="120" x2="200" y2="140" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="180" y1="160" x2="160" y2="180" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="115" y="80" width="30" height="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="130" y="95" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R1</text>
+    <rect x="175" y="80" width="30" height="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="190" y="95" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R2</text>
+    <rect x="115" y="140" width="30" height="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="130" y="155" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R3</text>
+    <rect x="175" y="140" width="30" height="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="190" y="155" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R4</text>
+    <line x1="100" y1="120" x2="145" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="175" y1="120" x2="220" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="160" y1="60" x2="160" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="160" y1="180" x2="160" y2="200" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <circle cx="160" cy="120" r="15" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="160" y="125" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">G</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>参比电极</title>
+  <line x1="12" y1="2" x2="12" y2="8" stroke-width="1.5"/>
+  <rect x="10" y="8" width="4" height="8" rx="0.5"/>
+  <line x1="12" y1="16" x2="12" y2="20" stroke-width="1"/>
+  <circle cx="12" cy="21" r="1"/>
+  <line x1="10" y1="10" x2="14" y2="10" stroke-width="0.75"/>
+  <line x1="10" y1="13" x2="14" y2="13" stroke-width="0.75"/>
+  <rect x="11" y="5" width="2" height="2" rx="0.5"/>
+  <line x1="12" y1="18" x2="10" y2="19" stroke-width="0.75"/>
+  <line x1="12" y1="18" x2="14" y2="19" stroke-width="0.75"/>
+  <line x1="10" y1="19" x2="14" y2="19" stroke-width="0.75"/>
+</svg>

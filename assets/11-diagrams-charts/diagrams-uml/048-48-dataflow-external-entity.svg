@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="数据流外部实体" data-name-en="Dataflow External Entity" data-cat="diagrams-sw-uml" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-48">数据流外部实体 / dataflow_external_entity</title>
+  <desc id="d-48">数据流图外部实体矩形。关键词: external,entity,dfd</desc>
+  <g id="g-48-数据流外部实体">
+    <rect x="20" y="15" width="80" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Entity</text>
+  </g>
+</svg>

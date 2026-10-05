@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-gene_duplication_loss d-gene_duplication_loss" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gene_duplication_loss">基因重复与丢失 / Gene duplication and loss</title>
+  <desc id="d-gene_duplication_loss">基因重复与丢失事件展示。schematic, not to scale. 关键词: duplication, loss, paralog</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="tree">
+  <line x1="80" y1="200" x2="180" y2="140" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="80" y1="200" x2="180" y2="260" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="180" y1="140" x2="300" y2="100" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="180" y1="140" x2="300" y2="180" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="180" y1="260" x2="300" y2="230" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="180" y1="260" x2="300" y2="300" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+</g>
+<g data-name="gene-copies">
+  <rect x="320" y="92" width="20" height="16" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="345" y="92" width="20" height="16" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="320" y="172" width="20" height="16" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="345" y="172" width="20" height="16" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <rect x="320" y="222" width="20" height="16" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="345" y="222" width="20" height="16" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <rect x="320" y="292" width="20" height="16" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="240" y="130" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" text-anchor="middle" data-pp="mge">Duplication</text>
+  <text x="250" y="304" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">Loss (Copy B)</text>
+</g>
+<g data-name="legend">
+  <rect x="420" y="80" width="15" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="445" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Copy A</text>
+  <rect x="420" y="100" width="15" height="12" fill="#6C3FA0" data-pp="gene"/>
+  <text x="445" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Copy B (paralog)</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Duplication &amp; Loss (schematic)</text>
+</svg>

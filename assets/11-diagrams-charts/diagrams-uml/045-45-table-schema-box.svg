@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="表结构框带主键标记" data-name-en="Table Schema Box" data-cat="diagrams-sw-uml" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45">表结构框带主键标记 / table_schema_box</title>
+  <desc id="d-45">数据库表结构框(PK/FK标记)。关键词: table,schema,pk,fk</desc>
+  <g id="g-45-表结构框带主键标记">
+    <rect x="10" y="10" width="140" height="25" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="80" y="27" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">User</text>
+    <rect x="10" y="35" width="140" height="75" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="16" y="52" fill="#E69F00" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start" font-weight="bold" stroke-dasharray="6 3" data-drole="series-2">PK id</text>
+    <text x="16" y="66" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">name</text>
+    <text x="16" y="80" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">email</text>
+    <text x="16" y="94" fill="#0072B2" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start" font-weight="bold" data-drole="series-1">FK dept_id</text>
+    <line fill="none" x1="10" y1="55" x2="150" y2="55" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line fill="none" x1="10" y1="69" x2="150" y2="69" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line fill="none" x1="10" y1="83" x2="150" y2="83" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

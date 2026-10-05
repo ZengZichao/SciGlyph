@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-mic_microdilution d-mic_microdilution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mic_microdilution">MIC微量稀释板 / MIC broth microdilution plate</title>
+  <desc id="d-mic_microdilution">MIC(最低抑菌浓度)微量肉汤稀释法：抗生素浓度从左到右递增。MIC=完全抑制肉眼可见生长的最低浓度。关键词: MIC, minimum inhibitory concentration, broth microdilution, antibiotic susceptibility</desc>
+  <g id="layer-body-mic_microdilution" data-name="body">
+    <!-- 96-well strip -->
+    <rect x="5" y="30" width="90" height="20" rx="2" ry="2" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Wells with increasing antibiotic -->
+    <!-- Clear (growth) -->
+    <circle cx="12" cy="40" r="4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="22" cy="40" r="4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="32" cy="40" r="4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.4" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Transition -->
+    <circle cx="42" cy="40" r="4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Clear (no growth) -->
+    <circle cx="52" cy="40" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="62" cy="40" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="72" cy="40" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="82" cy="40" r="4" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- MIC arrow -->
+    <line x1="52" y1="55" x2="52" y2="62" stroke="#C42D2D" data-pp="alert" stroke-width="1.5"/>
+    <polygon points="50,60 52,64 54,60" fill="#C42D2D" data-pp="alert"/>
+    <!-- Concentration gradient -->
+    <text x="12" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">low</text>
+    <text x="82" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">high</text>
+  </g>
+  <g id="layer-annotation-mic_microdilution" data-name="annotation">
+    <text x="52" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">MIC</text>
+    <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">broth microdilution</text>
+    <line x1="50.0" y1="87.9" x2="56.92" y2="87.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="35.22" y="90.0">antibiotic</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="98.26">concentration →</text>
+  </g>
+</svg>

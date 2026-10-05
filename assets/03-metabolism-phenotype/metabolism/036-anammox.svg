@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-36_anammox d-36_anammox" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36_anammox">厌氧氨氧化 / Anammox</title>
+  <desc id="d-36_anammox">NH₄⁺+NO₂⁻→N₂+2H₂O。肼(hydrazine)中间体。厌氧氨氧化体膜含梯烷脂(ladderane)。Planctomycetes。关键词: anammox, hydrazine, ladderane, anammoxosome</desc>
+  <defs>
+    <marker id="pp36__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="12" cy="30" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="12" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NH₄⁺</text>
+        <circle cx="12" cy="60" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="12" y="61.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₂⁻</text>
+        <circle cx="45" cy="45" r="8" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="45" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂H₄</text>
+        <circle cx="80" cy="45" r="9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="80" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂</text>
+    <rect x="33" y="33" width="24" height="24" rx="3" fill="none" stroke="#A2305B" data-pp="archaea" stroke-width="1.5" stroke-dasharray="2,1"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="19" y1="33" x2="37" y2="42" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp36__ar)"/>
+        <line x1="19" y1="57" x2="37" y2="48" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp36__ar)"/>
+        <line x1="53" y1="45" x2="71" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp36__ar)"/>
+    <text x="45" y="28" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">ladderane</text>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">anammoxosome</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Planctomycetes</text>
+  </g>
+</svg>

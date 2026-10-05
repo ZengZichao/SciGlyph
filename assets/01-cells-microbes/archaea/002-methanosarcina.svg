@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-methanosarcina d-methanosarcina" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-methanosarcina">甲烷八叠球菌 / Methanosarcina</title>
+  <desc id="d-methanosarcina">Cocci in cubical packets (sarcina). Class Methanomicrobia, order Methanosarcinales (GTDB; 旧称 Euryarchaeota 已拆分). 关键词: Methanosarcina, sarcina, packet, methanogen, Methanomicrobia</desc>
+  
+  <g id="layer-body-methanosarcina" data-name="body">
+    <circle cx="35" cy="35" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="50" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="65" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="35" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="50" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="50" cy="65" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="65" cy="35" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="65" cy="50" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="65" cy="65" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="25" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Methanomicrobia</text>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-high-temperature" data-cat="hz" data-spec="128"
+     data-tags="temperature,hot,burn,高温,烫伤" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">高温烫伤标志 / High Temperature Hazard</title>
+  <desc id="d">手+蒸汽/火焰高温烫伤警告标志。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <path d="M44 68 L44 90 C44 94 48 96 52 96 L76 96 C80 96 84 94 84 90 L84 68" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M52 68 L52 80 M60 68 L60 80 M68 68 L68 80 M76 68 L76 80" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <path d="M50 60 Q54 50 50 40" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/>
+    <path d="M64 58 Q68 46 64 36" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/>
+    <path d="M78 60 Q82 50 78 40" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/></g>
+  <g id="detail"></g>
+</svg>

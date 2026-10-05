@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-sem d-sem" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sem">扫描电镜SEM / SEM scanning electron microscopy surface</title>
+  <desc id="d-sem">SEM表面形貌：聚焦电子束扫描样品表面→激发二次电子(SE)/背散射电子(BSE)→探测器收集→构建表面三维形貌图。关键词: SEM, scanning electron microscopy, secondary electron, surface topography, BSE</desc>
+  <g id="layer-body-sem" data-name="body">
+    
+    <polygon points="45,5 55,5 52,15 48,15" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" />
+    
+    <line x1="50" y1="15" x2="50" y2="40" stroke="#00857A" data-pp="metabolism" stroke-width="2" />
+    
+    <rect x="42" y="25" width="16" height="4" rx="1" ry="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    
+    <ellipse cx="50" cy="35" rx="8" ry="3" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" />
+    
+    <path d="M20,55 Q30,45 40,50 Q50,42 60,48 Q70,44 80,55" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5" />
+    
+    <line x1="50" y1="45" x2="45" y2="30" stroke="#C42D2D" data-pp="alert" stroke-width="0.5" stroke-dasharray="1,1" />
+    <line x1="50" y1="45" x2="55" y2="28" stroke="#C42D2D" data-pp="alert" stroke-width="0.5" stroke-dasharray="1,1" />
+    <line x1="50" y1="45" x2="50" y2="25" stroke="#C42D2D" data-pp="alert" stroke-width="0.5" stroke-dasharray="1,1" />
+    
+    <rect x="55" y="22" width="8" height="5" rx="1" ry="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+  </g>
+  <g id="layer-annotation-sem" data-name="annotation">
+    <text x="65" y="24.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SE</text>
+    <text x="64.78" y="32.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">detector</text>
+    <text x="50" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">surface</text>
+    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">topography</text>
+  </g>
+</svg>

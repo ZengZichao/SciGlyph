@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-beaker-tnk" data-cat="st" data-spec="128"
+     data-tags="beaker,storage,tank,large,storage beaker" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">大容量储液烧杯 / Large Storage Beaker</title>
+  <desc id="d">大容量储液烧杯，带盖。</desc>
+  <g id="body"><path d="M24 30 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L104 30 Q104 22 96 22 L32 22 Q24 22 24 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M26 56 L102 56 L102 108 Q102 114 96 114 L32 114 Q26 114 26 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M26 56 L102 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M22 14 L22 24 L106 24 L106 14 Q96 10 64 10 Q32 10 22 14 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g></g>
+  
+</svg>

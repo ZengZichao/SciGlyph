@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -7.4 253.2 174.3" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="贝叶斯后验概率标注" data-name-en="Posterior probability" data-cat="04-phylo" data-tags="后验概率,贝叶斯,MrBayes,PP,可信度" aria-labelledby="t-08-posterior-probability d-08-posterior-probability" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08-posterior-probability">Posterior probability</title>
+  <desc id="d-08-posterior-probability">0.88 各 1 个、≈1.0 共 2 个），PP&lt;0.95 的分支需谨慎解读。关键词: 后验概率, 贝叶斯, MrBayes, PP, 可信度</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="6.9" y="1.3" width="236.3" height="156.9" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 122 61.5 H 136"/>
+      <path d="M 122 36 V 87"/>
+      <path d="M 122 36 H 104"/>
+      <path d="M 122 87 H 92"/>
+      <path d="M 104 26 V 46"/>
+      <path d="M 104 26 H 26"/>
+      <path d="M 104 46 H 26"/>
+      <path d="M 92 70 V 104"/>
+      <path d="M 92 70 H 26"/>
+      <path d="M 92 104 H 112"/>
+      <path d="M 112 94 V 114"/>
+      <path d="M 112 94 H 26"/>
+      <path d="M 112 114 H 26"/>
+    </g>
+    <g font-size="9.5" fill="#2B3A42" text-anchor="end">
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="98" y="32">1.00</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="86" y="83">0.99</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="106" y="101">0.88</text>
+    </g>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="122" y="78" text-anchor="middle" font-size="9.5" fill="#2B3A42">0.62</text>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="26" cy="26" r="2.6"/>
+      <circle cx="26" cy="46" r="2.6"/>
+      <circle cx="26" cy="70" r="2.6"/>
+      <circle cx="26" cy="94" r="2.6"/>
+      <circle cx="26" cy="114" r="2.6"/>
+    </g>
+    <path d="M 144 20 V 132" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none"/>
+    <g stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none">
+      <path d="M 158 92 H 230"/>
+      <path d="M 158 56 H 230"/>
+    </g>
+    <path d="M 158 56 V 128 H 230" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
+    <g fill="#5B4B8A">
+      <rect x="176" y="92" width="13" height="36"/>
+      <rect x="190" y="92" width="13" height="36"/>
+      <rect x="204" y="56" width="13" height="72"/>
+    </g>
+    <g font-size="9" fill="#2B3A42">
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="154" y="60" text-anchor="end">2</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="154" y="96" text-anchor="end">1</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="154" y="132" text-anchor="end">0</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="168" y="140" text-anchor="middle">0.5</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="210" y="140" text-anchor="middle">1.0</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" font-size="7" x="122.22" y="150.0">Posterior probability (node count)</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-chemiluminescence" data-cat="an" data-spec="128"
+     data-tags="chemiluminescence,luminescence,pmt,reaction,dark,chamber" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">化学发光分析仪 / Chemiluminescence Analyzer</title>
+  <desc id="d">化学发光分析仪：反应池、光电倍增管、暗室。</desc>
+  <g id="body">
+    <rect x="18" y="18" width="92" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="18" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="30" y="28" width="50" height="40" rx="6" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="34" y="32" width="42" height="32" rx="4" fill="#FFFFFF" opacity="0.1" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="48" y="40" width="12" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="50" y="48" width="8" height="8" rx="2" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+<circle cx="54" cy="52" r="4" fill="#2B7DE9" opacity="0.15" stroke="none" data-ls="accent"/>
+<circle cx="54" cy="52" r="8" fill="#2B7DE9" opacity="0.08" stroke="none" data-ls="accent"/>
+    <text x="55" y="26" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Dark Chamber</text>
+<rect x="86" y="34" width="16" height="28" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="88" y="37" width="12" height="22" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="94" y="68" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">PMT</text>
+<line x1="80" y1="50" x2="86" y2="50" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="1.2" data-ls="accent" stroke-linecap="round"/>
+    <polygon points="82,47 94,50 82,53" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="38" y="18" width="8" height="14" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<line x1="42" y1="32" x2="42" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="42" y="16" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Inject</text>
+    <rect x="22" y="74" width="48" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="46" y="72" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">CL Analyzer</text>
+<path d="M26 86 L32 84 L36 80 L38 78 L40 82 L44 86 L48 86 L52 84 L56 86 L62 86 L66 84" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent"/>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="96" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-ftir-spectrometer" data-cat="an" data-spec="128" data-tags="ftir,infrared,spectrometer,interferometer,michelson" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">傅里叶变换红外光谱仪 / FTIR Spectrometer</title>
+  <desc id="d">傅里叶变换红外光谱仪：红外光源→迈克尔逊干涉仪→样品室→检测器。</desc>
+  <g id="body">
+    <rect x="10" y="18" width="108" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="10" y="18" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="16" y="36" width="12" height="16" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="22" cy="44" r="3" fill="#E02020" opacity="0.4" stroke="none" data-ls="danger" />
+    <text x="22" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">IR</text>
+<rect x="36" y="38" width="10" height="10" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="34" y="56" width="14" height="4" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="41.0" y="63.2" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Fixed</text>
+<rect x="54" y="32" width="4" height="14" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
+<path points="58,36 62,39 58,42" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent" />
+    <text x="56" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Moving</text>
+<rect x="70" y="38" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="72" y="40" width="8" height="8" rx="1" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
+    <text x="76.0" y="56.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<rect x="90" y="36" width="14" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="99.0" y="58.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">DTGS</text>
+<line x1="28" y1="44" x2="36" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="46" y1="44" x2="70" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<line x1="82" y1="44" x2="90" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <polygon points="84,41 96,44 84,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="14" y="72" width="50" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M18 82 L22 78 L26 86 L30 76 L34 88 L38 78 L42 84 L46 80 L50 82 L54 78 L58 84" fill="#2B7DE9" stroke="none" stroke-width="1" data-ls="accent" />
+    <text x="40.41" y="70.99" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">FTIR</text>
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

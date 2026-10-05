@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="高压灭菌锅" data-name-en="autoclave" data-cat="lab-equipment" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-57">高压灭菌锅 / autoclave</title>
+  <desc id="d-57">高温高压灭菌和消解。关键词: 灭菌锅,autoclave,灭菌,高压</desc>
+  <g id="g-57-高压灭菌锅">
+    <rect x="60" y="50" width="200" height="160" rx="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <ellipse cx="160" cy="50" rx="100" ry="15" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="160" cy="130" r="50" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="160" cy="130" r="35" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <circle cx="160" cy="130" r="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="240" cy="80" r="15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="240" y1="80" x2="248" y2="72" stroke="#D55E00" stroke-width="1.5" stroke-linecap="round" data-drole="series-1"/>
+    <text x="240" y="100" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">PSI</text>
+    <rect x="100" y="195" width="120" height="10" rx="3" fill="#6b7280" stroke="none"/>
+    <text x="160" y="230" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Autoclave</text>
+  </g>
+</svg>

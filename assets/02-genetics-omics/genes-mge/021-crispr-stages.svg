@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-21_crispr_stages d-21_crispr_stages" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21_crispr_stages">CRISPR三阶段 / CRISPR Three Stages</title>
+  <desc id="d-21_crispr_stages">CRISPR三阶段: adaptation(获取spacer)→expression(转录加工crRNA)→interference(靶标切割)。priming加速获取。关键词: CRISPR, adaptation, expression, interference, priming</desc>
+  <defs>
+    <marker id="pp21__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <circle cx="20" cy="40" r="12" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="20" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">adapt</text>
+        <circle cx="50" cy="40" r="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">expr</text>
+        <circle cx="80" cy="40" r="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="80" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">interf</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="32" y1="40" x2="38" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp21__ar)"/>
+        <line x1="62" y1="40" x2="68" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp21__ar)"/>
+    <text x="20" y="60" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">spacer</text>
+    <text x="50" y="60" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">crRNA</text>
+    <text x="80" y="60" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">cut</text>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">priming accelerates</text>
+  </g>
+</svg>

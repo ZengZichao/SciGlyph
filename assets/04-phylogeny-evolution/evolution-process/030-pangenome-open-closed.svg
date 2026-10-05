@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-pangenome_open_closed d-pangenome_open_closed" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-pangenome_open_closed">泛基因组 open vs closed / Pangenome Open vs Closed</title>
+<desc id="d-pangenome_open_closed">core/accessory/novel基因数随基因组数变化:open线性上升,closed渐平 关键词: pangenome, open, closed, core, accessory, gene content</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Pangenome: Open vs Closed</text>
+<text x="150" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">Open 泛基因组</text>
+<line x1="50" y1="60" x2="50" y2="220" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="35" y="65" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">基因数</text>
+<line x1="50" y1="220" x2="280" y2="220" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="280" y="235" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">基因组数</text>
+<path d="M50,80 L100,120 L150,140 L200,150 L250,155" fill="none" data-pp="bacteria" stroke="#2E86AB" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M50,220 L100,180 L150,150 L200,125 L250,100" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M50,220 L100,160 L150,110 L200,75 L250,60" fill="none" data-pp="alert" stroke="#C42D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="50" cy="80" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="100" cy="120" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="150" cy="140" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="200" cy="150" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="250" cy="155" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="50" cy="220" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="100" cy="180" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="150" cy="150" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="200" cy="125" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="250" cy="100" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<text x="450" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle" font-weight="bold">Closed 泛基因组</text>
+<line x1="340" y1="60" x2="340" y2="220" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="340" y1="220" x2="570" y2="220" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<text x="570" y="235" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">基因组数</text>
+<path d="M340,80 L390,120 L440,140 L490,150 L540,155" fill="none" data-pp="metabolism" stroke="#00857A" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M340,220 L390,185 L440,170 L490,163 L540,160" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5,3"/>
+<path d="M340,220 L390,160 L440,130 L490,115 L540,108" fill="none" data-pp="alert" stroke="#C42D2D" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5,3"/>
+<circle cx="340" cy="80" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="390" cy="120" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="440" cy="140" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="490" cy="150" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="540" cy="155" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<line x1="60" y1="250" x2="80" y2="250" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" stroke-linecap="round"/>
+<text x="90" y="254" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">Core</text>
+<line x1="140" y1="250" x2="160" y2="250" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round"/>
+<text x="170" y="254" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">Accessory</text>
+<line x1="240" y1="250" x2="260" y2="250" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+<text x="270" y="254" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">Total</text>
+<text x="60" y="275" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">基因存在/缺失矩阵</text>
+<text x="70" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">Open:</text>
+<rect x="120" y="288" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="136" y="288" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="152" y="288" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="168" y="288" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="184" y="288" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="200" y="288" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="216" y="288" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="232" y="288" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="120" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="136" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="152" y="302" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="168" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="184" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="200" y="302" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="216" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="232" y="302" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="120" y="316" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="136" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="152" y="316" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="168" y="316" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="184" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="200" y="316" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="216" y="316" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="232" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="120" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="136" y="330" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="152" y="330" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="168" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="184" y="330" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="200" y="330" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="216" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="232" y="330" width="12" height="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3"/>
+<text x="290" y="295" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">Closed:</text>
+<rect x="350" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="366" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="382" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="398" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="414" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="430" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="446" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="462" y="288" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="350" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="366" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="382" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="398" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="414" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="430" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="446" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="462" y="302" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="350" y="316" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="366" y="316" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="382" y="316" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="398" y="316" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="414" y="316" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="430" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="446" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="462" y="316" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="350" y="330" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="366" y="330" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="382" y="330" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="398" y="330" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="414" y="330" width="12" height="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="430" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="446" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="462" y="330" width="12" height="10" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.3"/>
+<rect x="60" y="350" width="220" height="35" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="170" y="365" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">Open: 大肠杆菌 · 链霉菌</text>
+<text x="170" y="378" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">环境获取新基因</text>
+<rect x="310" y="350" width="220" height="35" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="420" y="365" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">Closed: 炭疽杆菌 · 结核</text>
+<text x="420" y="378" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">基因组成分保守</text>
+</g>
+</svg>

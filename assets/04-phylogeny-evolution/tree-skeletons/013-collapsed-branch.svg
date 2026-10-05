@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="折叠分支三角" data-name-en="Collapsed branch" data-cat="04-phylo" data-tags="折叠,三角,collapsed,隐藏多样性,树形压缩" aria-labelledby="t-13-collapsed-branch d-13-collapsed-branch" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13-collapsed-branch">折叠分支三角 / Collapsed branch</title>
+  <desc id="d-13-collapsed-branch">含大量不可见类群的分支折叠为三角形，三角形内的叶端以灰色虚线示意，表示该支序包含 n 个未显示类群。关键词: 折叠, 三角, collapsed, 隐藏多样性, 树形压缩</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 6 53 H 22"/>
+      <path d="M 22 30 V 76"/>
+      <path d="M 22 30 H 48"/>
+      <path d="M 22 76 H 48"/>
+      <path d="M 48 20 V 40"/>
+      <path d="M 48 20 H 104"/>
+      <path d="M 48 40 H 104"/>
+      <path d="M 48 62 V 89"/>
+      <path d="M 48 62 H 104"/>
+    </g>
+    <!-- 折叠支：自根节点分出，三角尖端指向下游，三角内以灰色虚线示意未显示叶端 -->
+    <path d="M 48 89 H 60" fill="none" stroke="#5B4B8A" stroke-width="2"/>
+    <path d="M 60 70 L 104 89 L 60 108 Z" fill="#B7D7E8" stroke="#5B4B8A" stroke-width="2"/>
+    <g fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3">
+      <path d="M 64 89 L 86 85"/>
+      <path d="M 64 89 L 86 93"/>
+    </g>
+    <g fill="#FFFFFF" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2">
+      <circle cx="86" cy="85" r="2"/>
+      <circle cx="86" cy="93" r="2"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="104" cy="20" r="3"/>
+      <circle cx="104" cy="40" r="3"/>
+      <circle cx="104" cy="62" r="3"/>
+    </g>
+    <g fill="#5B4B8A">
+      <circle cx="22" cy="53" r="2.2"/>
+      <circle cx="48" cy="30" r="2"/>
+      <circle cx="48" cy="76" r="2"/>
+    </g>
+  </g>
+</svg>

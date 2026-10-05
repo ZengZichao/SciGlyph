@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-hplc-column-oven" data-cat="an" data-spec="128"
+     data-tags="hplc,column,oven,heater,temperature,thermostat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">柱温箱 / HPLC Column Oven</title>
+  <desc id="d">柱温箱，恒温控制色谱柱，带加热腔体和温度显示。</desc>
+  <g id="body">
+    <rect x="18" y="22" width="92" height="84" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="18" y="22" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="28" y="36" width="56" height="50" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="38" width="52" height="46" rx="3" fill="#F5A623" opacity="0.15" stroke="none" data-ls="warn"/>
+<path d="M40 46 Q56 42 72 46 Q56 50 40 54 Q56 58 72 54 Q56 62 40 66 Q56 70 72 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<path d="M34 50 Q36 48 34 46" fill="#E02020" opacity="0.6" stroke="none" stroke-width="1" data-ls="danger"/>
+<path d="M78 50 Q80 48 78 46" fill="#E02020" opacity="0.6" stroke="none" stroke-width="1" data-ls="danger"/>
+    <rect x="32" y="26" width="30" height="8" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="47" y="33" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">30°C</text>
+    <circle cx="72" cy="30" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="82" cy="30" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="92" cy="30" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<line x1="56" y1="22" x2="56" y2="14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<line x1="56" y1="86" x2="56" y2="106" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="53,92 56,104 59,92" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="56" y="16" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">IN</text>
+    <text x="56" y="112" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">OUT</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

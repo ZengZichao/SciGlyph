@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-laser-class4" data-cat="hz" data-spec="128"
+     data-tags="laser,class4,beam,eye,激光,4级" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">激光危险4级标志 / Laser Class 4 Hazard</title>
+  <desc id="d">4级激光危险标志：激光束+眼睛+等级文字。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <path d="M36 64 L56 54 L56 74Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="50" cy="64" r="4" fill="#1F2933" data-ls="stroke"/>
+    <path d="M56 64 L92 64" fill="none" stroke="#E02020" stroke-width="3" data-ls="danger"/>
+    <path d="M56 60 L92 60 M56 68 L92 68" fill="none" opacity="0.5" stroke="#E02020" stroke-width="1" data-ls="danger"/>
+    <text x="82" y="92" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" text-anchor="middle" data-ls="stroke">L4</text></g>
+  <g id="detail"></g>
+</svg>

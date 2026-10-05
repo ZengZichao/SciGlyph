@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="线粒体" data-name-en="Mitochondrion" data-cat="natural-sciences" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12">线粒体 / mitochondrion</title>
+  <desc id="d-12">展示线粒体嵴结构。关键词: mitochondria,crest,atp</desc>
+  <g id="g-12-线粒体">
+    <ellipse cx="80" cy="60" rx="65" ry="35" fill="#E69F00" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <path d="M25,60 C30,40 40,45 40,60 C40,75 50,80 50,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M50,60 C50,40 60,35 60,60 C60,80 70,80 70,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M70,60 C70,40 80,35 80,60 C80,80 90,80 90,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M90,60 C90,40 100,35 100,60 C100,80 110,80 110,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M110,60 C110,40 120,45 120,60 C120,75 130,80 135,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

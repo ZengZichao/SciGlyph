@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="环型拓扑" data-name-en="Topology Ring" data-cat="diagrams-sw-uml" aria-labelledby="t-54 d-54" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-54">环型拓扑 / topology_ring</title>
+  <desc id="d-54">环型网络拓扑。关键词: ring,topology,network</desc>
+  <g id="g-54-环型拓扑">
+    <circle cx="160" cy="40" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="260" cy="120" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="220" cy="210" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="100" cy="210" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="120" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="170" y1="48" x2="250" y2="112" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="254" y1="132" x2="226" y2="198" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="206" y1="210" x2="114" y2="210" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="94" y1="198" x2="66" y2="132" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="70" y1="112" x2="150" y2="48" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

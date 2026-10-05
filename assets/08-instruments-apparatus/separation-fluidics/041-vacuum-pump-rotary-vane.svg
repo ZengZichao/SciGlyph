@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>旋片式油泵</title>
+  <rect x="2" y="10" width="14" height="9" rx="1"/>
+  <ellipse cx="9" cy="14.5" rx="4" ry="2.5"/>
+  <rect x="16" y="11" width="6" height="7" rx="0.5"/>
+  <path d="M9 10V8" stroke-width="1"/>
+  <circle cx="9" cy="7" r="1.5"/>
+  <line x1="7.5" y1="7" x2="10.5" y2="7" stroke-width="0.75"/>
+  <line x1="2" y1="19" x2="16" y2="19" stroke-width="0.75"/>
+</svg>

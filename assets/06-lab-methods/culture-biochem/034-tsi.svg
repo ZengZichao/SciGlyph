@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-tsi d-tsi" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-tsi">三糖铁 / TSI</title>
+  <desc id="d-tsi">TSI三糖铁琼脂(K/A型): 斜面碱性K(红色)、底层产酸A、产H2S黑色沉淀。注: 真实TSI中产酸为酚红变黄，图内颜色为示意(库调色板无黄色)。关键词: TSI, slant, butt, K/A, H2S</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M35,25 L35,65 Q35,70 40,70 L60,70 Q65,70 65,65 L65,25 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
+    <path d="M37,30 L63,30 L63,45 L37,45 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="alert" fill-opacity="0.4"/>
+    <path d="M37,45 L63,45 L63,65 Q63,68 60,68 L40,68 Q37,68 37,65 Z" fill="#E8871E" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="mge" fill-opacity="0.4"/>
+    <circle cx="50" cy="55" r="3" fill="#1B2733" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="45" y1="60" x2="55" y2="60" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <text x="30" y="38" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">K</text>
+    <text x="30" y="55" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge">A*</text>
+  <circle cx="45" cy="52" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/><circle cx="55" cy="58" r="1.6" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/><line x1="37" y1="30" x2="63" y2="30" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><path d="M40,68 L60,68" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">三糖铁</text>
+  </g>
+</svg>

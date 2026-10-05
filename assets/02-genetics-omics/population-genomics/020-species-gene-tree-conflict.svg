@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-species_gene_tree_conflict d-species_gene_tree_conflict" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-species_gene_tree_conflict">物种树 vs 基因树冲突 / Species tree vs gene tree conflict</title>
+  <desc id="d-species_gene_tree_conflict">物种树把 A、B 聚为一支，基因树把 A、C 聚为一支——拓扑冲突提示 ILS 或 HGT。schematic, not to scale. 关键词: ILS, HGT, conflict</desc>
+
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="species-tree">
+  <text x="150" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species tree</text>
+  <line x1="60" y1="200" x2="120" y2="130" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="60" y1="200" x2="120" y2="270" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="120" y1="130" x2="220" y2="90" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="120" y1="130" x2="220" y2="170" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="120" y1="270" x2="220" y2="240" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="120" y1="270" x2="220" y2="320" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <circle cx="220" cy="90" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="220" cy="170" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="220" cy="240" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="220" cy="320" r="5" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="234" y="94" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+  <text x="234" y="174" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+  <text x="234" y="244" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+  <text x="234" y="324" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">D</text>
+</g>
+<g data-name="gene-tree">
+  <text x="440" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene tree (ILS/HGT)</text>
+  <line x1="350" y1="200" x2="410" y2="130" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="350" y1="200" x2="410" y2="270" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="410" y1="130" x2="520" y2="90" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="410" y1="130" x2="520" y2="170" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="410" y1="270" x2="520" y2="240" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <line x1="410" y1="270" x2="520" y2="320" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
+  <circle cx="520" cy="90" r="5" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="520" cy="170" r="5" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="520" cy="240" r="5" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="520" cy="320" r="5" fill="#6C3FA0" data-pp="gene"/>
+  <text x="534" y="94" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+  <text x="534" y="174" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">C</text>
+  <text x="534" y="244" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+  <text x="534" y="324" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">D</text>
+</g>
+<g data-name="conflict">
+  <text x="300" y="380" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">⚠ Conflict: gene tree groups A+C</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species Tree vs Gene Tree Conflict (schematic)</text>
+</svg>

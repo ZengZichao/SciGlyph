@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="异染粒" data-name-en="Metachromatic granule" data-cat="02-structures" data-tags="异染粒,伏染粒,异染质,多磷酸,磷储备,两极,染色" role="img" aria-labelledby="t-29-metachromatic-granule d-29-metachromatic-granule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29-metachromatic-granule">异染粒 / Metachromatic granule</title>
+  <desc id="d-29-metachromatic-granule">异染粒（伏染粒）是细菌的磷酸盐储量体，成熟颗粒以碱性亚甲蓝染色呈红色，常成对分布于细胞两极，故名异染。关键词: 异染粒, 伏染粒, 异染质, 多磷酸, 磷储备, 两极, 染色</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="24" y="46" width="72" height="28" rx="14" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M46 60C46 55 52 53 58 55C64 57 70 56 74 60C70 64 64 67 58 65C52 63 46 65 46 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<ellipse cx="36" cy="60" rx="10" ry="8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
+<ellipse cx="36" cy="60" rx="5" ry="4" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+<ellipse cx="84" cy="60" rx="10" ry="8" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
+<ellipse cx="84" cy="60" rx="5" ry="4" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+<path d="M33 57L35 55M81 57L83 55" stroke="#B57A17" stroke-width="1.2"/>
+</g>
+</svg>

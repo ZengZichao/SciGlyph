@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_1um_bacillus d-size_1um_bacillus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_1um_bacillus">1µm杆菌宽度 / 1µm bacillus width</title>
+  <desc id="d-size_1um_bacillus">尺度图标：1µm杆菌宽度，大小约1 µm。典型杆菌宽度约1µm。 Scale bar=1 µm。假设放大倍率: ×10^3 (1cm = 10µm)。关键词: size scale, 1 µm, scale bar</desc>
+  <g id="layer-body-size_1um_bacillus" data-name="body">
+    <!-- Bacillus showing width ~1µm -->
+    <rect x="20" y="30" width="45" height="15" rx="7" ry="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Width arrow -->
+    <line x1="18" y1="30" x2="18" y2="45" stroke="#1B2733" stroke-width="1"/>
+    <line x1="15" y1="30" x2="21" y2="30" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="15" y1="45" x2="21" y2="45" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="42" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~1µm width</text>
+    <!-- Scale bar -->
+    <line x1="15" y1="82" x2="30" y2="82" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <line x1="30" y1="79" x2="30" y2="85" stroke="#1B2733" stroke-width="1"/>
+    <text x="22" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1 µm</text>
+  </g>
+  <g id="layer-annotation-size_1um_bacillus" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1 µm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

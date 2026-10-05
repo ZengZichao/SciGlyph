@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-swing-out-bucket" data-cat="sp" data-spec="128"
+     data-tags="centrifuge,swing-bucket,rotor,swinging,separator,tube" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">甩平转头 / Swing-Out Bucket Rotor</title>
+  <desc id="d">甩平转头剖面，离心时吊篮水平展开</desc>
+  <g id="body"><circle cx="64" cy="64" r="40" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="6" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><path d="M28 60 L44 60 L44 68 L28 68 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M84 60 L100 60 L100 68 L84 68 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M30 62 L42 62 L42 66 L30 66 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M86 62 L98 62 L98 66 L86 66 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M44 64 L48 64 M80 64 L84 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 24 L68 24 L68 32 L60 32 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

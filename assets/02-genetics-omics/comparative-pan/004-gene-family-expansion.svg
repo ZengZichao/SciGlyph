@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-gene_family_expansion d-gene_family_expansion" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gene_family_expansion">基因家族扩张收缩 / Gene family expansion &amp; contraction</title>
+  <desc id="d-gene_family_expansion">沿系统发育树的基因家族大小变化。schematic, not to scale. 关键词: expansion, contraction, CAFE</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="tree">
+  <line x1="100" y1="200" x2="200" y2="130" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="100" y1="200" x2="200" y2="270" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="130" x2="320" y2="90" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="130" x2="320" y2="170" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="270" x2="320" y2="240" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="200" y1="270" x2="320" y2="320" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+</g>
+<g data-name="gene-bars">
+  <rect x="330" y="80" width="75.0" height="20" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="410.0" y="94" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">150</text>
+  <rect x="330" y="160" width="40.0" height="20" fill="#00857A" data-pp="metabolism"/>
+  <text x="375.0" y="174" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">80</text>
+  <rect x="330" y="230" width="100.0" height="20" fill="#A2305B" data-pp="archaea"/>
+  <text x="435.0" y="244" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">200</text>
+  <rect x="330" y="310" width="60.0" height="20" fill="#6C3FA0" data-pp="gene"/>
+  <text x="395.0" y="324" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">120</text>
+</g>
+<g data-name="ancestral">
+  <text x="150" y="195" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">n=100</text>
+  <text x="250" y="125" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">n=120</text>
+  <text x="250" y="265" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">n=160</text>
+  <circle cx="200" cy="130" r="4" fill="#E8871E" data-pp="mge"/>
+  <circle cx="200" cy="270" r="4" fill="#E8871E" data-pp="mge"/>
+  <rect x="460" y="75" width="10" height="10" fill="#C42D2D" data-pp="alert"/>
+  <rect x="460" y="305" width="10" height="10" fill="#5B8C3E" data-pp="virus"/>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Family Expansion &amp; Contraction (schematic)</text>
+<text x="300" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Bars show gene family size at each tip</text>
+</svg>

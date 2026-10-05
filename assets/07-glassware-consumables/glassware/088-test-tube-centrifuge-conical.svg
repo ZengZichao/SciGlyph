@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-test-tube-centrifuge-conical" data-cat="gl" data-spec="128"
+     data-tags="centrifuge,tube,conical,gradient,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">离心管(锥形底) / Centrifuge Tube (Conical)</title>
+  <desc id="d">锥形底离心管，用于离心分离，带刻度。</desc>
+  <g id="body"><path d="M46 10 L46 90 L58 116 L70 116 L82 90 L82 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 55 L80 55 L80 90 L70 114 L58 114 L48 90 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M48 55 L80 55" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M50 80 L60 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 68 L58 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M52 92 L60 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 104 L60 104" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

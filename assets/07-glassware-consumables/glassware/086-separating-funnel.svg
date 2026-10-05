@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-separating-funnel" data-cat="gl" data-spec="128"
+     data-tags="separating,funnel,pear,extraction,stopcock,liquid-liquid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">梨形分液漏斗 / Separating Funnel (Pear)</title>
+  <desc id="d">梨形分液漏斗，带顶塞与活塞，用于液液萃取。</desc>
+  <g id="body"><path d="M58 14 L58 36 Q28 48 28 74 Q28 106 64 110 Q100 106 100 74 Q100 48 70 36 L70 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M34 74 Q34 102 64 106 Q94 102 94 74 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M34 74 Q34 60 64 56 Q94 60 94 74 Z" fill="#BFE0FF" opacity="0.45" stroke="none" data-ls="liquid"/><path d="M34 74 L94 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 8 L56 16 L72 16 L72 8 Q68 6 64 6 Q60 6 56 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M58 10 L58 16 M70 10 L70 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M60 110 L60 120 L68 120 L68 110" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M56 116 L72 116 L72 120 L56 120 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

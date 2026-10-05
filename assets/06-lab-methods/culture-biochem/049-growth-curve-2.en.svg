@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-growth_curve d-growth_curve" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-growth_curve">Growth Curve</title>
+  <desc id="d-growth_curve">细菌生长曲线四阶段: 迟缓期→对数期→稳定期→衰亡期。关键词: growth curve, lag, log, stationary, death phase, OD600</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="10" width="80" height="60" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>
+    <line x1="15" y1="65" x2="85" y2="65" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="15" y1="15" x2="15" y2="65" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <path d="M15,60 Q25,58 35,50 Q45,30 55,22 Q65,22 75,30 Q80,45 85,55" fill="none" stroke="#2E86AB" stroke-width="2" stroke-linecap="round" data-pp="bacteria"/>
+    <text x="22" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">lag</text>
+    <text x="40" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">log</text>
+    <text x="62" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">stat</text>
+    <text x="77.8" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">death</text>
+      <line x1="13" y1="25" x2="15" y2="25" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
+    <line x1="13" y1="45" x2="15" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
+    <line x1="35" y1="65" x2="35" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Growth curve</text>
+  </g>
+</svg>

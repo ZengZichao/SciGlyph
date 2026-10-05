@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-vial-crimp-cap-2ml" data-cat="st" data-spec="128"
+     data-tags="vial,crimp cap,headspace,2mL,aluminum,GC" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">2mL钳口进样瓶(铝盖) / 2mL Crimp Vial</title>
+  <desc id="d">2mL钳口式进样瓶，带铝盖与隔垫，用于GC/HPLC自动进样。</desc>
+  <g id="body"><path d="M42 30 L42 108 Q42 116 50 116 L78 116 Q86 116 86 108 L86 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 60 L84 60 L84 108 Q84 114 78 114 L50 114 Q44 114 44 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M44 60 L84 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M38 14 L38 32 L90 32 L90 14 Q82 10 64 10 Q46 10 38 14 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M40 22 L88 22" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M44 28 L84 28 L84 32 L44 32 Z" fill="#33414F" opacity="0.4" stroke="none" data-ls="dark"/></g></g>
+  
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-stored-data-cylinder-disk" data-cat="pf" data-spec="160"
+     data-tags="stored,data,disk,magnetic,cylinder,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">磁盘点状存储 / Stored Data Disk</title>
+  <desc id="d">流程图磁盘存储符号，圆柱体带点状纹理。</desc>
+  <g id="body">
+    <ellipse cx="80" cy="24" rx="50" ry="12" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M30,24 L30,72 Q30,84 80,84 Q130,84 130,72 L130,24" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M30,72 Q30,84 80,84 Q130,84 130,72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="60" cy="48" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="80" cy="48" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="100" cy="48" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="70" cy="60" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="90" cy="60" r="2" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

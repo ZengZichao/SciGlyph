@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-52_skel_boxplot d-52_skel_boxplot" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52_skel_boxplot">箱线图骨架 / Boxplot skeleton</title>
+  <desc id="d-52_skel_boxplot">箱线图骨架(空骨架，可填数据)。骨架，配合分布比较使用。关键词: skeleton, boxplot, quartile, whisker</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="15" x2="15" y2="80" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="15" y1="80" x2="90" y2="80" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="35" y1="20" x2="35" y2="30" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" data-name="whisker-top-1"/>
+    <rect x="25" y="30" width="20" height="25" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" data-name="box-1"/>
+    <line x1="25" y1="42" x2="45" y2="42" stroke="#2E86AB" data-pp="bacteria" stroke-width="1" stroke-linecap="round" data-name="median-1"/>
+    <line x1="35" y1="55" x2="35" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" data-name="whisker-bot-1"/>
+    <line x1="65" y1="20" x2="65" y2="30" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" data-name="whisker-top-2"/>
+    <rect x="55" y="30" width="20" height="25" fill="none" stroke="#A2305B" data-pp="archaea" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" data-name="box-2"/>
+    <line x1="55" y1="42" x2="75" y2="42" stroke="#A2305B" data-pp="archaea" stroke-width="1" stroke-linecap="round" data-name="median-2"/>
+    <line x1="65" y1="55" x2="65" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" data-name="whisker-bot-2"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Boxplot skeleton</text>
+  </g>
+</svg>

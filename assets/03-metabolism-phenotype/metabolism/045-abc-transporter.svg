@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-45_abc_transporter d-45_abc_transporter" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-45_abc_transporter">ABC转运体 / ABC Transporter</title>
+  <desc id="d-45_abc_transporter">ATP结合盒(ABC)转运体。底物结合蛋白+跨膜结构域+ATP酶结构域。主动转运。关键词: ABC transporter, ATP-binding cassette, active transport</desc>
+  <defs>
+    <marker id="pp45__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <line x1="5" y1="50" x2="95" y2="50" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+    <line x1="5" y1="70" x2="95" y2="70" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+        <rect x="30" y="52" width="15" height="16" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="37.5" y="61.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TMD</text>
+        <rect x="50" y="52" width="15" height="16" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="57.5" y="61.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TMD</text>
+        <rect x="35" y="72" width="25" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="47.5" y="78.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NBD-ATP</text>
+        <circle cx="47" cy="30" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="47" y="31.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sub</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="47" y1="38" x2="47" y2="51" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp45__ar)"/>
+    <text x="47" y="15" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SBP</text>
+    <text x="47" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">ATP → import</text>
+  </g>
+</svg>

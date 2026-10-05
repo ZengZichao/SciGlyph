@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-cell-sorter-facs" data-cat="ls" data-spec="128"
+     data-tags="facs,cell,sorter,fluorescence,activated,charging,deflection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">荧光激活细胞分选仪 / Cell Sorter (FACS)</title>
+  <desc id="d">荧光激活细胞分选仪：液流、激光、充电偏转板、收集管。</desc>
+  <g id="body">
+    <rect x="8" y="12" width="112" height="100" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="8" y="12" width="112" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="12" y="8" width="6" height="14" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="13" y="14" width="4" height="6" rx="1" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+<rect x="26" y="24" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="33" y="22" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Flow Cell</text>
+<rect x="16" y="28" width="8" height="6" rx="2" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger"/>
+<line x1="24" y1="31" x2="26" y2="31" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round"/>
+<rect x="30" y="38" width="6" height="10" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="33" cy="52" r="2" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<circle cx="33" cy="58" r="2" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<circle cx="33" cy="64" r="2" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<rect x="26" y="54" width="4" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="36" y="54" width="4" height="8" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="33" y="50" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Charge</text>
+<rect x="24" y="68" width="4" height="12" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="38" y="68" width="4" height="12" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="33" y="66" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Deflect</text>
+<rect x="20" y="86" width="8" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="86" width="8" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="40" y="86" width="8" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="22" y="92" width="4" height="8" rx="1" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+<rect x="32" y="92" width="4" height="8" rx="1" fill="#7FC26B" opacity="0.3" stroke="none" data-ls="liquid-2"/>
+<rect x="42" y="92" width="4" height="8" rx="1" fill="#E02020" opacity="0.3" stroke="none" data-ls="danger"/>
+<path d="M33 80 L24 86" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1" data-ls="accent"/>
+<path d="M33 80 L34 86" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1" data-ls="accent"/>
+<path d="M33 80 L44 86" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1" data-ls="accent"/>
+    <rect x="56" y="24" width="58" height="40" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="85" y="22" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">FACS</text>
+<circle cx="68" cy="38" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<circle cx="74" cy="42" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<circle cx="80" cy="46" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+<circle cx="72" cy="50" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+<circle cx="78" cy="54" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+<circle cx="86" cy="48" r="1.5" fill="#E02020" opacity="0.4" stroke="none" data-ls="danger"/>
+<circle cx="92" cy="52" r="1.5" fill="#E02020" opacity="0.4" stroke="none" data-ls="danger"/>
+<path d="M15 22 L15 28 Q15 32 20 32 L26 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="14" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="106" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

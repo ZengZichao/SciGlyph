@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-hygrometer-analog" data-cat="mt" data-spec="128"
+     data-tags="hygrometer,humidity,analog,湿度计" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">指针式湿度计 / Analog Hygrometer</title>
+  <desc id="d">指针式湿度计：圆盘+指针+%RH刻度。</desc>
+  <g id="body"><circle cx="64" cy="60" r="44" fill="#FFFFFF" stroke="#1F2933" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="60" r="38" fill="none" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="64" y1="60" x2="84" y2="38" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2.5" data-ls="accent"/>
+    <circle cx="64" cy="60" r="3" fill="#1F2933" data-ls="stroke"/>
+    <text x="64" y="88" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="thin">%RH</text>
+    <text x="30" y="62" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0</text>
+    <text x="64" y="22" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">50</text>
+    <text x="100" y="62" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">100</text>
+    <rect x="58" y="104" width="12" height="16" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"></g>
+</svg>

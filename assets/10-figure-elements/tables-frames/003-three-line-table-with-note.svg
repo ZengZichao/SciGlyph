@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="带表注" data-name-en="three-line-table-with-note" data-cat="tables-frames" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03">带表注 / three_line_table_with_note</title>
+  <desc id="d-03">三线表带脚注说明。关键词: 三线表,表注,脚注</desc>
+  <g id="g-03-带表注">
+    <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <line x1="40" y1="155" x2="280" y2="155" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <text x="100" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">A</text>
+    <text x="180" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">B</text>
+    <text x="240" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">C</text>
+    <text x="100" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">1.1</text>
+    <text x="180" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2.2</text>
+    <text x="240" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">3.3</text>
+    <text x="100" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">4.4</text>
+    <text x="180" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5.5</text>
+    <text x="240" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6.6</text>
+    <text x="100" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">7.7</text>
+    <text x="180" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">8.8</text>
+    <text x="240" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">9.9</text>
+    <text x="40" y="175" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">*p&lt;0.05</text>
+    <text x="40" y="190" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">n=30</text>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-nitrososphaera d-nitrososphaera" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-nitrososphaera">氨氧化球形菌 / Nitrososphaera</title>
+  <desc id="d-nitrososphaera">Spherical archaeon with stalk/attachment end and sparse flagella. Ammonia-oxidizing archaeon (AOA). Phylum Nitrososphaerota（NCBI 旧称 Thaumarchaeota；GTDB 门 Nitrososphaerota、纲 Nitrososphaeria）. 关键词: Nitrososphaera, ammonia oxidation, stalk, Nitrososphaerota</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="45" cy="38" r="14" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="43" y="52" width="4" height="22" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+    <ellipse cx="45" cy="76" rx="6" ry="3" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="0.8"/>
+    <path d="M59.0,38.0 L60.1,36.1 L61.3,37.1 L62.4,39.6 L63.6,39.6 L64.7,37.1 L65.9,36.1 L67.0,38.0" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M38.0,50.1 L39.1,52.1 L37.6,52.5 L34.9,52.3 L34.4,53.3 L35.9,55.5 L36.3,57.0 L34.0,57.1" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <path d="M38.0,25.9 L35.7,25.9 L36.1,24.3 L37.6,22.1 L37.1,21.1 L34.4,21.4 L32.9,20.9 L34.0,18.9" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="45" y1="76" x2="65" y2="82" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="58" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">stalk</text>
+    <text x="10.0" y="18.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Nitrososphaerota</text>
+    <line x1="65.0" y1="15.9" x2="68.47" y2="22.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="69.88" y="25.55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">AMO</text>
+  </g>
+</svg>

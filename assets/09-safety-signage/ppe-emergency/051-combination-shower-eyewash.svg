@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-combination-shower-eyewash" data-cat="sf" data-spec="128"
+     data-tags="combination,shower,eyewash,emergency,decontamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">组合冲淋洗眼器 / Combination Shower Eyewash</title>
+  <desc id="d">组合式紧急冲淋洗眼器，上方花洒+下方洗眼盆。</desc>
+  <g id="body"><rect x="56" y="8" width="16" height="12" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M64 20 L64 32" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M40 32 L88 32 L84 44 L44 44 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M64 44 L64 70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M44 70 L84 70 L80 82 L48 82 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M48 48 L48 66 M56 48 L56 66 M64 48 L64 66 M72 48 L72 66 M80 48 L80 66" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><path d="M52 86 L52 108 M60 86 L60 108 M68 86 L68 108 M76 86 L76 108" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M42 44 Q50 46 58 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M70 44 Q78 46 86 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

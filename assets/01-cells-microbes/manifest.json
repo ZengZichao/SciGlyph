@@ -1,0 +1,53 @@
+{
+ "category": "01-cells-microbes",
+ "name_zh": "细胞与微生物形态结构",
+ "name_en": "Cells & Microbes: Morphology and Structure",
+ "count": 295,
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "subdirs": [
+  {
+   "id": "morphology-arrangement",
+   "name_zh": "形态与排列",
+   "name_en": "Morphology & Arrangement",
+   "count": 72
+  },
+  {
+   "id": "cell-structures",
+   "name_zh": "细胞结构",
+   "name_en": "Cell Structures",
+   "count": 34
+  },
+  {
+   "id": "cell-envelope",
+   "name_zh": "细胞包膜",
+   "name_en": "Cell Envelope",
+   "count": 30
+  },
+  {
+   "id": "appendages-motility",
+   "name_zh": "附属结构与运动",
+   "name_en": "Appendages & Motility",
+   "count": 39
+  },
+  {
+   "id": "archaea",
+   "name_zh": "古菌",
+   "name_en": "Archaea",
+   "count": 40
+  },
+  {
+   "id": "viruses-phages",
+   "name_zh": "病毒与噬菌体",
+   "name_en": "Viruses & Phages",
+   "count": 54
+  },
+  {
+   "id": "eukaryotic-cells-organelles",
+   "name_zh": "真核细胞与细胞器",
+   "name_en": "Eukaryotic Cells & Organelles",
+   "count": 26
+  }
+ ]
+}

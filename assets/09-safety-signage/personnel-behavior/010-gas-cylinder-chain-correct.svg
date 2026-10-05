@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-gas-cylinder-chain-correct" data-cat="pp" data-spec="128"
+     data-tags="gas cylinder,chain,correct,securing,proper" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">气瓶上链固定正确 / Gas Cylinder Chain Correct</title>
+  <desc id="d">气瓶正确固定：使用链条固定。</desc>
+  
+  <g id="figure"><circle cx="36" cy="22" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M26 32 L24 74 L18 116 L30 116 L36 84 L42 116 L54 116 L48 74 L46 32 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M46 38 L58 42 L64 50 L60 52 L56 46 L46 42 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 46 L66 46 L66 56 L60 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M72 16 L96 16 L96 100 L72 100 Z" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M76 16 L76 10 Q76 6 84 6 Q92 6 92 10 L92 16 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M66 40 L72 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M66 60 L72 60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M72 40 L72 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M100 20 L104 16 L104 24 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

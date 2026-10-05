@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-union-two-way" data-cat="cs" data-spec="128"
+     data-tags="union,two way,straight,connector,fitting" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">二通接头 / Two-Way Union</title>
+  <desc id="d">直通二通管路接头。</desc>
+  <g id="body"><path d="M14 50 L114 50 L114 78 L14 78 Z" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M14 54 L30 54 L30 74 L14 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M98 54 L114 54 L114 74 L98 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M30 58 L98 58 M30 70 L98 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 64 L78 64 L74 60 L78 64 L74 68" fill="#2B7DE9" stroke="none" stroke-width="2" data-ls="accent"/></g>
+  
+</svg>

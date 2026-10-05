@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-dna_extraction d-dna_extraction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-dna_extraction">DNA Extraction</title>
+  <desc id="d-dna_extraction">DNA抽提流程: 溶菌酶→SDS裂解→酚氯仿抽提→乙醇沉淀。关键词: DNA extraction, lysozyme, SDS, phenol-chloroform, ethanol precipitation</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="25" width="16" height="40" rx="4" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <path d="M28,45 L35,45" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M33,43 L37,45 L33,47" fill="#93A0AC" data-pp="muted"/>
+    <rect x="39" y="25" width="16" height="40" rx="4" fill="#00857A" fill-opacity="0.3" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <path d="M57,45 L64,45" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M62,43 L66,45 L62,47" fill="#93A0AC" data-pp="muted"/>
+    <rect x="68" y="25" width="16" height="40" rx="4" fill="#6C3FA0" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="gene"/>
+    <text x="18" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">lyse</text>
+    <text x="47" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">extract</text>
+    <text x="76" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA extraction</text>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-generalized_transduction d-generalized_transduction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-generalized_transduction">普遍性转导 / Generalized transduction packaging error</title>
+  <desc id="d-generalized_transduction">普遍性转导：裂解期噬菌体错误包装宿主DNA片段(而非噬菌体DNA)形成转导颗粒。感染新宿主后可转移任意基因。关键词: generalized transduction, packaging error, transducing particle, P1, P22</desc>
+  <g id="layer-body-generalized_transduction" data-name="body">
+    <!-- Donor cell lysing -->
+    <rect x="5" y="30" width="25" height="15" rx="7" ry="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-dasharray="2,1"/>
+    <!-- Phage with bacterial DNA (wrong package) -->
+    <polygon points="45,20 52,24 52,34 45,38 38,34 38,24" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M41,27 Q44,24 47,27 Q50,30 50,33" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5"/>
+    <line x1="45" y1="38" x2="45" y2="48" stroke="#1B2733" stroke-width="1"/>
+    <!-- Arrow to recipient -->
+    <path d="M55,38 L70,50" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="68,48 72,52 66,52" fill="#1B2733" data-pp="ink"/>
+    <!-- Recipient cell with new DNA -->
+    <rect x="70" y="50" width="25" height="15" rx="7" ry="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M76,55 Q80,52 84,55" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5"/>
+  </g>
+  <g id="layer-annotation-generalized_transduction" data-name="annotation">
+    <text x="17.0" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">donor</text>
+    <line x1="45.0" y1="52.9" x2="53.0" y2="52.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="53.0" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">transducing</text>
+    <text x="46.41" y="62.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">particle</text>
+    <text x="79.97" y="75.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">recipient</text>
+  </g>
+</svg>

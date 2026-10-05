@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="两子类泛化组" data-name-en="Subclass Generalization Pair" data-cat="diagrams-sw-uml" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">两子类泛化组 / subclass_generalization_pair</title>
+  <desc id="d-13">两个子类泛化到父类。关键词: generalization,subclass,inherit</desc>
+  <g id="g-13-两子类泛化组">
+    <rect x="45" y="10" width="70" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="80" y="30" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Base</text>
+    <rect x="10" y="80" width="60" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="40" y="100" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">SubA</text>
+    <rect x="90" y="80" width="60" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="120" y="100" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">SubB</text>
+    <line fill="none" x1="40" y1="80" x2="61.51" y2="48.49" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="70,40 65.76,52.73 57.27,44.24" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="120" y1="80" x2="98.49" y2="48.49" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="90,40 102.73,44.24 94.24,52.73" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

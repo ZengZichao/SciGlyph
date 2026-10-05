@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-23">节点标记: 分歧时间 / Node Marker: time</title>
+<desc id="d-23">节点定年示意(非按比例, 年代数值仅为示例), 95% HPD误差棒, 时间轴 关键词: node, time, dating, HPD, chronogram</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="340.0" x2="360.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="60.0" y1="340.0" x2="60.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="60.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+<line x1="150.0" y1="340.0" x2="150.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="150.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
+<line x1="240.0" y1="340.0" x2="240.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="240.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">200</text>
+<line x1="330.0" y1="340.0" x2="330.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="330.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">300</text>
+<text x="200.0" y="375.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Ma</text>
+<line x1="50.0" y1="180.0" x2="120.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="120.0" y1="180.0" x2="120.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="120.0" y1="50.0" x2="200.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="200.0" y1="50.0" x2="300.0" y2="50.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="200.0" y1="50.0" x2="200.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="200.0" y1="136.7" x2="300.0" y2="136.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="120.0" y1="180.0" x2="120.0" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="120.0" y1="223.3" x2="300.0" y2="223.3" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="120.0" y1="310.0" x2="300.0" y2="310.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="300.0" cy="50.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="300.0" cy="136.7" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="300.0" cy="223.3" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="300.0" cy="310.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<line x1="20.0" y1="180.0" x2="110.0" y2="180.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="20.0" y1="176.0" x2="20.0" y2="184.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="110.0" y1="176.0" x2="110.0" y2="184.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<circle cx="50.0" cy="180.0" r="5.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#E8871E" stroke-width="1"/>
+<line x1="100.0" y1="180.0" x2="165.0" y2="180.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="100.0" y1="176.0" x2="100.0" y2="184.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="165.0" y1="176.0" x2="165.0" y2="184.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<circle cx="120.0" cy="180.0" r="5.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#E8871E" stroke-width="1"/>
+<line x1="188.0" y1="50.0" x2="225.0" y2="50.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="188.0" y1="46.0" x2="188.0" y2="54.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="225.0" y1="46.0" x2="225.0" y2="54.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<circle cx="200.0" cy="50.0" r="5.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#E8871E" stroke-width="1"/>
+<line x1="98.0" y1="310.0" x2="170.0" y2="310.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="98.0" y1="306.0" x2="98.0" y2="314.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<line x1="170.0" y1="306.0" x2="170.0" y2="314.0" stroke="#E8871E" stroke-width="1.5" data-pp="mge" stroke-linecap="round"/>
+<circle cx="120.0" cy="310.0" r="5.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#E8871E" stroke-width="1"/>
+<line x1="50.0" y1="188.0" x2="50.0" y2="340.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3,3" stroke-linecap="round"/>
+<line x1="120.0" y1="188.0" x2="120.0" y2="340.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3,3" stroke-linecap="round"/>
+<line x1="200.0" y1="58.0" x2="200.0" y2="340.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3,3" stroke-linecap="round"/>
+<line x1="120.0" y1="318.0" x2="120.0" y2="340.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3,3" stroke-linecap="round"/>
+<text x="200.0" y="30.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Dated tree</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">HPD bars = 95% CrI</text>
+</g>
+</svg>

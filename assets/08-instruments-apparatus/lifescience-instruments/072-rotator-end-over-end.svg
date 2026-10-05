@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-rotator-end-over-end" data-cat="ls" data-spec="128" data-tags="rotator,end,over,end,mixing,roller,slow,rotation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">翻转式旋转混合器 / End-over-End Rotator</title>
+  <desc id="d">翻转式旋转混合器：滚筒、低速旋转、样品管夹持。</desc>
+  <g id="body">
+<rect x="18" y="60" width="92" height="44" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="18" y="60" width="92" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<ellipse cx="64" cy="44" rx="30" ry="18" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<path d="M40 36 Q64 22 88 36" fill="#2B7DE9" stroke="none" stroke-width="1.5" data-ls="accent" />
+    <polygon points="82,29 94,32 82,35" fill="#2B7DE9" stroke="none" data-ls="accent" />
+<rect x="44" y="30" width="5" height="12" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="56" y="28" width="5" height="12" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="68" y="28" width="5" height="12" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="80" y="30" width="5" height="12" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="64" cy="44" r="4" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="28" y="68" width="36" height="12" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="46" y="76" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">12 rpm</text>
+    <circle cx="74" cy="74" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="84" cy="74" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="94" cy="74" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="74.0" y="82.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Start</text>
+    <line x1="84.0" y1="79.9" x2="94.0" y2="79.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="94.0" y="82.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Stop</text>
+    <line x1="94.0" y1="79.9" x2="97.47" y2="86.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="98.88" y="89.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Dir</text>
+    <rect x="24" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

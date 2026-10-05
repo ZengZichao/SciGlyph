@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-09_amr_detection d-09_amr_detection" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09_amr_detection">抗药基因检测流程 / AMR Detection Pipeline</title>
+  <desc id="d-09_amr_detection">骨架流程：基因组→AMRFinderPlus/CARD数据库搜索→BLAST比对→抗性组分析→耐药谱。工具：AMRFinderPlus, CARD, BLAST。输入：基因组FASTA；输出：AMR基因列表、耐药谱。 关键词: bioinformatics workflow, amr detection, AMRFinderPlus, CARD, BLAST, FASTA, skeleton template, antimicrobial resistance</desc>
+<defs>
+  <marker id="pp09__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp09__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp09__labels" data-name="labels">
+  <rect x="40" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="95.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Genome</text>
+
+  <rect x="180" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="235.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">AMRFinder</text>
+
+  <rect x="320" y="80" width="110" height="50" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="375.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">CARD DB</text>
+
+  <rect x="40" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="95.0" y="249.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">BLAST Search</text>
+
+  <rect x="180" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="235.0" y="249.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Resistome</text>
+
+  <rect x="320" y="220" width="110" height="50" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="375.0" y="249.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Profile</text>
+
+  <line x1="150" y1="105.0" x2="180" y2="105.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp09__arrow)" stroke-linecap="round"/>
+  <line x1="290" y1="105.0" x2="320" y2="105.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp09__arrow)" stroke-linecap="round"/>
+  <path d="M 375.0 130 L 375.0 175.0 L 95.0 175.0 L 95.0 220" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp09__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="150" y1="245.0" x2="180" y2="245.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp09__arrow)" stroke-linecap="round"/>
+  <line x1="290" y1="245.0" x2="320" y2="245.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp09__arrow)" stroke-linecap="round"/>
+  <text x="40" y="65" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AMR Gene Detection Pipeline</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AMR</text>
+  <rect x="69" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="85" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">BLAST</text>
+  <rect x="132" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="148" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Genome</text>
+  <rect x="202" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="218" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Profile</text>
+  </g>
+</svg>

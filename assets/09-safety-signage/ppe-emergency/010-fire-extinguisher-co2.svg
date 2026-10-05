@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>二氧化碳灭火器</title>
+  <rect x="7" y="8" rx="3" ry="3" width="8" height="13"/>
+  <path d="M9.5 8V6h3v2"/>
+  <path d="M9.5 6V4.5h3V6"/>
+  <line x1="9.5" y1="5" x2="7" y2="4" stroke-width="1"/>
+  <path d="M12.5 5.5L16 4.5" stroke-width="1"/>
+  <path d="M16 3L20 2L20.5 6L16.5 6.5Z" stroke-width="1"/>
+  <line x1="7" y1="12" x2="15" y2="12" stroke-width="0.75"/>
+  <line x1="7" y1="18" x2="15" y2="18" stroke-width="0.75"/>
+  <line x1="9" y1="21" x2="13" y2="21"/>
+</svg>

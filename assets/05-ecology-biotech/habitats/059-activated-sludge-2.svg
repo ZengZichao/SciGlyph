@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-activated_sludge d-activated_sludge" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-activated_sludge">活性污泥 / Activated sludge</title>
+  <desc id="d-activated_sludge">Activated sludge floc with Zoogloea, filamentous bacteria and ciliate protozoa 关键词: activated, sludge, floc, filamentous</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="10" width="90" height="70" rx="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria" fill-opacity="0.08"/>
+    <path d="M25,35 Q20,30 25,25 Q35,20 45,25 Q55,20 60,28 Q65,25 70,32 Q75,38 70,45 Q75,55 65,58 Q55,62 45,58 Q35,62 28,55 Q20,50 25,42 Z" fill="#2E86AB" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="bacteria" fill-opacity="0.3"/>
+    <path d="M25,30 Q15,25 10,28" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.2" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M70,35 Q80,30 85,33" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.2" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M30,55 Q20,60 15,58" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.2" stroke-linecap="round" data-pp="bacteria"/>
+    <circle cx="35" cy="35" r="2.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <circle cx="50" cy="40" r="2.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <circle cx="45" cy="50" r="2.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/>
+    <ellipse cx="78" cy="55" rx="6" ry="4" fill="#3F8FBF" stroke="#1B2733" stroke-width="1" data-pp="eukaryote"/>
+    <line x1="72" y1="53" x2="70" y2="51" stroke="#3F8FBF" stroke-width="0.6" stroke-linecap="round" data-pp="eukaryote"/>
+    <line x1="72" y1="55" x2="69" y2="55" stroke="#3F8FBF" stroke-width="0.6" stroke-linecap="round" data-pp="eukaryote"/>
+    <line x1="72" y1="57" x2="70" y2="59" stroke="#3F8FBF" stroke-width="0.6" stroke-linecap="round" data-pp="eukaryote"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">活性污泥</text>
+  </g>
+</svg>

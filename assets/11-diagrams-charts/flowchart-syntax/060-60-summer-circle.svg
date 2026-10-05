@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="求和节点" data-name-en="summer-circle" data-cat="flowchart-logic" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-60">求和节点 / summer_circle</title>
+  <desc id="d-60">求和运算节点。关键词: summer,circle,add</desc>
+  <g id="g-60-求和节点">
+    <circle cx="48" cy="24" r="16" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="40" y1="24" x2="56" y2="24" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="48" y1="16" x2="48" y2="32" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="24" x2="32" y2="24" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="64" y1="24" x2="90" y2="24" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="86,20 94,24 86,28" fill="#1f2937"/>
+  </g>
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-source_tracking d-source_tracking" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-source_tracking">源追踪 / Source tracking</title>
+<desc id="d-source_tracking">FEAST source tracking: 每个 sink 的各源贡献(含 Unknown)之和为 100%。线宽≈贡献比例。示意。关键词: microbial ecology, source tracking, FEAST, proportional, unknown fraction, Soil, Water, Air</desc>
+<g id="l-source_tracking" data-name="source">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="28.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Source Tracking (FEAST)</text>
+<rect x="40.0" y="70.0" width="100.0" height="40.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="1.5" rx="5"/>
+<text x="90.0" y="95.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Soil</text>
+<rect x="40.0" y="150.0" width="100.0" height="40.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.3" stroke="#00857A" stroke-width="1.5" rx="5"/>
+<text x="90.0" y="175.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Water</text>
+<rect x="40.0" y="230.0" width="100.0" height="40.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.3" stroke="#A2305B" stroke-width="1.5" rx="5"/>
+<text x="90.0" y="255.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Air</text>
+<rect x="40.0" y="310.0" width="100.0" height="40.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" stroke-width="1.5" rx="5"/>
+<text x="90.0" y="335.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Unknown</text>
+<rect x="440.0" y="80.0" width="120.0" height="60.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="500.0" y="115.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Sink A</text>
+<rect x="440.0" y="190.0" width="120.0" height="60.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="500.0" y="225.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Sink B</text>
+<rect x="440.0" y="300.0" width="120.0" height="60.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="5"/>
+<text x="500.0" y="335.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Sink C</text>
+<line x1="140.0" y1="90.0" x2="440.0" y2="110.0" stroke="#2E86AB" stroke-width="7.6" data-pp="bacteria" stroke-linecap="round"/>
+<text x="290.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">~35%</text>
+<line x1="140.0" y1="90.0" x2="440.0" y2="220.0" stroke="#2E86AB" stroke-width="3.0" data-pp="bacteria" stroke-linecap="round"/>
+<text x="290.0" y="150.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">~15%</text>
+<line x1="140.0" y1="90.0" x2="440.0" y2="330.0" stroke="#2E86AB" stroke-width="1.6" data-pp="bacteria" stroke-linecap="round"/>
+<text x="290.0" y="205.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">~8%</text>
+<line x1="140.0" y1="170.0" x2="440.0" y2="110.0" stroke="#00857A" stroke-width="4.0" data-pp="metabolism" stroke-linecap="round"/>
+<text x="290.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">~20%</text>
+<line x1="140.0" y1="170.0" x2="440.0" y2="220.0" stroke="#00857A" stroke-width="5.0" data-pp="metabolism" stroke-linecap="round"/>
+<text x="290.0" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">~25%</text>
+<line x1="140.0" y1="170.0" x2="440.0" y2="330.0" stroke="#00857A" stroke-width="2.4" data-pp="metabolism" stroke-linecap="round"/>
+<text x="290.0" y="245.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">~12%</text>
+<line x1="140.0" y1="250.0" x2="440.0" y2="110.0" stroke="#A2305B" stroke-width="1" data-pp="archaea" stroke-linecap="round"/>
+<text x="290.0" y="175.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">~5%</text>
+<line x1="140.0" y1="250.0" x2="440.0" y2="220.0" stroke="#A2305B" stroke-width="2.0" data-pp="archaea" stroke-linecap="round"/>
+<text x="290.0" y="230.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">~10%</text>
+<line x1="140.0" y1="250.0" x2="440.0" y2="330.0" stroke="#A2305B" stroke-width="3.0" data-pp="archaea" stroke-linecap="round"/>
+<text x="290.0" y="285.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">~15%</text>
+<line x1="140.0" y1="330.0" x2="440.0" y2="110.0" stroke="#93A0AC" stroke-width="8.7" data-pp="muted" stroke-linecap="round"/>
+<text x="290.0" y="215.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~40%</text>
+<line x1="140.0" y1="330.0" x2="440.0" y2="220.0" stroke="#93A0AC" stroke-width="10.9" data-pp="muted" stroke-linecap="round"/>
+<text x="290.0" y="270.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~50%</text>
+<line x1="140.0" y1="330.0" x2="440.0" y2="330.0" stroke="#93A0AC" stroke-width="14.1" data-pp="muted" stroke-linecap="round"/>
+<text x="290.0" y="325.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~65%</text>
+<text x="300.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Width ~proportional contribution (schematic)</text>
+</g>
+</svg>

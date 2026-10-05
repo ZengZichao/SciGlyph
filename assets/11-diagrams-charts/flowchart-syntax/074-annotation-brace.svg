@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-annotation-brace" data-cat="pf" data-spec="160"
+     data-tags="annotation,brace,curly,bracket,note,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">注解花括号 / Annotation Brace</title>
+  <desc id="d">流程图中注解用的花括号符号。</desc>
+  <g id="body">
+    <path d="M50,12 Q40,12 40,24 Q40,36 30,40 Q40,44 40,56 Q40,68 50,68" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M110,12 Q120,12 120,24 Q120,36 130,40 Q120,44 120,56 Q120,68 110,68" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="50" y1="40" x2="110" y2="40" fill="none" stroke="#5A6B7B" stroke-dasharray="4,3" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

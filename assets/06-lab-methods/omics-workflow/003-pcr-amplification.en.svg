@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="PCR 指数扩增轮次" data-name-en="PCR Exponential Amplification" data-cat="05-eco-seq" data-tags="PCR,指数扩增,变性,退火,延伸,循环" role="img" aria-labelledby="t-19-pcr-amplification d-19-pcr-amplification" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19-pcr-amplification">PCR Exponential Amplification</title>
+  <desc id="d-19-pcr-amplification">左侧热循环曲线标示变性—退火—延伸三阶段温度，右侧扩增树显示模板量由 1 份指数增长到大量拷贝。关键词: PCR, 指数扩增, 变性, 退火, 延伸, 循环</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 左：热循环温度曲线 -->
+  <path d="M12 26 V104 H44" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M12 40 H10 M12 70 H10 M12 100 H10" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M12 30 H16 V84 H21 V40 H26 V30 H31 V84 H36 V40 H41" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M16 30 V84 M21 84 V40 M26 40 V30" stroke="#E8B04B" stroke-width="1.4" stroke-opacity="0.8"/>
+  <circle cx="12" cy="20" r="6" fill="#5B4B8A" stroke="none"/>
+  <circle cx="12" cy="92" r="6" fill="#5B4B8A" stroke="none"/>
+  <circle cx="34" cy="62" r="6" fill="#5B4B8A" stroke="none"/>
+  <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#FFFFFF" stroke="none" text-anchor="middle">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="12" y="23">①</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="12" y="95">②</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="34" y="65">③</text>
+  </g>
+  <path d="M31 60 H26" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" stroke="none" text-anchor="middle" font-size="7" x="33.05" y="111.0">Thermal cycling</text>
+  <!-- 右：指数扩增树（1→2→4→8） -->
+  <path d="M77 90 L61 79 M77 90 L93 79" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M61 68 L50 54 M61 68 L67 54 M93 68 L87 54 M93 68 L104 54" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M50 44 L46 28 M50 44 L55 28 M67 44 L64 28 M67 44 L73 28 M87 44 L82 28 M87 44 L91 28 M104 44 L100 28 M104 44 L109 28" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 第 1 层：模板双链 -->
+  <path d="M68 94 q4.5 -6 9 0 t9 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M68 98 q4.5 6 9 0 t9 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M72.5 92 V100 M77 92 V100 M81.5 92 V100" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 第 2 层：2 份 -->
+  <path d="M53 71 q4 -5 8 0 t8 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M53 75 q4 5 8 0 t8 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M57 69.5 V76.5 M61 69.5 V76.5 M65 69.5 V76.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M85 71 q4 -5 8 0 t8 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M85 75 q4 5 8 0 t8 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M89 69.5 V76.5 M93 69.5 V76.5 M97 69.5 V76.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 第 3 层：4 份 -->
+  <path d="M43.5 47 q3.25 -4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M43.5 51 q3.25 4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M46.75 45.5 V52.5 M50 45.5 V52.5 M53.25 45.5 V52.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M60.5 47 q3.25 -4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M60.5 51 q3.25 4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M63.75 45.5 V52.5 M67 45.5 V52.5 M70.25 45.5 V52.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M80.5 47 q3.25 -4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M80.5 51 q3.25 4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M83.75 45.5 V52.5 M87 45.5 V52.5 M90.25 45.5 V52.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M97.5 47 q3.25 -4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M97.5 51 q3.25 4.5 6.5 0 t6.5 0" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M100.75 45.5 V52.5 M104 45.5 V52.5 M107.25 45.5 V52.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <!-- 第 4 层：大量产物 -->
+  <circle cx="46" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="55" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="64" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="73" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="82" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="91" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="100" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <circle cx="109" cy="24" r="2.4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M77 104 v-4 m-2.5 2 l2.5 -2 l2.5 2" stroke="#E8B04B" stroke-width="1.4"/>
+</g>
+</svg>

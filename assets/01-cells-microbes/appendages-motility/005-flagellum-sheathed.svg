@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-flagellum_sheathed d-flagellum_sheathed" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flagellum_sheathed">鞘鞭毛 / Sheathed Flagellum</title>
+  <desc id="d-flagellum_sheathed">Flagellum enclosed by extension of outer membrane sheath. 关键词: sheathed flagellum, outer membrane, sheath</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="40" width="25" height="20" rx="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M35,44 Q55,42 75,44 Q80,44 80,46 Q80,54 75,56 Q55,58 35,56 Z" fill="#2E86AB" data-pp="bacteria" stroke="#93A0AC" stroke-width="1" fill-opacity="0.2"/>
+    <path d="M35.0,50.0 L36.9,52.0 L38.8,53.5 L40.6,54.0 L42.5,53.5 L44.4,52.0 L46.2,50.0 L48.1,48.0 L50.0,46.5 L51.9,46.0 L53.8,46.5 L55.6,48.0 L57.5,50.0 L59.4,52.0 L61.2,53.5 L63.1,54.0 L65.0,53.5 L66.9,52.0 L68.8,50.0 L70.6,48.0 L72.5,46.5 L74.4,46.0 L76.2,46.5 L78.1,48.0 L80.0,50.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M35,44 Q55,42 75,44 Q80,44 80,46 Q80,54 75,56 Q55,58 35,56" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="3,2"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="55" y1="42" x2="55" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="45" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">sheath</text>
+
+    <line x1="70" y1="48" x2="82" y2="35" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <line x1="72.0" y1="29.9" x2="60.44" y2="29.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="32.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">flagellum</text>
+
+  </g>
+</svg>

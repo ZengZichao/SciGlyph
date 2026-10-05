@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-arrow-dashed-line" data-cat="pf" data-spec="160"
+     data-tags="arrow,dashed,signal,optional,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">虚线箭头 / Dashed Arrow</title>
+  <desc id="d">流程图虚线箭头，表示可选或信号流。</desc>
+  <g id="body">
+    <line x1="20" y1="48" x2="130" y2="48" fill="none" stroke="#1F2933" stroke-dasharray="8,4" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="130,48 118,40 118,56" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="EP管" data-name-en="microcentrifuge_tube" data-cat="lab-equipment" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">EP管 / microcentrifuge_tube</title>
+  <desc id="d-14">微量样品储存和离心。关键词: EP管,microcentrifuge,微量,储存</desc>
+  <g id="g-14-EP管">
+    <path d="M 48 30 L 48 88 L 56 110 L 64 110 L 72 88 L 72 30 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 46 30 L 46 22 Q 46 14 54 14 L 66 14 Q 74 14 74 22 L 74 30 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="46" y1="30" x2="74" y2="30" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 49 65 L 49 88 L 56 109 L 64 109 L 71 88 L 71 65 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="49" y1="65" x2="71" y2="65" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M 46 18 Q 40 16 40 22 L 40 26" stroke="#1f2937" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+  </g>
+</svg>

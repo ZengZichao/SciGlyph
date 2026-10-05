@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-12_prophage d-12_prophage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12_prophage">前噬菌体 / Prophage Integration</title>
+  <desc id="d-12_prophage">前噬菌体整合到宿主染色体。attL/attR为噬菌体-宿主连接位点。关键词: prophage, lysogeny, attL, attR, integration, excision</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="5" y1="45" x2="30" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+    <rect x="30" y="38" width="40" height="14" rx="2" fill="#5B8C3E" data-pp="virus"/>
+    <text x="50" y="48" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">prophage</text>
+    <line x1="70" y1="45" x2="95" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+      <polygon points="30,42 33,45 30,48" fill="#E8871E" data-pp="mge"/>
+    <polygon points="70,42 67,45 70,48" fill="#E8871E" data-pp="mge"/>
+    <circle cx="50" cy="32" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="30" y="35" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">attL</text>
+    <text x="70" y="35" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">attR</text>
+    <text x="50" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">lysogenic cycle</text>
+    <text x="50" y="82" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">integrase mediated</text>
+  </g>
+</svg>

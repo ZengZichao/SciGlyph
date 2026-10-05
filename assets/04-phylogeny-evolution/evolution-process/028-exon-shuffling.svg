@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-exon_shuffling d-exon_shuffling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-exon_shuffling">外显子改组 / Exon Shuffling</title>
+<desc id="d-exon_shuffling">内含子重组导致结构域模块重新组合产生新蛋白 关键词: exon shuffling, domain, recombination, intron, modular</desc>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Exon Shuffling</text>
+<text x="60" y="55" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">祖先蛋白</text>
+<rect x="60" y="65" width="200" height="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="4"/>
+<rect x="65" y="68" width="55" height="24" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="92" y="85" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<rect x="125" y="68" width="55" height="24" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<text x="152" y="85" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">B</text>
+<rect x="185" y="68" width="55" height="24" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<text x="212" y="85" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">C</text>
+<text x="122" y="62" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">▼</text>
+<text x="182" y="62" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">▼</text>
+<text x="300" y="80" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">内含子重组</text>
+<line x1="280" y1="95" x2="320" y2="115" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round"/>
+<line x1="320" y1="95" x2="280" y2="115" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round"/>
+<text x="60" y="130" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">新组合 1</text>
+<rect x="60" y="140" width="200" height="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="4"/>
+<rect x="65" y="143" width="55" height="24" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<text x="92" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">C</text>
+<rect x="125" y="143" width="55" height="24" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="152" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<rect x="185" y="143" width="55" height="24" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<text x="212" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">B</text>
+<text x="320" y="130" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">新组合 2</text>
+<rect x="320" y="140" width="200" height="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="4"/>
+<rect x="325" y="143" width="55" height="24" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<text x="352" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">B</text>
+<rect x="385" y="143" width="55" height="24" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="412" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<rect x="445" y="143" width="55" height="24" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<text x="472" y="160" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">C</text>
+<text x="60" y="190" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">新组合 3</text>
+<rect x="60" y="200" width="135" height="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1.5" rx="4"/>
+<rect x="65" y="203" width="55" height="24" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<text x="92" y="220" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">A</text>
+<rect x="125" y="203" width="55" height="24" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<text x="152" y="220" font-size="12" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">C</text>
+<text x="320" y="195" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">机制</text>
+<rect x="320" y="210" width="240" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="340" y="228" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">不等交换 · 转座子介导</text>
+<text x="340" y="245" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">内含子相位允许模块交换</text>
+<text x="340" y="260" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">phase 0/1/2 内含子</text>
+<rect x="60" y="260" width="480" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="278" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">实例: 结构域改组</text>
+<rect x="80" y="288" width="70" height="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+<text x="115" y="301" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">EGF</text>
+<rect x="175" y="288" width="70" height="18" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+<text x="210" y="301" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Kringle</text>
+<rect x="270" y="288" width="70" height="18" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+<text x="305" y="301" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">FN3</text>
+<rect x="365" y="288" width="70" height="18" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+<text x="400" y="301" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">SH3</text>
+<rect x="460" y="288" width="70" height="18" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+<text x="495" y="301" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Ig</text>
+<text x="300" y="340" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle" font-weight="bold">模块化进化: 有限结构域 → 无限组合</text>
+<text x="300" y="360" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">tPA · plasminogen · mosaic proteins</text>
+</g>
+</svg>

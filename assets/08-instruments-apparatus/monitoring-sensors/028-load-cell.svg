@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-load-cell" data-cat="mt" data-spec="128"
+     data-tags="loadcell,weight,sensor,strain,传感器,称重" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">称重传感器 / Load Cell</title>
+  <desc id="d">称重传感器（应变式）。</desc>
+  <g id="body"><rect x="24" y="40" width="80" height="48" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M36 56 L52 56 L52 72 L36 72Z M44 56 L44 72" fill="none" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent"/>
+    <path d="M60 56 L76 56 L76 72 L60 72Z M68 56 L68 72" fill="none" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent"/>
+    <path d="M24 56 L14 56 M24 72 L14 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2" data-ls="thin"/>
+    <path d="M104 56 L114 56 M104 72 L114 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2" data-ls="thin"/>
+    <text x="64" y="100" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="thin">LOAD CELL</text></g>
+  <g id="detail"></g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-data-input-output-parallelogram" data-cat="pf" data-spec="160"
+     data-tags="data,input,output,parallelogram,io,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">输入输出平行四边形 / Data I/O Parallelogram</title>
+  <desc id="d">流程图数据输入输出符号，平行四边形。</desc>
+  <g id="body">
+    <polygon points="36,20 150,20 124,76 10,76" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

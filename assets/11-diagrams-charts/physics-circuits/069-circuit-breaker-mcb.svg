@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-circuit-breaker-mcb" data-cat="el" data-spec="128"
+     data-tags="breaker,mcb,circuit,protection,断路器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">断路器MCB / Circuit Breaker MCB</title>
+  <desc id="d">断路器符号：触头+方框叉。</desc>
+  <g id="body"><line x1="10" y1="64" x2="40" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="44" cy="64" r="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="48" y1="64" x2="76" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="80" cy="64" r="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="84" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="52" y="72" width="24" height="16" rx="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="56" y1="76" x2="72" y2="84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="72" y1="76" x2="56" y2="84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <g id="detail"></g>
+</svg>

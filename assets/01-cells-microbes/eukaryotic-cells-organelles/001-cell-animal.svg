@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="动物细胞" data-name-en="Animal Cell" data-cat="natural-sciences" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-09">动物细胞 / cell_animal</title>
+  <desc id="d-09">展示动物细胞剖面结构。关键词: animal cell,organelle,eukaryote</desc>
+  <g id="g-09-动物细胞">
+    <ellipse cx="160" cy="120" rx="140" ry="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="160" cy="110" r="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="160" cy="110" r="12" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="80" cy="80" rx="20" ry="10" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <ellipse cx="240" cy="80" rx="20" ry="10" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <ellipse cx="80" cy="160" rx="20" ry="10" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <ellipse cx="240" cy="160" rx="20" ry="10" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="100" cy="130" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <circle cx="220" cy="140" r="8" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <path d="M120,170 C125,165 135,165 140,170 C145,175 135,180 130,178 C125,176 118,175 120,170" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <path d="M180,170 C185,165 195,165 200,170 C205,175 195,180 190,178 C185,176 178,175 180,170" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="160" cy="60" r="5" fill="#6b7280" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="140" cy="170" r="5" fill="#6b7280" stroke="#1f2937" stroke-width="0.75"/>
+  </g>
+</svg>

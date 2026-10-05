@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-mycoplasma d-mycoplasma" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mycoplasma">支原体 / Mycoplasma</title>
+  <desc id="d-mycoplasma">Pleomorphic bacterium lacking cell wall, only membrane boundary. 关键词: Mycoplasma, pleomorphic, no cell wall, membrane</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M25,40 Q20,25 38,22 Q55,18 62,32 Q72,28 75,42 Q82,48 75,58 Q78,72 62,70 Q52,78 42,68 Q25,72 28,58 Q18,50 25,40 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M25,40 Q20,25 38,22 Q55,18 62,32 Q72,28 75,42 Q82,48 75,58 Q78,72 62,70 Q52,78 42,68 Q25,72 28,58 Q18,50 25,40 Z" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="3,2"/>
+    <ellipse cx="45" cy="48" rx="10" ry="6" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.4"/>
+    <circle cx="35" cy="40" r="1.5" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="55" cy="55" r="1.5" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="65" cy="42" r="1.5" fill="#93A0AC" data-pp="muted"/>
+    <circle cx="40" cy="60" r="1.5" fill="#93A0AC" data-pp="muted"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="75" y1="28" x2="88" y2="15" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="69.12" y="12.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no wall</text>
+
+  </g>
+</svg>

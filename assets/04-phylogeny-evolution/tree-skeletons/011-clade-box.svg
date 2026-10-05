@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="支序高亮框" data-name-en="Highlighted clade" data-cat="04-phylo" data-tags="支序,高亮,圈选,clade,注释" aria-labelledby="t-11-clade-box d-11-clade-box" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11-clade-box">支序高亮框 / Highlighted clade</title>
+  <desc id="d-11-clade-box">半透明圆角虚线框圈定需要强调的支序，框内成员共享更近的最近共同祖先，常用于标注讨论类群。关键词: 支序, 高亮, 圈选, clade, 注释</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <rect x="32" y="12" width="74" height="58" rx="5" fill="#B7D7E8" fill-opacity="0.35" stroke="#5B4B8A" stroke-width="2" stroke-dasharray="4 3"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 4 59.5 H 16"/>
+      <path d="M 16 31 V 96"/>
+      <path d="M 16 31 H 36"/>
+      <path d="M 16 96 H 40"/>
+      <path d="M 36 18 V 44"/>
+      <path d="M 36 18 H 100"/>
+      <path d="M 36 34 H 100"/>
+      <path d="M 36 44 H 52"/>
+      <path d="M 52 26 V 62"/>
+      <path d="M 52 26 H 100"/>
+      <path d="M 52 62 H 100"/>
+      <path d="M 40 88 V 104"/>
+      <path d="M 40 88 H 100"/>
+      <path d="M 40 104 H 100"/>
+    </g>
+    <g fill="#5B4B8A">
+      <circle cx="16" cy="59.5" r="2.2"/>
+      <circle cx="36" cy="31" r="2"/>
+      <circle cx="52" cy="44" r="2"/>
+      <circle cx="40" cy="96" r="2"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="100" cy="18" r="3"/>
+      <circle cx="100" cy="26" r="3"/>
+      <circle cx="100" cy="34" r="3"/>
+      <circle cx="100" cy="62" r="3"/>
+      <circle cx="100" cy="88" r="3"/>
+      <circle cx="100" cy="104" r="3"/>
+    </g>
+  </g>
+</svg>

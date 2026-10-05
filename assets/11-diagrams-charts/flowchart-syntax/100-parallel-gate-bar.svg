@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-parallel-gate-bar" data-cat="pf" data-spec="160"
+     data-tags="parallel,gate,bar,synchronization,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">并行杠 / Parallel Gate Bar</title>
+  <desc id="d">流程图并行执行符号，粗横杠。</desc>
+  <g id="body">
+    <rect x="20" y="40" width="120" height="16" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="10" x2="80" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="40" y1="56" x2="40" y2="86" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="80" y1="56" x2="80" y2="86" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="120" y1="56" x2="120" y2="86" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="36,86 40,80 44,86" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="76,86 80,80 84,86" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="116,86 120,80 124,86" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-adhesive-suction" data-cat="cs" data-spec="128"
+     data-tags="adhesive,suction,seal,pad,sticky,cover" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">粘性吸头垫 / Adhesive Suction Pad</title>
+  <desc id="d">粘性密封垫，用于板口临时密封。</desc>
+  <g id="body"><rect x="14" y="34" width="100" height="60" rx="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M20 44 L108 44 M20 54 L108 54 M20 64 L108 64 M20 74 L108 74 M20 84 L108 84" fill="none" opacity="0.3" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M50 30 L50 38 M64 28 L64 38 M78 30 L78 38" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+  
+</svg>

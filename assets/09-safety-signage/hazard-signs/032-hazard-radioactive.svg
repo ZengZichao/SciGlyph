@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-radioactive" data-cat="hz" data-spec="128"
+     data-tags="radioactive,radiation,trefoil,辐射,放射性" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电离辐射标志 / Radioactive Trefoil</title>
+  <desc id="d">标准电离辐射三叶形标志：60°扇叶+中心圆。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="8" fill="#1F2933" data-ls="stroke"/>
+    <path d="M57 51.88 L44 29.36 A40 40 0 0 1 84 29.36 L71 51.88 A14 14 0 0 0 57 51.88 Z" fill="#1F2933" data-ls="stroke"/>
+    <path d="M78 64 L104 64 A40 40 0 0 1 84 98.64 L71 76.12 A14 14 0 0 0 78 64 Z" fill="#1F2933" data-ls="stroke"/>
+    <path d="M57 76.12 L44 98.64 A40 40 0 0 1 24 64 L50 64 A14 14 0 0 0 57 76.12 Z" fill="#1F2933" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

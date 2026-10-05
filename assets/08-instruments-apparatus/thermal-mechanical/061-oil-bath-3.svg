@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-oil-bath" data-cat="hc" data-spec="128"
+     data-tags="oil-bath,heating,thermal,bath" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">油浴 / Oil Bath</title>
+  <desc id="d">油浴加热，热源+容器+油液面</desc>
+  <g id="body"><path d="M30 50 L98 50 L98 100 Q98 108 90 108 L38 108 Q30 108 30 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M24 108 L104 108 L104 116 L24 116 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><path d="M32 60 L96 60 L96 98 Q96 106 90 106 L38 106 Q32 106 32 98 Z" fill="#F5A623" opacity="0.5" stroke="none" data-ls="warn"/>
+    <path d="M28 112 L100 112 L100 114 L28 114 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <path d="M44 40 L44 50 M64 36 L64 50 M84 40 L84 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M42 36 L46 36 L46 40 L42 40 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M62 32 L66 32 L66 36 L62 36 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M82 36 L86 36 L86 40 L82 40 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/></g>
+</svg>

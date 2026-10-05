@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="包膜病毒" data-name-en="Virus Envelope Cut" data-cat="natural-sciences" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">包膜病毒 / virus_envelope_cut</title>
+  <desc id="d-44">展示包膜病毒剖面结构。关键词: enveloped virus,envelope,capsid</desc>
+  <g id="g-44-包膜病毒">
+    <circle cx="80" cy="60" r="40" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="80" cy="60" r="35" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="60" r="25" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <circle cx="50" cy="35" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="110" cy="40" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="45" cy="70" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="115" cy="75" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="65" cy="90" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="95" cy="90" r="3" fill="#009E73" stroke="none" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+  </g>
+</svg>

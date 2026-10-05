@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-chemical-apron-rubber" data-cat="sf" data-spec="128"
+     data-tags="apron,rubber,chemical,acid-resistant,protective" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">橡胶围裙 / Chemical Apron Rubber</title>
+  <desc id="d">橡胶防化围裙，耐酸碱，颈带和腰带系带。</desc>
+  <g id="body"><path d="M44 20 L40 24 L36 108 L92 108 L88 24 L84 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M44 20 Q54 14 64 14 Q74 14 84 20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M44 20 L32 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M84 20 L96 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 60 L92 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 40 L88 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M38 80 L90 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

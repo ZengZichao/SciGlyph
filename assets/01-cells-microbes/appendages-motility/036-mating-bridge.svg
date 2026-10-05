@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-mating_bridge d-mating_bridge" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mating_bridge">接合桥 / Mating Bridge</title>
+  <desc id="d-mating_bridge">Direct cell-cell bridge for plasmid DNA transfer during conjugation. 关键词: mating bridge, conjugation, DNA transfer, plasmid</desc>
+  <g id="layer-body" data-name="body">
+
+    <circle cx="22" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="50" r="5" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+
+    <circle cx="78" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="36" y="44" width="28" height="12" rx="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" fill-opacity="0.5"/>
+    <path d="M28,50 Q50,46 72,50" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <path d="M55,44 L62,44" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/>
+    <path d="M60,41 L65,44 L60,47" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="40" y="35" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">bridge</text>
+    <text x="42" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">DNA transfer</text>
+
+  </g>
+</svg>

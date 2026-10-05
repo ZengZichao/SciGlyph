@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-fire-blanket-wall-cabinet" data-cat="sf" data-spec="128"
+     data-tags="fire blanket,cabinet,wall mount,emergency" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">灭火毯箱 / Fire Blanket Wall Cabinet</title>
+  <desc id="d">壁挂灭火毯箱，含拉开的毯子展示。</desc>
+  <g id="body"><rect x="24" y="12" width="52" height="68" rx="4" fill="#E02020" stroke="none" data-ls="danger"/>
+     <path d="M76 32 L108 32 L108 108 L76 108 Z" fill="#FFFFFF" opacity="0.7" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M30 20 L70 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M30 72 L70 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M42 36 L58 36 L58 56 L42 56 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M80 40 L104 40 M80 52 L104 52 M80 64 L104 64 M80 76 L104 76 M80 88 L104 88 M80 100 L104 100" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

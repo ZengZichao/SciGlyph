@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="茎叶图" data-name-en="Stem Leaf" data-cat="charts-plots" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19">茎叶图 / stem_leaf</title>
+  <desc id="d-19">茎叶图展示分布。关键词: stem,leaf,distribution</desc>
+  <g id="g-19-茎叶图">
+    <text x="180" y="35" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Stem | Leaf</text>
+    <text x="170" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="end">1</text>
+    <line x1="180" y1="40" x2="180" y2="65" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="195" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">2</text>
+    <text x="215" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">5</text>
+    <text x="235" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">8</text>
+    <text x="170" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="end">2</text>
+    <line x1="180" y1="80" x2="180" y2="105" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="195" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">0</text>
+    <text x="215" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">1</text>
+    <text x="235" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">3</text>
+    <text x="255" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">7</text>
+    <text x="275" y="95" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">9</text>
+    <text x="170" y="135" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="end">3</text>
+    <line x1="180" y1="120" x2="180" y2="145" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="195" y="135" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">2</text>
+    <text x="215" y="135" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">4</text>
+    <text x="235" y="135" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">6</text>
+    <text x="255" y="135" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">8</text>
+    <text x="170" y="175" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="end">4</text>
+    <line x1="180" y1="160" x2="180" y2="185" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="195" y="175" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">1</text>
+    <text x="215" y="175" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">5</text>
+    <text x="235" y="175" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">5</text>
+    <text x="255" y="175" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">9</text>
+    <text x="170" y="215" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="end">5</text>
+    <line x1="180" y1="200" x2="180" y2="225" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="195" y="215" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">3</text>
+    <text x="215" y="215" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">7</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-streptococcus d-streptococcus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-streptococcus">链球菌 / Streptococcus</title>
+  <desc id="d-streptococcus">球菌排列成链状。关键词: streptococcus, chain</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <circle cx="16" cy="50" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="33" cy="50" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="50" cy="50" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="67" cy="50" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><circle cx="84" cy="50" r="11" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="78" y1="40" x2="84" y2="26" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="66" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">chain</text>
+  </g>
+</svg>

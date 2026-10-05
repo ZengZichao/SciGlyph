@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-graduated-bottle-measuring" data-cat="gl" data-spec="128"
+     data-tags="bottle,graduated,measuring,reagent,storage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">刻度试剂瓶 / Graduated Bottle</title>
+  <desc id="d">带刻度的试剂瓶，用于储存与量取液体。</desc>
+  <g id="body"><path d="M54 10 L54 28 L36 40 L36 108 Q36 114 42 114 L86 114 Q92 114 92 108 L92 40 L74 28 L74 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 60 L90 60 L90 108 Q90 112 86 112 L42 112 Q38 112 38 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M38 60 L90 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M42 100 L56 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 88 L50 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 76 L56 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M42 64 L50 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M52 8 L52 14 L76 14 L76 8 Q70 6 64 6 Q58 6 52 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

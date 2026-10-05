@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="DNA 提取与裂解" data-name-en="DNA Extraction and Lysis" data-cat="05-eco-seq" data-tags="DNA提取,细胞裂解,溶菌酶,磁珠纯化,破壁" role="img" aria-labelledby="t-18-dna-extraction d-18-dna-extraction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18-dna-extraction">DNA 提取与裂解 / DNA Extraction and Lysis</title>
+  <desc id="d-18-dna-extraction">溶菌酶与去污剂破坏细胞壁释放 DNA，再经磁珠结合与洗涤去除蛋白与多糖，获得高纯度核酸。关键词: DNA提取, 细胞裂解, 溶菌酶, 磁珠纯化, 破壁</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 流程轴 -->
+  <path d="M14 18 H106" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M42 18 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <path d="M80 18 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
+  <circle cx="22" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="60" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <circle cx="98" cy="18" r="9" fill="#5B4B8A" stroke="none"/>
+  <g font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#FFFFFF" stroke="none" text-anchor="middle">
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="22" y="22">①</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="60" y="22">②</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="98" y="22">③</text>
+  </g>
+  <path d="M22 27 V36 M60 27 V36 M98 27 V36" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- ① 完整细胞 + 溶菌酶/去污剂攻击细胞壁 -->
+  <rect x="6" y="56" width="32" height="14" rx="7" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M14 63 A8 6 0 0 0 28 63" stroke="#1F6F8B" stroke-width="1.4"/>
+  <rect x="6" y="58" width="32" height="4" rx="2" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="10" cy="50" r="3" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="22" cy="46" r="3" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="34" cy="50" r="3" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M10 53 l-1 -2 M22 49 l0 -2 M34 53 l1 -2" stroke="#B57A17" stroke-width="1.2"/>
+  <path d="M38 62 C44 56 48 70 40 74" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M6 84 q6 -5 12 0 q-6 5 -12 0 Z" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M26 84 q6 -5 12 0 q-6 5 -12 0 Z" fill="#B7D7E8" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.2"/>
+  <text x="28" y="106" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">裂解缓冲液</text>
+  <!-- ② 细胞壁破裂、DNA 释放 -->
+  <path d="M46 58 C46 48 74 48 74 58 C74 68 46 68 46 58" fill="none" stroke="#2E7D5B" stroke-width="2" stroke-dasharray="5 3"/>
+  <path d="M52 66 C52 78 68 78 68 90" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M68 66 C68 78 52 78 52 90" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M55.5 71.5 V74.5 M60 76.5 V79.5 M64.5 71.5 V74.5 M55.5 82.5 V85.5 M64.5 82.5 V85.5" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M52 90 C52 96 68 96 68 102" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M68 90 C68 96 52 96 52 102" stroke="#5B4B8A" stroke-width="1.4"/>
+  <circle cx="44" cy="96" r="2.6" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <circle cx="76" cy="98" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  <!-- ③ 磁珠纯化 -->
+  <path d="M88 48 H108 V96 A10 10 0 0 1 88 96 Z" fill="#DCEEE4" fill-opacity="0.6" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M88 84 H108 V96 A10 10 0 0 1 88 96 Z" fill="#B7D7E8" fill-opacity="0.6" stroke="none"/>
+  <circle cx="94" cy="78" r="3" fill="#1F6F8B" stroke="#5B4B8A" stroke-width="1.2"/>
+  <circle cx="103" cy="80" r="3" fill="#1F6F8B" stroke="#5B4B8A" stroke-width="1.2"/>
+  <circle cx="98" cy="86" r="3" fill="#1F6F8B" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M94 75 C92 68 104 66 103 73" stroke="#5B4B8A" stroke-width="1.2"/>
+  <path d="M103 77 C106 70 94 64 94 71" stroke="#5B4B8A" stroke-width="1.2"/>
+  <rect x="84" y="60" width="7" height="26" rx="1.5" fill="#C0504D" fill-opacity="0.35" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M80 56 h15 M80 90 h15" stroke="#C0504D" stroke-width="1.2"/>
+  <text x="113" y="110" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="end">磁珠纯化</text>
+</g>
+</svg>

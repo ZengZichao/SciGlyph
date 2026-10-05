@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-beaker-tall-form" data-cat="gl" data-spec="128"
+     data-tags="beaker,tall,glassware,graduation,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">高型烧杯 / Tall Form Beaker</title>
+  <desc id="d">实验室高型烧杯，窄高型，适合加热与搅拌。</desc>
+  <g id="body"><path d="M40 16 L40 108 Q40 114 46 114 L82 114 Q88 114 88 108 L88 14 L78 8 L40 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M42 50 L86 50 L86 108 Q86 112 82 112 L46 112 Q42 112 42 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M42 50 L86 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M48 96 L62 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 82 L56 82" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 68 L62 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 54 L56 54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 40 L62 40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M48 26 L56 26" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M44 8 L44 108" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

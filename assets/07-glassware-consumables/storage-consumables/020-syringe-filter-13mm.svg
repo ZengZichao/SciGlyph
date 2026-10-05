@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-syringe-filter-13mm" data-cat="cs" data-spec="128"
+     data-tags="syringe filter,13mm,membrane,sterile,0.22μm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">13mm针头式过滤器 / 13mm Syringe Filter</title>
+  <desc id="d">13mm针头式过滤器，含膜剖面，用于除菌过滤。</desc>
+  <g id="body"><path d="M30 40 L30 88 Q30 96 38 96 L90 96 Q98 96 98 88 L98 40 Q98 32 90 32 L38 32 Q30 32 30 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M98 56 L114 56 L114 50 L98 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="36" y="54" width="56" height="20" rx="3" fill="#7FC26B" opacity="0.6" stroke="none" data-ls="liquid-2"/><path d="M36 54 L36 74 M92 54 L92 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 60 L88 60 M40 64 L88 64 M40 68 L88 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M26 48 L26 72 L32 72 L32 48 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  
+</svg>

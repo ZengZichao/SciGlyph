@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-21 d-21" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">基因树vs物种树不一致 / Gene-Species Discordance</title>
+  <desc id="d-21">骨架，配合ASTRAL/Notung使用。左：基因树（每个物种两份拷贝）把 B、C 聚为一支；右：物种树把 A、B 聚为一支——拓扑冲突提示 ILS 或 HGT。紫色底=基因树中的冲突并系。 关键词: phylogenetic tree, gene species discord, Gene-Species, Discordance, ASTRAL, Notung, ILS, HGT, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <text x="120" y="14" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Gene tree</text>
+  <g id="pp21__clades" data-name="clade-shading">
+    <rect x="133.3" y="88.0" width="34.6" height="76.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-BC-copy1"/>
+    <rect x="133.3" y="280.0" width="34.6" height="76.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-AC-copy2"/>
+  </g>
+  <g id="pp21__branches" data-name="branches">
+    <line x1="80.0" y1="78.0" x2="80.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="106.7" y2="126.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="94.0" x2="133.3" y2="158.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="222.0" x2="106.7" y2="318.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="286.0" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="78.0" x2="106.7" y2="78.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="126.0" x2="133.3" y2="126.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="94.0" x2="160.0" y2="94.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="158.0" x2="160.0" y2="158.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="270.0" x2="106.7" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="222.0" x2="133.3" y2="222.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="318.0" x2="133.3" y2="318.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="286.0" x2="160.0" y2="286.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp21__nodes" data-name="nodes">
+    <circle cx="80.0" cy="174.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="78.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="126.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="270.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="318.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp21__labels" data-name="tip-labels">
+    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gA1</text>
+    <text x="165.0" y="97.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gB1</text>
+    <text x="165.0" y="161.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gC1</text>
+    <text x="138.3" y="225.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gB2</text>
+    <text x="165.0" y="289.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gA2</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gC2</text>
+  </g>
+  <line x1="300" y1="30" x2="300" y2="370" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+  <g id="pp21__species" data-name="species-tree">
+    <text x="430" y="14" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Species tree</text>
+    <line x1="380.0" y1="190.0" x2="410.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="410.0" y1="94.0" x2="410.0" y2="286.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="410.0" y1="94.0" x2="440.0" y2="94.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="440.0" y1="62.0" x2="440.0" y2="126.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="440.0" y1="62.0" x2="470.0" y2="62.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="440.0" y1="126.0" x2="470.0" y2="126.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="410.0" y1="286.0" x2="470.0" y2="286.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="410.0" cy="190.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="440.0" cy="94.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="476.0" y="65.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
+    <text x="476.0" y="129.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">B</text>
+    <text x="476.0" y="289.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">C</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-bulb-safety-fill" data-cat="lh" data-spec="128"
+     data-tags="bulb,safety,fill,rubber,aspirator" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">洗耳球 / Safety Bulb (Rubber Aspirator)</title>
+  <desc id="d">橡胶洗耳球，用于辅助玻璃吸管吸液</desc>
+  <g id="body"><ellipse cx="64" cy="60" rx="28" ry="32" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 28 L60 16 Q60 12 64 12 Q68 12 68 16 L68 28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 50 Q64 44 84 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M44 70 Q64 76 84 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M62 12 L62 8 L66 8 L66 12 Z" fill="#33414F" stroke="none" data-ls="dark"/></g>
+</svg>

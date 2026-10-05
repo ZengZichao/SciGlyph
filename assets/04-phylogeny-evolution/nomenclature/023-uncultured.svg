@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-uncultured d-uncultured" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-uncultured">未培养 / Uncultured</title>
+  <desc id="d-uncultured">Uncultured organism known only from environmental sequences 关键词: uncultured, environmental</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="20" y="30" width="60" height="35" rx="3" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" data-pp="host" fill-opacity="0.3"/>
+    <line x1="30" y1="45" x2="70" y2="45" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <line x1="30" y1="50" x2="70" y2="50" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>
+    <circle cx="50" cy="65" r="6" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" data-pp="alert"/>
+    <line x1="46" y1="61" x2="54" y2="69" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">uncultured</text>
+  <line x1="28" y1="36" x2="72" y2="36" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="35" cy="57" r="2" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.6" data-pp="gene"/><circle cx="65" cy="57" r="2" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.6" data-pp="gene"/></g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">未培养</text>
+  </g>
+</svg>

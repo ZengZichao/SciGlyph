@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-clamp-meter" data-cat="mt" data-spec="128"
+     data-tags="clamp,meter,current,钳形表,电流" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">钳形表 / Clamp Meter</title>
+  <desc id="d">钳形表：钳口张开+数显。</desc>
+  <g id="body"><path d="M44 10 C34 10 28 18 28 28 L28 44 C28 48 32 50 36 50 L44 50" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M84 10 C94 10 100 18 100 28 L100 44 C100 48 96 50 92 50 L84 50" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="34" y="48" width="60" height="72" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="42" y="56" width="44" height="22" rx="3" fill="#33414F" data-ls="dark"/>
+    <text x="64" y="72" fill="#7FC26B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="12" font-weight="600" text-anchor="middle" data-ls="liquid-2">5.32A</text>
+    <circle cx="64" cy="96" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-width="1.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="64" y1="96" x2="70" y2="90" stroke="#1F2933" stroke-linecap="round" stroke-width="1.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

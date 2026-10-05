@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-heating-mantle" data-cat="hc" data-spec="128"
+     data-tags="heating,mantle,electric,round-bottom,flask" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">电热套 / Electric Heating Mantle</title>
+  <desc id="d">电热套，剖面画球形烧瓶在套内</desc>
+  <g id="body"><path d="M28 60 L100 60 L100 108 Q100 116 92 116 L36 116 Q28 116 28 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M40 60 Q40 100 64 100 Q88 100 88 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M44 50 Q44 90 64 90 Q84 90 84 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 50 L56 30 L72 30 L72 50" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 56 Q48 84 64 84 Q80 84 80 56 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M32 70 L96 70 L96 74 L32 74 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M32 82 L96 82 L96 86 L32 86 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M32 94 L96 94 L96 98 L32 98 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-caudovirales_composition d-caudovirales_composition" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-caudovirales_composition">有尾病毒组成比例 / Tailed Virus (Caudoviricetes) Composition</title>
+  <desc id="d-caudovirales_composition">有尾病毒(class Caudoviricetes，旧称“目 Caudovirales”已被 ICTV 废止)三个形态群的对比与占比示意：Myoviridae 粗收缩尾、Siphoviridae 长细尾、Podoviridae 短尾。底部堆叠条按三档占比归一化绘制（35/45/15，合计 95%，余 5% 为其他/未定），数值为基于培养噬菌体与宏基因组数据的示意估计(schematic, not to scale)。三段均用 virus 绿的三档透明度区分，不表示宿主域。关键词: Caudoviricetes, Caudovirales obsolete, tailed virus, composition, proportion, Myoviridae, Siphoviridae, Podoviridae, phage morphology</desc>
+  <rect x="0" y="0" width="100" height="100" fill="#F4F1EA" data-pp="bg"/>
+  <g id="layer-body-caudovirales_composition" data-name="body">
+    <polygon points="18.0,10.0 24.9,14.0 24.9,22.0 18.0,26.0 11.1,22.0 11.1,14.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="15" y="26" width="6" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="29" width="6" height="4" fill="#5B8C3E" data-pp="virus" fill-opacity="0.55" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="33" width="6" height="4" fill="#5B8C3E" data-pp="virus" fill-opacity="0.55" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="15" y="37" width="6" height="4" fill="#5B8C3E" data-pp="virus" fill-opacity="0.55" stroke="#1B2733" stroke-width="0.5"/>
+    <polygon points="12,41 24,41 22,44 14,44" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <path d="M14,44 Q10,48 8,55" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="0.8"/>
+    <path d="M22,44 Q26,48 28,55" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="0.8"/>
+    <polygon points="50.0,10.0 56.9,14.0 56.9,22.0 50.0,26.0 43.1,22.0 43.1,14.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="47" y="26" width="6" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <path d="M50,29 Q48,38 50,43 Q52,48 50,53" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <path d="M50,29 Q48,38 50,43 Q52,48 50,53" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="0.8"/>
+    <polygon points="82.0,10.0 88.9,14.0 88.9,22.0 82.0,26.0 75.1,22.0 75.1,14.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="79" y="26" width="6" height="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+    <path d="M82,29 Q81,32 82,35" fill="none" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <path d="M82,29 Q81,32 82,35" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="0.8"/>
+    <line x1="5" y1="60" x2="95" y2="60" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="2,2"/>
+    <rect x="5" y="65" width="33.2" height="12" fill="#5B8C3E" data-pp="virus" fill-opacity="0.85" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="38.2" y="65" width="42.6" height="12" fill="#5B8C3E" data-pp="virus" fill-opacity="0.55" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="80.8" y="65" width="14.2" height="12" fill="#5B8C3E" data-pp="virus" fill-opacity="0.28" stroke="#1B2733" stroke-width="0.5"/>
+  </g>
+  <g id="layer-annotation-caudovirales_composition" data-name="annotation">
+    <text x="5" y="58" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Myo</text>
+    <text x="40" y="58" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Sipho</text>
+    <text x="74" y="58" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Podo</text>
+    <text x="21.6" y="84" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~35%</text>
+    <text x="59.5" y="84" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~45%</text>
+    <text x="87.9" y="84" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~15%</text>
+    <text x="5" y="93" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">占比示意 (schematic)</text>
+  </g>
+</svg>

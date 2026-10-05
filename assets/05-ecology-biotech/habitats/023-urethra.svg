@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-urethra d-urethra" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-urethra">尿道 / Urethra</title>
+  <desc id="d-urethra">Urethral lumen with mixed cocci and short rods 关键词: urethra, cocci, rods</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M10,25 L10,70 Q50,80 90,70 L90,25 Q50,15 10,25 Z" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host" fill-opacity="0.3"/>
+    <path d="M20,30 L20,65 Q50,72 80,65 L80,30 Q50,22 20,30 Z" fill="#F4F1EA" stroke="#93A0AC" stroke-width="0.8" stroke-linecap="round" data-pp="bg"/>
+    <circle cx="35" cy="45" r="3" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="39" cy="44" r="3" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="55" cy="50" r="2.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <circle cx="58" cy="48" r="2.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
+    <rect x="65" y="42" width="6" height="3" rx="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(20,68,44)"/>
+    <rect x="42" y="55" width="5" height="2.5" rx="1.25" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">尿道</text>
+  </g>
+</svg>

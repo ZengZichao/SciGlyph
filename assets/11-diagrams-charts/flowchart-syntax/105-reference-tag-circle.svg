@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-reference-tag-circle" data-cat="pf" data-spec="160"
+     data-tags="reference,tag,circle,number,cross-ref,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">编号圆 / Reference Tag Circle</title>
+  <desc id="d">流程图编号引用圆，内标数字。</desc>
+  <g id="body">
+    <circle cx="80" cy="48" r="26" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="80" y="56" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="22" font-weight="600" text-anchor="middle" data-ls="stroke">1</text>
+  </g>
+</svg>

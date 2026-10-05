@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-22">节点标记: 支持值 / Node Marker: support</title>
+<desc id="d-22">节点pie分类占比与支持值环 关键词: support, pie, node, ring</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="90.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="130.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="60.0" x2="150.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="130.0" x2="150.0" y2="130.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="90.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="200.0" x2="150.0" y2="200.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="270.0" x2="90.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="90.0" y1="270.0" x2="150.0" y2="270.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="90.0" y1="340.0" x2="150.0" y2="340.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<circle cx="150.0" cy="60.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="130.0" r="3.0" fill="#A2305B" data-pp="archaea"/>
+<circle cx="150.0" cy="200.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="270.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="150.0" cy="340.0" r="3.0" fill="#A2305B" data-pp="archaea"/>
+<path d="M 90.0 200.0 L 90.0 186.0 A 14 14 0 1 1 81.8 211.3 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 200.0 L 81.8 211.3 A 14 14 0 0 1 81.8 188.7 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 200.0 L 81.8 188.7 A 14 14 0 0 1 90.0 186.0 Z" fill="#5B8C3E" fill-opacity="0.7" stroke="#5B8C3E" stroke-width="0.5" data-pp="virus" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="90.0" cy="200.0" r="14.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 90.0 130.0 L 90.0 118.0 A 12 12 0 0 1 90.0 142.0 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 130.0 L 90.0 142.0 A 12 12 0 0 1 82.9 120.3 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 130.0 L 82.9 120.3 A 12 12 0 0 1 90.0 118.0 Z" fill="#5B8C3E" fill-opacity="0.7" stroke="#5B8C3E" stroke-width="0.5" data-pp="virus" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="90.0" cy="130.0" r="12.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 90.0 270.0 L 90.0 258.0 A 12 12 0 1 1 78.6 273.7 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 270.0 L 78.6 273.7 A 12 12 0 0 1 82.9 260.3 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 90.0 270.0 L 82.9 260.3 A 12 12 0 0 1 90.0 258.0 Z" fill="#5B8C3E" fill-opacity="0.7" stroke="#5B8C3E" stroke-width="0.5" data-pp="virus" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="90.0" cy="270.0" r="12.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<circle cx="90.0" cy="200.0" r="18.0" fill="none" stroke="#00857A" stroke-width="2"/>
+<circle cx="90.0" cy="130.0" r="16.0" fill="none" stroke="#00857A" stroke-width="1.5"/>
+<circle cx="90.0" cy="270.0" r="16.0" fill="none" stroke="#93A0AC" stroke-width="1"/>
+<text x="260.0" y="70.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Legend</text>
+<circle cx="270.0" cy="100.0" r="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<text x="290.0" y="104.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacteria</text>
+<circle cx="270.0" cy="130.0" r="8.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<text x="290.0" y="134.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Archaea</text>
+<circle cx="270.0" cy="160.0" r="8.0" fill="#5B8C3E" data-pp="virus" fill-opacity="0.7"/>
+<text x="290.0" y="164.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Virus</text>
+<circle cx="270.0" cy="200.0" r="10.0" fill="none" stroke="#00857A" stroke-width="2"/>
+<text x="290.0" y="204.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Support</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Pie=class, ring=support</text>
+</g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-petri-dish-with-lid" data-cat="gl" data-spec="128"
+     data-tags="petri dish,lid,culture,microbiology,agar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">培养皿(带盖) / Petri Dish with Lid</title>
+  <desc id="d">玻璃培养皿带盖，用于微生物培养。</desc>
+  <g id="body"><path d="M16 68 Q16 90 64 90 Q112 90 112 68 L112 60 Q112 54 106 54 L22 54 Q16 54 16 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M20 70 Q20 86 64 86 Q108 86 108 70 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><ellipse cx="64" cy="54" rx="48" ry="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><ellipse cx="64" cy="54" rx="44" ry="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M18 50 Q18 42 64 38 Q110 42 110 50" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-pcr-thermal-cycler" data-cat="ls" data-spec="128" data-tags="pcr,thermal,cycler,denaturation,annealing,extension,96,well" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">PCR热循环仪 / PCR Thermal Cycler</title>
+  <desc id="d">PCR热循环仪：加热盖、96孔样品块、半导体控温。</desc>
+  <g id="body">
+    <rect x="14" y="24" width="100" height="82" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="14" y="24" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="20" y="28" width="60" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="50" y="26" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Heated Lid 105°C</text>
+<rect x="20" y="42" width="60" height="24" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="24" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="29" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="34" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="39" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="44" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="49" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="54" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="59" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="64" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="69" y="46" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="24" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="29" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="34" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="39" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="44" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="49" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="54" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="59" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="64" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="69" y="51" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="24" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="29" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="34" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="39" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="44" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="49" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="54" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="59" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="64" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+<rect x="69" y="56" width="3" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="20" y="72" width="50" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M24 84 L30 84 L30 78 L36 78 L36 84 L42 84 L42 76 L48 76 L48 84 L54 84 L54 80 L60 80 L60 84 L66 84" fill="#2B7DE9" stroke="none" stroke-width="1" data-ls="accent" />
+    <text x="45" y="70" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">PCR</text>
+    <circle cx="78" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="88" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="98" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <text x="78.0" y="84.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Run</text>
+    <text x="94.0" y="84.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Stop</text>
+    <line x1="98.0" y1="81.9" x2="101.47" y2="88.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="102.88" y="91.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Edit</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

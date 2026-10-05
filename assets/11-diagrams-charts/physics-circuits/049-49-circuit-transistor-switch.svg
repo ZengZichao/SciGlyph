@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="晶体管开关" data-name-en="circuit-transistor-switch" data-cat="physics-electronics" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-49">晶体管开关 / circuit_transistor_switch</title>
+  <desc id="d-49">NPN晶体管开关电路。关键词: 晶体管,开关,NPN</desc>
+  <g id="g-49-晶体管开关">
+    <line x1="20" y1="140" x2="60" y2="140" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="60" y="128" width="40" height="24" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="80" y="144" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Rb</text>
+    <line x1="100" y1="140" x2="135" y2="140" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <circle cx="152" cy="140" r="26" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="135" y1="115" x2="135" y2="165" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="135" y1="125" x2="165" y2="105" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="165" y1="105" x2="165" y2="78" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="135" y1="155" x2="165" y2="196" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="156.06,191.4 163.32,186.08 165,196" fill="#1f2937" stroke="none"/>
+    <rect x="150" y="52" width="30" height="24" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="165" y="68" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Rc</text>
+    <line x1="165" y1="52" x2="165" y2="34" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="165" y="26" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">VCC</text>
+    <line x1="150" y1="196" x2="180" y2="196" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="155" y1="204" x2="175" y2="204" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="160" y1="212" x2="170" y2="212" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="200" y="144" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">NPN</text>
+    <text x="14" y="132" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">IN</text>
+  </g>
+</svg>

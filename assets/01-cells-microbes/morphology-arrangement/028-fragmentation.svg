@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="断裂生殖" data-name-en="Fragmentation" data-cat="01-morphology" data-tags="断裂生殖,fragmentation,丝状体断裂,断片,再生,不等长" role="img" aria-labelledby="t-28-fragmentation d-28-fragmentation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28-fragmentation">断裂生殖 / Fragmentation</title>
+  <desc id="d-28-fragmentation">丝状体在随机位置断裂成长短不一的断片，各断片两端再生并发育为新丝状体。关键词: 断裂生殖, fragmentation, 丝状体断裂, 断片, 再生, 不等长</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <g fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2">
+      <path transform="rotate(4 28 60)" d="M 12,60 C 12,54 17,51 23,51 L 38,51 L 43,55 L 37,60 L 42,64 L 38,69 L 23,69 C 17,69 12,66 12,60 Z"/>
+      <path transform="rotate(-3 64 60)" d="M 52,51 L 57,55 L 51,60 L 56,64 L 52,69 L 70,69 L 75,64 L 69,60 L 74,55 L 70,51 Z"/>
+      <path transform="rotate(5 96 60)" d="M 84,51 L 89,55 L 83,60 L 88,64 L 84,69 L 100,69 C 106,69 108,66 108,60 C 108,54 106,51 100,51 Z"/>
+    </g>
+    <g fill="none" stroke="#2B3A42" stroke-width="1.4">
+      <path d="M 46,55 L 50,63 M 50,55 L 46,63"/>
+      <path d="M 78,55 L 82,63 M 82,55 L 78,63"/>
+    </g>
+    <g fill="none" stroke="#2B3A42" stroke-width="1.4">
+      <path d="M 28,48 L 28,38 M 24,42 L 28,38 L 32,42"/>
+      <path d="M 64,48 L 64,38 M 60,42 L 64,38 L 68,42"/>
+      <path d="M 96,48 L 96,38 M 92,42 L 96,38 L 100,42"/>
+    </g>
+    <g fill="#1F6F8B">
+      <rect x="18" y="57" width="14" height="4" rx="2"/>
+      <rect x="58" y="57" width="12" height="4" rx="2"/>
+      <rect x="90" y="57" width="13" height="4" rx="2"/>
+    </g>
+  </g>
+</svg>

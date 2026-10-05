@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-phase_contrast d-phase_contrast" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-phase_contrast">相差显微镜 / Phase contrast microscopy phase ring</title>
+  <desc id="d-phase_contrast">相差显微镜：环形光阑+物镜内相位板。透明样品引起相位差(λ/4)→转换为振幅差→可见对比度。适合观察活细胞。关键词: phase contrast, phase ring, annular diaphragm, Zernike, transparent specimen</desc>
+  <g id="layer-body-phase_contrast" data-name="body">
+    <!-- Objective with phase ring -->
+    <rect x="38" y="10" width="24" height="14" rx="3" ry="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Phase ring inside objective -->
+    <ellipse cx="50" cy="17" rx="8" ry="2" fill="none" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <!-- Annular diaphragm in condenser -->
+    <rect x="38" y="68" width="24" height="8" rx="2" ry="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <ellipse cx="50" cy="72" rx="6" ry="2" fill="none" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <!-- Light paths -->
+    <line x1="44" y1="68" x2="44" y2="24" stroke="#E8871E" data-pp="mge" stroke-width="0.8"/>
+    <line x1="50" y1="68" x2="50" y2="24" stroke="#E8871E" data-pp="mge" stroke-width="0.8"/>
+    <line x1="56" y1="68" x2="56" y2="24" stroke="#E8871E" data-pp="mge" stroke-width="0.8"/>
+    <!-- Sample (phase object) -->
+    <rect x="30" y="50" width="40" height="8" rx="1" ry="1" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="45" cy="54" r="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- Phase shift indicator -->
+    <text x="50" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">λ/4 shift</text>
+  </g>
+  <g id="layer-annotation-phase_contrast" data-name="annotation">
+    <line x1="68.0" y1="14.9" x2="56.1" y2="14.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="17.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">phase ring</text>
+    <text x="68" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">annular</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phase contrast</text>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="旋转蒸发仪" data-name-en="rotary_evaporator" data-cat="lab-equipment" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-53">旋转蒸发仪 / rotary_evaporator</title>
+  <desc id="d-53">减压旋转蒸发浓缩溶剂。关键词: 旋转蒸发,evaporator,减压,浓缩</desc>
+  <g id="g-53-旋转蒸发仪">
+    <rect x="30" y="240" width="120" height="60" rx="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="90" cy="200" r="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="90" cy="200" r="30" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="90" y1="160" x2="90" y2="120" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 85 120 L 95 120 L 95 100 L 85 100 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="95" y1="110" x2="200" y2="110" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="95" y1="115" x2="200" y2="115" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="180" y="95" width="60" height="35" rx="4" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 182 105 L 238 105 L 238 125 L 182 125 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="182" y1="105" x2="238" y2="105" stroke="#0072B2" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="240" y1="112" x2="300" y2="112" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 290 80 Q 280 80 280 95 L 280 130 Q 280 145 295 145 L 320 145 Q 335 145 335 130 L 335 95 Q 335 80 325 80 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 282 110 L 333 110 L 333 130 Q 333 143 320 143 L 295 143 Q 282 143 282 130 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <line x1="282" y1="110" x2="333" y2="110" stroke="#0072B2" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="30" y="290" width="120" height="8" rx="2" fill="#6b7280" stroke="none"/>
+    <text x="90" y="275" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">Motor</text>
+    <text x="210" y="90" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">Condenser</text>
+    <text x="308" y="75" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">Collect</text>
+  </g>
+</svg>

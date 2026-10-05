@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-population-genomics" role="img" aria-labelledby="t-selective_sweep d-selective_sweep" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-selective_sweep">选择性清除 / Selective sweep skyline</title>
+<desc id="d-selective_sweep">Genomic-window diversity scan across a selective sweep: nucleotide diversity pi shows a pronounced valley and Tajima's D shifts negative around the selected locus (hard-sweep signature), recovering toward neutral flanking levels. Values are schematic, not empirical. 关键词: selective sweep, nucleotide diversity, Tajima's D, hard sweep, population genomics</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<text x="300.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Selective Sweep Skyline (schematic)</text>
+<line x1="80.0" y1="340.0" x2="560.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="50.0" x2="80.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="560.0" y1="200.0" x2="560.0" y2="340.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+<text x="320.0" y="385.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Genomic position</text>
+<text x="50.0" y="125.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">π</text>
+<text x="575.0" y="270.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Tajima D</text>
+<rect x="260.0" y="50.0" width="80.0" height="290.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.08"/>
+<text x="300.0" y="45.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">sweep</text>
+<polyline points="80.0,83 89.6,78 99.2,81 108.8,83 118.4,78 128.0,81 137.6,83 147.1,78 156.7,81 166.3,83 175.9,79 185.5,82 195.1,84 204.7,82 214.3,88 223.9,95 233.5,99 243.1,113 252.7,128 262.2,140 271.8,159 281.4,175 291.0,180 300.6,186 310.2,184 319.8,169 329.4,157 339.0,142 348.6,122 358.2,111 367.8,102 377.3,90 386.9,87 396.5,86 406.1,80 415.7,82 425.3,83 434.9,78 444.5,81 454.1,83 463.7,78 473.3,81 482.9,83 492.4,78 502.0,81 511.6,83 521.2,78 530.8,81 540.4,83 550.0,78" fill="none" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<polyline points="80.0,252 89.6,251 99.2,249 108.8,251 118.4,252 128.0,251 137.6,249 147.1,251 156.7,252 166.3,251 175.9,249 185.5,252 195.1,254 204.7,255 214.3,255 223.9,262 233.5,269 243.1,274 252.7,280 262.2,291 271.8,301 281.4,306 291.0,309 300.6,312 310.2,312 319.8,306 329.4,296 339.0,290 348.6,283 358.2,273 367.8,264 377.3,261 386.9,259 396.5,254 406.1,251 415.7,252 425.3,253 434.9,251 444.5,249 454.1,251 463.7,252 473.3,251 482.9,249 492.4,251 502.0,252 511.6,251 521.2,249 530.8,251 540.4,252 550.0,251" fill="none" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-dasharray="5,3" stroke-linecap="round"/>
+<rect x="120.0" y="340.0" width="30.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<text x="135.0" y="360.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">geneA</text>
+<rect x="210.0" y="340.0" width="30.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<text x="225.0" y="360.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">geneB</text>
+<rect x="300.0" y="340.0" width="30.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<text x="315.0" y="360.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">selGene</text>
+<rect x="390.0" y="340.0" width="30.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<text x="405.0" y="360.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">geneC</text>
+<rect x="480.0" y="340.0" width="30.0" height="8.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5"/>
+<text x="495.0" y="360.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">geneD</text>
+<line x1="80.0" y1="340.0" x2="80.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="80.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~0kb</text>
+<line x1="176.0" y1="340.0" x2="176.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="176.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~100kb</text>
+<line x1="272.0" y1="340.0" x2="272.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="272.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~200kb</text>
+<line x1="368.0" y1="340.0" x2="368.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="368.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~300kb</text>
+<line x1="464.0" y1="340.0" x2="464.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="464.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~400kb</text>
+<line x1="560.0" y1="340.0" x2="560.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="560.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~500kb</text>
+</svg>

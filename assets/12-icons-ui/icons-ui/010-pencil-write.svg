@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="铅笔书写" data-name-en="pencil_write" data-cat="basic-icons-ui" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-10">铅笔书写 / pencil_write</title>
+  <desc id="d-10">书写与编辑图标。关键词: 铅笔,书写,write,pencil</desc>
+  <g id="g-10-铅笔书写">
+    <polygon points="10,38 8,42 14,40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polygon points="10,38 30,10 36,16 14,40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="30" y1="10" x2="36" y2="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="32" y1="8" x2="38" y2="14" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

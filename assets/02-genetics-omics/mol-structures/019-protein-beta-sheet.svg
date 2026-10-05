@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="β折叠" data-name-en="Protein Beta Sheet" data-cat="natural-sciences" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30">β折叠 / protein_beta_sheet</title>
+  <desc id="d-30">展示蛋白质β折叠结构。关键词: beta sheet,secondary structure,pleated</desc>
+  <g id="g-30-β折叠">
+    <path d="M20,30 L40,30 L40,50 L60,50 L60,30 L80,30 L80,50 L100,50 L100,30 L120,30 L120,50 L140,50" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M20,70 L40,70 L40,90 L60,90 L60,70 L80,70 L80,90 L100,90 L100,70 L120,70 L120,90 L140,90" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <line x1="30" y1="50" x2="30" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="50" y1="50" x2="50" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="70" y1="50" x2="70" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="90" y1="50" x2="90" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="110" y1="50" x2="110" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="130" y1="50" x2="130" y2="70" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+  </g>
+</svg>

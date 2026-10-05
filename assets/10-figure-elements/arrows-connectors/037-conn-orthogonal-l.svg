@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="L形正交连接" data-name-en="conn orthogonal l" data-cat="arrows-connectors" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">L形正交连接 / conn_orthogonal_l</title>
+  <desc id="d-37">L形正交路径连接。关键词: conn,orthogonal,l,corner</desc>
+  <g id="g-37-L形正交连接">
+    <polyline points="14,14 14,34 50,34" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="48,28 58,34 48,40" fill="#1f2937"/>
+  </g>
+</svg>

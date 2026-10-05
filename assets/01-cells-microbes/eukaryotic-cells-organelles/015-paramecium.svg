@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="草履虫" data-name-en="Paramecium" data-cat="natural-sciences" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-48">草履虫 / paramecium</title>
+  <desc id="d-48">展示草履虫结构。关键词: paramecium,cilia,protozoan</desc>
+  <g id="g-48-草履虫">
+    <ellipse cx="80" cy="60" rx="55" ry="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="55" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="100" cy="65" r="6" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M30,50 C25,48 22,50 20,55" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M30,60 C25,60 22,62 20,65" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M30,70 C25,72 22,70 20,68" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M130,50 C135,48 138,50 140,55" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M130,60 C135,60 138,62 140,65" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M130,70 C135,72 138,70 140,68" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+  </g>
+</svg>

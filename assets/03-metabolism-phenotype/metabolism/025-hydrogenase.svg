@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-25_hydrogenase d-25_hydrogenase" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25_hydrogenase">氢化酶 / Hydrogenase</title>
+  <desc id="d-25_hydrogenase">[NiFe]/[FeFe]氢化酶。 uptake H₂→2H⁺+2e⁻供呼吸; 或产H₂(发酵排氢)。关键词: hydrogenase, H₂ uptake, H₂ production, [NiFe]</desc>
+  <defs>
+    <marker id="pp25__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <rect x="30" y="35" width="22" height="16" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="41.0" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">[NiFe]</text>
+        <circle cx="12" cy="43" r="7" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <text x="12" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H₂</text>
+        <circle cx="75" cy="43" r="5" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1"/>
+    <text x="75" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">e⁻</text>
+        <circle cx="88" cy="43" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="88" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H⁺</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="19" y1="43" x2="30" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp25__ar)"/>
+        <line x1="52" y1="43" x2="70" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp25__ar)"/>
+        <line x1="80" y1="43" x2="83" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp25__ar)"/>
+    <text x="50" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">H₂ ⇌ 2H⁺ + 2e⁻</text>
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">uptake or evolve</text>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-column-jacketed" data-cat="sp" data-spec="128"
+     data-tags="column,jacketed,chromatography,temperature" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">夹套层析柱 / Jacketed Chromatography Column</title>
+  <desc id="d">夹套层析柱，可通恒温水控温</desc>
+  <g id="body"><path d="M48 10 L80 10 L80 14 L78 14 L78 100 L80 104 L80 110 L76 114 L52 114 L48 110 L48 104 L50 100 L50 14 L48 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 10 L76 10 L76 14 L52 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 20 L84 20 L84 100 L44 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M54 24 L74 24 L74 96 L54 96 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M54 40 L74 40 L74 94 L54 94 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+    <path d="M54 60 L74 60 L74 94 L54 94 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M44 50 L36 50 L36 58 L44 58 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M84 50 L92 50 L92 58 L84 58 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M60 110 L68 110 L68 114 L60 114 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

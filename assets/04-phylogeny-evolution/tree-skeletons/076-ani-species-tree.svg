@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-44 d-44" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">ANI基因组种簇树 / ANI Genome Species Cluster Tree</title>
+  <desc id="d-44">骨架，配合fastANI/GTDB-Tk使用。ANI阈值(95%)下的基因组种簇状树。 关键词: phylogenetic tree, ani species tree, Cluster, fastANI, GTDB-Tk, skeleton template</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="cluster-bands">
+    <rect x="350" y="50" width="200" height="100" fill="#2E86AB" fill-opacity="0.1" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" rx="5"/>
+    <rect x="350" y="170" width="200" height="80" fill="#A2305B" fill-opacity="0.1" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" rx="5"/>
+    <rect x="350" y="270" width="200" height="90" fill="#00857A" fill-opacity="0.1" stroke="#00857A" stroke-width="0.5" data-pp="metabolism" rx="5"/>
+  </g>
+  <g data-name="branches">
+    <line x1="60" y1="200" x2="180" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180" y1="100" x2="180" y2="310" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180" y1="100" x2="320" y2="100" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180" y1="210" x2="320" y2="210" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180" y1="310" x2="320" y2="310" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="70" x2="320" y2="130" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="70" x2="450" y2="70" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="90" x2="450" y2="90" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="110" x2="450" y2="110" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="130" x2="450" y2="130" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="190" x2="320" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="190" x2="450" y2="190" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="230" x2="450" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="290" x2="320" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="290" x2="450" y2="290" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="310" x2="450" y2="310" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="320" y1="340" x2="450" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="ani-threshold">
+    <line x1="300" y1="40" x2="300" y2="370" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4 2"/>
+    <text x="305" y="385" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">95% ANI</text>
+  </g>
+  <g data-name="tip-labels">
+    <text x="460" y="73" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G01</text>
+    <text x="460" y="93" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G02</text>
+    <text x="460" y="113" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G03</text>
+    <text x="460" y="133" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G04</text>
+    <text x="460" y="193" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G05</text>
+    <text x="460" y="233" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G06</text>
+    <text x="460" y="293" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G07</text>
+    <text x="460" y="313" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G08</text>
+    <text x="460" y="343" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">G09</text>
+  </g>
+</svg>

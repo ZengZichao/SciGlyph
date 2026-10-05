@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-evaporator-falling-film" data-cat="uo" data-spec="128"
+     data-tags="evaporator,falling-film,vertical-tubes,vapor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">降膜蒸发器 / Falling Film Evaporator</title>
+  <desc id="d">降膜蒸发器，竖直管束内液膜下降蒸发。</desc>
+  <g id="body">
+    <path d="M34,14 L34,100 Q34,114 64,114 Q94,114 94,100 L94,14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="46" y1="28" x2="46" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="58" y1="28" x2="58" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="70" y1="28" x2="70" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="82" y1="28" x2="82" y2="96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="34" y1="28" x2="94" y2="28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="64" y1="8" x2="64" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,10 60,16 68,16" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="114" x2="64" y2="120" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,118 60,112 68,112" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="22" y1="50" x2="34" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="28,50 34,46 34,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="94" y1="80" x2="106" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="100,80 94,76 94,84" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

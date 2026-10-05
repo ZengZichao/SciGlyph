@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-amber-glass-bottle-gls45" data-cat="st" data-spec="128"
+     data-tags="amber,brown,bottle,GLS45,light sensitive,storage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">棕色玻璃瓶(GLS45) / Amber Glass Bottle GLS45</title>
+  <desc id="d">棕色避光玻璃瓶GLS45口径，用于光敏试剂储存。</desc>
+  <g id="body"><path d="M52 14 L52 28 L36 38 L36 108 Q36 114 42 114 L86 114 Q92 114 92 108 L92 38 L76 28 L76 14 Z" fill="#FFFFFF" fill-opacity="0.2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 56 L90 56 L90 108 Q90 112 86 112 L42 112 Q38 112 38 108 Z" fill="#BFE0FF" opacity="0.55" stroke="none" data-ls="liquid"/><path d="M38 56 L90 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M48 8 L48 16 L80 16 L80 8 Q74 6 64 6 Q54 6 48 8 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M50 12 L78 12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

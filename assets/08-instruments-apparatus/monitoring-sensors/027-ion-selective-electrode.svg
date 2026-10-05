@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-ion-selective-electrode" data-cat="mt" data-spec="128"
+     data-tags="ise,ion,selective,electrode,离子,电极" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">离子选择性电极 / Ion Selective Electrode</title>
+  <desc id="d">离子选择性电极（ISE）。</desc>
+  <g id="body"><rect x="48" y="10" width="32" height="14" rx="4" fill="#33414F" stroke="#1F2933" stroke-width="2" data-ls="dark" data-ls-stroke="stroke"/>
+    <rect x="52" y="24" width="24" height="56" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M52 80 L52 100 C52 106 56 110 64 110 C72 110 76 106 76 100 L76 80" fill="#2B7DE9" opacity="0.6" stroke="#1F2933" stroke-width="2" data-ls="accent" data-ls-stroke="stroke"/>
+    <text x="64" y="56" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="thin">ISE</text></g>
+  <g id="detail"></g>
+</svg>

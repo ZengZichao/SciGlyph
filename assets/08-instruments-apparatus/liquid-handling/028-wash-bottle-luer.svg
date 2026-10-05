@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-wash-bottle-luer" data-cat="lh" data-spec="128"
+     data-tags="wash-bottle,luER,rinse,cleaning" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">洗瓶（鲁尔接口） / Wash Bottle (Luer)</title>
+  <desc id="d">洗瓶，带鲁尔接口，用于冲洗</desc>
+  <g id="body"><path d="M44 40 L84 40 L84 108 Q84 116 76 116 L52 116 Q44 116 44 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M54 40 L54 24 L74 24 L74 40" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 24 L60 14 L68 14 L68 24" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 14 L64 8 L80 8 L80 12 L68 12" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 60 L82 60 L82 106 Q82 114 76 114 L52 114 Q46 114 46 106 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M80 8 L86 8 L86 12 L80 12 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M50 50 L78 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

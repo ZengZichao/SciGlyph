@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="丝状分枝模式图" data-name-en="Filament branching pattern" data-cat="01-morphology" data-tags="分枝模式,branching pattern,侧生分枝,二叉分枝,分枝角度,对比图" role="img" aria-labelledby="t-25-filament-branching-pattern d-25-filament-branching-pattern" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25-filament-branching-pattern">丝状分枝模式图 / Filament branching pattern</title>
+  <desc id="d-25-filament-branching-pattern">分枝模式对比示意图：左侧为侧生分枝（单轴、近直角），右侧为二叉对称分枝。关键词: 分枝模式, branching pattern, 侧生分枝, 二叉分枝, 分枝角度, 对比图</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 60,14 L 60,106" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+    <g fill="none">
+      <path d="M 30,16 L 30,104" stroke="#2E7D5B" stroke-width="6"/>
+      <path d="M 30,16 L 30,104" stroke="#DCEEE4" stroke-width="3.4"/>
+      <g stroke="#2E7D5B" stroke-width="4.2">
+        <path d="M 30,30 L 54,30"/>
+        <path d="M 30,56 L 52,56"/>
+        <path d="M 30,82 L 54,82"/>
+      </g>
+      <g stroke="#DCEEE4" stroke-width="2.2">
+        <path d="M 30,30 L 54,30"/>
+        <path d="M 30,56 L 52,56"/>
+        <path d="M 30,82 L 54,82"/>
+      </g>
+      <path d="M 30,56 L 42,48" stroke="#2E7D5B" stroke-width="3.2"/>
+      <path d="M 30,56 L 42,48" stroke="#DCEEE4" stroke-width="1.6"/>
+    </g>
+    <g fill="none">
+      <path d="M 78,104 L 78,74" stroke="#2E7D5B" stroke-width="6"/>
+      <path d="M 78,104 L 78,74" stroke="#DCEEE4" stroke-width="3.4"/>
+      <g stroke="#2E7D5B" stroke-width="4.4">
+        <path d="M 78,74 L 60,36"/>
+        <path d="M 78,74 L 96,36"/>
+      </g>
+      <g stroke="#DCEEE4" stroke-width="2.4">
+        <path d="M 78,74 L 60,36"/>
+        <path d="M 78,74 L 96,36"/>
+      </g>
+      <g stroke="#2E7D5B" stroke-width="2.8">
+        <path d="M 60,36 L 48,16"/>
+        <path d="M 60,36 L 68,16"/>
+        <path d="M 96,36 L 86,16"/>
+        <path d="M 96,36 L 104,16"/>
+      </g>
+    </g>
+    <g fill="none" stroke="#2B3A42" stroke-width="1.2">
+      <path d="M 40,30 L 40,40 L 30,40"/>
+      <path d="M 30,40 A 16,16 0 0 1 46,56"/>
+      <path d="M 71.2,59.5 A 16,16 0 0 1 84.9,59.5"/>
+    </g>
+    <g fill="#1F6F8B">
+      <circle cx="54" cy="30" r="2.4"/>
+      <circle cx="52" cy="56" r="2.4"/>
+      <circle cx="54" cy="82" r="2.4"/>
+      <circle cx="42" cy="48" r="2.2"/>
+      <circle cx="60" cy="36" r="2.4"/>
+      <circle cx="96" cy="36" r="2.4"/>
+      <circle cx="48" cy="16" r="2"/>
+      <circle cx="68" cy="16" r="2"/>
+      <circle cx="86" cy="16" r="2"/>
+      <circle cx="104" cy="16" r="2"/>
+    </g>
+  </g>
+</svg>

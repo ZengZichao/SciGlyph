@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-duplication d-duplication" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-duplication">重复突变 / Duplication Mutation</title>
+<desc id="d-duplication">DNA 片段重复。关键词: duplication, tandem repeat, gene duplication</desc>
+<defs>
+<marker id="pp04__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Duplication Mutation</text>
+<text x="80" y="80" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text><rect x="150" y="65" width="80" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="190" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">ABC</text><rect x="235" y="65" width="80" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+<text x="275" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">DEF</text><rect x="320" y="65" width="80" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
+<text x="360" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">GHI</text>
+<line x1="300" y1="110" x2="300" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp04__ar)" />
+<text x="315" y="130" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">duplicate</text>
+<text x="80" y="170" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After:</text><rect x="130" y="155" width="70" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="165" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">ABC</text><rect x="205" y="155" width="70" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+<text x="240" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">DEF</text><rect x="280" y="155" width="70" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+<text x="315" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">DEF</text><rect x="355" y="155" width="70" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
+<text x="390" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">GHI</text><rect x="205" y="150" width="150" height="40" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-dasharray="4,2" />
+<text x="280" y="145" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">tandem duplication</text>
+<text x="300" y="240" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Duplication gives new genes</text>
+<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Neo- / subfunctionalization</text>
+<rect x="150" y="290" width="60" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<rect x="220" y="290" width="60" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<rect x="290" y="290" width="60" height="25" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+<rect x="360" y="290" width="60" height="25" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/></g></svg>

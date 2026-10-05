@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-27">ASR节点饼图 / ASR Node Pie Chart</title>
+<desc id="d-27">3节点祖先状态pie, 状态色图例 关键词: ASR, ancestral, state, pie, reconstruction</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="110.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="200.0" x2="110.0" y2="153.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="60.0" x2="180.0" y2="60.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="180.0" y1="60.0" x2="240.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="180.0" y1="60.0" x2="180.0" y2="153.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="180.0" y1="153.3" x2="240.0" y2="153.3" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="110.0" y1="200.0" x2="110.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="110.0" y1="246.7" x2="240.0" y2="246.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="110.0" y1="340.0" x2="240.0" y2="340.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<circle cx="240.0" cy="60.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="153.3" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="240.0" cy="246.7" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="340.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<path d="M 110.0 200.0 L 110.0 184.0 A 16 16 0 1 1 94.8 204.9 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 110.0 200.0 L 94.8 204.9 A 16 16 0 0 1 110.0 184.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="110.0" cy="200.0" r="16.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 180.0 60.0 L 180.0 46.0 A 14 14 0 1 1 171.8 48.7 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 180.0 60.0 L 171.8 48.7 A 14 14 0 0 1 180.0 46.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="180.0" cy="60.0" r="14.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 110.0 340.0 L 110.0 326.0 A 14 14 0 0 1 118.2 351.3 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 110.0 340.0 L 118.2 351.3 A 14 14 0 1 1 110.0 326.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="110.0" cy="340.0" r="14.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<text x="280.0" y="80.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">States</text>
+<circle cx="290.0" cy="110.0" r="8.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7"/>
+<text x="310.0" y="114.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">State A</text>
+<circle cx="290.0" cy="140.0" r="8.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7"/>
+<text x="310.0" y="144.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">State B</text>
+<text x="300.0" y="180.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Node pie =</text>
+<text x="300.0" y="195.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">state probs</text>
+<text x="200.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Pie = ancestral state</text>
+</g>
+</svg>

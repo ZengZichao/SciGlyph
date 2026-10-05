@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-fam_nov d-fam_nov" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fam_nov">新科 / fam. nov.</title>
+  <desc id="d-fam_nov">Nomenclatural act: fam. nov. (familia nova)——描述发表一个新科名；不涉及旧名的改名转移。关键词: fam. nov., familia nova, nomenclatural act</desc>
+
+  <g id="layer-body" data-name="body">
+    <rect x="35" y="38" width="30" height="14" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1.5" data-pp="mge"/>
+    <text x="50" y="47" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">fam.</text>
+    <line x1="70" y1="30" x2="70" y2="38" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/>
+    <line x1="66" y1="34" x2="74" y2="34" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/>
+    <line x1="67" y1="31" x2="73" y2="37" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/>
+    <line x1="73" y1="31" x2="67" y2="37" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-linecap="round"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">新科</text>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-dilutor-manual" data-cat="lh" data-spec="128"
+     data-tags="dilutor,manual,dilution,liquid handling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">手动稀释器 / Manual Dilutor</title>
+  <desc id="d">手动稀释器，用于精确稀释操作</desc>
+  <g id="body"><path d="M44 16 L84 16 L84 60 L44 60 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="48" y="20" width="32" height="14" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="50" y="22" width="28" height="10" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <path d="M52 60 L52 100 L76 100 L76 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 100 L56 112 L60 116 L68 116 L72 112 L72 100" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><text x="64" y="30" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">1:10</text>
+    <path d="M54 70 L74 70 M54 80 L74 80 M54 90 L74 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M54 78 L74 78 L74 98 L54 98 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

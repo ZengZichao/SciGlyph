@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-cooling-tower" data-cat="uo" data-spec="128"
+     data-tags="cooling,tower,fill,fan,evaporative,water-cycle" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">冷却塔 / Cooling Tower</title>
+  <desc id="d">冷却塔，带填料、风机和水循环。</desc>
+  <g id="body">
+    <path d="M30,20 Q28,60 22,108 L106,108 Q100,60 98,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="30" y1="60" x2="98" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="28" y1="72" x2="100" y2="72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="26" y1="84" x2="102" y2="84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="54" y1="20" x2="54" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="74" y1="20" x2="74" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="48" y1="14" x2="80" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="64" y1="14" x2="64" y2="8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,10 60,16 68,16" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <path d="M24,90 L104,90 L106,106 L22,106 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <line x1="14" y1="96" x2="22" y2="96" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="18,96 24,92 24,100" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="106" y1="96" x2="114" y2="96" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="110,96 104,92 104,100" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

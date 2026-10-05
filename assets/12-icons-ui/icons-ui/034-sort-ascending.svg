@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="升序排列" data-name-en="sort_ascending" data-cat="basic-icons-ui" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-34">升序排列 / sort_ascending</title>
+  <desc id="d-34">升序排序图标。关键词: 排序,升序,sort,ascending</desc>
+  <g id="g-34-升序排列">
+    <line x1="10" y1="12" x2="30" y2="12" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="22" x2="24" y2="22" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="32" x2="18" y2="32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="34,36 38,28 42,36" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="38" y1="28" x2="38" y2="42" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

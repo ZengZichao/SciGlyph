@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-round-bottom-flask-rlb" data-cat="gl" data-spec="128"
+     data-tags="round bottom,flask,reaction,heating,reflux" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">圆底烧瓶 / Round Bottom Flask</title>
+  <desc id="d">圆底烧瓶，用于加热回流与反应。</desc>
+  <g id="body"><path d="M54 10 L54 40 Q24 48 24 76 Q24 112 64 112 Q104 112 104 76 Q104 48 74 40 L74 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 78 Q28 108 64 108 Q100 108 100 78 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M28 78 L100 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 10 L74 10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-barcode-code128-horizontal" data-cat="lb" data-spec="160"
+     data-tags="barcode,code128,horizontal,scan,id" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">条形码 / Barcode Code128 Horizontal</title>
+  <desc id="d">条形码，不等宽黑条组加数字位占位。</desc>
+  <g id="body">
+    <rect x="10" y="20" width="140" height="56" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="20" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="25" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="28" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="32" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="35" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="40" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="44" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="47" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="51" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="56" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="59" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="63" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="66" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="71" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="75" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="78" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="82" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="87" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="90" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="97" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="102" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="106" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="109" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="113" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="118" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="121" y="28" width="2" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="125" y="28" width="1" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="128" y="28" width="3" height="32" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="80" y="72" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">1234567890</text>
+  </g>
+</svg>

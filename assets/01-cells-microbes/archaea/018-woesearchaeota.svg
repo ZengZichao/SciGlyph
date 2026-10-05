@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-archaea" role="img" aria-labelledby="t-woesearchaeota d-woesearchaeota" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-woesearchaeota">伍斯古菌门 / Woesearchaeota</title>
+  <desc id="d-woesearchaeota">Ultra-small archaeon with reduced biosynthetic capacity, acquiring metabolites from neighbor. Estimated genome ~0.5 Mb (0.5-1.0 Mb range among MAGs). DPANN. 关键词: Woesearchaeota, ultra-small, reduced genome, DPANN, symbiont</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="65" cy="50" rx="18" ry="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="55" y="54" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">neighbor</text>
+    <circle cx="28" cy="50" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="28" cy="50" r="2.5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="47" y1="46" x2="36" y2="48" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="2,2" stroke-linecap="round"/>
+    <line x1="47" y1="54" x2="36" y2="52" stroke="#00857A" stroke-width="1" data-pp="metabolism" stroke-dasharray="2,2" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="12" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">DPANN</text>
+    <text x="55" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">~0.5 Mb</text>
+    <line x1="42" y1="42" x2="50" y2="28" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="40" y="24" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">metabolite</text>
+  </g>
+</svg>

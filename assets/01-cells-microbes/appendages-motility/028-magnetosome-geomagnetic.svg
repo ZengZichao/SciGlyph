@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-magnetosome_geomagnetic d-magnetosome_geomagnetic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-magnetosome_geomagnetic">磁小体地磁定向 / Magnetosome Geomagnetic Orientation</title>
+  <desc id="d-magnetosome_geomagnetic">Magnetosome chain aligns cell with Earth magnetic field lines. 关键词: magnetotaxis, geomagnetic, north-south alignment</desc>
+  
+  <g id="layer-body-magnetosome_geomagnetic" data-name="body">
+    <line x1="5" y1="25" x2="95" y2="25" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4,2"/>
+    <line x1="5" y1="40" x2="95" y2="40" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4,2"/>
+    <line x1="5" y1="55" x2="95" y2="55" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4,2"/>
+    <line x1="5" y1="70" x2="95" y2="70" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4,2"/>
+    <ellipse cx="50" cy="50" rx="10" ry="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="47" y="36" width="6" height="4" fill="#1B2733" data-pp="ink" rx="1"/>
+    <rect x="47" y="42" width="6" height="4" fill="#1B2733" data-pp="ink" rx="1"/>
+    <rect x="47" y="48" width="6" height="4" fill="#1B2733" data-pp="ink" rx="1"/>
+    <rect x="47" y="54" width="6" height="4" fill="#1B2733" data-pp="ink" rx="1"/>
+    <rect x="47" y="60" width="6" height="4" fill="#1B2733" data-pp="ink" rx="1"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="85" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">N</text>
+    <text x="85" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">S</text>
+    <text x="10" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">B field</text>
+  </g>
+</svg>

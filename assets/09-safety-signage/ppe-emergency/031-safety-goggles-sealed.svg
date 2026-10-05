@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>密封护目镜</title>
+  <path d="M3 10 Q3 7 7 7 L10 7 Q11 7 11 8 L11 14 Q11 15 10 15 L7 15 Q3 15 3 12 Z"/>
+  <path d="M13 8 Q13 7 14 7 L17 7 Q21 7 21 10 L21 12 Q21 15 17 15 L14 15 Q13 15 13 14 Z"/>
+  <line x1="11" y1="10" x2="13" y2="10"/>
+  <path d="M3 9 Q2 9 2 10"/>
+  <path d="M21 9 Q22 9 22 10"/>
+  <line x1="4" y1="8" x2="4" y2="9"/>
+  <line x1="6" y1="8" x2="6" y2="9"/>
+  <line x1="18" y1="8" x2="18" y2="9"/>
+  <line x1="20" y1="8" x2="20" y2="9"/>
+  <path d="M3 12 Q2 14 3 16 Q4 18 7 18"/>
+  <path d="M21 12 Q22 14 21 16 Q20 18 17 18"/>
+</svg>

@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="置信区间线" data-name-en="Confidence Interval Line" data-cat="charts-plots" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-37">置信区间线 / confidence_interval_line</title>
+  <desc id="d-37">折线加置信区间带。关键词: confidence,interval,band</desc>
+  <g id="g-37-置信区间线">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <polygon points="55,198 121,155 187,162 253,118 319,135 385,80 385,125 319,170 253,162 187,218 121,200 55,232" fill="#e5e7eb" stroke="none"/>
+    <polyline points="55,218 121,180 187,192 253,142 319,155 385,105" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <circle cx="55" cy="218" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="121" cy="180" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="187" cy="192" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="253" cy="142" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="319" cy="155" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <circle cx="385" cy="105" r="2.5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <line x1="55" y1="280" x2="55" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="138" y1="280" x2="138" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="138" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">25</text>
+    <line x1="220" y1="280" x2="220" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">50</text>
+    <line x1="302" y1="280" x2="302" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="302" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">75</text>
+    <line x1="385" y1="280" x2="385" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="385" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">100</text>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">25</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">50</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">75</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">100</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

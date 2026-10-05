@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-myoviridae d-myoviridae" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-myoviridae">收缩尾噬菌体 / Contractile-tail phage (myovirus)</title>
+  <desc id="d-myoviridae">有尾病毒纲 Caudoviricetes 收缩尾形态群典型形态：二十面体头部+collar+尾髓+收缩尾鞘+基板+6根尾丝。旧称：Myoviridae 肌病毒科、Caudovirales 目名均已废止。关键词: myovirus, contractile tail, phage morphology</desc>
+  <g id="layer-body-myoviridae" data-name="body">
+    <!-- Head (icosahedral capsid) -->
+    <polygon points="50,8 65,16 65,32 50,40 35,32 35,16" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Collar -->
+    <rect x="44" y="40" width="12" height="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" rx="1"/>
+    <!-- Tail sheath (contractile, segmented) -->
+    <rect x="45" y="44" width="10" height="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="45" y="50" width="10" height="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <rect x="45" y="56" width="10" height="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <rect x="45" y="62" width="10" height="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <!-- Tail tube (inner) -->
+    <line x1="50" y1="44" x2="50" y2="68" stroke="#1B2733" stroke-width="1" stroke-dasharray="2,2"/>
+    <!-- Baseplate -->
+    <polygon points="38,68 62,68 58,74 42,74" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <!-- Tail fibers (6) -->
+    <path d="M42,74 Q35,80 28,90" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M44,74 Q38,82 32,92" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M46,74 Q42,84 38,94" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M54,74 Q58,84 62,94" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M56,74 Q62,82 68,92" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M58,74 Q65,80 72,90" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation-myoviridae" data-name="annotation">
+    <text x="70" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">head</text>
+    <text x="60" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sheath</text>
+    <text x="60.44" y="72.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">baseplate</text>
+    <text x="74" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">fiber</text>
+  </g>
+</svg>

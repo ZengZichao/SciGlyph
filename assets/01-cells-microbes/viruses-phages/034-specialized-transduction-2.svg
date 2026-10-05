@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-specialized_transduction d-specialized_transduction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-specialized_transduction">特殊性转导 / Specialized transduction imprecise excision</title>
+  <desc id="d-specialized_transduction">特殊性转导：温和噬菌体不精确切除(excision)时携带相邻宿主基因(如gal/bio)。只转移整合位点附近的基因。λ噬菌体经典模型。关键词: specialized transduction, imprecise excision, lambda, gal, bio</desc>
+  <g id="layer-body-specialized_transduction" data-name="body">
+    
+    <path d="M5,30 Q20,25 35,30 Q50,35 65,30 Q80,25 95,30" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" />
+    
+    <rect x="40" y="26" width="12" height="8" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" />
+    <rect x="52" y="26" width="6" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+    <text x="46" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">φ</text>
+    <text x="55" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gal</text>
+    
+    <path d="M50,38 L50,50" fill="none" stroke="#1B2733" stroke-width="1" />
+    <polygon points="48,48 50,52 52,48" fill="#1B2733" data-pp="ink" />
+    
+    <polygon points="50,55 58,60 58,70 50,75 42,70 42,60" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round" />
+    <rect x="44" y="62" width="8" height="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <text x="48" y="66" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gal</text>
+  </g>
+  <g id="layer-annotation-specialized_transduction" data-name="annotation">
+    <text x="50" y="87.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">specialized</text>
+    <text x="50" y="95.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">transduction</text>
+  </g>
+</svg>

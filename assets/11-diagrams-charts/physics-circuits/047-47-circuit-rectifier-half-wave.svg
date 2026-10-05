@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="半波整流" data-name-en="circuit-rectifier-half-wave" data-cat="physics-electronics" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-47">半波整流 / circuit_rectifier_half_wave</title>
+  <desc id="d-47">二极管半波整流电路。关键词: 整流,半波,二极管</desc>
+  <g id="g-47-半波整流">
+    <circle cx="60" cy="120" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <path d="M 50 120 Q 55 110 60 120 Q 65 130 70 120" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="80" y1="120" x2="140" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 140 105 L 140 135 L 165 120 Z" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
+    <line x1="165" y1="120" x2="165" y2="100" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="165" y1="140" x2="165" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="165" y1="120" x2="240" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="240" y="105" width="40" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="260" y="125" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R</text>
+    <line x1="40" y1="180" x2="280" y2="180" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="120" x2="40" y2="180" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="280" y1="120" x2="280" y2="180" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

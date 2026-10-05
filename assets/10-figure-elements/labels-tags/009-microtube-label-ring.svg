@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-microtube-label-ring" data-cat="lb" data-spec="160"
+     data-tags="microtube,label,ring,1.5ml,tube,wrap" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">管壁环形标签 / Microtube Label Ring</title>
+  <desc id="d">管壁环形标签，1.5mL管剖面。</desc>
+  <g id="body">
+    <path d="M60,14 L60,82 Q60,88 66,88 L94,88 Q100,88 100,82 L100,14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="60" y="30" width="40" height="28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="60" y1="38" x2="100" y2="38" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="60" y1="46" x2="100" y2="46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="60" y1="54" x2="100" y2="54" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="80" y="35" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="stroke">ID</text>
+    <path d="M62,64 L98,64 L98,80 Q98,86 94,86 L66,86 Q62,86 62,80 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <line x1="54" y1="14" x2="60" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="54" y1="88" x2="60" y2="88" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

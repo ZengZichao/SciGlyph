@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-cooling_water d-cooling_water" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cooling_water">Cooling water</title>
+  <desc id="d-cooling_water">Cooling water pipe with biofilm, Legionella rods and amoeba host (35°C 为军团菌生长适温，示意) 关键词: cooling, water, Legionella, amoeba</desc>
+  
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="30" fill="#93A0AC" stroke="#1B2733" stroke-width="1.5" data-pp="muted"/>
+    <circle cx="50" cy="45" r="24" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria" fill-opacity="0.1"/>
+    <path d="M26,45 Q28,35 30,30 Q35,25 40,28" fill="#2E86AB" stroke="#2E86AB" stroke-width="2" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M70,35 Q72,40 74,45 Q72,50 70,55" fill="#2E86AB" stroke="#2E86AB" stroke-width="2" stroke-linecap="round" data-pp="bacteria"/>
+    <rect x="28" y="35" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(30,30,36)"/>
+    <rect x="72" y="45" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(-20,74,46)"/>
+    <path d="M50,40 Q45,35 48,30 Q55,28 58,33 Q60,38 55,42 Q50,45 48,42 Z" fill="#3F8FBF" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="eukaryote"/>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">35°C</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cooling water</text>
+  </g>
+</svg>

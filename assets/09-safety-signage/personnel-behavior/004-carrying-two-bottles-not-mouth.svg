@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-carrying-two-bottles-not-mouth" data-cat="pp" data-spec="128"
+     data-tags="carrying,bottles,two hands,correct,not by neck" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">双手抱容器 / Carrying Two Bottles Not Mouth</title>
+  <desc id="d">正确搬运两个容器：双手抱持，不用手抓瓶颈。</desc>
+  
+  <g id="figure"><circle cx="64" cy="16" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M54 26 L52 68 L46 116 L58 116 L64 78 L70 116 L82 116 L76 68 L74 26 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M54 32 L40 40 L38 56 L44 56 L46 44 L54 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M74 32 L88 40 L90 56 L84 56 L82 44 L74 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M36 50 L44 50 L44 60 L36 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M84 50 L92 50 L92 60 L84 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M24 44 L40 44 L38 72 L26 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <rect d="M88 44 L104 44 L102 72 L90 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M27 58 L37 58 L36 70 L28 70 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+     <path d="M91 58 L101 58 L100 70 L92 70 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-kjeldahl-distillation-flask" data-cat="gl" data-spec="128"
+     data-tags="kjeldahl,distillation,steam,nitrogen,凯氏" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">凯氏蒸馏瓶（蒸汽直入）/ Kjeldahl Steam Distillation Flask</title>
+  <desc id="d">凯氏（Kjeldahl）定氮蒸馏瓶，蒸汽自底部直接导入，带蒸汽导入管。</desc>
+  <g id="body"><path d="M54 10 L54 38 Q28 46 28 74 Q28 110 64 110 Q100 110 100 74 Q100 46 74 38 L74 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M58 38 L58 100 L62 100 L62 38 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M96 52 L114 40 L114 34 L96 46 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 76 Q32 106 64 106 Q96 106 96 76 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M32 76 L96 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 10 L74 10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

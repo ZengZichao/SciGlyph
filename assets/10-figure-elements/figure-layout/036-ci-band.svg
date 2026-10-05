@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-36_ci_band d-36_ci_band" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36_ci_band">置信区间带 / CI band</title>
+  <desc id="d-36_ci_band">95%置信区间带。骨架，配合回归/时间序列使用。关键词: confidence interval, CI, 95%, band</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="30" width="70" height="30" rx="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" />
+    <line x1="15" y1="45" x2="85" y2="45" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5" stroke-linecap="round" />
+    <text x="86.48" y="34.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">95%</text>
+    <text x="90" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">CI</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">CI band</text>
+  </g>
+</svg>

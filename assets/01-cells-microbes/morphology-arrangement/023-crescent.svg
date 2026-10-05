@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="新月形菌" data-name-en="Crescent" data-cat="01-morphology" data-tags="新月形菌,crescent,新月形,弯月状,月牙" role="img" aria-labelledby="t-23-crescent d-23-crescent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23-crescent">新月形菌 / Crescent</title>
+  <desc id="d-23-crescent">菌体呈新月（月牙）形，两端尖细、中部宽厚，宽度明显大于厚度。关键词: 新月形菌, crescent, 新月形, 弯月状, 月牙</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 72.0,22.9 C 88.7,29.7 36.1,21.4 25.2,35.7 C 36.1,21.4 14.3,69.9 25.2,84.3 C 14.3,69.9 55.3,103.8 72.0,97.1 C 56.9,91.0 47.0,76.3 47.0,60.0 C 47.0,43.7 56.9,29.0 72.0,22.9 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+    <circle cx="32" cy="67" r="5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+    <circle cx="36" cy="84" r="4" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+    <circle cx="32" cy="50" r="3" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
+  </g>
+</svg>

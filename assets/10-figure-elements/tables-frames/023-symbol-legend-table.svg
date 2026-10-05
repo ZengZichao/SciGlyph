@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="符号说明表" data-name-en="symbol-legend-table" data-cat="tables-frames" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23">符号说明表 / symbol_legend_table</title>
+  <desc id="d-23">符号含义说明表。关键词: 符号说明,图例,符号表</desc>
+  <g id="g-23-符号说明表">
+    <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <text x="80" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Sym</text>
+    <text x="190" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Desc</text>
+    <text x="80" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">α</text>
+    <text x="190" y="80" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">0.05</text>
+    <text x="80" y="105" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">μ</text>
+    <text x="190" y="105" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">mean</text>
+    <text x="80" y="130" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">σ</text>
+    <text x="190" y="130" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">std</text>
+    <text x="80" y="155" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">n</text>
+    <text x="190" y="155" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">size</text>
+    <text x="80" y="180" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">p</text>
+    <text x="190" y="180" font-size="11" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">prob</text>
+    <line x1="40" y1="210" x2="280" y2="210" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

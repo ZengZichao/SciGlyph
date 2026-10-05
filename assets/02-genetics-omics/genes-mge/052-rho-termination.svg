@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-52_rho_termination d-52_rho_termination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52_rho_termination">ρ依赖终止 / Rho-dependent Termination</title>
+  <desc id="d-52_rho_termination">ρ因子(Rho)在rut位点(接近RNA 5'端)装载为六聚体环，沿mRNA 5'→3' ATP依赖转位追赶前方暂停的RNAP，解开RNA-DNA杂合体使转录复合体解离。关键词: Rho factor, rut site, 5 to 3 translocation, transcription termination</desc>
+  <defs>
+    <marker id="pp52__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+    <line x1="10" y1="62" x2="90" y2="62" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+    <line x1="14" y1="44" x2="58" y2="44" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
+    <rect x="16" y="42" width="8" height="4" fill="#E8871E" data-pp="mge"/>
+    <circle cx="38" cy="44" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <rect x="58" y="50" width="16" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="66" y="59" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RNAP</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="10" y="39" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5'</text>
+    <text x="20.0" y="36.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">rut</text>
+    <text x="40.0" y="35.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Rho</text>
+    <line x1="44" y1="44" x2="55" y2="44" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp52__ar)"/>
+    <text x="50" y="74" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">rut loading (5' RNA)</text>
+    <text x="50" y="82" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5'→3' chase</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">dissociate complex</text>
+  </g>
+</svg>

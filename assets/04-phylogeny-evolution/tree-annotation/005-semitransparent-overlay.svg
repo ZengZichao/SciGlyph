@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-05 d-05" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-05">半透明底片 / Semi-transparent Overlay</title>
+  <desc id="d-05">装饰零件，贴到树上用。半透明底片，高亮背景区域。 关键词: tree decoration, overlay, semi-transparent band, clade highlight, background shading</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="overlay">
+    <rect x="50" y="100" width="300" height="200" fill="#3F8FBF" fill-opacity="0.15" stroke="#3F8FBF" stroke-width="1" data-pp="eukaryote" rx="5"/>
+  </g>
+  <g data-name="example-content">
+    <circle cx="100" cy="140" r="10" fill="#3F8FBF" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="eukaryote"/>
+    <line x1="120" y1="140" x2="320" y2="140" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="100" cy="200" r="10" fill="#3F8FBF" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="eukaryote"/>
+    <line x1="120" y1="200" x2="320" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="100" cy="260" r="10" fill="#3F8FBF" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="eukaryote"/>
+    <line x1="120" y1="260" x2="320" y2="260" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="annotation">
+    <circle cx="100" cy="320" r="10" fill="#5B8C3E" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="virus"/>
+    <line x1="120" y1="320" x2="320" y2="320" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <rect x="50" y="340" width="300" height="30" fill="#8C6D3F" fill-opacity="0.10" stroke="#8C6D3F" stroke-width="1" data-pp="host" rx="3"/>
+    <circle cx="100" cy="355" r="6" fill="#8C6D3F" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="host"/>
+    <line x1="120" y1="355" x2="320" y2="355" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 370 100 L 370 300" fill="none" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-dasharray="3 2"/>
+    <circle cx="370" cy="200" r="4" fill="#93A0AC" data-pp="muted"/>
+  </g>
+</svg>

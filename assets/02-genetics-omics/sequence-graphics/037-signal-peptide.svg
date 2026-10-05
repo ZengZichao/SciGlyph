@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-signal_peptide d-signal_peptide" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-signal_peptide">信号肽切割位点 / Signal Peptide Cleavage Site</title>
+<desc id="d-signal_peptide">信号肽 n-region, h-region, c-region 与切割位点。关键词: signal peptide, cleavage, Sec, secretion</desc>
+<defs>
+<marker id="pp37__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Signal Peptide Cleavage</text><rect x="80" y="125" width="60" height="30" rx="3" fill="#C42D2D" data-pp="alert" stroke="#C42D2D" stroke-width="1.5" />
+<text x="110" y="144" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">n-reg</text>
+<text x="110" y="118" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">(charged)</text><rect x="140" y="125" width="100" height="30" rx="3" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1.5" />
+<text x="190" y="144" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">h-region</text><rect x="240" y="125" width="60" height="30" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="1.5" />
+<text x="270" y="144" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">c-reg</text>
+<line x1="305" y1="115" x2="305" y2="165" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-dasharray="4,2" />
+<text x="305" y="108" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">↓ cleavage</text><rect x="310" y="125" width="200" height="30" rx="3" fill="#6C3FA0" data-pp="gene" stroke="#6C3FA0" stroke-width="1.5" />
+<text x="410" y="144" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Mature protein</text>
+<line x1="300" y1="185" x2="300" y2="220" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp37__ar)" />
+<text x="130" y="250" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Signal peptide</text>
+<text x="130" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">(degraded)</text>
+<text x="420" y="250" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">Mature protein</text>
+<text x="420" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">(secreted / membrane)</text>
+<text x="300" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">(−3, −1) rule: small residues at −3 and −1 (Ala-X-Ala↓)</text></g>  <g data-name="annotation">
+    <line x1="80" y1="175" x2="510" y2="175" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="80" y="290" width="12" height="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="100" y="290" width="12" height="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="120" y="290" width="12" height="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="140" y="290" width="12" height="12" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="158" y="300" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">n / h / c / mature</text>
+    <line x1="80" y1="125" x2="80" y2="155" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="510" y1="125" x2="510" y2="155" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  </g>
+</svg>

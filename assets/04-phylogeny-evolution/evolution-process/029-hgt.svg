@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-hgt d-hgt" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-hgt">水平基因转移 / Horizontal Gene Transfer</title>
+<desc id="d-hgt">转化/转导/接合三种机制及基因在物种树上的跨枝转移 关键词: HGT, transformation, transduction, conjugation, plasmid</desc>
+<defs>
+<marker id="pp29__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Horizontal Gene Transfer</text>
+<text x="60" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" font-weight="bold">转化</text>
+<circle cx="80" cy="85" r="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<line x1="68" y1="73" x2="92" y2="97" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round"/>
+<rect x="110" y="72" width="20" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="120" y="85" width="20" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="108" y="95" width="20" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="155" cy="85" r="18" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<line x1="135" y1="85" x2="140" y2="85" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" marker-end="url(#pp29__ar)"/>
+<text x="210" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#5B8C3E" data-pp="virus" text-anchor="start" font-weight="bold">转导</text>
+<circle cx="250" cy="80" r="12" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+<line x1="250" y1="92" x2="250" y2="105" stroke="#5B8C3E" data-pp="virus" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="250" cy="80" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="225" cy="85" r="15" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.2"/>
+<circle cx="280" cy="85" r="15" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" fill-opacity="0.2"/>
+<line x1="265" y1="85" x2="268" y2="85" stroke="#5B8C3E" data-pp="virus" stroke-width="1.5" marker-end="url(#pp29__ar)"/>
+<text x="360" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start" font-weight="bold">接合</text>
+<circle cx="390" cy="85" r="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<circle cx="390" cy="85" r="7" fill="none" data-pp="mge" stroke="#E8871E" stroke-width="1.5"/>
+<line x1="408" y1="85" x2="440" y2="85" stroke="#E8871E" data-pp="mge" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="4,3"/>
+<circle cx="460" cy="85" r="18" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<line x1="415" y1="80" x2="445" y2="80" stroke="#E8871E" data-pp="mge" stroke-width="1.5" marker-end="url(#pp29__ar)"/>
+<text x="60" y="130" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">物种树 + HGT</text>
+<line x1="100" y1="340" x2="100" y2="160" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="100" y1="200" x2="180" y2="160" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" stroke-linecap="round"/>
+<circle cx="180" cy="160" r="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<line x1="100" y1="240" x2="180" y2="240" stroke="#00857A" data-pp="metabolism" stroke-width="2" stroke-linecap="round"/>
+<circle cx="180" cy="240" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<line x1="100" y1="290" x2="180" y2="310" stroke="#A2305B" data-pp="archaea" stroke-width="2" stroke-linecap="round"/>
+<circle cx="180" cy="310" r="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
+<line x1="140" y1="200" x2="140" y2="240" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
+<text x="148" y="222" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">HGT</text>
+<line x1="140" y1="240" x2="140" y2="290" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
+<text x="148" y="270" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">HGT</text>
+<text x="220" y="145" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="start" font-weight="bold">基因树</text>
+<line x1="240" y1="310" x2="240" y2="180" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" stroke-linecap="round"/>
+<line x1="240" y1="200" x2="320" y2="170" stroke="#6C3FA0" data-pp="gene" stroke-width="2" stroke-linecap="round"/>
+<circle cx="320" cy="170" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<line x1="240" y1="220" x2="320" y2="240" stroke="#6C3FA0" data-pp="gene" stroke-width="2" stroke-linecap="round"/>
+<circle cx="320" cy="240" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<line x1="240" y1="280" x2="320" y2="310" stroke="#6C3FA0" data-pp="gene" stroke-width="2" stroke-linecap="round"/>
+<circle cx="320" cy="310" r="5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+<rect x="350" y="155" width="120" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="410" y="172" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">拓扑冲突</text>
+<text x="410" y="190" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">基因树 ≠ 物种树</text>
+<rect x="350" y="220" width="210" height="100" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="455" y="240" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">HGT 的演化意义</text>
+<text x="365" y="258" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">抗生素耐药传播</text>
+<text x="365" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">代谢途径组装</text>
+<text x="365" y="292" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="start">基因组嵌合性</text>
+<text x="365" y="309" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">泛基因组扩张</text>
+</g>
+</svg>

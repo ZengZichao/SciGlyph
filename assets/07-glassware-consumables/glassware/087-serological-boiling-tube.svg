@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-serological-boiling-tube" data-cat="gl" data-spec="128"
+     data-tags="serological,boiling,tube,sterile,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">血清煮沸管 / Serological Boiling Tube</title>
+  <desc id="d">平底血清管，可加热灭菌，带螺帽。</desc>
+  <g id="body"><path d="M46 24 L46 108 Q46 114 52 114 L76 114 Q82 114 82 108 L82 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M48 58 L80 58 L80 108 Q80 112 76 112 L52 112 Q48 112 48 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M48 58 L80 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="cap"><path d="M42 10 L42 26 L86 26 L86 10 Q78 8 64 8 Q50 8 42 10 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M44 16 L84 16 M44 20 L84 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

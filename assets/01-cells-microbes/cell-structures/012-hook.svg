@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="钩鞭毛体" data-name-en="Hook" data-cat="02-structures" data-tags="钩鞭毛体,钩,连接器,鞭毛基体,柔性" role="img" aria-labelledby="t-12-hook d-12-hook" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-12-hook">钩鞭毛体 / Hook</title>
+  <desc id="d-12-hook">钩鞭毛体是一段短而弯的柔性连接器，连接基体与鞭毛丝，使鞭毛丝以基体为支点形成传播波。关键词: 钩鞭毛体, 钩, 连接器, 鞭毛基体, 柔性</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M60 10C50 16 70 22 60 28C50 34 70 40 60 46" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+<path d="M60 46C47 48 41 57 45 65C49 73 60 76 69 71" fill="none" stroke="#1F6F8B" stroke-width="3"/>
+<rect x="22" y="80" width="76" height="5" rx="2.5" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.2"/>
+<rect x="26" y="90.5" width="68" height="3" fill="#7A8B93" stroke="none" stroke-width="0.0" fill-opacity="0.45"/>
+<rect x="22" y="97" width="76" height="5" rx="2.5" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.2"/>
+<rect x="48" y="79" width="24" height="7" rx="3" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<rect x="52" y="89.5" width="16" height="5" rx="2.5" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<rect x="48" y="96" width="24" height="7" rx="3" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M69 71C63 72 60 74 60 78L60 100" fill="none" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M22 102L22 104C22 112 34 114 60 114C86 114 98 112 98 104L98 102Z" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.4"/>
+</g>
+</svg>

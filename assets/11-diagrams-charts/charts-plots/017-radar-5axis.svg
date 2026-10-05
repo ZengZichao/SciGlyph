@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="雷达图" data-name-en="Radar 5 Axis" data-cat="charts-plots" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17">雷达图 / radar_5axis</title>
+  <desc id="d-17">五轴雷达图。关键词: radar,spider,five</desc>
+  <g id="g-17-雷达图">
+    <polygon points="120.0,92.0 146.7,111.3 136.5,142.7 103.5,142.7 93.3,111.3" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <polygon points="120.0,63.9 173.4,102.7 153.0,165.4 87.0,165.4 66.6,102.7" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <polygon points="120.0,35.0 200.8,93.7 170.0,188.8 70.0,188.8 39.2,93.7" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="120.0" y2="35.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="200.8" y2="93.7" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="170.0" y2="188.8" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="70.0" y2="188.8" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="39.2" y2="93.7" stroke="#e5e7eb" stroke-width="0.75"/>
+    <polygon points="120.0,52.0 168.5,104.2 165.0,181.9 95.0,154.4 63.4,101.6" fill="#0072B2" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+    <text x="120" y="26" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">A</text>
+    <text x="212" y="93" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">B</text>
+    <text x="177" y="201" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">C</text>
+    <text x="63" y="201" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">D</text>
+    <text x="28" y="93" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">E</text>
+  </g>
+</svg>

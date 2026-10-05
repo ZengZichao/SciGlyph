@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="双极鞭毛" data-name-en="Amphitrichous flagellum" data-cat="02-structures" data-tags="双极鞭毛,鞭毛,两极着生,螺菌" role="img" aria-labelledby="t-03-amphitrichous d-03-amphitrichous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-03-amphitrichous">双极鞭毛 / Amphitrichous flagellum</title>
+  <desc id="d-03-amphitrichous">双极鞭毛型：细胞两端各着生一根鞭毛，常见于螺菌属与部分弯曲菌（螺旋体的鞭毛为周质鞭毛，缠于壁与外鞘之间）。关键词: 双极鞭毛, 鞭毛, 两极着生, 螺菌</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="34" y="46" width="52" height="28" rx="14" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M43 60C43 53 52 50 60 53C66 55 72 54 77 60C72 66 61 69 53 66C48 64 43 65 43 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="33" cy="60" r="3.6" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="87" cy="60" r="3.6" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+<path d="M30 60C25 60 23 44 17 44C11 44 9 74 6 74C5 74 4 66 4 60" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+<path d="M90 60C95 60 97 44 103 44C109 44 111 74 114 74C115 74 116 66 116 60" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+</g>
+</svg>

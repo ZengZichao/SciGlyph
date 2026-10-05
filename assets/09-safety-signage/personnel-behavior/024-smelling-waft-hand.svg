@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-smelling-waft-hand" data-cat="pp" data-spec="128"
+     data-tags="smelling,waft,hand,technique,odor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">扇闻法 / Smelling Waft Hand</title>
+  <desc id="d">扇闻气味正确方法：手在瓶口上方轻扇。</desc>
+  
+  <g id="figure"><circle cx="50" cy="20" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M40 30 L38 72 L32 116 L44 116 L50 82 L56 116 L68 116 L62 72 L60 30 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M60 36 L72 32 L78 24 L74 22 L70 30 L60 34 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M74 18 L82 18 L82 28 L74 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="prop"><rect d="M68 36 L88 36 L86 64 L70 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M72 44 L84 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M76 14 Q80 10 84 14" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+     <path d="M74 10 Q80 6 86 10" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

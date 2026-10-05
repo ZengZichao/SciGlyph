@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>循环水式多用真空泵</title>
+  <rect x="4" y="9" width="16" height="11" rx="1"/>
+  <circle cx="9" cy="15" r="2.5"/>
+  <circle cx="15.5" cy="13" r="2" stroke-width="1"/>
+  <line x1="15.5" y1="13" x2="16.75" y2="11.75" stroke-width="0.75"/>
+  <path d="M7 9V7" stroke-width="1"/>
+  <path d="M2.5 12h1.5" stroke-width="1"/>
+  <path d="M2.5 9.5v2.5" stroke-width="1"/>
+  <path d="M19 9V6.5" stroke-width="1"/>
+  <path d="M19 6.5h2.5" stroke-width="1"/>
+  <path d="M21.5 6.5v3.5" stroke-width="1"/>
+  <path d="M13 20v1.5" stroke-width="1"/>
+  <path d="M4 20v1.5" stroke-width="1"/>
+</svg>

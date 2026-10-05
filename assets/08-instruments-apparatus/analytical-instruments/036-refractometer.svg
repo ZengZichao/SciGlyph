@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>阿贝折射仪</title>
+  <rect x="3" y="16" width="18" height="6" rx="1"/>
+  <rect x="5" y="18" width="6" height="2" rx="0.5"/>
+  <line x1="6" y1="19" x2="10" y2="19" stroke-width="0.75"/>
+  <path d="M14 16l2-6h4l-2 6"/>
+  <rect x="15" y="8" width="4" height="2" rx="0.5"/>
+  <line x1="17" y1="8" x2="17" y2="5" stroke-width="1"/>
+  <circle cx="17" cy="4" r="1.5"/>
+  <line x1="15" y1="10" x2="19" y2="10" stroke-width="0.75"/>
+  <rect x="13" y="18" width="6" height="2" rx="0.5"/>
+  <line x1="5" y1="22" x2="5" y2="23" stroke-width="1"/>
+  <line x1="19" y1="22" x2="19" y2="23" stroke-width="1"/>
+</svg>

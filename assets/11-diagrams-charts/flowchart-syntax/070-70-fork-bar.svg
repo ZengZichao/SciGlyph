@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="同步条Fork" data-name-en="fork-bar" data-cat="flowchart-logic" aria-labelledby="t-70 d-70" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-70">同步条Fork / fork_bar</title>
+  <desc id="d-70">UML活动图分叉条。关键词: fork,bar,uml</desc>
+  <g id="g-70-同步条Fork">
+    <rect x="50" y="10" width="8" height="60" fill="#1f2937" stroke="none"/>
+    <line fill="none" x1="10" y1="25" x2="50" y2="25" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="58" y1="20" x2="100" y2="20" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="96,16 104,20 96,24" fill="#1f2937"/>
+    <line fill="none" x1="58" y1="40" x2="100" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="96,36 104,40 96,44" fill="#1f2937"/>
+    <line fill="none" x1="58" y1="60" x2="100" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="96,56 104,60 96,64" fill="#1f2937"/>
+  </g>
+</svg>

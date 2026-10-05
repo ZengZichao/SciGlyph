@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="单细胞基因组" data-name-en="Single-Cell Genomics" data-cat="05-eco-seq" data-tags="单细胞基因组,微液滴,细胞条形码,多重置换扩增,不可培养菌" role="img" aria-labelledby="t-24-single-cell-genomics d-24-single-cell-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24-single-cell-genomics">Single-Cell Genomics</title>
+  <desc id="d-24-single-cell-genomics">单个细胞在微液滴内获得细胞条形码标记并经多重置换扩增取得基因组，用于解析不可培养微生物。关键词: 单细胞基因组, 微液滴, 细胞条形码, 多重置换扩增, 不可培养菌</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 微反应液滴 -->
+  <circle cx="52" cy="54" r="36" fill="#B7D7E8" fill-opacity="0.3" stroke="#5FA8C7" stroke-width="1.6"/>
+  <path d="M28 32 a24 24 0 0 1 14 -10" stroke="#FFFFFF" stroke-width="2.4" stroke-opacity="0.9"/>
+  <!-- 单个细菌（不可培养成员） -->
+  <rect x="20" y="48" width="30" height="14" rx="7" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
+  <path d="M27 55 A8 6 0 0 0 41 55" stroke="#1F6F8B" stroke-width="1.4"/>
+  <path d="M50 55 c4 -3 6 5 10 2" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 细胞条形码标签 -->
+  <path d="M34 48 v-6" stroke="#5B4B8A" stroke-width="1.2"/>
+  <rect x="24" y="30" width="22" height="12" rx="2" fill="#DCEEE4" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M28 34 v6 M32 34 v6 M38 34 v6 M42 34 v6" stroke="#5B4B8A" stroke-width="1.4"/>
+  <!-- 多重置换扩增（MDA）扇形复制 -->
+  <path d="M50 46 C64 40 68 58 54 60" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M54 42 C70 36 74 64 60 66" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M58 38 C76 32 80 68 64 70" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M50 42 l4 3 M50 38 l3 1" stroke="#5B4B8A" stroke-width="1.2" stroke-dasharray="2 2"/>
+  <!-- 裂解释放核酸并输出至扩增产物 -->
+  <path d="M50 88 C56 94 64 94 70 90" stroke="#E8B04B" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M74 82 C80 84 84 88 88 93" stroke="#5B4B8A" stroke-width="1.4" stroke-dasharray="3 2"/>
+  <path d="M88 93 C96 97 104 97 112 96" stroke="#5B4B8A" stroke-width="2" stroke-dasharray="4 2"/>
+  <path d="M110 92 l5 4 l-6 1" stroke="#5B4B8A" stroke-width="1.4"/>
+  <!-- 扩增产物：带条形码的单细胞 contig -->
+  <rect x="90" y="44" width="24" height="12" rx="2" fill="#DCEEE4" stroke="#5B4B8A" stroke-width="1.4"/>
+  <path d="M94 50 h6 M103 50 h5" stroke="#5B4B8A" stroke-width="2.4"/>
+  <path d="M90 44 v-5 h8 v5" stroke="#E8B04B" stroke-width="1.4"/>
+  <text x="100" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Barcode</text>
+  <text x="46" y="106" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Single-cell droplet</text>
+</g>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="螺旋箭头" data-name-en="arrow spiral" data-cat="arrows-connectors" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-26">螺旋箭头 / arrow_spiral</title>
+  <desc id="d-26">螺旋形循环箭头。关键词: arrow,spiral,helix,cycle</desc>
+  <g id="g-26-螺旋箭头">
+    <path d="M 80 20 Q 120 20 120 50 Q 120 80 80 80 Q 50 80 50 55 Q 50 35 70 30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="66,24 74,28 68,34" fill="#1f2937"/>
+  </g>
+</svg>

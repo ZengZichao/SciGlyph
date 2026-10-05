@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-plasmid_content d-plasmid_content" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-plasmid_content">质粒含量比较 / Plasmid content comparison</title>
+  <desc id="d-plasmid_content">不同物种质粒数量比较。schematic, not to scale. 关键词: plasmid, content, MGE</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="390" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Plasmid count</text>
+
+</g>
+<g data-name="bars">
+  <rect x="90" y="160" width="40" height="180" fill="#E8871E" data-pp="mge"/>
+  <text x="110" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp1</text>
+  <text x="110" y="155" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">6</text>
+  <rect x="148" y="160" width="40" height="180" fill="#E8871E" data-pp="mge"/>
+  <text x="168" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp2</text>
+  <text x="168" y="155" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">6</text>
+  <rect x="206" y="250" width="40" height="90" fill="#E8871E" data-pp="mge"/>
+  <text x="226" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp3</text>
+  <text x="226" y="245" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">3</text>
+  <rect x="264" y="280" width="40" height="60" fill="#E8871E" data-pp="mge"/>
+  <text x="284" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp4</text>
+  <text x="284" y="275" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">2</text>
+  <rect x="322" y="250" width="40" height="90" fill="#E8871E" data-pp="mge"/>
+  <text x="342" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp5</text>
+  <text x="342" y="245" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">3</text>
+  <rect x="380" y="250" width="40" height="90" fill="#E8871E" data-pp="mge"/>
+  <text x="400" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp6</text>
+  <text x="400" y="245" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">3</text>
+  <rect x="438" y="280" width="40" height="60" fill="#E8871E" data-pp="mge"/>
+  <text x="458" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp7</text>
+  <text x="458" y="275" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">2</text>
+  <rect x="496" y="310" width="40" height="30" fill="#E8871E" data-pp="mge"/>
+  <text x="516" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp8</text>
+  <text x="516" y="305" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">1</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Plasmid Content Comparison Across Species (schematic)</text>
+<g data-name="trend-line">
+  <line x1="110" y1="160" x2="516" y2="310" stroke="#C42D2D" stroke-width="1.5" stroke-dasharray="4,2" data-pp="alert"/>
+  <circle cx="110" cy="160" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="516" cy="310" r="3" fill="#C42D2D" data-pp="alert"/>
+  <rect x="490" y="55" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+</g>
+</svg>

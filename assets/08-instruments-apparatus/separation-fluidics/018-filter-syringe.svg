@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>注射器式过滤器</title>
+  <circle cx="12" cy="12" r="7"/>
+  <circle cx="12" cy="12" r="4.5"/>
+  <line x1="5" y1="12" x2="3" y2="12"/>
+  <path d="M19 12h2.5"/>
+  <line x1="9" y1="12" x2="15" y2="12" stroke-width="0.75" stroke-dasharray="1 1"/>
+  <path d="M3 11v2" stroke-width="1"/>
+  <path d="M21.5 11v2" stroke-width="1"/>
+  <line x1="12" y1="5" x2="12" y2="8" stroke-width="0.75"/>
+  <line x1="12" y1="16" x2="12" y2="19" stroke-width="0.75"/>
+</svg>

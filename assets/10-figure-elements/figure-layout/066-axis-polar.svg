@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-66_axis_polar d-66_axis_polar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-66_axis_polar">环形极轴 / Polar axis</title>
+  <desc id="d-66_axis_polar">环形极坐标轴骨架。骨架，配合环形/玫瑰图使用。关键词: skeleton, polar, radial, circular axis</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="45" r="30" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" data-name="outer"/>
+    <circle cx="50" cy="45" r="20" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="2 2" stroke-linecap="round" data-name="mid"/>
+    <circle cx="50" cy="45" r="10" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="2 2" stroke-linecap="round" data-name="inner"/>
+    <line x1="50" y1="15" x2="50" y2="75" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-linecap="round" data-name="v-axis"/>
+    <line x1="20" y1="45" x2="80" y2="45" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-linecap="round" data-name="h-axis"/>
+    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0°</text>
+    <text x="84" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">90°</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Polar axis</text>
+  </g>
+</svg>

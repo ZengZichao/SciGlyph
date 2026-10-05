@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-33_visualization d-33_visualization" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33_visualization">结果可视化与出图流程 / Results Visualization Pipeline</title>
+  <desc id="d-33_visualization">骨架流程：原始结果→R/ggplot2绑图→iTOL树装饰→Cytoscape网络→热图→面板排版→最终出图。工具：ggplot2, iTOL, Cytoscape, Adobe Illustrator。输入：分析结果；输出：出版级图表。 关键词: bioinformatics workflow, visualization, ggplot2, iTOL, Cytoscape, Adobe, Illustrator, Raw, skeleton template, heatmap</desc>
+<defs>
+  <marker id="pp33__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp33__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp33__labels" data-name="labels">
+  <rect x="20" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Raw Results</text>
+
+  <rect x="145" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">R/ggplot2</text>
+
+  <rect x="270" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">iTOL Tree</text>
+
+  <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cytoscape</text>
+
+  <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Heatmap</text>
+
+  <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Panel Layout</text>
+
+  <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Final Figure</text>
+
+  <line x1="125" y1="94.0" x2="145" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="94.0" x2="270" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="94.0" x2="395" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round"/>
+  <path d="M 447.5 118 L 447.5 163.0 L 72.5 163.0 L 72.5 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="125" y1="232.0" x2="145" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="232.0" x2="270" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp33__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Results Visualization Pipeline</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Data</text>
+  <rect x="76" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="92" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">R/Tools</text>
+  <rect x="153" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="169" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Tree/Fig</text>
+  <rect x="237" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="253" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Heatmap</text>
+  </g>
+</svg>

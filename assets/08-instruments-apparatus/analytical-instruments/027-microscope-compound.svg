@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>光学显微镜</title>
+  <rect x="5" y="20" width="14" height="2" rx="1"/>
+  <path d="M16 20V8a3 3 0 0 0-3-3H9v2h3a2 2 0 0 1 2 2v11"/>
+  <rect x="6" y="2" width="4" height="5" rx="1"/>
+  <path d="M8 7l1 3"/>
+  <circle cx="9" cy="11.5" r="1.5"/>
+  <rect x="5" y="14" width="8" height="1.5" rx="0.5"/>
+  <line x1="6" y1="14.75" x2="12" y2="14.75" stroke-width="0.75"/>
+  <path d="M5 20l-1-2h2"/>
+  <line x1="17" y1="10" x2="19" y2="10" stroke-width="0.75"/>
+  <line x1="17" y1="13" x2="19" y2="13" stroke-width="0.75"/>
+</svg>

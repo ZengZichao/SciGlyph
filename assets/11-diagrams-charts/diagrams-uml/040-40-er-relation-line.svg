@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="ER关系线" data-name-en="ER Relation Line" data-cat="diagrams-sw-uml" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-40">ER关系线 / er_relation_line</title>
+  <desc id="d-40">ER菱形关系连线。关键词: relation,diamond,er</desc>
+  <g id="g-40-ER关系线">
+    <rect x="10" y="30" width="50" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="35" y="50" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>
+    <rect x="100" y="30" width="50" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="125" y="50" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">B</text>
+    <line fill="none" x1="60" y1="45" x2="100" y2="45" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="80,35 90,45 80,55 70,45" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="80" y="49" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">R</text>
+  </g>
+</svg>

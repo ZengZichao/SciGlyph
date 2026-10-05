@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-fst_heatmap d-fst_heatmap" class="pp-diagram pp-population-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fst_heatmap">种群分化 Fst 热图 / Fst triangular heatmap</title>
+  <desc id="d-fst_heatmap">下三角矩阵展示种群间Fst值。schematic, not to scale. 关键词: Fst, differentiation, heatmap</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="heatmap">
+  <rect x="140" y="80" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="106.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <rect x="140" y="125" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="151.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.02</text>
+  <rect x="185" y="125" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="207.5" y="151.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <rect x="140" y="170" width="45" height="45" fill="#00857A" data-pp="metabolism" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="196.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.05</text>
+  <rect x="185" y="170" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="207.5" y="196.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.04</text>
+  <rect x="230" y="170" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="252.5" y="196.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <rect x="140" y="215" width="45" height="45" fill="#E8871E" data-pp="mge" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.12</text>
+  <rect x="185" y="215" width="45" height="45" fill="#E8871E" data-pp="mge" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="207.5" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.10</text>
+  <rect x="230" y="215" width="45" height="45" fill="#00857A" data-pp="metabolism" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="252.5" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.08</text>
+  <rect x="275" y="215" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="297.5" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <rect x="140" y="260" width="45" height="45" fill="#C42D2D" data-pp="alert" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.18</text>
+  <rect x="185" y="260" width="45" height="45" fill="#C42D2D" data-pp="alert" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="207.5" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.15</text>
+  <rect x="230" y="260" width="45" height="45" fill="#E8871E" data-pp="mge" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="252.5" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.13</text>
+  <rect x="275" y="260" width="45" height="45" fill="#00857A" data-pp="metabolism" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="297.5" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.06</text>
+  <rect x="320" y="260" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="342.5" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <rect x="140" y="305" width="45" height="45" fill="#C42D2D" data-pp="alert" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="162.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.25</text>
+  <rect x="185" y="305" width="45" height="45" fill="#C42D2D" data-pp="alert" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="207.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.22</text>
+  <rect x="230" y="305" width="45" height="45" fill="#C42D2D" data-pp="alert" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="252.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.20</text>
+  <rect x="275" y="305" width="45" height="45" fill="#E8871E" data-pp="mge" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="297.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.14</text>
+  <rect x="320" y="305" width="45" height="45" fill="#00857A" data-pp="metabolism" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="342.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.09</text>
+  <rect x="365" y="305" width="45" height="45" fill="#2E86AB" data-pp="bacteria" stroke="#FFFFFF" stroke-width="1"/>
+  <text x="387.5" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">0.00</text>
+  <text x="162.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop1</text>
+  <text x="130" y="106.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop1</text>
+  <text x="207.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop2</text>
+  <text x="130" y="151.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop2</text>
+  <text x="252.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop3</text>
+  <text x="130" y="196.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop3</text>
+  <text x="297.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop4</text>
+  <text x="130" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop4</text>
+  <text x="342.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop5</text>
+  <text x="130" y="286.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop5</text>
+  <text x="387.5" y="72" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pop6</text>
+  <text x="130" y="331.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Pop6</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Fst Heatmap — Pairwise Differentiation (schematic)</text>
+</svg>

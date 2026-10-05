@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>数据存储符号</title>
+  <ellipse cx="12" cy="5" rx="8" ry="2.5"/>
+  <path d="M4 5 L4 19"/>
+  <path d="M20 5 L20 19"/>
+  <ellipse cx="12" cy="19" rx="8" ry="2.5"/>
+  <path d="M4 10 Q12 12.5 20 10"/>
+  <path d="M4 14.5 Q12 17 20 14.5"/>
+  <ellipse cx="12" cy="5" rx="5" ry="1" stroke-dasharray="1 1"/>
+</svg>

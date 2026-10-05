@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="单电池" data-name-en="battery-single" data-cat="physics-electronics" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31">单电池 / battery_single</title>
+  <desc id="d-31">单节电池长短线符号。关键词: 电池,单节,电源</desc>
+  <g id="g-31-单电池">
+    <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="20" x2="45" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="55" y1="30" x2="55" y2="50" stroke="#1f2937" stroke-width="3" fill="none"/>
+    <line x1="55" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="40" y="30" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
+    <text x="60" y="30" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+  </g>
+</svg>

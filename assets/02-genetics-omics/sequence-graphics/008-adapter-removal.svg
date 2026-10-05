@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-adapter_removal d-adapter_removal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-adapter_removal">Adapter 去除示意 / Adapter Removal</title>
+  <desc id="d-adapter_removal">测序 adapter 序列识别与去除示意。关键词: adapter, trimming, sequencing</desc>
+  <defs>
+    <marker id="pp08__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+    </marker>
+  </defs>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Adapter Removal</text>
+    <text x="60" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Raw read:</text>
+    <rect x="60" y="80" width="80" height="28" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+    <text x="100" y="98" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Adapter</text>
+    <rect x="140" y="80" width="300" height="28" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+    <text x="290" y="98" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Insert DNA</text>
+    <rect x="440" y="80" width="100" height="28" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
+    <text x="490" y="98" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Adapter</text>
+    <line x1="300" y1="120" x2="300" y2="155" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp08__ar)" />
+    <text x="315" y="142" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">trim</text>
+    <text x="60" y="180" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cleaned:</text>
+    <rect x="140" y="190" width="300" height="28" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+    <text x="290" y="208" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Insert DNA (clean)</text>
+    <text x="130" y="208" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">✂</text>
+    <text x="442" y="208" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">✂</text>
+    <g data-pp="muted">
+      <rect x="80" y="260" width="440" height="80" rx="5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" />
+    </g>
+    <text x="100" y="285" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Reads processed: 10,000,000</text>
+    <text x="100" y="305" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Reads with adapter: 2.3%</text>
+    <text x="100" y="325" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Adapter sequence: AGATCGGAAGAGC...</text>
+  </g>
+  <g data-name="annotation">
+    <rect x="140" y="190" width="20" height="28" fill="#00857A" fill-opacity="0.3" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="420" y="190" width="20" height="28" fill="#00857A" fill-opacity="0.3" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <line x1="60" y1="240" x2="540" y2="240" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="60" y="80" width="4" height="28" fill="#C42D2D" fill-opacity="0.3" stroke="none" data-pp="alert"/>
+    <rect x="536" y="80" width="4" height="28" fill="#C42D2D" fill-opacity="0.3" stroke="none" data-pp="alert"/>
+    <circle cx="300" cy="140" r="3" fill="#1B2733" data-pp="ink"/>
+    <line x1="60" y1="190" x2="60" y2="218" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  </g>
+</svg>

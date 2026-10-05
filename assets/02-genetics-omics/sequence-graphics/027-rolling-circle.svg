@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-rolling_circle d-rolling_circle" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-rolling_circle">滚环复制 / Rolling Circle Replication</title>
+<desc id="d-rolling_circle">滚环复制模式：环状模板 + 延伸尾。关键词: rolling circle, concatemer, phage, plasmid</desc>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Rolling Circle Replication</text>
+<circle cx="180" cy="200" r="70" fill="#2E86AB" data-pp="bacteria" stroke="#2E86AB" stroke-width="3" />
+<circle cx="250" cy="200" r="6" fill="#C42D2D" data-pp="alert" />
+<text x="243" y="228" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">nick</text>
+<path d="M250,190 Q300,170 340,190 Q380,210 420,190 Q460,170 500,190 Q540,210 560,200" stroke="#6C3FA0" data-pp="gene" stroke-width="2.5" fill="none" stroke-linecap="round" />
+<text x="512" y="172" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">new strand</text>
+<circle cx="260" cy="185" r="15" fill="#00857A" data-pp="metabolism" stroke="#00857A" stroke-width="1.5" />
+<text x="260" y="189" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pol</text>
+<text x="180" y="205" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">circular</text>
+<text x="180" y="218" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">template</text>
+<text x="300" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Produces concatemers → cut into unit lengths</text></g>  <g data-name="annotation">
+    <circle cx="180" cy="200" r="55" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-dasharray="4 2"/>
+    <line x1="250" y1="200" x2="250" y2="130" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="3 2"/>
+    <circle cx="180" cy="200" r="3" fill="#93A0AC" data-pp="muted"/>
+    <rect x="80" y="300" width="12" height="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="100" y="300" width="12" height="12" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="120" y="300" width="12" height="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="138" y="310" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">template / new strand / Pol</text>
+    <line x1="80" y1="330" x2="520" y2="330" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <circle cx="340" cy="190" r="3" fill="#6C3FA0" data-pp="gene"/>
+    <circle cx="420" cy="190" r="3" fill="#6C3FA0" data-pp="gene"/>
+  </g>
+</svg>

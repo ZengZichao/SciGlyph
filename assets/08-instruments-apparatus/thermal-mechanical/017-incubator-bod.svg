@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>生化培养箱</title>
+  <rect x="3.5" y="2.5" width="17" height="18" rx="1"/>
+  <line x1="3.5" y1="6.5" x2="20.5" y2="6.5" stroke-width="1"/>
+  <line x1="6" y1="4.5" x2="10.5" y2="4.5" stroke-width="0.75"/>
+  <circle cx="17" cy="4.5" r="0.75" stroke-width="0.75"/>
+  <rect x="7" y="9" width="10" height="9" rx="0.5" stroke-width="1"/>
+  <line x1="7" y1="13.5" x2="17" y2="13.5" stroke-width="0.75"/>
+</svg>

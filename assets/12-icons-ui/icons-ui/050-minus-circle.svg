@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="减号圆" data-name-en="minus_circle" data-cat="basic-icons-ui" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-50">减号圆 / minus_circle</title>
+  <desc id="d-50">减少与删除图标。关键词: 减号,减少,minus,remove</desc>
+  <g id="g-50-减号圆">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="14" y1="24" x2="34" y2="24" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

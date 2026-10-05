@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="地球" data-name-en="globe" data-cat="basic-icons-ui" aria-labelledby="t-66 d-66" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-66">地球 / globe</title>
+  <desc id="d-66">全球与网络图标。关键词: 地球,全球,globe,world</desc>
+  <g id="g-66-地球">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <ellipse cx="24" cy="24" rx="8" ry="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8" y1="24" x2="40" y2="24" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 16 Q24 20 38 16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M10 32 Q24 28 38 32" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

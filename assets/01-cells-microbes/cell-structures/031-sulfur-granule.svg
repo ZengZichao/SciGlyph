@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="硫粒" data-name-en="Sulfur granule" data-cat="02-structures" data-tags="硫粒,硫细菌,光合硫细菌,元素硫,折光,光合作用" role="img" aria-labelledby="t-31-sulfur-granule d-31-sulfur-granule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-31-sulfur-granule">硫粒 / Sulfur granule</title>
+  <desc id="d-31-sulfur-granule">硫粒为硫细菌体内或体外富集的折光性硫元素颗粒，是氧化硫化物产硫反应的储存形式，也是光合硫细菌的电子供体。关键词: 硫粒, 硫细菌, 光合硫细菌, 元素硫, 折光, 光合作用</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="22" y="44" width="76" height="32" rx="16" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M28 60C28 54 34 52 40 54C46 56 52 55 56 60C52 65 46 68 40 66C34 64 28 66 28 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="38" cy="60" r="7" fill="#F7FBF9" stroke="#2B3A42" stroke-width="1.4"/>
+<path d="M34 56C36 54 39 54 41 55" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+<circle cx="60" cy="60" r="7" fill="#F7FBF9" stroke="#2B3A42" stroke-width="1.4"/>
+<path d="M56 56C58 54 61 54 63 55" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+<circle cx="82" cy="60" r="7" fill="#F7FBF9" stroke="#2B3A42" stroke-width="1.4"/>
+<path d="M78 56C80 54 83 54 85 55" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+</g>
+</svg>

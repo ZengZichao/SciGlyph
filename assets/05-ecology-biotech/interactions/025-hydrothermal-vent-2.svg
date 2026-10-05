@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-hydrothermal_vent d-hydrothermal_vent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-hydrothermal_vent">热液烟囱 / Hydrothermal Vent</title>
+  <desc id="d-hydrothermal_vent">深海热液烟囱: 化能自养微生物支持极端生态系统。关键词: hydrothermal vent, chemolithoautotroph, extreme, black smoker, tubeworm, archaea</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="35" y="40" width="30" height="35" rx="3" fill="#8C6D3F" fill-opacity="0.5" stroke="#1B2733" stroke-width="1.5" data-pp="host"/>
+    <path d="M40,40 Q45,30 50,25 Q55,20 60,25" fill="none" stroke="#93A0AC" stroke-width="2" stroke-linecap="round" data-pp="muted"/>
+    <path d="M45,40 Q48,32 50,28" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <circle cx="45" cy="50" r="3" fill="#A2305B" data-pp="archaea"/>
+    <circle cx="55" cy="55" r="3" fill="#A2305B" data-pp="archaea"/>
+    <circle cx="50" cy="62" r="3" fill="#A2305B" data-pp="archaea"/>
+    <rect x="20" y="70" width="60" height="8" rx="2" fill="#8C6D3F" fill-opacity="0.3" data-pp="host"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">热液</text>
+  </g>
+</svg>

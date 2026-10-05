@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="表面皿" data-name-en="watch_glass" data-cat="lab-equipment" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-25">表面皿 / watch_glass</title>
+  <desc id="d-25">覆盖烧杯和少量观察。关键词: 表面皿,watch_glass,覆盖,观察</desc>
+  <g id="g-25-表面皿">
+    <path d="M 10 45 Q 60 20 110 45" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M 10 45 Q 60 55 110 45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M 20 44 Q 60 35 100 44 Q 60 50 20 44 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+  </g>
+</svg>

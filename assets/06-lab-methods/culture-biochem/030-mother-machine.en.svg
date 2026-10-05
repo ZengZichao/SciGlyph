@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-mother_machine d-mother_machine" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-mother_machine">Mother Machine</title>
+  <desc id="d-mother_machine">Mother machine微流控芯片: 单细胞长期追踪, 研究细胞衰老与分裂。关键词: mother machine, microfluidics, single cell, time lapse, lineage</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="15" y="30" width="70" height="10" rx="2" fill="#00857A" fill-opacity="0.2" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <rect x="22" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="32" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="42" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="52" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="62" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="72" y="40" width="4" height="30" rx="1" fill="#00857A" fill-opacity="0.15" stroke="#93A0AC" stroke-width="0.5" data-pp="metabolism"/>
+    <circle cx="24" cy="65" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="34" cy="63" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="44" cy="66" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="54" cy="64" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="64" cy="65" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="74" cy="63" r="2" fill="#2E86AB" data-pp="bacteria"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Microfluidics</text>
+  </g>
+</svg>

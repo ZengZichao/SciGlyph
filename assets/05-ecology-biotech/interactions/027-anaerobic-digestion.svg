@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-anaerobic_digestion d-anaerobic_digestion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-anaerobic_digestion">厌氧消化 / Anaerobic Digestion</title>
+  <desc id="d-anaerobic_digestion">厌氧消化四阶段: 水解→酸化→产乙酸→产甲烷。关键词: anaerobic digestion, hydrolysis, acidogenesis, acetogenesis, methanogenesis, biogas</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="10" y="30" width="18" height="35" rx="3" fill="#2E86AB" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <rect x="30" y="30" width="18" height="35" rx="3" fill="#00857A" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <rect x="52" y="30" width="18" height="35" rx="3" fill="#E8871E" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
+    <rect x="72" y="30" width="18" height="35" rx="3" fill="#A2305B" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
+    <path d="M28,47 L30,47" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M48,47 L52,47" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M70,47 L72,47" fill="none" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <text x="19" y="50" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">1</text>
+    <text x="39" y="50" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">2</text>
+    <text x="61" y="50" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">3</text>
+    <text x="81" y="50" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">4</text>
+    <text x="19" y="72" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">水解</text>
+    <text x="39" y="72" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">酸化</text>
+    <text x="61" y="72" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">乙酸</text>
+    <text x="81" y="72" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">甲烷</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">厌氧消化</text>
+  </g>
+</svg>

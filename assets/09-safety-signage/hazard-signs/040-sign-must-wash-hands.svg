@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-must-wash-hands" data-cat="hz" data-spec="128"
+     data-tags="mandatory,wash,hands,hygiene,必须,洗手" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">必须洗手标志 / Must Wash Hands</title>
+  <desc id="d">指令标志：蓝底白色洗手图。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#2B7DE9" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
+    <path d="M48 80 L48 54 C48 50 50 48 52 48 C54 48 56 50 56 54 L56 46 C56 42 58 40 60 40 C62 40 64 42 64 46 L64 44 C64 40 66 38 68 38 C70 38 72 40 72 44 L72 50 C72 46 74 44 76 44 C78 44 80 46 80 50 L80 68 C80 78 72 84 64 84 L52 84 C50 84 48 82 48 80Z" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" data-ls="fill"/>
+    <path d="M40 40 Q44 34 48 40 M52 36 Q56 30 60 36 M64 34 Q68 28 72 34" fill="none" stroke="#BFE0FF" stroke-linecap="round" stroke-width="2" data-ls="liquid"/></g>
+  <g id="detail"></g>
+</svg>

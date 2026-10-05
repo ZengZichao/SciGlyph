@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-fish_probe d-fish_probe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fish_probe">FISH探针 / Fluorescence In Situ Hybridization</title>
+  <desc id="d-fish_probe">FISH荧光原位杂交: 荧光标记探针与细胞内靶序列杂交, 原位鉴定微生物。关键词: FISH, fluorescence, probe, rRNA, in situ, phylogenetic</desc>
+  <g id="layer-body" data-name="body">
+    <ellipse cx="50" cy="45" rx="22" ry="16" fill="#2E86AB" fill-opacity="0.3" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+    <ellipse cx="50" cy="45" rx="15" ry="10" fill="#2E86AB" fill-opacity="0.2" data-pp="bacteria"/>
+    <circle cx="45" cy="42" r="3" fill="#C42D2D" fill-opacity="0.8" data-pp="alert"/>
+    <circle cx="55" cy="47" r="3" fill="#C42D2D" fill-opacity="0.8" data-pp="alert"/>
+    <circle cx="50" cy="40" r="2" fill="#C42D2D" fill-opacity="0.8" data-pp="alert"/>
+    <path d="M30,30 Q25,25 20,28" fill="none" stroke="#6C3FA0" stroke-width="1" stroke-linecap="round" data-pp="gene"/>
+    <path d="M70,30 Q75,25 80,28" fill="none" stroke="#6C3FA0" stroke-width="1" stroke-linecap="round" data-pp="gene"/>
+    <text x="20" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">probe</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">FISH</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-filter-paper-fold-method" data-cat="sp" data-spec="128"
+     data-tags="filter,paper,fold,method,technique" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">滤纸折叠方法 / Filter Paper Fold Method</title>
+  <desc id="d">扇形折叠滤纸剖面，展示折叠技术</desc>
+  <g id="body"><path d="M30 40 L60 20 L98 40 L98 100 L30 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M38 44 L38 96 M46 40 L46 96 M54 36 L54 96 M62 32 L62 96 M70 36 L70 96 M78 40 L78 96 M86 44 L86 96 M94 48 L94 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <g id="detail"><path d="M30 40 L60 20 L98 40 L98 44 L60 24 L30 44 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <path d="M34 50 L94 50 M34 60 L94 60 M34 70 L94 70 M34 80 L94 80 M34 90 L94 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

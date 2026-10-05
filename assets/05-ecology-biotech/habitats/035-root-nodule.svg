@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-root_nodule d-root_nodule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-root_nodule">根瘤 / Root nodule</title>
+  <desc id="d-root_nodule">Legume root nodule with Y-shaped Rhizobium bacteroids inside 关键词: root, nodule, Rhizobium, bacteroid</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M10,45 L55,45 Q58,45 60,42" fill="#00857A" stroke="#1B2733" stroke-width="3" stroke-linecap="round" data-pp="metabolism"/>
+    <path d="M10,55 L55,55 Q58,55 60,58" fill="#00857A" stroke="#1B2733" stroke-width="3" stroke-linecap="round" data-pp="metabolism"/>
+    <circle cx="70" cy="50" r="18" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" data-pp="host" fill-opacity="0.5"/>
+    <circle cx="70" cy="50" r="14" fill="#8C6D3F" stroke="#1B2733" stroke-width="0.8" data-pp="host" fill-opacity="0.3"/>
+    <path d="M63,45 L63,40 M63,45 L60,48 M63,45 L66,48" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M73,42 L73,37 M73,42 L70,45 M73,42 L76,45" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M68,55 L68,50 M68,55 L65,58 M68,55 L71,58" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <path d="M78,52 L78,47 M78,52 L75,55 M78,52 L81,55" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
+    <line x1="15" y1="45" x2="10" y2="38" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="30" y1="45" x2="25" y2="38" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+    <line x1="15" y1="55" x2="10" y2="62" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">根瘤</text>
+  </g>
+</svg>

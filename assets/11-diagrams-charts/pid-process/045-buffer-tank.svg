@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-buffer-tank" data-cat="uo" data-spec="128"
+     data-tags="buffer,tank,surge,volume,intermediate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">缓冲罐 / Buffer Tank</title>
+  <desc id="d">缓冲罐，用于流量缓冲和暂存。</desc>
+  <g id="body">
+    <path d="M34,18 L34,94 Q34,110 64,110 Q94,110 94,94 L94,18 Q94,10 64,10 Q34,10 34,18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M36,66 L92,66 L92,94 Q92,108 64,108 Q36,108 36,94 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <line x1="36" y1="66" x2="92" y2="66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="18" y1="40" x2="34" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="26,40 32,36 32,44" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="94" y1="80" x2="110" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="104,80 98,76 98,84" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

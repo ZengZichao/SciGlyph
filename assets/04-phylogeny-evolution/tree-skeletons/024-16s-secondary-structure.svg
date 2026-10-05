@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="16S rRNA 二级结构片段" data-name-en="16S secondary structure" data-cat="04-phylo" data-tags="16S rRNA,二级结构,茎环,发夹,保守区" aria-labelledby="t-24-16s-secondary-structure d-24-16s-secondary-structure" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24-16s-secondary-structure">16S rRNA 二级结构片段 / 16S secondary structure</title>
+  <desc id="d-24-16s-secondary-structure">16S rRNA 二级结构的茎-环片段：竖线为茎、横线为碱基配对，顶部弧为环，红色虚线框标出用于扩增/比对的保守区段。关键词: 16S rRNA, 二级结构, 茎环, 发夹, 保守区</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <path d="M 12 92 H 108" stroke="#2B3A42" stroke-width="2" fill="none"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 26 92 V 46"/>
+      <path d="M 36 92 V 46"/>
+      <path d="M 26 46 A 5 5 0 0 1 36 46"/>
+      <path d="M 54 92 V 58"/>
+      <path d="M 64 92 V 58"/>
+      <path d="M 54 58 A 5 5 0 0 1 64 58"/>
+      <path d="M 82 92 V 42"/>
+      <path d="M 92 92 V 42"/>
+      <path d="M 82 42 A 5 5 0 0 1 92 42"/>
+    </g>
+    <g stroke="#7A8B93" stroke-width="1.2">
+      <path d="M 26 52 H 36"/>
+      <path d="M 26 62 H 36"/>
+      <path d="M 26 72 H 36"/>
+      <path d="M 26 82 H 36"/>
+      <path d="M 54 64 H 64"/>
+      <path d="M 54 74 H 64"/>
+      <path d="M 54 84 H 64"/>
+      <path d="M 82 50 H 92"/>
+      <path d="M 82 62 H 92"/>
+      <path d="M 82 74 H 92"/>
+      <path d="M 82 84 H 92"/>
+    </g>
+    <rect x="20" y="38" width="24" height="60" rx="3" fill="none" stroke="#C0504D" stroke-width="1.6" stroke-dasharray="3 2"/>
+    <circle cx="12" cy="92" r="3" fill="#5B4B8A"/>
+    <circle cx="108" cy="92" r="3" fill="#5B4B8A"/>
+  </g>
+</svg>

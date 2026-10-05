@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-pareto-bars-line" data-cat="ch" data-spec="128"
+     data-tags="chart,pareto,bars,line,cumulative,80-20,quality" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">帕累托图 / Chart Pareto Bars Line</title>
+  <desc id="d">帕累托柱状图加累积线。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="28" y="40" width="16" height="68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="50" y="60" width="16" height="48" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="72" y="75" width="16" height="33" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="94" y="88" width="16" height="20" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polyline points="36,40 58,60 80,75 102,88" fill="none" stroke="#E02020" stroke-width="2" data-ls="danger" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="36" cy="40" r="3" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="58" cy="60" r="3" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="80" cy="75" r="3" fill="#E02020" stroke="none" data-ls="danger"/>
+    <circle cx="102" cy="88" r="3" fill="#E02020" stroke="none" data-ls="danger"/>
+    <line x1="20" y1="52" x2="116" y2="52" fill="none" stroke="#E02020" stroke-dasharray="4,3" data-ls="danger" stroke-linecap="round"/>
+  </g>
+</svg>

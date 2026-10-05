@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-filter-crucible-glass" data-cat="sp" data-spec="128"
+     data-tags="filter,crucible,glass,sintered" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">玻璃砂芯滤埚 / Glass Filter Crucible</title>
+  <desc id="d">玻璃砂芯滤埚，带烧结玻璃底板</desc>
+  <g id="body"><path d="M40 30 L88 30 L88 90 Q88 100 78 104 L68 108 L68 116 L60 116 L60 108 L50 104 Q40 100 40 90 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 80 L84 80 L84 90 Q84 96 76 98 L60 98 Q52 96 44 90 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M46 84 L82 84 M46 88 L82 88 M46 92 L82 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M42 40 L86 40 M42 50 L86 50 M42 60 L86 60 M42 70 L86 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

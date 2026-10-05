@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-water-treatment-coag-floc" data-cat="uo" data-spec="128"
+     data-tags="coagulation,flocculation,baffled,water-treatment,mixing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">混凝絮凝池 / Coagulation Flocculation Tank</title>
+  <desc id="d">混凝絮凝折流池，多格折流。</desc>
+  <g id="body">
+    <rect x="12" y="28" width="104" height="64" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="36" y1="28" x2="36" y2="72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="60" y1="48" x2="60" y2="92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="84" y1="28" x2="84" y2="72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M14,60 L114,60 L114,90 L14,90 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid"/>
+    <line x1="8" y1="44" x2="12" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="10,44 16,40 16,48" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="116" y1="76" x2="122" y2="76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="118,76 112,72 112,80" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

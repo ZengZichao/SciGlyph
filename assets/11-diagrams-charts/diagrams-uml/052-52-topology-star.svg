@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="星型拓扑" data-name-en="Topology Star" data-cat="diagrams-sw-uml" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">星型拓扑 / topology_star</title>
+  <desc id="d-52">星型网络拓扑。关键词: star,topology,network,hub</desc>
+  <g id="g-52-星型拓扑">
+    <circle cx="160" cy="120" r="18" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="160" y="124" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">Hub</text>
+    <circle cx="60" cy="50" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="260" cy="50" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="60" cy="190" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="260" cy="190" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="160" cy="30" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="160" y1="102" x2="160" y2="44" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="145" y1="108" x2="72" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="175" y1="108" x2="248" y2="60" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="145" y1="132" x2="72" y2="180" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="175" y1="132" x2="248" y2="180" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-sex_pilus_f d-sex_pilus_f" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sex_pilus_f">性菌毛F质粒接合 / F Pilus Conjugation</title>
+  <desc id="d-sex_pilus_f">Donor F+ cell extends F pilus to recipient F- cell for DNA transfer. 关键词: F pilus, conjugation, donor, recipient, F+, F-, DNA transfer</desc>
+  <g id="layer-body" data-name="body">
+
+    <circle cx="22" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="22" cy="50" r="5" fill="none" stroke="#E8871E" stroke-width="1.5" data-pp="mge"/>
+    <line x1="36" y1="50" x2="64" y2="50" stroke="#1B2733" stroke-width="2" data-pp="ink" stroke-linecap="round"/>
+    <line x1="40" y1="44" x2="60" y2="44" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+    <path d="M58,41 L63,44 L58,47" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+
+    <circle cx="78" cy="50" r="14" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="12" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">F+ donor</text>
+    <text x="65" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">F- recv</text>
+    <text x="42" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">DNA</text>
+
+  </g>
+</svg>

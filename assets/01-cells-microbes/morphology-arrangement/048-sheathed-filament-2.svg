@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-sheathed_filament d-sheathed_filament" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sheathed_filament">鞘丝状菌 / Sheathed filament</title>
+  <desc id="d-sheathed_filament">丝状体外有鞘包裹。关键词: sheathed, Leptothrix, Sphaerotilus</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <rect x="10" y="38" width="80" height="24" rx="12" fill="#F4F1EA" stroke="#93A0AC" stroke-width="1.5" data-pp="bg"/><rect x="14" y="44" width="72" height="12" rx="6" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+  <line x1="28" y1="45" x2="28" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1.0" stroke-linecap="round"/><line x1="44" y1="45" x2="44" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1.0" stroke-linecap="round"/><line x1="60" y1="45" x2="60" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1.0" stroke-linecap="round"/><line x1="10" y1="34" x2="90" y2="34" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-dasharray="3,2"/><path d="M18,50 Q23,46 27,50" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/><circle cx="36" cy="50" r="1.2" fill="#6C3FA0" data-pp="gene"/><circle cx="68" cy="50" r="1.2" fill="#6C3FA0" data-pp="gene"/></g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="85" y1="38" x2="92" y2="20" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="65" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sheath</text><line x1="80" y1="52" x2="90" y2="65" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="72" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cell</text>
+  </g>
+</svg>

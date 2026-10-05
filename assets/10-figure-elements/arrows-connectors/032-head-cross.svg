@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="十字端头" data-name-en="head cross" data-cat="arrows-connectors" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-32">十字端头 / head_cross</title>
+  <desc id="d-32">十字形线端头。关键词: head,cross,plus,marker</desc>
+  <g id="g-32-十字端头">
+    <line x1="10" y1="24" x2="74" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <rect x="78" y="14" width="4" height="20" fill="#1f2937"/>
+    <rect x="72" y="22" width="16" height="4" fill="#1f2937"/>
+  </g>
+</svg>

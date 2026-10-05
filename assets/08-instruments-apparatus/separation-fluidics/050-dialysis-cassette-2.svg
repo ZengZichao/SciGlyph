@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-dialysis-cassette" data-cat="sp" data-spec="128"
+     data-tags="dialysis,cassette,miniature,separation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">透析小盒 / Dialysis Cassette</title>
+  <desc id="d">小型透析盒装置</desc>
+  <g id="body"><rect x="28" y="28" width="72" height="72" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="32" y="32" width="64" height="64" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M36 36 L92 36 L92 92 L36 92 Z" fill="#2B7DE9" opacity="0.2" stroke="none" data-ls="accent"/>
+    <circle cx="48" cy="52" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="64" cy="60" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="80" cy="56" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="52" cy="76" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="72" cy="80" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M36 48 L92 48 M36 64 L92 64 M36 80 L92 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

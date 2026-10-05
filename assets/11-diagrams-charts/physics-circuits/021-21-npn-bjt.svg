@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="NPN三极管" data-name-en="npn-bjt" data-cat="physics-electronics" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">NPN三极管 / npn_bjt</title>
+  <desc id="d-21">NPN型双极结型晶体管符号。关键词: NPN,三极管,BJT</desc>
+  <g id="g-21-NPN三极管">
+    <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="20" x2="45" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="25" x2="70" y2="15" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="15" x2="70" y2="10" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="45" y1="55" x2="70" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="70" y1="65" x2="70" y2="70" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <path d="M 65 60 L 70 65 L 63 67" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
+    <circle cx="55" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

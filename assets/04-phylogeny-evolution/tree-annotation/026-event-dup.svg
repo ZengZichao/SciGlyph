@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-26">演化事件旗标: 倍增 / Evolutionary Event: dup</title>
+<desc id="d-26">节点分叉为两个平行拷贝色块, 后续各自丢失 关键词: duplication, gene, paralog, event</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="50.0" y1="200.0" x2="120.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<circle cx="120.0" cy="200.0" r="6.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="1.5"/>
+<text x="120.0" y="225.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Dup</text>
+<line x1="120.0" y1="200.0" x2="120.0" y2="140.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="120.0" y1="200.0" x2="120.0" y2="260.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="120.0" y1="140.0" x2="250.0" y2="140.0" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-linecap="round"/>
+<line x1="120.0" y1="260.0" x2="250.0" y2="260.0" stroke="#E8871E" stroke-width="2" data-pp="mge" stroke-linecap="round"/>
+<rect x="160.0" y="132.0" width="35.0" height="16.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="1"/>
+<text x="177.0" y="126.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Copy A</text>
+<rect x="160.0" y="252.0" width="35.0" height="16.0" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#E8871E" stroke-width="1"/>
+<text x="177.0" y="246.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">Copy B</text>
+<line x1="250.0" y1="140.0" x2="340.0" y2="140.0" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/>
+<circle cx="340.0" cy="140.0" r="4.0" fill="#6C3FA0" data-pp="gene"/>
+<line x1="250.0" y1="260.0" x2="300.0" y2="260.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-dasharray="5,4" stroke-linecap="round"/>
+<line x1="290.0" y1="250.0" x2="310.0" y2="270.0" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<line x1="290.0" y1="270.0" x2="310.0" y2="250.0" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<text x="320.0" y="264.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Lost</text>
+<text x="50.0" y="50.0" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Gene Duplication</text>
+<circle cx="50.0" cy="340.0" r="5.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="1.5"/>
+<text x="62.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Dup node</text>
+<rect x="140.0" y="334.0" width="20.0" height="12.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.7" stroke="#6C3FA0" stroke-width="1"/>
+<text x="168.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Paralog</text>
+<line x1="240.0" y1="340.0" x2="260.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-dasharray="5,4" stroke-linecap="round"/>
+<text x="268.0" y="344.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Loss</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Dup + differential loss</text>
+</g>
+</svg>

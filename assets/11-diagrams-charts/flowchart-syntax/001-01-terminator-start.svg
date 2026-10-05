@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="圆角起止" data-name-en="terminator-start" data-cat="flowchart-logic" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01">圆角起止 / terminator_start</title>
+  <desc id="d-01">流程图起止端子。关键词: flowchart,terminator,start</desc>
+  <g id="g-01-圆角起止">
+    <rect x="10" y="20" width="100" height="40" rx="20" ry="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="60" y="45" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">START</text>
+  </g>
+</svg>

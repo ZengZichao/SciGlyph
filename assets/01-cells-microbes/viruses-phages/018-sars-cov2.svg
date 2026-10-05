@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-sars_cov2 d-sars_cov2" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-sars_cov2">SARS-CoV-2(冠刺突) / SARS-CoV-2 coronavirus spike</title>
+  <desc id="d-sars_cov2">SARS-CoV-2(Coronaviridae科)。脂质包膜含S刺突三聚体(冠形)、M蛋白、E蛋白。内部螺旋核衣壳(N蛋白+ssRNA(+)约30kb)。关键词: SARS-CoV-2, coronavirus, spike trimer, M, E, nucleocapsid</desc>
+  <g id="layer-body-sars_cov2" data-name="body">
+    <!-- Envelope -->
+    <circle cx="50" cy="50" r="30" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="2"/>
+    <!-- Spike trimers (crown-like) -->
+    <line x1="80.0" y1="50.0" x2="88.0" y2="50.0" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="88.0" cy="50.0" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="74.3" y1="67.6" x2="80.7" y2="72.3" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="80.7" cy="72.3" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="59.3" y1="78.5" x2="61.7" y2="86.1" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="61.7" cy="86.1" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="40.7" y1="78.5" x2="38.3" y2="86.1" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="38.3" cy="86.1" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="25.7" y1="67.6" x2="19.3" y2="72.3" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="19.3" cy="72.3" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="20.0" y1="50.0" x2="12.0" y2="50.0" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="12.0" cy="50.0" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="25.7" y1="32.4" x2="19.3" y2="27.7" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="19.3" cy="27.7" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="40.7" y1="21.5" x2="38.3" y2="13.9" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="38.3" cy="13.9" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="59.3" y1="21.5" x2="61.7" y2="13.9" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="61.7" cy="13.9" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="74.3" y1="32.4" x2="80.7" y2="27.7" stroke="#5B8C3E" data-pp="virus" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="80.7" cy="27.7" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- M protein (small) -->
+    <circle cx="30" cy="72" r="1.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="70" cy="72" r="1.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- E protein -->
+    <circle cx="50" cy="80" r="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- N protein (helical nucleocapsid) -->
+    <path d="M38,42 Q42,38 46,42 Q50,46 54,42 Q58,38 62,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+    <path d="M38,50 Q42,46 46,50 Q50,54 54,50 Q58,46 62,50" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+    <path d="M38,58 Q42,54 46,58 Q50,62 54,58 Q58,54 62,58" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+  </g>
+  <g id="layer-annotation-sars_cov2" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S+M+E+N</text>
+  </g>
+</svg>

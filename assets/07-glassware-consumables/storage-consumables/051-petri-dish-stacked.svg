@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-petri-dish-stacked" data-cat="st" data-spec="128"
+     data-tags="petri dish,stacked,culture,multiple,stack" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">叠放培养皿 / Stacked Petri Dishes</title>
+  <desc id="d">多个叠放的培养皿，用于批量培养。</desc>
+  <g id="body"><path d="M16 86 Q16 100 64 100 Q112 100 112 86 L112 80 Q112 74 106 74 L22 74 Q16 74 16 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M16 72 Q16 86 64 86 Q112 86 112 72 L112 66 Q112 60 106 60 L22 60 Q16 60 16 66 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M16 58 Q16 72 64 72 Q112 72 112 58 L112 52 Q112 46 106 46 L22 46 Q16 46 16 52 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M20 84 Q20 96 64 96 Q108 96 108 84 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><ellipse cx="64" cy="46" rx="46" ry="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

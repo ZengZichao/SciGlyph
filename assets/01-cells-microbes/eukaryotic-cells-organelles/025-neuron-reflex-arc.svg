@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="反射弧" data-name-en="Neuron Reflex Arc" data-cat="natural-sciences" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-59">反射弧 / neuron_reflex_arc</title>
+  <desc id="d-59">展示反射弧路径。关键词: reflex arc,sensory,motor</desc>
+  <g id="g-59-反射弧">
+    <rect x="30" y="140" width="60" height="80" rx="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M90,180 L160,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <polygon points="155,175 165,180 155,185" fill="#0072B2" data-drole="series-1"/>
+    <circle cx="200" cy="180" r="30" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M230,180 L300,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <polygon points="295,175 305,180 295,185" fill="#0072B2" data-drole="series-1"/>
+    <rect x="300" y="140" width="60" height="80" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <path d="M360,180 L420,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <polygon points="415,175 425,180 415,185" fill="#0072B2" data-drole="series-1"/>
+    <rect x="420" y="150" width="40" height="60" rx="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <path d="M60,140 L60,100 L200,100 L200,150" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+  </g>
+</svg>

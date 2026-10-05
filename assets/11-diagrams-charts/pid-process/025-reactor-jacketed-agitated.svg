@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>夹套搅拌反应釜</title>
+  <path d="M7 5L7 17Q7 20 12 20Q17 20 17 17L17 5"/>
+  <line x1="7" y1="5" x2="17" y2="5"/>
+  <path d="M5 6L5 16Q5 21 12 21Q19 21 19 16L19 6" stroke-dasharray="3 2" stroke-width="1"/>
+  <rect x="10" y="2" width="4" height="3" rx="0.5"/>
+  <line x1="12" y1="5" x2="12" y2="16"/>
+  <path d="M9 13L12 11L15 13"/>
+  <path d="M9 15L12 13L15 15"/>
+  <circle cx="19" cy="10" r="1"/>
+  <line x1="20" y1="10" x2="22" y2="10"/>
+  <path d="M10 20L10 22L14 22L14 20"/>
+  <line x1="12" y1="22" x2="12" y2="22.5"/>
+  <line x1="5" y1="6" x2="3.5" y2="6"/>
+  <line x1="5" y1="14" x2="3.5" y2="14"/>
+</svg>

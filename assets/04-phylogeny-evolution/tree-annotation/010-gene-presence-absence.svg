@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-10 d-10" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-10">基因家族存在/缺失矩阵 / Gene Family Presence-Absence Matrix</title>
+  <desc id="d-10">装饰零件，贴到树上用。基因家族存在/缺失黑白色块矩阵。 关键词: tree decoration, gene presence absence, Family, Presence-Absence, Matrix, Present, Absent</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="gene-presence-matrix">
+    <rect x="120" y="80" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="80" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="180" y="80" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="80" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="240" y="80" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="270" y="80" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="300" y="80" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="80" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="120" y="105" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="105" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="180" y="105" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="105" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="240" y="105" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="270" y="105" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="300" y="105" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="105" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="150" y="130" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="180" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="240" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="270" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="300" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="130" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="120" y="155" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="155" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="180" y="155" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="155" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="240" y="155" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="270" y="155" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="300" y="155" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="155" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="120" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="180" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="210" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="240" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="270" y="180" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="300" y="180" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="180" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="205" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="150" y="205" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="180" y="205" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="205" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="240" y="205" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="270" y="205" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="300" y="205" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="330" y="205" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="230" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="150" y="230" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="180" y="230" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="210" y="230" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="240" y="230" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="270" y="230" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="300" y="230" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="330" y="230" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="255" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="255" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="180" y="255" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="255" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="240" y="255" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="270" y="255" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="300" y="255" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="255" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="280" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="280" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="180" y="280" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="280" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="240" y="280" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="270" y="280" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="300" y="280" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="330" y="280" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="120" y="305" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="150" y="305" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="180" y="305" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="210" y="305" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="240" y="305" width="30" height="25" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <rect x="270" y="305" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="300" y="305" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <rect x="330" y="305" width="30" height="25" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+  </g>
+  <g data-name="labels">
+    <text x="100" y="95.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G1</text>
+    <text x="100" y="120.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G2</text>
+    <text x="100" y="145.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G3</text>
+    <text x="100" y="170.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G4</text>
+    <text x="100" y="195.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G5</text>
+    <text x="100" y="220.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G6</text>
+    <text x="100" y="245.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G7</text>
+    <text x="100" y="270.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G8</text>
+    <text x="100" y="295.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G9</text>
+    <text x="100" y="320.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">G10</text>
+    <text x="135.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F1</text>
+    <text x="165.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F2</text>
+    <text x="195.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F3</text>
+    <text x="225.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F4</text>
+    <text x="255.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F5</text>
+    <text x="285.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F6</text>
+    <text x="315.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F7</text>
+    <text x="345.0" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">F8</text>
+  </g>
+  <g data-name="legend">
+    <rect x="120" y="350" width="15" height="15" fill="#1B2733" stroke="#1B2733" stroke-width="0.5" data-pp="ink"/>
+    <text x="140" y="362" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Present</text>
+    <rect x="220" y="350" width="15" height="15" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.5" data-pp="white"/>
+    <text x="240" y="362" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Absent</text>
+  </g>
+</svg>

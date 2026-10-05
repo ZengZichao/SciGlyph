@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-fish d-fish" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fish">FISH荧光原位杂交 / FISH fluorescence in situ hybridization</title>
+  <desc id="d-fish">FISH荧光原位杂交：荧光标记寡核苷酸探针与细胞内rRNA互补杂交→荧光显微镜下鉴定微生物种类。CARD-FISH用酪胺信号放大。关键词: FISH, fluorescence in situ hybridization, rRNA probe, CARD-FISH, identification</desc>
+  <g id="layer-body-fish" data-name="body">
+    
+    <rect x="20" y="25" width="40" height="25" rx="10" ry="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" />
+    
+    <path d="M28,35 Q35,30 42,35 Q49,40 52,35" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" />
+    
+    <circle cx="35" cy="35" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="42" cy="37" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <circle cx="38" cy="40" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    
+    <path d="M65,25 L65,45" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" />
+    <path d="M68,28 L72,32" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" />
+    <text x="76" y="29.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">probe</text>
+    <text x="76" y="37.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">rRNA</text>
+    <text x="73.46" y="44.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">target</text>
+  </g>
+  <g id="layer-annotation-fish" data-name="annotation">
+    <text x="40" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">FISH</text>
+    <text x="40" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">fluorescent probe</text>
+    <text x="40" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ rRNA target</text>
+  </g>
+</svg>

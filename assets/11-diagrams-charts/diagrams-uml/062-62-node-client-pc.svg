@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="台式客户端" data-name-en="Node Client PC" data-cat="diagrams-sw-uml" aria-labelledby="t-62 d-62" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-62">台式客户端 / node_client_pc</title>
+  <desc id="d-62">台式电脑客户端图标。关键词: client,pc,desktop</desc>
+  <g id="g-62-台式客户端">
+    <rect x="25" y="15" width="70" height="45" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="30" y="20" width="60" height="30" fill="#0072B2" data-drole="series-1"/>
+    <rect x="45" y="60" width="30" height="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="35" y="68" width="50" height="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+  </g>
+</svg>

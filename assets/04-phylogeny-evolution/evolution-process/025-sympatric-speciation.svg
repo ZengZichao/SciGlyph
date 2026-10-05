@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-sympatric_speciation d-sympatric_speciation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-sympatric_speciation">同域成种 / Sympatric Speciation</title>
+<desc id="d-sympatric_speciation">无地理隔离,通过宿主转移或生态位分裂在同域形成新种 关键词: sympatric, speciation, host shift, disruptive, niche</desc>
+<defs>
+<marker id="pp25__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink"/>
+</marker>
+</defs>
+<g data-name="body">
+<rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+<text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Sympatric Speciation</text>
+<rect x="40" y="45" width="280" height="180" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="5"/>
+<text x="180" y="60" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">同一地理区域</text>
+<circle cx="100" cy="120" r="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<text x="100" y="125" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">祖先</text>
+<text x="100" y="165" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">宿主资源</text>
+<rect x="60" y="175" width="35" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="77" y="189" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">宿主A</text>
+<rect x="105" y="175" width="35" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="122" y="189" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">宿主B</text>
+<rect x="150" y="175" width="35" height="20" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1" rx="3"/>
+<text x="167" y="189" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">宿主C</text>
+<line x1="130" y1="120" x2="190" y2="120" stroke="#E8871E" data-pp="mge" stroke-width="2" marker-end="url(#pp25__ar)"/>
+<text x="160" y="110" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">宿主转移</text>
+<circle cx="230" cy="100" r="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<text x="230" y="105" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">A型</text>
+<circle cx="270" cy="140" r="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" fill-opacity="0.3"/>
+<text x="270" y="145" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">B型</text>
+<text x="350" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">生态位利用</text>
+<text x="370" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">前</text>
+<path d="M400.0,127.0 L403.8,126.1 L407.5,124.9 L411.2,123.4 L415.0,121.6 L418.8,119.5 L422.5,117.2 L426.2,114.5 L430.0,111.5 L433.8,108.3 L437.5,105.0 L441.2,101.6 L445.0,98.2 L448.8,95.0 L452.5,92.0 L456.2,89.5 L460.0,87.4 L463.8,86.0 L467.5,85.2 L471.2,85.0 L475.0,85.6 L478.8,86.9 L482.5,88.7 L486.2,91.1 L490.0,94.0 L493.8,97.1 L497.5,100.4 L501.2,103.8 L505.0,107.2 L508.8,110.5 L512.5,113.5 L516.2,116.3 L520.0,118.8 L523.8,121.0 L527.5,122.8 L531.2,124.4 L535.0,125.7 L538.8,126.7 L542.5,127.6 L546.2,128.2 L550.0,128.7" fill="none" data-pp="muted" stroke="#93A0AC" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="4,3"/>
+<line x1="400" y1="130" x2="550" y2="130" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-linecap="round"/>
+<text x="370" y="160" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">后</text>
+<path d="M400.0,224.6 L402.2,223.3 L404.5,221.7 L406.8,220.0 L409.0,218.0 L411.2,215.8 L413.5,213.4 L415.8,210.8 L418.0,208.2 L420.2,205.4 L422.5,202.7 L424.8,200.1 L427.0,197.6 L429.2,195.4 L431.5,193.5 L433.8,191.9 L436.0,190.8 L438.2,190.2 L440.5,190.0 L442.8,190.4 L445.0,191.2 L447.2,192.5 L449.5,194.3 L451.8,196.3 L454.0,198.7 L456.2,201.2 L458.5,203.9 L460.8,206.6 L463.0,209.4 L465.2,212.0 L467.5,214.5 L469.8,216.8 L472.0,218.9 L474.2,220.8 L476.5,222.4 L478.8,223.9 L481.0,225.1 L483.2,226.1 L485.5,227.0 L487.8,227.7 L490.0,228.2" fill="none" data-pp="bacteria" stroke="#2E86AB" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<path d="M460.0,228.2 L462.2,227.7 L464.5,227.0 L466.8,226.1 L469.0,225.1 L471.2,223.9 L473.5,222.4 L475.8,220.8 L478.0,218.9 L480.2,216.8 L482.5,214.5 L484.8,212.0 L487.0,209.4 L489.2,206.6 L491.5,203.9 L493.8,201.2 L496.0,198.7 L498.2,196.3 L500.5,194.3 L502.8,192.5 L505.0,191.2 L507.2,190.4 L509.5,190.0 L511.8,190.2 L514.0,190.8 L516.2,191.9 L518.5,193.5 L520.8,195.4 L523.0,197.6 L525.2,200.1 L527.5,202.7 L529.8,205.4 L532.0,208.2 L534.2,210.8 L536.5,213.4 L538.8,215.8 L541.0,218.0 L543.2,220.0 L545.5,221.7 L547.8,223.3 L550.0,224.6" fill="none" data-pp="archaea" stroke="#A2305B" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<line x1="400" y1="230" x2="550" y2="230" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-linecap="round"/>
+<text x="350" y="260" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">宿主利用谱</text>
+<rect x="370" y="275" width="80" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" rx="0.5"/>
+<text x="410" y="289" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">A型偏好A</text>
+<rect x="460" y="275" width="80" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" rx="0.5"/>
+<text x="500" y="289" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">B型偏好B</text>
+<rect x="40" y="245" width="280" height="65" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="180" y="262" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">机制</text>
+<text x="60" y="280" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">宿主转移 · 多倍化 · 性选择</text>
+<text x="60" y="296" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">生态位分裂 · 时间隔离</text>
+<rect x="40" y="325" width="520" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="345" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">实例</text>
+<text x="300" y="363" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">苹果实蝇 (山楂→苹果) · 慈鲷鱼 · 植物多倍化</text>
+<text x="300" y="378" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">无需地理隔离 · 分裂选择驱动生殖隔离</text>
+</g>
+</svg>

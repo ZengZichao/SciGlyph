@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-burette-glass" data-cat="lh" data-spec="128"
+     data-tags="burette,glass,titration,graduated,volumetric" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">玻璃滴定管 / Glass Burette</title>
+  <desc id="d">酸式玻璃滴定管，0.1mL刻度，带旋塞</desc>
+  <g id="body"><path d="M60 10 L68 10 L68 14 L66 14 L66 100 L68 104 L68 110 L64 114 L60 110 L60 104 L62 100 L62 14 L60 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 10 L70 10 L70 14 L58 14 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M62 20 L66 20 M62 28 L66 28 M62 36 L66 36 M62 44 L66 44 M62 52 L66 52 M62 60 L66 60 M62 68 L66 68 M62 76 L66 76 M62 84 L66 84 M62 92 L66 92" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M62 24 L64 24 M62 32 L64 32 M62 40 L64 40 M62 48 L64 48 M62 56 L64 56 M62 64 L64 64 M62 72 L64 72 M62 80 L64 80 M62 88 L64 88" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="72" y="22" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">0</text>
+    <text x="72" y="94" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" data-ls="thin">50</text>
+    <path d="M60 96 L68 96 L68 100 L60 100 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+    <path d="M62 104 L62 108 L64 110 L66 108 L66 104 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+</svg>

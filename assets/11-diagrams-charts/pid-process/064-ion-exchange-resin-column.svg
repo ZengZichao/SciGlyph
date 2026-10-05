@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-ion-exchange-resin-column" data-cat="uo" data-spec="128"
+     data-tags="ion-exchange,resin,column,regeneration,water-treatment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">离子交换柱 / Ion Exchange Resin Column</title>
+  <desc id="d">离子交换柱，带树脂层和再生液入口。</desc>
+  <g id="body">
+    <rect x="42" y="10" width="36" height="100" rx="18" ry="18" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44,50 L84,50 L84,90 Q84,108 60,108 Q44,108 44,90 Z" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+    <line x1="44" y1="50" x2="84" y2="50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="54" cy="64" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="66" cy="72" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="74" cy="60" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <circle cx="58" cy="82" r="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="60" y1="10" x2="60" y2="18" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="60,14 56,20 64,20" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="60" y1="110" x2="60" y2="120" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="60,116 56,110 64,110" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="28" y1="36" x2="42" y2="36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="34,36 40,32 40,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="PHB 贮藏颗粒" data-name-en="PHB granule" data-cat="02-structures" data-tags="PHB,聚β-羟丁酸,贮藏,碳源,同心层,动员" role="img" aria-labelledby="t-30-phb-granule d-30-phb-granule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30-phb-granule">PHB 贮藏颗粒 / PHB granule</title>
+  <desc id="d-30-phb-granule">PHB（聚 β-羟丁酸）是碳源与能量过剩时在细胞质中积累的贮藏聚合物，呈规则同心层状颗粒，饥饿时被 PHB 解聚酶动员。关键词: PHB, 聚β-羟丁酸, 贮藏, 碳源, 同心层, 动员</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="22" y="44" width="76" height="32" rx="16" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M28 60C28 54 34 52 40 54C46 56 52 55 56 60C52 65 46 68 40 66C34 64 28 66 28 60Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<circle cx="40" cy="60" r="8" fill="#E8B04B" fill-opacity="0.9" stroke="#B57A17" stroke-width="1.4"/>
+<circle cx="40" cy="60" r="4.6" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="40" cy="60" r="1.6" fill="#B57A17"/>
+<circle cx="60" cy="60" r="8" fill="#E8B04B" fill-opacity="0.9" stroke="#B57A17" stroke-width="1.4"/>
+<circle cx="60" cy="60" r="4.6" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="60" cy="60" r="1.6" fill="#B57A17"/>
+<circle cx="80" cy="60" r="8" fill="#E8B04B" fill-opacity="0.9" stroke="#B57A17" stroke-width="1.4"/>
+<circle cx="80" cy="60" r="4.6" fill="none" stroke="#B57A17" stroke-width="1.2"/>
+<circle cx="80" cy="60" r="1.6" fill="#B57A17"/>
+</g>
+</svg>

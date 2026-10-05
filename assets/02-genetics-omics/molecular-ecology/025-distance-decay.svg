@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-distance_decay d-distance_decay" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-distance_decay">距离衰减 / Distance decay</title>
+<desc id="d-distance_decay">Distance-decay scatter with fit line, confidence band, R² and slope. schematic. 关键词: microbial ecology, distance decay, Distance-decay, scatter, fit, confidence, band, slope</desc>
+<g id="l-distance_decay" data-name="decay">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="28.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Distance-Decay Relationship</text>
+<line x1="80.0" y1="340.0" x2="520.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="60.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="300.0" y="385.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Geographic Distance (km)</text>
+<text x="50.0" y="200.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Dissimilarity</text>
+<line x1="80.0" y1="340.0" x2="80.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="80.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~0</text>
+<line x1="168.0" y1="340.0" x2="168.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="168.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~200</text>
+<line x1="256.0" y1="340.0" x2="256.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="256.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~400</text>
+<line x1="344.0" y1="340.0" x2="344.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="344.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~600</text>
+<line x1="432.0" y1="340.0" x2="432.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="432.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~800</text>
+<line x1="520.0" y1="340.0" x2="520.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="520.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~1000</text>
+<line x1="75.0" y1="60.0" x2="80.0" y2="60.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="63.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">1.0</text>
+<line x1="75.0" y1="116.0" x2="80.0" y2="116.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="119.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.8</text>
+<line x1="75.0" y1="172.0" x2="80.0" y2="172.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="175.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.6</text>
+<line x1="75.0" y1="228.0" x2="80.0" y2="228.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="231.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.4</text>
+<line x1="75.0" y1="284.0" x2="80.0" y2="284.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="287.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.2</text>
+<line x1="75.0" y1="340.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="343.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.0</text>
+<line x1="80.0" y1="60.0" x2="520.0" y2="60.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="116.0" x2="520.0" y2="116.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="172.0" x2="520.0" y2="172.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="228.0" x2="520.0" y2="228.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="284.0" x2="520.0" y2="284.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="340.0" x2="520.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="60.0" x2="80.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="168.0" y1="60.0" x2="168.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="256.0" y1="60.0" x2="256.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="344.0" y1="60.0" x2="344.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="432.0" y1="60.0" x2="432.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="520.0" y1="60.0" x2="520.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<circle cx="237.2" cy="260.8" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="441.2" cy="149.7" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="200.4" cy="290.2" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="120.3" cy="316.6" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="431.7" cy="131.3" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="233.4" cy="234.8" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="491.9" cy="107.1" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="276.7" cy="241.9" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="324.4" cy="188.4" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="478.0" cy="140.5" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="159.6" cy="267.0" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="247.7" cy="248.8" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="271.9" cy="211.1" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="245.9" cy="268.7" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="488.9" cy="102.6" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="243.1" cy="257.5" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="366.8" cy="179.3" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="324.0" cy="226.8" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="489.5" cy="137.7" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="470.3" cy="121.7" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="165.0" cy="302.5" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="170.8" cy="280.2" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="171.7" cy="305.4" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="413.0" cy="159.1" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<circle cx="368.0" cy="197.8" r="3.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6"/>
+<line x1="100.0" y1="320.0" x2="500.0" y2="110.0" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<line x1="100.0" y1="300.0" x2="500.0" y2="90.0" stroke="#C42D2D" stroke-width="0.5" data-pp="alert" stroke-linecap="round" stroke-dasharray="3,3"/>
+<line x1="100.0" y1="340.0" x2="500.0" y2="130.0" stroke="#C42D2D" stroke-width="0.5" data-pp="alert" stroke-linecap="round" stroke-dasharray="3,3"/>
+<text x="460.0" y="80.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">R²=~0.68</text>
+<text x="460.0" y="95.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">slope=~0.001</text>
+<text x="460.0" y="110.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p&lt;~0.001</text>
+</g>
+</svg>

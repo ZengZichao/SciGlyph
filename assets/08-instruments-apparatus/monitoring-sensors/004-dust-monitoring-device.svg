@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-dust-monitoring-device" data-cat="en" data-spec="128"
+     data-tags="dust,monitoring,pm10,tsp,扬尘,监测" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">扬尘在线监测仪 / Dust Monitoring Device</title>
+  <desc id="d">扬尘在线监测：主机+风罩+四角探头+支架。</desc>
+  <g id="body"><rect x="34" y="30" width="60" height="44" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="40" y="36" width="32" height="18" rx="2" fill="#33414F" data-ls="dark"/>
+    <text x="56" y="49" fill="#7FC26B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="liquid-2">PM10</text>
+    <path d="M34 30 L24 20 M94 30 L104 20 M34 74 L24 84 M94 74 L104 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2" data-ls="thin"/>
+    <circle cx="24" cy="18" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="104" cy="18" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="24" cy="86" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <circle cx="104" cy="86" r="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="58" y="96" width="12" height="6" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/>
+    <line x1="64" y1="102" x2="64" y2="118" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <path d="M44 22 L44 14 C44 10 48 8 52 8 L76 8 C80 8 84 10 84 14 L84 22" fill="#E8EDF2" stroke="#1F2933" stroke-width="1.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"></g>
+</svg>

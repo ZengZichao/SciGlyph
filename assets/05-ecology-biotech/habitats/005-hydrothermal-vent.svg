@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="深海热液喷口" data-name-en="Hydrothermal Vent" data-cat="05-eco-seq" data-tags="热液喷口,黑烟囱,化能合成,管虫,嗜热古菌" role="img" aria-labelledby="t-05-hydrothermal-vent d-05-hydrothermal-vent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-05-hydrothermal-vent">深海热液喷口 / Hydrothermal Vent</title>
+  <desc id="d-05-hydrothermal-vent">硫化物烟囱喷出高温还原性热液并形成矿物羽流，化能合成菌垫与管虫群落构成深海绿洲。关键词: 热液喷口, 黑烟囱, 化能合成, 管虫, 嗜热古菌</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <!-- 烟囱主体（硫化物烟囱） -->
+  <path d="M48 97 C50 78 46 62 53 46 L67 46 C74 62 70 78 72 97 Z" fill="#7A8B93" fill-opacity="0.45" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M49 86 Q60 91 71 86" stroke="#2B3A42" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M50 74 Q60 79 70 74" stroke="#2B3A42" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <path d="M51 62 Q60 67 69 62" stroke="#2B3A42" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 喷口与高温热液 -->
+  <ellipse cx="60" cy="46" rx="9" ry="3.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M60 40 v-6 m-3 3 l3 -3 l3 3" stroke="#E8B04B" stroke-width="1.4"/>
+  <!-- 热液羽流 -->
+  <circle cx="60" cy="33" r="9" fill="#C0504D" fill-opacity="0.2" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <circle cx="53" cy="22" r="7" fill="#C0504D" fill-opacity="0.18" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <circle cx="67" cy="21" r="6.5" fill="#C0504D" fill-opacity="0.18" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <circle cx="60" cy="11" r="5" fill="#C0504D" fill-opacity="0.15" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 喷口流体中的嗜热微生物 -->
+  <rect x="52" y="40" width="9" height="4.4" rx="2.2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <rect x="62" y="28" width="8" height="4" rx="2" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 海底 -->
+  <path d="M5 99 Q30 94 60 97 T115 95 L115 113 L5 113 Z" fill="#7A8B93" fill-opacity="0.4" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M5 106 Q40 102 70 105 T115 103" stroke="#2B3A42" stroke-width="1.2" stroke-dasharray="2 3"/>
+  <!-- 化能合成管虫群 -->
+  <path d="M27 97 C25 86 29 78 29 72" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M29 72 c-4 -3 -7 -1 -7 -6 M29 72 c4 -3 7 -1 7 -6" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M89 97 C91 86 87 79 88 74" stroke="#2B3A42" stroke-width="1.4"/>
+  <path d="M88 74 c-4 -3 -7 -1 -7 -6 M88 74 c4 -3 7 -1 7 -6" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M43 98 C42 91 44 86 44 82" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M44 82 c-3 -2 -5 -1 -5 -4 M44 82 c3 -2 5 -1 5 -4" stroke="#C0504D" stroke-width="1.2"/>
+  <!-- 化能合成菌垫 -->
+  <path d="M8 102 q12 -7 24 0 q-12 7 -24 0 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <path d="M74 100 q11 -6 22 0 q-11 6 -22 0 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.2"/>
+  <!-- 底栖双壳贝 -->
+  <path d="M100 100 a7 5 0 0 1 12 0 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+  <path d="M13 100 a7 5 0 0 1 12 0 Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
+</g>
+</svg>

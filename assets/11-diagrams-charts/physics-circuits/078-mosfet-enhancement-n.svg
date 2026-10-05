@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-mosfet-enhancement-n" data-cat="el" data-spec="128"
+     data-tags="mosfet,n-channel,enhancement,场效应管" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">N沟道增强型MOSFET / N-Channel Enhancement MOSFET</title>
+  <desc id="d">MOSFET符号：栅极分离+虚线沟道。</desc>
+  <g id="body"><line x1="10" y1="64" x2="40" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="46" y1="36" x2="46" y2="92" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="36" x2="52" y2="52" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="58" x2="52" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="76" x2="52" y2="92" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="44" x2="86" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="64" x2="86" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="84" x2="86" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="86" y1="44" x2="118" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="86" y1="84" x2="118" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="52" y1="56" x2="52" y2="72" fill="none" stroke="#1F2933" stroke-dasharray="3 2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M72 64 L86 64 L86 84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M78 58 L86 64 L78 70" fill="#1F2933" stroke="none" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

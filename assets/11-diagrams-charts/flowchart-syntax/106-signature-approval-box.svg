@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-signature-approval-box" data-cat="pf" data-spec="160"
+     data-tags="signature,approval,sign-off,review,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">签核框 / Signature Approval Box</title>
+  <desc id="d">流程图签核审批符号，带签名线的框。</desc>
+  <g id="body">
+    <rect x="20" y="14" width="120" height="68" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="36" y1="58" x2="80" y2="58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="92" y1="58" x2="124" y2="58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="36" y1="38" x2="60" y2="38" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+</svg>

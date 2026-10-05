@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="同步消息" data-name-en="Sync Message Arrow" data-cat="diagrams-sw-uml" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-22">同步消息 / message_sync_arrow</title>
+  <desc id="d-22">实心三角箭头的同步消息箭头。关键词: sync,message,arrow</desc>
+  <g id="g-22-同步消息">
+    <line fill="none" x1="10" y1="24" x2="75" y2="24" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="80,24 72,20 72,28" fill="#1f2937"/>
+    <text x="45" y="18" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">sync</text>
+  </g>
+</svg>

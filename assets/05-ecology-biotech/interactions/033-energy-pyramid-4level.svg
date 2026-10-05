@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="能量金字塔" data-name-en="Energy Pyramid 4Level" data-cat="natural-sciences" aria-labelledby="t-62 d-62" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-62">能量金字塔 / energy_pyramid_4level</title>
+  <desc id="d-62">展示四级能量金字塔。关键词: energy pyramid,trophic level,ecology</desc>
+  <g id="g-62-能量金字塔">
+    <polygon points="100,300 380,300 340,230 140,230" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <polygon points="150,225 330,225 300,160 180,160" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <polygon points="190,155 290,155 270,100 210,100" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <polygon points="220,95 260,95 250,50 230,50" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <path d="M400,300 L400,50" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="395,55 400,45 405,55" fill="#1f2937"/>
+  </g>
+</svg>

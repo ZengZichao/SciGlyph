@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="en-air-quality-station-micro" data-cat="en" data-spec="128"
+     data-tags="air,quality,station,micro,solar,空气站,微型" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">微型空气站 / Micro Air Quality Station</title>
+  <desc id="d">微型空气站：百叶箱式+采气管+太阳能板。</desc>
+  <g id="body"><rect x="30" y="36" width="68" height="52" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M34 44 L94 44 M34 52 L94 52 M34 60 L94 60 M34 68 L94 68 M34 76 L94 76" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <path d="M64 36 L64 20 L80 12 L96 20 L96 28" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2" data-ls="accent"/>
+    <rect x="80" y="8" width="24" height="16" rx="2" fill="#33414F" stroke="#2B7DE9" stroke-width="1.5" data-ls="dark" data-ls-stroke="accent"/>
+    <path d="M44 88 L44 100 M84 88 L84 100" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <path d="M38 100 L90 100" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M30 50 L20 50 L20 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2" data-ls="thin"/></g>
+  <g id="detail"></g>
+</svg>

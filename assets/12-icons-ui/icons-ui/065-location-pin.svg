@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="定位标记" data-name-en="location_pin" data-cat="basic-icons-ui" aria-labelledby="t-65 d-65" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-65">定位标记 / location_pin</title>
+  <desc id="d-65">位置与定位图标。关键词: 定位,位置,location,pin</desc>
+  <g id="g-65-定位标记">
+    <path d="M24 42 Q24 28 24 24" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M24 42 L14 26 Q8 16 16 10 Q24 6 32 10 Q40 16 34 26 Z" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="24" cy="18" r="4" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

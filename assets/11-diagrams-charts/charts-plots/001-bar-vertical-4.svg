@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="四柱竖条图" data-name-en="Bar Vertical 4" data-cat="charts-plots" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-01">四柱竖条图 / bar_vertical_4</title>
+  <desc id="d-01">展示四组数据的竖向柱状图。关键词: bar,vertical,column,axis</desc>
+  <g id="g-01-四柱竖条图">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <rect x="81" y="130" width="50" height="150" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="157" y="80" width="50" height="200" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="233" y="168" width="50" height="112" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <rect x="309" y="55" width="50" height="225" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <line x1="106.0" y1="280" x2="106.0" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="106.0" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">A</text>
+    <line x1="182.0" y1="280" x2="182.0" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="182.0" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">B</text>
+    <line x1="258.0" y1="280" x2="258.0" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="258.0" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">C</text>
+    <line x1="334.0" y1="280" x2="334.0" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="334.0" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">D</text>
+    <line x1="50" y1="280" x2="55" y2="280" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="283" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">0</text>
+    <line x1="50" y1="217.5" x2="55" y2="217.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="220.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">25</text>
+    <line x1="50" y1="155.0" x2="55" y2="155.0" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="158.0" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">50</text>
+    <line x1="50" y1="92.5" x2="55" y2="92.5" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="95.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">75</text>
+    <line x1="50" y1="30" x2="55" y2="30" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="47" y="33" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">100</text>
+    <line x1="55" y1="217.5" x2="385" y2="217.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="155.0" x2="385" y2="155.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="92.5" x2="385" y2="92.5" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="55" y1="30" x2="385" y2="30" stroke="#e5e7eb" stroke-width="0.75"/>
+  </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-evolution-process" role="img" aria-labelledby="t-insertion d-insertion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-insertion">插入突变 / Insertion Mutation</title>
+<desc id="d-insertion">DNA 插入突变示意。关键词: insertion, mutation, frameshift, indel</desc>
+<defs>
+<marker id="pp02__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M0,1 L9,5 L0,9 z" fill="#1B2733" data-pp="ink" />
+</marker>
+</defs>
+<g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Insertion Mutation</text>
+<text x="80" y="80" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text><rect x="150" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="167" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="190" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="207" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="230" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="247" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="270" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="287" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text><rect x="310" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="327" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="350" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="367" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="390" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="407" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="430" y="65" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="447" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<line x1="300" y1="110" x2="300" y2="140" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp02__ar)" />
+<text x="315" y="130" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">+insert</text>
+<text x="80" y="170" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">After:</text><rect x="150" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="167.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="190" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="207.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="230" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="247.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="270" y="155" width="70" height="30" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+<text x="305.0" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">AAA</text><rect x="345" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="362.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text><rect x="385" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="402.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">G</text><rect x="425" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="442.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text><rect x="465" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="482.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="505" y="155" width="35" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+<text x="522.5" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">C</text>
+<text x="300" y="230" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Insertion of 3 bp → in-frame (no frameshift)</text>
+<text x="300" y="260" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Insertion of 1-2 bp → frameshift mutation</text>
+<text x="300" y="290" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Often caused by transposable elements, slippage, or errors</text></g></svg>

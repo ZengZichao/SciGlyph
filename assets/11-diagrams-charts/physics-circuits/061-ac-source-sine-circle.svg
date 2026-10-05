@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-ac-source-sine-circle" data-cat="el" data-spec="128"
+     data-tags="ac,source,alternating,current,交流,电源" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">交流电源 / AC Source</title>
+  <desc id="d">交流电源符号：圆内~。</desc>
+  <g id="body"><circle cx="64" cy="64" r="32" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M42 64 Q50 48 58 64 Q66 80 74 64 Q82 48 86 64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

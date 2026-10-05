@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="鞭毛丝" data-name-en="Filament" data-cat="02-structures" data-tags="鞭毛丝,鞭毛蛋白,螺旋管,原丝,L/R构象,左手超螺旋,多形性" role="img" aria-labelledby="t-13-filament d-13-filament" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13-filament">鞭毛丝 / Filament</title>
+  <desc id="d-13-filament">鞭毛丝由鞭毛蛋白（flagellin）聚合成的螺旋管构成，含 11 条原丝（L 型/R 型构象交替排列，具多形性），常态为左手超螺旋，并形成传播波。关键词: 鞭毛丝, 鞭毛蛋白, 螺旋管, 原丝, L/R构象, 左手超螺旋, 多形性</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 60C10 40 18 40 24 60C32 80 40 80 48 60C56 40 64 40 72 60C80 80 88 80 96 60C103 43 110 46 116 60" fill="none" stroke="#1F6F8B" stroke-width="2.2"/>
+<path d="M86 73L88 80" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<circle cx="92" cy="92" r="14" fill="#F7FBF9" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<circle cx="92" cy="92" r="10" fill="none" stroke="#1F6F8B" stroke-width="1.2"/>
+<circle cx="100.5" cy="92.0" r="1.8" fill="#1F6F8B"/>
+<circle cx="99.1" cy="96.6" r="1.8" fill="#1F6F8B"/>
+<circle cx="95.5" cy="99.8" r="1.8" fill="#1F6F8B"/>
+<circle cx="90.7" cy="100.4" r="1.8" fill="#1F6F8B"/>
+<circle cx="86.3" cy="98.3" r="1.8" fill="#1F6F8B"/>
+<circle cx="83.8" cy="94.2" r="1.8" fill="#1F6F8B"/>
+<circle cx="83.9" cy="89.4" r="1.8" fill="#1F6F8B"/>
+<circle cx="86.7" cy="85.4" r="1.8" fill="#1F6F8B"/>
+<circle cx="91.1" cy="83.5" r="1.8" fill="#1F6F8B"/>
+<circle cx="95.9" cy="84.4" r="1.8" fill="#1F6F8B"/>
+<circle cx="99.4" cy="87.8" r="1.8" fill="#1F6F8B"/>
+<circle cx="92" cy="92" r="2.4" fill="#5FA8C7"/>
+</g>
+</svg>

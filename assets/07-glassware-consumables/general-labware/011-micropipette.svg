@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="微量移液器" data-name-en="micropipette" data-cat="lab-equipment" aria-labelledby="t-11 d-11" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11">微量移液器 / micropipette</title>
+  <desc id="d-11">微量精确移取μL级液体。关键词: 移液器,micropipette,微量,μL</desc>
+  <g id="g-11-微量移液器">
+    <rect x="50" y="10" width="20" height="15" rx="3" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="52" y="25" width="16" height="55" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="55" y="80" width="10" height="20" rx="1" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 58 100 L 59 112 L 61 112 L 62 100 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <rect x="46" y="40" width="8" height="12" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="60" y="55" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">μL</text>
+  </g>
+</svg>

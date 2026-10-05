@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-microbiome_workflow d-microbiome_workflow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-microbiome_workflow">Microbiome workflow</title>
+  <desc id="d-microbiome_workflow">Sampling to statistical analysis pipeline。 关键词: microbial ecology, microbiome workflow, Sampling, statistical, DNA</desc>
+<defs>
+  <marker id="pp01__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="6" markerHeight="6" orient="auto">
+    <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+<g id="l-microbiome_workflow" data-name="workflow">
+  <rect x="20" y="180" width="60" height="40" rx="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+<text x="50.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Sampling</text>
+  <line x1="80" y1="200" x2="100" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="100" y="180" width="60" height="40" rx="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+<text x="130.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">DNA</text>
+  <line x1="160" y1="200" x2="180" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="180" y="180" width="60" height="40" rx="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+<text x="210.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Amplification</text>
+  <line x1="240" y1="200" x2="260" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="260" y="180" width="60" height="40" rx="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+<text x="290.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">QC</text>
+  <line x1="320" y1="200" x2="340" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="340" y="180" width="60" height="40" rx="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+<text x="370.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Denoising</text>
+  <line x1="400" y1="200" x2="420" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="420" y="180" width="60" height="40" rx="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<text x="450.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Annotation</text>
+  <line x1="480" y1="200" x2="500" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <rect x="500" y="180" width="60" height="40" rx="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+<text x="530.0" y="204.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Statistics</text>
+  <rect x="500" y="240" width="60" height="40" rx="4" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
+  <text x="530.0" y="264.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Visualization</text>
+  <line x1="530" y1="220" x2="530" y2="240" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
+  <text x="300" y="50" font-size="16" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Microbiome analysis pipeline</text>
+</g>
+</svg>

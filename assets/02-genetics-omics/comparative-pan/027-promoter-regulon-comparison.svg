@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-promoter_regulon_comparison d-promoter_regulon_comparison" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-promoter_regulon_comparison">启动子/调控子比较 / Promoter/regulon comparison</title>
+  <desc id="d-promoter_regulon_comparison">物种间启动子和调控子结构比较。schematic, not to scale. 关键词: promoter, regulon, operon</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="operon-a">
+  <text x="150" y="80" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species A — Regulon X</text>
+  <polygon points="60,110 80,100 80,120" fill="#C42D2D" data-pp="alert"/>
+  <text x="70" y="140" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">P</text>
+  <rect x="90" y="100" width="40" height="20" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="140" y="100" width="40" height="20" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="190" y="100" width="40" height="20" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <rect x="240" y="100" width="40" height="20" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+</g>
+<g data-name="operon-b">
+  <text x="150" y="200" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Species B — Regulon X</text>
+  <polygon points="60,230 80,220 80,240" fill="#C42D2D" data-pp="alert"/>
+  <text x="70" y="260" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="middle" data-pp="alert">P'</text>
+  <rect x="90" y="220" width="40" height="20" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <rect x="140" y="220" width="40" height="20" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <rect x="190" y="220" width="40" height="20" fill="#6C3FA0" data-pp="gene" rx="2"/>
+  <rect x="350" y="220" width="40" height="20" fill="#2E86AB" data-pp="bacteria" rx="2"/>
+  <text x="370" y="260" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">relocated</text>
+</g>
+<g data-name="comparison">
+  <text x="450" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">4 genes in operon</text>
+  <text x="450" y="230" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">3 genes + 1 relocated</text>
+  <text x="300" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Regulon architecture differs between species</text>
+  <rect x="90" y="340" width="30" height="15" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="105" y="368" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">TF site</text>
+  <rect x="130" y="340" width="30" height="15" fill="#5B8C3E" data-pp="virus" rx="2"/>
+  <text x="145" y="368" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Gene</text>
+  <polygon points="50,345 65,340 65,350" fill="#00857A" data-pp="metabolism"/>
+  <text x="57" y="368" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Promoter</text>
+  <line x1="170" y1="347" x2="250" y2="347" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  <text x="210" y="368" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Intergenic</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Promoter/Regulon Comparison (schematic)</text>
+</svg>

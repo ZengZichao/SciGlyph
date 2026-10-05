@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-contact-lenses-warning" data-cat="pp" data-spec="128"
+     data-tags="contact lenses,warning,eye,chemical,caution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">隐形眼镜警示 / Contact Lenses Warning</title>
+  <desc id="d">隐形眼镜警示：化学实验可能影响隐形眼镜。</desc>
+  
+  <g id="figure"><ellipse cx="64" cy="56" rx="32" ry="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <circle cx="64" cy="56" r="12" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <circle cx="64" cy="56" r="6" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
+     <path d="M32 56 Q32 40 48 36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M96 56 Q96 40 80 36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="prop"><circle cx="64" cy="56" r="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M44 36 L84 76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

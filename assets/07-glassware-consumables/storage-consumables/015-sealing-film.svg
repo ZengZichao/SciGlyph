@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-sealing-film" data-cat="cs" data-spec="128"
+     data-tags="sealing film,plate seal,aluminum,transparent,cover" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">密封膜 / Sealing Film</title>
+  <desc id="d">板用密封膜(铝箔/透明膜)，用于微孔板密封。</desc>
+  <g id="body"><rect x="14" y="30" width="100" height="68" rx="4" fill="#FFFFFF" opacity="0.25" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><rect x="14" y="30" width="100" height="68" rx="4" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M20 42 L108 42 M20 54 L108 54 M20 66 L108 66 M20 78 L108 78 M20 90 L108 90" fill="none" opacity="0.4" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

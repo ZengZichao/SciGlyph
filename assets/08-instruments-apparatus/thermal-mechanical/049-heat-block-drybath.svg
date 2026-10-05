@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-heat-block-drybath" data-cat="hc" data-spec="128"
+     data-tags="heat-block,dry-bath,incubator,metal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">金属模块加热块 / Metal Heat Block (Dry Bath)</title>
+  <desc id="d">金属模块加热块，截面画3个孔管</desc>
+  <g id="body"><path d="M24 50 L104 50 L104 108 Q104 116 96 116 L32 116 Q24 116 24 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M28 46 L100 46 L100 50 L28 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><circle cx="44" cy="60" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="60" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="84" cy="60" r="8" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="44" cy="60" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="64" cy="60" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+    <circle cx="84" cy="60" r="4" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M30 80 L98 80 L98 84 L30 84 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 90 L98 90 L98 94 L30 94 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M30 100 L98 100 L98 104 L30 104 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

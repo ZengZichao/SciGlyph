@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-pilus_common d-pilus_common" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-pilus_common">普通菌毛 / Common Pili / Fimbriae</title>
+  <desc id="d-pilus_common">Short hair-like appendages for adhesion. 关键词: pili, fimbriae, adhesion</desc>
+  
+  <g id="layer-body-pilus_common" data-name="body">
+    <circle cx="50" cy="50" r="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="66.0" y1="50.0" x2="78.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="63.9" y1="58.0" x2="74.2" y2="64.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="58.0" y1="63.9" x2="64.0" y2="74.2" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="50.0" y1="66.0" x2="50.0" y2="78.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="42.0" y1="63.9" x2="36.0" y2="74.2" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="36.1" y1="58.0" x2="25.8" y2="64.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="34.0" y1="50.0" x2="22.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="36.1" y1="42.0" x2="25.8" y2="36.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="42.0" y1="36.1" x2="36.0" y2="25.8" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="50.0" y1="34.0" x2="50.0" y2="22.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="58.0" y1="36.1" x2="64.0" y2="25.8" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    <line x1="63.9" y1="42.0" x2="74.2" y2="36.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="60" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">pilus</text>
+  </g>
+</svg>

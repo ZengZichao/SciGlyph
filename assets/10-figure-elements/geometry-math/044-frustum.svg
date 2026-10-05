@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="台体" data-name-en="Frustum" data-cat="geometry-math" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">台体 / frustum</title>
+  <desc id="d-44">截顶锥体示意。关键词: frustum,truncated,solid</desc>
+  <g id="g-44-台体">
+    <path d="M20,95 L35,30 L85,30 L100,95 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M35,30 A25,8 0 0,0 85,30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M35,30 A25,8 0 0,1 85,30" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <path d="M20,95 A40,12 0 0,0 100,95" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M20,95 A40,12 0 0,1 100,95" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <text x="104" y="65" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="start">h</text>
+  </g>
+</svg>

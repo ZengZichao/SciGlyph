@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-size_1nm_protein d-size_1nm_protein" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-size_1nm_protein">1nm蛋白质 / 1nm protein globule</title>
+  <desc id="d-size_1nm_protein">尺度图标：1nm蛋白质，大小约1 nm。典型球状蛋白直径约1-5nm。 Scale bar=1 nm。假设放大倍率: ×10^7 (1cm = 1nm)。关键词: size scale, 1 nm, scale bar</desc>
+  <g id="layer-body-size_1nm_protein" data-name="body">
+    
+    <circle cx="40" cy="40" r="12" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" />
+    
+    <path d="M34,35 Q37,32 40,35 Q43,38 46,35" fill="none" stroke="#1B2733" stroke-width="0.8" />
+    <path d="M34,42 Q37,39 40,42 Q43,45 46,42" fill="none" stroke="#1B2733" stroke-width="0.8" />
+    <text x="40" y="59.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~1nm</text>
+    <text x="40" y="67.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">globular</text>
+    
+    <line x1="15" y1="82" x2="39" y2="82" stroke="#1B2733" stroke-width="1.5" />
+    <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1" />
+    <line x1="39" y1="79" x2="39" y2="85" stroke="#1B2733" stroke-width="1" />
+    <text x="27" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1 nm</text>
+  </g>
+  <g id="layer-annotation-size_1nm_protein" data-name="annotation">
+    <text x="70" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">1 nm</text>
+    <line x1="70.0" y1="19.9" x2="60.44" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="22.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">scale bar</text>
+  </g>
+</svg>

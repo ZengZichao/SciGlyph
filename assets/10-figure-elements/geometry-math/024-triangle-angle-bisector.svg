@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="角平分线" data-name-en="Triangle Angle Bisector" data-cat="geometry-math" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24">角平分线 / triangle_angle_bisector</title>
+  <desc id="d-24">顶角的角平分线。关键词: triangle,bisector,geometry</desc>
+  <g id="g-24-角平分线">
+    <polygon points="15,100 105,100 55,15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <line fill="none" x1="55" y1="15" x2="59" y2="100" stroke="#009E73" stroke-width="1.5" stroke-dasharray="4 3" data-drole="series-1"/>
+    <path d="M42,28 A15,15 0 0,1 55,30" fill="none" stroke="#009E73" stroke-width="0.75" data-drole="series-1"/>
+    <path d="M55,30 A15,15 0 0,0 68,28" fill="none" stroke="#009E73" stroke-width="0.75" data-drole="series-1"/>
+    <text x="10" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="110" y="112" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="55" y="11" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">C</text>
+  </g>
+</svg>

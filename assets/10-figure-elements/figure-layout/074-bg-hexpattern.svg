@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-74_bg_hexpattern d-74_bg_hexpattern" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-74_bg_hexpattern">六边形蜂窝淡纹 / Hex pattern bg</title>
+  <desc id="d-74_bg_hexpattern">六边形蜂窝淡纹背景装饰。骨架，配合科技感图版使用。关键词: background, hexagon, honeycomb, pattern</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="5" width="90" height="80" rx="2" fill="#F4F1EA" data-pp="bg"/>
+    <path d="M25,20 L30,17 L35,20 L35,26 L30,29 L25,26 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M35,20 L40,17 L45,20 L45,26 L40,29 L35,26 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M45,20 L50,17 L55,20 L55,26 L50,29 L45,26 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M55,20 L60,17 L65,20 L65,26 L60,29 L55,26 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M65,20 L70,17 L75,20 L75,26 L70,29 L65,26 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30,29 L35,26 L40,29 L40,35 L35,38 L30,35 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40,29 L45,26 L50,29 L50,35 L45,38 L40,35 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M50,29 L55,26 L60,29 L60,35 L55,38 L50,35 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M60,29 L65,26 L70,29 L70,35 L65,38 L60,35 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25,38 L30,35 L35,38 L35,44 L30,47 L25,44 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M35,38 L40,35 L45,38 L45,44 L40,47 L35,44 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M45,38 L50,35 L55,38 L55,44 L50,47 L45,44 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M55,38 L60,35 L65,38 L65,44 L60,47 L55,44 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M65,38 L70,35 L75,38 L75,44 L70,47 L65,44 Z" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Hex pattern bg</text>
+  </g>
+</svg>

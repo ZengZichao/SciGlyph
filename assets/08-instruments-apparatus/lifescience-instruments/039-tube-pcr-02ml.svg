@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>0.2mL PCR管</title>
+  <rect x="8" y="3" width="8" height="2" rx="0.5"/>
+  <path d="M9 5v10l3 4 3-4V5"/>
+  <line x1="9" y1="8" x2="15" y2="8"/>
+  <line x1="9" y1="11" x2="15" y2="11"/>
+  <path d="M8 3l-1-0.5"/>
+  <path d="M16 3l1-0.5"/>
+  <line x1="10" y1="5" x2="10" y2="14"/>
+  <line x1="14" y1="5" x2="14" y2="14"/>
+</svg>

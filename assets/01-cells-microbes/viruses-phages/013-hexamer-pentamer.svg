@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-hexamer_pentamer d-hexamer_pentamer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-hexamer_pentamer">衣壳亚基装配 / Capsid hexamer pentamer assembly</title>
+  <desc id="d-hexamer_pentamer">二十面体衣壳由pentamer(五聚体,5-fold顶点)和hexamer(六聚体,面心)两种capsomere装配而成。12个pentamer+可变数量hexamer。关键词: capsomere, pentamer, hexamer, capsid assembly</desc>
+  <g id="layer-body-hexamer_pentamer" data-name="body">
+    <polygon points="30,20 40,14 50,20 50,32 40,38 30,32" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="50,20 60,14 70,20 70,32 60,38 50,32" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="30,32 40,26 50,32 50,44 40,50 30,44" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="50,32 60,26 70,32 70,44 60,50 50,44" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="40,50 50,44 60,50 60,62 50,68 40,62" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="20,38 28,33 36,38 36,48 28,53 20,48" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="64,38 72,33 80,38 80,48 72,53 64,48" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="14,22 22,16 30,22 26,32 18,32" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <circle cx="50" cy="80" r="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <line x1="50" y1="74" x2="50" y2="68" stroke="#1B2733" data-pp="ink" stroke-width="0.5" stroke-dasharray="2,1"/>
+  </g>
+  <g id="layer-annotation-hexamer_pentamer" data-name="annotation">
+    <text x="10" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">penton</text>
+    <text x="62" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">hexon</text>
+  </g>
+</svg>

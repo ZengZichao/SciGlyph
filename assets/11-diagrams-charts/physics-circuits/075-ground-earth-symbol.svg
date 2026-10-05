@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-ground-earth-symbol" data-cat="el" data-spec="128"
+     data-tags="ground,earth,protective,接地" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">接地符号 / Ground Earth Symbol</title>
+  <desc id="d">接地符号：三递减横线。</desc>
+  <g id="body"><line x1="64" y1="14" x2="64" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="38" y1="56" x2="90" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="46" y1="70" x2="82" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="54" y1="84" x2="74" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

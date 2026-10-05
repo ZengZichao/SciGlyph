@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-19 d-19" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-19">NJ树 / Neighbor-Joining Tree</title>
+  <desc id="d-19">骨架，配合MEGA/PHYLIP使用。邻接法(NJ)推断的系统发育树：基于距离矩阵，快速但拓扑为近似。 关键词: phylogenetic tree, nj tree, Neighbor-Joining, MEGA, PHYLIP, skeleton template, phylogenetics</desc>
+  <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g id="pp19__clades" data-name="clade-shading">
+    <rect x="102.7" y="24.0" width="61.3" height="118.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="102.7" y="184.0" width="61.3" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+  </g>
+  <g id="pp19__branches" data-name="branches">
+    <line x1="80.0" y1="70.0" x2="80.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="83.3" x2="133.3" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="216.7" x2="106.7" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="190.0" x2="133.3" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="296.7" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="83.3" x2="160.0" y2="83.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="136.7" x2="160.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="270.0" x2="106.7" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="216.7" x2="133.3" y2="216.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="190.0" x2="160.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="243.3" x2="160.0" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="106.7" y1="323.3" x2="133.3" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="296.7" x2="160.0" y2="296.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp19__nodes" data-name="nodes">
+    <circle cx="80.0" cy="170.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="110.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="106.7" cy="270.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="216.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="133.3" cy="323.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g id="pp19__labels" data-name="tip-labels">
+    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpB</text>
+    <text x="165.0" y="86.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpA</text>
+    <text x="165.0" y="139.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpC</text>
+    <text x="165.0" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpD</text>
+    <text x="165.0" y="246.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpF</text>
+    <text x="165.0" y="299.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpE</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpG</text>
+  </g>
+  <g data-name="scale-bar">
+    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="三瓣饼图" data-name-en="Pie 3 Slice" data-cat="charts-plots" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">三瓣饼图 / pie_3slice</title>
+  <desc id="d-14">三部分饼图。关键词: pie,three,slice</desc>
+  <g id="g-14-三瓣饼图">
+    <path d="M120,120 L120.0,30.0 A90,90 0 0 1 172.9,192.8 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="171" y="106" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">40%</text>
+    <path d="M120,120 L172.9,192.8 A90,90 0 0 1 30.0,120.0 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="95" y="171" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">35%</text>
+    <path d="M120,120 L30.0,120.0 A90,90 0 0 1 120.0,30.0 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <text x="82" y="85" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">25%</text>
+  </g>
+</svg>

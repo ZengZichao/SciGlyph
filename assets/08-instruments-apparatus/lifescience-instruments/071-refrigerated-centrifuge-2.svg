@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-refrigerated-centrifuge" data-cat="ls" data-spec="128"
+     data-tags="centrifuge,refrigerated,cooled,temperature,compressor,sealed" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">冷冻离心机 / Refrigerated Centrifuge</title>
+  <desc id="d">冷冻离心机：压缩机制冷、密封转子腔、温度控制。</desc>
+  <g id="body">
+<rect x="16" y="22" width="96" height="84" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="16" y="22" width="96" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<path d="M22 32 Q64 16 106 32 L106 38 Q64 22 22 38 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="56" y="30" width="16" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="64" cy="56" r="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="64" cy="56" r="6" fill="#33414F" stroke="none" data-ls="dark"/>
+<circle cx="52" cy="46" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="64" cy="42" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="76" cy="46" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="52" cy="66" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="64" cy="70" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="76" cy="66" r="2.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<circle cx="28" cy="48" r="6" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1" data-ls="accent"/>
+    <rect x="24" y="82" width="38" height="12" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="43" y="90" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">4°C 12000rpm</text>
+    <circle cx="70" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="80" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="90" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="100" cy="86" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <rect x="22" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="96" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

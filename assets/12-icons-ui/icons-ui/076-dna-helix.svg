@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-dna-helix" data-cat="ic" data-spec="24"
+     data-tags="icon,dna,helix,genetics,biology" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">DNA双螺旋图标 / Icon DNA Helix</title>
+  <desc id="d">DNA双螺旋微型图标。</desc>
+  <g id="body">
+    <path d="M8,4 Q12,8 8,12 Q12,16 8,20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <path d="M16,4 Q12,8 16,12 Q12,16 16,20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="8" y1="6" x2="16" y2="6" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="8" y1="10" x2="16" y2="10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="8" y1="14" x2="16" y2="14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+    <line x1="8" y1="18" x2="16" y2="18" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="0.98" data-ls="thin"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-heat_shock d-heat_shock" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-heat_shock">Heat Shock</title>
+  <desc id="d-heat_shock">冰浴时长为 E. coli 化学转化常用参数示例(示意), 因菌株与方案而异。关键词: heat shock, CaCl2, competent</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M40,25 L40,60 Q40,65 45,65 L55,65 Q60,65 60,60 L60,25 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
+    <circle cx="45" cy="40" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="50" cy="45" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="55" cy="42" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
+    <circle cx="50" cy="50" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
+    <path d="M35,30 Q38,25 40,30 Q42,35 45,30" fill="#C42D2D" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <path d="M55,30 Q58,25 60,30 Q62,35 65,30" fill="#C42D2D" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <text x="50" y="20" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">42°C</text>
+    <circle cx="45" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="55" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <text x="50" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">ice</text>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="28.3" y="92.0">Heat-shock</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="29.9" y="84.55">transformation</text><line x1="2.48" y1="96.28" x2="1" y2="80.51" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  </g>
+</svg>

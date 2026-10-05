@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="st-desiccator-indicator-silica" data-cat="st" data-spec="128"
+     data-tags="desiccator,silica gel,indicator,color change,dry" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">干燥器(含变色硅胶) / Desiccator with Silica Gel Indicator</title>
+  <desc id="d">干燥器底部放变色硅胶指示剂。</desc>
+  <g id="body"><path d="M22 40 L22 98 Q22 112 36 112 L92 112 Q106 112 106 98 L106 40 Q106 28 92 28 L36 28 Q22 28 22 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 90 L100 90 L100 100 Q100 108 92 108 L36 108 Q28 108 28 100 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/><path d="M28 90 L100 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M36 76 L92 76" fill="#FFFFFF" opacity="0.3" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M36 76 L92 76" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><ellipse cx="64" cy="28" rx="42" ry="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  
+</svg>

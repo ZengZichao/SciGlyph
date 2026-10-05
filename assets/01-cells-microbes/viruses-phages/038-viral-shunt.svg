@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-viral_shunt d-viral_shunt" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-viral_shunt">病毒分流 / Viral shunt DOM release bacterial production</title>
+  <desc id="d-viral_shunt">病毒分流(viral shunt)：噬菌体裂解细菌→释放细胞内容物为溶解有机质(DOM)→被其他细菌再利用→促进细菌再生产。海洋碳循环关键过程，将碳从食物链转向微生物环。关键词: viral shunt, DOM, microbial loop, carbon cycling</desc>
+  <g id="layer-body-viral_shunt" data-name="body">
+    <!-- Bacterial cell being lysed -->
+    <rect x="30" y="15" width="25" height="15" rx="7" ry="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-dasharray="2,1"/>
+    <!-- Phage -->
+    <circle cx="60" cy="18" r="5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <!-- Arrow down: lysis -->
+    <path d="M42,30 L42,40" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="40,38 42,42 44,38" fill="#1B2733" data-pp="ink"/>
+    <!-- DOM released -->
+    <circle cx="30" cy="50" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="40" cy="48" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="50" cy="52" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="35" cy="55" r="1.5" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="45" cy="56" r="1.5" fill="#00857A" data-pp="metabolism"/>
+    <text x="42" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">DOM</text>
+    <!-- Arrow to bacterial production -->
+    <path d="M42,68 L42,75" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="40,73 42,77 44,73" fill="#1B2733" data-pp="ink"/>
+    <!-- New bacteria -->
+    <rect x="30" y="78" width="10" height="6" rx="3" ry="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <rect x="45" y="78" width="10" height="6" rx="3" ry="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-viral_shunt" data-name="annotation">
+    <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">viral shunt</text>
+  </g>
+</svg>

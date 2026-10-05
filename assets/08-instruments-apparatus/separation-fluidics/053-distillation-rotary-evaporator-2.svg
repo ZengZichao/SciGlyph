@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-distillation-rotary-evaporator" data-cat="sp" data-spec="128"
+     data-tags="rotary,evaporator,rotovap,distillation,vacuum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">旋转蒸发仪 / Rotary Evaporator</title>
+  <desc id="d">旋蒸：旋转瓶+垂直蒸发轴+冷凝竖管+接收瓶+真空表+水浴锅</desc>
+  <g id="body"><path d="M20 80 L60 80 L60 110 Q60 116 54 116 L26 116 Q20 116 20 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M30 60 Q30 80 40 80 Q50 80 50 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M38 60 L38 30 L42 30 L42 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M42 30 L42 20 L80 20 L80 60 L74 60 L74 100 L60 100 L60 60 L68 60 L68 30 L42 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M22 84 L58 84 L58 108 Q58 114 54 114 L26 114 Q22 114 22 108 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M32 64 Q32 78 40 78 Q48 78 48 64 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M62 64 L72 64 L72 98 L62 98 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M74 40 L82 40 L82 48 L74 48 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M42 30 L42 20 L44 20 L44 30 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

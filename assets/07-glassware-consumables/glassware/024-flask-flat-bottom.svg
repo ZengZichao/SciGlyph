@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>平底烧瓶</title>
+  <path d="M10.5 3 L10.5 8 Q6 9.5 5 13 L5 19 Q5 20.5 7 20.5 L17 20.5 Q19 20.5 19 19 L19 13 Q18 9.5 13.5 8 L13.5 3"/>
+  <line x1="10" y1="3" x2="14" y2="3"/>
+  <line x1="5" y1="20.5" x2="19" y2="20.5"/>
+  <path d="M10.5 4 L10.5 6" stroke-width="0.75"/>
+  <path d="M13.5 4 L13.5 6" stroke-width="0.75"/>
+  <path d="M6 15 Q12 17 18 15" stroke-width="0.75" stroke-dasharray="2 2"/>
+  <path d="M6 9.5 Q12 8 18 9.5" stroke-width="0.75"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="螺菌" data-name-en="Bacterium Spiral" data-cat="natural-sciences" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">螺菌 / bacterium_spiral</title>
+  <desc id="d-41">展示螺菌螺旋形态。关键词: bacterium,spirillum,spiral</desc>
+  <g id="g-41-螺菌">
+    <path d="M30,60 C40,40 50,80 60,60 C70,40 80,80 90,60 C100,40 110,80 120,60 C130,40 140,80 150,60" fill="none" stroke="#009E73" stroke-width="3" stroke-linecap="round" data-drole="series-1"/>
+    <path d="M30,60 C40,40 50,80 60,60 C70,40 80,80 90,60 C100,40 110,80 120,60 C130,40 140,80 150,60" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-linecap="round"/>
+    <circle cx="50" cy="55" r="3" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="65" r="3" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="110" cy="55" r="3" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

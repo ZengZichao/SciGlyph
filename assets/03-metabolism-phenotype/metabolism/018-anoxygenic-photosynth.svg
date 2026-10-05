@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-metabolism" role="img" aria-labelledby="t-18_anoxygenic_photosynth d-18_anoxygenic_photosynth" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-18_anoxygenic_photosynth">不产氧光合(紫细菌) / Anoxygenic Photosynthesis</title>
+  <desc id="d-18_anoxygenic_photosynth">紫细菌环式光合磷酸化。单光系统(RC-LH1)，H2S或有机物为电子供体，不放氧。关键词: purple bacteria, cyclic photophosphorylation, BChl</desc>
+  <defs>
+    <marker id="pp18__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+    </marker>
+    
+  </defs>
+  <g id="layer-body" data-name="body">
+        <line x1="5" y1="60" x2="95" y2="60" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+    <line x1="5" y1="75" x2="95" y2="75" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
+        <rect x="25" y="62" width="20" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="35.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RC-LH1</text>
+        <rect x="55" y="62" width="14" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="62.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cyt</text>
+        <rect x="75" y="62" width="14" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="82.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ATP</text>
+        <circle cx="35" cy="35" r="7" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
+    <text x="35" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">hν</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+        <line x1="35" y1="42" x2="35" y2="61" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
+        <line x1="45" y1="67" x2="55" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
+        <line x1="69" y1="67" x2="75" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
+    <path d="M82,62 Q90,40 35,35" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="50" y="15" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cyclic</text>
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no O₂ evolved</text>
+  </g>
+</svg>

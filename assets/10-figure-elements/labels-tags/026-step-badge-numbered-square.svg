@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-step-badge-numbered-square" data-cat="lb" data-spec="160"
+     data-tags="step,badge,numbered,square,sequence,1" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">步骤序号方牌 / Step Badge Numbered Square</title>
+  <desc id="d">步骤序号方牌，数字1。</desc>
+  <g id="body">
+    <rect x="30" y="18" width="100" height="60" rx="4" ry="4" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="80" y="60" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="36" font-weight="600" text-anchor="middle" data-ls="stroke">1</text>
+  </g>
+</svg>

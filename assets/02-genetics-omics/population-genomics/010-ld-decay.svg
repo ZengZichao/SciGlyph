@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-population-genomics" role="img" aria-labelledby="t-ld_decay d-ld_decay" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-ld_decay">LD 衰减曲线 / Linkage disequilibrium decay</title>
+<desc id="d-ld_decay">r2 vs距离多条下降曲线按群体分开LOWESS带 关键词: LD, r², decay, LOWESS, population</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">LD Decay</text>
+<line x1="80.0" y1="330.0" x2="550.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="330.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="315.0" y="355.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Distance (kb)</text>
+<text x="55.0" y="190.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">r²</text>
+<polyline points="80.0,97.2 92.1,107.4 104.1,106.4 116.2,124.6 128.2,126.4 140.3,135.7 152.3,137.6 164.4,141.1 176.4,144.5 188.5,155.2 200.5,155.3 212.6,161.5 224.6,172.6 236.7,184.6 248.7,185.5 260.8,195.6 272.8,186.7 284.9,200.4 296.9,199.7 309.0,215.8 321.0,218.3 333.1,221.3 345.1,224.0 357.2,226.0 369.2,230.8 381.3,231.5 393.3,234.9 405.4,243.3 417.4,247.0 429.5,245.0 441.5,252.3 453.6,249.1 465.6,258.8 477.7,252.4 489.7,262.6 501.8,254.4 513.8,261.5 525.9,253.9 537.9,268.0 550.0,266.5" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,92.0 92.1,100.5 104.1,108.6 116.2,116.4 128.2,123.9 140.3,131.2 152.3,138.2 164.4,144.9 176.4,151.3 188.5,157.5 200.5,163.5 212.6,169.3 224.6,174.8 236.7,180.1 248.7,185.3 260.8,190.2 272.8,194.9 284.9,199.5 296.9,203.9 309.0,208.1 321.0,212.2 333.1,216.1 345.1,219.9 357.2,223.5 369.2,227.0 381.3,230.4 393.3,233.6 405.4,236.7 417.4,239.7 429.5,242.6 441.5,245.3 453.6,248.0 465.6,250.6 477.7,253.0 489.7,255.4 501.8,257.7 513.8,259.9 525.9,262.0 537.9,264.1 550.0,266.0" fill="none" stroke="#2E86AB" stroke-width="2.5" data-pp="bacteria" stroke-dasharray="6,3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,87.8 92.1,108.7 104.1,121.5 116.2,128.9 128.2,134.8 140.3,147.0 152.3,164.9 164.4,169.3 176.4,178.9 188.5,192.3 200.5,202.5 212.6,212.4 224.6,205.8 236.7,226.1 248.7,224.4 260.8,229.7 272.8,241.6 284.9,238.0 296.9,238.4 309.0,245.1 321.0,255.7 333.1,264.0 345.1,253.3 357.2,264.4 369.2,265.7 381.3,265.8 393.3,275.6 405.4,283.7 417.4,284.9 429.5,278.3 441.5,285.8 453.6,279.1 465.6,283.2 477.7,280.9 489.7,287.8 501.8,295.5 513.8,288.8 525.9,303.0 537.9,296.0 550.0,291.4" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,92.0 92.1,105.9 104.1,119.0 116.2,131.2 128.2,142.7 140.3,153.4 152.3,163.5 164.4,173.0 176.4,181.9 188.5,190.2 200.5,198.0 212.6,205.3 224.6,212.2 236.7,218.7 248.7,224.7 260.8,230.4 272.8,235.7 284.9,240.7 296.9,245.3 309.0,249.7 321.0,253.8 333.1,257.7 345.1,261.3 357.2,264.7 369.2,267.9 381.3,270.9 393.3,273.7 405.4,276.3 417.4,278.8 429.5,281.1 441.5,283.3 453.6,285.3 465.6,287.2 477.7,289.0 489.7,290.7 501.8,292.2 513.8,293.7 525.9,295.1 537.9,296.4 550.0,297.6" fill="none" stroke="#A2305B" stroke-width="2.5" data-pp="archaea" stroke-dasharray="6,3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,91.8 92.1,119.9 104.1,133.5 116.2,150.6 128.2,169.6 140.3,175.3 152.3,197.6 164.4,210.6 176.4,217.3 188.5,232.0 200.5,238.7 212.6,245.2 224.6,243.2 236.7,264.0 248.7,267.8 260.8,273.0 272.8,264.3 284.9,270.3 296.9,285.8 309.0,283.0 321.0,294.2 333.1,293.1 345.1,295.2 357.2,294.2 369.2,289.7 381.3,293.6 393.3,299.9 405.4,297.1 417.4,303.6 429.5,300.7 441.5,301.0 453.6,310.8 465.6,302.0 477.7,307.1 489.7,309.4 501.8,311.6 513.8,315.1 525.9,310.9 537.9,317.7 550.0,309.6" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="80.0,92.0 92.1,113.8 104.1,133.5 116.2,151.3 128.2,167.4 140.3,181.9 152.3,194.9 164.4,206.7 176.4,217.4 188.5,227.0 200.5,235.7 212.6,243.5 224.6,250.6 236.7,257.0 248.7,262.7 260.8,267.9 272.8,272.6 284.9,276.8 296.9,280.6 309.0,284.1 321.0,287.2 333.1,290.0 345.1,292.5 357.2,294.8 369.2,296.9 381.3,298.8 393.3,300.4 405.4,302.0 417.4,303.3 429.5,304.6 441.5,305.7 453.6,306.7 465.6,307.6 477.7,308.4 489.7,309.1 501.8,309.8 513.8,310.4 525.9,311.0 537.9,311.5 550.0,311.9" fill="none" stroke="#00857A" stroke-width="2.5" data-pp="metabolism" stroke-dasharray="6,3" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="80.0" y1="274.0" x2="550.0" y2="274.0" stroke="#C42D2D" stroke-width="1" data-pp="alert" stroke-dasharray="4,3" stroke-linecap="round"/>
+<text x="555.0" y="277.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">0.2</text>
+<line x1="400.0" y1="45.0" x2="420.0" y2="45.0" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<text x="425.0" y="49.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pop A</text>
+<line x1="460.0" y1="45.0" x2="480.0" y2="45.0" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-linecap="round"/>
+<text x="485.0" y="49.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pop B</text>
+<line x1="520.0" y1="45.0" x2="540.0" y2="45.0" stroke="#00857A" stroke-width="2" data-pp="metabolism" stroke-linecap="round"/>
+<text x="545.0" y="49.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Pop C</text>
+<line x1="174.0" y1="330.0" x2="174.0" y2="335.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="268.0" y1="330.0" x2="268.0" y2="335.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="362.0" y1="330.0" x2="362.0" y2="335.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="456.0" y1="330.0" x2="456.0" y2="335.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="550.0" y1="330.0" x2="550.0" y2="335.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="80.0" y1="274.0" x2="75.0" y2="274.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="80.0" y1="218.0" x2="75.0" y2="218.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="80.0" y1="162.0" x2="75.0" y2="162.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<line x1="80.0" y1="106.0" x2="75.0" y2="106.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+<circle cx="80.0" cy="97.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="176.4" cy="144.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="309.0" cy="215.8" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="441.5" cy="252.3" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="550.0" cy="266.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<circle cx="80.0" cy="87.8" r="3" fill="#A2305B" data-pp="archaea"/>
+<circle cx="176.4" cy="178.9" r="3" fill="#A2305B" data-pp="archaea"/>
+<circle cx="309.0" cy="245.1" r="3" fill="#A2305B" data-pp="archaea"/>
+<circle cx="441.5" cy="285.8" r="3" fill="#A2305B" data-pp="archaea"/>
+<circle cx="550.0" cy="291.4" r="3" fill="#A2305B" data-pp="archaea"/>
+<circle cx="80.0" cy="91.8" r="3" fill="#00857A" data-pp="metabolism"/>
+<circle cx="176.4" cy="217.3" r="3" fill="#00857A" data-pp="metabolism"/>
+<circle cx="309.0" cy="283.0" r="3" fill="#00857A" data-pp="metabolism"/>
+<circle cx="441.5" cy="301.0" r="3" fill="#00857A" data-pp="metabolism"/>
+<circle cx="550.0" cy="309.6" r="3" fill="#00857A" data-pp="metabolism"/>
+<text x="300.0" y="375.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">schematic, not to scale</text>
+</g>
+</svg>

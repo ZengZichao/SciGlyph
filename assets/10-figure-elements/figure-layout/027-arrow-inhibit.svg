@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-27_arrow_inhibit d-27_arrow_inhibit" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-27_arrow_inhibit">抑制T头 / Inhibition T</title>
+  <desc id="d-27_arrow_inhibit">抑制T型终端(抑制作用)。骨架，配合抑制/负调控使用。关键词: arrow, inhibition, T-bar</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="15" y1="50" x2="80" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="80" y1="36" x2="80" y2="64" stroke="#1B2733" data-pp="ink" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Inhibition T</text>
+  </g>
+</svg>

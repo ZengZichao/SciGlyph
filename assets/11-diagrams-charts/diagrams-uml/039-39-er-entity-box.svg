@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="ER实体三栏" data-name-en="Er Entity Box" data-cat="diagrams-sw-uml" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39">ER实体三栏 / er_entity_box</title>
+  <desc id="d-39">ER实体三栏框(名/属性/方法)。关键词: entity,er,attribute</desc>
+  <g id="g-39-ER实体三栏">
+    <rect x="10" y="10" width="140" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <text x="80" y="30" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">User</text>
+    <rect x="10" y="40" width="140" height="35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="16" y="56" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">name: String</text>
+    <text x="16" y="68" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">age: Int</text>
+    <rect x="10" y="75" width="140" height="35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="16" y="91" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">login()</text>
+    <text x="16" y="103" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">update()</text>
+  </g>
+</svg>

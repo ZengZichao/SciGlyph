@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="α螺旋" data-name-en="Protein Alpha Helix" data-cat="natural-sciences" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29">α螺旋 / protein_alpha_helix</title>
+  <desc id="d-29">展示蛋白质α螺旋结构。关键词: alpha helix,secondary structure,hydrogen bond</desc>
+  <g id="g-29-α螺旋">
+    <path d="M40,110 C50,100 70,100 80,90 C90,80 70,70 60,60 C50,50 70,40 80,30 C90,20 70,10 60,10" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
+    <line x1="65" y1="95" x2="75" y2="65" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <line x1="65" y1="55" x2="75" y2="25" stroke="#D55E00" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-2"/>
+    <circle cx="45" cy="105" r="4" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <circle cx="75" cy="85" r="4" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="65" cy="55" r="4" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="75" cy="25" r="4" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-stereo-microscope" data-cat="ls" data-spec="128"
+     data-tags="stereo,microscope,dissecting,binocular,zoom,illumination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">体视显微镜 / Stereo Microscope</title>
+  <desc id="d">体视显微镜：双光路、双目镜、变焦旋钮。</desc>
+  <g id="body">
+<rect x="28" y="92" width="72" height="16" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+<rect x="76" y="36" width="14" height="60" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+<rect x="30" y="10" width="10" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="44" y="10" width="10" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="28" y="8" width="14" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="42" y="8" width="14" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="34" y="28" width="24" height="20" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="60" cy="38" r="5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="68" y="40" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Zoom</text>
+<rect x="40" y="48" width="12" height="8" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<line x1="46" y1="56" x2="46" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+<rect x="30" y="80" width="40" height="6" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<circle cx="46" cy="56" r="8" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="1.5" data-ls="accent"/>
+<circle cx="50" cy="98" r="4" fill="#F5A623" opacity="0.4" stroke="none" data-ls="warn"/>
+  </g>
+</svg>

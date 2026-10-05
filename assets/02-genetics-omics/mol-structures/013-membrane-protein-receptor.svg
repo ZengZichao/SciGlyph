@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="受体与配体" data-name-en="Membrane Protein Receptor" data-cat="natural-sciences" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24">受体与配体 / membrane_protein_receptor</title>
+  <desc id="d-24">展示受体与配体结合。关键词: receptor,ligand,signal transduction</desc>
+  <g id="g-24-受体与配体">
+    <rect x="10" y="60" width="140" height="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M60,40 L60,60 L75,60 L75,40 C75,30 60,30 60,40" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M85,40 L85,60 L100,60 L100,40 C100,30 85,30 85,40" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="80" cy="18" r="10" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="80" y1="28" x2="80" y2="35" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <path d="M60,80 L60,100 L100,100 L100,80" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
+  </g>
+</svg>

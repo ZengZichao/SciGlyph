@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-filamentous_extrusion d-filamentous_extrusion" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-filamentous_extrusion">丝状噬菌体非裂解释放 / Filamentous phage non-lytic extrusion</title>
+  <desc id="d-filamentous_extrusion">丝状噬菌体(M13/fd)非裂解释放：pVIII在宿主内膜组装包裹ssDNA，颗粒经外膜通道挤出(extrusion)分泌，不杀死宿主细胞。宿主持续生长但速率降低。关键词: filamentous phage, non-lytic, extrusion, secretion, M13, chronic infection</desc>
+  <g id="layer-body-filamentous_extrusion" data-name="body">
+    <rect x="5" y="30" width="50" height="35" rx="17" ry="17" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="5" y1="48" x2="55" y2="48" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-dasharray="3,2"/>
+    <rect x="48" y="43" width="18" height="8" rx="4" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <path d="M50,47 Q52,44 54,47 Q56,50 58,47 Q60,44 62,47" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="0.8"/>
+    <rect x="66" y="44" width="30" height="7" rx="3.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <path d="M68,47.5 Q72,44 76,47.5 Q80,51 84,47.5 Q88,44 92,47.5" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="0.8"/>
+    <circle cx="30" cy="47" r="3" fill="#00857A" data-pp="metabolism" fill-opacity="0.5"/>
+    <line x1="55" y1="30" x2="55" y2="65" stroke="#00857A" data-pp="metabolism" stroke-width="0.5" stroke-dasharray="1,2"/>
+  </g>
+  <g id="layer-annotation-filamentous_extrusion" data-name="annotation">
+    <text x="60" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">extrusion</text>
+    <text x="8" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">host alive</text>
+  </g>
+</svg>

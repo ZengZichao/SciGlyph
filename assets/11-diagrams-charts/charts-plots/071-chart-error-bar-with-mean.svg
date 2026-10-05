@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ch-chart-error-bar-with-mean" data-cat="ch" data-spec="128"
+     data-tags="chart,error-bar,mean,std,deviation,confidence" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">均值误差棒图 / Chart Error Bar With Mean</title>
+  <desc id="d">均值加减误差棒。</desc>
+  <g id="body">
+    <line x1="20" y1="108" x2="116" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="20" y1="20" x2="20" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="40" y1="50" x2="40" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="35" y1="50" x2="45" y2="50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="35" y1="80" x2="45" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="40" cy="65" r="4" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="70" y1="35" x2="70" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="65" y1="35" x2="75" y2="35" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="65" y1="70" x2="75" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="70" cy="52" r="4" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="100" y1="60" x2="100" y2="90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="95" y1="60" x2="105" y2="60" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="95" y1="90" x2="105" y2="90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="100" cy="75" r="4" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

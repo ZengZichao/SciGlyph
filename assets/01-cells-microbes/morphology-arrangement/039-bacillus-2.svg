@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-bacillus d-bacillus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-bacillus">杆菌 / Bacillus</title>
+  <desc id="d-bacillus">单个杆状细菌细胞，长宽比约3:1。关键词: bacillus, rod-shaped</desc>
+  
+  <g id="layer-body-1" data-name="body">
+    <rect x="20.0" y="41.0" width="60" height="18" rx="9.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
+  <rect x="23" y="44" width="54" height="12" rx="6" fill="none" stroke="#1B2733" stroke-width="0.8" data-pp="ink" stroke-dasharray="2,1"/><path d="M32,50 Q45,43 58,50" fill="none" stroke="#6C3FA0" stroke-width="1.5" data-pp="gene" stroke-linecap="round"/><circle cx="38" cy="53" r="1.2" fill="#6C3FA0" data-pp="gene"/><circle cx="52" cy="47" r="1.2" fill="#6C3FA0" data-pp="gene"/></g>
+  <g id="layer-annotation-1" data-name="annotation">
+    <line x1="78" y1="40" x2="88" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="72" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">rod</text><line x1="15" y1="85" x2="35" y2="85" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/><line x1="15" y1="83" x2="15" y2="87" stroke="#1B2733" stroke-width="1" data-pp="ink"/><line x1="35" y1="83" x2="35" y2="87" stroke="#1B2733" stroke-width="1" data-pp="ink"/><text x="25.0" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1 μm</text>
+  </g>
+</svg>

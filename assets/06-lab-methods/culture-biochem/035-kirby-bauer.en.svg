@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-kirby_bauer d-kirby_bauer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-kirby_bauer">Kirby-Bauer</title>
+  <desc id="d-kirby_bauer">Kirby-Bauer纸片扩散法: 药敏纸片产生抑菌圈, 测量直径判定敏感性。关键词: Kirby-Bauer, disk diffusion, susceptibility, zone of inhibition, AST</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="50" cy="48" r="30" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <circle cx="50" cy="48" r="28" fill="#2E86AB" fill-opacity="0.15" data-pp="bacteria"/>
+    <circle cx="38" cy="38" r="4" fill="#E8871E" stroke="#1B2733" stroke-width="0.5" data-pp="mge"/>
+    <circle cx="60" cy="35" r="4" fill="#E8871E" stroke="#1B2733" stroke-width="0.5" data-pp="mge"/>
+    <circle cx="45" cy="58" r="4" fill="#E8871E" stroke="#1B2733" stroke-width="0.5" data-pp="mge"/>
+    <circle cx="62" cy="55" r="4" fill="#E8871E" stroke="#1B2733" stroke-width="0.5" data-pp="mge"/>
+    <circle cx="38" cy="38" r="9" fill="none" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,1" data-pp="muted"/>
+    <circle cx="60" cy="35" r="7" fill="none" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,1" data-pp="muted"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Susceptibility</text>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-colony_morphology d-colony_morphology" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-colony_morphology">菌落形态 / Colony morphology types</title>
+  <desc id="d-colony_morphology">菌落形态类型：光滑(S型)、粗糙(R型)、黏液型(mucoid,荚膜)、假根型(rhizoid)、扩展型(spreading/swarming)、色素型(pigmented)。关键词: colony morphology, smooth, rough, mucoid, rhizoid, swarming, pigmented</desc>
+  <g id="layer-body-colony_morphology" data-name="body">
+    
+    <circle cx="18" cy="25" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+    <text x="18" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S</text>
+    
+    <circle cx="42" cy="25" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-dasharray="1,1" />
+    <text x="42" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">R</text>
+    
+    <circle cx="65" cy="25" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" fill-opacity="0.5" />
+    <circle cx="65" cy="25" r="10" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="1,1" />
+    <text x="65" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">mucoid</text>
+    
+    <path d="M18,55 Q15,50 12,55 Q10,60 15,60 Q20,62 22,58 Q24,54 18,55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+    <text x="18" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">rhizoid</text>
+    
+    <circle cx="30" cy="58" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.3" />
+    <text x="30" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">spread</text>
+    
+    <circle cx="70" cy="58" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
+    <text x="70" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">pigment</text>
+  </g>
+  <g id="layer-annotation-colony_morphology" data-name="annotation">
+    <text x="50" y="84.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">colony morphology</text>
+    <text x="50" y="92.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">colony types</text>
+  </g>
+</svg>

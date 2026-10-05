@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="pf-process-rectangle" data-cat="pf" data-spec="160"
+     data-tags="process,rectangle,step,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">处理矩形 / Process Rectangle</title>
+  <desc id="d">流程图处理步骤符号，矩形框，表示一个处理过程。</desc>
+  <g id="body">
+    <rect x="20" y="20" width="120" height="56" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

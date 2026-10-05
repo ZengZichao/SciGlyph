@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-influenza d-influenza" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-influenza">流感病毒(包膜) / Influenza enveloped segmented virus</title>
+  <desc id="d-influenza">流感病毒(Orthomyxoviridae科)。有脂质包膜，表面HA(血凝素三聚体)+NA(神经氨酸酶四聚体)+M2离子通道。8条分段ssRNA(-)基因组。关键词: influenza, HA, NA, M2, segmented genome, enveloped</desc>
+  <g id="layer-body-influenza" data-name="body">
+    <!-- Lipid envelope (oval) -->
+    <ellipse cx="50" cy="50" rx="35" ry="28" fill="#F4F1EA" data-pp="bg" stroke="#8C6D3F" stroke-width="2"/>
+    <!-- Inner membrane -->
+    <ellipse cx="50" cy="50" rx="30" ry="23" fill="none" stroke="#8C6D3F" data-pp="host" stroke-width="1" stroke-dasharray="2,1"/>
+    <!-- HA spikes (trimeric, red) -->
+    <line x1="20" y1="40" x2="12" y2="35" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="11" cy="34" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="25" y1="28" x2="18" y2="22" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="17" cy="21" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="50" y1="22" x2="50" y2="14" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-linecap="round"/>
+    <circle cx="50" cy="13" r="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- NA spikes (tetrameric, blue) -->
+    <line x1="80" y1="40" x2="88" y2="35" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" stroke-linecap="round"/>
+    <rect x="86" y="32" width="4" height="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="75" y1="70" x2="82" y2="76" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" stroke-linecap="round"/>
+    <rect x="80" y="74" width="4" height="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <!-- M2 ion channel -->
+    <line x1="35" y1="72" x2="30" y2="78" stroke="#00857A" data-pp="metabolism" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Segmented genome (8 RNA segments) -->
+    <path d="M35,42 Q40,38 45,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M35,47 Q40,43 45,47" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M35,52 Q40,48 45,52" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M35,57 Q40,53 45,57" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M50,42 Q55,38 60,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M50,47 Q55,43 60,47" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M50,52 Q55,48 60,52" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <path d="M50,57 Q55,53 60,57" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation-influenza" data-name="annotation">
+    <text x="3" y="32" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">HA</text>
+    <text x="90" y="32" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NA</text>
+    <text x="18" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">M2</text>
+    <text x="50" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">8×RNA</text>
+  </g>
+</svg>

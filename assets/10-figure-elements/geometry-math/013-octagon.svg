@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="八边形" data-name-en="Octagon" data-cat="geometry-math" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-13">八边形 / octagon</title>
+  <desc id="d-13">正八边形。关键词: octagon,polygon,geometry</desc>
+  <g id="g-13-八边形">
+    <polygon points="42,12 78,12 108,42 108,78 78,108 42,108 12,78 12,42" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <text x="38" y="9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="82" y="9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">B</text>
+    <text x="114" y="46" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">C</text>
+    <text x="114" y="82" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">D</text>
+    <text x="82" y="118" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">E</text>
+    <text x="38" y="118" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">F</text>
+    <text x="6" y="82" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">G</text>
+    <text x="6" y="46" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">H</text>
+  </g>
+</svg>

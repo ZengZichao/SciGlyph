@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="与非门" data-name-en="gate-nand" data-cat="flowchart-logic" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-52">与非门 / gate_nand</title>
+  <desc id="d-52">逻辑与非门符号。关键词: gate,nand,logic</desc>
+  <g id="g-52-与非门">
+    <path d="M20,15 L50,15 A30,25 0 0,1 50,65 L20,65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="86" cy="40" r="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="30" x2="20" y2="30" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="5" y1="50" x2="20" y2="50" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="91" y1="40" x2="112" y2="40" stroke="#1f2937" stroke-width="1.5"/>
+    <polygon points="108,36 116,40 108,44" fill="#1f2937"/>
+    <text x="40" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">NAND</text>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-14 d-14" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">多样性环形扇区 / Diversity Ring Sector</title>
+  <desc id="d-14">装饰零件，贴到树上用。环形扇区显示多样性指数。 关键词: tree decoration, diversity ring, Sector</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="diversity-ring">
+    <path d="M 200.0 120.0 L 200.0 50.0 A 150 150 0 0 1 306.1 93.9 L 256.6 143.4 A 80 80 0 0 0 200.0 120.0 Z" fill="#3F8FBF" fill-opacity="0.30" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 256.6 143.4 L 306.1 93.9 A 150 150 0 0 1 350.0 200.0 L 280.0 200.0 A 80 80 0 0 0 256.6 143.4 Z" fill="#3F8FBF" fill-opacity="0.50" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 280.0 200.0 L 350.0 200.0 A 150 150 0 0 1 306.1 306.1 L 256.6 256.6 A 80 80 0 0 0 280.0 200.0 Z" fill="#3F8FBF" fill-opacity="0.70" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 256.6 256.6 L 306.1 306.1 A 150 150 0 0 1 200.0 350.0 L 200.0 280.0 A 80 80 0 0 0 256.6 256.6 Z" fill="#3F8FBF" fill-opacity="0.30" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 200.0 280.0 L 200.0 350.0 A 150 150 0 0 1 93.9 306.1 L 143.4 256.6 A 80 80 0 0 0 200.0 280.0 Z" fill="#3F8FBF" fill-opacity="0.50" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 143.4 256.6 L 93.9 306.1 A 150 150 0 0 1 50.0 200.0 L 120.0 200.0 A 80 80 0 0 0 143.4 256.6 Z" fill="#3F8FBF" fill-opacity="0.70" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 120.0 200.0 L 50.0 200.0 A 150 150 0 0 1 93.9 93.9 L 143.4 143.4 A 80 80 0 0 0 120.0 200.0 Z" fill="#3F8FBF" fill-opacity="0.30" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <path d="M 143.4 143.4 L 93.9 93.9 A 150 150 0 0 1 200.0 50.0 L 200.0 120.0 A 80 80 0 0 0 143.4 143.4 Z" fill="#3F8FBF" fill-opacity="0.50" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+  </g>
+  <g data-name="annotation">
+    <circle cx="200" cy="200" r="80" fill="none" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-dasharray="2 2"/>
+    <circle cx="200" cy="200" r="150" fill="none" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-dasharray="2 2"/>
+    <circle cx="200" cy="200" r="5" fill="#93A0AC" data-pp="muted"/>
+    <line x1="200" y1="40" x2="200" y2="50" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="350" y1="200" x2="360" y2="200" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="200" y1="350" x2="200" y2="360" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+  </g>
+</svg>

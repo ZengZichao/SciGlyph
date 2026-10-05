@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-gene_content_heatmap d-gene_content_heatmap" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gene_content_heatmap">基因内容热图 / Gene content presence/absence heatmap</title>
+  <desc id="d-gene_content_heatmap">基因家族存在/缺失热图。schematic, not to scale. 关键词: gene content, presence, absence</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="heatmap">
+  <rect x="100" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="170" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="205" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="240" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="450" y="70" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="70" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="88" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="135" y="88" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="170" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="88" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="88" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="88" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="88" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="100" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="106" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="205" y="106" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="240" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="106" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="124" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="124" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="124" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="124" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="124" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="310" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="415" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="450" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="124" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="100" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="142" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="240" y="142" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="142" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="415" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="142" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="142" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="160" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="160" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="160" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="450" y="160" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="160" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="178" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="178" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="178" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="450" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="178" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="196" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="170" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="196" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="196" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="310" y="196" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="196" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="196" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="214" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="214" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="415" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="214" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="214" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="232" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="240" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="232" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="310" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="232" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="415" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="232" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="232" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="100" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="250" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="250" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="250" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="250" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="100" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="268" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="205" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="268" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="268" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="268" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="268" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="286" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="170" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="286" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="286" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="286" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="286" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="100" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="135" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="170" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="205" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="240" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="275" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="345" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="380" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="415" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="450" y="304" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="485" y="304" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="100" y="322" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="135" y="322" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="170" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="205" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="240" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="275" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="310" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="345" y="322" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="380" y="322" width="33" height="16" fill="#93A0AC" data-pp="muted"/>
+  <rect x="415" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="450" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="485" y="322" width="33" height="16" fill="#2E86AB" data-pp="bacteria"/>
+</g>
+<g data-name="labels">
+  <text x="117.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G1</text>
+  <text x="152.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G2</text>
+  <text x="187.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G3</text>
+  <text x="222.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G4</text>
+  <text x="257.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G5</text>
+  <text x="292.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G6</text>
+  <text x="327.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G7</text>
+  <text x="362.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G8</text>
+  <text x="397.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G9</text>
+  <text x="432.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G10</text>
+  <text x="467.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G11</text>
+  <text x="502.5" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">G12</text>
+  <text x="90" y="82.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F1</text>
+  <text x="90" y="100.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F2</text>
+  <text x="90" y="118.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F3</text>
+  <text x="90" y="136.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F4</text>
+  <text x="90" y="154.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F5</text>
+  <text x="90" y="172.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F6</text>
+  <text x="90" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F7</text>
+  <text x="90" y="208.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F8</text>
+  <text x="90" y="226.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F9</text>
+  <text x="90" y="244.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F10</text>
+  <text x="90" y="262.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F11</text>
+  <text x="90" y="280.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F12</text>
+  <text x="90" y="298.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F13</text>
+  <text x="90" y="316.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F14</text>
+  <text x="90" y="334.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F15</text>
+</g>
+<g data-name="legend">
+  <rect x="450" y="80" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="470" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Present</text>
+  <rect x="450" y="100" width="12" height="12" fill="#93A0AC" data-pp="muted"/>
+  <text x="470" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Absent</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Content Heatmap — Presence/Absence (schematic)</text>
+</svg>

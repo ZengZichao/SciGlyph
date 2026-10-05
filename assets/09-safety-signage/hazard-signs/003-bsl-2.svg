@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-bsl-2" data-cat="hz" data-spec="128"
+     data-tags="bsl,biosafety,level 2,biohazard,生物安全,二级" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">BSL-2实验室标志 / BSL-2 Lab Sign</title>
+  <desc id="d">生物安全二级实验室标志：含标准生物危害标志+字母。</desc>
+  <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="44" cy="50" r="10" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <circle cx="44" cy="50" r="3" fill="#1F2933" data-ls="stroke"/>
+    <circle cx="38" cy="42" r="6" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <circle cx="50" cy="42" r="6" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <circle cx="44" cy="58" r="6" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <text x="64" y="92" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="24" font-weight="600" text-anchor="middle" data-ls="stroke">BSL-2</text></g>
+  <g id="detail"></g>
+</svg>

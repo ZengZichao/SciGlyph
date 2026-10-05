@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-gc-injector-split" data-cat="an" data-spec="128"
+     data-tags="gc,injector,split,splitless,port,capillary" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">分流／不分流进样口 / Split-Splitless Injector</title>
+  <desc id="d">毛细管柱分流/不分流进样口，带隔垫、衬管、加热套。</desc>
+  <g id="body">
+    <rect x="20" y="18" width="88" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="20" y="18" width="88" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+  <g id="detail">
+<rect x="50" y="22" width="28" height="8" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+<line x1="64" y1="10" x2="64" y2="22" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+<polygon points="61,12 64,8 67,12" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<rect x="46" y="30" width="36" height="28" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="48" y="32" width="32" height="24" rx="3" fill="#F5A623" opacity="0.12" stroke="none" data-ls="warn"/>
+<rect x="58" y="34" width="12" height="20" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="60" y="44" width="8" height="8" rx="1" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+<line x1="64" y1="58" x2="64" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="61,64 64,76 67,64" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<line x1="82" y1="44" x2="100" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="88,41 100,44 88,47" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="96" y="40" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Split</text>
+<circle cx="100" cy="54" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<line x1="100" y1="54" x2="100" y2="48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="26" y="30" width="16" height="10" rx="3" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="34.0" y="38.0" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">250</text>
+    <text x="36.82" y="45.98" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">°C</text>
+    <text x="64" y="90" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Injector</text>
+    <rect x="26" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="92" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

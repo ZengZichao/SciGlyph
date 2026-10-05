@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="柱状图" data-name-en="chart_bar" data-cat="basic-icons-ui" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-24">柱状图 / chart_bar</title>
+  <desc id="d-24">柱状统计图图标。关键词: 柱状图,统计,chart,bar</desc>
+  <g id="g-24-柱状图">
+    <line x1="8" y1="40" x2="42" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="8" y1="8" x2="8" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="14" y="24" width="6" height="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="24" y="14" width="6" height="26" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="34" y="20" width="6" height="20" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

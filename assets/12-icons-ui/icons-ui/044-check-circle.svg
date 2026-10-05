@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="对勾圆" data-name-en="check_circle" data-cat="basic-icons-ui" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-44">对勾圆 / check_circle</title>
+  <desc id="d-44">成功确认图标。关键词: 对勾,确认,check,success</desc>
+  <g id="g-44-对勾圆">
+    <circle cx="24" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <polyline points="14,24 21,32 34,16" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

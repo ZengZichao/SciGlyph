@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-status-card-cleaned" data-cat="lb" data-spec="160"
+     data-tags="status,card,cleaned,blue,equipment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">状态牌已清洁 / Status Card Cleaned Blue</title>
+  <desc id="d">状态牌，已清洁蓝色。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="4" ry="4" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="80" y="54" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="20" font-weight="600" text-anchor="middle" data-ls="stroke">CLEANED</text>
+    <circle cx="80" cy="24" r="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  </g>
+</svg>

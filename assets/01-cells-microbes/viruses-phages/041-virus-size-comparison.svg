@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-virology" role="img" aria-labelledby="t-virus_size_comparison d-virus_size_comparison" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-virus_size_comparison">病毒尺寸对照 / Virus size comparison with bacteria ribosome protein</title>
+  <desc id="d-virus_size_comparison">病毒尺寸对照：蛋白(~5nm)、小病毒φX174(~25nm)、核糖体(~20nm)、流感(~100nm)、Mimivirus(衣壳~500nm，含纤维~600nm)、大肠杆菌(~2µm)。scale bar=100nm；前四者按比例绘制，Mimivirus与大肠杆菌超出画幅，按缩小示意并标注真实尺寸。关键词: virus size, comparison, scale bar, nanometer</desc>
+  <g id="layer-body-virus_size_comparison" data-name="body">
+    
+    <line x1="10" y1="85" x2="30" y2="85" stroke="#1B2733" stroke-width="1.5" />
+    <line x1="10" y1="82" x2="10" y2="88" stroke="#1B2733" stroke-width="1" />
+    <line x1="30" y1="82" x2="30" y2="88" stroke="#1B2733" stroke-width="1" />
+    <text x="20" y="93" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">100 nm</text>
+    
+    <circle cx="12" cy="70" r="0.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />
+    <text x="15.69" y="65.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">protein</text>
+    
+    <circle cx="25" cy="55" r="2.5" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5" />
+    <text x="25" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">φX174</text>
+    
+    <circle cx="45" cy="50" r="10" fill="#F4F1EA" data-pp="bg" stroke="#5B8C3E" stroke-width="1" />
+    <text x="45" y="36" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">flu</text>
+    
+    <polygon points="70,20 82,28 82,48 70,56 58,48 58,28" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" />
+    <text x="70" y="15.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Mimi</text>
+    <text x="70" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">500nm</text>
+    
+    <rect x="75" y="60" width="20" height="8" rx="4" ry="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+    <text x="85" y="57" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">E.coli</text>
+    <text x="85" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~2 µm</text>
+    
+    <circle cx="55" cy="70" r="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
+    <text x="55" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">ribo</text>
+  </g>
+  <g id="layer-annotation-virus_size_comparison" data-name="annotation">
+    <text x="50" y="7.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Virus size comparison</text>
+  </g>
+</svg>

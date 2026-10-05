@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-reactor-pfr-tubular" data-cat="uo" data-spec="128"
+     data-tags="pfr,tubular,reactor,coil,spiral,plug-flow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">管式反应器（螺旋盘管） / PFR Tubular Reactor</title>
+  <desc id="d">管式反应器，螺旋盘管形式。</desc>
+  <g id="body">
+    <path d="M20,30 Q20,18 34,18 Q48,18 48,30 Q48,42 34,42 Q20,42 20,54 Q20,66 34,66 Q48,66 48,54 Q48,42 62,42 Q76,42 76,54 Q76,66 62,66 Q48,66 48,78 Q48,90 62,90 Q76,90 76,78 Q76,66 90,66 Q104,66 104,78 Q104,90 90,90" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="10" y1="30" x2="20" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="16,30 22,26 22,34" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="90" y1="90" x2="110" y2="90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="104,90 98,86 98,94" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

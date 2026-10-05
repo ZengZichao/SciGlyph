@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-membrane-stack-crossflow" data-cat="sp" data-spec="128"
+     data-tags="membrane,stack,crossflow,filtration,tff" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">错流过滤膜堆 / Crossflow Membrane Stack</title>
+  <desc id="d">错流过滤膜堆，显示进料、透过、浓缩三路流向</desc>
+  <g id="body"><rect x="24" y="30" width="80" height="68" rx="4" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M32 38 L96 38 L96 90 L32 90 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M20 50 L32 50 L32 56 L20 56 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M16 50 L20 46 L20 60 L16 56 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M96 50 L108 50 L108 56 L96 56 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M108 50 L112 46 L112 60 L108 56 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M60 90 L68 90 L68 108 L60 108 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M60 108 L68 108 L72 112 L56 112 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M40 46 L88 46 M40 54 L88 54 M40 62 L88 62 M40 70 L88 70 M40 78 L88 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M40 50 L88 50 L88 52 L40 52 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-flagellar_swarming d-flagellar_swarming" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flagellar_swarming">鞭毛旋转与群集扩散 / Flagellar Rotation &amp; Swarming</title>
+  <desc id="d-flagellar_swarming">Coordinated flagellar rotation enables swarming motility on surfaces. 关键词: swarming, rotation, CCW, CW</desc>
+  
+  <g id="layer-body-flagellar_swarming" data-name="body">
+    <circle cx="50" cy="50" r="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M68.0,50.0 A18,18 0 0,1 59.0,65.6" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+    <path d="M50.0,68.0 A18,18 0 0,1 34.4,59.0" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+    <path d="M32.0,50.0 A18,18 0 0,1 41.0,34.4" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+    <path d="M50.0,32.0 A18,18 0 0,1 65.6,41.0" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-linecap="round"/>
+    <line x1="67.7" y1="67.7" x2="78.3" y2="78.3" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted" stroke-linecap="round"/>
+    <line x1="32.3" y1="67.7" x2="21.7" y2="78.3" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted" stroke-linecap="round"/>
+    <line x1="32.3" y1="32.3" x2="21.7" y2="21.7" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted" stroke-linecap="round"/>
+    <line x1="67.7" y1="32.3" x2="78.3" y2="21.7" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted" stroke-linecap="round"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="55" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">CCW</text>
+    <text x="70" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">swarm</text>
+  </g>
+</svg>

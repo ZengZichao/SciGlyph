@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-tubing-silicone-coil" data-cat="cs" data-spec="128"
+     data-tags="tubing,silicone,coil,peristaltic,pump" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">硅胶软管(盘绕) / Silicone Tubing Coil</title>
+  <desc id="d">硅胶软管盘绕，用于蠕动泵管。</desc>
+  <g id="body"><path d="M64 20 Q90 20 90 40 Q90 56 64 56 Q38 56 38 72 Q38 88 64 88 Q90 88 90 104 Q90 116 64 116" fill="#FFFFFF" opacity="0.3" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M64 20 Q90 20 90 40 Q90 56 64 56 Q38 56 38 72 Q38 88 64 88 Q90 88 90 104 Q90 116 64 116" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="detail"><path d="M64 18 L60 12 L68 12 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/><path d="M64 118 L60 124 L68 124 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  
+</svg>

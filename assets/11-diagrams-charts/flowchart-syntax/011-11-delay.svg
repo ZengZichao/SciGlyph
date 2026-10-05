@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="延迟" data-name-en="delay" data-cat="flowchart-logic" aria-labelledby="t-11 d-11" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11">延迟 / delay</title>
+  <desc id="d-11">延迟等待操作。关键词: flowchart,delay</desc>
+  <g id="g-11-延迟">
+    <path d="M20,15 L70,15 A30,25 0 0,1 70,65 L20,65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="50" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Delay</text>
+  </g>
+</svg>

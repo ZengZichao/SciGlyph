@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>禁止用水</title>
+  <circle cx="12" cy="12" r="9.5"/>
+  <line x1="5.5" y1="5.5" x2="18.5" y2="18.5"/>
+  <path d="M16.3 5.1L18.6 7.4L15.1 12.2L12.6 8.4Z"/>
+  <path d="M16.1 4.9Q17.8 4.5 18.4 6.3" stroke-width="0.75"/>
+  <line x1="13.6" y1="10" x2="11.8" y2="12.3" stroke-width="1" stroke-dasharray="1 1"/>
+  <path d="M8.9 18.6Q7.4 16.2 8.7 13.8Q9.1 15 10.2 15.2Q9.7 13.1 11.8 12.2Q11.3 14.2 12.7 15.2Q14.6 16.6 13.6 18.6Q12.6 20 11.25 20Q9.9 20 8.9 18.6Z"/>
+</svg>

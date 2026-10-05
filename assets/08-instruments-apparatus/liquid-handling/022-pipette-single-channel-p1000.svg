@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-pipette-single-channel-p1000" data-cat="lh" data-spec="128"
+     data-tags="pipette,p1000,liquid handling,micropipette,单道移液器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">机械式单道移液器 P1000 / Mechanical Single-Channel Pipette P1000</title>
+  <desc id="d">机械式单道移液器，量程100-1000μL，带体积窗、按钮和推出器</desc>
+  <g id="body"><path d="M52 10 L76 10 L76 18 L52 18 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M54 18 L54 42 L50 42 L50 52 L54 52 L54 60 L50 60 L50 72 L54 72 L54 80 L50 80 L50 92 L54 92 L54 100 L74 100 L74 92 L78 92 L78 80 L74 80 L74 72 L78 72 L78 60 L74 60 L74 52 L78 52 L78 42 L74 42 L74 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="56" y="24" width="16" height="14" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <path d="M58 38 L70 38 L70 36 L58 36 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+  <g id="detail"><text x="64" y="35" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="fill">1000</text>
+    <path d="M56 48 L72 48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M56 56 L72 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M56 64 L72 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M58 100 L58 112 L62 118 L66 118 L70 112 L70 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 94 L72 94 L72 96 L56 96 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+</svg>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-coverage_depth d-coverage_depth" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-coverage_depth">覆盖度深度图 / Coverage Depth Plot</title>
+  <desc id="d-coverage_depth">测序覆盖度深度沿基因组位置分布。关键词: coverage, depth, histogram</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Coverage Depth</text>
+    <line x1="70" y1="315" x2="550" y2="315" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <line x1="70" y1="55" x2="70" y2="315" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <text x="310.0" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Genome Position</text>
+    <text x="40" y="185.0" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" transform="rotate(-90,40,185.0)">Depth (×)</text>
+    <rect x="70.0" y="222.19297133759062" width="7.0" height="92.8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="78.0" y="208.12560112097032" width="7.0" height="106.9" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="86.0" y="207.37408608357669" width="7.0" height="107.6" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="94.0" y="198.57354569702514" width="7.0" height="116.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="102.0" y="194.72161495845802" width="7.0" height="120.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="110.0" y="167.35385497059553" width="7.0" height="147.6" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="118.0" y="187.16931607618577" width="7.0" height="127.8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="126.0" y="189.28360787686398" width="7.0" height="125.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="134.0" y="184.63811539023573" width="7.0" height="130.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="142.0" y="185.99810048282112" width="7.0" height="129.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="150.0" y="187.03447728698472" width="7.0" height="128.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="158.0" y="194.33727773076458" width="7.0" height="120.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="166.0" y="206.8109247653311" width="7.0" height="108.2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="174.0" y="207.57660426009812" width="7.0" height="107.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="182.0" y="217.46369374784368" width="7.0" height="97.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="190.0" y="306.3333333333333" width="7.0" height="8.7" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="198.0" y="306.3333333333333" width="7.0" height="8.7" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="206.0" y="256.50082968603806" width="7.0" height="58.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="214.0" y="261.6559260512367" width="7.0" height="53.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="222.0" y="258.6786004247383" width="7.0" height="56.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="230.0" y="271.55025353645294" width="7.0" height="43.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="238.0" y="265.56162691373066" width="7.0" height="49.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="246.0" y="267.31057733121753" width="7.0" height="47.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="254.0" y="282.97142899424176" width="7.0" height="32.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="262.0" y="294.02280130892717" width="7.0" height="21.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="270.0" y="270.29357294540966" width="7.0" height="44.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="278.0" y="265.4099865597164" width="7.0" height="49.6" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="286.0" y="272.1202245424913" width="7.0" height="42.9" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="294.0" y="255.67183616042067" width="7.0" height="59.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="302.0" y="259.4588862062156" width="7.0" height="55.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="310.0" y="107.0" width="7.0" height="208.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="318.0" y="107.0" width="7.0" height="208.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="326.0" y="212.15138987602546" width="7.0" height="102.8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="334.0" y="196.3974618104205" width="7.0" height="118.6" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="342.0" y="211.90094080220325" width="7.0" height="103.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="350.0" y="192.60129653767314" width="7.0" height="122.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="358.0" y="179.0415268517923" width="7.0" height="136.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="366.0" y="171.14940545124648" width="7.0" height="143.9" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="374.0" y="181.8051333588796" width="7.0" height="133.2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="382.0" y="188.93957128720217" width="7.0" height="126.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="390.0" y="306.3333333333333" width="7.0" height="8.7" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="398.0" y="193.12109327952817" width="7.0" height="121.9" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="406.0" y="176.77504839588693" width="7.0" height="138.2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="414.0" y="207.23691435641928" width="7.0" height="107.8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="422.0" y="199.4949774068755" width="7.0" height="115.5" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="430.0" y="207.605017235582" width="7.0" height="107.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="438.0" y="229.92336819324987" width="7.0" height="85.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="446.0" y="227.73163931858522" width="7.0" height="87.3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="454.0" y="237.39602656029376" width="7.0" height="77.6" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="462.0" y="251.92910188715726" width="7.0" height="63.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="470.0" y="242.88496224011107" width="7.0" height="72.1" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="478.0" y="252.03638461148844" width="7.0" height="63.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="486.0" y="257.8417727194634" width="7.0" height="57.2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="494.0" y="285.1616920908451" width="7.0" height="29.8" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="502.0" y="295.7780955063161" width="7.0" height="19.2" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="510.0" y="284.61028727419296" width="7.0" height="30.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="518.0" y="292.6437586040273" width="7.0" height="22.4" fill="#C42D2D" data-pp="alert" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="526.0" y="269.0237448120967" width="7.0" height="46.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="534.0" y="279.33857916925945" width="7.0" height="35.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="542.0" y="277.2793508771631" width="7.0" height="37.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.3" />
+    <line x1="70" y1="228.33333333333331" x2="550" y2="228.33333333333331" stroke="#00857A" data-pp="metabolism" stroke-width="1.5" stroke-dasharray="5,3" />
+    <text x="554.80" y="232.33" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">mean 50×</text>
+  </g>
+</svg>

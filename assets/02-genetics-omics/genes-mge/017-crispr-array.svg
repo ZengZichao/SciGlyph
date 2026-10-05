@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-17_crispr_array d-17_crispr_array" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-17_crispr_array">CRISPR阵列 / CRISPR Array</title>
+  <desc id="d-17_crispr_array">CRISPR阵列: cas基因簇+leader序列+repeat-spacer重复单元。spacer来自入侵者DNA。关键词: CRISPR, cas genes, leader, repeat, spacer, adaptation</desc>
+  <g id="layer-body" data-name="body">
+        <rect x="5" y="30" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="15.0" y="37.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas1-2</text>
+        <rect x="5" y="48" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
+    <text x="15.0" y="55.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas9</text>
+        <rect x="30" y="40" width="8" height="12" rx="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="34.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">L</text>
+        <rect x="40" y="40" width="6" height="12" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="43.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">R</text>
+        <rect x="48" y="40" width="10" height="12" rx="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <text x="53.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sp1</text>
+        <rect x="60" y="40" width="6" height="12" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="63.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">R</text>
+        <rect x="68" y="40" width="10" height="12" rx="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <text x="73.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sp2</text>
+        <rect x="80" y="40" width="6" height="12" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="83.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">R</text>
+        <rect x="88" y="40" width="8" height="12" rx="1" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
+    <text x="92.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sp3</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="25" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cas operon</text>
+    <line x1="65.0" y1="62.9" x2="58.27" y2="62.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="58.27" y="65.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">repeat-spacer array</text>
+    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">L=leader R=repeat</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">sp=spacer (invader)</text>
+  </g>
+</svg>

@@ -1,0 +1,72 @@
+# Citation File Format —— 见 https://citation-file-format.github.io/
+cff-version: 1.2.0
+message: "如果这些素材对您的工作有帮助，请按以下方式引用（CC BY 4.0 同时要求署名）。素材由 AI 辅助生成，使用前请自行核实科学准确性。 / AI-assisted artwork — verify scientific accuracy before use."
+title: "SciGlyph: AI-assisted Scientific Illustration Asset Library (12 categories, 2,830 SVG assets)"
+authors:
+  - name: "ZengZichao"
+    website: "https://github.com/ZengZichao"
+repository-code: "https://github.com/ZengZichao/SciGlyph"
+keywords:
+  - scientific-illustration
+  - svg
+  - microbiology
+  - phylogenetics
+  - laboratory-equipment
+  - safety-signage
+  - flowchart
+  - chart-primitives
+license: mixed
+  # assets/ 素材统一 CC-BY-4.0；tools/ 与 index.html 代码 MIT。
+  # 机器可读字段见 assets/manifest.json 与各级 manifest 的 license/license_uri/attribution。
+version: "1.0.0"
+date-released: 2026-10-05
+type: dataset
+commit: d6ddd8b5f0667cef8ff44f7877b8cdf4c607987
+repositories:
+  - url: "https://github.com/ZengZichao/SciGlyph"
+contents:
+  - name: "01 细胞与微生物形态结构 / Cells & Microbes"
+    count: 295
+    license: "CC-BY-4.0"
+  - name: "02 遗传信息与组学 / Genetics & Omics"
+    count: 233
+    license: "CC-BY-4.0"
+  - name: "03 代谢与生理表型 / Metabolism & Phenotype"
+    count: 105
+    license: "CC-BY-4.0"
+  - name: "04 系统发育与进化 / Phylogeny & Evolution"
+    count: 201
+    license: "CC-BY-4.0"
+  - name: "05 生态·生境与应用 / Ecology & Applications"
+    count: 121
+    license: "CC-BY-4.0"
+  - name: "06 实验方法与流程 / Lab Methods"
+    count: 140
+    license: "CC-BY-4.0"
+  - name: "07 器皿·耗材与通用器材 / Glassware & Consumables"
+    count: 244
+    license: "CC-BY-4.0"
+  - name: "08 仪器与装置 / Instruments & Apparatus"
+    count: 440
+    license: "CC-BY-4.0"
+  - name: "09 安全·防护与标识 / Safety & Signage"
+    count: 191
+    license: "CC-BY-4.0"
+  - name: "10 图版构件 / Figure Elements"
+    count: 325
+    license: "CC-BY-4.0"
+  - name: "11 图示语法·流程与图表 / Diagrams & Charts"
+    count: 437
+    license: "CC-BY-4.0"
+  - name: "12 通用图标与 UI / Icons & UI"
+    count: 98
+    license: "CC-BY-4.0"
+preferred-citation:
+  type: dataset
+  title: "SciGlyph: AI-assisted Scientific Illustration Asset Library"
+  authors:
+    - name: "ZengZichao"
+  repository-code: "https://github.com/ZengZichao/SciGlyph"
+  version: "1.0.0"
+  date: 2026-10-05
+  license: "CC-BY-4.0（素材）/ MIT（工具与页面代码）"

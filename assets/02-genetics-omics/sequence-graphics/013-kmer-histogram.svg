@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-kmer_histogram d-kmer_histogram" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-kmer_histogram">k-mer 计数直方图 / k-mer Count Histogram</title>
+  <desc id="d-kmer_histogram">单倍体基因组的 k-mer 丰度谱: 低丰度误差峰、主峰(拷贝数=基因组覆盖度, 用于估基因组大小)、高丰度重复峰。关键词: k-mer, histogram, genome size, coverage, repeats</desc>
+  <g data-name="body">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">k-mer Frequency Histogram</text>
+    <line x1="70" y1="315" x2="550" y2="315" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <line x1="70" y1="55" x2="70" y2="315" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
+    <text x="310.0" y="340" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">k-mer Multiplicity</text>
+    <text x="40" y="185.0" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" transform="rotate(-90,40,185.0)">Count</text>
+    <rect x="70.0" y="137.68223318728647" width="8.6" height="177.3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="79.6" y="182.67931744892215" width="8.6" height="132.3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="89.2" y="215.9962061902266" width="8.6" height="99.0" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="98.8" y="243.62203357881538" width="8.6" height="71.4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="108.4" y="257.67054029715746" width="8.6" height="57.3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="118.0" y="268.76642239108935" width="8.6" height="46.2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="127.6" y="273.1145782972244" width="8.6" height="41.9" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="137.2" y="296.2919036369236" width="8.6" height="18.7" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="146.8" y="285.74064493757373" width="8.6" height="29.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="156.4" y="271.9283778378724" width="8.6" height="43.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="166.0" y="258.8702241019302" width="8.6" height="56.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="175.6" y="243.62839594650956" width="8.6" height="71.4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="185.2" y="233.37244936051945" width="8.6" height="81.6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="194.8" y="224.47405344927526" width="8.6" height="90.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="204.4" y="217.88632172614606" width="8.6" height="97.1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="214.0" y="220.9218557763133" width="8.6" height="94.1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="223.6" y="226.67565707796757" width="8.6" height="88.3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="233.2" y="234.56524652849473" width="8.6" height="80.4" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="242.8" y="245.71114363212146" width="8.6" height="69.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="252.4" y="254.61249330605875" width="8.6" height="60.4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="262.0" y="254.90164916877558" width="8.6" height="60.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="271.6" y="254.70105606234455" width="8.6" height="60.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="281.2" y="248.23223002732226" width="8.6" height="66.8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="290.8" y="237.87573054257345" width="8.6" height="77.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="300.4" y="222.60359345871296" width="8.6" height="92.4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="310.0" y="210.51239482592942" width="8.6" height="104.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="319.6" y="194.26510999654363" width="8.6" height="120.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="329.2" y="184.2252208426044" width="8.6" height="130.8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="338.8" y="175.44260420514357" width="8.6" height="139.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="348.4" y="172.33937735997918" width="8.6" height="142.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="358.0" y="176.83571370503284" width="8.6" height="138.2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="367.6" y="186.0323476157348" width="8.6" height="129.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="377.2" y="196.66230439164082" width="8.6" height="118.3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="386.8" y="210.9875329618648" width="8.6" height="104.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="396.4" y="228.5542355305833" width="8.6" height="86.4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="406.0" y="246.21799303380465" width="8.6" height="68.8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="415.6" y="261.1009749842304" width="8.6" height="53.9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="425.2" y="277.0723839326898" width="8.6" height="37.9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="434.8" y="288.453994196049" width="8.6" height="26.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="444.4" y="296.6417738712577" width="8.6" height="18.4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="454.0" y="300.89607767719843" width="8.6" height="14.1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="463.6" y="308.4780146818299" width="8.6" height="6.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="473.2" y="311.99475526498935" width="8.6" height="3.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="482.8" y="314.0836794453668" width="8.6" height="0.9" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="511.6" y="314.2177150389944" width="8.6" height="0.8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <rect x="521.2" y="313.26661544862554" width="8.6" height="1.7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.3" />
+    <text x="204.4" y="65" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">main peak</text>
+    <text x="348.4" y="65" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">repeat peak</text>
+    <text x="98.8" y="65" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">error</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-full-face-respirator" data-cat="sf" data-spec="128"
+     data-tags="respirator,full face,visor,filter,ppe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">全面罩呼吸器 / Full Face Respirator</title>
+  <desc id="d">全面罩呼吸器，大视野视窗，配滤毒盒和呼气阀。</desc>
+  <g id="body"><path d="M28 24 Q28 14 64 12 Q100 14 100 24 L100 80 Q100 108 64 112 Q28 108 28 80 Z" fill="#FFFFFF" opacity="0.4" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M32 28 Q32 18 64 16 Q96 18 96 28 L96 68 Q96 84 64 88 Q32 84 32 68 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M44 80 Q44 92 64 96 Q84 92 84 80 L84 72 Q84 64 64 62 Q44 64 44 72 Z" fill="#33414F" stroke="none" data-ls="dark"/>
+     <circle cx="24" cy="70" r="14" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <circle cx="104" cy="70" r="14" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M40 36 Q64 32 88 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M36 50 Q64 46 92 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="24" cy="70" r="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="104" cy="70" r="8" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M52 84 L76 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M54 90 L74 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-morphology" role="img" aria-labelledby="t-lform d-lform" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lform">L型细菌 / L-form</title>
+  <desc id="d-lform">Cell wall-deficient L-form bacteria with irregular swollen shapes. 关键词: L-form, cell wall deficient, spheroplast, irregular</desc>
+  <g id="layer-body" data-name="body">
+    <path d="M20,50 Q15,30 35,25 Q55,20 65,35 Q80,30 82,50 Q85,70 65,75 Q50,82 35,72 Q18,75 20,50 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M18,50 Q12,28 35,22 Q58,17 68,32 Q83,27 85,50 Q88,73 65,78 Q48,85 32,75 Q15,78 18,50 Z" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-dasharray="4,2"/>
+    <ellipse cx="48" cy="50" rx="12" ry="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.4"/>
+    <circle cx="78" cy="28" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-dasharray="3,2"/>
+
+  <circle cx="38" cy="60" r="1.4" fill="#6C3FA0" data-pp="gene"/><circle cx="58" cy="44" r="1.4" fill="#6C3FA0" data-pp="gene"/><path d="M70,68 Q78,64 82,72 Q76,78 70,68 Z" fill="#2E86AB" fill-opacity="0.5" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8" stroke-dasharray="2,1"/></g>
+  <g id="layer-annotation" data-name="annotation">
+
+    <line x1="82" y1="22" x2="90" y2="12" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="69.12" y="10.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no wall</text>
+    <text x="20" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">L-form</text>
+
+  </g>
+</svg>

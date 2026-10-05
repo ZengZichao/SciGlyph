@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-uv-vis-spectrophotometer" data-cat="an" data-spec="128" data-tags="uv,vis,spectrophotometer,cuvette,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">紫外-可见分光光度计 / UV-Vis Spectrophotometer</title>
+  <desc id="d">紫外-可见分光光度计：光源→单色器→样品室（比色皿）→检测器。</desc>
+  <g id="body">
+    <rect x="10" y="22" width="108" height="84" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="10" y="22" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="16" y="34" width="16" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="24" cy="44" r="5" fill="#F5A623" opacity="0.6" stroke="none" data-ls="warn" />
+    <text x="22.59" y="59.01" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">D₂/W</text>
+<rect x="38" y="34" width="18" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<path d="M42 38 L42 50 M46 38 L46 50 M50 38 L50 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <text x="45.59" y="59.01" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mono</text>
+<rect x="64" y="36" width="12" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="66" y="40" width="8" height="10" rx="1" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid" />
+    <text x="70.0" y="60.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Cuvette</text>
+<rect x="84" y="34" width="16" height="20" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="86" y="37" width="12" height="14" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="92" y="60" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Det</text>
+<line x1="32" y1="44" x2="38" y2="44" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="56" y1="44" x2="64" y2="44" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="76" y1="44" x2="84" y2="44" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+    <polygon points="33,41 45,44 33,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <polygon points="58,41 70,44 58,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <polygon points="78,41 90,44 78,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="14" y="68" width="50" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M18 82 L24 80 L30 76 L36 78 L42 74 L48 76 L54 72 L58 78" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent" />
+    <text x="40.41" y="66.99" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">UV-Vis</text>
+    <circle cx="74" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="84" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="102" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

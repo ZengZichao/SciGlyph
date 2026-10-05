@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="正态曲线" data-name-en="Normal Curve" data-cat="charts-plots" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-41">正态曲线 / normal_curve</title>
+  <desc id="d-41">正态钟形曲线。关键词: normal,gaussian,bell</desc>
+  <g id="g-41-正态曲线">
+    <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="220" y="315" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">x</text>
+    <text x="17" y="155" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle" transform="rotate(-90,17,155)">y</text>
+    <path d="M55,277 C69,274 82,269 96,260 C110,246 124,226 138,199 C151,166 165,129 179,92 C192,60 206,38 220,31 L220,280 L55,280 Z" fill="#e5e7eb" stroke="none"/>
+    <path d="M220,31 C234,38 248,60 261,92 C275,129 289,166 302,199 C316,226 330,246 344,260 C358,269 371,274 385,277 L385,280 L220,280 Z" fill="#e5e7eb" stroke="none"/>
+    <path d="M55,277 C69,274 82,269 96,260 C110,246 124,226 138,199" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M138,199 C151,166 165,129 179,92 C192,60 206,38 220,31" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M220,31 C234,38 248,60 261,92 C275,129 289,166 302,199" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M302,199 C316,226 330,246 344,260 C358,269 371,274 385,277" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-drole="series-1"/>
+    <line x1="55" y1="280" x2="55" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="55" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">-3</text>
+    <line x1="110" y1="280" x2="110" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="110" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">-2</text>
+    <line x1="165" y1="280" x2="165" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="165" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">-1</text>
+    <line x1="220" y1="280" x2="220" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="220" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">0</text>
+    <line x1="275" y1="280" x2="275" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="275" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">1</text>
+    <line x1="330" y1="280" x2="330" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="330" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">2</text>
+    <line x1="385" y1="280" x2="385" y2="285" stroke="#1f2937" stroke-width="0.75"/>
+    <text x="385" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">3</text>
+  </g>
+</svg>

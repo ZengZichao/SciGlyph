@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-11_panel_letter_stroke d-11_panel_letter_stroke" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11_panel_letter_stroke">面板字母(描边) / Panel letter stroke</title>
+  <desc id="d-11_panel_letter_stroke">面板字母描边版。骨架，配合多面板图使用。关键词: panel, letter, outline</desc>
+  <g id="layer-body" data-name="body">
+    <text x="50" y="58" font-size="36" font-family="Inter,Helvetica,Arial,sans-serif" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" text-anchor="middle" font-weight="bold">A</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Panel letter stroke</text>
+  </g>
+</svg>

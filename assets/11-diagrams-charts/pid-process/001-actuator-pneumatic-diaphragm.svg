@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>气动薄膜执行机构</title>
+  <ellipse cx="12" cy="6" rx="5" ry="3"/>
+  <path d="M7 6L7 10L17 10L17 6"/>
+  <line x1="10" y1="8" x2="10" y2="6" stroke-width="0.75"/>
+  <line x1="14" y1="8" x2="14" y2="6" stroke-width="0.75"/>
+  <line x1="12" y1="10" x2="12" y2="14"/>
+  <rect x="9" y="14" width="6" height="6" rx="0.5"/>
+  <line x1="9" y1="17" x2="15" y2="17" stroke-width="0.75"/>
+  <line x1="17" y1="6" x2="19" y2="6"/>
+  <circle cx="20" cy="6" r="0.75" stroke-width="0.75"/>
+</svg>

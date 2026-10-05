@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-ph-electrode-glass" data-cat="mt" data-spec="128"
+     data-tags="ph,electrode,glass,bnc,pH,电极" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">复合pH电极 / Combination pH Electrode</title>
+  <desc id="d">复合pH电极：球泡+参比液接界+BNC接头。</desc>
+  <g id="body"><rect x="50" y="10" width="28" height="16" rx="4" fill="#33414F" stroke="#1F2933" stroke-width="2" data-ls="dark" data-ls-stroke="stroke"/>
+    <rect x="54" y="26" width="20" height="60" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-width="2" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M54 86 C54 96 58 104 64 104 C70 104 74 96 74 86" fill="#BFE0FF" stroke="#1F2933" stroke-width="2" data-ls="liquid" data-ls-stroke="stroke"/>
+    <rect x="58" y="76" width="12" height="12" rx="1" fill="none" stroke="#5A6B7B" stroke-dasharray="2 1" stroke-width="1" data-ls="thin"/>
+    <circle cx="64" cy="100" r="6" fill="#BFE0FF" stroke="#1F2933" stroke-width="1.5" data-ls="liquid" data-ls-stroke="stroke"/>
+    <text x="64" y="18" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">BNC</text></g>
+  <g id="detail"></g>
+</svg>

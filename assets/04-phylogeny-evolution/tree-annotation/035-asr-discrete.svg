@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-tree-decor" role="img" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-35">祖先状态重建: 离散性状 / ASR: discrete</title>
+<desc id="d-35">离散双色分支概率深浅, 节点pie三要素同图 关键词: ASR, discrete, ancestral, state, binary</desc>
+<g data-name="body">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<line x1="40.0" y1="200.0" x2="100.0" y2="200.0" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="100.0" y2="125.0" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="100.0" y1="50.0" x2="170.0" y2="50.0" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="170.0" y1="50.0" x2="240.0" y2="50.0" stroke="#2E86AB" stroke-width="2.5" data-pp="bacteria" stroke-linecap="round"/>
+<line x1="170.0" y1="50.0" x2="170.0" y2="125.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="170.0" y1="125.0" x2="240.0" y2="125.0" stroke="#A2305B" stroke-width="2.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="100.0" y2="275.0" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-linecap="round"/>
+<line x1="100.0" y1="200.0" x2="240.0" y2="200.0" stroke="#A2305B" stroke-width="2.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="100.0" y1="275.0" x2="100.0" y2="350.0" stroke="#A2305B" stroke-width="2" data-pp="archaea" stroke-linecap="round"/>
+<line x1="100.0" y1="275.0" x2="240.0" y2="275.0" stroke="#A2305B" stroke-width="2.5" data-pp="archaea" stroke-linecap="round"/>
+<line x1="100.0" y1="350.0" x2="240.0" y2="350.0" stroke="#2E86AB" stroke-width="2.5" data-pp="bacteria" stroke-linecap="round"/>
+<circle cx="240.0" cy="50.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<circle cx="240.0" cy="125.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="240.0" cy="200.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="240.0" cy="275.0" r="4.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.8"/>
+<circle cx="240.0" cy="350.0" r="4.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.8"/>
+<path d="M 100.0 200.0 L 100.0 186.0 A 14 14 0 1 1 86.7 195.7 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 100.0 200.0 L 86.7 195.7 A 14 14 0 0 1 100.0 186.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="100.0" cy="200.0" r="14.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 170.0 50.0 L 170.0 38.0 A 12 12 0 1 1 162.9 59.7 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 170.0 50.0 L 162.9 59.7 A 12 12 0 0 1 170.0 38.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="170.0" cy="50.0" r="12.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<path d="M 100.0 275.0 L 100.0 263.0 A 12 12 0 0 1 107.1 265.3 Z" fill="#2E86AB" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5" data-pp="bacteria" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M 100.0 275.0 L 107.1 265.3 A 12 12 0 1 1 100.0 263.0 Z" fill="#A2305B" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5" data-pp="archaea" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="100.0" cy="275.0" r="12.0" fill="none" stroke="#1B2733" stroke-width="1"/>
+<text x="280.0" y="60.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">States</text>
+<rect x="280.0" y="75.0" width="14.0" height="14.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#2E86AB" stroke-width="0.5"/>
+<text x="300.0" y="86.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">State 0</text>
+<rect x="280.0" y="100.0" width="14.0" height="14.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.7" stroke="#A2305B" stroke-width="0.5"/>
+<text x="300.0" y="111.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">State 1</text>
+<text x="300.0" y="140.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Branch color</text>
+<text x="300.0" y="155.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">= state</text>
+<text x="300.0" y="175.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Pie = prob</text>
+<text x="200.0" y="390.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Discrete ASR</text>
+</g>
+</svg>

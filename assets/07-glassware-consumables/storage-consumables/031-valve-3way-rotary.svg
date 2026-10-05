@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="cs-valve-3way-rotary" data-cat="cs" data-spec="128"
+     data-tags="valve,three way,rotary,L-port,T-port" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">三通旋塞阀 / Three-Way Rotary Valve</title>
+  <desc id="d">三通旋塞阀，L/T型通路切换。</desc>
+  <g id="body"><path d="M44 44 L44 84 Q44 90 50 90 L78 90 Q84 90 84 84 L84 44 Q84 38 78 38 L50 38 Q44 38 44 44 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M14 54 L44 54 L44 74 L14 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M84 54 L114 54 L114 74 L84 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M54 90 L54 114 L74 114 L74 90 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M54 24 L54 40 L74 40 L74 24 Q70 20 64 20 Q58 20 54 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M64 18 L60 12 L68 12 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/><path d="M50 64 L78 64 M64 70 L64 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  
+</svg>

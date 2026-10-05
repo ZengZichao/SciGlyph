@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-rotovap-bath" data-cat="sp" data-spec="128"
+     data-tags="rotovap,bath,water,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">旋蒸水浴锅 / Rotovap Water Bath</title>
+  <desc id="d">旋转蒸发仪水浴锅</desc>
+  <g id="body"><path d="M24 60 L104 60 L104 110 Q104 116 98 116 L30 116 Q24 116 24 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M28 56 L100 56 L100 60 L28 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M26 64 L102 64 L102 108 Q102 114 98 114 L30 114 Q26 114 26 108 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M40 80 L44 80 L44 100 L40 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M84 80 L88 80 L88 100 L84 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+    <path d="M60 80 L64 80 L64 100 L60 100 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/></g>
+</svg>

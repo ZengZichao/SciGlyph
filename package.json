@@ -1,0 +1,16 @@
+{
+  "name": "sciglyph",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SciGlyph — 科研绘图 SVG 素材库（12 学科大类 · 2830 素材，AI 辅助生成，使用前请核实准确性）；素材本身零依赖。",
+  "scripts": {
+    "qa": "python3 tools/check_repo.py",
+    "gallery": "python3 tools/reorg/build_gallery.py",
+    "gallery:test": "node tools/reorg/gallery.test.mjs",
+    "bilingual:check": "python3 tools/derive_en_variants.py --strict",
+    "docs": "python3 tools/reorg/docs_gen.py"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

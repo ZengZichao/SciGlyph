@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-flooded_rice d-flooded_rice" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flooded_rice">Flooded rice paddy</title>
+  <desc id="d-flooded_rice">Flooded rice paddy with water layer, redox stratification, methanogens and Fe-reducers 关键词: flooded, rice, methanogen, iron reducer</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="15" width="90" height="25" rx="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria" fill-opacity="0.1"/>
+    <line x1="50" y1="10" x2="50" y2="40" stroke="#00857A" stroke-width="2.5" stroke-linecap="round" data-pp="metabolism"/>
+    <rect x="5" y="40" width="90" height="40" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.5"/>
+    <line x1="5" y1="50" x2="95" y2="50" stroke="#C42D2D" stroke-width="0.8" stroke-linecap="round" data-pp="alert" stroke-dasharray="3,2"/>
+    <line x1="5" y1="60" x2="95" y2="60" stroke="#93A0AC" stroke-width="0.8" stroke-linecap="round" data-pp="muted" stroke-dasharray="3,2"/>
+    <rect x="20" y="65" width="5" height="5" rx="1" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <rect x="40" y="68" width="5" height="5" rx="1" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <rect x="60" y="55" width="7" height="3" rx="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(10,63,57)"/>
+    <rect x="75" y="62" width="7" height="3" rx="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(-5,78,64)"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Rice paddy</text>
+  </g>
+</svg>

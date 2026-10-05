@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>必须戴手套</title>
+  <circle cx="12" cy="12" r="9.5"/>
+  <path d="M8 17 L8 10 Q8 8 9.5 8 L9.5 6 Q10 5 10.5 6 L10.5 8 L11 5.5 Q11.5 4.5 12 5.5 L12 8 L12.5 6 Q13 5 13.5 6 L13.5 8.5 L14 7 Q14.5 6 15 7 L15 10 L16 10 L16 17Z"/>
+  <line x1="8" y1="17" x2="16" y2="17"/>
+  <line x1="8" y1="18.5" x2="16" y2="18.5"/>
+  <polyline points="6.5 12 8 12"/>
+  <line x1="10.5" y1="8" x2="10.5" y2="10"/>
+  <line x1="12" y1="8" x2="12" y2="10"/>
+</svg>

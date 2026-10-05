@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-goggles-chemical-splash" data-cat="sf" data-spec="128"
+     data-tags="goggles,chemical splash,sealed,indirect vent,safety" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">防化溅护目镜 / Goggles Chemical Splash</title>
+  <desc id="d">防化学飞溅密封护目镜，间接通风，全面部密封。</desc>
+  <g id="body"><path d="M18 42 Q18 30 44 28 L56 28 Q64 28 64 36 Q64 28 72 28 L84 28 Q110 30 110 42 L110 66 Q110 78 84 80 L72 80 Q64 80 64 72 Q64 80 56 80 L44 80 Q18 78 18 66 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M24 38 L26 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M32 34 L34 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M42 32 L44 28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M84 32 L86 28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M94 34 L96 30" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M102 38 L104 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M18 50 L12 48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M110 50 L116 48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M26 70 L24 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M102 70 L104 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

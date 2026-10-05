@@ -1,0 +1,456 @@
+{
+ "name": "科研绘图素材库",
+ "name_en": "Scientific Illustration Asset Library",
+ "version": "1.0.0",
+ "license": "CC-BY-4.0",
+ "license_uri": "https://creativecommons.org/licenses/by/4.0/",
+ "attribution": "ZengZichao (https://github.com/ZengZichao)",
+ "credit_line": "Assets CC BY 4.0 · tools & pages MIT · (c) ZengZichao",
+ "total": 2830,
+ "series_legend": {
+  "classic": "经典科研插画：简洁线稿+低饱和平涂",
+  "atlas": "微生物图谱：标注引线、比例尺、语义色",
+  "icon24": "24×24 线性图标：统一网格与线宽",
+  "primitives": "科研通用图元：跨学科基础构件",
+  "labflow": "实验室流程与设备：框图/节点/安全标识"
+ },
+ "format_legend": {
+  "illustration": "插画",
+  "diagram": "示意图表",
+  "icon": "24×24 线性图标（currentColor）"
+ },
+ "categories": [
+  {
+   "id": "01-cells-microbes",
+   "name_zh": "细胞与微生物形态结构",
+   "name_en": "Cells & Microbes: Morphology and Structure",
+   "count": 295,
+   "subdirs": [
+    {
+     "id": "morphology-arrangement",
+     "name_zh": "形态与排列",
+     "name_en": "Morphology & Arrangement",
+     "count": 72
+    },
+    {
+     "id": "cell-structures",
+     "name_zh": "细胞结构",
+     "name_en": "Cell Structures",
+     "count": 34
+    },
+    {
+     "id": "cell-envelope",
+     "name_zh": "细胞包膜",
+     "name_en": "Cell Envelope",
+     "count": 30
+    },
+    {
+     "id": "appendages-motility",
+     "name_zh": "附属结构与运动",
+     "name_en": "Appendages & Motility",
+     "count": 39
+    },
+    {
+     "id": "archaea",
+     "name_zh": "古菌",
+     "name_en": "Archaea",
+     "count": 40
+    },
+    {
+     "id": "viruses-phages",
+     "name_zh": "病毒与噬菌体",
+     "name_en": "Viruses & Phages",
+     "count": 54
+    },
+    {
+     "id": "eukaryotic-cells-organelles",
+     "name_zh": "真核细胞与细胞器",
+     "name_en": "Eukaryotic Cells & Organelles",
+     "count": 26
+    }
+   ]
+  },
+  {
+   "id": "02-genetics-omics",
+   "name_zh": "遗传信息与组学",
+   "name_en": "Genetics & Omics",
+   "count": 233,
+   "subdirs": [
+    {
+     "id": "genes-mge",
+     "name_zh": "基因与移动遗传元件",
+     "name_en": "Genes & MGE",
+     "count": 60
+    },
+    {
+     "id": "sequence-graphics",
+     "name_zh": "序列图形",
+     "name_en": "Sequence Graphics",
+     "count": 54
+    },
+    {
+     "id": "population-genomics",
+     "name_zh": "群体基因组",
+     "name_en": "Population Genomics",
+     "count": 30
+    },
+    {
+     "id": "comparative-pan",
+     "name_zh": "比较基因组与泛基因组",
+     "name_en": "Comparative & Pan-genomics",
+     "count": 30
+    },
+    {
+     "id": "molecular-ecology",
+     "name_zh": "分子生态",
+     "name_en": "Molecular Ecology",
+     "count": 28
+    },
+    {
+     "id": "mol-structures",
+     "name_zh": "分子结构",
+     "name_en": "Molecular Structures",
+     "count": 27
+    },
+    {
+     "id": "omics-charts",
+     "name_zh": "组学数据图",
+     "name_en": "Omics Charts",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "id": "03-metabolism-phenotype",
+   "name_zh": "代谢与生理表型",
+   "name_en": "Metabolism & Physiological Phenotype",
+   "count": 105,
+   "subdirs": [
+    {
+     "id": "metabolism",
+     "name_zh": "代谢",
+     "name_en": "Metabolism",
+     "count": 67
+    },
+    {
+     "id": "phenotype",
+     "name_zh": "生理表型",
+     "name_en": "Physiological Phenotype",
+     "count": 38
+    }
+   ]
+  },
+  {
+   "id": "04-phylogeny-evolution",
+   "name_zh": "系统发育与进化",
+   "name_en": "Phylogeny & Evolution",
+   "count": 201,
+   "subdirs": [
+    {
+     "id": "tree-skeletons",
+     "name_zh": "树骨架",
+     "name_en": "Tree Skeletons",
+     "count": 82
+    },
+    {
+     "id": "tree-annotation",
+     "name_zh": "树注释",
+     "name_en": "Tree Annotation",
+     "count": 50
+    },
+    {
+     "id": "evolution-process",
+     "name_zh": "演化过程",
+     "name_en": "Evolutionary Process",
+     "count": 30
+    },
+    {
+     "id": "nomenclature",
+     "name_zh": "命名法规",
+     "name_en": "Nomenclature",
+     "count": 39
+    }
+   ]
+  },
+  {
+   "id": "05-ecology-biotech",
+   "name_zh": "生态·生境与应用",
+   "name_en": "Ecology, Habitats & Applications",
+   "count": 121,
+   "subdirs": [
+    {
+     "id": "habitats",
+     "name_zh": "生境",
+     "name_en": "Habitats",
+     "count": 73
+    },
+    {
+     "id": "interactions",
+     "name_zh": "互作与物质流",
+     "name_en": "Interactions & Matter Flow",
+     "count": 40
+    },
+    {
+     "id": "biotech-applications",
+     "name_zh": "生物技术应用",
+     "name_en": "Biotech Applications",
+     "count": 8
+    }
+   ]
+  },
+  {
+   "id": "06-lab-methods",
+   "name_zh": "实验方法与流程",
+   "name_en": "Lab Methods & Workflows",
+   "count": 140,
+   "subdirs": [
+    {
+     "id": "culture-biochem",
+     "name_zh": "培养与生化鉴定",
+     "name_en": "Culture & Biochemical Tests",
+     "count": 60
+    },
+    {
+     "id": "analysis-pipelines",
+     "name_zh": "分析流程",
+     "name_en": "Analysis Pipelines",
+     "count": 34
+    },
+    {
+     "id": "omics-workflow",
+     "name_zh": "组学工作流",
+     "name_en": "Omics Workflows",
+     "count": 10
+    },
+    {
+     "id": "microscopy-detection",
+     "name_zh": "镜检与检测技术",
+     "name_en": "Microscopy & Detection",
+     "count": 36
+    }
+   ]
+  },
+  {
+   "id": "07-glassware-consumables",
+   "name_zh": "器皿·耗材与通用器材",
+   "name_en": "Glassware, Consumables & General Labware",
+   "count": 244,
+   "subdirs": [
+    {
+     "id": "glassware",
+     "name_zh": "玻璃器皿",
+     "name_en": "Glassware",
+     "count": 94
+    },
+    {
+     "id": "storage-consumables",
+     "name_zh": "储存与耗材",
+     "name_en": "Storage & Consumables",
+     "count": 62
+    },
+    {
+     "id": "hardware-tools",
+     "name_zh": "支架与工具",
+     "name_en": "Hardware & Tools",
+     "count": 41
+    },
+    {
+     "id": "general-labware",
+     "name_zh": "通用器材",
+     "name_en": "General Labware",
+     "count": 47
+    }
+   ]
+  },
+  {
+   "id": "08-instruments-apparatus",
+   "name_zh": "仪器与装置",
+   "name_en": "Instruments & Apparatus",
+   "count": 440,
+   "subdirs": [
+    {
+     "id": "analytical-instruments",
+     "name_zh": "分析仪器",
+     "name_en": "Analytical Instruments",
+     "count": 89
+    },
+    {
+     "id": "lifescience-instruments",
+     "name_zh": "生命科学仪器",
+     "name_en": "Life-science Instruments",
+     "count": 81
+    },
+    {
+     "id": "thermal-mechanical",
+     "name_zh": "热学与机械",
+     "name_en": "Thermal & Mechanical",
+     "count": 72
+    },
+    {
+     "id": "separation-fluidics",
+     "name_zh": "分离与流控",
+     "name_en": "Separation & Fluidics",
+     "count": 77
+    },
+    {
+     "id": "liquid-handling",
+     "name_zh": "移液与液体处理",
+     "name_en": "Liquid Handling",
+     "count": 28
+    },
+    {
+     "id": "electrical-equipment",
+     "name_zh": "电气器材",
+     "name_en": "Electrical Equipment",
+     "count": 34
+    },
+    {
+     "id": "monitoring-sensors",
+     "name_zh": "监测与传感",
+     "name_en": "Monitoring & Sensors",
+     "count": 42
+    },
+    {
+     "id": "general-apparatus",
+     "name_zh": "通用装置",
+     "name_en": "General Apparatus",
+     "count": 17
+    }
+   ]
+  },
+  {
+   "id": "09-safety-signage",
+   "name_zh": "安全·防护与标识",
+   "name_en": "Safety & Signage",
+   "count": 191,
+   "subdirs": [
+    {
+     "id": "hazard-signs",
+     "name_zh": "危害警示标志",
+     "name_en": "Hazard Signs",
+     "count": 53
+    },
+    {
+     "id": "ppe-emergency",
+     "name_zh": "防护与应急",
+     "name_en": "PPE & Emergency",
+     "count": 94
+    },
+    {
+     "id": "personnel-behavior",
+     "name_zh": "人员行为",
+     "name_en": "Personnel Behavior",
+     "count": 30
+    },
+    {
+     "id": "signage",
+     "name_zh": "安全标识",
+     "name_en": "Safety Signage",
+     "count": 14
+    }
+   ]
+  },
+  {
+   "id": "10-figure-elements",
+   "name_zh": "图版构件",
+   "name_en": "Figure Elements",
+   "count": 325,
+   "subdirs": [
+    {
+     "id": "scale-reference",
+     "name_zh": "比例与尺度参照",
+     "name_en": "Scale Reference",
+     "count": 13
+    },
+    {
+     "id": "figure-layout",
+     "name_zh": "图版布局",
+     "name_en": "Figure Layout",
+     "count": 85
+    },
+    {
+     "id": "arrows-connectors",
+     "name_zh": "箭头与连接件",
+     "name_en": "Arrows & Connectors",
+     "count": 56
+    },
+    {
+     "id": "geometry-math",
+     "name_zh": "几何与数学",
+     "name_en": "Geometry & Math",
+     "count": 60
+    },
+    {
+     "id": "tables-frames",
+     "name_zh": "表格与框线",
+     "name_en": "Tables & Frames",
+     "count": 60
+    },
+    {
+     "id": "labels-tags",
+     "name_zh": "标签与标牌",
+     "name_en": "Labels & Tags",
+     "count": 33
+    },
+    {
+     "id": "connectors",
+     "name_zh": "流程连接符",
+     "name_en": "Flow Connectors",
+     "count": 18
+    }
+   ]
+  },
+  {
+   "id": "11-diagrams-charts",
+   "name_zh": "图示语法·流程与图表",
+   "name_en": "Diagrams, Flows & Charts",
+   "count": 437,
+   "subdirs": [
+    {
+     "id": "flowchart-syntax",
+     "name_zh": "流程图语法",
+     "name_en": "Flowchart Syntax",
+     "count": 109
+    },
+    {
+     "id": "diagrams-uml",
+     "name_zh": "软件图与 UML",
+     "name_en": "Software Diagrams & UML",
+     "count": 68
+    },
+    {
+     "id": "charts-plots",
+     "name_zh": "图表与绘图",
+     "name_en": "Charts & Plots",
+     "count": 87
+    },
+    {
+     "id": "pid-process",
+     "name_zh": "工艺流程与单元操作",
+     "name_en": "P&ID & Unit Operations",
+     "count": 78
+    },
+    {
+     "id": "physics-circuits",
+     "name_zh": "物理光路与电路",
+     "name_en": "Physics Optics & Circuits",
+     "count": 95
+    }
+   ]
+  },
+  {
+   "id": "12-icons-ui",
+   "name_zh": "通用图标与 UI",
+   "name_en": "Icons & UI",
+   "count": 98,
+   "subdirs": [
+    {
+     "id": "icons-ui",
+     "name_zh": "图标",
+     "name_en": "Icons",
+     "count": 98
+    }
+   ]
+  }
+ ]
+}

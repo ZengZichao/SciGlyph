@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-figure-layout" role="img" aria-labelledby="t-08_scalebar_geo d-08_scalebar_geo" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-08_scalebar_geo">地理距离尺 / Geo distance</title>
+  <desc id="d-08_scalebar_geo">地理距离尺(µm/mm/cm/m)。骨架，配合空间分布图使用。关键词: distance, µm, mm, cm, m, scalebar</desc>
+  <g id="layer-body" data-name="body">
+    <line x1="10" y1="30" x2="90" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="25" x2="10" y2="35" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="90" y1="25" x2="90" y2="35" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <text x="10" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">µm</text>
+    <line x1="10" y1="50" x2="90" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="45" x2="10" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="90" y1="45" x2="90" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <text x="10" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">mm</text>
+    <line x1="10" y1="70" x2="90" y2="70" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="10" y1="65" x2="10" y2="75" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <line x1="90" y1="65" x2="90" y2="75" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+    <text x="10" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">cm / m</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Geo distance</text>
+  </g>
+</svg>

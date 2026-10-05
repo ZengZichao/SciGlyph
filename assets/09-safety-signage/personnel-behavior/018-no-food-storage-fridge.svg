@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="pp-no-food-storage-fridge" data-cat="pp" data-spec="128"
+     data-tags="food,fridge,refrigerator,prohibited,reagent storage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试剂冰箱不放食品 / No Food Storage Fridge</title>
+  <desc id="d">试剂冰箱禁止存放食品。</desc>
+  
+  <g id="figure"><rect d="M24 12 L80 12 L80 108 L24 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <path d="M24 48 L80 48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M72 28 L76 28 L76 36 L72 36 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M72 64 L76 64 L76 72 L72 72 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+  <g id="prop"><path d="M88 40 L108 40 L106 60 L90 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M90 36 L106 36 L106 40 L90 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <circle cx="88" cy="56" r="24" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M72 38 L104 74" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>有毒品标志</title>
+  <polygon points="12,3 21,12 12,21 3,12"/>
+  <circle cx="12" cy="9.3" r="2.6"/>
+  <circle cx="10.9" cy="9" r="0.55" fill="currentColor"/>
+  <circle cx="13.1" cy="9" r="0.55" fill="currentColor"/>
+  <path d="M10.5 11.4 L10.5 12.3 L13.5 12.3 L13.5 11.4" stroke-width="1"/>
+  <line x1="8.8" y1="13.7" x2="15.2" y2="16.5"/>
+  <line x1="15.2" y1="13.7" x2="8.8" y2="16.5"/>
+  <line x1="9" y1="14.9" x2="10" y2="15.4" stroke-width="0.75"/>
+  <line x1="15" y1="14.9" x2="14" y2="15.4" stroke-width="0.75"/>
+  <line x1="14.2" y1="15.6" x2="13.2" y2="16.1" stroke-width="0.75"/>
+  <line x1="9.8" y1="15.6" x2="10.8" y2="16.1" stroke-width="0.75"/>
+</svg>

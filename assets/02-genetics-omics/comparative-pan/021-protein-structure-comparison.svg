@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-protein_structure_comparison d-protein_structure_comparison" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-protein_structure_comparison">蛋白结构比较 / Protein structure comparison (fold classification)</title>
+  <desc id="d-protein_structure_comparison">蛋白质二级结构比较与SCOP折叠分类: SCOP 编号 = 类.折叠.超家族.家族；c 类为 α/β。两蛋白同折叠(fold c.1)不同超家族(c.1.2 vs c.1.4)。schematic, not to scale. 关键词: protein, structure, SCOP, fold, superfamily</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="protein-a">
+  <text x="150" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Protein A</text>
+  <rect x="80" y="100" width="35" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <rect x="125" y="100" width="35" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <rect x="170" y="100" width="35" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <rect x="215" y="100" width="35" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <polygon points="90,140 120,140 115,160 95,160" fill="#6C3FA0" data-pp="gene"/>
+  <polygon points="140,140 170,140 165,160 145,160" fill="#6C3FA0" data-pp="gene"/>
+  <polygon points="190,140 220,140 215,160 195,160" fill="#6C3FA0" data-pp="gene"/>
+  <text x="150" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">ααβ αβ α</text>
+</g>
+<g data-name="protein-b">
+  <text x="440" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Protein B (homolog)</text>
+  <rect x="370" y="100" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <rect x="420" y="100" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <rect x="470" y="100" width="40" height="15" fill="#2E86AB" data-pp="bacteria" rx="7"/>
+  <polygon points="380,140 410,140 405,160 385,160" fill="#6C3FA0" data-pp="gene"/>
+  <polygon points="430,140 460,140 455,160 435,160" fill="#6C3FA0" data-pp="gene"/>
+  <polygon points="480,140 510,140 505,160 485,160" fill="#6C3FA0" data-pp="gene"/>
+  <text x="440" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">αβα βα α</text>
+</g>
+<g data-name="classification">
+  <text x="150" y="240" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SCOP: c.1.2.1</text>
+  <text x="440" y="240" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SCOP: c.1.4.1</text>
+  <text x="300" y="280" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Same fold, different superfamily</text>
+</g>
+<g data-name="legend">
+  <rect x="180" y="320" width="25" height="10" fill="#2E86AB" data-pp="bacteria" rx="5"/>
+  <text x="220" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">α-helix</text>
+  <polygon points="320,320 345,320 340,335 325,335" fill="#6C3FA0" data-pp="gene"/>
+  <text x="355" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">β-sheet</text>
+</g>
+<text x="300" y="30" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Protein Structure — Fold Classification (schematic)</text>
+</svg>

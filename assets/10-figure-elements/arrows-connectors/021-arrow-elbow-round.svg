@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="圆角折箭头" data-name-en="arrow elbow round" data-cat="arrows-connectors" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21">圆角折箭头 / arrow_elbow_round</title>
+  <desc id="d-21">圆角转折箭头。关键词: arrow,elbow,round,corner</desc>
+  <g id="g-21-圆角折箭头">
+    <path d="M 14 36 Q 50 36 50 24 L 50 14" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="44,16 50,10 56,16" fill="#1f2937"/>
+  </g>
+</svg>

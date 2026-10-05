@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-workflow" role="img" aria-labelledby="t-21_microfluidics d-21_microfluidics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-21_microfluidics">微流控单细胞培养流程 / Microfluidics Single-Cell Culture</title>
+  <desc id="d-21_microfluidics">骨架流程：细胞悬液→芯片加载→单细胞捕获→灌流培养→生长监测→裂解PCR→鉴定。工具：微流控芯片、显微镜。输入：混合细胞悬液；输出：单细胞培养+鉴定。 关键词: bioinformatics workflow, microfluidics, Single-Cell, Culture, PCR, Susp, Chip, Load, Trap, skeleton template</desc>
+<defs>
+  <marker id="pp21__arrow" viewBox="0 0 10 10" refX="9" refY="5"
+          markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M 0 0 L 10 5 L 0 10 z" fill="#1B2733" data-pp="ink"/>
+  </marker>
+</defs>
+  <g id="pp21__bg" data-name="background">
+    <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
+  </g>
+  <g id="pp21__labels" data-name="labels">
+  <rect x="20" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cell Susp.</text>
+
+  <rect x="145" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Chip Load</text>
+
+  <rect x="270" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Trap Single</text>
+
+  <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
+        fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Perfuse</text>
+
+  <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="72.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Grow Monitor</text>
+
+  <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Lyse PCR</text>
+
+  <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
+        fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
+    <text x="322.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Identify</text>
+
+  <line x1="125" y1="94.0" x2="145" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="94.0" x2="270" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round"/>
+  <line x1="375" y1="94.0" x2="395" y2="94.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round"/>
+  <path d="M 447.5 118 L 447.5 163.0 L 72.5 163.0 L 72.5 208" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="125" y1="232.0" x2="145" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round"/>
+  <line x1="250" y1="232.0" x2="270" y2="232.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp21__arrow)" stroke-linecap="round"/>
+  <text x="20" y="55" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Microfluidics Single-Cell Culture</text>
+    <rect x="20" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cell</text>
+  <rect x="76" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="92" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chip</text>
+  <rect x="132" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="148" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Monitor</text>
+  <rect x="209" y="370" width="12" height="12" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+  <text x="225" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Lyse</text>
+  </g>
+</svg>

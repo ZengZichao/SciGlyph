@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="类囊体放大" data-name-en="Photosynthesis Grana" data-cat="natural-sciences" aria-labelledby="t-72 d-72" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-72">类囊体放大 / photosynthesis_grana</title>
+  <desc id="d-72">展示类囊体基粒放大结构。关键词: grana,thylakoid,photosynthesis</desc>
+  <g id="g-72-类囊体放大">
+    <ellipse cx="80" cy="30" rx="40" ry="10" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="80" cy="45" rx="40" ry="10" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="80" cy="60" rx="40" ry="10" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="80" cy="75" rx="40" ry="10" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <ellipse cx="80" cy="90" rx="40" ry="10" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M40,30 C20,30 15,50 15,60 C15,70 20,90 40,90" fill="none" stroke="#009E73" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M120,30 C140,30 145,50 145,60 C145,70 140,90 120,90" fill="none" stroke="#009E73" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="60" cy="60" r="4" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="45" r="4" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="100" cy="75" r="4" fill="#E69F00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
+  </g>
+</svg>

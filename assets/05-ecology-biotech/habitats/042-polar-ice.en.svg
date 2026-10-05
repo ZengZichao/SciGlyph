@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-polar_ice d-polar_ice" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-polar_ice">Polar sea ice</title>
+  <desc id="d-polar_ice">Sea ice with hexagonal crystals, brine channels containing algae 关键词: polar, ice, brine channel, algae</desc>
+  
+  <g id="layer-body" data-name="body">
+    <path d="M10,15 L30,10 L80,10 L90,15 L90,55 L80,60 L30,60 L10,55 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
+    <polygon points="25,20 30,17 35,20 35,25 30,28 25,25" fill="#93A0AC" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+    <polygon points="60,18 65,15 70,18 70,23 65,26 60,23" fill="#93A0AC" stroke="#93A0AC" stroke-width="0.8" data-pp="muted"/>
+    <line x1="35" y1="15" x2="35" y2="55" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria" stroke-dasharray="2,2"/>
+    <line x1="55" y1="12" x2="55" y2="58" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria" stroke-dasharray="2,2"/>
+    <line x1="72" y1="15" x2="72" y2="55" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" data-pp="bacteria" stroke-dasharray="2,2"/>
+    <circle cx="35" cy="25" r="2" fill="#00857A" stroke="none" stroke-width="0" data-pp="metabolism"/>
+    <circle cx="35" cy="40" r="2" fill="#00857A" stroke="none" stroke-width="0" data-pp="metabolism"/>
+    <circle cx="55" cy="30" r="2" fill="#00857A" stroke="none" stroke-width="0" data-pp="metabolism"/>
+    <circle cx="55" cy="48" r="2" fill="#00857A" stroke="none" stroke-width="0" data-pp="metabolism"/>
+    <circle cx="72" cy="35" r="2" fill="#00857A" stroke="none" stroke-width="0" data-pp="metabolism"/>
+    <rect x="5" y="62" width="90" height="20" rx="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria" fill-opacity="0.1"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Polar ice</text>
+  </g>
+</svg>

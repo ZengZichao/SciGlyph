@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="称量纸" data-name-en="weighing_boat" data-cat="lab-equipment" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-36">称量纸 / weighing_boat</title>
+  <desc id="d-36">承载样品进行称量。关键词: 称量纸,weighing,称量,承载</desc>
+  <g id="g-36-称量纸">
+    <path d="M 20 20 L 15 55 L 105 55 L 100 20 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <line x1="20" y1="20" x2="15" y2="15" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="100" y1="20" x2="105" y2="15" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="15" y1="15" x2="105" y2="15" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 25 30 L 22 50 L 98 50 L 95 30 Z" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
+  </g>
+</svg>

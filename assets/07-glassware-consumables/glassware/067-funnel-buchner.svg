@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-funnel-buchner" data-cat="gl" data-spec="128"
+     data-tags="buchner,funnel,porcelain,filter,vacuum,ceramic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">布氏漏斗 / Büchner Funnel</title>
+  <desc id="d">瓷质布氏漏斗，配合抽滤瓶与滤纸用于减压过滤。</desc>
+  <g id="body"><path d="M24 24 L24 50 L54 72 L54 114 L74 114 L74 72 L104 50 L104 24 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><ellipse cx="64" cy="24" rx="40" ry="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><g id="graduations"><circle cx="52" cy="24" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="60" cy="20" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="68" cy="28" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="76" cy="24" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="64" cy="24" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="56" cy="28" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><circle cx="72" cy="20" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g></g>
+  
+</svg>

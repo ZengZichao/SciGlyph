@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="磁小体" data-name-en="Magnetosome" data-cat="02-structures" data-tags="磁小体,磁细菌,磁铁矿,Fe3O4,单磁畴,趋磁,细胞器" role="img" aria-labelledby="t-33-magnetosome d-33-magnetosome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-33-magnetosome">磁小体 / Magnetosome</title>
+  <desc id="d-33-magnetosome">磁小体是磁细菌细胞内由细胞膜包裹、含铁磁性矿物（磁铁矿）的细胞器，单磁畴晶体串珠链状排列形成磁偶极子，可感知地磁方向并趋磁游动。关键词: 磁小体, 磁细菌, 磁铁矿, Fe3O4, 单磁畴, 趋磁, 细胞器</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<rect x="22" y="46" width="76" height="28" rx="14" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
+<path d="M28 66C36 71 48 71 56 68C64 65 76 66 86 68" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M10 60L108 60" fill="none" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="3 3"/>
+<circle cx="32" cy="60" r="3.2" fill="#2B3A42"/>
+<circle cx="42" cy="60" r="3.2" fill="#2B3A42"/>
+<circle cx="52" cy="60" r="3.2" fill="#2B3A42"/>
+<circle cx="62" cy="60" r="3.2" fill="#2B3A42"/>
+<circle cx="72" cy="60" r="3.2" fill="#2B3A42"/>
+<path d="M100 55L108 60L100 65Z" fill="#C0504D"/>
+<path d="M8 55L14 55M8 65L14 65" stroke="#C0504D" stroke-width="1.2"/>
+</g>
+</svg>

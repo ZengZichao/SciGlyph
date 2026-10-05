@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>涡旋振荡器</title>
+  <path d="M7 20 L8 8 H16 L17 20 Z" />
+  <path d="M8 8 Q12 5 16 8" stroke-width="1" />
+  <ellipse cx="12" cy="7" rx="3" ry="1.5" stroke-width="1" />
+  <circle cx="7" cy="15" r="1.5" stroke-width="1" />
+  <line x1="7" y1="14" x2="7.5" y2="14.5" stroke-width="0.75" />
+  <line x1="10" y1="20" x2="14" y2="20" stroke-width="0.75" />
+  <line x1="9" y1="12" x2="15" y2="12" stroke-width="0.5" stroke-dasharray="1 1" />
+</svg>

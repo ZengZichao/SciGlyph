@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-germ_tube d-germ_tube" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-germ_tube">芽管 / Germ Tube</title>
+  <desc id="d-germ_tube">Spore/yeast-like cell with germ tube emerging, constriction at tube base. 关键词: germ tube, germination, spore, constriction</desc>
+  <g id="layer-body" data-name="body">
+    <circle cx="30" cy="55" r="14" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M42,48 Q50,40 55,35 L60,30 Q65,25 70,22" fill="none" stroke="#2E86AB" stroke-width="6" data-pp="bacteria" stroke-linecap="round"/>
+    <ellipse cx="42" cy="48" rx="3" ry="5" fill="#1B2733" data-pp="ink" fill-opacity="0.2"/>
+    <circle cx="72" cy="20" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <line x1="30" y1="41" x2="18" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="8" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">spore</text>
+    <line x1="55" y1="35" x2="72" y2="42" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="60.44" y="48.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">germ tube</text>
+    <line x1="42" y1="48" x2="42" y2="75" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="30" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">constriction</text>
+  </g>
+</svg>

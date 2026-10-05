@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="交集阴影" data-name-en="set-intersection-shaded" data-cat="flowchart-logic" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-28">交集阴影 / set_intersection_shaded</title>
+  <desc id="d-28">集合交集阴影。关键词: set,intersection</desc>
+  <g id="g-28-交集阴影">
+    <circle cx="95" cy="80" r="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="145" cy="80" r="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M120,36.7 A50,50 0 0,1 120,123.3 A50,50 0 0,1 120,36.7 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <text x="80" y="84" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">A</text>
+    <text x="160" y="84" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">B</text>
+  </g>
+</svg>

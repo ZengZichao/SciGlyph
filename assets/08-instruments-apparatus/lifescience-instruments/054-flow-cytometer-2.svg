@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-flow-cytometer" data-cat="ls" data-spec="128" data-tags="flow,cytometer,laser,scatter,fluorescence,facs,cell,analysis" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">流式细胞仪 / Flow Cytometer</title>
+  <desc id="d">流式细胞仪：液流系统、激光激发、散射光/荧光检测。</desc>
+  <g id="body">
+    <rect x="10" y="14" width="108" height="98" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="10" y="14" width="108" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="14" y="10" width="6" height="16" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="15" y="16" width="4" height="8" rx="1" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid" />
+<rect x="30" y="26" width="14" height="14" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="32" y="28" width="10" height="10" rx="2" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
+    <text x="37.0" y="24.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Flow Cell</text>
+<rect x="18" y="30" width="10" height="6" rx="2" fill="#E02020" opacity="0.6" stroke="none" data-ls="danger" />
+<line x1="28" y1="33" x2="30" y2="33" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<rect x="48" y="26" width="8" height="8" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <line x1="52.0" y1="21.9" x2="55.47" y2="28.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.88" y="31.55" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">FSC</text>
+<rect x="37" y="18" width="8" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="41" y="16" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">SSC</text>
+<rect x="60" y="24" width="6" height="6" rx="1" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent" />
+<rect x="60" y="32" width="6" height="6" rx="1" fill="#7FC26B" opacity="0.5" stroke="none" data-ls="liquid-2" />
+<rect x="68" y="24" width="6" height="6" rx="1" fill="#F5A623" opacity="0.5" stroke="none" data-ls="warn" />
+<rect x="68" y="32" width="6" height="6" rx="1" fill="#E02020" opacity="0.5" stroke="none" data-ls="danger" />
+    <text x="67.0" y="44.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">FL1 FL2 FL3 FL4</text>
+<rect x="14" y="86" width="14" height="18" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<path d="M16 94 L26 94 L26 102 Q26 103 25 103 L17 103 Q16 103 16 102 Z" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
+    <text x="21" y="82" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Waste</text>
+    <rect x="30" y="52" width="50" height="36" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<circle cx="42" cy="66" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="46" cy="70" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="50" cy="74" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="54" cy="78" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="58" cy="72" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="62" cy="68" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="48" cy="82" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="56" cy="84" r="1.5" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent" />
+<circle cx="44" cy="76" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
+<circle cx="52" cy="80" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
+<circle cx="60" cy="76" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
+<circle cx="66" cy="82" r="1.5" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
+    <text x="57.82" y="51.98" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Flow Cytometer</text>
+<path d="M17 26 L17 30 Q17 34 22 34 L30 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<path d="M37 40 L37 86 Q37 90 30 90 L28 90" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <rect x="16" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="106" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

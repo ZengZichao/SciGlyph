@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-cartridge-filter-pleated" data-cat="sp" data-spec="128"
+     data-tags="filter,cartridge,pleated,membrane" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">折叠膜滤芯 / Pleated Membrane Cartridge Filter</title>
+  <desc id="d">折叠膜滤芯剖面结构</desc>
+  <g id="body"><path d="M48 20 L80 20 L80 108 Q80 116 72 116 L56 116 Q48 116 48 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M52 28 L76 28 L76 100 L52 100 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M56 32 L56 96 M60 32 L60 96 M64 32 L64 96 M68 32 L68 96 M72 32 L72 96" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M54 32 L54 96 M58 32 L58 96 M62 32 L62 96 M66 32 L66 96 M70 32 L70 96 M74 32 L74 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M48 50 L40 50 L40 58 L48 58 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+    <path d="M80 50 L88 50 L88 58 L80 58 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+</svg>

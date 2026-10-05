@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-lipid_anchor_flagellum d-lipid_anchor_flagellum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-lipid_anchor_flagellum">古菌鞭毛锚定 / Archaellum membrane anchor</title>
+  <desc id="d-lipid_anchor_flagellum">Archaellin anchored by N-terminal hydrophobic helix; Sec-translocated and processed by FlaK (signal peptidase III); type IV pilus-like, no GPI anchor. 关键词: archaellin, FlaK, N-terminal helix, membrane anchor, archaeal flagellum</desc>
+  
+  <g id="layer-body-lipid_anchor_flagellum" data-name="body">
+    <rect x="10" y="55" width="80" height="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" rx="2" fill-opacity="0.4"/>
+    <path d="M50,55 L50,45 Q50,40 55,40 L55,35" fill="none" stroke="#E8871E" stroke-width="2" data-pp="mge" stroke-linecap="round"/>
+    <line x1="47" y1="58" x2="47" y2="65" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="50" y1="58" x2="50" y2="65" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <line x1="53" y1="58" x2="53" y2="65" stroke="#E8871E" stroke-width="1" data-pp="mge" stroke-linecap="round"/>
+    <rect x="53" y="10" width="4" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5" rx="2"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="56.1" y="30.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">archaellin</text>
+    <line x1="58.0" y1="47.9" x2="47.42" y2="47.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">N-term helix</text>
+  </g>
+</svg>

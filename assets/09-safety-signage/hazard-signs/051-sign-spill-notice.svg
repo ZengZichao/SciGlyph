@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-sign-spill-notice" data-cat="hz" data-spec="128"
+     data-tags="spill,notice,warning,溢漏,通知" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">溢漏通知标志 / Spill Notice</title>
+  <desc id="d">通知标志：溢漏处理警示。</desc>
+  <g id="body"><path d="M64 12 L116 104 L12 104Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <path d="M64 40 C60 50 54 56 54 66 C54 74 58 80 64 80 C70 80 74 74 74 66 C74 56 68 50 64 40Z" fill="#BFE0FF" stroke="#1F2933" stroke-width="2" data-ls="liquid" data-ls-stroke="stroke"/>
+    <path d="M50 86 L78 86" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
+    <path d="M54 90 L74 90" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

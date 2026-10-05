@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>分流箭头</title>
+  <line x1="2" y1="12" x2="10" y2="12"/>
+  <circle cx="10" cy="12" r="1.2" fill="currentColor" stroke="none"/>
+  <path d="M10 12 L20 6"/>
+  <path d="M10 12 L20 18"/>
+  <polygon points="20,4 23,6 20,8" fill="currentColor" stroke="none"/>
+  <polygon points="20,16 23,18 20,20" fill="currentColor" stroke="none"/>
+  <line x1="2" y1="10" x2="2" y2="14"/>
+</svg>

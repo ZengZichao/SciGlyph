@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-biohazard" data-cat="hz" data-spec="128"
+     data-tags="biohazard,biological,biosafety,infectious,sign,生物危害" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">生物危害标志 / Biohazard Symbol</title>
+  <desc id="d">标准生物危害三弧标志。</desc>
+  <g id="body"><circle cx="64" cy="64" r="48" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <circle cx="64" cy="64" r="8" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <circle cx="64" cy="42" r="16" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <circle cx="45" cy="75" r="16" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <circle cx="83" cy="75" r="16" fill="none" stroke="#1F2933" stroke-width="3" data-ls="stroke"/>
+    <path d="M64 56 L64 48 M70.93 68 L77.86 72 M57.07 68 L50.14 72" fill="none" stroke="#F5A623" stroke-width="4" data-ls="warn"/></g>
+  <g id="detail"></g>
+</svg>

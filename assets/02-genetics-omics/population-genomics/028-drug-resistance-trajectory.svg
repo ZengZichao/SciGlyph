@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     class="pp-diagram pp-population-genomics" role="img" aria-labelledby="t-drug_resistance_trajectory d-drug_resistance_trajectory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-drug_resistance_trajectory">耐药进化轨迹 / Drug resistance evolution trajectory</title>
+<desc id="d-drug_resistance_trajectory">Treatment timeline with multi-drug resistance allele frequency lines and mutation points. schematic. 关键词: population genomics, drug resistance trajectory, evolution, Treatment, timeline, multi-drug, allele</desc>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+<line x1="80.0" y1="340.0" x2="560.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="80.0" y1="50.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<text x="320.0" y="385.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Time (treatment days)</text>
+<text x="40.0" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90,40.0,195.0)">Allele frequency</text>
+<line x1="75.0" y1="340.0" x2="80.0" y2="340.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="343.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.0</text>
+<line x1="75.0" y1="282.0" x2="80.0" y2="282.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="285.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.2</text>
+<line x1="75.0" y1="224.0" x2="80.0" y2="224.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="227.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.4</text>
+<line x1="75.0" y1="166.0" x2="80.0" y2="166.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="169.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.6</text>
+<line x1="75.0" y1="108.0" x2="80.0" y2="108.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="111.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">0.8</text>
+<line x1="75.0" y1="50.0" x2="80.0" y2="50.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="65.0" y="53.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">1.0</text>
+<line x1="80.0" y1="340.0" x2="80.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="80.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~0</text>
+<line x1="160.0" y1="340.0" x2="160.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="160.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~60</text>
+<line x1="240.0" y1="340.0" x2="240.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="240.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~120</text>
+<line x1="320.0" y1="340.0" x2="320.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="320.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~180</text>
+<line x1="400.0" y1="340.0" x2="400.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="400.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~240</text>
+<line x1="480.0" y1="340.0" x2="480.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="480.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~300</text>
+<line x1="560.0" y1="340.0" x2="560.0" y2="345.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
+<text x="560.0" y="356.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~360</text>
+<line x1="80.0" y1="50.0" x2="560.0" y2="50.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="108.0" x2="560.0" y2="108.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="166.0" x2="560.0" y2="166.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="224.0" x2="560.0" y2="224.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="282.0" x2="560.0" y2="282.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+<line x1="80.0" y1="340.0" x2="560.0" y2="340.0" stroke="#93A0AC" stroke-width="0.3" data-pp="muted" stroke-linecap="round" stroke-dasharray="2,3"/>
+</g>
+<rect x="120.0" y="50.0" width="80.0" height="290.0" fill="#E8871E" data-pp="mge" fill-opacity="0.06"/>
+<rect x="280.0" y="50.0" width="80.0" height="290.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.06"/>
+<rect x="440.0" y="50.0" width="80.0" height="290.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.06"/>
+<text x="160.0" y="45.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">Drug A</text>
+<text x="320.0" y="45.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Drug B</text>
+<text x="480.0" y="45.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Drug C</text>
+<polyline points="80,320 160,300 200,220 280,180 360,120 440,90 560,80" fill="none" stroke="#C42D2D" stroke-width="2" data-pp="alert" stroke-linecap="round"/>
+<circle cx="160.0" cy="300.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="200.0" cy="220.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="280.0" cy="180.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="360.0" cy="120.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="440.0" cy="90.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="560.0" cy="80.0" r="3.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<text x="565.0" y="72.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">gyrA</text>
+<polyline points="80,330 160,320 240,280 320,200 400,150 480,110 560,100" fill="none" stroke="#E8871E" stroke-width="2" data-pp="mge" stroke-linecap="round"/>
+<circle cx="160.0" cy="320.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="240.0" cy="280.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="320.0" cy="200.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="400.0" cy="150.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="480.0" cy="110.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="560.0" cy="100.0" r="3.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+<text x="565.0" y="92.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">rpoB</text>
+<polyline points="80,335 200,330 300,300 400,240 480,180 560,160" fill="none" stroke="#00857A" stroke-width="2" data-pp="metabolism" stroke-linecap="round"/>
+<circle cx="200.0" cy="330.0" r="3.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="300.0" cy="300.0" r="3.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="400.0" cy="240.0" r="3.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="480.0" cy="180.0" r="3.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="560.0" cy="160.0" r="3.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
+<text x="565.0" y="152.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">eis</text>
+<polyline points="80,338 240,335 360,310 440,260 520,200 560,190" fill="none" stroke="#6C3FA0" stroke-width="2" data-pp="gene" stroke-linecap="round"/>
+<circle cx="240.0" cy="335.0" r="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="360.0" cy="310.0" r="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="440.0" cy="260.0" r="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="520.0" cy="200.0" r="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="560.0" cy="190.0" r="3.0" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
+<text x="565.0" y="182.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="start">rrs</text>
+<text x="300.0" y="30.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Drug Resistance Trajectory (schematic)</text>
+</svg>

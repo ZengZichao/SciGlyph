@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-virology" role="img" aria-labelledby="t-fd_m13 d-fd_m13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-fd_m13">fd/M13丝状噬菌体 / fd M13 filamentous phage</title>
+  <desc id="d-fd_m13">fd/M13丝状噬菌体(Inoviridae科)。长丝形(~6.5nm×880nm)，~2700个pVIII主衣壳蛋白螺旋排列包裹ssDNA(+)。pIII(与pVI)位于同一端介导F-pilus识别，另一端为pVII/pIX。非裂解挤出释放。关键词: M13, fd, filamentous phage, Inoviridae, pVIII, pIII, pVI</desc>
+  <g id="layer-body-fd_m13" data-name="body">
+    <!-- Long filament -->
+    <rect x="15" y="38" width="70" height="24" rx="12" ry="12" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5"/>
+    <!-- Major coat protein (pVIII) helical arrangement -->
+    <line x1="20" y1="40" x2="22" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="25" y1="40" x2="27" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="30" y1="40" x2="32" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="35" y1="40" x2="37" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="40" y1="40" x2="42" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="45" y1="40" x2="47" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="50" y1="40" x2="52" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="55" y1="40" x2="57" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="60" y1="40" x2="62" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="65" y1="40" x2="67" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="70" y1="40" x2="72" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="75" y1="40" x2="77" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="80" y1="40" x2="82" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <line x1="85" y1="40" x2="87" y2="60" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.4"/>
+    <!-- ssDNA inside -->
+    <path d="M22,50 Q30,45 38,50 Q46,55 54,50 Q62,45 70,50 Q78,55 82,50" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
+    <!-- pIII and pVI at the same (attachment) tip -->
+    <circle cx="84" cy="45" r="3" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="84" cy="56" r="2.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <!-- pVII/pIX at the opposite tip -->
+    <circle cx="16" cy="50" r="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.8"/>
+  </g>
+  <g id="layer-annotation-fd_m13" data-name="annotation">
+    <text x="82.14" y="41.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pIII</text>
+    <text x="86.48" y="62.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pVI</text>
+    <line x1="14" y1="47" x2="8" y2="34" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="2" y="31" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pVII/IX</text>
+    <text x="50" y="75" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~2700×pVIII</text>
+  </g>
+</svg>

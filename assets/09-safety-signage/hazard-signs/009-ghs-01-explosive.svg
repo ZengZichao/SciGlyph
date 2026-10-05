@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-ghs-01-explosive" data-cat="hz" data-spec="128"
+     data-tags="ghs,explosive,bomb,爆炸物" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">GHS01 爆炸物 / GHS01 Explosive</title>
+  <desc id="d">GHS象形图：爆炸的炸弹，表示爆炸物危险。</desc>
+  <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
+    <g fill="#1F2933" stroke="none" data-ls="stroke"><circle cx="64" cy="68" r="10"/>
+    <rect x="60" y="48" width="8" height="12" rx="2"/>
+    <path d="M68 50 L76 42 M72 48 L78 46 M66 48 L66 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M48 80 L44 86 M50 82 L46 90 M80 80 L84 86 M78 82 L82 90" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2" data-ls="stroke"/></g>
+    </g>
+  <g id="detail"></g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-ice-bath-beaker" data-cat="hc" data-spec="128"
+     data-tags="ice-bath,beaker,cooling,temperature,0c" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">冰浴 / Ice Bath (Beaker with Ice)</title>
+  <desc id="d">烧杯内冰块+水+温度计，冰浴，冰块多边形</desc>
+  <g id="body"><path d="M30 34 L30 100 Q30 108 38 108 L90 108 Q98 108 98 100 L98 30 L88 22 L30 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M32 50 L96 50 L96 100 Q96 106 90 106 L38 106 Q32 106 32 100 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
+    <path d="M40 60 L48 56 L52 62 L46 68 L38 66 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M56 58 L64 54 L68 60 L62 66 L54 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M72 62 L80 58 L84 64 L78 70 L70 68 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M44 74 L52 70 L56 76 L50 82 L42 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 72 L68 68 L72 74 L66 80 L58 78 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M76 76 L84 72 L88 78 L82 84 L74 82 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 88 L56 84 L60 90 L54 96 L46 94 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 86 L72 82 L76 88 L70 94 L62 92 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M58 20 L62 20 L62 80 L58 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M59 60 L61 60 L61 78 L59 78 Z" fill="#E02020" stroke="none" data-ls="danger"/>
+    <path d="M56 30 L58 30 M56 40 L58 40 M56 50 L58 50 M56 70 L58 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

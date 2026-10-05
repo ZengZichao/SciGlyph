@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-phenotype_genotype_assoc d-phenotype_genotype_assoc" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-phenotype_genotype_assoc">表型-基因型关联 / Phenotype-genotype association</title>
+  <desc id="d-phenotype_genotype_assoc">表型与基因型关联分析图。schematic, not to scale. 关键词: GWAS, association, Manhattan</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="axes">
+  <line x1="80" y1="340" x2="560" y2="340" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="320.0" y="365" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genomic position</text>
+
+  <line x1="80" y1="340" x2="80" y2="50" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="50" y="195.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">-log10(p)</text>
+
+</g>
+<g data-name="assoc-points">
+  <circle cx="85" cy="302.3" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="93" cy="288.7" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="101" cy="241.8" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="109" cy="268.4" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="117" cy="127.4" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="125" cy="275.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="133" cy="284.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="141" cy="256.0" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="149" cy="305.4" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="157" cy="159.9" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="165" cy="289.7" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="173" cy="288.1" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="181" cy="242.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="189" cy="310.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="197" cy="246.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="205" cy="189.7" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="213" cy="293.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="221" cy="117.1" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="229" cy="269.8" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="237" cy="218.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="245" cy="278.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="253" cy="286.4" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="261" cy="300.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="269" cy="322.0" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="277" cy="306.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="285" cy="60.0" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="293" cy="269.0" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="301" cy="279.1" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="309" cy="161.1" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="317" cy="257.4" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="325" cy="60.0" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="333" cy="291.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="341" cy="305.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="349" cy="145.0" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="357" cy="310.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="365" cy="212.6" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="373" cy="259.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="381" cy="60.0" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="389" cy="120.8" r="3" fill="#C42D2D" data-pp="alert"/>
+  <circle cx="397" cy="246.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="405" cy="319.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="413" cy="320.8" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="421" cy="277.6" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="429" cy="202.6" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="437" cy="316.6" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="445" cy="283.7" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="453" cy="316.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="461" cy="296.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="469" cy="322.1" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="477" cy="294.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="485" cy="270.6" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="493" cy="306.8" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="501" cy="214.2" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="509" cy="318.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="517" cy="305.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="525" cy="301.7" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="533" cy="286.3" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="541" cy="221.5" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="549" cy="291.9" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <circle cx="557" cy="239.4" r="3" fill="#2E86AB" data-pp="bacteria"/>
+  <line x1="80" y1="200.0" x2="560" y2="200.0" stroke="#C42D2D" stroke-width="1" stroke-dasharray="4,3" data-pp="alert"/>
+  <text x="545" y="195" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="end" data-pp="alert">p=10⁻⁴</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Phenotype–Genotype Association (schematic)</text>
+</svg>

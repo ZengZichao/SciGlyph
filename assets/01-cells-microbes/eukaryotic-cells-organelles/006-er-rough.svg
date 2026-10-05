@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="粗面内质网" data-name-en="Rough ER" data-cat="natural-sciences" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-14">粗面内质网 / er_rough</title>
+  <desc id="d-14">展示粗面内质网及核糖体。关键词: rough er,ribosome,protein synthesis</desc>
+  <g id="g-14-粗面内质网">
+    <path d="M20,30 C40,20 60,40 80,30 C100,20 120,40 140,30" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+    <path d="M20,30 C40,20 60,40 80,30 C100,20 120,40 140,30" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M20,45 C40,35 60,55 80,45 C100,35 120,55 140,45" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M20,60 C40,50 60,70 80,60 C100,50 120,70 140,60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M20,75 C40,65 60,85 80,75 C100,65 120,85 140,75" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M20,90 C40,80 60,100 80,90 C100,80 120,100 140,90" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="30" cy="28" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="50" cy="32" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="70" cy="28" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="90" cy="32" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="110" cy="28" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="130" cy="32" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="30" cy="58" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="50" cy="62" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="70" cy="58" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="90" cy="62" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="110" cy="58" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="130" cy="62" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="30" cy="88" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="50" cy="92" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="70" cy="88" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="90" cy="92" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="110" cy="88" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+    <circle cx="130" cy="92" r="3" fill="#0072B2" stroke="none" data-drole="series-1"/>
+  </g>
+</svg>

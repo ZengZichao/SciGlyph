@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96"
+     role="img" aria-labelledby="t d"
+     data-id="lb-chemical-label-square-sample" data-cat="lb" data-spec="160"
+     data-tags="chemical,label,reagent,cas,concentration,date,hazard" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">试剂标签 / Chemical Label Square Sample</title>
+  <desc id="d">试剂标签，NAME/CAS/CONC/DATE四栏加危险菱形占位。</desc>
+  <g id="body">
+    <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="10" y1="28" x2="150" y2="28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="10" y1="46" x2="150" y2="46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="10" y1="64" x2="150" y2="64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="80" y1="28" x2="80" y2="86" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="16" y="22" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" data-ls="stroke">NAME</text>
+    <text x="86" y="22" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">CAS:</text>
+    <text x="16" y="40" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">CONC:</text>
+    <text x="86" y="40" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">DATE:</text>
+    <text x="16" y="58" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">LOT:</text>
+    <text x="86" y="58" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">EXP:</text>
+    <polygon points="130,70 138,78 130,86 122,78" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

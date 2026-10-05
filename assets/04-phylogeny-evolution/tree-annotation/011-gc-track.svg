@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     role="img" aria-labelledby="t-11 d-11" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-11">GC%轨道 / GC% Track</title>
+  <desc id="d-11">装饰零件，贴到树上用。基因组GC含量轨道。 关键词: tree decoration, GC content track, GC%, genome composition, per-genome bar</desc>
+  <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
+  <g data-name="gc-track">
+    <rect x="100" y="203.8" width="25" height="96.2" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="112.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G1</text>
+    <text x="112.5" y="198.8" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">48%</text>
+    <rect x="130" y="195.2" width="25" height="104.8" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="142.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G2</text>
+    <text x="142.5" y="190.2" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">52%</text>
+    <rect x="160" y="166.1" width="25" height="133.9" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="172.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G3</text>
+    <text x="172.5" y="161.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">67%</text>
+    <rect x="190" y="202.7" width="25" height="97.3" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="202.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G4</text>
+    <text x="202.5" y="197.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">49%</text>
+    <rect x="220" y="199.4" width="25" height="100.6" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="232.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G5</text>
+    <text x="232.5" y="194.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50%</text>
+    <rect x="250" y="193.0" width="25" height="107.0" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="262.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G6</text>
+    <text x="262.5" y="188.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">53%</text>
+    <rect x="280" y="225.2" width="25" height="74.8" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="292.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G7</text>
+    <text x="292.5" y="220.2" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">37%</text>
+    <rect x="310" y="199.0" width="25" height="101.0" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="322.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G8</text>
+    <text x="322.5" y="194.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50%</text>
+    <rect x="340" y="189.6" width="25" height="110.4" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="352.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G9</text>
+    <text x="352.5" y="184.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">55%</text>
+    <rect x="370" y="176.6" width="25" height="123.4" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="382.5" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">G10</text>
+    <text x="382.5" y="171.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">62%</text>
+  </g>
+  <g data-name="annotation">
+    <line x1="100" y1="300" x2="395" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="100" y1="100" x2="100" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="100" y1="200" x2="395" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <rect x="100" y="330" width="10" height="10" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+  </g>
+</svg>

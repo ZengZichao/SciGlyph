@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-dls-particle-sizer" data-cat="an" data-spec="128" data-tags="dls,dynamic,light,scattering,particle,size,nanoscale" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">动态光散射粒度仪 / DLS Particle Sizer</title>
+  <desc id="d">动态光散射粒度分析仪：激光→样品池→光电探测器→自相关器。</desc>
+  <g id="body">
+    <rect x="14" y="20" width="100" height="88" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="14" y="20" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<rect x="20" y="40" width="16" height="10" rx="3" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger" />
+    <text x="28" y="48" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Laser</text>
+<rect x="48" y="34" width="16" height="22" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<circle cx="53" cy="42" r="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="58" cy="46" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="55" cy="50" r="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<circle cx="60" cy="40" r="1.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <text x="56.0" y="59.2" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<line x1="64" y1="42" x2="80" y2="36" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round" />
+<line x1="64" y1="44" x2="82" y2="44" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+<line x1="64" y1="46" x2="80" y2="52" fill="none" opacity="0.4" stroke="#2B7DE9" stroke-width="1" data-ls="accent" stroke-linecap="round" />
+<rect x="82" y="36" width="14" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="89" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">APD</text>
+<line x1="36" y1="44" x2="48" y2="44" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
+    <polygon points="40,41 52,44 40,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="18" y="68" width="48" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+<path d="M22 84 L28 84 L32 78 L36 72 L40 68 L44 72 L48 78 L52 84 L56 84 L60 82" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent" />
+    <text x="43.41" y="66.99" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">DLS</text>
+    <circle cx="76" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="86" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

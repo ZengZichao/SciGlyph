@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="电流表" data-name-en="ammeter-circle" data-cat="physics-electronics" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-39">电流表 / ammeter_circle</title>
+  <desc id="d-39">圆形电流表符号。关键词: 电流表,安培表,测量</desc>
+  <g id="g-39-电流表">
+    <circle cx="60" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <text x="60" y="47" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">A</text>
+    <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="80" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+  </g>
+</svg>

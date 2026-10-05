@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="rRNA 操纵子" data-name-en="rRNA operon" data-cat="02-structures" data-tags="rRNA操纵子,5S,16S,23S,tRNA基因,共同转录,核糖体RNA" role="img" aria-labelledby="t-23-rrna-operon d-23-rrna-operon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-23-rrna-operon">rRNA 操纵子 / rRNA operon</title>
+  <desc id="d-23-rrna-operon">典型 rRNA 操纵子按 5′→3′ 顺序排列 16S、23S、5S rRNA 基因，部分操纵子的间隔区夹有 tRNA 基因，全操纵子被 RNA 聚合酶共同转录为多顺反子 rRNA 前体。关键词: rRNA操纵子, 5S, 16S, 23S, tRNA基因, 共同转录, 核糖体RNA</desc>
+<g stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 74L112 74" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
+<rect x="24" y="66" width="28" height="16" rx="3" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>
+<rect x="56" y="66" width="36" height="16" rx="3" fill="#5FA8C7" stroke="#1F6F8B" stroke-width="1.4"/>
+<rect x="96" y="66" width="12" height="16" rx="3" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="1.4"/>
+<path d="M14 70L18 74L14 78" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
+<path d="M16 66L16 82" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M54 66L54 82" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M94 66L94 82" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M110 66L110 82" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<circle cx="96" cy="52" r="9" fill="#E8B04B" fill-opacity="0.55" stroke="#B57A17" stroke-width="1.4"/>
+<path d="M101 45C108 38 110 28 112 20" fill="none" stroke="#B57A17" stroke-width="1.6"/>
+<path d="M28 100L92 100" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+<path d="M88 97L94 100L88 103" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
+</g>
+</svg>

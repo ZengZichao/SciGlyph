@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"
+     role="img" aria-labelledby="t d"
+     data-id="ic-flask" data-cat="ic" data-spec="24"
+     data-tags="icon,flask,erlenmeyer,glassware" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">锥形瓶图标 / Icon Flask</title>
+  <desc id="d">锥形瓶微型图标。</desc>
+  <g id="body">
+    <path d="M9,4 L9,10 L5,18 Q4,20 6,20 L18,20 Q20,20 19,18 L15,10 L15,4 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="8" y1="4" x2="16" y2="4" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <path d="M7,16 L17,16 L18,18 Q19,20 17,20 L7,20 Q5,20 6,18 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

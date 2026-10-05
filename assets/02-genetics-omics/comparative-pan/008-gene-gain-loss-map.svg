@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-gene_gain_loss_map d-gene_gain_loss_map" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-gene_gain_loss_map">基因获得/丢失时间地图 / Gene gain/loss time map</title>
+  <desc id="d-gene_gain_loss_map">基因家族随时间的获得与丢失。schematic, not to scale. 关键词: gain, loss, time</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="timeline">
+  <line x1="80" y1="200" x2="560" y2="200" stroke="#1B2733" stroke-width="2" data-pp="ink"/>
+  <line x1="100" y1="195" x2="100" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="100" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Anc</text>
+  <line x1="240" y1="195" x2="240" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="240" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">100 Mya</text>
+  <line x1="380" y1="195" x2="380" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="380" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">50 Mya</text>
+  <line x1="520" y1="195" x2="520" y2="205" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="520" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Present</text>
+</g>
+<g data-name="gene-tracks">
+  <text x="55" y="94" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Fam1</text>
+  <rect x="100" y="80" width="100" height="20" fill="#00857A" fill-opacity="0.6" data-pp="metabolism" rx="2"/>
+  <rect x="240" y="80" width="140" height="20" fill="#93A0AC" fill-opacity="0.6" data-pp="muted" rx="2"/>
+  <rect x="420" y="80" width="100" height="20" fill="#00857A" fill-opacity="0.6" data-pp="metabolism" rx="2"/>
+  <text x="55" y="134" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Fam2</text>
+  <rect x="100" y="120" width="100" height="20" fill="#2E86AB" fill-opacity="0.6" data-pp="bacteria" rx="2"/>
+  <rect x="240" y="120" width="140" height="20" fill="#93A0AC" fill-opacity="0.6" data-pp="muted" rx="2"/>
+  <rect x="420" y="120" width="100" height="20" fill="#2E86AB" fill-opacity="0.6" data-pp="bacteria" rx="2"/>
+  <text x="55" y="174" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Fam3</text>
+  <rect x="100" y="160" width="100" height="20" fill="#6C3FA0" fill-opacity="0.6" data-pp="gene" rx="2"/>
+  <rect x="240" y="160" width="140" height="20" fill="#93A0AC" fill-opacity="0.6" data-pp="muted" rx="2"/>
+  <rect x="420" y="160" width="100" height="20" fill="#6C3FA0" fill-opacity="0.6" data-pp="gene" rx="2"/>
+</g>
+<g data-name="legend">
+  <rect x="420" y="280" width="12" height="12" fill="#00857A" data-pp="metabolism"/>
+  <text x="440" y="290" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Present</text>
+  <rect x="420" y="300" width="12" height="12" fill="#93A0AC" data-pp="muted"/>
+  <text x="440" y="310" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Lost</text>
+</g>
+<text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Gain/Loss Time Map (schematic)</text>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hz-hazard-non-ionizing-radiation" data-cat="hz" data-spec="128"
+     data-tags="radiation,non-ionizing,rf,microwave,uv,非电离辐射" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">非电离辐射标志 / Non-ionizing Radiation</title>
+  <desc id="d">非电离辐射警告：黄色三角+辐射波纹，用于射频、微波、紫外等非电离辐射区域。</desc>
+  <g id="body"><path d="M64 12 L116 104 L12 104Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
+    <line x1="64" y1="88" x2="64" y2="70" stroke="#1F2933" stroke-linecap="round" stroke-width="3.5" data-ls="stroke"/>
+    <circle cx="64" cy="68" r="4" fill="#1F2933" data-ls="stroke"/>
+    <path d="M54.5 59.8 A13.5 13.5 0 0 1 73.5 59.8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <path d="M48.3 53.5 A22.2 22.2 0 0 1 79.7 53.5" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/>
+    <path d="M42.2 47.4 A30.8 30.8 0 0 1 85.8 47.4" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="3" data-ls="stroke"/></g>
+  <g id="detail"></g>
+</svg>

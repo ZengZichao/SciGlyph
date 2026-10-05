@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="圆点端头" data-name-en="head round dot" data-cat="arrows-connectors" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-30">圆点端头 / head_round_dot</title>
+  <desc id="d-30">圆形点状线端头。关键词: head,round,dot,circle</desc>
+  <g id="g-30-圆点端头">
+    <line x1="10" y1="24" x2="74" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <circle cx="82" cy="24" r="6" fill="#1f2937"/>
+  </g>
+</svg>

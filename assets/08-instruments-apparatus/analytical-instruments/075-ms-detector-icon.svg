@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="an-ms-detector-icon" data-cat="an" data-spec="128"
+     data-tags="ms,mass,spectrometer,detector,icon,magnet" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">质谱检测器图标 / MS Detector Icon</title>
+  <desc id="d">质谱检测器通用图标。</desc>
+  <g id="body">
+    <rect x="14" y="18" width="100" height="92" rx="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  </g>
+  <g id="detail">
+    <rect x="14" y="18" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<polygon points="22,56 30,50 30,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+<path d="M46 30 Q64 22 82 30 L82 74 Q64 82 46 74 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<path d="M52 38 Q64 32 76 38 M52 46 Q64 40 76 46 M52 54 Q64 48 76 54 M52 62 Q64 56 76 62 M52 70 Q64 64 76 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <text x="64" y="54" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="accent">MS</text>
+<path d="M30 56 Q40 56 46 50 Q56 40 70 44 Q82 48 88 56" fill="#2B7DE9" opacity="0.6" stroke="none" stroke-width="1.5" data-ls="accent"/>
+<rect x="88" y="48" width="10" height="16" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <text x="93" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Det</text>
+    <text x="64" y="96" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Mass Spec</text>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

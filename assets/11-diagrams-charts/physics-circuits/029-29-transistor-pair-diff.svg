@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="差分对" data-name-en="transistor-pair-diff" data-cat="physics-electronics" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-29">差分对 / transistor_pair_diff</title>
+  <desc id="d-29">差分晶体管对符号。关键词: 差分对,晶体管对,模拟电路</desc>
+  <g id="g-29-差分对">
+    <line x1="10" y1="30" x2="35" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="20" x2="35" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="25" x2="55" y2="15" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="35" x2="55" y2="45" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="10" y1="50" x2="35" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="40" x2="35" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="45" x2="55" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="35" y1="55" x2="55" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="55" y1="45" x2="55" y2="75" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="44.18,43.5 47.3,37.24 52,43.5" fill="#1f2937" stroke="none"/>
+    <polygon points="44.18,63.5 47.3,57.24 52,63.5" fill="#1f2937" stroke="none"/>
+  </g>
+</svg>

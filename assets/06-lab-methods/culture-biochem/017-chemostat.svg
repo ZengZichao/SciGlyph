@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-methods" role="img" aria-labelledby="t-chemostat d-chemostat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-chemostat">连续培养 / Chemostat</title>
+  <desc id="d-chemostat">恒化器连续培养: 恒速补料溢流, 维持稳态生长。关键词: chemostat, turbidostat, continuous culture, steady state</desc>
+  <g id="layer-body" data-name="body">
+    <rect x="30" y="25" width="30" height="50" rx="4" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
+    <rect x="32" y="45" width="26" height="28" rx="2" fill="#00857A" fill-opacity="0.2" data-pp="metabolism"/>
+    <circle cx="42" cy="55" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="50" cy="60" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
+    <line x1="15" y1="35" x2="30" y2="35" stroke="#00857A" stroke-width="1.5" stroke-linecap="round" data-pp="metabolism"/>
+    <path d="M12,33 L15,35 L12,37" fill="#00857A" data-pp="metabolism"/>
+    <line x1="60" y1="35" x2="80" y2="35" stroke="#93A0AC" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <path d="M77,33 L80,35 L77,37" fill="#93A0AC" data-pp="muted"/>
+    <text x="15" y="30" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism">in</text>
+    <text x="75" y="30" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted">out</text>
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">恒化</text>
+  </g>
+</svg>

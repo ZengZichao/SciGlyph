@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="uo-compressor-multistage" data-cat="uo" data-spec="128"
+     data-tags="compressor,multistage,intercooler,gas" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">多级压缩机 / Multistage Compressor</title>
+  <desc id="d">多级压缩机：气体自左侧入口进入第一级，经级间冷却器后再压缩，由右侧出口排出；蓝三角为流向箭头。</desc>
+  <g id="body">
+    <circle cx="32" cy="64" r="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <circle cx="96" cy="64" r="20" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="52" y1="64" x2="76" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="58" y="50" width="12" height="28" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="6" y1="64" x2="12" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="18,64 12,60 12,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="116" y1="64" x2="121" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="123,64 117,60 117,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="32" y1="44" x2="32" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="96" y1="44" x2="96" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="24" y1="30" x2="40" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="88" y1="30" x2="104" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  </g>
+</svg>

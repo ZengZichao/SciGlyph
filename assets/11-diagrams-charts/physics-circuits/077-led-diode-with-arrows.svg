@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="el-led-diode-with-arrows" data-cat="el" data-spec="128"
+     data-tags="led,diode,light,emitting,发光二极管" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">发光二极管LED / LED Diode</title>
+  <desc id="d">LED符号：二极管+发光箭头。</desc>
+  <g id="body"><line x1="10" y1="64" x2="44" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M44 44 L44 84 L80 64Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="80" y1="44" x2="80" y2="84" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="80" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M86 40 L96 28" fill="none" stroke="#F5A623" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="warn"/>
+    <path d="M92 32 L96 28 L92 26" fill="#F5A623" stroke="none" data-ls="warn"/>
+    <path d="M92 44 L102 32" fill="none" stroke="#F5A623" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="warn"/>
+    <path d="M98 36 L102 32 L98 30" fill="#F5A623" stroke="none" data-ls="warn"/></g>
+  <g id="detail"></g>
+</svg>

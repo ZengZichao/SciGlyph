@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="ls-electrophoresis-tank" data-cat="ls" data-spec="128"
+     data-tags="electrophoresis,tank,gel,dna,rna,agarose,well,ladder" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">水平电泳槽 / Electrophoresis Tank</title>
+  <desc id="d">水平核酸电泳槽：电极、凝胶托盘、加样孔。</desc>
+  <g id="body">
+<rect x="14" y="34" width="100" height="60" rx="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="16" y="42" width="96" height="48" rx="4" fill="#BFE0FF" opacity="0.25" stroke="none" data-ls="liquid"/>
+  </g>
+  <g id="detail">
+<rect x="18" y="38" width="4" height="48" rx="1" fill="#E02020" stroke="none" data-ls="danger"/>
+<rect x="106" y="38" width="4" height="48" rx="1" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="20" y="34" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">−</text>
+    <text x="108" y="34" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">+</text>
+<rect x="28" y="46" width="72" height="36" rx="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+<rect x="30" y="48" width="68" height="32" rx="2" fill="#7FC26B" opacity="0.2" stroke="none" data-ls="liquid-2"/>
+<rect x="34" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="42" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="50" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="58" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="66" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="74" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="82" y="48" width="4" height="3" rx="0.5" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="34" y="56" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+<rect x="34" y="62" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+<rect x="34" y="68" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+<rect x="42" y="58" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<rect x="42" y="66" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<rect x="50" y="54" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<rect x="50" y="64" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<rect x="50" y="72" width="4" height="2" rx="0.5" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
+<line x1="92" y1="52" x2="92" y2="76" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="1.2" data-ls="accent" stroke-linecap="round"/>
+    <polygon points="89,68 92,80 95,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <text x="96" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Migration</text>
+<rect x="30" y="30" width="10" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+<rect x="88" y="30" width="10" height="6" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="94" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+  </g>
+</svg>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-microscopy-scale" role="img" aria-labelledby="t-palm_storm d-palm_storm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-palm_storm">PALM/STORM单分子定位 / PALM STORM single molecule localization</title>
+  <desc id="d-palm_storm">PALM/STORM超分辨：随机激活稀疏子集单分子→精确定位(高斯拟合,~10nm)→漂白→重复万帧→叠加重建。突破衍射极限。关键词: PALM, STORM, single molecule localization, photoactivation, super-resolution</desc>
+  <g id="layer-body-palm_storm" data-name="body">
+    <!-- Frame 1: sparse activation -->
+    <rect x="5" y="10" width="25" height="25" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="12" cy="18" r="2" fill="#00857A" data-pp="metabolism"/>
+    <circle cx="22" cy="28" r="2" fill="#00857A" data-pp="metabolism"/>
+    <text x="17" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">t₁</text>
+    <!-- Frame 2 -->
+    <rect x="37" y="10" width="25" height="25" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="45" cy="22" r="2" fill="#C42D2D" data-pp="alert"/>
+    <circle cx="55" cy="15" r="2" fill="#C42D2D" data-pp="alert"/>
+    <text x="50" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">t₂</text>
+    <!-- Frame 3 -->
+    <rect x="70" y="10" width="25" height="25" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="78" cy="18" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="88" cy="28" r="2" fill="#2E86AB" data-pp="bacteria"/>
+    <text x="82" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">t₃</text>
+    <!-- Arrow down -->
+    <path d="M50,45 L50,55" fill="none" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="48,53 50,57 52,53" fill="#1B2733" data-pp="ink"/>
+    <!-- Accumulated image -->
+    <rect x="20" y="58" width="60" height="30" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <circle cx="66.2" cy="68.8" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="36.0" cy="80.7" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="29.2" cy="72.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="53.1" cy="75.7" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="30.9" cy="76.1" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="50.0" cy="81.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="24.5" cy="84.0" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="32.3" cy="80.5" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="50.4" cy="81.1" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="32.9" cy="68.7" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="27.7" cy="79.7" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="51.8" cy="65.9" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="33.4" cy="62.9" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="33.8" cy="74.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="46.6" cy="77.9" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="27.1" cy="81.1" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="76.0" cy="78.8" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="63.1" cy="81.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="28.1" cy="72.1" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="27.3" cy="79.8" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="52.1" cy="63.6" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="47.0" cy="79.6" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="52.8" cy="63.9" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="73.6" cy="62.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <circle cx="68.5" cy="84.4" r="1" fill="#5B8C3E" data-pp="virus"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="30.88" y="95.0">10000 frames →</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="28.11" y="87.45">super-res</text><line x1="15.15" y1="96.28" x2="9.21" y2="83.41" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  </g>
+  <g id="layer-annotation-palm_storm" data-name="annotation">
+    <text x="50" y="8" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">PALM/STORM</text>
+  </g>
+</svg>

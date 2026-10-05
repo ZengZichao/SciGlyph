@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="mt-vernier-caliper" data-cat="mt" data-spec="128"
+     data-tags="caliper,vernier,measurement,卡尺,游标" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">游标卡尺 / Vernier Caliper</title>
+  <desc id="d">游标卡尺：主尺+游标+内外量爪，体现错位读数。</desc>
+  <g id="body"><rect x="10" y="44" width="108" height="12" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="32" width="14" height="24" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="10" y="56" width="14" height="20" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="46" y="32" width="10" height="24" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="46" y="56" width="10" height="16" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="44" y="56" width="20" height="26" rx="2" fill="#FFFFFF" stroke="#2B7DE9" stroke-width="1.5" data-ls="fill" data-ls-stroke="accent"/></g>
+  <g id="detail"><g id="scale-main">
+    <line x1="26" y1="44" x2="26" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="32" y1="44" x2="32" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="38" y1="44" x2="38" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="44" y1="44" x2="44" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="50" y1="44" x2="50" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="56" y1="44" x2="56" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="62" y1="44" x2="62" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="68" y1="44" x2="68" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="74" y1="44" x2="74" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="80" y1="44" x2="80" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="86" y1="44" x2="86" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="92" y1="44" x2="92" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="98" y1="44" x2="98" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+    <line x1="104" y1="44" x2="104" y2="48" stroke="#5A6B7B" stroke-width="0.5" data-ls="thin"/>
+    <line x1="110" y1="44" x2="110" y2="50" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/>
+  </g>
+  <g id="scale-vernier">
+    <line x1="46" y1="60" x2="46" y2="68" stroke="#2B7DE9" stroke-width="0.6" data-ls="accent"/>
+    <line x1="49" y1="60" x2="49" y2="66" stroke="#2B7DE9" stroke-width="0.4" data-ls="accent"/>
+    <line x1="52" y1="60" x2="52" y2="68" stroke="#2B7DE9" stroke-width="0.6" data-ls="accent"/>
+    <line x1="55" y1="60" x2="55" y2="66" stroke="#2B7DE9" stroke-width="0.4" data-ls="accent"/>
+    <line x1="58" y1="60" x2="58" y2="68" stroke="#2B7DE9" stroke-width="0.6" data-ls="accent"/>
+  </g></g>
+</svg>

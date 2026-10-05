@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-open_ocean d-open_ocean" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-open_ocean">Open ocean</title>
+  <desc id="d-open_ocean">Open ocean with photic zone light rays, Prochlorococcus and deep SAR11 关键词: open, ocean, Prochlorococcus, SAR11</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="10" width="90" height="30" rx="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria" fill-opacity="0.1"/>
+    <line x1="20" y1="10" x2="25" y2="35" stroke="#E8871E" stroke-width="0.5" stroke-linecap="round" data-pp="mge" stroke-dasharray="4,3"/>
+    <line x1="40" y1="10" x2="42" y2="35" stroke="#E8871E" stroke-width="0.5" stroke-linecap="round" data-pp="mge" stroke-dasharray="4,3"/>
+    <line x1="60" y1="10" x2="58" y2="35" stroke="#E8871E" stroke-width="0.5" stroke-linecap="round" data-pp="mge" stroke-dasharray="4,3"/>
+    <line x1="80" y1="10" x2="75" y2="35" stroke="#E8871E" stroke-width="0.5" stroke-linecap="round" data-pp="mge" stroke-dasharray="4,3"/>
+    <rect x="5" y="40" width="90" height="40" rx="2" fill="#1B2733" stroke="none" stroke-width="0" data-pp="ink" fill-opacity="0.15"/>
+    <line x1="5" y1="40" x2="95" y2="40" stroke="#93A0AC" stroke-width="1" stroke-linecap="round" data-pp="muted" stroke-dasharray="4,2"/>
+    <circle cx="20" cy="22" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="35" cy="25" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="55" cy="20" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="70" cy="28" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="45" cy="30" r="1.5" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria"/>
+    <circle cx="30" cy="55" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <circle cx="60" cy="60" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Open ocean</text>
+  </g>
+</svg>

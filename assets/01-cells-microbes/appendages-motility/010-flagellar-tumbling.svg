@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-flagellar_tumbling d-flagellar_tumbling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flagellar_tumbling">鞭毛反转翻滚 / Flagellar Tumbling &amp; Reversal</title>
+  <desc id="d-flagellar_tumbling">CW rotation causes tumbling, reorienting cell. 关键词: tumbling, CW rotation, run-and-tumble, chemotaxis</desc>
+  
+  <g id="layer-body-flagellar_tumbling" data-name="body">
+    <ellipse cx="50" cy="50" rx="14" ry="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" transform="rotate(35,50,50)"/>
+    <path d="M63.2,52.7 L64.5,53.8 L65.4,55.2 L66.6,56.3 L68.7,56.4 L71.2,54.8 L73.2,52.4 L74.7,51.0 L76.5,52.0 L77.8,55.9" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M52.4,57.9 L52.2,59.5 L51.4,61.1 L51.0,62.7 L52.1,64.5 L54.7,65.9 L57.7,66.4 L59.7,67.0 L59.8,69.0 L57.1,72.1" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M39.3,55.1 L37.7,55.8 L36.0,55.8 L34.4,56.3 L33.3,58.2 L33.4,61.1 L34.5,63.9 L35.0,66.0 L33.3,67.1 L29.2,66.3" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M36.8,47.3 L35.5,46.2 L34.6,44.8 L33.4,43.7 L31.3,43.6 L28.8,45.2 L26.8,47.6 L25.3,49.0 L23.5,48.0 L22.2,44.1" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M47.6,42.1 L47.8,40.5 L48.6,38.9 L49.0,37.3 L47.9,35.5 L45.3,34.1 L42.3,33.6 L40.3,33.0 L40.2,31.0 L42.9,27.9" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M60.7,44.9 L62.3,44.2 L64.0,44.2 L65.6,43.7 L66.7,41.8 L66.6,38.9 L65.5,36.1 L65.0,34.0 L66.7,32.9 L70.8,33.7" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M65,35 A18,18 0 1,1 35,35" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="55" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">CW</text>
+    <text x="30" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">tumble</text>
+  </g>
+</svg>

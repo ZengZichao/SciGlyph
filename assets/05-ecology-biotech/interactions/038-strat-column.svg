@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="240" viewBox="0 0 160 240" role="img" data-name-zh="地层柱状" data-name-en="Strat Column" data-cat="natural-sciences" aria-labelledby="t-67 d-67" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-67">地层柱状 / strat_column</title>
+  <desc id="d-67">展示地层柱状图。关键词: stratigraphy,column,geological layers</desc>
+  <g id="g-67-地层柱状">
+    <rect x="30" y="10" width="100" height="40" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <rect x="30" y="50" width="100" height="50" fill="#6b7280" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="30" y="100" width="100" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <rect x="30" y="140" width="100" height="50" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="30" y="190" width="100" height="40" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="35" y1="60" x2="125" y2="60" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="35" y1="70" x2="125" y2="70" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="35" y1="80" x2="125" y2="80" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="35" y1="90" x2="125" y2="90" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="60" cy="120" r="4" fill="#6b7280" stroke="none"/>
+    <circle cx="80" cy="115" r="3" fill="#6b7280" stroke="none"/>
+    <circle cx="100" cy="125" r="5" fill="#6b7280" stroke="none"/>
+  </g>
+</svg>

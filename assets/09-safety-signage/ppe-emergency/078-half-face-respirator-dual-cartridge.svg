@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sf-half-face-respirator-dual-cartridge" data-cat="sf" data-spec="128"
+     data-tags="respirator,half face,dual cartridge,filter,ppe" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">半面罩双滤毒盒 / Half Face Respirator Dual Cartridge</title>
+  <desc id="d">半面罩呼吸器，配两个滤毒盒，带螺纹接口和头带。</desc>
+  <g id="body"><path d="M40 40 Q40 30 64 26 Q88 30 88 40 L88 72 Q88 90 64 94 Q40 90 40 72 Z" fill="#33414F" stroke="none" data-ls="dark"/>
+     <circle cx="28" cy="68" r="18" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <circle cx="100" cy="68" r="18" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><circle cx="28" cy="68" r="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="28" cy="68" r="6" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="100" cy="68" r="12" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <circle cx="100" cy="68" r="6" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 56 L16 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M88 56 L112 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+     <path d="M40 44 Q28 38 20 42" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+     <path d="M88 44 Q100 38 108 42" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
+</svg>

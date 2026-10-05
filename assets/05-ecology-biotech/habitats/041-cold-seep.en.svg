@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-environments" role="img" aria-labelledby="t-cold_seep d-cold_seep" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-cold_seep">Cold seep</title>
+  <desc id="d-cold_seep">Cold seep with methane bubbles, carbonate crust and ANME archaea 关键词: cold, seep, methane, ANME</desc>
+  
+  <g id="layer-body" data-name="body">
+    <rect x="5" y="55" width="90" height="30" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.6"/>
+    <rect x="5" y="15" width="90" height="40" rx="2" fill="#2E86AB" stroke="none" stroke-width="0" data-pp="bacteria" fill-opacity="0.1"/>
+    <circle cx="30" cy="45" r="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="32" cy="35" r="2.5" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="28" cy="25" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="55" cy="40" r="3.5" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <circle cx="53" cy="28" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
+    <path d="M15,55 Q30,50 50,55 Q70,50 85,55" fill="#93A0AC" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="muted"/>
+    <circle cx="25" cy="65" r="3" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <circle cx="50" cy="68" r="3" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+    <circle cx="70" cy="63" r="3" fill="#A2305B" stroke="#1B2733" stroke-width="0.8" data-pp="archaea"/>
+  </g>
+  
+  <g id="layer-annotation" data-name="annotation">
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cold seep</text>
+  </g>
+</svg>

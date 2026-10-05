@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="lh-burette-piston-digital" data-cat="lh" data-spec="128"
+     data-tags="burette,digital,piston,titration" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">数字活塞滴定管 / Digital Piston Burette</title>
+  <desc id="d">数字活塞滴定管，电动控制，带数字显示</desc>
+  <g id="body"><path d="M48 10 L80 10 L80 24 L48 24 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="52" y="12" width="24" height="10" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+    <rect x="54" y="14" width="20" height="6" rx="1" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/>
+    <path d="M58 24 L58 100 L70 100 L70 24" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M60 100 L60 110 L64 116 L68 110 L68 100" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><text x="64" y="20" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">25.00</text>
+    <path d="M60 34 L68 34 M60 44 L68 44 M60 54 L68 54 M60 64 L68 64 M60 74 L68 74 M60 84 L68 84 M60 94 L68 94" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M60 60 L68 60 L68 98 L60 98 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+</svg>

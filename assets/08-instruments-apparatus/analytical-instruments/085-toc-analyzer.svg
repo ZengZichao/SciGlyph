@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-toc-analyzer" data-cat="an" data-spec="128" data-tags="toc,total,organic,carbon,ndir,oxidation,water" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">总有机碳分析仪 / TOC Analyzer</title>
+  <desc id="d">总有机碳（TOC）分析仪：氧化反应器、NDIR检测器。</desc>
+  <g id="body">
+    <rect x="14" y="18" width="100" height="92" rx="5" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke" />
+    <rect x="14" y="18" width="100" height="3" rx="1.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
+  </g>
+  <g id="detail">
+<circle cx="34" cy="44" r="14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<rect x="26" y="32" width="4" height="8" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="32" y="30" width="4" height="8" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="38" y="32" width="4" height="8" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+    <text x="32.59" y="61.01" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sampler</text>
+<rect x="54" y="30" width="20" height="28" rx="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
+<rect x="56" y="32" width="16" height="24" rx="3" fill="#E02020" opacity="0.1" stroke="none" data-ls="danger" />
+<line x1="64" y1="34" x2="64" y2="54" fill="none" opacity="0.5" stroke="#2B7DE9" stroke-width="2" data-ls="accent" stroke-linecap="round" />
+    <text x="64" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Reactor</text>
+<rect x="82" y="34" width="18" height="20" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="91" y="47" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">NDIR</text>
+<path d="M48 44 L54 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+<path d="M74 44 L82 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
+    <polygon points="49,41 61,44 49,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <polygon points="76,41 88,44 76,47" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="18" y="70" width="48" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
+    <text x="42.0" y="69.4" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">TOC</text>
+    <text x="42" y="82" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">2.4 mg/L</text>
+    <circle cx="76" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <circle cx="86" cy="78" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
+    <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+    <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
+  </g>
+</svg>

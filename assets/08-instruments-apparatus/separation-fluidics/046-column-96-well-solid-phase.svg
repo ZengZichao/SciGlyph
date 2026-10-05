@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="sp-column-96-well-solid-phase" data-cat="sp" data-spec="128"
+     data-tags="spe,96-well,solid-phase,extraction,plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">96孔固相萃取板 / 96-Well Solid-Phase Extraction Plate</title>
+  <desc id="d">96孔固相萃取板，带筛板和填料</desc>
+  <g id="body"><rect x="20" y="30" width="88" height="78" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="24" y="34" width="80" height="70" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28 40 L100 40 M28 48 L100 48 M28 56 L100 56 M28 64 L100 64 M28 72 L100 72 M28 80 L100 80 M28 88 L100 88 M28 96 L100 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M36 38 L36 100 M44 38 L44 100 M52 38 L52 100 M60 38 L60 100 M68 38 L68 100 M76 38 L76 100 M84 38 L84 100 M92 38 L92 100" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M28 60 L100 60 L100 68 L28 68 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>
+</svg>

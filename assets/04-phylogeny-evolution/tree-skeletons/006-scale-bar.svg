@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="分支长度标尺" data-name-en="Branch-length scale bar" data-cat="04-phylo" data-tags="分支长度,标尺,比例尺,替换数,scale bar" aria-labelledby="t-06-scale-bar d-06-scale-bar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-06-scale-bar">分支长度标尺 / Branch-length scale bar</title>
+  <desc id="d-06-scale-bar">带两端刻度与细分刻度的水平标尺，量程 0–0.10 替换/位点（80 px 对应 0.05）；上方示例树分支按同一比例绘制（8–140 px，即 0.005–0.088 替换/位点）。关键词: 分支长度, 标尺, 比例尺, 替换数, scale bar</desc>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
+    <g fill="none" stroke="#5B4B8A" stroke-width="2">
+      <path d="M 20 20 H 28"/>
+      <path d="M 28 20 V 42"/>
+      <path d="M 28 20 H 100"/>
+      <path d="M 28 31 H 168"/>
+      <path d="M 28 42 H 140"/>
+    </g>
+    <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
+      <circle cx="100" cy="20" r="2.6"/>
+      <circle cx="168" cy="31" r="2.6"/>
+      <circle cx="140" cy="42" r="2.6"/>
+    </g>
+    <path d="M 28 50 H 108" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+    <path d="M 28 46 V 54 M 108 46 V 54" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+    <path d="M 28 50 L 34 47 L 34 53 Z M 108 50 L 102 47 L 102 53 Z" fill="#2B3A42"/>
+    <path d="M 24 70 H 184" fill="none" stroke="#2B3A42" stroke-width="2"/>
+    <path d="M 24 60 V 80 M 104 62 V 78 M 184 60 V 80" fill="none" stroke="#2B3A42" stroke-width="2"/>
+    <path d="M 44 64 V 76 M 64 64 V 76 M 84 64 V 76 M 124 64 V 76 M 144 64 V 76 M 164 64 V 76" fill="none" stroke="#2B3A42" stroke-width="1.2"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="24" y="94" text-anchor="middle" font-size="10" fill="#2B3A42">0</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="104" y="94" text-anchor="middle" font-size="10" fill="#2B3A42">0.05</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="184" y="94" text-anchor="middle" font-size="10" fill="#2B3A42">0.10</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="104" y="116" text-anchor="middle" font-size="11" fill="#2B3A42">substitutions / site</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="104" y="136" text-anchor="middle" font-size="7" fill="#7A8B93">branch length in maximum-likelihood tree</text>
+  </g>
+</svg>

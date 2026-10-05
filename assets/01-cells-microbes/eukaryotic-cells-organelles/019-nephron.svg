@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="肾单位" data-name-en="Nephron" data-cat="natural-sciences" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-53">肾单位 / nephron</title>
+  <desc id="d-53">展示肾单位结构。关键词: nephron,kidney,filtration</desc>
+  <g id="g-53-肾单位">
+    <circle cx="80" cy="80" r="30" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M110,80 C130,80 140,100 140,120 C140,160 120,180 100,200" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M100,200 C80,210 60,200 60,180 C60,160 80,140 100,140" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M100,140 C140,140 180,120 200,100 C220,80 240,80 260,100" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <path d="M260,100 L260,200" fill="none" stroke="#E69F00" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <circle cx="80" cy="80" r="12" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+  </g>
+</svg>

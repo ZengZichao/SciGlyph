@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="hc-liquid-nitrogen-dewar" data-cat="hc" data-spec="128"
+     data-tags="liquid-nitrogen,dewar,cryogenic,ln2,cold" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">杜瓦罐（液氮） / Liquid Nitrogen Dewar</title>
+  <desc id="d">杜瓦罐+颈+液位+蒸汽线</desc>
+  <g id="body"><path d="M36 30 L92 30 L92 108 Q92 116 84 116 L44 116 Q36 116 36 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M44 30 L44 16 L84 16 L84 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M48 16 L48 10 L80 10 L80 16" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 50 L90 50 L90 106 Q90 114 84 114 L44 114 Q38 114 38 106 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
+    <path d="M40 34 L88 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M48 8 L44 4 M56 8 L54 2 M64 8 L64 2 M72 8 L74 2 M80 8 L84 4" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M46 6 L44 2 M62 6 L62 2 M78 6 L80 2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+</svg>

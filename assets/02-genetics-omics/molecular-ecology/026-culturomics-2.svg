@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
+     class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-culturomics d-culturomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<title id="t-culturomics">培养组学 / Culturomics</title>
+<desc id="d-culturomics">Cultured vs uncultured with stacked bars, plate matrix, and pie chart. schematic. 关键词: microbial ecology, culturomics, uncultured, matrix, pie, VBNC, Plates</desc>
+<g id="l-culturomics" data-name="culturomics">
+<rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
+<text x="200.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Culturomics Overview</text>
+<circle cx="100.0" cy="130.0" r="60.0" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+<path d="M100,130 L100,70 A60,60 0 0,1 148.5,165.3 Z" fill="#2E86AB" data-pp="bacteria"/>
+<path d="M100,130 L148.5,165.3 A60,60 0 0,1 64.7,178.5 Z" fill="#00857A" data-pp="metabolism"/>
+<path d="M100,130 L64.7,178.5 A60,60 0 0,1 100,70 Z" fill="#93A0AC" data-pp="muted"/>
+<text x="131.2" y="114.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~35%</text>
+<text x="105.4" y="164.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~25%</text>
+<text x="66.7" y="118.9" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~40%</text>
+<rect x="20.0" y="200.0" width="8.0" height="8.0" fill="#2E86AB" data-pp="bacteria"/>
+<text x="32.0" y="208.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Cultured</text>
+<rect x="20.0" y="215.0" width="8.0" height="8.0" fill="#00857A" data-pp="metabolism"/>
+<text x="32.0" y="223.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">VBNC</text>
+<rect x="20.0" y="230.0" width="8.0" height="8.0" fill="#93A0AC" data-pp="muted"/>
+<text x="32.0" y="238.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Uncultured</text>
+<text x="280.0" y="55.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Culture Plates</text>
+<text x="175.0" y="80.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Aerobic</text>
+<circle cx="185.0" cy="73.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="207.0" cy="73.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="229.0" cy="73.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="251.0" cy="73.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="273.0" cy="73.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295.0" cy="73.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<text x="175.0" y="105.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Anaerobic</text>
+<circle cx="185.0" cy="98.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="207.0" cy="98.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="229.0" cy="98.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="251.0" cy="98.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="273.0" cy="98.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295.0" cy="98.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<text x="175.0" y="130.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Microaer.</text>
+<circle cx="185.0" cy="123.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="207.0" cy="123.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="229.0" cy="123.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="251.0" cy="123.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="273.0" cy="123.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295.0" cy="123.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<text x="175.0" y="155.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">High salt</text>
+<circle cx="185.0" cy="148.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="207.0" cy="148.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="229.0" cy="148.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="251.0" cy="148.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="273.0" cy="148.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295.0" cy="148.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<text x="175.0" y="180.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Low pH</text>
+<circle cx="185.0" cy="173.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="207.0" cy="173.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="229.0" cy="173.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="251.0" cy="173.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="273.0" cy="173.0" r="7.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5"/>
+<circle cx="295.0" cy="173.0" r="7.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.2" stroke="#1B2733" stroke-width="0.5"/>
+<text x="280.0" y="220.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Summary</text>
+<rect x="200.0" y="235.0" width="56.0" height="20.0" fill="#2E86AB" data-pp="bacteria"/>
+<rect x="256.0" y="235.0" width="40.0" height="20.0" fill="#00857A" data-pp="metabolism"/>
+<rect x="296.0" y="235.0" width="64.0" height="20.0" fill="#93A0AC" data-pp="muted"/>
+<rect x="200.0" y="235.0" width="160.0" height="20.0" fill="none" data-pp="ink" stroke="#1B2733" stroke-width="0.5"/>
+<text x="280.0" y="270.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~35% cult.  ~25% VBNC  ~40% uncult.</text>
+<text x="200.0" y="300.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Total isolates: ~1200</text>
+<text x="200.0" y="318.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Unique species: ~380</text>
+<rect x="60.0" y="340.0" width="40.0" height="40.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<text x="80.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Aero</text>
+<rect x="120.0" y="333.0" width="40.0" height="47.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<text x="140.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Anae</text>
+<rect x="180.0" y="322.0" width="40.0" height="58.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<text x="200.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Micr</text>
+<rect x="240.0" y="328.0" width="40.0" height="52.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<text x="260.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">High</text>
+<rect x="300.0" y="353.0" width="40.0" height="27.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
+<text x="320.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Low </text>
+</g>
+</svg>

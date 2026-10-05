@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>简单蒸馏装置</title>
+  <path d="M4 14a4 4 0 0 0 4 4h2a4 4 0 0 0 4-4v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4Z"/>
+  <path d="M14 11l3-2v-2"/>
+  <line x1="17" y1="9" x2="22" y2="6"/>
+  <line x1="17" y1="7" x2="22" y2="4"/>
+  <line x1="22" y1="5" x2="22" y2="9"/>
+  <path d="M22 9l-2 1v4h3v-4"/>
+  <line x1="8" y1="10" x2="8" y2="8" stroke-width="0.75"/>
+  <line x1="6" y1="14" x2="12" y2="14" stroke-width="0.75" stroke-dasharray="2 2"/>
+  <line x1="20" y1="12" x2="20" y2="14" stroke-width="0.75" stroke-dasharray="1 1"/>
+  <rect x="18.5" y="14" width="4" height="3" rx="0.5"/>
+  <line x1="8" y1="18" x2="10" y2="18" stroke-width="0.75"/>
+</svg>

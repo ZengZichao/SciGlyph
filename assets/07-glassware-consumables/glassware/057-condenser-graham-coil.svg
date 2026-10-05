@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128"
+     role="img" aria-labelledby="t d"
+     data-id="gl-condenser-graham-coil" data-cat="gl" data-spec="128"
+     data-tags="condenser,graham,coil,spiral,cooling,jacket,water" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t">螺旋冷凝管（卧式）/ Graham Coil Condenser</title>
+  <desc id="d">螺旋冷凝管(Graham)卧放，内管为螺旋形增大冷却面积，外层水夹套，冷却水下进上出，用于蒸馏回流。</desc>
+  <g id="body">
+    <rect x="26" y="53" width="76" height="22" rx="8" fill="#BFE0FF" stroke="none" data-ls="liquid"/>
+    <rect x="22" y="50" width="84" height="28" rx="12" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="6" y="58" width="116" height="12" rx="5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M10 64 Q14 58 18 64 Q22 70 26 64 Q30 58 34 64 Q38 70 42 64 Q46 58 50 64 Q54 70 58 64 Q62 58 66 64 Q70 70 74 64 Q78 58 82 64 Q86 70 90 64 Q94 58 98 64 Q102 70 106 64 Q110 58 114 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  </g>
+  <g id="detail">
+    <line x1="34" y1="78" x2="34" y2="87" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M30.5 86 L34 91 L37.5 86 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="94" y1="50" x2="94" y2="41" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M90.5 42 L94 37 L97.5 42 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
+     class="pp-icon pp-appendages" role="img" aria-labelledby="t-flagellum_lophotrichous d-flagellum_lophotrichous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-flagellum_lophotrichous">丛毛鞭毛 / Lophotrichous Flagella</title>
+  <desc id="d-flagellum_lophotrichous">Tuft of flagella at one or both poles. 关键词: lophotrichous, tuft</desc>
+  
+  <g id="layer-body-flagellum_lophotrichous" data-name="body">
+    <ellipse cx="40" cy="50" rx="15.0" ry="8.0" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M55.0,35.5 L56.2,35.1 L57.4,36.8 L58.6,39.7 L59.8,42.8 L61.0,44.7 L62.2,44.7 L63.4,42.8 L64.7,39.7 L65.9,36.7 L67.1,35.1 L68.3,35.5 L69.5,37.7 L70.7,40.8 L71.9,43.6 L73.1,45.0 L74.3,44.3 L75.5,41.8 L76.7,38.6 L77.9,36.0 L79.1,35.0 L80.3,36.0 L81.6,38.7 L82.8,41.9 L84.0,44.3 L85.2,45.0 L86.4,43.6 L87.6,40.8 L88.8,37.6 L90.0,35.5" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M55.0,41.6 L56.2,43.6 L57.4,46.2 L58.6,48.3 L59.8,49.0 L61.0,48.1 L62.2,46.0 L63.4,43.4 L64.7,41.5 L65.9,41.0 L67.1,42.2 L68.3,44.5 L69.5,47.0 L70.7,48.7 L71.9,48.9 L73.1,47.5 L74.3,45.1 L75.5,42.7 L76.7,41.2 L77.9,41.2 L79.1,42.9 L80.3,45.3 L81.6,47.7 L82.8,48.9 L84.0,48.6 L85.2,46.8 L86.4,44.2 L87.6,42.0 L88.8,41.0 L90.0,41.6" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M55.0,50.0 L56.2,51.8 L57.4,52.9 L58.6,52.8 L59.8,51.5 L61.0,49.7 L62.2,47.9 L63.4,47.0 L64.7,47.3 L65.9,48.7 L67.1,50.6 L68.3,52.3 L69.5,53.0 L70.7,52.5 L71.9,51.0 L73.1,49.0 L74.3,47.5 L75.5,47.0 L76.7,47.7 L77.9,49.4 L79.1,51.3 L80.3,52.7 L81.6,53.0 L82.8,52.1 L84.0,50.3 L85.2,48.5 L86.4,47.2 L87.6,47.1 L88.8,48.2 L90.0,50.0" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M55.0,58.4 L56.2,59.0 L57.4,58.0 L58.6,55.8 L59.8,53.2 L61.0,51.4 L62.2,51.1 L63.4,52.3 L64.7,54.7 L65.9,57.1 L67.1,58.8 L68.3,58.8 L69.5,57.3 L70.7,54.9 L71.9,52.5 L73.1,51.1 L74.3,51.3 L75.5,53.0 L76.7,55.5 L77.9,57.8 L79.1,59.0 L80.3,58.5 L81.6,56.6 L82.8,54.0 L84.0,51.9 L85.2,51.0 L86.4,51.7 L87.6,53.8 L88.8,56.4 L90.0,58.4" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M55.0,64.5 L56.2,62.4 L57.4,59.2 L58.6,56.4 L59.8,55.0 L61.0,55.7 L62.2,58.1 L63.4,61.3 L64.7,64.0 L65.9,65.0 L67.1,64.0 L68.3,61.4 L69.5,58.2 L70.7,55.7 L71.9,55.0 L73.1,56.4 L74.3,59.2 L75.5,62.3 L76.7,64.5 L77.9,64.9 L79.1,63.3 L80.3,60.3 L81.6,57.2 L82.8,55.3 L84.0,55.3 L85.2,57.2 L86.4,60.3 L87.6,63.2 L88.8,64.9 L90.0,64.5" fill="none" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    
+  </g>
+  <g id="layer-annotation" data-name="annotation">
+    <text x="65" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">tuft</text>
+  </g>
+</svg>

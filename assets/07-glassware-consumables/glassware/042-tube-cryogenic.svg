@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>冻存管</title>
+  <path d="M9 6 L9 17 L12 21 L15 17 L15 6"/>
+  <rect x="8" y="3" width="8" height="3" rx="0.5"/>
+  <line x1="8" y1="4" x2="16" y2="4" stroke-width="0.75"/>
+  <line x1="8" y1="5" x2="16" y2="5" stroke-width="0.75"/>
+  <path d="M9.5 17 L12 20 L14.5 17" stroke-width="0.75"/>
+  <line x1="10" y1="8" x2="12" y2="8" stroke-width="0.75"/>
+  <line x1="10" y1="10" x2="12" y2="10" stroke-width="0.75"/>
+  <line x1="10" y1="12" x2="12" y2="12" stroke-width="0.75"/>
+  <line x1="10" y1="14" x2="12" y2="14" stroke-width="0.75"/>
+</svg>

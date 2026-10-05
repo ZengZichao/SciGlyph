@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
+     role="img" aria-labelledby="t-multi_panel_layout d-multi_panel_layout" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-multi_panel_layout">比较基因组学多面板布局 / Comparative genomics multi-panel layout</title>
+  <desc id="d-multi_panel_layout">比较基因组学多面板布局骨架。schematic, not to scale. 关键词: multi-panel, layout, figure</desc>
+  
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="panel-frames">
+  <rect x="10" y="50" width="280" height="160" fill="#FFFFFF" stroke="#93A0AC" stroke-width="1" data-pp="white" rx="3"/>
+  <text x="25" y="68" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" text-anchor="start" data-pp="bacteria">A</text>
+  <rect x="310" y="50" width="280" height="160" fill="#FFFFFF" stroke="#93A0AC" stroke-width="1" data-pp="white" rx="3"/>
+  <text x="325" y="68" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" text-anchor="start" data-pp="bacteria">B</text>
+  <rect x="10" y="220" width="280" height="160" fill="#FFFFFF" stroke="#93A0AC" stroke-width="1" data-pp="white" rx="3"/>
+  <text x="25" y="238" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" text-anchor="start" data-pp="bacteria">C</text>
+  <rect x="310" y="220" width="280" height="160" fill="#FFFFFF" stroke="#93A0AC" stroke-width="1" data-pp="white" rx="3"/>
+  <text x="325" y="238" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" text-anchor="start" data-pp="bacteria">D</text>
+</g>
+<g data-name="panel-a-content">
+  <line x1="40" y1="130" x2="100" y2="90" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <line x1="40" y1="130" x2="100" y2="170" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <line x1="100" y1="90" x2="180" y2="75" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <line x1="100" y1="90" x2="180" y2="105" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <line x1="100" y1="170" x2="180" y2="155" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <line x1="100" y1="170" x2="180" y2="185" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+  <text x="150" y="130" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Tree</text>
+</g>
+<g data-name="panel-b-content">
+  <rect x="330" y="145" width="30" height="45" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="375" y="168" width="30" height="22" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="420" y="157" width="30" height="33" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="465" y="131" width="30" height="59" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="510" y="161" width="30" height="29" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="440" y="130" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Bar chart</text>
+</g>
+<g data-name="panel-c-content">
+  <rect x="25" y="240" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="63" y="240" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="101" y="240" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="139" y="240" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="177" y="240" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="215" y="240" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="25" y="268" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="63" y="268" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="101" y="268" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="139" y="268" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="177" y="268" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="215" y="268" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="25" y="296" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="63" y="296" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="101" y="296" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="139" y="296" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="177" y="296" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="215" y="296" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="25" y="324" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="63" y="324" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="101" y="324" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="139" y="324" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <rect x="177" y="324" width="35" height="25" fill="#2E86AB" data-pp="bacteria"/>
+  <rect x="215" y="324" width="35" height="25" fill="#93A0AC" data-pp="muted"/>
+  <text x="150" y="365" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Heatmap</text>
+</g>
+<g data-name="panel-d-content">
+  <circle cx="448" cy="313" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="546" cy="329" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="427" cy="263" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="541" cy="301" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="476" cy="320" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="557" cy="300" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="500" cy="261" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="349" cy="308" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="391" cy="298" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="463" cy="241" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="359" cy="282" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="533" cy="303" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="348" cy="282" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="497" cy="333" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <circle cx="331" cy="312" r="3" fill="#6C3FA0" data-pp="gene"/>
+  <text x="440" y="365" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Scatter</text>
+</g>
+<text x="300" y="30" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Comparative Genomics — Multi-panel Layout (schematic)</text>
+</svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="分组列" data-name-en="three-line-table-grouped-cols" data-cat="tables-frames" aria-labelledby="t-04 d-04" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-04">分组列 / three_line_table_grouped_cols</title>
-  <desc id="d-04">三线表分组列。关键词: 三线表,列分组,表头合并</desc>
+  <title id="t-04">分组列 / Three-Line-Table-Grouped-Cols</title>
+  <desc id="d-04">三线表分组列</desc>
   <g id="g-04-分组列">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="3" fill="none"/>
     <line x1="40" y1="80" x2="280" y2="80" stroke="#1f2937" stroke-width="1.5" fill="none"/>

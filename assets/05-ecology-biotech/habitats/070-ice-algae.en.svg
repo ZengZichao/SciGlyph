@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-ice_algae d-ice_algae" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-ice_algae">Snow algae</title>
-  <desc id="d-ice_algae">Snow surface with red Chlamydomonas nivalis algae bloom and flagellated cells 关键词: ice, algae, snow, Chlamydomonas</desc>
+  <desc id="d-ice_algae">Snow surface with red Chlamydomonas nivalis algae bloom and flagellated cells</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="45" width="90" height="35" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>

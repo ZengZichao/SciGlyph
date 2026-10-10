@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="子集包含" data-name-en="subset-diagram" data-cat="flowchart-logic" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">子集包含 / subset_diagram</title>
-  <desc id="d-24">子集包含关系。关键词: set,subset</desc>
+  <title id="t-24">子集包含 / Subset-Diagram</title>
+  <desc id="d-24">子集包含关系</desc>
   <g id="g-24-子集包含">
     <circle cx="80" cy="60" r="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="80" cy="60" r="25" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

@@ -30,7 +30,9 @@
   <circle cx="200" cy="130" r="4" fill="#E8871E" data-pp="mge"/>
   <circle cx="200" cy="270" r="4" fill="#E8871E" data-pp="mge"/>
   <rect x="460" y="75" width="10" height="10" fill="#C42D2D" data-pp="alert"/>
+  <text x="476" y="84" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Expansion</text>
   <rect x="460" y="305" width="10" height="10" fill="#5B8C3E" data-pp="virus"/>
+  <text x="476" y="314" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Contraction</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Family Expansion &amp; Contraction (schematic)</text>
 <text x="300" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">Bars show gene family size at each tip</text>

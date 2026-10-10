@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="基向量ij" data-name-en="Vector Basis Ij" data-cat="geometry-math" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">基向量ij / vector_basis_ij</title>
-  <desc id="d-32">坐标轴上的基向量i和j。关键词: vector,basis,ij</desc>
+  <title id="t-32">基向量ij / Vector Basis Ij</title>
+  <desc id="d-32">坐标轴上的基向量i和j</desc>
   <g id="g-32-基向量ij">
     <line fill="none" x1="20" y1="95" x2="110" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <polygon points="107,92 107,98 114,95" fill="#1f2937" stroke="none"/>

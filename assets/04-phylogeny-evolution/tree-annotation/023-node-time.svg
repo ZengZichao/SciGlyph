@@ -7,13 +7,13 @@
 <rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
 <line x1="40.0" y1="340.0" x2="360.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <line x1="60.0" y1="340.0" x2="60.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-<text x="60.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+<text x="60.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">300</text>
 <line x1="150.0" y1="340.0" x2="150.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-<text x="150.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
+<text x="150.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">200</text>
 <line x1="240.0" y1="340.0" x2="240.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-<text x="240.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">200</text>
+<text x="240.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
 <line x1="330.0" y1="340.0" x2="330.0" y2="346.0" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-<text x="330.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">300</text>
+<text x="330.0" y="358.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
 <text x="200.0" y="375.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Ma</text>
 <line x1="50.0" y1="180.0" x2="120.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <line x1="120.0" y1="180.0" x2="120.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>

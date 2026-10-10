@@ -4,51 +4,67 @@
   <title id="t-23">系统基因组学树 / Phylogenomics Tree</title>
   <desc id="d-23">骨架，配合GTDB-Tk/PhyloPhlAn使用。基于全基因组数据的系统基因组学树。 关键词: phylogenetic tree, phylogenomics tree, GTDB-Tk, PhyloPhlAn, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
-  <g id="pp23__clades" data-name="clade-shading">
-    <rect x="102.7" y="24.0" width="61.3" height="118.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="102.7" y="184.0" width="61.3" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
-  </g>
+  <g id="pp23__clades" data-name="clade-shading"/>
   <g id="pp23__branches" data-name="branches">
-    <line x1="80.0" y1="70.0" x2="80.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="83.3" x2="133.3" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="216.7" x2="106.7" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="190.0" x2="133.3" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="296.7" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="83.3" x2="160.0" y2="83.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="136.7" x2="160.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="270.0" x2="106.7" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="216.7" x2="133.3" y2="216.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="190.0" x2="160.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="243.3" x2="160.0" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="323.3" x2="133.3" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="296.7" x2="160.0" y2="296.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M60 101V268 M60 101H150 M150 59.3V142.8 M150 59.3H240 M240 38.4V80.2 M240 38.4H330 M330 28V48.9 M330 28H470 M330 48.9H400 M400 41.9V55.8 M400 41.9H470 M400 55.8H470 M240 80.2H330 M330 69.7V90.6 M330 69.7H470 M330 90.6H400 M400 83.7V97.6 M400 83.7H470 M400 97.6H470 M150 142.8H240 M240 121.9V163.7 M240 121.9H330 M330 111.5V132.3 M330 111.5H470 M330 132.3H400 M400 125.4V139.3 M400 125.4H470 M400 139.3H470 M240 163.7H330 M330 153.2V174.1 M330 153.2H470 M330 174.1H400 M400 167.1V181 M400 167.1H470 M400 181H470 M60 268H150 M150 226.3V309.7 M150 226.3H240 M240 205.4V247.1 M240 205.4H330 M330 195V215.8 M330 195H470 M330 215.8H400 M400 208.9V222.8 M400 208.9H470 M400 222.8H470 M240 247.1H330 M330 236.7V257.6 M330 236.7H470 M330 257.6H400 M400 250.6V264.5 M400 250.6H470 M400 264.5H470 M150 309.7H240 M240 288.9V330.6 M240 288.9H330 M330 278.4V299.3 M330 278.4H470 M330 299.3H400 M400 292.3V306.3 M400 292.3H470 M400 306.3H470 M240 330.6H330 M330 320.2V341 M330 320.2H470 M330 341H400 M400 334.1V348 M400 334.1H470 M400 348H470"
+          fill="none" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/>
   </g>
   <g id="pp23__nodes" data-name="nodes">
-    <circle cx="80.0" cy="170.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="110.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="270.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="216.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="323.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="60" cy="184.5" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="150" cy="101" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="150" cy="268" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="240" cy="59.3" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="240" cy="142.8" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="240" cy="226.3" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="240" cy="309.7" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="38.4" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="80.2" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="121.9" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="163.7" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="205.4" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="247.1" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="288.9" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="330" cy="330.6" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="48.9" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="90.6" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="132.3" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="174.1" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="215.8" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="257.6" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="299.3" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="400" cy="341" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp23__labels" data-name="tip-labels">
-    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpC</text>
-    <text x="165.0" y="86.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpA</text>
-    <text x="165.0" y="139.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpB</text>
-    <text x="165.0" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpD</text>
-    <text x="165.0" y="246.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpE</text>
-    <text x="165.0" y="299.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpF</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpG</text>
+    <text x="478" y="31" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp01</text>
+    <text x="478" y="44.9" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp02</text>
+    <text x="478" y="58.8" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp03</text>
+    <text x="478" y="72.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp04</text>
+    <text x="478" y="86.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp05</text>
+    <text x="478" y="100.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp06</text>
+    <text x="478" y="114.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp07</text>
+    <text x="478" y="128.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp08</text>
+    <text x="478" y="142.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp09</text>
+    <text x="478" y="156.2" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp10</text>
+    <text x="478" y="170.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp11</text>
+    <text x="478" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp12</text>
+    <text x="478" y="198" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp13</text>
+    <text x="478" y="211.9" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp14</text>
+    <text x="478" y="225.8" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp15</text>
+    <text x="478" y="239.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp16</text>
+    <text x="478" y="253.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp17</text>
+    <text x="478" y="267.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp18</text>
+    <text x="478" y="281.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp19</text>
+    <text x="478" y="295.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp20</text>
+    <text x="478" y="309.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp21</text>
+    <text x="478" y="323.2" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp22</text>
+    <text x="478" y="337.1" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp23</text>
+    <text x="478" y="351" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp24</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="60" y1="380" x2="150" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="60" y1="377" x2="60" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="150" y1="377" x2="150" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="105" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <text x="300" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">24 genomes, concatenated marker proteins</text>
   </g>
 </svg>

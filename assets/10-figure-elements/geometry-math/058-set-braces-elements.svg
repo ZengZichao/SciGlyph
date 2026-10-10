@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="集合花括号" data-name-en="Set Braces Elements" data-cat="geometry-math" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-58">集合花括号 / set_braces_elements</title>
-  <desc id="d-58">花括号包围集合元素。关键词: set,braces,elements</desc>
+  <title id="t-58">集合花括号 / Set Braces Elements</title>
+  <desc id="d-58">花括号包围集合元素</desc>
   <g id="g-58-集合花括号">
     <text x="14" y="30" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#1f2937" text-anchor="middle">{</text>
     <text x="48" y="29" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="middle" data-drole="series-1">a,b,c</text>

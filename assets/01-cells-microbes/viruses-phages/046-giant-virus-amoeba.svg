@@ -17,7 +17,7 @@
   </g>
   <g id="layer-annotation-giant_virus_amoeba" data-name="annotation">
     <text x="30" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">nucleus</text>
-    <line x1="58.0" y1="65.9" x2="51.76" y2="65.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="68.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">giant virus</text>
+    <line x1="58.0" y1="83.9" x2="51.76" y2="83.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="86.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">giant virus</text>
     <text x="78" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">bact</text>
   </g>
 </svg>

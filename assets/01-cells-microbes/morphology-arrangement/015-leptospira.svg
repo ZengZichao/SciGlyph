@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="钩端螺旋体" data-name-en="Leptospira" data-cat="01-morphology" data-tags="钩端螺旋体,leptospira,钩端,两端弯曲,细密螺旋,染色困难" role="img" aria-labelledby="t-15-leptospira d-15-leptospira" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-15-leptospira">钩端螺旋体 / Leptospira</title>
-  <desc id="d-15-leptospira">螺旋体两端末端均呈半圆形钩状，菌体细密螺旋，普通染色难以观察。关键词: 钩端螺旋体, leptospira, 钩端, 两端弯曲, 细密螺旋, 染色困难</desc>
+  <desc id="d-15-leptospira">螺旋体两端末端均呈半圆形钩状，菌体细密螺旋，普通染色难以观察</desc>
   <g stroke-linecap="round" stroke-linejoin="round" fill="none">
     <path d="M 26,46 A 12,12 0 1 0 38,58 C 40,52 42,52 44,58 C 46,64 48,64 50,58 C 52,52 54,52 56,58 C 58,64 60,64 62,58 C 64,52 66,52 68,58 C 70,64 72,64 74,58 C 76,52 78,52 80,58 A 12,12 0 1 1 94,74" stroke="#2E7D5B" stroke-width="7"/>
     <path d="M 26,46 A 12,12 0 1 0 38,58 C 40,52 42,52 44,58 C 46,64 48,64 50,58 C 52,52 54,52 56,58 C 58,64 60,64 62,58 C 64,52 66,52 68,58 C 70,64 72,64 74,58 C 76,52 78,52 80,58 A 12,12 0 1 1 94,74" stroke="#1F6F8B" stroke-width="4"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="芽孢整体" data-name-en="Endospore" data-cat="02-structures" data-tags="芽孢,内生孢子,休眠体,耐热,耐辐射,外壁,皮层,核心" role="img" aria-labelledby="t-25-endospore d-25-endospore" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-25-endospore">芽孢整体 / Endospore</title>
-  <desc id="d-25-endospore">芽孢是部分细菌在营养缺乏时于母细胞内形成的耐热休眠体，自外向内为外壁、芽孢衣、皮层与含钙-二吡啶甲酸的核心。关键词: 芽孢, 内生孢子, 休眠体, 耐热, 耐辐射, 外壁, 皮层, 核心</desc>
+  <desc id="d-25-endospore">芽孢是部分细菌在营养缺乏时于母细胞内形成的耐热休眠体，自外向内为外壁、芽孢衣、皮层与含钙-二吡啶甲酸的核心</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <ellipse cx="60" cy="64" rx="50" ry="34" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <ellipse cx="50" cy="64" rx="31" ry="21" fill="#5FA8C7" fill-opacity="0.4" stroke="#5FA8C7" stroke-width="1.4" stroke-dasharray="4 3"/>
@@ -11,11 +11,5 @@
 <circle cx="52" cy="62.5" r="1.8" fill="#B57A17"/>
 <circle cx="53.5" cy="65.5" r="1.8" fill="#B57A17"/>
 <path d="M84 56C80 48 90 44 97 48C104 52 102 62 95 64C89 66 88 76 80 74C74 72 76 64 84 56Z" fill="none" stroke="#5FA8C7" stroke-width="1.4" stroke-dasharray="3 2"/>
-<path d="M96 40L70 54" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
-<path d="M96 66L70 66" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
-<path d="M96 92L58 68" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
-<text x="114" y="44" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="end">①</text>
-<text x="114" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="end">②</text>
-<text x="114" y="96" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="end">③</text>
 </g>
 </svg>

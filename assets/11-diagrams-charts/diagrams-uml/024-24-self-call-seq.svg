@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="自调用回环" data-name-en="Self Call Seq" data-cat="diagrams-sw-uml" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">自调用回环 / self_call_seq</title>
-  <desc id="d-24">生命线到自身的回环消息。关键词: self-call,loop,sequence</desc>
+  <title id="t-24">自调用回环 / Self Call Seq</title>
+  <desc id="d-24">生命线到自身的回环消息</desc>
   <g id="g-24-自调用回环">
     <rect x="10" y="10" width="50" height="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="24" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>

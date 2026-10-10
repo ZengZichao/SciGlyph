@@ -14,9 +14,9 @@
 <text x="315" y="132" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">paired-end linking</text>
 <text x="30" y="175" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Scaffold:</text><rect x="60" y="180" width="120" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="120.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig1</text><rect x="180" y="180" width="40" height="20" rx="2" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" stroke-dasharray="3,2" />
-<text x="200.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gap (N×40)</text><rect x="220" y="180" width="80" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="200.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N×40</text><rect x="220" y="180" width="80" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="260.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig2</text><rect x="300" y="180" width="40" height="20" rx="2" fill="#93A0AC" data-pp="muted" fill-opacity="0.3" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" stroke-dasharray="3,2" />
-<text x="320.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gap (N×40)</text><rect x="340" y="180" width="100" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
+<text x="320.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N×40</text><rect x="340" y="180" width="100" height="20" rx="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="390.0" y="193" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">contig3</text>
 <rect x="60" y="240" width="480" height="100" rx="5" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" data-pp-stroke="muted" stroke-width="1" />
 <text x="80" y="265" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Assembly statistics:</text>
@@ -24,6 +24,5 @@
 <text x="80" y="305" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">scaffolds 42 | N50 98 kb</text>
 <text x="80" y="325" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Genome size estimate: ~4.8 Mb</text></g>  <g data-name="annotation">
     <line x1="60" y1="350" x2="540" y2="350" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <circle cx="540" cy="70" r="3" fill="#2E86AB" data-pp="bacteria"/>
   </g>
 </svg>

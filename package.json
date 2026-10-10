@@ -8,7 +8,10 @@
     "gallery": "python3 tools/reorg/build_gallery.py",
     "gallery:test": "node tools/reorg/gallery.test.mjs",
     "bilingual:check": "python3 tools/derive_en_variants.py --strict",
-    "docs": "python3 tools/reorg/docs_gen.py"
+    "docs": "python3 tools/reorg/docs_gen.py",
+    "renderable": "python3 tools/review/scan_structure.py",
+    "site": "python3 tools/build_site.py",
+    "site:test": "python3 tools/check_site.py"
   },
   "engines": {
     "node": ">=18"

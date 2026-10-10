@@ -16,9 +16,9 @@
     <line x1="84" y1="44" x2="94" y2="72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="94" y1="44" x2="104" y2="72" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="8" y1="58" x2="14" y2="58" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="12,58 18,54 18,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="14,58 8,54 8,62" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <rect x="114" y="48" width="8" height="20" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <polygon points="118,72 114,78 122,78" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="118,78 114,72 122,72" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="50" y1="40" x2="50" y2="30" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <rect x="44" y="22" width="12" height="8" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
   </g>

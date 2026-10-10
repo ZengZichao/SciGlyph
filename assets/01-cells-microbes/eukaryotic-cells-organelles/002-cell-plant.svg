@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="植物细胞" data-name-en="Plant Cell" data-cat="natural-sciences" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-10">植物细胞 / cell_plant</title>
-  <desc id="d-10">展示植物细胞（壁+液泡）。关键词: plant cell,cell wall,vacuole</desc>
+  <title id="t-10">植物细胞 / Plant cell</title>
+  <desc id="d-10">展示植物细胞（壁+液泡）</desc>
   <g id="g-10-植物细胞">
     <rect x="20" y="20" width="280" height="200" rx="8" fill="none" stroke="#009E73" stroke-width="3" data-drole="series-1"/>
     <rect x="26" y="26" width="268" height="188" rx="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

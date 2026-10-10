@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="数据存储" data-name-en="store-data" data-cat="flowchart-logic" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-12">数据存储 / store_data</title>
-  <desc id="d-12">数据存储符号。关键词: flowchart,storage,data</desc>
+  <title id="t-12">数据存储 / Store-Data</title>
+  <desc id="d-12">数据存储符号</desc>
   <g id="g-12-数据存储">
     <path d="M20,20 Q60,8 100,20 L100,60 Q60,72 20,60 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M20,20 Q60,32 100,20" fill="none" stroke="#1f2937" stroke-width="1.5"/>

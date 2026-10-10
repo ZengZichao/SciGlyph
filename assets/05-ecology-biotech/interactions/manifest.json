@@ -116,7 +116,7 @@
   {
    "file": "006-predation-bdellovibrio.svg",
    "name_zh": "蛭弧菌捕食",
-   "name_en": "Bdellovibrio Predation",
+   "name_en": "Bdellovibrio predation",
    "tags": [
     "bdellovibrio",
     "predation",
@@ -186,7 +186,7 @@
   },
   {
    "file": "009-t6ss.svg",
-   "name_zh": "VI型分泌",
+   "name_zh": "VI型分泌系统；name_en: T6SS -> Type VI secretion system (T6SS)",
    "name_en": "T6SS",
    "tags": [
     "t6ss",
@@ -323,7 +323,7 @@
   {
    "file": "015-nitrogen-fixation.svg",
    "name_zh": "固氮共生",
-   "name_en": "Nitrogen Fixation",
+   "name_en": "Nitrogen-fixing symbiosis",
    "tags": [
     "nitrogen",
     "fixation",

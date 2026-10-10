@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      class="pp-diagram pp-molecular-ecology" role="img" aria-labelledby="t-fish_facs d-fish_facs" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-fish_facs">FISH-FACS分选 / FISH-FACS sorting</title>
-  <desc id="d-fish_facs">Fluorescence in situ hybridization with cell sorting。 关键词: microbial ecology, fish facs, FISH-FACS, sorting, Fluorescence, situ, hybridization, cell, Sorted</desc>
+  <desc id="d-fish_facs">Sample 经 FISH 探针标记后由 FACS 分选（Sample → FISH → Sorted）" —— 图内现已出现 "FISH" 步骤标签，desc</desc>
 <defs>
   <marker id="pp01__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="6" markerHeight="6" orient="auto">
     <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
@@ -22,9 +22,9 @@
   <circle cx="420" cy="250" r="10" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
   <text x="425" y="320" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Sorted</text>
   <rect x="270" y="170" width="60" height="20" rx="3" fill="#6C3FA0" fill-opacity="0.3" stroke="#6C3FA0" stroke-width="1" data-pp="gene"/>
+  <text x="300" y="184" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">FISH</text>
   <circle cx="130" cy="140" r="6" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
   <circle cx="220" cy="150" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-  <line x1="175" y1="100" x2="175" y2="300" stroke="#93A0AC" stroke-width="0.5" stroke-dasharray="2,2" data-pp="muted"/>
   <rect x="370" y="270" width="80" height="20" rx="3" fill="#2E86AB" fill-opacity="0.15" stroke="#2E86AB" stroke-width="1" data-pp="bacteria"/>
 </g>
 </svg>

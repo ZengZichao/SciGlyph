@@ -180,7 +180,7 @@
    "category": "10-figure-elements",
    "subdir": "figure-layout",
    "canvas": "0 0 100 100",
-   "desc": "地理距离尺(µm/mm/cm/m)。骨架，配合空间分布图使用。关键词: distance, µm, mm, cm, m, scalebar",
+   "desc": "地理距离尺(m/km/100 km)。骨架，配合空间分布图使用。关键词: distance, m, km, scalebar",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

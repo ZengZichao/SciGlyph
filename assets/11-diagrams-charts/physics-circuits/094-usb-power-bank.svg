@@ -13,8 +13,8 @@
     <rect x="78" y="30" width="8" height="8" rx="1" fill="#5A6B7B" data-ls="thin"/>
     <rect x="44" y="52" width="16" height="8" rx="2" fill="#33414F" stroke="#1F2933" stroke-width="1" data-ls="dark" data-ls-stroke="stroke"/>
     <rect x="68" y="52" width="16" height="8" rx="2" fill="#33414F" stroke="#1F2933" stroke-width="1" data-ls="dark" data-ls-stroke="stroke"/>
-    <text x="52" y="58" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">USB</text>
-    <text x="76" y="58" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">USB-C</text>
+    <text x="52" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">USB</text>
+    <text x="76" y="70" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">USB-C</text>
     <circle cx="64" cy="80" r="4" fill="#2B7DE9" data-ls="accent"/></g>
   <g id="detail"></g>
 </svg>

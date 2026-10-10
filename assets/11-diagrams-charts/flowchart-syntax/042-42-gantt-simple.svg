@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" data-name-zh="简易甘特" data-name-en="gantt-simple" data-cat="flowchart-logic" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">简易甘特 / gantt_simple</title>
-  <desc id="d-42">四任务简易甘特图。关键词: gantt,schedule</desc>
+  <title id="t-42">简易甘特 / Gantt-Simple</title>
+  <desc id="d-42">四任务简易甘特图</desc>
   <g id="g-42-简易甘特">
     <line fill="none" x1="60" y1="30" x2="60" y2="210" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="60" y1="210" x2="380" y2="210" stroke="#1f2937" stroke-width="1.5"/>

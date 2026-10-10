@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="断路器" data-name-en="breaker" data-cat="physics-electronics" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">断路器 / breaker</title>
-  <desc id="d-15">电路断路器保护符号。关键词: 断路器,保护,开关</desc>
+  <title id="t-15">断路器 / Breaker</title>
+  <desc id="d-15">电路断路器保护符号</desc>
   <g id="g-15-断路器">
     <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <circle cx="40" cy="40" r="3" fill="#1f2937"/>
     <line x1="40" y1="40" x2="75" y2="25" stroke="#1f2937" stroke-width="2" fill="none"/>
     <circle cx="80" cy="40" r="3" fill="#1f2937"/>
     <line x1="80" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <text x="60" y="55" font-size="11" fill="#D55E00" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" data-drole="series-1">×</text>
+    <text x="60" y="44" font-size="11" fill="#D55E00" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" data-drole="series-1">×</text>
   </g>
 </svg>

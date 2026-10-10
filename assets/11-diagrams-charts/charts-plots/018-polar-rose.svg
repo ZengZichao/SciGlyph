@@ -1,14 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="玫瑰图" data-name-en="Polar Rose" data-cat="charts-plots" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">玫瑰图 / polar_rose</title>
-  <desc id="d-18">极坐标玫瑰图。关键词: polar,rose,petal</desc>
+  <title id="t-18">玫瑰图 / Polar Rose</title>
+  <desc id="d-18">极坐标玫瑰图：8 方位不等半径花瓣，同心环 25/50/75 与方位类别标签</desc>
   <g id="g-18-玫瑰图">
-    <path d="M120,120 Q132.0,81.8 120.0,43.5 Q108.0,81.8 120,120" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <path d="M120,120 Q155.5,101.4 174.1,65.9 Q138.6,84.5 120,120" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M120,120 Q158.2,132.0 196.5,120.0 Q158.2,108.0 120,120" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
-    <path d="M120,120 Q138.6,155.5 174.1,174.1 Q155.5,138.6 120,120" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
-    <path d="M120,120 Q108.0,158.2 120.0,196.5 Q132.0,158.2 120,120" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <path d="M120,120 Q84.5,138.6 65.9,174.1 Q101.4,155.5 120,120" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M120,120 Q81.8,108.0 43.5,120.0 Q81.8,132.0 120,120" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
-    <path d="M120,120 Q101.4,84.5 65.9,65.9 Q84.5,101.4 120,120" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <circle cx="120" cy="120" r="25" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <circle cx="120" cy="120" r="50" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <circle cx="120" cy="120" r="75" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="120.0" y2="38.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="178.0" y2="62.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="202.0" y2="120.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="178.0" y2="178.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="120.0" y2="202.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="62.0" y2="178.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="38.0" y2="120.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <line x1="120" y1="120" x2="62.0" y2="62.0" stroke="#e5e7eb" stroke-width="0.75"/>
+    <path d="M120,120 Q 126.3,100.0 120.0,80.0 Q 113.7,100.0 120,120" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <path d="M120,120 Q 146.9,105.9 161.0,79.0 Q 134.1,93.1 120,120" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M120,120 Q 158.0,131.9 196.0,120.0 Q 158.0,108.1 120,120" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <path d="M120,120 Q 130.9,140.9 151.8,151.8 Q 140.9,130.9 120,120" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <path d="M120,120 Q 110.3,151.0 120.0,182.0 Q 129.7,151.0 120,120" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <path d="M120,120 Q 95.9,132.6 83.2,156.8 Q 107.4,144.1 120,120" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M120,120 Q 85.0,109.0 50.0,120.0 Q 85.0,131.0 120,120" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <path d="M120,120 Q 112.0,104.7 96.7,96.7 Q 104.7,112.0 120,120" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
+    <text x="113" y="93" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" fill="#6b7280" text-anchor="end">25</text>
+    <text x="113" y="68" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" fill="#6b7280" text-anchor="end">50</text>
+    <text x="113" y="43" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" fill="#6b7280" text-anchor="end">75</text>
+    <text x="120" y="35" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">N</text>
+    <text x="182.2" y="60.8" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">NE</text>
+    <text x="208" y="123" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">E</text>
+    <text x="182.2" y="185.2" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">SE</text>
+    <text x="120" y="211" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">S</text>
+    <text x="57.8" y="185.2" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">SW</text>
+    <text x="32" y="123" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">W</text>
+    <text x="57.8" y="60.8" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">NW</text>
   </g>
 </svg>

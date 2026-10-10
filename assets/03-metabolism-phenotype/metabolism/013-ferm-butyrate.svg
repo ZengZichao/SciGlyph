@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-metabolism" role="img" aria-labelledby="t-13_ferm_butyrate d-13_ferm_butyrate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-13_ferm_butyrate">丁酸发酵 / 丁酸 Fermentation</title>
+  <title id="t-13_ferm_butyrate">丁酸发酵 / Butyrate Fermentation"</title>
   <desc id="d-13_ferm_butyrate">丁酸发酵。丁酸梭菌。乙酰-CoA→丁酰-CoA→丁酸。 产物: Butyrate + CO₂ + H₂。关键词: fermentation, substrate-level phosphorylation</desc>
   <defs>
     <marker id="pp13__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
@@ -13,7 +13,7 @@
         <polygon points="30.4,34.0 30.4,46.0 20.0,52.0 9.6,46.0 9.6,34.0 20.0,28.0" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="20" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Glc</text>
         <polygon points="85.4,34.0 85.4,46.0 75.0,52.0 64.6,46.0 64.6,34.0 75.0,28.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-    <text x="75" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Butyrate</text>
+    <text x="75" y="60" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Butyrate</text>
       <circle cx="48" cy="55" r="2.5" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.5"/>
     <circle cx="55" cy="52" r="2" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.5"/>
     <circle cx="45" cy="25" r="2" fill="#00857A" data-pp="metabolism"/>

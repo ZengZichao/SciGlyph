@@ -4,7 +4,7 @@
      data-id="lh-tip-waste-container" data-cat="lh" data-spec="128"
      data-tags="waste,container,tips,biohazard" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">枪头废物盒 / Tip Waste Container</title>
-  <desc id="d">枪头废物收集容器，带生物危害标识</desc>
+  <desc id="d">枪头废物收集容器，带警示标识</desc>
   <g id="body"><path d="M34 30 L94 30 L90 110 Q90 116 84 116 L44 116 Q38 116 38 110 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M34 24 L94 24 L94 30 L34 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
   <g id="detail"><path d="M58 56 L64 46 L70 56 L64 66 Z" fill="#E02020" stroke="none" data-ls="danger"/>

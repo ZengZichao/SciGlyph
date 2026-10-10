@@ -10,7 +10,7 @@
     <line x1="70" y1="35" x2="70" y2="45" stroke="#E8871E" stroke-width="2" stroke-linecap="round" data-pp="mge"/>
     <text x="30.0" y="30.0" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">EcoRI</text>
     <text x="52.0" y="30.0" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism">BamHI</text>
-    <line x1="70.0" y1="27.9" x2="78.0" y2="27.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="78.0" y="30.0" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge">HindIII</text>
+    <line x1="70.0" y1="23.0" x2="70.0" y2="34.0" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="70.0" y="20.0" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge">HindIII</text>
     <text x="10" y="55" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">0</text>
     <text x="82.14" y="55.0" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">5 kb</text>
       <line x1="30" y1="48" x2="30" y2="52" stroke="#93A0AC" data-pp="muted" stroke-width="0.5"/>

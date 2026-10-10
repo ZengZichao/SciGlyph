@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="动作框" data-name-en="Activity Action Box" data-cat="diagrams-sw-uml" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28">动作框 / activity_action_box</title>
-  <desc id="d-28">圆角矩形动作节点。关键词: action,activity,rounded</desc>
+  <title id="t-28">动作框 / Activity Action Box</title>
+  <desc id="d-28">圆角矩形动作节点</desc>
   <g id="g-28-动作框">
     <rect x="15" y="20" width="90" height="40" rx="15" ry="15" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Action</text>

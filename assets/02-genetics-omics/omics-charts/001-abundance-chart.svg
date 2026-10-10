@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="物种丰度堆叠图" data-name-en="Species Abundance Stack Plot" data-cat="05-eco-seq" data-tags="丰度,堆叠柱状图,物种组成,群落结构,相对丰度" role="img" aria-labelledby="t-27-abundance-chart d-27-abundance-chart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-27-abundance-chart">物种丰度堆叠图 / Species Abundance Stack Plot</title>
-  <desc id="d-27-abundance-chart">以堆叠柱状图比较不同样本中各物种的相对丰度，直观呈现群落结构差异与优势类群更替。关键词: 丰度, 堆叠柱状图, 物种组成, 群落结构, 相对丰度</desc>
+  <desc id="d-27-abundance-chart">以堆叠柱状图比较不同样本中各物种的相对丰度，直观呈现群落结构差异与优势类群更替</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 群落图例 -->
   <rect x="6" y="8" width="18" height="8" rx="4" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="1.4"/>

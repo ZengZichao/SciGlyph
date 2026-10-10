@@ -1,17 +1,27 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="差分对" data-name-en="transistor-pair-diff" data-cat="physics-electronics" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">差分对 / transistor_pair_diff</title>
-  <desc id="d-29">差分晶体管对符号。关键词: 差分对,晶体管对,模拟电路</desc>
+  <title id="t-29">差分对 / Transistor-Pair-Diff</title>
+  <desc id="d-29">差分对：两管独立基极输入、共发射极汇流条接尾电流源并接地，集电极为两个差分输出端</desc>
   <g id="g-29-差分对">
-    <line x1="10" y1="30" x2="35" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="20" x2="35" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="25" x2="55" y2="15" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="35" x2="55" y2="45" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="10" y1="50" x2="35" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="40" x2="35" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="45" x2="55" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="35" y1="55" x2="55" y2="65" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="55" y1="45" x2="55" y2="75" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <polygon points="44.18,43.5 47.3,37.24 52,43.5" fill="#1f2937" stroke="none"/>
-    <polygon points="44.18,63.5 47.3,57.24 52,63.5" fill="#1f2937" stroke="none"/>
+    <line x1="12" y1="28" x2="40" y2="28" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="20" x2="40" y2="36" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="22" x2="52" y2="14" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="52" y1="14" x2="52" y2="8" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="40" y1="34" x2="52" y2="42" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="52" y1="42" x2="52" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="49.36,40.25 44.09,40.34 47.43,35.34" fill="#1f2937" stroke="none"/>
+    <line x1="108" y1="28" x2="72" y2="28" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="72" y1="20" x2="72" y2="36" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="72" y1="22" x2="84" y2="14" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="84" y1="14" x2="84" y2="8" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="72" y1="34" x2="84" y2="42" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="84" y1="42" x2="84" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="81.36,40.25 76.09,40.34 79.43,35.34" fill="#1f2937" stroke="none"/>
+    <line x1="52" y1="50" x2="84" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="68" y1="50" x2="68" y2="54" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <circle cx="68" cy="60" r="6" fill="none" stroke="#1f2937" stroke-width="2"/>
+    <line x1="68" y1="66" x2="68" y2="70" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="62" y1="70" x2="74" y2="70" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="64.5" y1="73" x2="71.5" y2="73" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="67" y1="76" x2="69" y2="76" stroke="#1f2937" stroke-width="2" fill="none"/>
   </g>
 </svg>

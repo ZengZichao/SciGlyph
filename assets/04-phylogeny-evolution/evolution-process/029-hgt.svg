@@ -39,10 +39,10 @@
 <circle cx="180" cy="240" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
 <line x1="100" y1="290" x2="180" y2="310" stroke="#A2305B" data-pp="archaea" stroke-width="2" stroke-linecap="round"/>
 <circle cx="180" cy="310" r="6" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-<line x1="140" y1="200" x2="140" y2="240" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
+<line x1="140" y1="180" x2="140" y2="240" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
 <text x="148" y="222" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">HGT</text>
-<line x1="140" y1="240" x2="140" y2="290" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
-<text x="148" y="270" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">HGT</text>
+<line x1="160" y1="240" x2="160" y2="305" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round" stroke-dasharray="5,3"/>
+<text x="168" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">HGT</text>
 <text x="220" y="145" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="start" font-weight="bold">基因树</text>
 <line x1="240" y1="310" x2="240" y2="180" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" stroke-linecap="round"/>
 <line x1="240" y1="200" x2="320" y2="170" stroke="#6C3FA0" data-pp="gene" stroke-width="2" stroke-linecap="round"/>

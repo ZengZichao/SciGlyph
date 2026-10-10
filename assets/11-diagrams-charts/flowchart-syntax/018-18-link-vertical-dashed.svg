@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="虚线关联" data-name-en="link-vertical-dashed" data-cat="flowchart-logic" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">虚线关联 / link_vertical_dashed</title>
-  <desc id="d-18">虚线双向关联。关键词: flowchart,link,dashed</desc>
+  <title id="t-18">虚线关联 / Link-Vertical-Dashed</title>
+  <desc id="d-18">虚线双向关联</desc>
   <g id="g-18-虚线关联">
     <line fill="none" x1="60" y1="8" x2="60" y2="72" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
     <polygon points="55,68 60,76 65,68" fill="#6b7280"/>

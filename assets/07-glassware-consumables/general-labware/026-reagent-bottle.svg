@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="棕色试剂瓶" data-name-en="reagent_bottle" data-cat="lab-equipment" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-26">棕色试剂瓶 / reagent_bottle</title>
-  <desc id="d-26">避光储存光敏试剂。关键词: 试剂瓶,bottle,棕色,避光</desc>
+  <title id="t-26">棕色试剂瓶 / Reagent_Bottle</title>
+  <desc id="d-26">避光储存光敏试剂</desc>
   <g id="g-26-棕色试剂瓶">
     <path d="M 50 20 L 50 35 Q 30 42 28 60 L 28 100 Q 28 110 40 110 L 80 110 Q 92 110 92 100 L 92 60 Q 90 42 70 35 L 70 20 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round" data-drole="series-1"/>
     <rect x="48" y="14" width="24" height="8" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

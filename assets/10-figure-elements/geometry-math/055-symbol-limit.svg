@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="极限表达式" data-name-en="Symbol Limit" data-cat="geometry-math" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">极限表达式 / symbol_limit</title>
-  <desc id="d-55">lim与x→∞的极限式。关键词: limit,expression,math</desc>
+  <title id="t-55">极限表达式 / Symbol Limit</title>
+  <desc id="d-55">lim与x→∞的极限式</desc>
   <g id="g-55-极限表达式">
     <text x="48" y="22" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#0072B2" text-anchor="middle" data-drole="series-1">lim</text>
     <text x="48" y="40" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">x→∞</text>

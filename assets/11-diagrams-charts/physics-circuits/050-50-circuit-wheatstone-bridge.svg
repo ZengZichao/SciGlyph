@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="惠斯通电桥" data-name-en="circuit-wheatstone-bridge" data-cat="physics-electronics" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-50">惠斯通电桥 / circuit_wheatstone_bridge</title>
-  <desc id="d-50">四电阻惠斯通电桥电路。关键词: 电桥,惠斯通,测量</desc>
+  <title id="t-50">惠斯通电桥 / Circuit-Wheatstone-Bridge</title>
+  <desc id="d-50">四电阻惠斯通电桥电路</desc>
   <g id="g-50-惠斯通电桥">
     <line x1="160" y1="60" x2="140" y2="80" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="120" y1="100" x2="100" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>

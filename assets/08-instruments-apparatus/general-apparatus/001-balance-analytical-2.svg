@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="分析天平" data-name-en="balance_analytical" data-cat="lab-equipment" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-35">分析天平 / balance_analytical</title>
-  <desc id="d-35">精确称量至0.1mg。关键词: 天平,balance,称量,精确</desc>
+  <title id="t-35">分析天平 / Balance_Analytical</title>
+  <desc id="d-35">精确称量至0.1mg</desc>
   <g id="g-35-分析天平">
     <rect x="40" y="50" width="240" height="160" rx="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <rect x="60" y="60" width="200" height="120" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>

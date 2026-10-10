@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="反相放大" data-name-en="circuit-opamp-inverting" data-cat="physics-electronics" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">反相放大 / circuit_opamp_inverting</title>
-  <desc id="d-48">运放反相放大电路。关键词: 反相放大,运放,负反馈</desc>
+  <title id="t-48">反相放大 / Circuit-Opamp-Inverting</title>
+  <desc id="d-48">运放反相放大电路</desc>
   <g id="g-48-反相放大">
     <path d="M 140 80 L 140 160 L 220 120 Z" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="146" y1="100" x2="158" y2="100" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>乳胶一次性手套</title>
-  <path d="M5 21 L5 13 Q5 11 6 10 L6 7 Q6 6 7 6 L7.5 6 Q8 6 8 7 L8 10"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>乳胶一次性手套 / Gloves Latex</title>
+  <g transform="translate(3.25,0)">
+<path d="M5 21 L5 13 Q5 11 6 10 L6 7 Q6 6 7 6 L7.5 6 Q8 6 8 7 L8 10"/>
   <path d="M8 10 L8 5 Q8 4 8.5 4 L9 4 Q9.5 4 9.5 5 L9.5 10"/>
   <path d="M9.5 10 L9.5 4 Q9.5 3 10 3 L10.5 3 Q11 3 11 4 L11 10"/>
   <path d="M11 10 L11 5 Q11 4 11.5 4 L12 4 Q12.5 4 12.5 5 L12.5 10"/>
@@ -10,4 +11,5 @@
   <path d="M12.5 10 L12.5 6 Q12.5 5 13 5 Q13.5 5 13.5 6 L13.5 10"/>
   <line x1="6" y1="15" x2="12" y2="15"/>
   <line x1="6" y1="17" x2="12" y2="17"/>
+</g>
 </svg>

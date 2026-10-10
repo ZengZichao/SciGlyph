@@ -159,6 +159,8 @@
   <text x="445" y="147" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">85-95%</text>
   <rect x="420" y="160" width="15" height="15" fill="#93A0AC" data-pp="muted"/>
   <text x="445" y="172" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">&lt;85%</text>
+  <rect x="420" y="185" width="15" height="15" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="445" y="197" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Self (100%)</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ANI 95% Threshold Dot Matrix (schematic)</text>
 </svg>

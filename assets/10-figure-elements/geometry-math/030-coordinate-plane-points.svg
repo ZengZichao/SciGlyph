@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="坐标系三点" data-name-en="Coordinate Plane Points" data-cat="geometry-math" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-30">坐标系三点 / coordinate_plane_points</title>
-  <desc id="d-30">直角坐标系中标注三点。关键词: coordinate,points,geometry</desc>
+  <title id="t-30">坐标系三点 / Coordinate Plane Points</title>
+  <desc id="d-30">直角坐标系中标注三点</desc>
   <g id="g-30-坐标系三点">
     <line fill="none" x1="15" y1="90" x2="110" y2="90" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="25" y1="105" x2="25" y2="12" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="两行表头" data-name-en="three-line-table-two-row-header" data-cat="tables-frames" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-02">两行表头 / three_line_table_two_row_header</title>
-  <desc id="d-02">双行表头三线表。关键词: 三线表,表头,多层表头</desc>
+  <title id="t-02">两行表头 / Three-Line-Table-Two-Row-Header</title>
+  <desc id="d-02">双行表头三线表</desc>
   <g id="g-02-两行表头">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="3" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="0.75" fill="none"/>

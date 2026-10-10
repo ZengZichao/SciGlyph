@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="双泳道框架" data-name-en="swimlane-2" data-cat="flowchart-logic" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">双泳道框架 / swimlane_2</title>
-  <desc id="d-37">双泳道流程图。关键词: swimlane,two</desc>
+  <title id="t-37">双泳道框架 / Swimlane-2</title>
+  <desc id="d-37">双泳道流程图</desc>
   <g id="g-37-双泳道框架">
     <rect x="10" y="10" width="300" height="100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="10" y="110" width="300" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

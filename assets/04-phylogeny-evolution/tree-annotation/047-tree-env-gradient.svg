@@ -2,24 +2,73 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
      role="img" aria-labelledby="t-47 d-47" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-47">树+环境梯度 / Tree+Environment Gradient</title>
-  <desc id="d-47">装饰零件，贴到树上用。树+环境梯度轴。 关键词: tree decoration, environment gradient, tree + environment axis, continuous covariate</desc>
+  <desc id="d-47">装饰零件，贴到树上用。6 末端矩形树 + 每末端环境梯度值条，共享 0–100 数值轴与 low→high 色标。</desc>
   <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
-  <g data-name="tree_env_gradient">
-    <rect x="100" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.20" data-pp="metabolism"/>
-    <rect x="120" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.28" data-pp="metabolism"/>
-    <rect x="140" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.36" data-pp="metabolism"/>
-    <rect x="160" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.44" data-pp="metabolism"/>
-    <rect x="180" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.52" data-pp="metabolism"/>
-    <rect x="200" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.60" data-pp="metabolism"/>
-    <rect x="220" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.68" data-pp="metabolism"/>
-    <rect x="240" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.76" data-pp="metabolism"/>
-    <rect x="260" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.84" data-pp="metabolism"/>
-    <rect x="280" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.92" data-pp="metabolism"/>
+  <g data-name="tree">
+    <line x1="36" y1="170" x2="60" y2="170" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="110" x2="60" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="110" x2="95" y2="110" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="230" x2="95" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="70" x2="95" y2="150" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="70" x2="150" y2="70" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="150" x2="125" y2="150" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="110" x2="125" y2="150" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="110" x2="150" y2="110" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="150" x2="150" y2="150" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="190" x2="95" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="190" x2="150" y2="190" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="95" y1="250" x2="125" y2="250" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="230" x2="125" y2="270" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="230" x2="150" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="125" y1="270" x2="150" y2="270" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="150" cy="70" r="3.5" fill="#00857A" fill-opacity="0.82" data-pp="metabolism"/>
+    <circle cx="150" cy="110" r="3.5" fill="#00857A" fill-opacity="0.70" data-pp="metabolism"/>
+    <circle cx="150" cy="150" r="3.5" fill="#00857A" fill-opacity="0.59" data-pp="metabolism"/>
+    <circle cx="150" cy="190" r="3.5" fill="#00857A" fill-opacity="0.48" data-pp="metabolism"/>
+    <circle cx="150" cy="230" r="3.5" fill="#00857A" fill-opacity="0.38" data-pp="metabolism"/>
+    <circle cx="150" cy="270" r="3.5" fill="#00857A" fill-opacity="0.28" data-pp="metabolism"/>
+  </g>
+  <g data-name="env-gradient">
+    <line x1="156" y1="70" x2="172" y2="70" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="156" y1="110" x2="172" y2="110" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="156" y1="150" x2="172" y2="150" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="156" y1="190" x2="172" y2="190" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="156" y1="230" x2="172" y2="230" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="156" y1="270" x2="172" y2="270" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="176" y1="60" x2="176" y2="296" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <rect x="176" y="66" width="140.8" height="8" fill="#00857A" fill-opacity="0.82" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="176" y="106" width="115.2" height="8" fill="#00857A" fill-opacity="0.70" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="176" y="146" width="88" height="8" fill="#00857A" fill-opacity="0.59" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="176" y="186" width="64" height="8" fill="#00857A" fill-opacity="0.48" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="176" y="226" width="41.6" height="8" fill="#00857A" fill-opacity="0.38" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="176" y="266" width="19.2" height="8" fill="#00857A" fill-opacity="0.28" stroke="#00857A" stroke-width="0.5" data-pp="metabolism"/>
   </g>
   <g data-name="annotation">
-    <line x1="100" y1="230" x2="300" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100" y1="170" x2="100" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
-    <line x1="100" y1="240" x2="300" y2="240" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <rect x="100" y="260" width="100" height="8" fill="#00857A" fill-opacity="0.2" stroke="none" data-pp="metabolism"/>
+    <text x="200" y="28" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold" text-anchor="middle">Tree + Environment Gradient</text>
+    <line x1="176" y1="300" x2="336" y2="300" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/>
+    <line x1="176" y1="300" x2="176" y2="305" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="216" y1="300" x2="216" y2="305" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="256" y1="300" x2="256" y2="305" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="296" y1="300" x2="296" y2="305" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="336" y1="300" x2="336" y2="305" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="176" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+    <text x="216" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">25</text>
+    <text x="256" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">50</text>
+    <text x="296" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">75</text>
+    <text x="336" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
+    <text x="256" y="331" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Environmental gradient value</text>
+    <rect x="176" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.24" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="192" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.32" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="208" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.40" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="224" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.48" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="240" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.56" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="256" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.64" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="272" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.72" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="288" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.80" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="304" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.88" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <rect x="320" y="342" width="16" height="9" fill="#00857A" fill-opacity="0.96" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
+    <text x="170" y="350" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">low</text>
+    <text x="342" y="350" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">high</text>
+    <text x="200" y="378" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Bar length and color depth = one continuous covariate</text>
   </g>
 </svg>

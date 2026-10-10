@@ -10,7 +10,7 @@
     <path d="M36,66 L92,66 L92,94 Q92,108 64,108 Q36,108 36,94 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>
     <line x1="36" y1="66" x2="92" y2="66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <line x1="18" y1="40" x2="34" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="26,40 32,36 32,44" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="32,40 26,36 26,44" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="94" y1="80" x2="110" y2="80" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <polygon points="104,80 98,76 98,84" fill="#2B7DE9" stroke="none" data-ls="accent"/>
   </g>

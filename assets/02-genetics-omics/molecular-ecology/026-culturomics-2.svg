@@ -64,14 +64,14 @@
 <text x="200.0" y="300.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Total isolates: ~1200</text>
 <text x="200.0" y="318.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Unique species: ~380</text>
 <rect x="60.0" y="340.0" width="40.0" height="40.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
-<text x="80.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Aero</text>
+<text x="80.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Aerobic</text>
 <rect x="120.0" y="333.0" width="40.0" height="47.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
-<text x="140.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Anae</text>
+<text x="140.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Anaerobic</text>
 <rect x="180.0" y="322.0" width="40.0" height="58.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
-<text x="200.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Micr</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Microaer.</text>
 <rect x="240.0" y="328.0" width="40.0" height="52.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
-<text x="260.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">High</text>
+<text x="260.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">High salt</text>
 <rect x="300.0" y="353.0" width="40.0" height="27.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5"/>
-<text x="320.0" y="395.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Low </text>
+<text x="320.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Low pH</text>
 </g>
 </svg>

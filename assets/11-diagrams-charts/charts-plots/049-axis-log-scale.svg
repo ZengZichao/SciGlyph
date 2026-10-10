@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="对数刻度轴" data-name-en="Axis Log Scale" data-cat="charts-plots" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">对数刻度轴 / axis_log_scale</title>
-  <desc id="d-49">对数刻度坐标轴，主刻度 1/10/100/1000，2–9 次刻度按 log10 间距定位。关键词: axis,log,scale</desc>
+  <title id="t-49">对数刻度轴 / Axis Log Scale</title>
+  <desc id="d-49">对数刻度坐标轴</desc>
   <g id="g-49-对数刻度轴">
     <line x1="30" y1="15" x2="30" y2="115" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="30" y1="115" x2="215" y2="115" stroke="#1f2937" stroke-width="1.5"/>

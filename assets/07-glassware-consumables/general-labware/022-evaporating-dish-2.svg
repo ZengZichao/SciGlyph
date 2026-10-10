@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="蒸发皿" data-name-en="evaporating_dish" data-cat="lab-equipment" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-22">蒸发皿 / evaporating_dish</title>
-  <desc id="d-22">蒸发浓缩溶液。关键词: 蒸发皿,dish,蒸发,浓缩</desc>
+  <title id="t-22">蒸发皿 / Evaporating_Dish</title>
+  <desc id="d-22">蒸发浓缩溶液</desc>
   <g id="g-22-蒸发皿">
     <path d="M 10 25 Q 10 60 60 65 Q 110 60 110 25 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 20 30 Q 20 55 60 58 Q 100 55 100 30 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

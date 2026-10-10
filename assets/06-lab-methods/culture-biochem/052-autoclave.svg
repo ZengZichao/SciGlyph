@@ -9,7 +9,7 @@
     <rect x="23" y="23" width="54" height="8" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1.5" data-pp="muted"/>
     <circle cx="65" cy="35" r="5" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>
     <line x1="65" y1="35" x2="68" y2="33" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
-    <text x="65" y="42" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">15psi</text>
+    <text x="65" y="48" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">15psi</text>
     <path d="M35,20 Q37,15 40,20 Q42,25 45,20" fill="#F4F1EA" stroke="#F4F1EA" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
     <path d="M50,18 Q52,13 55,18 Q57,23 60,18" fill="#F4F1EA" stroke="#F4F1EA" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
     <rect x="30" y="55" width="15" height="8" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert"/>

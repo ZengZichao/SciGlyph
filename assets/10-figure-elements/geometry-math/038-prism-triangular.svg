@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="三棱柱" data-name-en="Triangular Prism" data-cat="geometry-math" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-38">三棱柱 / prism_triangular</title>
-  <desc id="d-38">底面为三角形的棱柱。关键词: prism,triangular,solid</desc>
+  <title id="t-38">三棱柱 / Triangular Prism</title>
+  <desc id="d-38">底面为三角形的棱柱</desc>
   <g id="g-38-三棱柱">
     <polygon points="20,95 70,95 45,50" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <polygon points="40,80 90,80 65,35" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

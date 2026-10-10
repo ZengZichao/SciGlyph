@@ -7,15 +7,15 @@
     <path d="M5,30 Q20,25 35,30 Q50,35 65,30 Q80,25 95,30" fill="none" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" />
     
     <rect x="40" y="26" width="12" height="8" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" />
-    <rect x="52" y="26" width="6" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+    <rect x="52" y="26" width="14" height="8" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
     <text x="46" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">φ</text>
-    <text x="55" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gal</text>
+    <text x="59" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gal</text>
     
     <path d="M50,38 L50,50" fill="none" stroke="#1B2733" stroke-width="1" />
     <polygon points="48,48 50,52 52,48" fill="#1B2733" data-pp="ink" />
     
     <polygon points="50,55 58,60 58,70 50,75 42,70 42,60" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round" />
-    <rect x="44" y="62" width="8" height="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="42" y="62" width="12" height="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" />
     <text x="48" y="66" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gal</text>
   </g>
   <g id="layer-annotation-specialized_transduction" data-name="annotation">

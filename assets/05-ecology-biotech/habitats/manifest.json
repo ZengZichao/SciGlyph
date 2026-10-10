@@ -1304,7 +1304,7 @@
   {
    "file": "056-high-osmotic.svg",
    "name_zh": "高渗",
-   "name_en": "High osmotic",
+   "name_en": "High osmolarity",
    "tags": [
     "osmotic",
     "plasmolysis",
@@ -1508,7 +1508,7 @@
   {
    "file": "065-bioleach.svg",
    "name_zh": "生物浸出",
-   "name_en": "Bioleaching heap",
+   "name_en": "Bioleaching",
    "tags": [
     "bioleach",
     "heap",
@@ -1544,7 +1544,7 @@
    "category": "05-ecology-biotech",
    "subdir": "habitats",
    "canvas": "0 0 100 100",
-   "desc": "Fermented food (sauerkraut/cheese/sausage) with LAB 关键词: food, ferment",
+   "desc": "同上（.en 变体同步）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)",
@@ -1678,7 +1678,7 @@
    "category": "05-ecology-biotech",
    "subdir": "habitats",
    "canvas": "0 0 100 100",
-   "desc": "Fermented food product with starter culture microbes 关键词: fermented, food",
+   "desc": "Cheese wheel and cut wedge with holes and LAB cocci/rods 关键词: fermented, food, cheese, LAB",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)",

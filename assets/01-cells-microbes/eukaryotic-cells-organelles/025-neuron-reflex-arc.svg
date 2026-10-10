@@ -1,17 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="反射弧" data-name-en="Neuron Reflex Arc" data-cat="natural-sciences" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-59">反射弧 / neuron_reflex_arc</title>
-  <desc id="d-59">展示反射弧路径。关键词: reflex arc,sensory,motor</desc>
+  <title id="t-59">反射弧 / Reflex arc</title>
+  <desc id="d-59">展示反射弧五要素：感受器—传入神经（背根神经节）—神经中枢（脊髓）—传出神经—效应器</desc>
   <g id="g-59-反射弧">
-    <rect x="30" y="140" width="60" height="80" rx="8" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <path d="M90,180 L160,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
-    <polygon points="155,175 165,180 155,185" fill="#0072B2" data-drole="series-1"/>
-    <circle cx="200" cy="180" r="30" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M230,180 L300,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
-    <polygon points="295,175 305,180 295,185" fill="#0072B2" data-drole="series-1"/>
-    <rect x="300" y="140" width="60" height="80" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
-    <path d="M360,180 L420,180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
-    <polygon points="415,175 425,180 415,185" fill="#0072B2" data-drole="series-1"/>
-    <rect x="420" y="150" width="40" height="60" rx="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
-    <path d="M60,140 L60,100 L200,100 L200,150" fill="none" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3"/>
+    <ellipse cx="240" cy="180" rx="88" ry="112" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <path d="M240 148C232 132 218 120 206 124C194 128 196 144 202 156C208 168 214 172 214 180C214 188 206 194 202 206C197 220 202 234 214 236C226 238 236 226 240 212C244 226 254 238 266 236C278 234 283 220 278 206C274 194 266 188 266 180C266 172 272 168 278 156C284 144 286 128 274 124C262 120 248 132 240 148Z" fill="#6b7280" fill-opacity="0.35" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="240" cy="180" r="5" fill="#e5e7eb" stroke="#1f2937" stroke-width="1"/>
+    <rect x="18" y="140" width="66" height="80" rx="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <path d="M18 164L84 164" fill="none" stroke="#6b7280" stroke-width="1.2"/>
+    <path d="M18 188L84 188" fill="none" stroke="#6b7280" stroke-width="1.2"/>
+    <ellipse cx="60" cy="202" rx="14" ry="10" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-2"/>
+    <ellipse cx="60" cy="202" rx="7" ry="4.5" fill="none" stroke="#1f2937" stroke-width="1"/>
+    <path d="M74 200C92 194 106 162 121 133" fill="none" stroke="#E69F00" stroke-width="2.5" data-drole="series-2"/>
+    <path d="M143 112C166 94 194 112 208 140" fill="none" stroke="#E69F00" stroke-width="2.5" data-drole="series-2"/>
+    <path d="M208 140L222 161" fill="none" stroke="#E69F00" stroke-width="2" data-drole="series-2"/>
+    <polygon points="102.8,168.3 103.1,175.5 96.3,171.3" fill="#E69F00" data-drole="series-2"/>
+    <circle cx="132" cy="120" r="13" fill="#E69F00" stroke="#1f2937" stroke-width="2" data-drole="series-2"/>
+    <circle cx="228" cy="168" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M236 172C244 180 249 189 251 197" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
+    <circle cx="256" cy="206" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <path d="M266 210C292 224 318 236 344 238C366 240 382 236 394 228" fill="none" stroke="#0072B2" stroke-width="2.5" data-drole="series-1"/>
+    <polygon points="360,238.6 351,233 351.6,243" fill="#0072B2" data-drole="series-1"/>
+    <path d="M394 232C402 202 424 190 444 198C462 206 466 232 456 250C446 268 418 268 404 254C397 247 392 240 394 232Z" fill="#D55E00" stroke="#1f2937" stroke-width="2" data-drole="series-4"/>
+    <path d="M404 226C414 220 428 218 440 222" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+    <path d="M402 240C414 236 430 236 444 240" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+    <path d="M406 254C416 252 430 252 442 256" fill="none" stroke="#ffffff" stroke-width="1.2"/>
+    <line x1="236" y1="114" x2="230" y2="158" stroke="#6b7280" stroke-width="1"/>
+    <line x1="252" y1="254" x2="256" y2="218" stroke="#6b7280" stroke-width="1"/>
+    <text x="240" y="52" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Integration center (spinal cord)</text>
+    <text x="112" y="104" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="end">Sensory neuron</text>
+    <text x="132" y="92" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Ganglion</text>
+    <text x="240" y="110" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Interneuron</text>
+    <text x="240" y="262" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Motor neuron</text>
+    <text x="51" y="240" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Receptor</text>
+    <text x="416" y="286" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" fill="#1f2937" text-anchor="middle">Effector (muscle)</text>
   </g>
 </svg>

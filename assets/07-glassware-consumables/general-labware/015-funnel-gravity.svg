@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="普通漏斗" data-name-en="funnel_gravity" data-cat="lab-equipment" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">普通漏斗 / funnel_gravity</title>
-  <desc id="d-15">过滤和转移液体。关键词: 漏斗,funnel,过滤,转移</desc>
+  <title id="t-15">普通漏斗 / Funnel_Gravity</title>
+  <desc id="d-15">过滤和转移液体</desc>
   <g id="g-15-普通漏斗">
     <path d="M 15 20 L 55 70 L 55 110 L 65 110 L 65 70 L 105 20 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 30 35 L 55 65 L 55 70 L 65 70 L 65 65 L 90 35 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

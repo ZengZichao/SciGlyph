@@ -5,7 +5,7 @@
      data-tags="pear,flask,round,rotavap,evaporation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">梨形瓶 / Pear Flask</title>
   <desc id="d">梨形瓶，圆底渐窄至瓶口，用于旋转蒸发。</desc>
-  <g id="body"><path d="M56 10 L56 34 Q28 46 28 76 Q28 112 64 112 Q100 112 100 76 Q100 46 72 34 L72 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M32 78 Q32 108 64 108 Q96 108 96 78 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M32 78 L96 78" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 10 L72 10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <g id="body"><path d="M56 10 L56 32 Q26 40 30 62 L44 94 Q46 112 64 112 Q82 112 84 94 L98 62 Q102 40 72 32 L72 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M38 80 L44 94 Q46 112 64 112 Q82 112 84 94 L90 80 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M38 80 L90 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 10 L72 10" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
   
 </svg>

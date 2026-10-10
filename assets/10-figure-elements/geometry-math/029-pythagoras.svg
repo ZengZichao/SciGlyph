@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="勾股定理" data-name-en="Pythagoras" data-cat="geometry-math" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">勾股定理 / pythagoras</title>
-  <desc id="d-29">三方形直观展示勾股定理。关键词: pythagoras,a²+b²=c²,geometry</desc>
+  <title id="t-29">勾股定理 / Pythagoras</title>
+  <desc id="d-29">三方形直观展示勾股定理</desc>
   <g id="g-29-勾股定理">
     <rect x="10" y="45" width="30" height="30" fill="#e5e7eb" stroke="#009E73" stroke-width="0.75" data-drole="series-1"/>
     <rect x="40" y="75" width="40" height="40" fill="#e5e7eb" stroke="#0072B2" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>

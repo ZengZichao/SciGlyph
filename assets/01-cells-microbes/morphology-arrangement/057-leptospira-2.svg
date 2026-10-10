@@ -18,7 +18,7 @@
 
     <line x1="85" y1="42" x2="88" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
     <line x1="74.0" y1="19.9" x2="64.78" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="64.78" y="22.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">right AF</text>
-    <text x="35" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">hook ends</text>
+    <text x="35" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">hook ends</text>
 
   </g>
 </svg>

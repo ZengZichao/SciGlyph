@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-nectar d-nectar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-nectar">Floral nectar</title>
-  <desc id="d-nectar">Floral nectar with osmotolerant yeasts and bacteria 关键词: nectar, yeast, osmotolerant</desc>
+  <desc id="d-nectar">Floral nectar with osmotolerant yeasts and bacteria</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M20,20 Q50,5 80,20 Q85,40 75,55 Q50,65 25,55 Q15,40 20,20 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="alert" fill-opacity="0.2"/>

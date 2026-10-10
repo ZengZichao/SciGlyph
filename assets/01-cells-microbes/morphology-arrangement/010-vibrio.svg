@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="弧菌" data-name-en="Vibrio" data-cat="01-morphology" data-tags="弧菌,vibrio,弯曲杆菌,单弯,逗号形" role="img" aria-labelledby="t-10-vibrio d-10-vibrio" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-10-vibrio">弧菌 / Vibrio</title>
-  <desc id="d-10-vibrio">菌体单侧弯曲成短弧形的杆菌，需氧或兼性厌氧，极性单鞭毛。关键词: 弧菌, vibrio, 弯曲杆菌, 单弯, 逗号形</desc>
+  <desc id="d-10-vibrio">菌体单侧弯曲成短弧形的杆菌，需氧或兼性厌氧，极性单鞭毛</desc>
   <g stroke-linecap="round" stroke-linejoin="round" fill="none">
     <path d="M 32,32 C 62,26 94,40 94,62 C 94,80 80,90 66,88" stroke="#2E7D5B" stroke-width="17"/>
     <path d="M 32,32 C 62,26 94,40 94,62 C 94,80 80,90 66,88" stroke="#DCEEE4" stroke-width="13"/>

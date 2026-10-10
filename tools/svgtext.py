@@ -8,6 +8,7 @@ from __future__ import annotations
 import math
 import re
 import xml.etree.ElementTree as ET
+ET.register_namespace("", "http://www.w3.org/2000/svg")
 
 VIEWBOX = re.compile(r"^\s*(-?[\d.]+)\s+(-?[\d.]+)\s+([\d.]+)\s+([\d.]+)\s*$")
 DOCTYPE_RE = re.compile(r"<!DOCTYPE|<!ENTITY", re.I)

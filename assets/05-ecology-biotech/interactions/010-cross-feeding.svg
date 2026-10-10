@@ -10,7 +10,7 @@
     <line x1="42" y1="42" x2="58" y2="42" stroke="#00857A" stroke-width="1.5" stroke-linecap="round" data-pp="metabolism"/>
     <path d="M56,40 L60,42 L56,44" fill="#00857A" stroke="#00857A" stroke-width="1" stroke-linecap="round" data-pp="metabolism"/>
     <circle cx="50" cy="42" r="2" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
-    <text x="50" y="38" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism">metabolite</text>
+    <text x="50" y="32" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism">metabolite</text>
   <circle cx="50" cy="48" r="2" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/><line x1="58" y1="48" x2="42" y2="48" stroke="#00857A" stroke-width="1.2" data-pp="metabolism" stroke-linecap="round"/><path d="M44,46 L40,48 L44,50" fill="none" stroke="#00857A" stroke-width="1.2" data-pp="metabolism" stroke-linecap="round"/></g>
   
   <g id="layer-annotation" data-name="annotation">

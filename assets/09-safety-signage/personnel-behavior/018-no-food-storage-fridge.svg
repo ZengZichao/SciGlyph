@@ -6,7 +6,7 @@
   <title id="t">试剂冰箱不放食品 / No Food Storage Fridge</title>
   <desc id="d">试剂冰箱禁止存放食品。</desc>
   
-  <g id="figure"><rect d="M24 12 L80 12 L80 108 L24 108 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  <g id="figure"><rect x="24" y="12" width="56" height="96" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M24 48 L80 48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M72 28 L76 28 L76 36 L72 36 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M72 64 L76 64 L76 72 L72 72 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>

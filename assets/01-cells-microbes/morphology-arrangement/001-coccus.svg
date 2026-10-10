@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="球菌" data-name-en="Coccus" data-cat="01-morphology" data-tags="球菌,球形,coccus,形态,单细胞" role="img" aria-labelledby="t-01-coccus d-01-coccus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-01-coccus">球菌 / Coccus</title>
-  <desc id="d-01-coccus">单细胞近球形，直径约 0.5–1.0 μm，是细菌最基本、最常见的形态。关键词: 球菌, 球形, coccus, 形态, 单细胞</desc>
+  <desc id="d-01-coccus">单细胞近球形，直径约 0.5–1.0 μm，是细菌最基本、最常见的形态</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <circle cx="60" cy="60" r="34" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
     <path d="M 37,43 A 30,30 0 0 1 59,31" fill="none" stroke="#B7D7E8" stroke-width="3.2" stroke-opacity="0.95"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="电缆弯折连接" data-name-en="conn cable bend" data-cat="arrows-connectors" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-44">电缆弯折连接 / conn_cable_bend</title>
-  <desc id="d-44">电缆弯折路径连接。关键词: conn,cable,bend,curve</desc>
+  <title id="t-44">电缆弯折连接 / Conn Cable Bend</title>
+  <desc id="d-44">电缆弯折路径连接</desc>
   <g id="g-44-电缆弯折连接">
     <path d="M 14 14 C 30 14 30 34 50 34 L 78 34" stroke="#1f2937" stroke-width="2" fill="none"/>
     <polygon points="76,28 86,34 76,40" fill="#1f2937"/>

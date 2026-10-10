@@ -10,7 +10,7 @@
      <path d="M30 28 L28 70 L22 116 L34 116 L40 80 L46 116 L58 116 L52 70 L50 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M50 34 L64 38 L70 48 L66 50 L62 42 L50 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M66 44 L72 44 L72 54 L66 54 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M76 48 L108 48 L106 100 L78 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  <g id="prop"><path d="M76 48 L108 48 L106 100 L78 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M76 48 L108 48" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M82 60 L86 56 L84 64" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M92 58 L96 62 L90 66" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>

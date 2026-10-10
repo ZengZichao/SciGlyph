@@ -12,6 +12,6 @@
     <path d="M46 74 L46 90 M54 74 L54 90" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="2.5" data-ls="fill"/>
     <path d="M44 32 L56 32" fill="none" stroke="#FFFFFF" stroke-width="2" data-ls="fill"/>
     <circle cx="50" cy="32" r="3" fill="none" stroke="#FFFFFF" stroke-width="1.5" data-ls="fill"/>
-    <text x="90" y="92" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="middle" data-ls="fill">BSL-4</text></g>
+    <text x="84" y="92" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" text-anchor="middle" data-ls="fill">BSL-4</text></g>
   <g id="detail"></g>
 </svg>

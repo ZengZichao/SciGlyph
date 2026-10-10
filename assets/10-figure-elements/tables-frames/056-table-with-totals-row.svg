@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="合计行表" data-name-en="table-with-totals-row" data-cat="tables-frames" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-56">合计行表 / table_with_totals_row</title>
-  <desc id="d-56">带合计行的表格。关键词: 合计行,总计,表格</desc>
+  <title id="t-56">合计行表 / Table-With-Totals-Row</title>
+  <desc id="d-56">带合计行的表格</desc>
   <g id="g-56-合计行表">
     <rect x="40" y="30" width="240" height="28" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="80" y="49" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">A</text>

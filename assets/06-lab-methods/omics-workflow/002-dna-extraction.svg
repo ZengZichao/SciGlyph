@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="DNA 提取与裂解" data-name-en="DNA Extraction and Lysis" data-cat="05-eco-seq" data-tags="DNA提取,细胞裂解,溶菌酶,磁珠纯化,破壁" role="img" aria-labelledby="t-18-dna-extraction d-18-dna-extraction" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-18-dna-extraction">DNA 提取与裂解 / DNA Extraction and Lysis</title>
-  <desc id="d-18-dna-extraction">溶菌酶与去污剂破坏细胞壁释放 DNA，再经磁珠结合与洗涤去除蛋白与多糖，获得高纯度核酸。关键词: DNA提取, 细胞裂解, 溶菌酶, 磁珠纯化, 破壁</desc>
+  <desc id="d-18-dna-extraction">溶菌酶与去污剂破坏细胞壁释放 DNA，再经磁珠结合与洗涤去除蛋白与多糖，获得高纯度核酸</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 流程轴 -->
   <path d="M14 18 H106" stroke="#5B4B8A" stroke-width="2"/>
@@ -46,6 +46,6 @@
   <path d="M103 77 C106 70 94 64 94 71" stroke="#5B4B8A" stroke-width="1.2"/>
   <rect x="84" y="60" width="7" height="26" rx="1.5" fill="#C0504D" fill-opacity="0.35" stroke="#C0504D" stroke-width="1.4"/>
   <path d="M80 56 h15 M80 90 h15" stroke="#C0504D" stroke-width="1.2"/>
-  <text x="113" y="110" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="end">磁珠纯化</text>
+  <text x="113" y="114" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="end">磁珠纯化</text>
 </g>
 </svg>

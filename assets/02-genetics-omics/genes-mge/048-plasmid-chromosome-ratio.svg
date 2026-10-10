@@ -15,6 +15,6 @@
   <path d="M16,45 A14,14 0 0 1 44,45" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/><rect x="24" y="50" width="6" height="3" rx="1" fill="#C42D2D" stroke="#1B2733" stroke-width="0.6" data-pp="alert"/><rect x="34" y="52" width="6" height="3" rx="1" fill="#2E86AB" stroke="#1B2733" stroke-width="0.6" data-pp="bacteria"/><line x1="12" y1="72" x2="88" y2="72" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="60" cy="35" r="1.5" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.5" data-pp="gene"/></g>
   
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">质粒染色体比</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">质粒-染色体比例</text>
   </g>
 </svg>

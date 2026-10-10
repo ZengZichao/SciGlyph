@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-gut_mucosa d-gut_mucosa" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-gut_mucosa">Gut mucosa</title>
-  <desc id="d-gut_mucosa">Intestinal mucosa with villi, mucus layer, Bacteroides rods and cocci 关键词: gut, mucosa, villi, mucus, Bacteroides</desc>
+  <desc id="d-gut_mucosa">Intestinal mucosa with villi, mucus layer, Bacteroides rods and cocci</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="60" width="90" height="20" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host"/>

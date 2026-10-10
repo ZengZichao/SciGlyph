@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="文档波浪底" data-name-en="document" data-cat="flowchart-logic" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-14">文档波浪底 / document</title>
-  <desc id="d-14">文档输出符号。关键词: flowchart,document</desc>
+  <title id="t-14">文档波浪底 / Document</title>
+  <desc id="d-14">文档输出符号</desc>
   <g id="g-14-文档波浪底">
     <path d="M15,12 L105,12 L105,55 Q90,48 75,55 Q60,62 45,55 Q30,48 15,55 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="38" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Doc</text>

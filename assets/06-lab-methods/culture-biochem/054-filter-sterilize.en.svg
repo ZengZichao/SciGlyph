@@ -8,8 +8,8 @@
     <rect x="37" y="15" width="26" height="18" rx="2" fill="#2E86AB" fill-opacity="0.2" data-pp="bacteria"/>
     <circle cx="45" cy="22" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
     <circle cx="55" cy="25" r="1.5" fill="#2E86AB" data-pp="bacteria"/>
-    <rect x="30" y="38" width="40" height="6" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
-    <text x="50" y="43" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">0.22μm</text>
+    <rect x="30" y="37" width="40" height="8" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <text x="50" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">0.22μm</text>
     <rect x="38" y="48" width="24" height="25" rx="3" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
     <line x1="50" y1="44" x2="50" y2="48" stroke="#00857A" stroke-width="1" stroke-linecap="round" data-pp="metabolism"/>
     <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">sterile</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="串联分压" data-name-en="circuit-series-two-resistors" data-cat="physics-electronics" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-43">串联分压 / circuit_series_two_resistors</title>
-  <desc id="d-43">两电阻串联分压电路。关键词: 串联,分压,电阻</desc>
+  <title id="t-43">串联分压 / Circuit-Series-Two-Resistors</title>
+  <desc id="d-43">两电阻串联分压电路</desc>
   <g id="g-43-串联分压">
     <line x1="40" y1="120" x2="100" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="160" y1="120" x2="220" y2="120" stroke="#1f2937" stroke-width="2" fill="none"/>
@@ -10,6 +10,7 @@
     <rect x="220" y="105" width="60" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
     <text x="250" y="125" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">R2</text>
     <text x="60" y="100" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">V1</text>
-    <text x="290" y="100" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">OUT</text>
+    <line x1="190" y1="120" x2="190" y2="99" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <text x="190" y="95" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">OUT</text>
   </g>
 </svg>

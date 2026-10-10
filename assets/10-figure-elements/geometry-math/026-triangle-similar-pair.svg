@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="相似三角形对" data-name-en="Triangle Similar Pair" data-cat="geometry-math" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-26">相似三角形对 / triangle_similar_pair</title>
-  <desc id="d-26">大小不同的相似三角形。关键词: similar,triangle,geometry</desc>
+  <title id="t-26">相似三角形对 / Triangle Similar Pair</title>
+  <desc id="d-26">大小不同的相似三角形</desc>
   <g id="g-26-相似三角形对">
     <polygon points="10,100 55,100 30,25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <polygon points="65,100 105,100 83,45" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

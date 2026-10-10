@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="向量平行四边形法则" data-name-en="Vectors Add Parallelogram" data-cat="geometry-math" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-31">向量平行四边形法则 / vectors_add_parallelogram</title>
-  <desc id="d-31">向量加法的平行四边形法则。关键词: vector,add,parallelogram</desc>
+  <title id="t-31">向量平行四边形法则 / Vectors Add Parallelogram</title>
+  <desc id="d-31">向量加法的平行四边形法则</desc>
   <g id="g-31-向量平行四边形法则">
     <line fill="none" x1="15" y1="95" x2="68" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <polygon points="75,95 68,91.8 68,98.2" fill="#1f2937" stroke="none"/>

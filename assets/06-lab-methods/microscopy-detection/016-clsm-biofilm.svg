@@ -22,8 +22,8 @@
     <path d="M20,75 Q20,55 30,50 Q40,45 40,55 Q40,45 50,40 Q60,35 60,50 Q60,40 70,45 Q80,50 80,75" fill="none" stroke="#E8871E" data-pp="mge" stroke-width="0.5" stroke-dasharray="1,1"/>
   </g>
   <g id="layer-annotation-clsm_biofilm" data-name="annotation">
-    <text x="15" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">live</text>
-    <text x="15" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">dead</text>
+    <text x="15" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">live</text>
+    <text x="15" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">dead</text>
     <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">CLSM biofilm</text>
   </g>
 </svg>

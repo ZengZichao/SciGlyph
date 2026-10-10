@@ -10,6 +10,6 @@
      <path d="M42 14 Q42 8 50 8 Q58 8 58 14 L58 18 Q58 22 54 24 L54 32 L50 36 L46 32 L46 24 Q42 22 42 18 Z" fill="#33414F" stroke="none" data-ls="dark"/>
      <path d="M56 20 L62 28 L60 40 L56 36 Z" fill="#33414F" stroke="none" data-ls="dark"/>
      <path d="M40 30 L38 72 L32 116 L44 116 L50 82 L56 116 L68 116 L62 72 L60 30 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
-     <path d="M92 20 L96 16 L96 24 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
-  <g id="prop"><path d="M88 14 L92 14 L92 26 L88 26 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+     </g>
+  <g id="prop"><path d="M74 22 L80 30 L92 12" fill="none" stroke="#2B7DE9" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" data-ls="accent"/></g>
 </svg>

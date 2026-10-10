@@ -16,8 +16,8 @@
     <line x1="60" y1="118" x2="60" y2="108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <polygon points="60,112 56,106 64,106" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="26" y1="96" x2="42" y2="96" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="34,96 40,92 40,100" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="40,96 34,92 34,100" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="78" y1="36" x2="94" y2="36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="88,36 82,32 82,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="82,36 88,32 88,40" fill="#2B7DE9" stroke="none" data-ls="accent"/>
   </g>
 </svg>

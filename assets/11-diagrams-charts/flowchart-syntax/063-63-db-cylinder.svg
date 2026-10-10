@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="圆柱数据库" data-name-en="db-cylinder" data-cat="flowchart-logic" aria-labelledby="t-63 d-63" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-63">圆柱数据库 / db_cylinder</title>
-  <desc id="d-63">圆柱数据库符号。关键词: database,cylinder</desc>
+  <title id="t-63">圆柱数据库 / Db-Cylinder</title>
+  <desc id="d-63">圆柱数据库符号</desc>
   <g id="g-63-圆柱数据库">
     <path d="M25,20 Q60,10 95,20 L95,60 Q60,70 25,60 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M25,20 Q60,30 95,20" fill="none" stroke="#1f2937" stroke-width="1.5"/>

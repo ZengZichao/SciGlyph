@@ -4,7 +4,7 @@
      data-id="sp-filter-buchner-porcelain" data-cat="sp" data-spec="128"
      data-tags="buchner,filter,porcelain,ceramic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">布氏漏斗（瓷质） / Büchner Funnel (Porcelain)</title>
-  <desc id="d">瓷质布氏漏斗，带多孔底板，用于真空抽滤</desc>
+  <desc id="d">同物</desc>
   <g id="body"><ellipse cx="64" cy="30" rx="32" ry="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M32 30 L32 80 Q32 90 42 94 L60 100 L60 110 L68 110 L68 100 L86 94 Q96 90 96 80 L96 30" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <ellipse cx="64" cy="80" rx="24" ry="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>

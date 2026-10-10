@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="简洁数据表" data-name-en="data-table-4x5" data-cat="tables-frames" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">简洁数据表 / data_table_4x5</title>
-  <desc id="d-48">4行5列简洁数据表。关键词: 数据表,4x5,表格</desc>
-  <g id="g-48-简洁数据表">
+  <title id="t-48">简洁数据表 / Data-Table-4X5</title>
+  <desc id="d-48">4行5列简洁数据表</desc>
+  <g id="g-48-简洁数据表" transform="translate(0,65)">
     <rect x="40" y="40" width="400" height="150" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="40" y="40" width="400" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="40" y1="70" x2="440" y2="70" stroke="#6b7280" stroke-width="0.75" fill="none"/>

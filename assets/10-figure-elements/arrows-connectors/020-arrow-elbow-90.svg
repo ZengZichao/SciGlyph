@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="直角折箭头" data-name-en="arrow elbow 90" data-cat="arrows-connectors" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">直角折箭头 / arrow_elbow_90</title>
-  <desc id="d-20">90度直角转折箭头。关键词: arrow,elbow,90,corner</desc>
+  <title id="t-20">直角折箭头 / Arrow Elbow 90</title>
+  <desc id="d-20">90度直角转折箭头</desc>
   <g id="g-20-直角折箭头">
-    <polyline points="14,36 50,36 50,14" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <polygon points="44,16 50,10 56,16" fill="#1f2937"/>
+    <polyline points="27,36 63,36 63,14" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="57,16 63,10 69,16" fill="#1f2937"/>
   </g>
 </svg>

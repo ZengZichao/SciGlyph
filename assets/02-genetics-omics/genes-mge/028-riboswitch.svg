@@ -14,7 +14,7 @@
         <rect x="25" y="38" width="20" height="14" rx="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
     <text x="35.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">aptamer</text>
         <rect x="50" y="38" width="20" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="60.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">expr</text>
+    <text x="60.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">expr</text>
     <circle cx="35" cy="28" r="5" fill="#C42D2D" data-pp="alert"/>
   </g>
   <g id="layer-annotation" data-name="annotation">

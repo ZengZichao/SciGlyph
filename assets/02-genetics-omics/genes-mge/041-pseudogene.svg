@@ -5,12 +5,12 @@
   <desc id="d-41_pseudogene">假基因: 基因丢失/失活后的残余序列。含终止密码子/移码突变。箭头断裂表示功能丧失。关键词: pseudogene, gene loss, frameshift, premature stop</desc>
   <g id="layer-body" data-name="body">
         <rect x="10" y="38" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="22.2" y="45.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">functional</text>
+    <text x="22.2" y="45.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">functional</text>
     <rect x="40" y="38" width="20" height="12" rx="1" fill="#93A0AC" data-pp="muted" fill-opacity="0.4" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2"/>
     <line x1="50.0" y1="44.9" x2="58.0" y2="44.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="58.0" y="47.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pseudo</text>
     <line x1="40" y1="44" x2="60" y2="44" stroke="#C42D2D" data-pp="alert" stroke-width="1.5"/>
         <rect x="70" y="38" width="20" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <line x1="80.0" y1="43.4" x2="76.59" y2="38.33" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="75.18" y="39.44" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">functional</text>
+    <line x1="80.0" y1="43.4" x2="76.59" y2="38.33" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="75.18" y="39.44" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">functional</text>
       <line x1="10" y1="44" x2="90" y2="44" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
     <circle cx="50" cy="55" r="2" fill="#C42D2D" data-pp="alert"/>
     <line x1="35" y1="50" x2="65" y2="50" stroke="#93A0AC" data-pp="muted" stroke-width="0.5" stroke-dasharray="2,2"/>

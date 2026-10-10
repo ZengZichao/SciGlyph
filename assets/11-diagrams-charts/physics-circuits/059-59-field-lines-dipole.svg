@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="电偶极子电场线" data-name-en="field-lines-dipole" data-cat="physics-electronics" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-59">电偶极子电场线 / field_lines_dipole</title>
-  <desc id="d-59">正负电荷电场线分布图。关键词: 电场线,偶极子,电场</desc>
+  <title id="t-59">电偶极子电场线 / Field-Lines-Dipole</title>
+  <desc id="d-59">正负电荷电场线分布图</desc>
   <g id="g-59-电偶极子电场线">
     <circle cx="100" cy="120" r="10" fill="#D55E00" data-drole="series-1"/>
     <text x="100" y="125" font-size="11" fill="#ffffff" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>

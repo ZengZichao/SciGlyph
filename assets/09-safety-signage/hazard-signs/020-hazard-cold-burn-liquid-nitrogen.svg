@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="hz-hazard-cold-burn-liquid-nitrogen" data-cat="hz" data-spec="128"
      data-tags="cold,cryogenic,ln2,frostbite,冻伤,液氮" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">低温冻伤（液氮）/ Cryogenic Burn (LN2)</title>
+  <title id="t">低温冻伤（液氮） / Cryogenic Burn (LN2)</title>
   <desc id="d">低温冻伤警告：雪花+LN2液氮标识。</desc>
   <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#2B7DE9" stroke="#1F2933" stroke-width="2.5" data-ls="accent" data-ls-stroke="stroke"/>
     <path d="M64 30 L64 78 M44 42 L84 66 M84 42 L44 66" fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3" data-ls="fill"/>

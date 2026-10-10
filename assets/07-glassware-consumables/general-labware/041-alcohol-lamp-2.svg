@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="酒精灯" data-name-en="alcohol_lamp" data-cat="lab-equipment" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-43">酒精灯 / alcohol_lamp</title>
-  <desc id="d-43">提供低温加热火焰。关键词: 酒精灯,lamp,加热,火焰</desc>
+  <title id="t-43">酒精灯 / Alcohol_Lamp</title>
+  <desc id="d-43">提供低温加热火焰</desc>
   <g id="g-43-酒精灯">
     <path d="M 35 55 L 30 100 Q 30 110 45 110 L 75 110 Q 90 110 90 100 L 85 55 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 32 75 L 30 100 Q 30 109 45 109 L 75 109 Q 90 109 90 100 L 88 75 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

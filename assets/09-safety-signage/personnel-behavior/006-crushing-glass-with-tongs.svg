@@ -12,7 +12,7 @@
      <path d="M74 46 L80 46 L80 56 L74 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
   <g id="prop"><path d="M78 48 L96 36 L98 38 L80 50" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M78 52 L96 44 L98 46 L80 54" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-     <rect d="M86 68 L110 68 L108 108 L88 108 Z" fill="#E02020" opacity="0.2" stroke="none" data-ls="danger"/>
+     <path d="M86 68 L110 68 L108 108 L88 108 Z" fill="#E02020" opacity="0.2" stroke="none" data-ls="danger"/>
      <path d="M86 68 L110 68 L108 108 L88 108 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M92 78 L104 78" fill="#E02020" stroke="none" data-ls="danger"/>
      <path d="M92 84 L104 84" fill="#E02020" stroke="none" data-ls="danger"/></g>

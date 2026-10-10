@@ -855,7 +855,7 @@
    "category": "07-glassware-consumables",
    "subdir": "storage-consumables",
    "canvas": "0 0 128 128",
-   "desc": "棕色避光玻璃瓶GLS45口径，用于光敏试剂储存。",
+   "desc": "棕色避光玻璃瓶(GLS45 螺口)，瓶体呈琥珀棕色，用于光敏试剂储存。\"（明确已按棕色玻璃绘制，便于后续复核；",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1458,7 +1458,7 @@
   {
    "file": "060-volumetric-bottle-cap.svg",
    "name_zh": "容量瓶(带塞)",
-   "name_en": "Volumetric Bottle with Cap",
+   "name_en": "Volumetric Flask with Ground Stopper\"（容量瓶=volumetric flask，\"Bottle\" 术语错误；",
    "tags": [
     "volumetric",
     "bottle",

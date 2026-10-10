@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="hc-meker-burner" data-cat="hc" data-spec="128"
      data-tags="meker,burner,gas,grid,flame,heating" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">梅克尔灯（Meker）/ Meker Burner</title>
+  <title id="t">梅克尔灯（Meker） / Meker Burner</title>
   <desc id="d">Meker-Fisher燃气灯：底座+宽管+空气调节环+顶部金属网格，网格上多束短火焰，温度高于本生灯。</desc>
   <g id="body"><path d="M40 104 L88 104 L88 116 L40 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M54 104 L54 46 L74 46 L74 104" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

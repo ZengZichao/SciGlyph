@@ -6,12 +6,12 @@
 <g data-name="body">
 <rect x="0.0" y="0.0" width="600.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
 <text x="300.0" y="22.0" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Sequence Conservation</text>
-<rect x="100.0" y="50.0" width="80.0" height="20.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.2" stroke="#00857A" stroke-width="1"/>
-<text x="140.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">Domain A</text>
-<rect x="220.0" y="50.0" width="100.0" height="20.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.2" stroke="#6C3FA0" stroke-width="1"/>
-<text x="270.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Domain B</text>
-<rect x="380.0" y="50.0" width="100.0" height="20.0" fill="#E8871E" data-pp="mge" fill-opacity="0.2" stroke="#E8871E" stroke-width="1"/>
-<text x="430.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Motif</text>
+<rect x="155.2" y="50.0" width="121.7" height="20.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.2" stroke="#00857A" stroke-width="1"/>
+<text x="216.0" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">Domain A</text>
+<rect x="324.4" y="50.0" width="84.5" height="20.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.2" stroke="#6C3FA0" stroke-width="1"/>
+<text x="366.7" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Domain B</text>
+<rect x="437.2" y="50.0" width="46.7" height="20.0" fill="#E8871E" data-pp="mge" fill-opacity="0.2" stroke="#E8871E" stroke-width="1"/>
+<text x="460.5" y="64.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Motif</text>
 <line x1="80.0" y1="330.0" x2="550.0" y2="330.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <line x1="80.0" y1="330.0" x2="80.0" y2="90.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <text x="315.0" y="350.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Alignment position</text>

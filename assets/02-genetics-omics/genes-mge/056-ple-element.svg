@@ -14,8 +14,8 @@
 
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="40" y="57.96" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">phage-dep</text>
-    <text x="67" y="65.04" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">mobile elem</text>
+    <text x="40" y="57.96" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">phage-dependent</text>
+    <text x="67" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">mobile element</text>
     <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Vibrio cholerae PLE</text>
   </g>
 </svg>

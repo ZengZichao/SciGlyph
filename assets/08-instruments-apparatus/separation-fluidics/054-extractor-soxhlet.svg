@@ -3,8 +3,8 @@
      role="img" aria-labelledby="t d"
      data-id="sp-extractor-soxhlet" data-cat="sp" data-spec="128"
      data-tags="soxhlet,extractor,extraction,continuous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">索氏提取器 / Soxhlet Extractor</title>
-  <desc id="d">索氏提取器，带虹吸管、回液管和蒸汽旁路</desc>
+  <title id="t">索氏提取器（提取筒单体） / Soxhlet Extractor</title>
+  <desc id="d">需</desc>
   <g id="body"><path d="M44 80 L84 80 L84 110 Q84 116 78 116 L50 116 Q44 116 44 110 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M48 80 L48 50 L80 50 L80 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M52 50 L52 20 L76 20 L76 50" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

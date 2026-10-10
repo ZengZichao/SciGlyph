@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="分离饼图" data-name-en="Pie 4 Slice Exploded" data-cat="charts-plots" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">分离饼图 / pie_4slice_exploded</title>
-  <desc id="d-15">四瓣分离饼图。关键词: pie,exploded,four</desc>
+  <title id="t-15">分离饼图 / Pie 4 Slice Exploded</title>
+  <desc id="d-15">四瓣分离饼图</desc>
   <g id="g-15-分离饼图">
     <path d="M122.1,117.9 L122.1,37.9 A80,80 0 0 1 202.1,117.9 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="153" y="90" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">A</text>

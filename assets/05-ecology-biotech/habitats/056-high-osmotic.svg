@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-high_osmotic d-high_osmotic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-high_osmotic">高渗 / High osmotic</title>
+  <title id="t-high_osmotic">高渗 / High osmolarity</title>
   <desc id="d-high_osmotic">High-osmotic environment with plasmolyzed cell, water efflux and halotolerant yeast 关键词: osmotic, plasmolysis, halotolerant</desc>
   
   <g id="layer-body" data-name="body">

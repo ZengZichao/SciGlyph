@@ -40,12 +40,12 @@
       <circle cx="216" cy="88" r="2.6"/>
     </g>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="64" y="104" text-anchor="middle" font-size="9.5" fill="#2B3A42">Adequate signal</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#7A8B93" font-size="7" x="65.6" y="116.0">Short branches group correctly</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#C0504D" font-size="7" x="104.21" y="94.72">Long-branch attraction artifact</text><line x1="44.63" y1="102.18" x2="39.11" y2="90.68" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#7A8B93" font-size="7" x="144.75" y="124.32">Long-branch taxa cluster wrongly</text><line x1="40.36" y1="114.18" x2="77.55" y2="120.28" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
-    <g font-size="9.5" fill="#2B3A42">
+    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#7A8B93" font-size="7" x="64" y="116">Short branches group well</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#C0504D" font-size="7" x="176" y="104">Long-branch attraction</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" fill="#7A8B93" font-size="7" x="176" y="116">Long branches group wrongly</text>
+    <g font-size="7" fill="#2B3A42">
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="14" y="130">Tree length</text>
-      <text font-family="Inter,Helvetica,Arial,sans-serif" x="14" y="140">Parsimony sites</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="14" y="140">Pars. sites</text>
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="14" y="150">RCV</text>
     </g>
     <g>

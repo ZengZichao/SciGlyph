@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="甘特图" data-name-en="Gantt 3 Tasks" data-cat="charts-plots" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28">甘特图 / gantt_3tasks</title>
-  <desc id="d-28">三任务甘特图。关键词: gantt,timeline,tasks</desc>
+  <title id="t-28">甘特图 / Gantt 3 Tasks</title>
+  <desc id="d-28">三任务甘特图</desc>
   <g id="g-28-甘特图">
     <rect x="80" y="50" width="140" height="35" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <text x="72" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="end">Task A</text>

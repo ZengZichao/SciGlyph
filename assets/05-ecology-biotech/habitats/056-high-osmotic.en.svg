@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-high_osmotic d-high_osmotic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-high_osmotic">High osmotic</title>
-  <desc id="d-high_osmotic">High-osmotic environment with plasmolyzed cell, water efflux and halotolerant yeast 关键词: osmotic, plasmolysis, halotolerant</desc>
+  <title id="t-high_osmotic">High osmolarity</title>
+  <desc id="d-high_osmotic">High-osmotic environment with plasmolyzed cell, water efflux and halotolerant yeast</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="10" width="90" height="75" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>
@@ -21,6 +21,6 @@
   </g>
   
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">High osmotic</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">High osmolarity</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="旭日图" data-name-en="Sunburst Two Ring" data-cat="charts-plots" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-30">旭日图 / sunburst_two_ring</title>
-  <desc id="d-30">双环旭日图。关键词: sunburst,rings,hierarchy</desc>
+  <title id="t-30">旭日图 / Sunburst Two Ring</title>
+  <desc id="d-30">双环旭日图</desc>
   <g id="g-30-旭日图">
     <path d="M120.0,65.0 A55,55 0 0 1 167.6,147.5 L141.7,132.5 A25,25 0 0 0 120.0,95.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <path d="M167.6,147.5 A55,55 0 0 1 72.4,147.5 L98.3,132.5 A25,25 0 0 0 141.7,132.5 Z" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>

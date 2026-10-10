@@ -162,11 +162,11 @@
 <text x="464.0" y="65.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">~10</text>
 <text x="320.0" y="50.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Samples</text>
 <text x="490.0" y="80.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Abundance</text>
-<rect x="490.0" y="95.0" width="15.0" height="15.0" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.3"/>
-<rect x="490.0" y="115.0" width="15.0" height="15.0" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.3"/>
-<rect x="490.0" y="135.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.3"/>
-<rect x="490.0" y="155.0" width="15.0" height="15.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.3"/>
-<rect x="490.0" y="175.0" width="15.0" height="15.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="490.0" y="95.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.9" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="490.0" y="115.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.68" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="490.0" y="135.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.46" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="490.0" y="155.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.24" stroke="#1B2733" stroke-width="0.3"/>
+<rect x="490.0" y="175.0" width="15.0" height="15.0" fill="#93A0AC" data-pp="muted" fill-opacity="0.08" stroke="#1B2733" stroke-width="0.3"/>
 <text x="510.0" y="107.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">high</text>
 <text x="510.0" y="187.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">low</text>
 <rect x="490.0" y="220.0" width="10.0" height="10.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>

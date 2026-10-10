@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="热力矩阵" data-name-en="Heatmap 4x4" data-cat="charts-plots" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-25">热力矩阵 / heatmap_4x4</title>
-  <desc id="d-25">4x4热力矩阵。关键词: heatmap,matrix,grid</desc>
+  <title id="t-25">热力矩阵 / Heatmap 4X4</title>
+  <desc id="d-25">4x4热力矩阵</desc>
   <g id="g-25-热力矩阵">
     <rect x="80" y="40" width="65" height="55" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <text x="112" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">3</text>
+    <text x="112" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">3</text>
     <rect x="145" y="40" width="65" height="55" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <text x="177" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">1</text>
     <rect x="210" y="40" width="65" height="55" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
@@ -15,13 +15,13 @@
     <rect x="145" y="95" width="65" height="55" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
     <text x="177" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">2</text>
     <rect x="210" y="95" width="65" height="55" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <text x="242" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">3</text>
+    <text x="242" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">3</text>
     <rect x="275" y="95" width="65" height="55" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
     <text x="307" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">0</text>
     <rect x="80" y="150" width="65" height="55" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
     <text x="112" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">0</text>
     <rect x="145" y="150" width="65" height="55" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <text x="177" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">3</text>
+    <text x="177" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">3</text>
     <rect x="210" y="150" width="65" height="55" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <text x="242" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">1</text>
     <rect x="275" y="150" width="65" height="55" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
@@ -33,7 +33,7 @@
     <rect x="210" y="205" width="65" height="55" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
     <text x="242" y="235" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">2</text>
     <rect x="275" y="205" width="65" height="55" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
-    <text x="307" y="235" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">3</text>
+    <text x="307" y="235" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">3</text>
     <text x="72" y="70" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">R1</text>
     <text x="72" y="125" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">R2</text>
     <text x="72" y="180" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="end">R3</text>

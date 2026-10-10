@@ -19,7 +19,5 @@
 <text x="168" y="321" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA fragment</text>
 <rect x="300" y="310" width="14" height="14" fill="#E8871E" data-pp="mge" />
 <text x="318" y="321" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RNA primer</text></g>  <g data-name="annotation">
-    <line x1="50" y1="270" x2="550" y2="270" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <circle cx="530" cy="200" r="3" fill="#6C3FA0" data-pp="gene"/>
-  </g>
+    <line x1="50" y1="270" x2="550" y2="270" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>  </g>
 </svg>

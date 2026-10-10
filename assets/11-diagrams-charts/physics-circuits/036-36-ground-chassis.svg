@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="机壳地" data-name-en="ground-chassis" data-cat="physics-electronics" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-36">机壳地 / ground_chassis</title>
-  <desc id="d-36">机壳接地符号。关键词: 机壳地,屏蔽,接地</desc>
+  <title id="t-36">机壳地 / Ground-Chassis</title>
+  <desc id="d-36">机壳接地符号</desc>
   <g id="g-36-机壳地">
     <line x1="60" y1="10" x2="60" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="35" x2="80" y2="35" stroke="#1f2937" stroke-width="2" fill="none"/>

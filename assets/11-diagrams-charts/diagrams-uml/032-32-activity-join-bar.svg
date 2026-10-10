@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="汇合条" data-name-en="Activity Join Bar" data-cat="diagrams-sw-uml" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">汇合条 / activity_join_bar</title>
-  <desc id="d-32">活动图黑色汇合条。关键词: join,bar,sync,activity</desc>
+  <title id="t-32">汇合条 / Activity Join Bar</title>
+  <desc id="d-32">活动图黑色汇合条</desc>
   <g id="g-32-汇合条">
     <rect x="55" y="10" width="10" height="60" fill="#1f2937"/>
     <line fill="none" x1="30" y1="10" x2="55" y2="10" stroke="#1f2937" stroke-width="1.5"/>

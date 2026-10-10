@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="自环箭头" data-name-en="arrow loop self" data-cat="arrows-connectors" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-23">自环箭头 / arrow_loop_self</title>
-  <desc id="d-23">自循环回路箭头。关键词: arrow,loop,self,cycle</desc>
+  <title id="t-23">自环箭头 / Arrow Loop Self</title>
+  <desc id="d-23">自循环回路箭头</desc>
   <g id="g-23-自环箭头">
-    <path d="M 20 30 L 20 18 Q 20 12 30 12 Q 40 12 40 18 L 40 30 Q 40 36 31.49 32" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <polygon points="22.9,27.96 33.29,28.16 29.69,35.84" fill="#1f2937"/>
+    <path d="M 34 32.5 L 34 15.7 Q 34 7.3 48 7.3 Q 62 7.3 62 15.7 L 62 32.5 Q 62 40.9 50.1 35.3" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <polygon points="38.1,29.7 52.6,29.9 47.6,40.7" fill="#1f2937"/>
   </g>
 </svg>

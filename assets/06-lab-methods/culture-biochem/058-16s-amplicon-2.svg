@@ -15,8 +15,8 @@
     <text x="46" y="32" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">V4</text>
     <text x="61" y="32" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">V6</text>
     <text x="76" y="32" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">V9</text>
-    <path d="M10,50 L15,45 L15,55 Z" fill="#E8871E" data-pp="mge"/>
-    <path d="M90,50 L85,45 L85,55 Z" fill="#E8871E" data-pp="mge"/>
+    <path d="M10,45 L15,50 L10,55 Z" fill="#E8871E" data-pp="mge"/>
+    <path d="M90,45 L85,50 L90,55 Z" fill="#E8871E" data-pp="mge"/>
     <text x="10" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">27F</text>
     <text x="75" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">1492R</text>
   </g>

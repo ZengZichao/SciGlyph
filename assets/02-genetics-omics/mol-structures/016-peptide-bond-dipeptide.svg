@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="肽键" data-name-en="Peptide Bond Dipeptide" data-cat="natural-sciences" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-27">肽键 / peptide_bond_dipeptide</title>
-  <desc id="d-27">展示肽键及二肽结构。关键词: peptide bond,dipeptide,protein</desc>
+  <title id="t-27">肽键 / Peptide Bond Dipeptide</title>
+  <desc id="d-27">展示肽键及二肽结构</desc>
   <g id="g-27-肽键">
     <text x="25" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="start">H2N</text>
     <line x1="55" y1="95" x2="80" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <text x="85" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">C</text>
     <line x1="102" y1="95" x2="127" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <text x="132" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">C</text>
-    <line x1="149" y1="95" x2="166" y2="95" stroke="#D55E00" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="149" y1="95" x2="166" y2="95" stroke="#D55E00" stroke-width="2" data-drole="series-2"/>
     <text x="171" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="start">NH</text>
     <line x1="199" y1="95" x2="224" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <text x="229" y="100" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#0072B2" text-anchor="start" data-drole="series-1">C</text>

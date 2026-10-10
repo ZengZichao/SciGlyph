@@ -6,9 +6,9 @@
   <title id="t">散发放入通风橱禁止 / Loose Hair Under Hood Prohibited</title>
   <desc id="d">散发操作禁止，尤其在通风橱内。</desc>
   
-  <g id="figure"><circle cx="48" cy="26" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  <g id="figure" transform="translate(16 0)"><circle cx="48" cy="26" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M38 20 Q38 12 48 12 Q58 12 58 20 L60 30 L62 42 L58 38 L56 28 Q56 24 48 24 Q40 24 40 28 L38 38 L34 42 L36 30 Z" fill="#33414F" stroke="none" data-ls="dark"/>
      <path d="M38 36 L36 78 L30 116 L42 116 L48 88 L54 116 L66 116 L60 78 L58 36 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
-  <g id="prop"><circle cx="48" cy="50" r="28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  <g id="prop" transform="translate(16 0)"><circle cx="48" cy="50" r="28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M28 30 L68 70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
 </svg>

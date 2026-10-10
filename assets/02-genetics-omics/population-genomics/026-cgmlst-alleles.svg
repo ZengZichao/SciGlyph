@@ -42,7 +42,7 @@
 </g>
 <g data-name="threshold">
   <line x1="80" y1="240" x2="560" y2="240" stroke="#C42D2D" stroke-width="1" stroke-dasharray="4,3" data-pp="alert"/>
-  <text x="555" y="235" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" text-anchor="end" data-pp="white">threshold (~50 alleles)</text>
+  <text x="555" y="145" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="end" data-pp="alert">threshold (~50 alleles)</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">cgMLST Allele Differences Between Isolates (schematic)</text>
 </svg>

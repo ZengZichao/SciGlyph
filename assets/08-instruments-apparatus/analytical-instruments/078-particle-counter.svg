@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-particle-counter" data-cat="an" data-spec="128" data-tags="particle,counter,laser,liquid,cleanroom,contamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-particle-counter" data-cat="an" data-spec="128" data-tags="particle,counter,laser,liquid,cleanroom,contamination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">微粒计数器 / Particle Counter</title>
   <desc id="d">液体微粒计数器：激光光源、流通池、光电探测器。</desc>
   <g id="body">

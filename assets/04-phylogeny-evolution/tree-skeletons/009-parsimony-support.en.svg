@@ -32,15 +32,15 @@
       <circle cx="140" cy="116" r="2.6"/>
     </g>
     <path d="M 152 18 V 132" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="122.32" y="28.0">Parsimony-informative sites</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="160" y="28.0">Informative sites</text>
     <rect x="160" y="36" width="60" height="9" fill="#DCEEE4"/>
     <rect x="160" y="36" width="34.4" height="9" fill="#5B4B8A"/>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="160" y="57" font-size="7" fill="#2B3A42">236 / 412 sites</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="152.7" y="78.0">Bootstrap resampling</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="160" y="78.0">Resampling</text>
     <rect x="160" y="86" width="60" height="9" fill="#DCEEE4"/>
     <rect x="160" y="86" width="60" height="9" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="160" y="107" font-size="9" fill="#2B3A42">1,000×</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="157.04" y="128.0">Tree length (steps)</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" font-size="7" x="160" y="128.0">Tree length</text>
     <rect x="160" y="136" width="60" height="9" fill="#DCEEE4"/>
     <rect x="160" y="136" width="30" height="9" fill="#E8B04B"/>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="222" y="144" text-anchor="end" font-size="9" fill="#2B3A42">1 284</text>

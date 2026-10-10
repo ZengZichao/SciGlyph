@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="蜂群图" data-name-en="Beeswarm Mini" data-cat="charts-plots" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">蜂群图 / beeswarm_mini</title>
-  <desc id="d-24">蜂群散点图。关键词: beeswarm,jitter,points</desc>
+  <title id="t-24">蜂群图 / Beeswarm Mini</title>
+  <desc id="d-24">蜂群散点图</desc>
   <g id="g-24-蜂群图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

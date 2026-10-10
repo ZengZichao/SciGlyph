@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="均值SD三列" data-name-en="summary-mean-sd" data-cat="tables-frames" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">均值SD三列 / summary_mean_sd</title>
-  <desc id="d-15">均值标准差三列表格。关键词: 均值,标准差,统计摘要</desc>
+  <title id="t-15">均值SD三列 / Summary-Mean-Sd</title>
+  <desc id="d-15">均值标准差三列表格</desc>
   <g id="g-15-均值SD三列">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>

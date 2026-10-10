@@ -7,9 +7,9 @@
   <g id="layer-body" data-name="body">
     <rect x="5" y="10" width="90" height="70" rx="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>
     <circle cx="50" cy="35" r="5" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
-    <path d="M50,30 L45,18 Q50,15 55,18 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
-    <path d="M45,38 L33,42 Q32,37 35,34 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
-    <path d="M55,38 L67,42 Q68,37 65,34 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
+    <path d="M46.25,28.51 A7.5 7.5 0 0 1 53.75,28.51 L58.75,19.84 A17.5 17.5 0 0 0 41.25,19.84 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
+    <path d="M57.5,35 A7.5 7.5 0 0 1 53.75,41.49 L58.75,50.16 A17.5 17.5 0 0 0 67.5,35 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
+    <path d="M46.25,41.49 A7.5 7.5 0 0 1 42.5,35 L32.5,35 A17.5 17.5 0 0 0 41.25,50.16 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="0.8" stroke-linecap="round" data-pp="alert"/>
     <line x1="50" y1="15" x2="50" y2="10" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>
     <line x1="35" y1="22" x2="28" y2="16" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>
     <line x1="65" y1="22" x2="72" y2="16" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>

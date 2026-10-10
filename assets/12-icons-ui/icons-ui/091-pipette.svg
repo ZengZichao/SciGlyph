@@ -6,9 +6,10 @@
   <title id="t">移液枪图标 / Icon Pipette</title>
   <desc id="d">移液枪微型图标。</desc>
   <g id="body">
-    <rect x="10" y="4" width="4" height="12" rx="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M10,16 L14,16 L13,20 L11,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
-    <line x1="12" y1="4" x2="12" y2="2" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
-    <rect x="11" y="8" width="2" height="4" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+    <rect x="9.5" y="6" width="5" height="10" rx="1.5" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M9.5,16 L14.5,16 L13.2,20 L10.8,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.4" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="12" y1="3" x2="12" y2="6" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="9" y1="3" x2="15" y2="3" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <rect x="10.5" y="11" width="3" height="4" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
   </g>
 </svg>

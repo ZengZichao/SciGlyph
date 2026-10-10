@@ -6,16 +6,16 @@
   <g id="layer-body-crassphage" data-name="body">
     <polygon points="50.0,29.0 63.9,37.0 63.9,53.0 50.0,61.0 36.1,53.0 36.1,37.0" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M43.0,39.0 Q50,42.0 57.0,39.0 Q50,48.0 43.0,51.0" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
-    <polygon points="50,25 46,20 50,15 54,20" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-    <polygon points="50,25 44,22 42,16 48,18" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.8"/>
-    <polygon points="50,25 56,22 58,16 52,18" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.8"/>
-    <line x1="50" y1="15" x2="50" y2="10" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
-    <line x1="42" y1="16" x2="38" y2="12" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="58" y1="16" x2="62" y2="12" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <circle cx="50" cy="9" r="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
+    <polygon points="50,29 46,24 50,19 54,24" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <polygon points="50,29 44,26 42,20 48,22" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.8"/>
+    <polygon points="50,29 56,26 58,20 52,22" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.8"/>
+    <line x1="50" y1="19" x2="50" y2="14" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="42" y1="20" x2="38" y2="16" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="58" y1="20" x2="62" y2="16" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <circle cx="50" cy="13" r="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
   </g>
   <g id="layer-annotation-crassphage" data-name="annotation">
-    <text x="68" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">crAss</text>
-    <text x="64.78" y="48.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">stargate</text>
+    <text x="68" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">capsid</text>
+    <text x="64" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">stargate</text>
   </g>
 </svg>

@@ -25,11 +25,11 @@
     <line x1="133.3" y1="167.1" x2="160.0" y2="167.1" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
     <line x1="80.0" y1="281.4" x2="106.7" y2="281.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="106.7" y1="235.7" x2="133.3" y2="235.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="212.9" x2="160.0" y2="212.9" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
-    <line x1="133.3" y1="258.6" x2="160.0" y2="258.6" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="212.9" x2="160.0" y2="212.9" stroke="#6C3FA0" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="258.6" x2="160.0" y2="258.6" stroke="#6C3FA0" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
     <line x1="106.7" y1="327.1" x2="133.3" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="304.3" x2="160.0" y2="304.3" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#5B8C3E" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="304.3" x2="160.0" y2="304.3" stroke="#6C3FA0" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
+    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#6C3FA0" stroke-width="1.5" data-pp="virus" stroke-linecap="round"/>
   </g>
   <g id="pp42__nodes" data-name="nodes">
     <circle cx="80.0" cy="190.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
@@ -45,10 +45,20 @@
     <text x="165.0" y="78.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Myo2</text>
     <text x="165.0" y="124.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Siph1</text>
     <text x="165.0" y="170.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Siph2</text>
-    <text x="165.0" y="215.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Pod1</text>
-    <text x="165.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Pod2</text>
-    <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Auto1</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Auto2</text>
+    <text x="165.0" y="215.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="virus">Pod1</text>
+    <text x="165.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="virus">Pod2</text>
+    <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="virus">Auto1</text>
+    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="virus">Auto2</text>
+  </g>
+  <g data-name="clade-labels">
+    <text x="133.3" y="18" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus" text-anchor="middle">Morphotype A</text>
+    <text x="133.3" y="201" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle">Morphotype B</text>
+  </g>
+  <g data-name="code-key">
+    <text x="250" y="140" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Myo = Myoviridae, contractile tail</text>
+    <text x="250" y="154" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#5B8C3E" data-pp="virus">Siph = Siphoviridae, long non-contractile tail</text>
+    <text x="250" y="168" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">Pod = Podoviridae, short non-contractile tail</text>
+    <text x="250" y="182" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene">Auto = Autographiviridae, T7-like</text>
   </g>
   <g data-name="scale-bar">
     <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>

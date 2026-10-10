@@ -5,40 +5,57 @@
   <desc id="d-13">骨架，配合Zaremba-Niedzwiedzka et al. 2017使用。E3假说：Asgard古菌与真核生物构成姐妹群（E2模型则将真核嵌入Heimdallarchaeia内，假说之一）。 关键词: phylogenetic tree, asgard sister, Asgard-Eukaryote, Zaremba-Niedzwiedzka, AsgardA, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp13__clades" data-name="clade-shading">
-    <rect x="102.7" y="24.0" width="34.6" height="92.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="102.7" y="184.0" width="61.3" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="194" y="30" width="268" height="28" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="194" y="92" width="268" height="214" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
   </g>
   <g id="pp13__branches" data-name="branches">
-    <line x1="80.0" y1="70.0" x2="80.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="190.0" x2="106.7" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="270.0" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="80.0" y1="250.0" x2="106.7" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="190.0" x2="133.3" y2="190.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="106.7" y1="310.0" x2="133.3" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="270.0" x2="160.0" y2="270.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="120.0" y1="44.0" x2="120.0" y2="171.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="106.0" x2="200.0" y2="237.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="275.0" y1="168.0" x2="275.0" y2="307.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="261.0" x2="345.0" y2="354.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="405.0" y1="230.0" x2="405.0" y2="292.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="120.0" y1="44.0" x2="455.0" y2="44.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="120.0" y1="171.9" x2="200.0" y2="171.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="106.0" x2="455.0" y2="106.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="200.0" y1="237.8" x2="275.0" y2="237.8" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="275.0" y1="168.0" x2="455.0" y2="168.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="275.0" y1="307.5" x2="345.0" y2="307.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="261.0" x2="405.0" y2="261.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="354.0" x2="455.0" y2="354.0" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="405.0" y1="230.0" x2="455.0" y2="230.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="405.0" y1="292.0" x2="455.0" y2="292.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+  </g>
+  <g data-name="asgard-eukarya-box">
+    <rect x="340" y="216" width="117" height="152" fill="none" stroke="#3F8FBF" stroke-width="1.2" stroke-dasharray="5 3" data-pp="eukaryote"/>
+    <text x="340" y="212" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Asgard + Eukarya</text>
   </g>
   <g id="pp13__nodes" data-name="nodes">
-    <circle cx="80.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="120.0" cy="108.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="200.0" cy="171.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="275.0" cy="237.8" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="345.0" cy="307.5" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="405.0" cy="261.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp13__labels" data-name="tip-labels">
-    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacA</text>
-    <text x="138.3" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacB</text>
-    <text x="138.3" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">ArcA</text>
-    <text x="165.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">AsgardA</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">EukA</text>
+    <text x="461.0" y="47.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacA</text>
+    <text x="461.0" y="109.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">EuryB</text>
+    <text x="461.0" y="171.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">TackA</text>
+    <text x="461.0" y="233.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">AsgA</text>
+    <text x="461.0" y="295.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">AsgB</text>
+    <text x="461.0" y="357.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">EukA</text>
+  </g>
+  <g data-name="domain-labels">
+    <text x="506.0" y="48.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Bacteria</text>
+    <text x="506.0" y="200.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Archaea</text>
+    <text x="506.0" y="357.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Eukarya</text>
+  </g>
+  <g data-name="legend">
+    <text x="90" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Eukarya is sister to Asgardarchaeota (E3 model)</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="380" y1="378" x2="470" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="380" y1="374" x2="380" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="470" y1="374" x2="470" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="425.0" y="392" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

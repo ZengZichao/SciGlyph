@@ -9,8 +9,8 @@
     <g id="hand" transform="translate(13.2 17.2) scale(0.72)">
       <path d="M54 86 L54 58 C54 54 56 52 58 52 C60 52 62 54 62 58 L62 50 C62 46 64 44 66 44 C68 44 70 46 70 50 L70 48 C70 44 72 42 74 42 C76 42 78 44 78 48 L78 56 C78 52 80 50 82 50 C84 50 86 52 86 56 L86 74 C86 84 78 92 68 92 L58 92 C56 92 54 90 54 86Z" fill="#33414F" data-ls="dark"/>
     </g>
-    <circle cx="64" cy="85" r="3.5" fill="#33414F" data-ls="dark"/>
-    <path d="M64 78 L64 71" stroke="#33414F" stroke-linecap="round" stroke-width="2" data-ls="dark"/>
-    <path d="M60.5 73.5 L64 69.5 L67.5 73.5" fill="none" stroke="#33414F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="dark"/></g>
+    <circle cx="64" cy="30" r="3.5" fill="#33414F" data-ls="dark"/>
+    <path d="M64 34 L64 42" stroke="#33414F" stroke-linecap="round" stroke-width="2" data-ls="dark"/>
+    <path d="M60.5 38 L64 42.5 L67.5 38" fill="none" stroke="#33414F" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" data-ls="dark"/></g>
   <g id="detail"></g>
 </svg>

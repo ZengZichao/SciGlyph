@@ -12,12 +12,12 @@
     <text x="179" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
     <rect x="200" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="219" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
-    <rect x="240" y="55" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="259" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="240" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
     <rect x="280" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="299" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
-    <rect x="320" y="55" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="339" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="320" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
     <rect x="360" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="379" y="75" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
     <rect x="400" y="55" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
@@ -29,11 +29,11 @@
     <text x="179" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
     <rect x="200" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="219" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
-    <rect x="240" y="87" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="259" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="240" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
     <rect x="280" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="299" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
-    <rect x="320" y="87" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="320" y="87" width="38" height="29" rx="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
     <text x="339" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">I</text>
     <rect x="360" y="87" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="379" y="107" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
@@ -42,16 +42,16 @@
     <text x="110" y="139" text-anchor="end" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Seq3</text>
     <rect x="120" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="139" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">M</text>
-    <rect x="160" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="160" y="119" width="38" height="29" rx="2" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5" />
     <text x="179" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">R</text>
     <rect x="200" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="219" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
-    <rect x="240" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="259" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="240" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
     <rect x="280" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="299" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
-    <rect x="320" y="119" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="339" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="320" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
     <rect x="360" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="379" y="139" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
     <rect x="400" y="119" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
@@ -63,12 +63,12 @@
     <text x="179" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
     <rect x="200" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="219" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
-    <rect x="240" y="151" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="259" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
+    <rect x="240" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="259" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
     <rect x="280" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="299" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
-    <rect x="320" y="151" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
-    <text x="339" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">L</text>
+    <rect x="320" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
     <rect x="360" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="379" y="171" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text>
     <rect x="400" y="151" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
@@ -80,12 +80,12 @@
     <text x="179" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">K</text>
     <rect x="200" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="219" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">T</text>
-    <rect x="240" y="183" width="38" height="29" rx="2" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="0.5" />
+    <rect x="240" y="183" width="38" height="29" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5" />
     <text x="259" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">A</text>
     <rect x="280" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
     <text x="299" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">L</text>
-    <rect x="320" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />
-    <text x="339" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">V</text>
+    <rect x="320" y="183" width="38" height="29" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
+    <text x="339" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">V</text>
     <rect x="360" y="183" width="38" height="29" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" />
     <text x="379" y="203" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">S</text>
     <rect x="400" y="183" width="38" height="29" rx="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5" />

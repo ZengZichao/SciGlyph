@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="双线合并连接" data-name-en="conn merge two" data-cat="arrows-connectors" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-41">双线合并连接 / conn_merge_two</title>
-  <desc id="d-41">双线合并输入连接。关键词: conn,merge,two,input</desc>
+  <title id="t-41">双线合并连接 / Conn Merge Two</title>
+  <desc id="d-41">双线合并输入连接</desc>
   <g id="g-41-双线合并连接">
     <line x1="14" y1="14" x2="50" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="14" y1="34" x2="50" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>

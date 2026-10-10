@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆锥" data-name-en="Cone" data-cat="geometry-math" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-40">圆锥 / cone</title>
-  <desc id="d-40">标注高h和底半径r。关键词: cone,solid,geometry</desc>
+  <title id="t-40">圆锥 / Cone</title>
+  <desc id="d-40">标注高h和底半径r</desc>
   <g id="g-40-圆锥">
     <line fill="none" x1="60" y1="15" x2="25" y2="95" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="60" y1="15" x2="95" y2="95" stroke="#1f2937" stroke-width="1.5"/>

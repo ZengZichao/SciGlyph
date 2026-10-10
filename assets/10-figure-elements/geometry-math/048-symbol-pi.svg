@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆周率π" data-name-en="Symbol Pi" data-cat="geometry-math" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">圆周率π / symbol_pi</title>
-  <desc id="d-48">圆内的π符号。关键词: pi,symbol,math</desc>
+  <title id="t-48">圆周率π / Symbol Pi</title>
+  <desc id="d-48">圆内的π符号</desc>
   <g id="g-48-圆周率π">
     <circle cx="60" cy="60" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="68" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" fill="#0072B2" text-anchor="middle" data-drole="series-1">π</text>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>蒸馏烧瓶</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>蒸馏烧瓶 / Flask Distilling</title>
   <path d="M10.5 3 L10.5 9 Q5 11 4 15 Q3 19 7 21 Q10 22 12 22 Q14 22 17 21 Q21 19 20 15 Q19 11 13.5 9 L13.5 3"/>
   <line x1="10" y1="3" x2="14" y2="3"/>
   <path d="M13.5 6 L19 4 L21 4" stroke-width="1.25"/>

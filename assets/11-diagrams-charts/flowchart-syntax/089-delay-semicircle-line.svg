@@ -6,6 +6,6 @@
   <title id="t">延迟半圆竖线 / Delay D-Shaped</title>
   <desc id="d">流程图延迟符号，D形半圆加竖线。</desc>
   <g id="body">
-    <path d="M30,20 L100,20 Q140,20 140,48 Q140,76 100,76 L30,76 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M30,20 L112,20 A28,28 0 0 1 112,76 L30,76 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
   </g>
 </svg>

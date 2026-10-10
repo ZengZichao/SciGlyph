@@ -13,7 +13,7 @@
     <circle cx="50" cy="65" r="8" fill="#5B8C3E" stroke="#1B2733" stroke-width="1.5" data-pp="virus"/>
     <rect x="45" y="62" width="10" height="3" rx="0.5" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
     <text x="50" y="65" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">gal</text>
-    <text x="50" y="35" text-anchor="middle" font-size="8" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">!</text>
+    <text x="50" y="35" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">不精确切出</text>
   </g>
   
   <g id="layer-annotation" data-name="annotation">

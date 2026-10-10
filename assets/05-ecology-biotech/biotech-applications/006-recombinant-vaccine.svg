@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="重组疫苗抗原表达" data-name-en="Recombinant Vaccine Antigen Expression" data-cat="05-eco-seq" data-tags="重组疫苗,质粒,基因工程,抗原表达,抗体,免疫应答" role="img" aria-labelledby="t-36-recombinant-vaccine d-36-recombinant-vaccine" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-36-recombinant-vaccine">重组疫苗抗原表达 / Recombinant Vaccine Antigen Expression</title>
-  <desc id="d-36-recombinant-vaccine">目的基因插入质粒转入工程菌表达并分泌抗原，抗原与佐剂配制成疫苗后诱导特异性抗体结合。关键词: 重组疫苗, 质粒, 基因工程, 抗原表达, 抗体, 免疫应答</desc>
+  <desc id="d-36-recombinant-vaccine">目的基因插入质粒转入工程菌表达并分泌抗原，抗原与佐剂配制成疫苗后诱导特异性抗体结合</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- ① 重组质粒（环形载体 + 插入的目的基因） -->
   <circle cx="22" cy="42" r="16" fill="none" stroke="#1F6F8B" stroke-width="3"/>

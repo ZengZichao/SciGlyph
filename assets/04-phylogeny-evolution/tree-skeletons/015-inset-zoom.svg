@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="树内嵌放大" data-name-en="Inset zoom" data-cat="04-phylo" data-tags="内嵌,放大,插图,inset,局部细节" aria-labelledby="t-15-inset-zoom d-15-inset-zoom" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-15-inset-zoom">树内嵌放大 / Inset zoom</title>
-  <desc id="d-15-inset-zoom">主树局部以红色虚线框标出，并由两条虚线引导连接到下方放大插图（inset），展示局部拓扑与支持度细节。关键词: 内嵌, 放大, 插图, inset, 局部细节</desc>
+  <desc id="d-15-inset-zoom">主树局部以红色虚线框标出，并由两条虚线引导连接到下方放大插图（inset），展示局部拓扑与支持度细节</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="4" width="112" height="112" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

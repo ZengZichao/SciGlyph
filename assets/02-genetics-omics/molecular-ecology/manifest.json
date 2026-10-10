@@ -304,7 +304,7 @@
    "category": "02-genetics-omics",
    "subdir": "molecular-ecology",
    "canvas": "0 0 600 400",
-   "desc": "LEfSe cladogram with differential taxa highlighted and LDA score bar. schematic. 关键词: microbial ecology, lefse, cladogram, differential, taxa, LDA, Evolutionary, Bacteroidota, Prevotella, Bacillota",
+   "desc": "LEfSe cladogram with differential taxa highlighted and LDA score bar. Cladogram is nested by taxonomy rank (phylum contains its genera); each taxon keeps one colour in both panels. schematic. 关键词: microbial ecology, lefse, cladogram, differential, taxa, LDA, Evolutionary, Bacteroidota, Prevotella, Bacillota",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -434,7 +434,7 @@
    "category": "02-genetics-omics",
    "subdir": "molecular-ecology",
    "canvas": "0 0 600 400",
-   "desc": "Predicted functional pathway abundance heatmap。 关键词: microbial ecology, picrust2 heatmap, pathways, Predicted, functional, abundance, Glycolysis",
+   "desc": "Predicted functional pathway abundance heatmap: rows = samples, columns = MetaCyc pathways, cell colour + number = predicted relative abundance (%), colour scale at right。 关键词: microbial ecology, picrust2 heatmap, pathways, Predicted, functional, abundance, Glycolysis",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -589,7 +589,7 @@
    "category": "02-genetics-omics",
    "subdir": "molecular-ecology",
    "canvas": "0 0 600 400",
-   "desc": "Fluorescence in situ hybridization with cell sorting。 关键词: microbial ecology, fish facs, FISH-FACS, sorting, Fluorescence, situ, hybridization, cell, Sorted",
+   "desc": "Sample 经 FISH 探针标记后由 FACS 分选（Sample → FISH → Sorted）\" —— 图内现已出现 \"FISH\" 步骤标签，desc",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

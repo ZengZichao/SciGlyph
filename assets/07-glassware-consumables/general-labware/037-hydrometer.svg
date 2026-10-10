@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="密度计" data-name-en="hydrometer" data-cat="lab-equipment" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">密度计 / hydrometer</title>
-  <desc id="d-39">测量液体密度和比重。关键词: 密度计,hydrometer,密度,比重</desc>
+  <title id="t-39">密度计 / Hydrometer</title>
+  <desc id="d-39">测量液体密度和比重</desc>
   <g id="g-39-密度计">
     <rect x="55" y="10" width="10" height="60" rx="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 50 70 Q 50 65 55 65 L 65 65 Q 70 65 70 70 L 70 90 Q 70 105 60 110 Q 50 105 50 90 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

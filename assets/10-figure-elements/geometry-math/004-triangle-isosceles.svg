@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="等腰三角形" data-name-en="Isosceles Triangle" data-cat="geometry-math" aria-labelledby="t-04 d-04" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-04">等腰三角形 / triangle_isosceles</title>
-  <desc id="d-04">两腰相等的三角形。关键词: triangle,isosceles,geometry</desc>
+  <title id="t-04">等腰三角形 / Isosceles Triangle</title>
+  <desc id="d-04">两腰相等的三角形</desc>
   <g id="g-04-等腰三角形">
     <polygon points="60,15 20,100 100,100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <line fill="none" x1="38" y1="58" x2="42" y2="62" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>

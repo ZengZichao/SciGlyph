@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="沉积物厌氧层" data-name-en="Anaerobic Sediment Zones" data-cat="05-eco-seq" data-tags="沉积物,厌氧层,硫酸盐还原,产甲烷,氧化还原界面" role="img" aria-labelledby="t-06-anaerobic-sediment d-06-anaerobic-sediment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-06-anaerobic-sediment">沉积物厌氧层 / Anaerobic Sediment Zones</title>
-  <desc id="d-06-anaerobic-sediment">沉积物自上而下由含氧层过渡到硫酸盐还原带与产甲烷带，硫粒沉积、甲烷与硫化氢气泡向上逸散。关键词: 沉积物, 厌氧层, 硫酸盐还原, 产甲烷, 氧化还原界面</desc>
+  <desc id="d-06-anaerobic-sediment">沉积物自上而下由含氧层过渡到硫酸盐还原带与产甲烷带，硫粒沉积、甲烷与硫化氢气泡向上逸散</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 上覆水体 -->
   <path d="M5 5 H115 V22 H5 Z" fill="#B7D7E8" fill-opacity="0.4" stroke="none"/>

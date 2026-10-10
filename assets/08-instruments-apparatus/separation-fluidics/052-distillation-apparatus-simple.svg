@@ -5,13 +5,13 @@
      data-tags="distillation,apparatus,simple,condenser,boiling" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">蒸馏装置 / Simple Distillation Apparatus</title>
   <desc id="d">蒸馏装置全套：热源+圆底瓶+蒸馏头+温度计+直形冷凝管+尾接管+接收瓶</desc>
-  <g id="body"><path d="M20 100 L40 100 L40 110 L20 110 Z" fill="#E02020" stroke="none" data-ls="danger"/>
+  <g transform="translate(0,-16)" id="body"><path d="M20 100 L40 100 L40 110 L20 110 Z" fill="#E02020" stroke="none" data-ls="danger"/>
     <path d="M24 80 Q24 100 34 100 Q44 100 44 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M30 80 L30 60 L38 60 L38 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M38 60 L60 60 L60 66 L38 66" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M60 56 L60 70 L90 70 L90 56 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M90 60 L100 60 L100 80 L94 80 L94 100 L80 100 L80 80 L90 80" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M32 60 L36 60 L36 50 L32 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  <g transform="translate(0,-16)" id="detail"><path d="M32 60 L36 60 L36 50 L32 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M32 54 L36 54 M32 58 L36 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <path d="M26 84 Q26 98 34 98 Q42 98 42 84 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
     <path d="M62 58 L88 58 L88 68 L62 68 Z" fill="#BFE0FF" opacity="0.4" stroke="none" data-ls="liquid"/>

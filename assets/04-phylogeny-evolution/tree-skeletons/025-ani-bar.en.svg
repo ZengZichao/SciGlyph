@@ -38,6 +38,6 @@
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="222.4" y="150.0">100</text>
     </g>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="18" font-size="9.5" fill="#2B3A42">ANI (%)</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="157.33" y="18" text-anchor="middle" font-size="9.5" fill="#C0504D">95% CI</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="157.33" y="18" text-anchor="middle" font-size="9.5" fill="#C0504D">95% threshold</text>
   </g>
 </svg>

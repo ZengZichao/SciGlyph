@@ -81,4 +81,10 @@
   <circle cx="490" cy="198" r="2.5" fill="#E8871E" data-pp="mge"/>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Synteny Dotplot — Genome Comparison (schematic)</text>
+<circle cx="418" cy="262" r="3" fill="#2E86AB" data-pp="bacteria"/>
+<text x="428" y="265" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Forward block</text>
+<circle cx="418" cy="280" r="3" fill="#A2305B" data-pp="archaea"/>
+<text x="428" y="283" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Inverted block</text>
+<circle cx="418" cy="298" r="3" fill="#E8871E" data-pp="mge"/>
+<text x="428" y="301" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Rearranged block</text>
 </svg>

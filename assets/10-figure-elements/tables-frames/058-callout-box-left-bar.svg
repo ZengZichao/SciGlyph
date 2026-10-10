@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="提示框带左粗色条" data-name-en="callout-box-left-bar" data-cat="tables-frames" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-58">提示框带左粗色条 / callout_box_left_bar</title>
-  <desc id="d-58">左侧粗色条提示框。关键词: 提示框,色条,注释</desc>
+  <title id="t-58">提示框带左粗色条 / Callout-Box-Left-Bar</title>
+  <desc id="d-58">左侧粗色条提示框</desc>
   <g id="g-58-提示框带左粗色条">
     <rect x="40" y="50" width="8" height="140" fill="#0072B2" data-drole="series-1"/>
     <rect x="48" y="50" width="232" height="140" fill="#e5e7eb"/>

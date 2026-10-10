@@ -15,7 +15,7 @@
     <text x="50" y="20" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">42°C</text>
     <circle cx="45" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
     <circle cx="55" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
-    <text x="50" y="70" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria">ice</text>
+    <text x="50" y="73" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria">ice</text>
   </g>
   
   <g id="layer-annotation" data-name="annotation">

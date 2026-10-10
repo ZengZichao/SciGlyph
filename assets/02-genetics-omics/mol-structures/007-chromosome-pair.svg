@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="染色体对" data-name-en="Chromosome Pair" data-cat="natural-sciences" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-07">染色体对 / chromosome_pair</title>
-  <desc id="d-07">展示同源染色体对。关键词: chromosome,homologous,pair</desc>
+  <title id="t-07">染色体对 / Chromosome Pair</title>
+  <desc id="d-07">展示同源染色体对</desc>
   <g id="g-07-染色体对">
     <path d="M40,15 C30,15 25,25 25,35 C25,45 30,50 40,55 C50,50 55,45 55,35 C55,25 50,15 40,15 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <path d="M40,55 C30,55 25,65 25,75 C25,85 30,95 40,105 C50,95 55,85 55,75 C55,65 50,55 40,55 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

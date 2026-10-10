@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="单细胞基因组" data-name-en="Single-Cell Genomics" data-cat="05-eco-seq" data-tags="单细胞基因组,微液滴,细胞条形码,多重置换扩增,不可培养菌" role="img" aria-labelledby="t-24-single-cell-genomics d-24-single-cell-genomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-24-single-cell-genomics">单细胞基因组 / Single-Cell Genomics</title>
-  <desc id="d-24-single-cell-genomics">单个细胞在微液滴内获得细胞条形码标记并经多重置换扩增取得基因组，用于解析不可培养微生物。关键词: 单细胞基因组, 微液滴, 细胞条形码, 多重置换扩增, 不可培养菌</desc>
+  <desc id="d-24-single-cell-genomics">单个细胞在微液滴内获得细胞条形码标记并经多重置换扩增取得基因组，用于解析不可培养微生物</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 微反应液滴 -->
   <circle cx="52" cy="54" r="36" fill="#B7D7E8" fill-opacity="0.3" stroke="#5FA8C7" stroke-width="1.6"/>

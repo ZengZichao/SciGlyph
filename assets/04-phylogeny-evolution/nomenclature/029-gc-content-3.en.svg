@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-gc_content d-gc_content" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-gc_content">GC content</title>
-  <desc id="d-gc_content">GC content scale from 30-70 mol% with marker 关键词: GC content, mol%, taxonomy</desc>
+  <desc id="d-gc_content">GC content scale from 30-70 mol% with marker</desc>
   
   <g id="layer-body" data-name="body">
     <line x1="15" y1="45" x2="85" y2="45" stroke="#1B2733" stroke-width="2" stroke-linecap="round" data-pp="ink"/>

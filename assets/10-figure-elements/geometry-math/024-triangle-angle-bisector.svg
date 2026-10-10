@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="角平分线" data-name-en="Triangle Angle Bisector" data-cat="geometry-math" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">角平分线 / triangle_angle_bisector</title>
-  <desc id="d-24">顶角的角平分线。关键词: triangle,bisector,geometry</desc>
+  <title id="t-24">角平分线 / Triangle Angle Bisector</title>
+  <desc id="d-24">顶角的角平分线</desc>
   <g id="g-24-角平分线">
     <polygon points="15,100 105,100 55,15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <line fill="none" x1="55" y1="15" x2="59" y2="100" stroke="#009E73" stroke-width="1.5" stroke-dasharray="4 3" data-drole="series-1"/>

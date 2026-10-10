@@ -11,7 +11,7 @@
   {
    "file": "001-cell-animal.svg",
    "name_zh": "动物细胞",
-   "name_en": "Animal Cell",
+   "name_en": "Animal cell",
    "tags": [
     "animal cell",
     "organelle",
@@ -33,7 +33,7 @@
   {
    "file": "002-cell-plant.svg",
    "name_zh": "植物细胞",
-   "name_en": "Plant Cell",
+   "name_en": "Plant cell",
    "tags": [
     "plant cell",
     "cell wall",
@@ -55,7 +55,7 @@
   {
    "file": "003-nucleus-cell.svg",
    "name_zh": "细胞核",
-   "name_en": "Cell Nucleus",
+   "name_en": "Nucleus",
    "tags": [
     "nucleus",
     "nuclear envelope",
@@ -118,7 +118,7 @@
   {
    "file": "006-er-rough.svg",
    "name_zh": "粗面内质网",
-   "name_en": "Rough Er",
+   "name_en": "Rough endoplasmic reticulum",
    "tags": [
     "rough er",
     "ribosome",
@@ -161,7 +161,7 @@
   {
    "file": "008-ribosome-subunits.svg",
    "name_zh": "核糖体",
-   "name_en": "Ribosome Subunits",
+   "name_en": "Ribosomal subunits",
    "tags": [
     "ribosome",
     "subunit",
@@ -183,7 +183,7 @@
   {
    "file": "009-lysosome-vacuole.svg",
    "name_zh": "溶酶体液泡",
-   "name_en": "Lysosome Vacuole",
+   "name_en": "Lysosome and vacuole",
    "tags": [
     "lysosome",
     "vacuole",
@@ -204,7 +204,7 @@
   {
    "file": "010-cytoskeleton-filaments.svg",
    "name_zh": "细胞骨架",
-   "name_en": "Cytoskeleton Filaments",
+   "name_en": "Cytoskeletal filaments",
    "tags": [
     "cytoskeleton",
     "microtubule",
@@ -226,7 +226,7 @@
   {
    "file": "011-centrosome-centrioles.svg",
    "name_zh": "中心体",
-   "name_en": "Centrosome Centrioles",
+   "name_en": "Centrosome with centrioles",
    "tags": [
     "centrosome",
     "centriole",
@@ -248,7 +248,7 @@
   {
    "file": "012-fungus-hyphae.svg",
    "name_zh": "菌丝与孢子",
-   "name_en": "Fungus Hyphae",
+   "name_en": "Fungal hyphae and spores",
    "tags": [
     "fungus",
     "hyphae",
@@ -269,7 +269,7 @@
   {
    "file": "013-yeast-budding.svg",
    "name_zh": "出芽酵母",
-   "name_en": "Yeast Budding",
+   "name_en": "Budding yeast",
    "tags": [
     "yeast",
     "budding",
@@ -290,7 +290,7 @@
   {
    "file": "014-protozoan-amoeba.svg",
    "name_zh": "变形虫",
-   "name_en": "Protozoan Amoeba",
+   "name_en": "Amoeba",
    "tags": [
     "amoeba",
     "protozoan",
@@ -331,7 +331,7 @@
   {
    "file": "016-neuron-neuron.svg",
    "name_zh": "神经元与突触",
-   "name_en": "Neuron Neuron",
+   "name_en": "Neuron and synapse",
    "tags": [
     "neuron",
     "synapse",
@@ -352,7 +352,7 @@
   {
    "file": "017-synapse-detail.svg",
    "name_zh": "突触放大",
-   "name_en": "Synapse Detail",
+   "name_en": "Synapse",
    "tags": [
     "synapse",
     "neurotransmitter",
@@ -374,7 +374,7 @@
   {
    "file": "018-muscle-fiber-sarcomere.svg",
    "name_zh": "肌节",
-   "name_en": "Muscle Fiber Sarcomere",
+   "name_en": "Sarcomere",
    "tags": [
     "sarcomere",
     "muscle fiber",
@@ -417,7 +417,7 @@
   {
    "file": "020-alveolus-capillary.svg",
    "name_zh": "肺泡-毛细血管",
-   "name_en": "Alveolus Capillary",
+   "name_en": "Alveolus-capillary gas exchange",
    "tags": [
     "alveolus",
     "capillary",
@@ -430,7 +430,7 @@
    "category": "01-cells-microbes",
    "subdir": "eukaryotic-cells-organelles",
    "canvas": "0 0 160 120",
-   "desc": "展示肺泡-毛细血管气体交换",
+   "desc": "展示肺泡与毛细血管间的气体交换（呼吸膜、O2 入血、CO2 入肺泡）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -438,7 +438,7 @@
   {
    "file": "021-heart-chamber-simple.svg",
    "name_zh": "心脏四腔",
-   "name_en": "Heart Chamber Simple",
+   "name_en": "Four-chambered heart",
    "tags": [
     "heart",
     "chamber",
@@ -461,7 +461,7 @@
   {
    "file": "022-blood-vessel-cut.svg",
    "name_zh": "血管壁剖面",
-   "name_en": "Blood Vessel Cut",
+   "name_en": "Blood vessel wall",
    "tags": [
     "blood vessel",
     "artery",
@@ -531,7 +531,7 @@
   {
    "file": "025-neuron-reflex-arc.svg",
    "name_zh": "反射弧",
-   "name_en": "Neuron Reflex Arc",
+   "name_en": "Reflex arc",
    "tags": [
     "reflex arc",
     "sensory",
@@ -547,7 +547,7 @@
    "category": "01-cells-microbes",
    "subdir": "eukaryotic-cells-organelles",
    "canvas": "0 0 480 360",
-   "desc": "展示反射弧路径",
+   "desc": "展示反射弧五要素：感受器—传入神经（背根神经节）—神经中枢（脊髓）—传出神经—效应器",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -555,7 +555,7 @@
   {
    "file": "026-plant-vascular-xylem.svg",
    "name_zh": "木质部导管",
-   "name_en": "Plant Vascular Xylem",
+   "name_en": "Xylem vessel elements",
    "tags": [
     "xylem",
     "vascular",

@@ -14,6 +14,6 @@
     <path d="M35,70 Q50,75 65,70" fill="none" stroke="#93A0AC" stroke-width="1" stroke-dasharray="2,2" data-pp="muted"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">activated sludge</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Activated sludge</text>
   </g>
 </svg>

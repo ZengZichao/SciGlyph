@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="纳米孔测序孔道" data-name-en="Nanopore Sequencing Channel" data-cat="05-eco-seq" data-tags="纳米孔,测序,孔道,脂双层,DNA过孔,离子电流,马达蛋白" role="img" aria-labelledby="t-25-nanopore d-25-nanopore" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-25-nanopore">纳米孔测序孔道 / Nanopore Sequencing Channel</title>
-  <desc id="d-25-nanopore">DNA 链在马达蛋白牵引下穿过脂双层上的收缩型孔道，碱基依次阻塞孔道引起离子电流变化实现实时测序。关键词: 纳米孔, 测序, 孔道, 脂双层, DNA过孔, 离子电流, 马达蛋白</desc>
+  <desc id="d-25-nanopore">DNA 链在马达蛋白牵引下穿过脂双层上的收缩型孔道，碱基依次阻塞孔道引起离子电流变化实现实时测序</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 脂双层膜：磷脂头基与脂肪酸尾 -->
   <path d="M8 54 V68 M17 54 V68 M26 54 V68 M35 54 V68 M44 54 V68 M75 54 V68 M84 54 V68 M93 54 V68 M102 54 V68 M111 54 V68" stroke="#1F6F8B" stroke-width="1.2"/>

@@ -6,7 +6,7 @@
         <rect x="5" y="15" width="20" height="15" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
     <text x="15.0" y="24.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">URE</text>
         <rect x="30" y="15" width="20" height="15" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" />
-    <text x="40.0" y="24.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CAT</text>
+    <text x="40.0" y="24.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">CAT</text>
         <rect x="55" y="15" width="20" height="15" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
     <text x="65.0" y="24.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">OX</text>
         <rect x="80" y="15" width="15" height="15" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
@@ -18,9 +18,9 @@
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="17.86" y="42.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">urea→NH₃</text>
-    <line x1="40.0" y1="39.9" x2="50.0" y2="39.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="50.0" y="42.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">H₂O₂→O₂</text>
-    <line x1="65.0" y1="39.9" x2="68.47" y2="46.46" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="78.47" y="48.56" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">O₂→H₂O</text><line x1="56.87" y1="46.74" x2="65.87" y2="44.52" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
-    <line x1="84.5" y1="45.9" x2="79.97" y2="53.05" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="79.97" y="56.14" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">NO₃⁻→NO₂⁻</text>
+    <text x="25" y="50.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">H₂O₂→O₂</text>
+    <text x="65" y="42.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">O₂→H₂O</text>
+    <text x="79.97" y="50.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">NO₃⁻→NO₂⁻</text>
     <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">+ / - tests</text>
     <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">API / Enterotube</text>
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">for bacterial ID</text>

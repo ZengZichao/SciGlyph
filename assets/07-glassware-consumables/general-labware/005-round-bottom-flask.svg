@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆底烧瓶" data-name-en="round_bottom_flask" data-cat="lab-equipment" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-05">圆底烧瓶 / round_bottom_flask</title>
-  <desc id="d-05">回流和减压蒸馏反应。关键词: 圆底烧瓶,flask,回流,蒸馏</desc>
+  <title id="t-05">圆底烧瓶 / Round_Bottom_Flask</title>
+  <desc id="d-05">回流和减压蒸馏反应</desc>
   <g id="g-05-圆底烧瓶">
     <path d="M 53 12 L 53 45 Q 25 55 25 80 Q 25 108 60 108 Q 95 108 95 80 Q 95 55 67 45 L 67 12 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 30 78 Q 30 108 60 108 Q 90 108 90 78 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

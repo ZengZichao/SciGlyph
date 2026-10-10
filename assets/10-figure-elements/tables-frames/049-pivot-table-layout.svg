@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="透视表布局" data-name-en="pivot-table-layout" data-cat="tables-frames" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">透视表布局 / pivot_table_layout</title>
-  <desc id="d-49">透视表布局结构。关键词: 透视表,布局,汇总</desc>
+  <title id="t-49">透视表布局 / Pivot-Table-Layout</title>
+  <desc id="d-49">透视表布局结构</desc>
   <g id="g-49-透视表布局">
     <line x1="40" y1="30" x2="360" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="60" x2="360" y2="60" stroke="#1f2937" stroke-width="1.5" fill="none"/>

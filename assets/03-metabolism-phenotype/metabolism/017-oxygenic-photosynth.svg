@@ -28,7 +28,7 @@
   <g id="layer-annotation" data-name="annotation">
         <line x1="18" y1="36" x2="18" y2="56" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp17__ar)"/>
         <line x1="69" y1="36" x2="69" y2="56" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp17__ar)"/>
-    <text x="18" y="85" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H₂O→O₂</text>
+    <text x="18" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H₂O→O₂</text>
     <text x="50" y="48" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">e⁻ flow</text>
     <text x="50" y="15" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Z-scheme</text>
   </g>

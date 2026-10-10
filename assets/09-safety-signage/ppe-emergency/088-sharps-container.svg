@@ -6,11 +6,11 @@
   <title id="t">利器盒 / Sharps Container</title>
   <desc id="d">利器盒，投放口、满刻度线、不可回收标识。</desc>
   <g id="body"><path d="M32 24 L32 108 Q32 116 40 116 L88 116 Q96 116 96 108 L96 24 Z" fill="#E02020" opacity="0.2" stroke="none" data-ls="danger"/>
-     <path d="M32 24 L32 108 Q32 116 40 116 L88 116 Q96 116 96 108 L96 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M32 24 L32 108 Q32 116 40 116 L88 116 Q96 116 96 108 L96 24 Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <rect x="44" y="24" width="40" height="8" rx="2" fill="#33414F" stroke="none" data-ls="dark"/></g>
   <g id="detail"><rect x="52" y="26" width="24" height="4" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M36 80 L92 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-     <path d="M48 90 L80 90" fill="#E02020" stroke="none" data-ls="danger"/>
-     <path d="M48 96 L80 96" fill="#E02020" stroke="none" data-ls="danger"/>
-     <path d="M56 100 L72 100" fill="#E02020" stroke="none" data-ls="danger"/></g>
+     <path d="M48 90 L80 90" fill="none" stroke="#E02020" stroke-width="2.5" stroke-linecap="round" data-ls="danger"/>
+     <path d="M48 96 L80 96" fill="none" stroke="#E02020" stroke-width="2.5" stroke-linecap="round" data-ls="danger"/>
+     <path d="M56 100 L72 100" fill="none" stroke="#E02020" stroke-width="2.5" stroke-linecap="round" data-ls="danger"/></g>
 </svg>

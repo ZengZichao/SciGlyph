@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="流动镶嵌模型" data-name-en="Fluid Mosaic Sketch" data-cat="natural-sciences" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-25">流动镶嵌模型 / fluid_mosaic_sketch</title>
-  <desc id="d-25">展示细胞膜流动镶嵌模型。关键词: fluid mosaic,membrane,protein</desc>
+  <title id="t-25">流动镶嵌模型 / Fluid Mosaic Sketch</title>
+  <desc id="d-25">展示细胞膜流动镶嵌模型</desc>
   <g id="g-25-流动镶嵌模型">
     <rect x="20" y="100" width="280" height="40" fill="#e5e7eb" stroke="none"/>
     <circle cx="50" cy="90" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

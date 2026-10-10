@@ -28,7 +28,7 @@
   <g id="layer-annotation-myoviridae" data-name="annotation">
     <text x="70" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">head</text>
     <text x="60" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">sheath</text>
-    <text x="60.44" y="72.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">baseplate</text>
+    <text x="60.44" y="65.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">baseplate</text>
     <text x="74" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">fiber</text>
   </g>
 </svg>

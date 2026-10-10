@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="三列看板" data-name-en="kanban-3col" data-cat="flowchart-logic" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-43">三列看板 / kanban_3col</title>
-  <desc id="d-43">三列看板面板。关键词: kanban,board</desc>
+  <title id="t-43">三列看板 / Kanban-3Col</title>
+  <desc id="d-43">三列看板面板</desc>
   <g id="g-43-三列看板">
     <rect x="10" y="10" width="96" height="220" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="112" y="10" width="96" height="220" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

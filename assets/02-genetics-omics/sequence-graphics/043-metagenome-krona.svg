@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-metagenome_krona d-metagenome_krona" data-license="CC-BY-4.0" data-copyright="ZengZichao">
 <title id="t-metagenome_krona">宏基因组同心环分类图 / Metagenome Krona-style Concentric Ring</title>
-<desc id="d-metagenome_krona">Krona 式同心环分类图骨架。关键词: Krona, metagenome, taxonomy, concentric, ring</desc>
-<g data-name="body"><rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg" />
+<desc id="d-metagenome_krona">Krona 式同心环分类图骨架：根(Sample)在圆心，环由内向外为 Domain、Phylum、Class，子弧角度区间完整落在父弧内，弧长正比于相对丰度。关键词: Krona, metagenome, taxonomy, concentric, ring</desc>
+<g data-name="body">
+<rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg" />
 <text x="200" y="22" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Metagenome Taxonomy (Krona-style)</text>
-<path d="M200.0,70.0 L200.0,50.0 A160,160 0 0,1 338.6,290.0 L321.2,280.0 A140,140 0 0,0 200.0,70.0 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M321.2,280.0 L338.6,290.0 A160,160 0 0,1 145.3,360.4 L152.1,341.6 A140,140 0 0,0 321.2,280.0 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M152.1,341.6 L145.3,360.4 A160,160 0 0,1 200.0,50.0 L200.0,70.0 A140,140 0 0,0 152.1,341.6 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M200.0,100.0 L200.0,80.0 A130,130 0 0,1 312.6,145.0 L295.3,155.0 A110,110 0 0,0 200.0,100.0 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M295.3,155.0 L312.6,145.0 A130,130 0 0,1 312.6,275.0 L295.3,265.0 A110,110 0 0,0 295.3,155.0 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M295.3,265.0 L312.6,275.0 A130,130 0 0,1 244.5,332.2 L237.6,313.4 A110,110 0 0,0 295.3,265.0 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M237.6,313.4 L244.5,332.2 A130,130 0 0,1 87.4,275.0 L104.7,265.0 A110,110 0 0,0 237.6,313.4 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M104.7,265.0 L87.4,275.0 A130,130 0 0,1 87.4,145.0 L104.7,155.0 A110,110 0 0,0 104.7,265.0 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M104.7,155.0 L87.4,145.0 A130,130 0 0,1 200.0,80.0 L200.0,100.0 A110,110 0 0,0 104.7,155.0 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M200.0,130.0 L200.0,110.0 A100,100 0 0,1 264.3,133.4 L251.4,148.7 A80,80 0 0,0 200.0,130.0 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M251.4,148.7 L264.3,133.4 A100,100 0 0,1 294.0,175.8 L275.2,182.6 A80,80 0 0,0 251.4,148.7 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M275.2,182.6 L294.0,175.8 A100,100 0 0,1 286.6,260.0 L269.3,250.0 A80,80 0 0,0 275.2,182.6 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M269.3,250.0 L286.6,260.0 A100,100 0 0,1 250.0,296.6 L240.0,279.3 A80,80 0 0,0 269.3,250.0 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M240.0,279.3 L250.0,296.6 A100,100 0 0,1 165.8,304.0 L172.6,285.2 A80,80 0 0,0 240.0,279.3 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M172.6,285.2 L165.8,304.0 A100,100 0 0,1 113.4,260.0 L130.7,250.0 A80,80 0 0,0 172.6,285.2 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M130.7,250.0 L113.4,260.0 A100,100 0 0,1 101.5,192.6 L121.2,196.1 A80,80 0 0,0 130.7,250.0 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M121.2,196.1 L101.5,192.6 A100,100 0 0,1 135.7,133.4 L148.6,148.7 A80,80 0 0,0 121.2,196.1 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<path d="M148.6,148.7 L135.7,133.4 A100,100 0 0,1 200.0,110.0 L200.0,130.0 A80,80 0 0,0 148.6,148.7 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5" />
-<circle cx="200" cy="210" r="30" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1" />
-<text x="200" y="214" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sample</text>
-<text x="200" y="45" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Domain</text>
-<text x="200" y="75" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Phylum</text>
-<text x="200" y="105" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Class</text></g></svg>
+<path d="M200.00,98.00 L200.00,78.00 A118,118 0 0,1 295.46,126.64 L279.28,138.40 A98,98 0 0,0 200.00,98.00 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M279.28,138.40 L295.46,126.64 A118,118 0 0,1 317.77,188.59 L297.81,189.85 A98,98 0 0,0 279.28,138.40 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M297.81,189.85 L317.77,188.59 A118,118 0 0,1 295.46,265.36 L279.28,253.60 A98,98 0 0,0 297.81,189.85 Z" fill="#5B8C3E" data-pp="virus" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M279.28,253.60 L295.46,265.36 A118,118 0 0,1 263.23,295.63 L252.51,278.74 A98,98 0 0,0 279.28,253.60 Z" fill="#5B8C3E" data-pp="virus" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M252.51,278.74 L263.23,295.63 A118,118 0 0,1 163.54,308.22 L169.72,289.20 A98,98 0 0,0 252.51,278.74 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M169.72,289.20 L163.54,308.22 A118,118 0 0,1 84.09,218.11 L103.74,214.36 A98,98 0 0,0 169.72,289.20 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M103.74,214.36 L84.09,218.11 A118,118 0 0,1 96.60,139.15 L114.12,148.79 A98,98 0 0,0 103.74,214.36 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M114.12,148.79 L96.60,139.15 A118,118 0 0,1 119.22,109.98 L132.91,124.56 A98,98 0 0,0 114.12,148.79 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M132.91,124.56 L119.22,109.98 A118,118 0 0,1 143.15,92.60 L152.79,110.12 A98,98 0 0,0 132.91,124.56 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M152.79,110.12 L143.15,92.60 A118,118 0 0,1 200.00,78.00 L200.00,98.00 A98,98 0 0,0 152.79,110.12 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.34" stroke="#F4F1EA" stroke-width="1" />
+<path d="M200.00,124.00 L200.00,104.00 A92,92 0 0,1 291.82,190.22 L271.86,191.48 A72,72 0 0,0 200.00,124.00 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M271.86,191.48 L291.82,190.22 A92,92 0 0,1 249.30,273.68 L238.58,256.79 A72,72 0 0,0 271.86,191.48 Z" fill="#5B8C3E" data-pp="virus" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M238.58,256.79 L249.30,273.68 A92,92 0 0,1 171.57,283.50 L177.75,264.48 A72,72 0 0,0 238.58,256.79 Z" fill="#00857A" data-pp="metabolism" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M177.75,264.48 L171.57,283.50 A92,92 0 0,1 109.63,213.24 L129.28,209.49 A72,72 0 0,0 177.75,264.48 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M129.28,209.49 L109.63,213.24 A92,92 0 0,1 119.38,151.68 L136.91,161.31 A72,72 0 0,0 129.28,209.49 Z" fill="#C42D2D" data-pp="alert" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M136.91,161.31 L119.38,151.68 A92,92 0 0,1 155.68,115.38 L165.31,132.91 A72,72 0 0,0 136.91,161.31 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M165.31,132.91 L155.68,115.38 A92,92 0 0,1 200.00,104.00 L200.00,124.00 A72,72 0 0,0 165.31,132.91 Z" fill="#E8871E" data-pp="mge" fill-opacity="0.50" stroke="#F4F1EA" stroke-width="1" />
+<path d="M200.00,150.00 L200.00,130.00 A66,66 0 1,1 179.60,258.77 L185.79,239.75 A46,46 0 1,0 200.00,150.00 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.62" stroke="#F4F1EA" stroke-width="1" />
+<path d="M185.79,239.75 L179.60,258.77 A66,66 0 0,1 142.16,164.20 L159.69,173.84 A46,46 0 0,0 185.79,239.75 Z" fill="#A2305B" data-pp="archaea" fill-opacity="0.62" stroke="#F4F1EA" stroke-width="1" />
+<path d="M159.69,173.84 L142.16,164.20 A66,66 0 0,1 200.00,130.00 L200.00,150.00 A46,46 0 0,0 159.69,173.84 Z" fill="#6C3FA0" data-pp="gene" fill-opacity="0.62" stroke="#F4F1EA" stroke-width="1" />
+<circle cx="200.0" cy="196.0" r="40" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="1" />
+<text x="200.0" y="199.2" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sample</text>
+<text x="255.31" y="207.96" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">55%</text>
+<line x1="316.55" y1="214.46" x2="324.45" y2="215.71" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+<text x="327.45" y="218.91" text-anchor="start" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacteria</text>
+<text x="147.93" y="219.81" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">28%</text>
+<line x1="90.29" y1="239.44" x2="82.85" y2="242.38" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+<text x="79.85" y="245.58" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Archaea</text>
+<text x="171.49" y="151.00" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">17%</text>
+<line x1="139.93" y1="94.43" x2="135.86" y2="87.55" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-linecap="round"/>
+<text x="132.86" y="90.75" text-anchor="end" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Eukarya</text>
+<text x="200" y="348" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Rings inner to outer: Domain, Phylum, Class</text>
+<text x="200" y="366" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Arc angle = relative abundance (schematic)</text>
+</g></svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="复制叉" data-name-en="DNA Replication Fork" data-cat="natural-sciences" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-02">复制叉 / dna_replication_fork</title>
-  <desc id="d-02">展示DNA复制叉及解旋过程。关键词: dna,replication,fork,helicase</desc>
+  <title id="t-02">复制叉 / Dna Replication Fork</title>
+  <desc id="d-02">展示DNA复制叉及解旋过程</desc>
   <g id="g-02-复制叉">
     <path d="M20,180 L120,120" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
     <path d="M20,200 L120,140" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
@@ -8,10 +8,10 @@
     <path d="M120,140 C160,140 180,160 220,180" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
     <path d="M220,40 C260,20 280,20 300,20" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
     <path d="M220,180 C260,200 280,200 300,200" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
-    <line x1="40" y1="185" x2="40" y2="195" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <line x1="60" y1="175" x2="60" y2="185" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
-    <line x1="80" y1="165" x2="80" y2="175" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <line x1="100" y1="155" x2="100" y2="165" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="40" y1="168" x2="40" y2="188" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="60" y1="156" x2="60" y2="176" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
+    <line x1="80" y1="144" x2="80" y2="164" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <line x1="100" y1="132" x2="100" y2="152" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
     <circle cx="120" cy="130" r="12" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
     <line x1="240" y1="30" x2="240" y2="40" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
     <line x1="260" y1="25" x2="260" y2="35" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>

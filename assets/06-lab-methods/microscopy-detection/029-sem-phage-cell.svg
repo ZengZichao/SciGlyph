@@ -12,8 +12,8 @@
     <line x1="35" y1="36" x2="35" y2="44" stroke="#1B2733" stroke-width="0.8"/>
     <polygon points="60,22 65,18 65,26 60,30 55,26 55,18" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
     <line x1="60" y1="30" x2="60" y2="40" stroke="#1B2733" stroke-width="0.8"/>
-    <polygon points="75,30 80,26 80,34 75,38 70,34 70,26" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
-    <line x1="75" y1="38" x2="75" y2="44" stroke="#1B2733" stroke-width="0.8"/>
+    <polygon points="75,27 80,23 80,31 75,35 70,31 70,23" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <line x1="75" y1="35" x2="75" y2="41" stroke="#1B2733" stroke-width="0.8"/>
   </g>
   <g id="layer-annotation-sem_phage_cell" data-name="annotation">
     <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">SEM phage on cell</text>

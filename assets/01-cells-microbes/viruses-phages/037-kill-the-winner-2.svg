@@ -16,6 +16,6 @@
   <g id="layer-annotation-kill_the_winner" data-name="annotation">
     <text x="24" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">host</text>
     <text x="52" y="14" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">phage</text>
-    <text x="82.14" y="90.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">time</text>
+    <text x="82.14" y="90.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted" text-anchor="start">time</text>
   </g>
 </svg>

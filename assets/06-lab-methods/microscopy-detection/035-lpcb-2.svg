@@ -18,6 +18,6 @@
   </g>
   <g id="layer-annotation-lpcb" data-name="annotation">
     <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="39.56" y="84.96">lactophenol cotton</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="41.32" y="93.22">blue</text>
-    <text x="42.63" y="77.53" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">fungal mount</text><line x1="25.8" y1="90.22" x2="17.43" y2="73.49" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text x="50" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">fungal mount</text>
   </g>
 </svg>

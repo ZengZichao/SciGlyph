@@ -5,7 +5,7 @@
   <desc id="d-morphology_spectrum">病毒四种基本形态：二十面体对称(icosahedral)、螺旋对称(helical/filament)、包膜多形性(enveloped pleomorphic)、复杂头尾复合体(complex head-tail)。关键词: virus morphology, icosahedral, helical, enveloped, complex</desc>
   <g id="layer-body-morphology_spectrum" data-name="body">
     <!-- Icosahedral -->
-    <polygon points="15,25 22,20 22,30 15,35 8,30 8,20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <polygon points="15,15 22,20 22,30 15,35 8,30 8,20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
     <text x="15" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">ico</text>
     <!-- Helical filament -->
     <rect x="32" y="22" width="18" height="10" rx="5" ry="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
@@ -19,7 +19,7 @@
     <!-- Complex head-tail -->
     <polygon points="88,18 94,22 94,28 88,32 82,28 82,22" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
     <line x1="88" y1="32" x2="88" y2="40" stroke="#1B2733" stroke-width="1"/>
-    <text x="90.0" y="49.42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">h-t</text>
+    <text x="84.31" y="49.42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">complex</text>
   </g>
   <g id="layer-annotation-morphology_spectrum" data-name="annotation">
     <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="35.22" y="60.0">Virus morphology</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="37.39" y="68.26">spectrum</text>

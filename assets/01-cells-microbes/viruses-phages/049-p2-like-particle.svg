@@ -19,7 +19,7 @@
   </g>
   <g id="layer-annotation-p2_like_particle" data-name="annotation">
     <text x="68" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">P2-like</text>
-    <line x1="60.0" y1="44.9" x2="51.76" y2="44.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="47.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">contractile</text>
-    <text x="62.82" y="54.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">tail</text>
+    <line x1="60.0" y1="44.9" x2="55.0" y2="44.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="55.0" y="47.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">tail</text>
+    <text x="62.82" y="54.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">sheath</text>
   </g>
 </svg>

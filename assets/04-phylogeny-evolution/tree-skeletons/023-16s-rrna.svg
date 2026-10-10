@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="16S rRNA 基因与拷贝" data-name-en="16S rRNA gene copies" data-cat="04-phylo" data-tags="16S rRNA,基因拷贝,操纵子,分类标记,染色体" aria-labelledby="t-23-16s-rrna d-23-16s-rrna" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-23-16s-rrna">16S rRNA 基因与拷贝 / 16S rRNA gene copies</title>
-  <desc id="d-23-16s-rrna">环状染色体上以粗弧与箭头标注多个 16S rRNA 基因拷贝（rRNA 操纵子）及其转录方向，下方为茎环发卡结构示意。关键词: 16S rRNA, 基因拷贝, 操纵子, 分类标记, 染色体</desc>
+  <desc id="d-23-16s-rrna">环状染色体上以粗弧与箭头标注多个 16S rRNA 基因拷贝（rRNA 操纵子）及其转录方向，下方为茎环发卡结构示意</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <circle cx="56" cy="52" r="34" fill="#DCEEE4" fill-opacity="0.35" stroke="#7A8B93" stroke-width="1.4"/>

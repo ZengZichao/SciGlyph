@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-gradient-pcr" data-cat="ls" data-spec="128" data-tags="gradient,pcr,cycler,annealing,optimization,dual,zone" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-gradient-pcr" data-cat="ls" data-spec="128" data-tags="gradient,pcr,cycler,annealing,optimization,dual,zone" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">梯度PCR仪 / Gradient PCR Cycler</title>
   <desc id="d">梯度PCR仪：双温度区96孔块，可设置温度梯度。</desc>
   <g id="body">

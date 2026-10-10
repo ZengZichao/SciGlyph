@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="支路抽头连接" data-name-en="conn bracket tap" data-cat="arrows-connectors" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">支路抽头连接 / conn_bracket_tap</title>
-  <desc id="d-42">主线支路抽头连接。关键词: conn,bracket,tap,branch</desc>
+  <title id="t-42">支路抽头连接 / Conn Bracket Tap</title>
+  <desc id="d-42">主线支路抽头连接</desc>
   <g id="g-42-支路抽头连接">
-    <line x1="10" y1="24" x2="82" y2="24" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="50" y1="24" x2="50" y2="38" stroke="#1f2937" stroke-width="1.5" fill="none"/>
-    <polygon points="44,36 50,42 56,36" fill="#1f2937"/>
+    <line x1="10" y1="15" x2="82" y2="15" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <line x1="50" y1="15" x2="50" y2="29" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polygon points="44,27 50,33 56,27" fill="#1f2937"/>
   </g>
 </svg>

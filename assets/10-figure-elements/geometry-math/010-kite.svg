@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="筝形" data-name-en="Kite" data-cat="geometry-math" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-10">筝形 / kite</title>
-  <desc id="d-10">邻边两两相等的四边形。关键词: kite,quadrilateral,geometry</desc>
+  <title id="t-10">筝形 / Kite</title>
+  <desc id="d-10">邻边两两相等的四边形</desc>
   <g id="g-10-筝形">
     <polygon points="60,16 95,52 60,104 25,52" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <line fill="none" x1="60" y1="16" x2="60" y2="104" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>

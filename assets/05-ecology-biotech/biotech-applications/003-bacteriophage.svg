@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="噬菌体侵染裂解周期" data-name-en="Bacteriophage Lytic Cycle" data-cat="05-eco-seq" data-tags="噬菌体,裂解周期,吸附,注入,生物合成,装配,裂解,尾丝" role="img" aria-labelledby="t-33-bacteriophage d-33-bacteriophage" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-33-bacteriophage">噬菌体侵染裂解周期 / Bacteriophage Lytic Cycle</title>
-  <desc id="d-33-bacteriophage">完整五步裂解周期：①吸附尾丝识别宿主受体，②注入核酸，③合成衣壳与基因组，④装配子代噬菌体，⑤裂解宿主释放子代并再感染。关键词: 噬菌体, 裂解周期, 吸附, 注入, 生物合成, 装配, 裂解, 尾丝</desc>
+  <desc id="d-33-bacteriophage">完整五步裂解周期：①吸附尾丝识别宿主受体，②注入核酸，③合成衣壳与基因组，④装配子代噬菌体，⑤裂解宿主释放子代并再感染</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- ① 吸附 -->
   <rect x="6" y="20" width="30" height="42" rx="4" fill="#E8B04B" fill-opacity="0.08" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="3 2"/>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="MCC 树与节点后验" data-name-en="MCC tree" data-cat="04-phylo" data-tags="最大枝可信度树,MCC,后验,节点标注,支长加宽" aria-labelledby="t-22-mcc-tree d-22-mcc-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="MCC 树与节点后验" data-name-en="MCC tree" data-cat="04-phylo" data-tags="最大枝可信度树,MCC,后验,节点标注,支长加宽" aria-labelledby="t-22-mcc-tree d-22-mcc-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-22-mcc-tree">MCC tree</title>
   <desc id="d-22-mcc-tree">2.0 / 1.2 px），右侧折线给出 4 个内部节点各自的后验 clade credibility。关键词: 最大枝可信度树, MCC, 后验, 节点标注, 支长加宽</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
@@ -38,9 +37,9 @@
     </g>
     <g font-size="9" fill="#2B3A42">
       <path d="M 16 134 H 40" fill="none" stroke="#5B4B8A" stroke-width="3" />
-      <text font-family="Inter,Helvetica,Arial,sans-serif" x="45" y="137">high</text>
-      <path d="M 66 134 H 90" fill="none" stroke="#5B4B8A" stroke-width="1.2" />
-      <text font-family="Inter,Helvetica,Arial,sans-serif" x="95" y="137">Low PP</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="45" y="137">High PP</text>
+      <path d="M 92 134 H 116" fill="none" stroke="#5B4B8A" stroke-width="1.2" />
+      <text font-family="Inter,Helvetica,Arial,sans-serif" x="121" y="137">Low PP</text>
     </g>
     <path d="M 136 20 V 124" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none" />
     <g stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3" fill="none">
@@ -65,7 +64,7 @@
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="148" y="108">0.6</text>
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="148" y="128">0.5</text>
     </g>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="190.0" y="136.0" text-anchor="middle" font-size="7" fill="#2B3A42">Posterior per node</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="190" y="136" text-anchor="middle" font-size="9.5" fill="#2B3A42">Per-node</text>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="188" y="147" text-anchor="middle" font-size="9.5" fill="#2B3A42">clade credibility</text>
   </g>
 </svg>

@@ -5,8 +5,8 @@
   <g id="layer-body" data-name="body">
     <rect x="15" y="30" width="70" height="30" rx="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" />
     <line x1="15" y1="45" x2="85" y2="45" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.5" stroke-linecap="round" />
-    <text x="86.48" y="34.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">95%</text>
-    <text x="90" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">CI</text>
+    <text x="85" y="34.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">95%</text>
+    <text x="88" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">CI</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">CI band</text>

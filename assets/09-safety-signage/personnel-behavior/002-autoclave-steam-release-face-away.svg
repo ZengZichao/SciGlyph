@@ -10,7 +10,7 @@
      <path d="M26 36 L24 78 L18 116 L30 116 L36 88 L42 116 L54 116 L48 78 L46 36 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M46 42 L58 46 L64 54 L60 56 L56 50 L46 46 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M60 50 L66 50 L66 60 L60 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M68 40 L108 40 L108 92 L68 92 Z" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  <g id="prop"><rect x="68" y="40" width="40" height="52" rx="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <circle cx="88" cy="66" r="16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M68 40 L108 40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M64 36 Q58 30 52 36" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>

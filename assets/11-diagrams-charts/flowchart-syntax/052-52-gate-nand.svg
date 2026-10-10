@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="与非门" data-name-en="gate-nand" data-cat="flowchart-logic" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-52">与非门 / gate_nand</title>
-  <desc id="d-52">逻辑与非门符号。关键词: gate,nand,logic</desc>
+  <title id="t-52">与非门 / Gate-Nand</title>
+  <desc id="d-52">逻辑与非门符号</desc>
   <g id="g-52-与非门">
     <path d="M20,15 L50,15 A30,25 0 0,1 50,65 L20,65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="86" cy="40" r="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

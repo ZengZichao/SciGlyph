@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="高型烧杯带刻度" data-name-en="beaker_tall" data-cat="lab-equipment" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-02">高型烧杯带刻度 / beaker_tall</title>
-  <desc id="d-02">精确量取和加热液体。关键词: 烧杯,beaker,刻度,玻璃器皿</desc>
+  <title id="t-02">高型烧杯带刻度 / Beaker_Tall</title>
+  <desc id="d-02">精确量取和加热液体</desc>
   <g id="g-02-高型烧杯带刻度">
     <polygon points="32,15 30,15 35,105 85,105 90,15 88,15" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 36 55 L 84 55 L 85 105 L 35 105 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

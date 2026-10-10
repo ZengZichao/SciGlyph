@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="刻度标记" data-name-en="Tick Marks Only" data-cat="charts-plots" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-53">刻度标记 / tick_marks_only</title>
-  <desc id="d-53">仅刻度线组件。关键词: tick,marks,minor</desc>
-  <g id="g-53-刻度标记">
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="48" viewBox="0 0 160 48" role="img" data-name-zh="刻度标记" data-name-en="Tick Marks Only" data-cat="charts-plots" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title id="t-53">刻度标记 / Tick Marks Only</title>
+  <desc id="d-53">仅刻度线组件</desc>
+  <g id="g-53-刻度标记" transform="translate(0,-69)">
     <line x1="20" y1="90" x2="140" y2="90" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="20" y1="90" x2="20" y2="96" stroke="#1f2937" stroke-width="0.75"/>
     <line x1="40" y1="90" x2="40" y2="96" stroke="#1f2937" stroke-width="0.75"/>

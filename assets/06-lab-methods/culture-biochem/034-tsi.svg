@@ -6,13 +6,21 @@
   
   <g id="layer-body" data-name="body">
     <path d="M35,25 L35,65 Q35,70 40,70 L60,70 Q65,70 65,65 L65,25 Z" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="bg"/>
-    <path d="M37,30 L63,30 L63,45 L37,45 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="alert" fill-opacity="0.4"/>
-    <path d="M37,45 L63,45 L63,65 Q63,68 60,68 L40,68 Q37,68 37,65 Z" fill="#E8871E" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="mge" fill-opacity="0.4"/>
-    <circle cx="50" cy="55" r="3" fill="#1B2733" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
-    <line x1="45" y1="60" x2="55" y2="60" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
-    <text x="30" y="38" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">K</text>
-    <text x="30" y="55" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge">A*</text>
-  <circle cx="45" cy="52" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/><circle cx="55" cy="58" r="1.6" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/><line x1="37" y1="30" x2="63" y2="30" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><path d="M40,68 L60,68" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/></g>
+    <path d="M36.5,44 L63.5,31 L63.5,37 L36.5,50 Z" fill="#C42D2D" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="alert" fill-opacity="0.4"/>
+    <path d="M36.5,50 L63.5,37 L63.5,64 Q63.5,68.5 59,68.5 L41,68.5 Q36.5,68.5 36.5,64 Z" fill="#E8871E" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="mge" fill-opacity="0.4"/>
+    <line x1="50" y1="44" x2="50" y2="66" stroke="#1B2733" stroke-width="1.2" stroke-linecap="round" data-pp="ink"/>
+    <circle cx="50" cy="60" r="3.5" fill="#1B2733" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <circle cx="44" cy="52" r="2" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/>
+    <circle cx="57" cy="47" r="1.8" fill="#FFFFFF" stroke="#1B2733" stroke-width="0.8" data-pp="white"/>
+    <text x="30" y="42" text-anchor="end" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">K</text>
+    <line x1="31" y1="43" x2="36" y2="45.5" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2" data-pp="muted"/>
+    <text x="30" y="60" text-anchor="end" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge">A</text>
+    <line x1="31" y1="59" x2="36" y2="57" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2" data-pp="muted"/>
+    <text x="69" y="44" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">gas</text>
+    <line x1="68" y1="45" x2="59" y2="47" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2" data-pp="muted"/>
+    <text x="69" y="62" text-anchor="start" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">H₂S</text>
+    <line x1="68" y1="60" x2="54" y2="60" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2" data-pp="muted"/>
+  </g>
   
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">三糖铁</text>

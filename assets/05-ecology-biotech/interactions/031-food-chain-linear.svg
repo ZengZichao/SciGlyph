@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="食物链" data-name-en="Food Chain Linear" data-cat="natural-sciences" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-60">食物链 / food_chain_linear</title>
-  <desc id="d-60">展示线性食物链（生产者到顶级）。关键词: food chain,producer,consumer</desc>
+  <title id="t-60">食物链 / Food Chain Linear</title>
+  <desc id="d-60">展示线性食物链（生产者到顶级）</desc>
   <g id="g-60-食物链">
     <rect x="20" y="140" width="70" height="80" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <path d="M90,180 L130,180" fill="none" stroke="#1f2937" stroke-width="1.5"/>

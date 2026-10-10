@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="数据库圆柱" data-name-en="Node Database Cylinder" data-cat="diagrams-sw-uml" aria-labelledby="t-65 d-65" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-65">数据库圆柱 / node_database_cylinder</title>
-  <desc id="d-65">圆柱体数据库图标。关键词: database,cylinder,storage</desc>
+  <title id="t-65">数据库圆柱 / Node Database Cylinder</title>
+  <desc id="d-65">圆柱体数据库图标</desc>
   <g id="g-65-数据库圆柱">
     <ellipse cx="60" cy="20" rx="30" ry="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 30 20 L 30 60 Q 30 70 60 70 Q 90 70 90 60 L 90 20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

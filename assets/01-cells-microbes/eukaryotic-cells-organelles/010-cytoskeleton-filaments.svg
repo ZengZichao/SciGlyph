@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="细胞骨架" data-name-en="Cytoskeleton Filaments" data-cat="natural-sciences" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">细胞骨架 / cytoskeleton_filaments</title>
-  <desc id="d-18">展示细胞骨架纤维。关键词: cytoskeleton,microtubule,filament</desc>
+  <title id="t-18">细胞骨架 / Cytoskeletal filaments</title>
+  <desc id="d-18">展示细胞骨架纤维</desc>
   <g id="g-18-细胞骨架">
     <line x1="10" y1="30" x2="150" y2="30" stroke="#6b7280" stroke-width="1.5"/>
     <line x1="10" y1="45" x2="150" y2="45" stroke="#6b7280" stroke-width="1.5"/>

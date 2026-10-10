@@ -4,7 +4,7 @@
      data-id="el-power-supply-lab-bench" data-cat="el" data-spec="128"
      data-tags="power,supply,lab,bench,dc,voltage,稳压电源,直流" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">直流稳压电源 / Lab Bench Power Supply</title>
-  <desc id="d">直流稳压电源：电压/电流双路数显+粗调细调+输出端子+四线补偿。</desc>
+  <desc id="d">直流稳压电源：电压/电流双路数显+粗调细调+输出端子。</desc>
   <g id="body"><rect x="14" y="20" width="100" height="72" rx="6" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <rect x="20" y="26" width="36" height="20" rx="3" fill="#33414F" data-ls="dark"/>
     <text x="38" y="36" fill="#E02020" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="danger">12.00V</text>

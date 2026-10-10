@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="PCR 指数扩增轮次" data-name-en="PCR Exponential Amplification" data-cat="05-eco-seq" data-tags="PCR,指数扩增,变性,退火,延伸,循环" role="img" aria-labelledby="t-19-pcr-amplification d-19-pcr-amplification" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-19-pcr-amplification">PCR 指数扩增轮次 / PCR Exponential Amplification</title>
-  <desc id="d-19-pcr-amplification">左侧热循环曲线标示变性—退火—延伸三阶段温度，右侧扩增树显示模板量由 1 份指数增长到大量拷贝。关键词: PCR, 指数扩增, 变性, 退火, 延伸, 循环</desc>
+  <desc id="d-19-pcr-amplification">左侧热循环曲线标示变性—退火—延伸三阶段温度，右侧扩增树显示模板量由 1 份指数增长到大量拷贝</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 左：热循环温度曲线 -->
   <path d="M12 26 V104 H44" stroke="#2B3A42" stroke-width="1.4"/>

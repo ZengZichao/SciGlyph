@@ -899,7 +899,7 @@
    "category": "10-figure-elements",
    "subdir": "geometry-math",
    "canvas": "0 0 120 120",
-   "desc": "甜甜圈形圆环体",
+   "desc": "标注长半径R与管半径r的圆环体。关键词: torus,ring,solid",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

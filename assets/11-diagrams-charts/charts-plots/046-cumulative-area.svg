@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="累积面积图" data-name-en="Cumulative Area" data-cat="charts-plots" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-46">累积面积图 / cumulative_area</title>
-  <desc id="d-46">累积面积填充图。关键词: cumulative,area,growth</desc>
+  <title id="t-46">累积面积图 / Cumulative Area</title>
+  <desc id="d-46">累积面积填充图</desc>
   <g id="g-46-累积面积图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

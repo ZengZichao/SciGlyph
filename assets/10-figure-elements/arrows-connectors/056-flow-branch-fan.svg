@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="扇形分支流程" data-name-en="flow branch fan" data-cat="arrows-connectors" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-56">扇形分支流程 / flow_branch_fan</title>
-  <desc id="d-56">扇形多分支流程箭头。关键词: flow,branch,fan,multi-path</desc>
+  <title id="t-56">扇形分支流程 / Flow Branch Fan</title>
+  <desc id="d-56">扇形多分支流程箭头</desc>
   <g id="g-56-扇形分支流程">
     <line x1="10" y1="24" x2="40" y2="24" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="24" x2="74.41" y2="14.53" stroke="#1f2937" stroke-width="1.5" fill="none"/>

@@ -1,10 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="鱼骨箭头" data-name-en="head fishbone" data-cat="arrows-connectors" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">鱼骨箭头 / head_fishbone</title>
-  <desc id="d-29">鱼骨形线端头。关键词: head,fishbone,chevron</desc>
+  <title id="t-29">鱼骨箭头 / Head Fishbone</title>
+  <desc id="d-29">鱼骨形线端头</desc>
   <g id="g-29-鱼骨箭头">
     <line x1="10" y1="24" x2="82" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
-    <polygon points="70,12 86,24 70,36" fill="#1f2937"/>
-    <line x1="76" y1="16" x2="82" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
-    <line x1="76" y1="32" x2="82" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
+    <polyline points="66,12 82,24 66,36" stroke="#1f2937" stroke-width="2" fill="none" stroke-linejoin="round"/>
+    <polyline points="52,12 68,24 52,36" stroke="#1f2937" stroke-width="2" fill="none" stroke-linejoin="round"/>
   </g>
 </svg>

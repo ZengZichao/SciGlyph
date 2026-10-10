@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="全网状拓扑" data-name-en="Topology Mesh" data-cat="diagrams-sw-uml" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">全网状拓扑 / topology_mesh</title>
-  <desc id="d-55">全网状网络拓扑。关键词: mesh,topology,network</desc>
+  <title id="t-55">全网状拓扑 / Topology Mesh</title>
+  <desc id="d-55">全网状网络拓扑</desc>
   <g id="g-55-全网状拓扑">
     <circle cx="80" cy="60" r="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="240" cy="60" r="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

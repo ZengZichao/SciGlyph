@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="烘箱" data-name-en="drying_oven" data-cat="lab-equipment" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">烘箱 / drying_oven</title>
-  <desc id="d-55">恒温干燥样品和器皿。关键词: 烘箱,oven,干燥,恒温</desc>
+  <title id="t-55">烘箱 / Drying_Oven</title>
+  <desc id="d-55">恒温干燥样品和器皿</desc>
   <g id="g-55-烘箱">
     <rect x="50" y="30" width="220" height="180" rx="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <rect x="70" y="45" width="140" height="130" rx="3" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
-    <line x1="70" y1="110" x2="210" y2="110" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
-    <line x1="140" y1="45" x2="140" y2="175" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line x1="70" y1="140" x2="210" y2="140" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <line x1="70" y1="80" x2="210" y2="80" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
     <rect x="220" y="60" width="35" height="80" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>
     <text x="237" y="90" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">°C</text>
     <text x="237" y="110" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">105</text>

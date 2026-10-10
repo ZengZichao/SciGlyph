@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-cryostat" data-cat="ls" data-spec="128" data-tags="cryostat,frozen,section,microtome,cold,tissue,histology" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-cryostat" data-cat="ls" data-spec="128" data-tags="cryostat,frozen,section,microtome,cold,tissue,histology" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">冷冻切片机 / Cryostat</title>
   <desc id="d">冷冻切片机：冷冻腔体、切片机、样品托。</desc>
   <g id="body">

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="单位换算" data-name-en="unit-conversion-table" data-cat="tables-frames" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-22">单位换算 / unit_conversion_table</title>
-  <desc id="d-22">单位换算对照表。关键词: 单位换算,换算因子,单位表</desc>
+  <title id="t-22">单位换算 / Unit-Conversion-Table</title>
+  <desc id="d-22">单位换算对照表</desc>
   <g id="g-22-单位换算">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>

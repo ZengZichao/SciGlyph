@@ -591,7 +591,7 @@
    "category": "10-figure-elements",
    "subdir": "labels-tags",
    "canvas": "0 0 160 96",
-   "desc": "塔灯，红黄绿三层柱加亮态高亮。",
+   "desc": "塔灯，红黄绿三层柱加底座与安装底板。 （素材实际未画\"亮态高亮\"，且本次补齐了底座/底板；不改图形，改描述）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -764,7 +764,7 @@
    "category": "10-figure-elements",
    "subdir": "labels-tags",
    "canvas": "0 0 160 96",
-   "desc": "生物危害废液标签版式：橙色警示条、生物危害三弧符号、类别/灭活方式/产生日期/责任人栏位与满刻度线，供高压灭活前后填写。",
+   "desc": "生物危害三瓣符号（简化圆环，未互扣）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

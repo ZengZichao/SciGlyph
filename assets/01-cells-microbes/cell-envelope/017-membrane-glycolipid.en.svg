@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-membrane_glycolipid d-membrane_glycolipid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-membrane_glycolipid">Membrane glycolipid</title>
-  <desc id="d-membrane_glycolipid">Glycolipid anchor with sugar head groups and lipid tail in membrane 关键词: glycolipid, anchor, membrane</desc>
+  <desc id="d-membrane_glycolipid">Glycolipid anchor with sugar head groups and lipid tail in membrane</desc>
   
   <g id="layer-body" data-name="body">
     <line x1="15" y1="55" x2="85" y2="55" stroke="#93A0AC" stroke-width="2" stroke-linecap="round" data-pp="muted"/>

@@ -556,8 +556,8 @@
   },
   {
    "file": "022-dna-sip-nanosims.svg",
-   "name_zh": "原位活性检测流程",
-   "name_en": "In Situ Activity Detection (DNA-SIP)",
+   "name_zh": "稳定同位素活性检测流程",
+   "name_en": "DNA-SIP / NanoSIMS Activity Detection",
    "tags": [
     "bioinformatics workflow",
     "dna sip nanosims",

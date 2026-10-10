@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="320" viewBox="0 0 240 320" role="img" data-name-zh="纵向时间轴" data-name-en="timeline-vertical" data-cat="flowchart-logic" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">纵向时间轴 / timeline_vertical</title>
-  <desc id="d-47">四节点纵向时间轴。关键词: timeline,vertical</desc>
+  <title id="t-47">纵向时间轴 / Timeline-Vertical</title>
+  <desc id="d-47">四节点纵向时间轴</desc>
   <g id="g-47-纵向时间轴">
     <line fill="none" x1="80" y1="20" x2="80" y2="300" stroke="#1f2937" stroke-width="2"/>
     <polygon points="76,296 80,304 84,296" fill="#1f2937"/>

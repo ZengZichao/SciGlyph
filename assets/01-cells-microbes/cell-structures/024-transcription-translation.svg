@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="转录翻译偶联" data-name-en="Transcription-translation coupling" data-cat="02-structures" data-tags="转录,翻译,偶联,RNA聚合酶,多聚核糖体,无核膜,mRNA" role="img" aria-labelledby="t-24-transcription-translation d-24-transcription-translation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-24-transcription-translation">转录翻译偶联 / Transcription-translation coupling</title>
-  <desc id="d-24-transcription-translation">原核细胞无核膜分隔，RNA 聚合酶转录出的 mRNA 可在同一细胞中被立即翻译，转录与翻译同时进行（偶联）。关键词: 转录, 翻译, 偶联, RNA聚合酶, 多聚核糖体, 无核膜, mRNA</desc>
+  <desc id="d-24-transcription-translation">原核细胞无核膜分隔，RNA 聚合酶转录出的 mRNA 可在同一细胞中被立即翻译，转录与翻译同时进行（偶联）</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <path d="M8 26L40 26M78 26L112 26" fill="none" stroke="#2B3A42" stroke-width="1.6"/>
 <path d="M40 26C44 38 74 38 78 26" fill="none" stroke="#2B3A42" stroke-width="1.6"/>

@@ -3,8 +3,8 @@
      role="img" aria-labelledby="t d"
      data-id="ch-chart-flow-arrow-chevrons" data-cat="ch" data-spec="128"
      data-tags="chart,flow,arrow,chevrons,chain,process" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">五段箭头链条 / Chart Flow Arrow Chevrons</title>
-  <desc id="d">五段箭头链条。</desc>
+  <title id="t">四段箭头链条 / Chart Flow Arrow Chevrons</title>
+  <desc id="d">四段箭头链条（蓝/橙/绿/红四段首尾相接）</desc>
   <g id="body">
     <polygon points="16,48 28,36 28,42 40,42 40,54 28,54 28,60" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <polygon points="44,48 56,36 56,42 68,42 68,54 56,54 56,60" fill="#F5A623" stroke="none" data-ls="warn"/>

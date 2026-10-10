@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="堆肥高温发酵" data-name-en="Compost Thermophilic Phase" data-cat="05-eco-seq" data-tags="堆肥,嗜热菌,腐生,高温阶段,有机物分解" role="img" aria-labelledby="t-15-compost d-15-compost" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-15-compost">堆肥高温发酵 / Compost Thermophilic Phase</title>
-  <desc id="d-15-compost">堆体中心形成 50–70 ℃ 高温核心，嗜热细菌与真菌分解有机物，堆温自内向外递减表示腐熟进程。关键词: 堆肥, 嗜热菌, 腐生, 高温阶段, 有机物分解</desc>
+  <desc id="d-15-compost">堆体中心形成 50–70 ℃ 高温核心，嗜热细菌与真菌分解有机物，堆温自内向外递减表示腐熟进程</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 堆体 -->
   <path d="M8 106 Q26 50 60 34 Q94 50 112 106 Z" fill="#7A8B93" fill-opacity="0.3" stroke="#2B3A42" stroke-width="1.4"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="底部x标签条" data-name-en="axis-label-x-strip" data-cat="tables-frames" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">底部x标签条 / axis_label_x_strip</title>
-  <desc id="d-39">X轴底部标签条。关键词: x轴,标签,底部标签</desc>
+  <title id="t-39">底部x标签条 / Axis-Label-X-Strip</title>
+  <desc id="d-39">X轴底部标签条</desc>
   <g id="g-39-底部x标签条">
     <line x1="30" y1="60" x2="450" y2="60" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="70" y1="60" x2="70" y2="68" stroke="#1f2937" stroke-width="1.5" fill="none"/>

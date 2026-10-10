@@ -17,6 +17,7 @@
 - License: assets **CC BY 4.0** (© ZengZichao); tooling and pages **MIT**.
 - Chinese documentation: [README.md](README.md); series guide: [README-SERIES.en.md](README-SERIES.en.md) / [README-SERIES.md](README-SERIES.md).
 - Browse: open `index.html` from the repo root (works offline, with zh/en toggle and light/dark themes).
+- Online gallery: pushed to GitHub and published automatically via Pages (see [DEPLOY.en.md](DEPLOY.en.md)).
 - Citation: see [CITATION.cff](CITATION.cff) and [NOTICE](NOTICE).
 
 ## 12 categories
@@ -44,7 +45,7 @@ Format mix: illustration 1102 · diagram 1224 · icon 504.
 - File names follow `NNN-slug-en.svg` (3-digit number + globally unique kebab-case English slug); assets with rendered Chinese text ship with a matching `.en.svg` English variant.
 - Every asset: no scripts, no external references, no embedded bitmaps; literal hex colors; Chinese text uses a CJK-fallback font stack.
 - Each file carries `data-license="CC-BY-4.0" data-copyright="ZengZichao"`; every manifest entry includes license/license_uri/attribution.
-- Quality gate: `python3 tools/check_repo.py` (structure, naming, manifest, SVG safety, licensing, font stacks, minimum type size, zero label overlap, no text overflow, safety-symbol symmetry, zh/en pairing).
+- Quality gate: `python3 tools/check_repo.py` (structure, naming, manifest, SVG safety, licensing, font stacks, minimum type size, zero label overlap, no text overflow, renderability, safety-symbol symmetry, zh/en pairing); `python3 tools/check_site.py` keeps the gallery and the assets in sync.
 
 ## Layout
 

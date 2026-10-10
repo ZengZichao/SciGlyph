@@ -22,6 +22,6 @@
   </g>
   <g id="layer-annotation-nanopore_sequencing" data-name="annotation">
     <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">nanopore sequencing</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="89.99">ionic current →</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.54" y="98.25">basecall</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="89.99">ionic current →</text>ext><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.54" y="98.25">basecall</text>
   </g>
 </svg>

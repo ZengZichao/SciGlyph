@@ -28,6 +28,6 @@
   <g id="layer-annotation-mic_microdilution" data-name="annotation">
     <text x="52" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">MIC</text>
     <text x="50" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">broth microdilution</text>
-    <line x1="50.0" y1="87.9" x2="56.92" y2="87.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="35.22" y="90.0">antibiotic</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="98.26">concentration →</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="35.22" y="90.0">antibiotic</text>ext><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="33.05" y="98.26">concentration →</text>
   </g>
 </svg>

@@ -12,7 +12,6 @@
     <circle cx="44" cy="76" r="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <circle cx="84" cy="76" r="6" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M40 28 Q64 20 88 28 L88 32 Q64 24 40 32 Z" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
-    <path d="M36 32 L36 28 L32 30 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <path d="M92 32 L92 28 L96 30 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <path d="M58 40 L58 44 M70 40 L70 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <path d="M62 56 L66 56 L66 72 L62 72 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/></g>

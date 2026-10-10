@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="斜线树" data-name-en="Slanted cladogram" data-cat="04-phylo" data-tags="斜线树,45度,分支长度,斜边,slanted" aria-labelledby="t-02-slanted-tree d-02-slanted-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-02-slanted-tree">斜线树 / Slanted cladogram</title>
-  <desc id="d-02-slanted-tree">各分支由水平段加 45° 斜线构成，斜边的水平与垂直投影相等，属不表达分支长度的斜线支序图画法。关键词: 斜线树, 45度, 分支长度, 斜边, slanted</desc>
+  <desc id="d-02-slanted-tree">各分支由水平段加 45° 斜线构成，斜边的水平与垂直投影相等，属不表达分支长度的斜线支序图画法</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="10" width="112" height="100" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="12栅格示意" data-name-en="grid-12-columns" data-cat="tables-frames" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-57">12栅格示意 / grid_12_columns</title>
-  <desc id="d-57">12列栅格系统示意。关键词: 栅格,12列,布局</desc>
+  <title id="t-57">12栅格示意 / Grid-12-Columns</title>
+  <desc id="d-57">12列栅格系统示意</desc>
   <g id="g-57-12栅格示意">
     <line x1="20" y1="40" x2="20" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>
     <line x1="57" y1="40" x2="57" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>
@@ -16,7 +16,7 @@
     <line x1="427" y1="40" x2="427" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>
     <line x1="464" y1="40" x2="464" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>
     <rect x="20" y="40" width="111" height="80" fill="#e5e7eb"/>
-    <rect x="131" y="40" width="222" height="80" fill="#ffffff"/>
+    <rect x="131" y="40" width="222" height="80" fill="none"/>
     <rect x="353" y="40" width="111" height="80" fill="#e5e7eb"/>
     <text x="240" y="140" font-size="9" fill="#6b7280" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">12-col grid</text>
   </g>

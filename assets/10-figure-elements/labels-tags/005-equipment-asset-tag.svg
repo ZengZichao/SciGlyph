@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="t d" data-id="lb-equipment-asset-tag" data-cat="lb" data-spec="160" data-tags="equipment,asset,tag,id,barcode,inventory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="96" viewBox="0 0 160 96" role="img" aria-labelledby="t d" data-id="lb-equipment-asset-tag" data-cat="lb" data-spec="160" data-tags="equipment,asset,tag,id,barcode,inventory" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">设备资产编号标签 / Equipment Asset Tag</title>
   <desc id="d">设备资产编号标签加条码。</desc>
   <g id="body">

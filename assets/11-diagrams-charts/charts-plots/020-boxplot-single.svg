@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="单个箱线图" data-name-en="Boxplot Single" data-cat="charts-plots" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">单个箱线图 / boxplot_single</title>
-  <desc id="d-20">单个箱线图展示分布。关键词: boxplot,single,quartile</desc>
+  <title id="t-20">单个箱线图 / Boxplot Single</title>
+  <desc id="d-20">单个箱线图展示分布</desc>
   <g id="g-20-单个箱线图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

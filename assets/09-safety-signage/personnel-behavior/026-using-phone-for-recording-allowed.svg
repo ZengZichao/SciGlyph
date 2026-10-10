@@ -10,8 +10,8 @@
      <path d="M38 28 L36 70 L30 116 L42 116 L48 80 L54 116 L66 116 L60 70 L58 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M58 34 L70 38 L76 48 L72 50 L68 42 L58 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M72 44 L78 44 L78 54 L72 54 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M76 32 L96 32 L96 56 L76 56 Z" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
-     <rect d="M78 34 L94 34 L94 52 L78 52 Z" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
+  <g id="prop"><rect x="76" y="32" width="20" height="24" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
+     <rect x="78" y="34" width="16" height="18" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/>
      <circle cx="86" cy="54" r="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M100 28 L104 24 L104 32 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
 </svg>

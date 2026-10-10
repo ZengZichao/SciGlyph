@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="性菌毛" data-name-en="Sex pilus" data-cat="02-structures" data-tags="性菌毛,接合,F因子,水平基因转移,ssDNA" role="img" aria-labelledby="t-08-sex-pilus d-08-sex-pilus" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-08-sex-pilus">性菌毛 / Sex pilus</title>
-  <desc id="d-08-sex-pilus">性菌毛（接合菌毛）由 F 因子编码，供体 F+ 细胞经性菌毛桥与受体 F− 细胞接触并转移单链 DNA，完成接合与水平基因转移。关键词: 性菌毛, 接合, F因子, 水平基因转移, ssDNA</desc>
+  <desc id="d-08-sex-pilus">性菌毛（接合菌毛）由 F 因子编码，供体 F+ 细胞经性菌毛桥与受体 F− 细胞接触并转移单链 DNA，完成接合与水平基因转移</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <rect x="6" y="58" width="34" height="24" rx="12" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <rect x="80" y="58" width="34" height="24" rx="12" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <path d="M14 70C14 64 20 62 26 64C31 66 34 65 36 70C32 76 20 78 14 74Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
 <path d="M88 70C88 64 94 62 100 64C105 66 108 65 110 70C106 76 94 78 88 74Z" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
 <path d="M40 66C52 32 68 32 80 66" fill="none" stroke="#1F6F8B" stroke-width="2.6"/>
-<circle cx="60" cy="41" r="4.4" fill="#E8B04B" stroke="#B57A17" stroke-width="1.4"/>
 <path d="M12 58C12 53 8 50 5 50" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
 <path d="M20 58C20 52 16 49 13 48" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>
 <path d="M28 58C28 53 24 50 21 50" fill="none" stroke="#1F6F8B" stroke-width="1.4"/>

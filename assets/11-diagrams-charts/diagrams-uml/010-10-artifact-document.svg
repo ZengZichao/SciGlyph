@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="工件文档" data-name-en="Artifact Document" data-cat="diagrams-sw-uml" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-10">工件文档 / artifact_document</title>
-  <desc id="d-10">带折角的工件/文档符号。关键词: artifact,document,deploy</desc>
+  <title id="t-10">工件文档 / Artifact Document</title>
+  <desc id="d-10">带折角的工件/文档符号</desc>
   <g id="g-10-工件文档">
     <path d="M 25 10 L 80 10 L 95 25 L 95 70 L 25 70 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 80 10 L 80 25 L 95 25" fill="none" stroke="#1f2937" stroke-width="1.5"/>

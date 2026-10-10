@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="微生物垫分层" data-name-en="Microbial Mat Stratification" data-cat="05-eco-seq" data-tags="微生物垫,分层,蓝细菌,硫化物,光衰减" role="img" aria-labelledby="t-13-microbial-mat d-13-microbial-mat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-13-microbial-mat">微生物垫分层 / Microbial Mat Stratification</title>
-  <desc id="d-13-microbial-mat">微生物垫由表层产氧蓝细菌、紫硫细菌、硫酸盐还原黑层至沉积物逐层堆叠，光照与代谢底物随深度递减。关键词: 微生物垫, 分层, 蓝细菌, 硫化物, 光衰减</desc>
+  <desc id="d-13-microbial-mat">微生物垫由表层产氧蓝细菌、紫硫细菌、硫酸盐还原黑层至沉积物逐层堆叠，光照与代谢底物随深度递减</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 表层絮状物与逸气 -->
   <path d="M5 12 Q22 6 40 11 Q60 4 80 10 Q100 5 115 11" stroke="#E8B04B" stroke-width="1.4" stroke-opacity="0.7"/>

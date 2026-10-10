@@ -56,6 +56,12 @@
   <circle cx="558" cy="218.9" r="4" fill="#E8871E" data-pp="mge"/>
   <line x1="80" y1="144.0" x2="560" y2="144.0" stroke="#C42D2D" stroke-width="1.5" stroke-dasharray="5,3" data-pp="alert"/>
   <text x="540" y="139.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" text-anchor="end" data-pp="alert">70% dDDH threshold</text>
+  <circle cx="100" cy="72" r="4" fill="#00857A" data-pp="metabolism"/>
+  <text x="110" y="75" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Same species (≥70%)</text>
+  <circle cx="100" cy="90" r="4" fill="#E8871E" data-pp="mge"/>
+  <text x="110" y="93" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Different species (20-70%)</text>
+  <circle cx="100" cy="108" r="4" fill="#93A0AC" data-pp="muted"/>
+  <text x="110" y="111" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Distant (&lt;20%)</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">dDDH Species Boundary — 70% Threshold (schematic)</text>
 </svg>

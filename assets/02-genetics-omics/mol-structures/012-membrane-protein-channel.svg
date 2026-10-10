@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="跨膜通道蛋白" data-name-en="Membrane Channel Protein" data-cat="natural-sciences" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-23">跨膜通道蛋白 / membrane_protein_channel</title>
-  <desc id="d-23">展示跨膜通道蛋白结构。关键词: channel protein,transport,membrane</desc>
+  <title id="t-23">跨膜通道蛋白 / Membrane Channel Protein</title>
+  <desc id="d-23">展示跨膜通道蛋白结构</desc>
   <g id="g-23-跨膜通道蛋白">
     <rect x="10" y="45" width="140" height="30" fill="#e5e7eb" stroke="none"/>
     <line x1="10" y1="45" x2="55" y2="45" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="脂双层" data-name-en="Lipid Bilayer" data-cat="natural-sciences" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-21">脂双层 / lipid_bilayer</title>
-  <desc id="d-21">展示脂双层剖面结构。关键词: lipid bilayer,membrane,phospholipid</desc>
+  <title id="t-21">脂双层 / Lipid Bilayer</title>
+  <desc id="d-21">展示脂双层剖面结构</desc>
   <g id="g-21-脂双层">
     <circle cx="40" cy="80" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <line x1="36" y1="88" x2="33" y2="115" stroke="#E69F00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

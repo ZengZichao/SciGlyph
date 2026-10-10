@@ -633,7 +633,7 @@
    "category": "02-genetics-omics",
    "subdir": "population-genomics",
    "canvas": "0 0 600 400",
-   "desc": "基因组完整性和污染散点。schematic, not to scale. 关键词: quality, completeness, contamination, GTDB",
+   "desc": "基因组完整性和污染散点。线性坐标 x = 80 + 4.8·completeness(%)、y = 340 − 29·contamination(%)，点色按 High/Medium/Low 分级与阈值线一致。schematic, not to scale. 关键词: quality, completeness, contamination, GTDB",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

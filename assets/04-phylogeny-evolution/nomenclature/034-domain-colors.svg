@@ -12,10 +12,10 @@
     <text x="25" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">E</text>
     <circle cx="55" cy="62" r="14" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="55" y="65" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">V</text>
-    <text x="82" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Bact</text>
-    <text x="82" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Arch</text>
-    <text x="82" y="63" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Euk</text>
-    <text x="82" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Vir</text>
+    <text x="76" y="33" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Bact</text>
+    <text x="76" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Arch</text>
+    <text x="76" y="63" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Euk</text>
+    <text x="76" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Vir</text>
       <ellipse cx="25" cy="30" rx="6" ry="4" fill="none" stroke="#FFFFFF" data-pp="white" stroke-width="0.5"/>
     <ellipse cx="55" cy="30" rx="6" ry="4" fill="none" stroke="#FFFFFF" data-pp="white" stroke-width="0.5"/>
     <circle cx="25" cy="62" r="6" fill="none" stroke="#FFFFFF" data-pp="white" stroke-width="0.5"/>

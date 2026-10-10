@@ -25,6 +25,7 @@
         <line x1="39" y1="42" x2="39" y2="61" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
         <line x1="48" y1="67" x2="58" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
         <line x1="16" y1="67" x2="30" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
+        <line x1="70" y1="62" x2="74" y2="44" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp19__ar)"/>
     <text x="75" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NAD⁺</text>
     <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">non-cyclic, H₂S→S⁰</text>
   </g>

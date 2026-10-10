@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="杆菌" data-name-en="Bacterium Rod" data-cat="natural-sciences" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">杆菌 / bacterium_rod</title>
-  <desc id="d-39">展示杆菌（鞭毛质粒）。关键词: bacterium,rod,flagella,plasmid</desc>
+  <title id="t-39">杆菌 / Bacterium Rod</title>
+  <desc id="d-39">展示杆菌形态（鞭毛、质粒）</desc>
   <g id="g-39-杆菌">
     <rect x="40" y="35" width="80" height="50" rx="25" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="60" cy="55" r="5" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M30,60 C20,55 15,60 10,65" fill="none" stroke="#6b7280" stroke-width="1.5"/>
-    <path d="M30,65 C20,65 15,70 10,75" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M40,60 C30,55 15,60 10,65" fill="none" stroke="#6b7280" stroke-width="1.5"/>
+    <path d="M41,65 C30,65 15,70 10,75" fill="none" stroke="#6b7280" stroke-width="1.5"/>
     <circle cx="100" cy="50" r="4" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
   </g>
 </svg>

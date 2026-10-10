@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="双Y轴" data-name-en="Axis Dual Left Right" data-cat="charts-plots" aria-labelledby="t-52 d-52" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-52">双Y轴 / axis_dual_left_right</title>
-  <desc id="d-52">左右双Y轴。关键词: axis,dual,left,right</desc>
+  <title id="t-52">双Y轴 / Axis Dual Left Right</title>
+  <desc id="d-52">左右双Y轴</desc>
   <g id="g-52-双Y轴">
     <line x1="30" y1="15" x2="30" y2="115" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>
     <line x1="215" y1="15" x2="215" y2="115" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

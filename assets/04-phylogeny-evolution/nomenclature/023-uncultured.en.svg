@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-nomenclature" role="img" aria-labelledby="t-uncultured d-uncultured" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-uncultured">Uncultured</title>
-  <desc id="d-uncultured">Uncultured organism known only from environmental sequences 关键词: uncultured, environmental</desc>
+  <desc id="d-uncultured">Uncultured organism known only from environmental sequences</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="20" y="30" width="60" height="35" rx="3" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" data-pp="host" fill-opacity="0.3"/>

@@ -13,7 +13,7 @@
   <g id="layer-annotation" data-name="annotation">
 
     <line x1="82" y1="22" x2="90" y2="12" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="69.12" y="10.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no wall</text>
+    <text x="69.12" y="10.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">no wall</text>
     <text x="20" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">L-form</text>
 
   </g>

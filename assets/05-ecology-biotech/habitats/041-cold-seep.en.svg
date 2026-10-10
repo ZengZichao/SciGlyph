@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-cold_seep d-cold_seep" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-cold_seep">Cold seep</title>
-  <desc id="d-cold_seep">Cold seep with methane bubbles, carbonate crust and ANME archaea 关键词: cold, seep, methane, ANME</desc>
+  <desc id="d-cold_seep">Cold seep with methane bubbles, carbonate crust and ANME archaea</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="55" width="90" height="30" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.6"/>

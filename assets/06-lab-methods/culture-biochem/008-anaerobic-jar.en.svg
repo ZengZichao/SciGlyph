@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-methods" role="img" aria-labelledby="t-anaerobic_jar d-anaerobic_jar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-anaerobic_jar">Anaerobic Jar</title>
-  <desc id="d-anaerobic_jar">Anaerobic jar with GasPak envelope and catalyst 关键词: anaerobic jar, GasPak, catalyst</desc>
+  <desc id="d-anaerobic_jar">Anaerobic jar with GasPak envelope and catalyst</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="25" y="25" width="50" height="50" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>

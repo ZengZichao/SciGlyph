@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="双螺旋" data-name-en="DNA Double Helix" data-cat="natural-sciences" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-01">双螺旋 / dna_double_helix</title>
-  <desc id="d-01">展示DNA双螺旋结构及碱基对。关键词: dna,helix,base pair,genetics</desc>
-  <g id="g-01-双螺旋">
+  <title id="t-01">双螺旋 / Dna Double Helix</title>
+  <desc id="d-01">展示DNA双螺旋结构及碱基对</desc>
+  <g id="g-01-双螺旋" transform="translate(40,0)">
     <path d="M20,10 C40,30 40,50 20,70 C2,88 2,108 20,116" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
     <path d="M60,10 C40,30 40,50 60,70 C78,88 78,108 60,116" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
     <line x1="28" y1="20" x2="52" y2="20" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
@@ -10,13 +10,5 @@
     <line x1="24.9" y1="65" x2="55.1" y2="65" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
     <line x1="11.7" y1="80" x2="68.3" y2="80" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
     <line x1="6.6" y1="95" x2="73.4" y2="95" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
-    <path d="M100,10 C120,30 120,50 100,70 C82,88 82,108 100,116" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
-    <path d="M140,10 C120,30 120,50 140,70 C158,88 158,108 140,116" fill="none" stroke="#0072B2" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>
-    <line x1="108" y1="20" x2="132" y2="20" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <line x1="114.6" y1="35" x2="125.4" y2="35" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
-    <line x1="113.3" y1="50" x2="126.7" y2="50" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <line x1="104.9" y1="65" x2="135.1" y2="65" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
-    <line x1="91.7" y1="80" x2="148.3" y2="80" stroke="#D55E00" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <line x1="86.6" y1="95" x2="153.4" y2="95" stroke="#009E73" stroke-width="1.5" stroke-dasharray="2 2" data-drole="series-3"/>
   </g>
 </svg>

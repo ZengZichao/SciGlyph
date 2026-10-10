@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-urethra d-urethra" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-urethra">Urethra</title>
-  <desc id="d-urethra">Urethral lumen with mixed cocci and short rods 关键词: urethra, cocci, rods</desc>
+  <desc id="d-urethra">Urethral lumen with mixed cocci and short rods</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M10,25 L10,70 Q50,80 90,70 L90,25 Q50,15 10,25 Z" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host" fill-opacity="0.3"/>

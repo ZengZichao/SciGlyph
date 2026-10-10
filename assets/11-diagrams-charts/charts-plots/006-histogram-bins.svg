@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="直方图" data-name-en="Histogram Bins" data-cat="charts-plots" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-06">直方图 / histogram_bins</title>
-  <desc id="d-06">频率分布直方图。关键词: histogram,bins,distribution</desc>
+  <title id="t-06">直方图 / Histogram Bins</title>
+  <desc id="d-06">频率分布直方图</desc>
   <g id="g-06-直方图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

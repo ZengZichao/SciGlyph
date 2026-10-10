@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="雪花模型" data-name-en="Dim Snowflake" data-cat="diagrams-sw-uml" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">雪花模型 / dim_snowflake</title>
-  <desc id="d-47">雪花型数据仓库模型。关键词: snowflake,schema,dwh,dim</desc>
+  <title id="t-47">雪花模型 / Dim Snowflake</title>
+  <desc id="d-47">雪花型数据仓库模型</desc>
   <g id="g-47-雪花模型">
     <rect x="120" y="85" width="80" height="40" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="160" y="110" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="bold">Fact</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="酸度计" data-name-en="ph_meter" data-cat="lab-equipment" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-38">酸度计 / ph_meter</title>
-  <desc id="d-38">精确测量溶液pH值。关键词: 酸度计,pH,测量,溶液</desc>
+  <title id="t-38">酸度计 / Ph_Meter</title>
+  <desc id="d-38">精确测量溶液pH值</desc>
   <g id="g-38-酸度计">
     <rect x="40" y="30" width="150" height="180" rx="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <rect x="55" y="45" width="120" height="50" rx="4" fill="#ffffff" stroke="#6b7280" stroke-width="0.75"/>

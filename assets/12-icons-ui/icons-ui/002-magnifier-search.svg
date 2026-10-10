@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="搜索放大镜" data-name-en="magnifier_search" data-cat="basic-icons-ui" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-02">搜索放大镜 / magnifier_search</title>
-  <desc id="d-02">搜索与查找图标。关键词: 搜索,放大镜,magnifier,search</desc>
+  <title id="t-02">搜索放大镜 / Magnifier_Search</title>
+  <desc id="d-02">搜索与查找图标</desc>
   <g id="g-02-搜索放大镜">
     <circle cx="20" cy="20" r="12" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <line x1="29" y1="29" x2="40" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

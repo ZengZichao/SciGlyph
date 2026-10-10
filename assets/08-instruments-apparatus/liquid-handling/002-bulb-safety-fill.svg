@@ -5,9 +5,10 @@
      data-tags="bulb,safety,fill,rubber,aspirator" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">洗耳球 / Safety Bulb (Rubber Aspirator)</title>
   <desc id="d">橡胶洗耳球，用于辅助玻璃吸管吸液</desc>
-  <g id="body"><ellipse cx="64" cy="60" rx="28" ry="32" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M60 28 L60 16 Q60 12 64 12 Q68 12 68 16 L68 28" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M44 50 Q64 44 84 50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <path d="M44 70 Q64 76 84 70" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <path d="M62 12 L62 8 L66 8 L66 12 Z" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="body"><path d="M64 18 C45 18 33 35 33 55 C33 71 43 85 55 94 L59 114 L69 114 L73 94 C85 85 95 71 95 55 C95 35 83 18 64 18 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <ellipse cx="64" cy="15" rx="7" ry="5" fill="#33414F" stroke="none" data-ls="dark"/></g>
+  <g id="detail"><path d="M41 49 Q64 43 87 49" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M41 67 Q64 73 87 67" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M55 96 L73 96" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <ellipse cx="64" cy="114" rx="5" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
 </svg>

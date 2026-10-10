@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="碳循环" data-name-en="Carbon Cycle" data-cat="natural-sciences" aria-labelledby="t-64 d-64" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-64">碳循环 / carbon_cycle</title>
-  <desc id="d-64">展示碳循环过程。关键词: carbon cycle,photosynthesis,respiration</desc>
+  <title id="t-64">碳循环 / Carbon Cycle</title>
+  <desc id="d-64">展示碳循环过程</desc>
   <g id="g-64-碳循环">
     <circle cx="240" cy="52" r="32" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <text x="240" y="56" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">CO2</text>
+    <text x="240" y="56" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">CO₂</text>
     <rect x="40" y="150" width="92" height="52" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="86" y="180" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">生产者</text>
     <rect x="348" y="150" width="92" height="52" rx="8" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

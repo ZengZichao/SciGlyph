@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="打勾清单表" data-name-en="checklist-ticks" data-cat="tables-frames" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">打勾清单表 / checklist_ticks</title>
-  <desc id="d-20">带勾选标记的清单表。关键词: 清单,勾选,检查表</desc>
+  <title id="t-20">打勾清单表 / Checklist-Ticks</title>
+  <desc id="d-20">带勾选标记的清单表</desc>
   <g id="g-20-打勾清单表">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>

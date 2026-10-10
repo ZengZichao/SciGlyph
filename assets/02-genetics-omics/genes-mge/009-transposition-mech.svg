@@ -5,11 +5,11 @@
   <desc id="d-09_transposition_mech">复制型(形成共整合体cointegrate) vs 保守型(cut-and-paste)。关键词: transposition, replicative, conservative, cut-and-paste, cointegrate</desc>
   <g id="layer-body" data-name="body">
         <rect x="5" y="20" width="35" height="10" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="22.5" y="26.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">donor DNA</text>
+    <text x="22.5" y="26.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">donor DNA</text>
         <rect x="5" y="40" width="35" height="10" rx="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
     <text x="22.5" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Tn</text>
         <rect x="55" y="20" width="35" height="10" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="72.5" y="26.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">target</text>
+    <text x="72.5" y="26.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">target</text>
         <rect x="55" y="40" width="35" height="10" rx="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
     <text x="72.5" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Tn</text>
       <line x1="40" y1="45" x2="55" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" stroke-dasharray="2,1"/>

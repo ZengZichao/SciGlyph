@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="宏转录组" data-name-en="Metatranscriptomics" data-cat="05-eco-seq" data-tags="宏转录组,RNA,转录,核糖体,cDNA,表达量" role="img" aria-labelledby="t-22-metatranscriptomics d-22-metatranscriptomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-22-metatranscriptomics">宏转录组 / Metatranscriptomics</title>
-  <desc id="d-22-metatranscriptomics">捕获群落全部 mRNA，经逆转录得到 cDNA 后测序，可同时比较多个物种的基因表达活性。关键词: 宏转录组, RNA, 转录, 核糖体, cDNA, 表达量</desc>
+  <desc id="d-22-metatranscriptomics">捕获群落全部 mRNA，经逆转录得到 cDNA 后测序，可同时比较多个物种的基因表达活性</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 流程轴 -->
   <path d="M14 18 H106" stroke="#5B4B8A" stroke-width="2"/>

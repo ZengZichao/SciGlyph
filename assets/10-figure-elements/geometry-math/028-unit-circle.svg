@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="单位圆" data-name-en="Unit Circle" data-cat="geometry-math" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28">单位圆 / unit_circle</title>
-  <desc id="d-28">带角度射线的单位圆。关键词: unit circle,trigonometry,geometry</desc>
+  <title id="t-28">单位圆 / Unit Circle</title>
+  <desc id="d-28">带角度射线的单位圆</desc>
   <g id="g-28-单位圆">
     <circle cx="60" cy="60" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="10" y1="60" x2="110" y2="60" stroke="#6b7280" stroke-width="0.75"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="雷达图" data-name-en="Radar 5 Axis" data-cat="charts-plots" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-17">雷达图 / radar_5axis</title>
-  <desc id="d-17">五轴雷达图。关键词: radar,spider,five</desc>
+  <title id="t-17">雷达图 / Radar 5 Axis</title>
+  <desc id="d-17">五轴雷达图</desc>
   <g id="g-17-雷达图">
     <polygon points="120.0,92.0 146.7,111.3 136.5,142.7 103.5,142.7 93.3,111.3" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>
     <polygon points="120.0,63.9 173.4,102.7 153.0,165.4 87.0,165.4 66.6,102.7" fill="none" stroke="#e5e7eb" stroke-width="0.75"/>

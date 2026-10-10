@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="零线加粗" data-name-en="Zero Line Bold" data-cat="charts-plots" aria-labelledby="t-57 d-57" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-57">零线加粗 / zero_line_bold</title>
-  <desc id="d-57">加粗零参考线。关键词: zero,line,bold,reference</desc>
+  <title id="t-57">零线加粗 / Zero Line Bold</title>
+  <desc id="d-57">加粗零参考线</desc>
   <g id="g-57-零线加粗">
     <line x1="30" y1="15" x2="30" y2="115" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="30" y1="115" x2="215" y2="115" stroke="#1f2937" stroke-width="1.5"/>

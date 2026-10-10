@@ -6,6 +6,6 @@
   <title id="t">平头金属针 / Blunt Metal Needle</title>
   <desc id="d">平头不锈钢针，用于精确加液。</desc>
   <g id="body"><path d="M60 10 L60 100 L62 110 L66 110 L68 100 L68 10 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M62 14 L62 108 M66 14 L66 108" fill="none" opacity="0.4" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 100 L54 118 L74 118 L74 100 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M62 14 L62 108 M66 14 L66 108" fill="none" opacity="0.4" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M54 10 L54 30 L74 30 L74 10 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
   
 </svg>

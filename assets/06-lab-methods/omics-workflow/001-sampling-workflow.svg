@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="采样—提取—建库—测序流程" data-name-en="Sampling-to-Sequencing Workflow" data-cat="05-eco-seq" data-tags="采样,DNA提取,建库,测序,流程条,宏基因组" role="img" aria-labelledby="t-17-sampling-workflow d-17-sampling-workflow" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-17-sampling-workflow">采样—提取—建库—测序流程 / Sampling-to-Sequencing Workflow</title>
-  <desc id="d-17-sampling-workflow">无菌采样后裂解细胞获取核酸，加接头建库并上机测序，四个步骤以箭头串联构成组学分析前端流程。关键词: 采样, DNA提取, 建库, 测序, 流程条, 宏基因组</desc>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <desc id="d-17-sampling-workflow">无菌采样后裂解细胞获取核酸，加接头建库并上机测序，四个步骤以箭头串联构成组学分析前端流程</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round" transform="translate(9.4,-1) scale(0.84)">
   <!-- 流程主干与方向箭头 -->
   <path d="M9 20 H111" stroke="#5B4B8A" stroke-width="2"/>
   <path d="M29 20 l-4 -4 m4 4 l-4 4" stroke="#5B4B8A" stroke-width="2"/>
@@ -13,10 +13,10 @@
   <circle cx="73" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
   <circle cx="101" cy="20" r="9" fill="#5B4B8A" stroke="none"/>
   <g font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#FFFFFF" stroke="none" text-anchor="middle">
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="17" y="24">①</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="45" y="24">②</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="73" y="24">③</text>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="101" y="24">④</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" x="17" y="24">①</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" x="45" y="24">②</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" x="73" y="24">③</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" x="101" y="24">④</text>
   </g>
   <path d="M17 29 V36 M45 29 V36 M73 29 V36 M101 29 V36" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 2"/>
   <!-- ① 环境采样：无菌拭子 + 样本管 -->
@@ -63,5 +63,9 @@
   <path d="M90 96 h22" stroke="#2E7D5B" stroke-width="3" stroke-opacity="0.8"/>
   <path d="M90 101 h14" stroke="#C0504D" stroke-width="3" stroke-opacity="0.8"/>
   <path d="M90 106 h18" stroke="#1F6F8B" stroke-width="3" stroke-opacity="0.8"/>
+</g>
+<g id="layer-annotation" data-name="annotation" fill="#2B3A42" stroke="none" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" text-anchor="middle">
+  <text x="60" y="100" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle">① sampling ② extraction</text>
+  <text x="60" y="109" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle">③ library prep ④ sequencing</text>
 </g>
 </svg>

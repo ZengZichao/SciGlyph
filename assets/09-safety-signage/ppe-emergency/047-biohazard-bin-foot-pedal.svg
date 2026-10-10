@@ -4,14 +4,17 @@
      data-id="sf-biohazard-bin-foot-pedal" data-cat="sf" data-spec="128"
      data-tags="biohazard bin,foot pedal,waste,pedal,lid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">脚踏式医废桶 / Biohazard Bin Foot Pedal</title>
-  <desc id="d">脚踏式生物危害废物桶，带盖和脚踏板。</desc>
+  <desc id="d">脚踏式生物危害废物桶，黄色桶身带生物危害标志、盖和脚踏板。</desc>
   <g id="body"><path d="M28 32 L28 100 Q28 108 36 108 L92 108 Q100 108 100 100 L100 32 Z" fill="#F5A623" opacity="0.3" stroke="none" data-ls="warn"/>
-     <path d="M28 32 L28 100 Q28 108 36 108 L92 108 Q100 108 100 100 L100 32 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M28 32 L28 100 Q28 108 36 108 L92 108 Q100 108 100 100 L100 32 Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M24 32 L104 32 L104 24 Q104 16 96 16 L32 16 Q24 16 24 24 Z" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M44 108 L44 116 L84 116 L84 108" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
   <g id="detail"><rect x="50" y="116" width="28" height="6" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
-     <path cx="64" cy="68" d="M54 58 L74 58 L74 78 L54 78 Z" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="60" cy="64" r="4" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="68" cy="64" r="4" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="64" cy="72" r="4" fill="#E02020" stroke="none" data-ls="danger"/></g>
+    <g transform="translate(64,66) scale(1.55) translate(-12,-12)" fill="none" stroke="#1F2933" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-ls="dark">
+      <circle cx="12" cy="8.5" r="3.7"/>
+      <circle cx="8.969" cy="13.75" r="3.7"/>
+      <circle cx="15.031" cy="13.75" r="3.7"/>
+      <circle cx="12" cy="12" r="1.6"/>
+      <path d="M12 7.4 L12 8.6 M15.98 14.3 L14.94 13.7 M8.02 14.3 L9.06 13.7" stroke-width="1"/>
+    </g></g>
 </svg>

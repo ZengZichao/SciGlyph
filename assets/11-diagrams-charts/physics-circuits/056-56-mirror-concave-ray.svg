@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="凹面镜光路" data-name-en="mirror-concave-ray" data-cat="physics-electronics" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-56">凹面镜光路 / mirror_concave_ray</title>
-  <desc id="d-56">凹面镜反射光路图。关键词: 凹面镜,反射,光路</desc>
+  <title id="t-56">凹面镜光路 / Mirror-Concave-Ray</title>
+  <desc id="d-56">凹面镜反射光路图</desc>
   <g id="g-56-凹面镜光路">
     <path d="M 240 60 Q 200 120 240 180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
     <line x1="40" y1="120" x2="240" y2="120" stroke="#6b7280" stroke-width="0.75" fill="none"/>

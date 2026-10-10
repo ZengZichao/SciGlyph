@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="散点图" data-name-en="Scatter Cloud" data-cat="charts-plots" aria-labelledby="t-11 d-11" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-11">散点图 / scatter_cloud</title>
-  <desc id="d-11">数据点散布图。关键词: scatter,cloud,points</desc>
+  <title id="t-11">散点图 / Scatter Cloud</title>
+  <desc id="d-11">数据点散布图</desc>
   <g id="g-11-散点图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

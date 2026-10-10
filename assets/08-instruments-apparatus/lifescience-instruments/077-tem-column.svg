@@ -16,10 +16,10 @@
 <ellipse cx="64" cy="34" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <text x="82" y="36" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">C1</text>
 <rect x="60" y="42" width="8" height="3" rx="1" fill="#33414F" stroke="none" data-ls="dark"/>
-<ellipse cx="64" cy="52" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <text x="82" y="54" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Obj</text>
-<rect x="56" y="60" width="16" height="4" rx="1" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
-    <text x="78" y="64" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
+<ellipse cx="64" cy="56" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <text x="82" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Obj</text>
+<rect x="56" y="46" width="16" height="4" rx="1" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2"/>
+    <text x="78" y="50" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
 <ellipse cx="64" cy="72" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <text x="82" y="74" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Int</text>
 <ellipse cx="64" cy="82" rx="14" ry="4" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

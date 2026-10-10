@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="微生物生物传感器" data-name-en="Microbial Biosensor" data-cat="05-eco-seq" data-tags="生物传感器,受体,信号转导,报告基因,电极,生物发光,剂量响应" role="img" aria-labelledby="t-37-biosensor d-37-biosensor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-37-biosensor">微生物生物传感器 / Microbial Biosensor</title>
-  <desc id="d-37-biosensor">工程菌膜受体识别待测物并经胞内级联放大驱动报告基因，由电极与生物发光读出信号并呈剂量响应曲线。关键词: 生物传感器, 受体, 信号转导, 报告基因, 电极, 生物发光, 剂量响应</desc>
+  <desc id="d-37-biosensor">工程菌膜受体识别待测物并经胞内级联放大驱动报告基因，由电极与生物发光读出信号并呈剂量响应曲线</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 待测物 -->
   <path d="M10 24 l3.5 -2 l3.5 2 l0 4 l-3.5 2 l-3.5 -2 Z" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>

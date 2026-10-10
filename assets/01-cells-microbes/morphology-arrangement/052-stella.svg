@@ -13,7 +13,7 @@
     <path d="M62.5,28.3 L61.4,26.4 L62.9,25.9 L65.6,26.2 L66.1,25.2 L64.6,23.0 L64.2,21.4 L66.5,21.4" fill="none" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <line x1="75" y1="30" x2="85" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="69.12" y="14.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">6 lobes</text>
+    <line x1="67" y1="30" x2="85" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="69.12" y="14.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">6 lobes</text>
   </g>
 </svg>

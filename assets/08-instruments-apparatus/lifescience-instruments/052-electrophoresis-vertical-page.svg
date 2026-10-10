@@ -50,7 +50,7 @@
       <polygon points="60,80 64,90 68,80" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     </g>
     <g id="electrodes">
-      <text x="34" y="26" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" data-ls="stroke">-</text>
+      <text x="34" y="26" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" data-ls="stroke">−</text>
       <text x="34" y="108" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" text-anchor="middle" data-ls="stroke">+</text>
       <path d="M38 20 L30 20" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
       <path d="M38 102 L30 102" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML组合箭头" data-name-en="uml composition" data-cat="arrows-connectors" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">UML组合箭头 / uml_composition</title>
-  <desc id="d-48">UML组合关系实心菱形箭头。关键词: uml,composition,part-of,whole</desc>
+  <title id="t-48">UML组合箭头 / Uml Composition</title>
+  <desc id="d-48">UML组合关系实心菱形箭头</desc>
   <g id="g-48-UML组合箭头">
     <polygon points="20,40 30,32 40,40 30,48" fill="#1f2937" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="40" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="1.5" fill="none"/>

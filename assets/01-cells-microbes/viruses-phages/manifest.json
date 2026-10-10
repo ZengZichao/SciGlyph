@@ -1335,7 +1335,7 @@
   {
    "file": "054-prion-fibril.svg",
    "name_zh": "淀粉样纤维",
-   "name_en": "Prion Fibril",
+   "name_en": "Amyloid Fibril",
    "tags": [
     "prion",
     "amyloid",
@@ -1348,7 +1348,7 @@
    "category": "01-cells-microbes",
    "subdir": "viruses-phages",
    "canvas": "0 0 160 120",
-   "desc": "展示淀粉样纤维结构",
+   "desc": "展示淀粉样纤维（两条扭曲原纤维）结构",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

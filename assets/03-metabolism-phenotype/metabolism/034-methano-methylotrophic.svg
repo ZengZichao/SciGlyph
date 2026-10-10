@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-metabolism" role="img" aria-labelledby="t-34_methano_methylotrophic d-34_methano_methylotrophic" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34_methano_methylotrophic">产甲烷(甲基营养) / Methanogenesis (甲基营养)</title>
+  <title id="t-34_methano_methylotrophic">产甲烷(甲基营养) / Methanogenesis</title>
   <desc id="d-34_methano_methylotrophic">产甲烷甲基营养途径。底物: MeOH。甲基化合物→CH₄ 关键词: methanogenesis, archaea, methanogen</desc>
   <defs>
     <marker id="pp34__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
@@ -11,9 +11,9 @@
   </defs>
   <g id="layer-body" data-name="body">
         <circle cx="15" cy="45" r="9" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-    <text x="15" y="46.5" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">MeOH</text>
+    <text x="15" y="46.5" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink">MeOH</text>
         <rect x="35" y="37" width="20" height="16" rx="1" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-    <text x="45.0" y="46.5" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">Meth</text>
+    <text x="45.0" y="46.5" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink">Meth</text>
         <circle cx="78" cy="45" r="9" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="78" y="46.5" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">CH₄</text>
   </g>

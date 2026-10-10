@@ -7,6 +7,7 @@
 <rect x="0.0" y="0.0" width="400.0" height="400.0" fill="#F4F1EA" data-pp="bg"/>
 <line x1="30.0" y1="200.0" x2="70.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <line x1="70.0" y1="200.0" x2="70.0" y2="130.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+<line x1="70.0" y1="130.0" x2="70.0" y2="60.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <line x1="70.0" y1="60.0" x2="120.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
 <line x1="120.0" y1="60.0" x2="160.0" y2="60.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
 <line x1="70.0" y1="130.0" x2="160.0" y2="130.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
@@ -20,8 +21,8 @@
 <circle cx="160.0" cy="200.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
 <circle cx="160.0" cy="270.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
 <circle cx="160.0" cy="340.0" r="3.0" fill="#2E86AB" data-pp="bacteria"/>
-<rect x="168.0" y="55.0" width="27.0" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
-<rect x="168.0" y="125.0" width="25.5" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="168.0" y="55.0" width="20.0" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
+<rect x="168.0" y="125.0" width="19.0" height="10.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.6" stroke="#00857A" stroke-width="1"/>
 <rect x="168.0" y="195.0" width="9.0" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
 <rect x="168.0" y="265.0" width="7.5" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>
 <rect x="168.0" y="335.0" width="6.0" height="10.0" fill="#E8871E" data-pp="mge" fill-opacity="0.6" stroke="#E8871E" stroke-width="1"/>

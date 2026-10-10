@@ -14,6 +14,6 @@
     <circle cx="75" cy="35" r="2.5" fill="#1B2733" data-pp="ink" fill-opacity="0.5"/>
   </g>
   <g id="layer-annotation-capsule_stain" data-name="annotation">
-    <text x="28" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="start">capsule halo</text>
+    <text x="28" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="start">capsule halo</text>
   </g>
 </svg>

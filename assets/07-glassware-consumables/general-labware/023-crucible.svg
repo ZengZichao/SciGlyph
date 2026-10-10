@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="坩埚带盖" data-name-en="crucible" data-cat="lab-equipment" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-23">坩埚带盖 / crucible</title>
-  <desc id="d-23">高温灼烧和灰分测定。关键词: 坩埚,crucible,灼烧,高温</desc>
+  <title id="t-23">坩埚带盖 / Crucible</title>
+  <desc id="d-23">高温灼烧和灰分测定</desc>
   <g id="g-23-坩埚带盖">
-    <path d="M 35 50 L 30 100 L 90 100 L 85 50 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 33 50 L 40 100 L 80 100 L 87 50 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 30 42 Q 30 35 60 33 Q 90 35 90 42 Q 90 48 60 50 Q 30 48 30 42 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <ellipse cx="60" cy="42" rx="28" ry="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <path d="M 36 65 L 32 98 L 88 98 L 84 65 Z" fill="#E69F00" stroke="none" data-drole="series-1"/>
+    <path d="M 36 65 L 41 98 L 79 98 L 84 65 Z" fill="#E69F00" stroke="none" data-drole="series-1"/>
     <line x1="36" y1="65" x2="84" y2="65" stroke="#E69F00" stroke-width="1.5" data-drole="series-1"/>
   </g>
 </svg>

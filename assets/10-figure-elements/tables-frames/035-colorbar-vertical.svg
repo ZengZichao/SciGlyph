@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="竖直色标" data-name-en="colorbar-vertical" data-cat="tables-frames" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-35">竖直色标 / colorbar_vertical</title>
-  <desc id="d-35">竖直方向色标。关键词: 色标,颜色条,竖直</desc>
+  <title id="t-35">竖直色标 / Colorbar-Vertical</title>
+  <desc id="d-35">竖直方向色标</desc>
   <g id="g-35-竖直色标">
     <rect x="20" y="10" width="15" height="60" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <rect x="20" y="10" width="15" height="20" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
+    <rect x="20" y="50" width="15" height="20" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <rect x="20" y="30" width="15" height="20" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
-    <rect x="20" y="50" width="15" height="20" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
+    <rect x="20" y="10" width="15" height="20" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
     <text x="55" y="20" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">Hi</text>
     <text x="55" y="45" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">Mid</text>
     <text x="55" y="68" font-size="9" fill="#1f2937" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">Lo</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆周角" data-name-en="Circle Inscribed Angle" data-cat="geometry-math" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-27">圆周角 / circle_inscribed_angle</title>
-  <desc id="d-27">圆上圆周角示意。关键词: inscribed,angle,circle</desc>
+  <title id="t-27">圆周角 / Circle Inscribed Angle</title>
+  <desc id="d-27">圆上圆周角示意</desc>
   <g id="g-27-圆周角">
     <circle cx="60" cy="58" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="60" cy="58" r="2" fill="#1f2937" stroke="none"/>

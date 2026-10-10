@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="组件框" data-name-en="Component Box" data-cat="diagrams-sw-uml" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-09">组件框 / component_box</title>
-  <desc id="d-09">UML组件(带十字双竖线图标)。关键词: component,box,uml</desc>
+  <title id="t-09">组件框 / Component Box</title>
+  <desc id="d-09">UML组件(带十字双竖线图标)</desc>
   <g id="g-09-组件框">
     <rect x="20" y="15" width="85" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="22" y="25" width="16" height="8" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

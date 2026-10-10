@@ -13,7 +13,7 @@
     <rect x="55" y="60" width="8" height="5" rx="1" fill="#A2305B" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
     <text x="70" y="38" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">R</text>
     <text x="38" y="62" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria">mob</text>
-  <path d="M36,45 A14,14 0 0 1 64,45" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/><circle cx="50" cy="45" r="1.5" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.5" data-pp="gene"/><line x1="65" y1="45" x2="73" y2="45" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/></g>
+  <path d="M36,45 A14,14 0 0 1 64,45" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/><circle cx="50" cy="45" r="1.5" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.5" data-pp="gene"/></g>
   
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">质粒</text>

@@ -13,7 +13,7 @@
 <circle cx="160" cy="180" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
 <text x="360" y="110" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">Global peak</text>
 <circle cx="360" cy="120" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-<text x="260" y="270" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Fitness valley</text>
+<text x="260" y="225" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Fitness valley</text>
 <circle cx="120" cy="210" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
 <circle cx="140" cy="195" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
 <circle cx="155" cy="185" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
@@ -30,11 +30,11 @@
 <text x="560" y="315" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">Genotype space</text>
 <line x1="40" y1="300" x2="40" y2="100" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
 <text x="30" y="105" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">W</text>
-<rect x="400" y="310" width="180" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<rect x="400" y="320" width="180" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <circle cx="415" cy="330" r="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <text x="425" y="334" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Population trajectory</text>
 <circle cx="415" cy="350" r="4" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
 <text x="425" y="354" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">Adaptive peak</text>
-<text font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start" font-size="7" x="499.68" y="341.79">Drift can cross valleys</text><line x1="506.0" y1="332.18" x2="502.9" y2="337.75" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start" font-size="9" x="410" y="366">Drift can cross valleys</text>
 </g>
 </svg>

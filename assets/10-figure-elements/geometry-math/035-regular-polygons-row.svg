@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="正多边形一排" data-name-en="Regular Polygons Row" data-cat="geometry-math" aria-labelledby="t-35 d-35" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-35">正多边形一排 / regular_polygons_row</title>
-  <desc id="d-35">正三角到正八边形排列。关键词: polygon,regular,row</desc>
-  <g id="g-35-正多边形一排">
+  <title id="t-35">正多边形一排 / Regular Polygons Row</title>
+  <desc id="d-35">正三角到正八边形排列</desc>
+  <g id="g-35-正多边形一排" transform="translate(0 31)">
     <polygon points="40,60 25,100 55,100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <text x="40" y="120" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">3</text>
 

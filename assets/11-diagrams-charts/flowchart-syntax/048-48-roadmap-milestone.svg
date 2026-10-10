@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="里程碑路线" data-name-en="roadmap-milestone" data-cat="flowchart-logic" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">里程碑路线 / roadmap_milestone</title>
-  <desc id="d-48">四季度里程碑路线。关键词: roadmap,milestone</desc>
+  <title id="t-48">里程碑路线 / Roadmap-Milestone</title>
+  <desc id="d-48">四季度里程碑路线</desc>
   <g id="g-48-里程碑路线">
     <line fill="none" x1="30" y1="80" x2="450" y2="80" stroke="#1f2937" stroke-width="2"/>
     <polygon points="446,76 454,80 446,84" fill="#1f2937"/>

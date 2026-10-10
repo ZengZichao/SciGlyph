@@ -2,24 +2,87 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400"
      role="img" aria-labelledby="t-48 d-48" class="pp-diagram pp-tree-decor" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-48">树+温度pH梯度 / Tree+Temp/pH Gradient</title>
-  <desc id="d-48">装饰零件，贴到树上用。树+温度/pH/盐度梯度条。 关键词: tree decoration, temperature pH gradient, salinity gradient, environmental covariate</desc>
+  <desc id="d-48">装饰零件，贴到树上用。5 末端树 + 温度(0–100 °C)与 pH(0–14) 两条并列梯度轨，各带独立数值轴。</desc>
   <rect x="0" y="0" width="400" height="400" fill="#F4F1EA" data-pp="bg"/>
-  <g data-name="tree_temp_ph_gradient">
-    <rect x="100" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.20" data-pp="metabolism"/>
-    <rect x="120" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.28" data-pp="metabolism"/>
-    <rect x="140" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.36" data-pp="metabolism"/>
-    <rect x="160" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.44" data-pp="metabolism"/>
-    <rect x="180" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.52" data-pp="metabolism"/>
-    <rect x="200" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.60" data-pp="metabolism"/>
-    <rect x="220" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.68" data-pp="metabolism"/>
-    <rect x="240" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.76" data-pp="metabolism"/>
-    <rect x="260" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.84" data-pp="metabolism"/>
-    <rect x="280" y="180" width="20" height="40" fill="#00857A" fill-opacity="0.92" data-pp="metabolism"/>
+  <g data-name="tree">
+    <line x1="30" y1="180" x2="55" y2="180" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="55" y1="130" x2="55" y2="255" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="55" y1="130" x2="85" y2="130" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="55" y1="255" x2="85" y2="255" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="80" x2="85" y2="180" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="80" x2="140" y2="80" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="180" x2="112" y2="180" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112" y1="130" x2="112" y2="180" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112" y1="130" x2="140" y2="130" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="112" y1="180" x2="140" y2="180" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="230" x2="85" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="230" x2="140" y2="230" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="85" y1="280" x2="140" y2="280" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <circle cx="140" cy="80" r="3.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="140" cy="130" r="3.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="140" cy="180" r="3.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="140" cy="230" r="3.5" fill="#2E86AB" data-pp="bacteria"/>
+    <circle cx="140" cy="280" r="3.5" fill="#2E86AB" data-pp="bacteria"/>
+  </g>
+  <g data-name="temp_track">
+    <line x1="146" y1="80" x2="162" y2="80" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="146" y1="130" x2="162" y2="130" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="146" y1="180" x2="162" y2="180" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="146" y1="230" x2="162" y2="230" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="146" y1="280" x2="162" y2="280" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
+    <line x1="165" y1="62" x2="165" y2="306" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="165" y1="80" x2="169" y2="80" stroke="#C42D2D" stroke-width="1.6" data-pp="alert" stroke-linecap="round"/>
+    <line x1="165" y1="130" x2="180" y2="130" stroke="#C42D2D" stroke-width="1.6" data-pp="alert" stroke-linecap="round"/>
+    <line x1="165" y1="180" x2="202" y2="180" stroke="#C42D2D" stroke-width="1.6" data-pp="alert" stroke-linecap="round"/>
+    <line x1="165" y1="230" x2="225" y2="230" stroke="#C42D2D" stroke-width="1.6" data-pp="alert" stroke-linecap="round"/>
+    <line x1="165" y1="280" x2="253" y2="280" stroke="#C42D2D" stroke-width="1.6" data-pp="alert" stroke-linecap="round"/>
+    <circle cx="169" cy="80" r="3.5" fill="#C42D2D" fill-opacity="0.32" stroke="#C42D2D" stroke-width="0.8" data-pp="alert"/>
+    <circle cx="180" cy="130" r="3.5" fill="#C42D2D" fill-opacity="0.39" stroke="#C42D2D" stroke-width="0.8" data-pp="alert"/>
+    <circle cx="202" cy="180" r="3.5" fill="#C42D2D" fill-opacity="0.52" stroke="#C42D2D" stroke-width="0.8" data-pp="alert"/>
+    <circle cx="225" cy="230" r="3.5" fill="#C42D2D" fill-opacity="0.66" stroke="#C42D2D" stroke-width="0.8" data-pp="alert"/>
+    <circle cx="253" cy="280" r="3.5" fill="#C42D2D" fill-opacity="0.83" stroke="#C42D2D" stroke-width="0.8" data-pp="alert"/>
+  </g>
+  <g data-name="ph_track">
+    <line x1="285" y1="62" x2="285" y2="306" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="285" y1="80" x2="303" y2="80" stroke="#6C3FA0" stroke-width="1.6" data-pp="gene" stroke-linecap="round"/>
+    <line x1="285" y1="130" x2="317" y2="130" stroke="#6C3FA0" stroke-width="1.6" data-pp="gene" stroke-linecap="round"/>
+    <line x1="285" y1="180" x2="335" y2="180" stroke="#6C3FA0" stroke-width="1.6" data-pp="gene" stroke-linecap="round"/>
+    <line x1="285" y1="230" x2="349" y2="230" stroke="#6C3FA0" stroke-width="1.6" data-pp="gene" stroke-linecap="round"/>
+    <line x1="285" y1="280" x2="364" y2="280" stroke="#6C3FA0" stroke-width="1.6" data-pp="gene" stroke-linecap="round"/>
+    <circle cx="303" cy="80" r="3.5" fill="#6C3FA0" fill-opacity="0.41" stroke="#6C3FA0" stroke-width="0.8" data-pp="gene"/>
+    <circle cx="317" cy="130" r="3.5" fill="#6C3FA0" fill-opacity="0.51" stroke="#6C3FA0" stroke-width="0.8" data-pp="gene"/>
+    <circle cx="335" cy="180" r="3.5" fill="#6C3FA0" fill-opacity="0.64" stroke="#6C3FA0" stroke-width="0.8" data-pp="gene"/>
+    <circle cx="349" cy="230" r="3.5" fill="#6C3FA0" fill-opacity="0.73" stroke="#6C3FA0" stroke-width="0.8" data-pp="gene"/>
+    <circle cx="364" cy="280" r="3.5" fill="#6C3FA0" fill-opacity="0.84" stroke="#6C3FA0" stroke-width="0.8" data-pp="gene"/>
   </g>
   <g data-name="annotation">
-    <line x1="100" y1="230" x2="300" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100" y1="170" x2="100" y2="230" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
-    <line x1="100" y1="240" x2="300" y2="240" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <rect x="100" y="260" width="100" height="8" fill="#00857A" fill-opacity="0.2" stroke="none" data-pp="metabolism"/>
+    <text x="200" y="28" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold" text-anchor="middle">Tree + Temp / pH Gradient</text>
+    <text x="215" y="50" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" font-weight="bold" text-anchor="middle">Temperature (°C)</text>
+    <text x="335" y="50" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#6C3FA0" data-pp="gene" font-weight="bold" text-anchor="middle">pH</text>
+    <line x1="165" y1="310" x2="265" y2="310" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/>
+    <line x1="165" y1="310" x2="165" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="190" y1="310" x2="190" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="215" y1="310" x2="215" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="240" y1="310" x2="240" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="265" y1="310" x2="265" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="165" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+    <text x="190" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">25</text>
+    <text x="215" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">50</text>
+    <text x="240" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">75</text>
+    <text x="265" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">100</text>
+    <line x1="285" y1="310" x2="385" y2="310" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/>
+    <line x1="285" y1="310" x2="285" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="310" y1="310" x2="310" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="335" y1="310" x2="335" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="360" y1="310" x2="360" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="385" y1="310" x2="385" y2="315" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="285" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">0</text>
+    <text x="310" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">3.5</text>
+    <text x="335" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">7</text>
+    <text x="360" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">10.5</text>
+    <text x="385" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">14</text>
+    <text x="215" y="346" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">cold → hot</text>
+    <text x="335" y="346" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">acid → alkaline</text>
+    <text x="200" y="374" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Two parallel covariate tracks; each tip reads on its own scale</text>
   </g>
 </svg>

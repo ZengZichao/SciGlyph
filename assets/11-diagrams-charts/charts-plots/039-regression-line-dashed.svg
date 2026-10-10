@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="回归虚线" data-name-en="Regression Line Dashed" data-cat="charts-plots" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">回归虚线 / regression_line_dashed</title>
-  <desc id="d-39">散点加回归虚线。关键词: regression,dashed,fit</desc>
+  <title id="t-39">回归虚线 / Regression Line Dashed</title>
+  <desc id="d-39">散点加回归虚线</desc>
   <g id="g-39-回归虚线">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

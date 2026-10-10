@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="污水生物处理" data-name-en="Biological Wastewater Treatment" data-cat="05-eco-seq" data-tags="污水处理,活性污泥,曝气,二沉池,生物膜,固液分离" role="img" aria-labelledby="t-32-wastewater-treatment d-32-wastewater-treatment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-32-wastewater-treatment">污水生物处理 / Biological Wastewater Treatment</title>
-  <desc id="d-32-wastewater-treatment">曝气池中活性污泥絮体与生物膜填料降解有机物，二沉池完成固液分离，污泥沉降排出、上清液达标排放。关键词: 污水处理, 活性污泥, 曝气, 二沉池, 生物膜, 固液分离</desc>
+  <desc id="d-32-wastewater-treatment">曝气池中活性污泥絮体与生物膜填料降解有机物，二沉池完成固液分离，污泥沉降排出、上清液达标排放</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 进水管与污染物 -->
   <path d="M6 16 H30 V30 H6 Z" fill="#7A8B93" fill-opacity="0.4" stroke="#2B3A42" stroke-width="1.2"/>

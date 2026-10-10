@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="弓形" data-name-en="Segment" data-cat="geometry-math" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">弓形 / segment</title>
-  <desc id="d-18">由弦和弧围成。关键词: segment,circle,geometry</desc>
+  <title id="t-18">弓形 / Segment</title>
+  <desc id="d-18">由弦和弧围成</desc>
   <g id="g-18-弓形">
     <path d="M20,70 A50,50 0 0,1 100,70 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <line fill="none" x1="20" y1="70" x2="100" y2="70" stroke="#1f2937" stroke-width="1.5"/>

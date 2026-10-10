@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="多节电池" data-name-en="battery-multi-cell" data-cat="physics-electronics" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">多节电池 / battery_multi_cell</title>
-  <desc id="d-32">多节串联电池组符号。关键词: 电池,多节,串联,电源</desc>
+  <title id="t-32">多节电池 / Battery-Multi-Cell</title>
+  <desc id="d-32">多节串联电池组符号</desc>
   <g id="g-32-多节电池">
     <line x1="10" y1="40" x2="30" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="30" y1="20" x2="30" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>

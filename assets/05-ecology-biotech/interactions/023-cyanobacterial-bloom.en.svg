@@ -11,9 +11,9 @@
     <circle cx="38" cy="52" r="4" fill="#00857A" data-pp="metabolism"/>
     <circle cx="55" cy="55" r="5" fill="#00857A" data-pp="metabolism"/>
     <circle cx="70" cy="50" r="4" fill="#00857A" data-pp="metabolism"/>
-    <text x="50" y="75" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">toxin</text>
+    <text x="50" y="67" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">toxin</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Blooms</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cyanobacterial bloom</text>
   </g>
 </svg>

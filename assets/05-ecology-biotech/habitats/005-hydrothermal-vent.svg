@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="深海热液喷口" data-name-en="Hydrothermal Vent" data-cat="05-eco-seq" data-tags="热液喷口,黑烟囱,化能合成,管虫,嗜热古菌" role="img" aria-labelledby="t-05-hydrothermal-vent d-05-hydrothermal-vent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-05-hydrothermal-vent">深海热液喷口 / Hydrothermal Vent</title>
-  <desc id="d-05-hydrothermal-vent">硫化物烟囱喷出高温还原性热液并形成矿物羽流，化能合成菌垫与管虫群落构成深海绿洲。关键词: 热液喷口, 黑烟囱, 化能合成, 管虫, 嗜热古菌</desc>
+  <desc id="d-05-hydrothermal-vent">硫化物烟囱喷出高温还原性热液并形成矿物羽流，化能合成菌垫与管虫群落构成深海绿洲</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 烟囱主体（硫化物烟囱） -->
   <path d="M48 97 C50 78 46 62 53 46 L67 46 C74 62 70 78 72 97 Z" fill="#7A8B93" fill-opacity="0.45" stroke="#2B3A42" stroke-width="1.4"/>

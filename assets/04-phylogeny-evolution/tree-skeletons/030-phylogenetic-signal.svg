@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="长枝吸引与信号强度" data-name-en="LBA and phylogenetic signal" data-cat="04-phylo" data-tags="长枝吸引,LBA,Felsenstein 区,系统发育信号,RCV" aria-labelledby="t-30-phylogenetic-signal d-30-phylogenetic-signal" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-30-phylogenetic-signal">长枝吸引与信号强度 / LBA and phylogenetic signal</title>
-  <desc id="d-30-phylogenetic-signal">左为短枝规则的真实信号树，右为两个长枝类群被错误聚在一起的长枝吸引（LBA）假象；下方条形对比树长、简约信息位点与 RCV（序列组成异质性）。关键词: 长枝吸引, LBA, Felsenstein 区, 系统发育信号, RCV</desc>
+  <desc id="d-30-phylogenetic-signal">左为短枝规则的真实信号树，右为两个长枝类群被错误聚在一起的长枝吸引（LBA）假象；下方条形对比树长、简约信息位点与 RCV（序列组成异质性）</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <rect x="14" y="16" width="100" height="78" rx="4" fill="#FFFFFF" stroke="#DCEEE4" stroke-width="1.2"/>

@@ -3,14 +3,12 @@
      role="img" aria-labelledby="t d"
      data-id="el-rheostat-potentiometer" data-cat="el" data-spec="128"
      data-tags="potentiometer,rheostat,variable,电位器" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">电位器（滑动变阻器）/ Potentiometer (Rheostat)</title>
+  <title id="t">电位器（滑动变阻器） / Potentiometer (Rheostat)</title>
   <desc id="d">电位器符号：电阻+滑动触头。</desc>
   <g id="body"><rect x="36" y="52" width="56" height="24" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <line x1="10" y1="64" x2="36" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="92" y1="64" x2="118" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="64" y1="30" x2="64" y2="52" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <path d="M56 36 L64 28 L72 36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="36" y1="64" x2="36" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <line x1="92" y1="64" x2="92" y2="80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+    <line x1="64" y1="20" x2="64" y2="44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M56 44 L64 52 L72 44" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
   <g id="detail"></g>
 </svg>

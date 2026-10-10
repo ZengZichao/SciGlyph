@@ -26,7 +26,7 @@
 <line x1="420" y1="300" x2="450" y2="300" stroke="#2E86AB" data-pp="bacteria" stroke-width="2" stroke-linecap="round"/>
 <text x="460" y="304" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start">双峰</text>
 <rect x="60" y="320" width="300" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
-<text x="210" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">非洲 Finch 喙大小 · 宿主转换</text>
-<text x="210" y="358" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">可驱向同域成种</text>
+<text x="210" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">非洲雀喙大小 · 宿主转换</text>
+<text x="210" y="358" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">可驱动同域成种</text>
 </g>
 </svg>

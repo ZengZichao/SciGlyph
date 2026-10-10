@@ -5,7 +5,7 @@
   <desc id="d-inclusion">细胞内包埋体：羧酶体等多面体包涵物。关键词: inclusion, carboxysome, intracellular</desc>
   
   <g id="layer-body-1" data-name="body">
-    <rect x="15.0" y="35.0" width="70" height="30" rx="15.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><polygon points="35,45 40,40 48,40 52,45 48,50 40,50" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/><polygon points="55,48 60,43 68,43 72,48 68,53 60,53" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/><circle cx="42" cy="58" r="4" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene"/>
+    <rect x="15.0" y="35.0" width="70" height="30" rx="15.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/><polygon points="35,45 40,40 48,40 52,45 48,50 40,50" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/><ellipse cx="63.5" cy="48" rx="8.5" ry="5" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/><circle cx="42" cy="58" r="4" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene"/>
   </g>
   <g id="layer-annotation-1" data-name="annotation">
     <line x1="50" y1="38" x2="50" y2="20" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><text x="32.0" y="16.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">carboxysome</text><line x1="65" y1="42" x2="80" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="68.0" y1="15.9" x2="72.29" y2="20.63" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="73.7" y="23.72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PHB</text>

@@ -397,7 +397,7 @@
    "category": "11-diagrams-charts",
    "subdir": "charts-plots",
    "canvas": "0 0 240 240",
-   "desc": "极坐标玫瑰图",
+   "desc": "极坐标玫瑰图：8 方位不等半径花瓣，同心环 25/50/75 与方位类别标签",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -568,7 +568,7 @@
    "category": "11-diagrams-charts",
    "subdir": "charts-plots",
    "canvas": "0 0 400 320",
-   "desc": "六角形分箱图",
+   "desc": "追加\"（纯纹理示意，无坐标轴）\"以免与热力矩阵类素材混淆",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1572,7 +1572,7 @@
   },
   {
    "file": "072-chart-flow-arrow-chevrons.svg",
-   "name_zh": "五段箭头链条",
+   "name_zh": "四段箭头链条",
    "name_en": "Chart Flow Arrow Chevrons",
    "tags": [
     "chart",
@@ -1589,7 +1589,7 @@
    "category": "11-diagrams-charts",
    "subdir": "charts-plots",
    "canvas": "0 0 128 128",
-   "desc": "五段箭头链条。",
+   "desc": "四段箭头链条（蓝/橙/绿/红四段首尾相接）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

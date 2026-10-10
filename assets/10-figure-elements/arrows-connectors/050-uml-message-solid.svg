@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML消息实线箭头" data-name-en="uml message solid" data-cat="arrows-connectors" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-50">UML消息实线箭头 / uml_message_solid</title>
-  <desc id="d-50">UML顺序图消息实线箭头。关键词: uml,message,solid,sequence</desc>
+  <title id="t-50">UML消息实线箭头 / Uml Message Solid</title>
+  <desc id="d-50">UML顺序图消息实线箭头</desc>
   <g id="g-50-UML消息实线箭头">
     <line x1="20" y1="40" x2="86" y2="40" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <polygon points="86,32 100,40 86,48" fill="#1f2937"/>

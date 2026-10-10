@@ -28,7 +28,7 @@
         <line x1="22" y1="72" x2="27" y2="72" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp08__ar)"/>
         <line x1="37" y1="72" x2="42" y2="72" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp08__ar)"/>
         <circle cx="80" cy="50" r="7" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="60.47" y="51.5">Carbonate</text>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink" font-size="7" x="79.97" y="51.5">Carbonate</text>
         <line x1="54" y1="72" x2="73" y2="53" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp08__ar)"/>
     <text x="62" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ATP</text>
     <text x="10" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no O₂</text>

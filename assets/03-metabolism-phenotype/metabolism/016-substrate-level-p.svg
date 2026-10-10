@@ -13,9 +13,9 @@
         <rect x="8" y="35" width="20" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="18.0" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">P~X</text>
         <rect x="40" y="35" width="18" height="14" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="49.0" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ADP</text>
+    <text x="49.0" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">ADP</text>
         <rect x="70" y="35" width="18" height="14" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="79.0" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">ATP</text>
+    <text x="79.0" y="43.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">ATP</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
         <line x1="28" y1="42" x2="40" y2="42" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp16__ar)"/>

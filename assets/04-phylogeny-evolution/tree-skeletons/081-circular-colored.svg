@@ -5,41 +5,31 @@
   <desc id="d-49">骨架，配合iTOL使用。环形树tip按分类群着色。 关键词: phylogenetic tree, circular colored, iTOL, tip, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp49__branches" data-name="branches">
-    <line x1="200.0" y1="200.0" x2="230.0" y2="187.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 230.0 187.6 A 32.5 32.5 0 0 1 212.4 170.0" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="212.4" y1="170.0" x2="224.9" y2="139.9" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <path d="M 230.0 187.6 A 32.5 32.5 0 0 1 232.5 200.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="232.5" y1="200.0" x2="265.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 265.0 200.0 A 65.0 65.0 0 0 1 260.1 175.1" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="260.1" y1="175.1" x2="290.1" y2="162.7" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <path d="M 265.0 200.0 A 65.0 65.0 0 0 1 260.1 224.9" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="260.1" y1="224.9" x2="290.1" y2="237.3" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="200.0" y1="200.0" x2="170.0" y2="212.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 170.0 212.4 A 32.5 32.5 0 0 1 200.0 232.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="200.0" y1="232.5" x2="200.0" y2="265.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 200.0 265.0 A 65.0 65.0 0 0 1 224.9 260.1" fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="224.9" y1="260.1" x2="237.3" y2="290.1" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <path d="M 200.0 265.0 A 65.0 65.0 0 0 1 175.1 260.1" fill="none" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
-    <line x1="175.1" y1="260.1" x2="162.7" y2="290.1" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
-    <path d="M 170.0 212.4 A 32.5 32.5 0 0 1 170.0 187.6" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="170.0" y1="187.6" x2="139.9" y2="175.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 139.9 175.1 A 65.0 65.0 0 0 1 139.9 224.9" fill="none" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
-    <line x1="139.9" y1="224.9" x2="109.9" y2="237.3" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
-    <path d="M 139.9 175.1 A 65.0 65.0 0 0 1 154.0 154.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="154.0" y1="154.0" x2="131.1" y2="131.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 131.1 131.1 A 97.5 97.5 0 0 1 109.9 162.7" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="109.9" y1="162.7" x2="79.9" y2="150.3" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <path d="M 131.1 131.1 A 97.5 97.5 0 0 1 162.7 109.9" fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="162.7" y1="109.9" x2="150.3" y2="79.9" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M 285 200 L 293.8 244.1 M 285 200 L 263.8 160.3" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 316.8 231.8 A 45 45 0 0 1 267.8 241.6 M 316.8 231.8 L 348.6 263.6 M 267.8 241.6 L 225.7 343.2 M 368.1 234.4 A 90 90 0 0 1 319.4 283.1 M 368.1 234.4 L 428.2 259.3 M 319.4 283.1 L 344.3 343.2"
+          fill="none" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <path d="M 240 200 A 45 45 0 0 1 310 162.6 M 240 200 L 195 200 M 310 162.6 L 335 125.2" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 201.9 234.4 A 90 90 0 0 1 201.9 165.6 M 201.9 234.4 L 141.8 259.3 M 201.9 165.6 L 141.8 140.7"
+          fill="none" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <path d="M 285 110 A 90 90 0 0 1 368.1 165.6 M 285 110 L 285 75 M 368.1 165.6 L 428.2 140.7 M 237.2 84.5 A 125 125 0 0 1 332.8 84.5 M 237.2 84.5 L 225.7 56.8 M 332.8 84.5 L 344.3 56.8"
+          fill="none" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
   </g>
   <g id="pp49__labels" data-name="tip-labels">
-    <text x="253.6" y="70.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="start" transform="rotate(-67.5 253.6 70.7)">Sp_C</text>
-    <text x="329.3" y="146.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" transform="rotate(-22.5 329.3 146.4)">Sp_A</text>
-    <text x="329.3" y="253.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="end" transform="rotate(202.5 329.3 253.6)">Sp_B</text>
-    <text x="253.6" y="329.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="end" transform="rotate(247.5 253.6 329.3)">Sp_D</text>
-    <text x="146.4" y="329.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote" text-anchor="end" transform="rotate(292.5 146.4 329.3)">Sp_E</text>
-    <text x="70.7" y="253.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote" text-anchor="end" transform="rotate(337.5 70.7 253.6)">Sp_F</text>
-    <text x="70.7" y="146.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" transform="rotate(202.5 70.7 146.4)">Sp_G</text>
-    <text x="146.4" y="70.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" transform="rotate(247.5 146.4 70.7)">Sp_H</text>
+    <text x="434.7" y="262" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" transform="rotate(22.5 434.7 262)">Sp_A</text>
+    <text x="347" y="349.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="start" transform="rotate(67.5 347 349.7)">Sp_B</text>
+    <text x="223" y="349.7" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="end" transform="rotate(-67.5 223 349.7)">Sp_C</text>
+    <text x="135.3" y="262" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="end" transform="rotate(-22.5 135.3 262)">Sp_D</text>
+    <text x="135.3" y="138" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="end" transform="rotate(22.5 135.3 138)">Sp_E</text>
+    <text x="223" y="50.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote" text-anchor="end" transform="rotate(67.5 223 50.3)">Sp_F</text>
+    <text x="347" y="50.3" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote" text-anchor="start" transform="rotate(-67.5 347 50.3)">Sp_G</text>
+    <text x="434.7" y="138" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote" text-anchor="start" transform="rotate(-22.5 434.7 138)">Sp_H</text>
+  </g>
+  <g data-name="domain-legend">
+    <rect x="470" y="172" width="14" height="10" fill="#2E86AB" data-pp="bacteria"/>
+    <text x="492" y="181" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacteria</text>
+    <rect x="470" y="192" width="14" height="10" fill="#A2305B" data-pp="archaea"/>
+    <text x="492" y="201" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Archaea</text>
+    <rect x="470" y="212" width="14" height="10" fill="#3F8FBF" data-pp="eukaryote"/>
+    <text x="492" y="221" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Eukaryota</text>
   </g>
 </svg>

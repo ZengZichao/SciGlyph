@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="立方体" data-name-en="Cube" data-cat="geometry-math" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-36">立方体 / cube</title>
-  <desc id="d-36">等轴测投影的立方体。关键词: cube,hexahedron,solid</desc>
+  <title id="t-36">立方体 / Cube</title>
+  <desc id="d-36">等轴测投影的立方体</desc>
   <g id="g-36-立方体">
     <polygon points="25,85 75,85 75,35 25,35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <polygon points="25,35 45,18 95,18 75,35" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

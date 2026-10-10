@@ -538,7 +538,7 @@
    "category": "09-safety-signage",
    "subdir": "ppe-emergency",
    "canvas": "0 0 24 24",
-   "desc": "前面进风+HEPA端+台面+支架脚",
+   "desc": "侧视水平层流超净台：后侧 HEPA 出风格栅、三条指向操作者的水平气流箭头、台面、前回风格栅与支架脚",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -989,7 +989,7 @@
    "category": "09-safety-signage",
    "subdir": "ppe-emergency",
    "canvas": "0 0 128 128",
-   "desc": "脚踏式生物危害废物桶，带盖和脚踏板。",
+   "desc": "脚踏式生物危害废物桶，黄色桶身带生物危害标志、盖和脚踏板。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

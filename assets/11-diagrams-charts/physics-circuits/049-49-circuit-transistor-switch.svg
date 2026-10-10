@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="晶体管开关" data-name-en="circuit-transistor-switch" data-cat="physics-electronics" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">晶体管开关 / circuit_transistor_switch</title>
-  <desc id="d-49">NPN晶体管开关电路。关键词: 晶体管,开关,NPN</desc>
+  <title id="t-49">晶体管开关 / Circuit-Transistor-Switch</title>
+  <desc id="d-49">NPN晶体管开关电路</desc>
   <g id="g-49-晶体管开关">
     <line x1="20" y1="140" x2="60" y2="140" stroke="#1f2937" stroke-width="2" fill="none"/>
     <rect x="60" y="128" width="40" height="24" fill="none" stroke="#1f2937" stroke-width="2"/>

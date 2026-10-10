@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="本生灯" data-name-en="bunsen_burner" data-cat="lab-equipment" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-44">本生灯 / bunsen_burner</title>
-  <desc id="d-44">提供高温可调节火焰。关键词: 本生灯,bunsen,加热,火焰</desc>
+  <title id="t-44">本生灯 / Bunsen_Burner</title>
+  <desc id="d-44">提供高温可调节火焰</desc>
   <g id="g-44-本生灯">
     <rect x="40" y="100" width="40" height="10" rx="3" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="52" y="40" width="16" height="62" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="48" y="35" width="24" height="8" rx="2" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <path d="M 80 85 L 95 85 L 95 75 L 80 75 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
+    <path d="M 78 104 L 94 104 L 94 96 L 78 96 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <path d="M 52 35 Q 52 12 60 8 Q 68 12 68 35 Z" fill="#E69F00" stroke="none" data-drole="series-1"/>
     <path d="M 55 30 Q 56 15 60 11 Q 64 15 65 30 Z" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
   </g>

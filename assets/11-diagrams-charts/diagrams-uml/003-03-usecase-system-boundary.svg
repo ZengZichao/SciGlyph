@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="系统边界加两用例" data-name-en="Usecase System Boundary" data-cat="diagrams-sw-uml" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-03">系统边界加两用例 / usecase_system_boundary</title>
-  <desc id="d-03">系统边界矩形内含用例椭圆。关键词: system,boundary,usecase</desc>
+  <title id="t-03">系统边界加两用例 / Usecase System Boundary</title>
+  <desc id="d-03">系统边界矩形内含用例椭圆</desc>
   <g id="g-03-系统边界加两用例">
     <rect x="100" y="30" width="180" height="180" fill="#ffffff" stroke="#1f2937" stroke-width="2"/>
     <text x="190" y="50" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">System</text>

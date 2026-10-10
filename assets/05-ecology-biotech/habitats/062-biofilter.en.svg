@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-biofilter d-biofilter" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-biofilter">Biofilter</title>
-  <desc id="d-biofilter">Trickling biofilter with rock media, nitrifying bacteria and downward flow 关键词: biofilter, trickling, nitrifier</desc>
+  <desc id="d-biofilter">Trickling biofilter with rock media, nitrifying bacteria and downward flow</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="20" y="10" width="60" height="70" rx="3" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>

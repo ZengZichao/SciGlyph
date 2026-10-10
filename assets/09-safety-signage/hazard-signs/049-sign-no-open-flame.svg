@@ -7,7 +7,7 @@
   <desc id="d">禁止明火：火柴+红色圆圈斜杠。</desc>
   <g id="body"><circle cx="64" cy="64" r="48" fill="#FFFFFF" stroke="#E02020" stroke-width="6" data-ls="fill" data-ls-stroke="danger"/>
     <path d="M64 34 C58 48 50 54 50 68 C50 78 56 86 64 86 C72 86 78 78 78 68 C78 54 70 48 64 34Z" fill="#F5A623" stroke="#1F2933" stroke-width="2" data-ls="warn" data-ls-stroke="stroke"/>
-    <rect x="62" y="86" width="4" height="14" rx="1" fill="#8B6914"/>
-    <line x1="22" y1="100" x2="106" y2="28" stroke="#E02020" stroke-linecap="round" stroke-width="6" data-ls="danger"/></g>
+    <rect x="62" y="86" width="4" height="14" rx="1" fill="#1F2933"/>
+    <line x1="22" y1="28" x2="106" y2="100" stroke="#E02020" stroke-linecap="round" stroke-width="6" data-ls="danger"/></g>
   <g id="detail"></g>
 </svg>

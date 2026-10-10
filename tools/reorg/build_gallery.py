@@ -83,7 +83,10 @@ I18N = {
 
 def main():
     items = collect()
-    assert len(items) == 2830, len(items)
+    n_main = sum(1 for p in (ROOT / "assets").glob("*/*/*.svg")
+                 if not p.name.endswith(".en.svg"))
+    if len(items) != n_main:
+        raise SystemExit(f"manifest 条目 {len(items)} 与磁盘主素材 {n_main} 不一致，先补齐 manifest")
     data = json.dumps(items, ensure_ascii=False, separators=(",", ":"))
     i18n = json.dumps(I18N, ensure_ascii=False)
     cats_js = json.dumps([{"id": f"{n}-{d}", "zh": z, "en": e} for n, d, z, e in CATS],
@@ -239,7 +242,7 @@ render();
         "__ALLFMT_ZH__": "全部形态", "__ALLFMT_EN__": "All formats",
     }.items():
         html = html.replace(k, v)
-    (ROOT / "index.html").write_text(html, encoding="utf-8")
+    (ROOT / "index.html").write_text(html, encoding="utf-8", newline="\n")
     print(f"index.html 生成：{len(items)} 素材，{len(html)//1024} KB")
 
 

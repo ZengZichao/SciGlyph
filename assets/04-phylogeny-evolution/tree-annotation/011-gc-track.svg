@@ -40,6 +40,5 @@
     <line x1="100" y1="300" x2="395" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="100" y1="100" x2="100" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
     <line x1="100" y1="200" x2="395" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <rect x="100" y="330" width="10" height="10" fill="#00857A" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="metabolism"/>
   </g>
 </svg>

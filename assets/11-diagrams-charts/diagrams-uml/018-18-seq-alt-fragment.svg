@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="ALT框" data-name-en="Seq Alt Fragment" data-cat="diagrams-sw-uml" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">ALT框 / seq_alt_fragment</title>
-  <desc id="d-18">时序图ALT条件分支片段。关键词: alt,fragment,sequence</desc>
+  <title id="t-18">ALT框 / Seq Alt Fragment</title>
+  <desc id="d-18">时序图ALT条件分支片段</desc>
   <g id="g-18-ALT框">
     <rect x="10" y="10" width="140" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="10" y="10" width="30" height="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

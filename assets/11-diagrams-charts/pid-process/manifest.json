@@ -1598,7 +1598,7 @@
    "category": "11-diagrams-charts",
    "subdir": "pid-process",
    "canvas": "0 0 128 128",
-   "desc": "转鼓真空过滤机，旋转圆鼓。",
+   "desc": "转鼓真空过滤机剖面：转鼓部分浸入料浆槽，鼓面滤饼由刮刀卸料，滤液经中心轴自顶部真空口排出。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

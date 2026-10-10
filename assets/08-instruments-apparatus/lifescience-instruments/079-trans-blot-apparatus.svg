@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-trans-blot-apparatus" data-cat="ls" data-spec="128" data-tags="trans,blot,western,transfer,pvdf,nitrocellulose,sandwich" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-trans-blot-apparatus" data-cat="ls" data-spec="128" data-tags="trans,blot,western,transfer,pvdf,nitrocellulose,sandwich" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">转印电泳装置 / Trans-Blot Apparatus</title>
   <desc id="d">湿式蛋白质转印装置：凝胶-膜三明治、海绵垫、电极。</desc>
   <g id="body">
@@ -15,9 +15,9 @@
 <rect x="44" y="42" width="8" height="44" rx="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
 <rect x="54" y="42" width="4" height="44" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
 <rect x="60" y="42" width="4" height="44" rx="1" fill="#F5A623" opacity="0.5" stroke="none" data-ls="warn" />
-    <text x="62.0" y="40.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">PVDF</text>
+    <text x="62.0" y="40.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Gel</text>
 <rect x="66" y="42" width="6" height="44" rx="1" fill="#7FC26B" opacity="0.4" stroke="none" data-ls="liquid-2" />
-    <line x1="69.0" y1="37.9" x2="77.0" y2="37.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="79.0" y="40.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Gel</text>
+    <line x1="69.0" y1="37.9" x2="77.0" y2="37.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="79.0" y="40.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">PVDF</text>
 <rect x="74" y="42" width="4" height="44" rx="1" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
 <rect x="80" y="42" width="8" height="44" rx="2" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
     <polygon points="56,61 68,64 56,67" fill="#2B7DE9" stroke="none" data-ls="accent" />

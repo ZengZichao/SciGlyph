@@ -49,6 +49,6 @@
   <!-- 堆叠分隔强调线 -->
   <path d="M18 78 H35 M18 58 H35 M18 42 H35 M18 31 H35" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.7"/>
   <path d="M64 73 H81 M64 57 H81 M64 43 H81 M64 30 H81" stroke="#FFFFFF" stroke-width="1.2" stroke-opacity="0.7"/>
-  <text fill="#5B6B73" stroke="none" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" x="12" y="108.5">Each bar = 100% relative</text><text fill="#5B6B73" stroke="none" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" x="12" y="116.8">abundance</text><line x1="13.0" y1="116.28" x2="7.48" y2="104.78" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  <text fill="#5B6B73" stroke="none" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" x="12" y="108.5">Each bar = 100% relative</text><text fill="#5B6B73" stroke="none" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" x="12" y="116.8">abundance</text>
 </g>
 </svg>

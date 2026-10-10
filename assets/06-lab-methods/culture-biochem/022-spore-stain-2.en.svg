@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-methods" role="img" aria-labelledby="t-spore_stain d-spore_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-spore_stain">Spore Stain</title>
-  <desc id="d-spore_stain">Schaeffer-Fulton spore stain with green spores and red vegetative cells 关键词: spore, Schaeffer-Fulton, green, red</desc>
+  <desc id="d-spore_stain">Schaeffer-Fulton spore stain with green spores and red vegetative cells</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="25" y="40" width="20" height="8" rx="4.0" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" transform="rotate(5,35,44)"/>

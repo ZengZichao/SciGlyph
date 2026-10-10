@@ -19,8 +19,8 @@
     <line x1="98" y1="36" x2="94" y2="40" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
     <line x1="106" y1="56" x2="100" y2="56" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
     <line x1="98" y1="76" x2="94" y2="72" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
-    <text x="64" y="14" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0.5</text>
-    <text x="18" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0</text>
-    <text x="110" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">1.0</text>
+    <text x="64" y="18" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0.5</text>
+    <text x="26" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0</text>
+    <text x="102" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">1.0</text>
   </g></g>
 </svg>

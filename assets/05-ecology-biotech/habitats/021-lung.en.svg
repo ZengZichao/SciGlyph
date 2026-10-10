@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-lung d-lung" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-lung">Lung</title>
-  <desc id="d-lung">Lower respiratory tract with alveoli and occasional Pseudomonas rods 关键词: lung, alveoli, Pseudomonas</desc>
+  <desc id="d-lung">Lower respiratory tract with alveoli and occasional Pseudomonas rods</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M45,10 L45,30 M55,10 L55,30" fill="#8C6D3F" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="host"/>

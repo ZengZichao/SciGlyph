@@ -11,7 +11,7 @@
     <path d="M58,43 L62,45 L58,47" fill="#1B2733" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
     <rect x="65" y="38" width="25" height="12" rx="2" fill="#E8871E" stroke="#1B2733" stroke-width="1.5" data-pp="mge"/>
     <text x="77" y="46" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white">nom.</text>
-  <rect x="20" y="36" width="26" height="12" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/><path d="M24,42 Q33,38 42,42" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-linecap="round"/></g>
+  </g>
   
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">替换名</text>

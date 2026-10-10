@@ -5,7 +5,13 @@
      data-tags="syringe filter,pvdf,membrane,organic solvent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">PVDF针头过滤器 / PVDF Syringe Filter</title>
   <desc id="d">PVDF膜针头式过滤器，用于有机溶剂过滤。</desc>
-  <g id="body"><path d="M30 40 L30 88 Q30 96 38 96 L90 96 Q98 96 98 88 L98 40 Q98 32 90 32 L38 32 Q30 32 30 40 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M98 56 L114 56 L114 50 L98 50 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><rect x="36" y="54" width="56" height="20" rx="3" fill="#2B7DE9" opacity="0.3" stroke="none" data-ls="accent"/><path d="M36 54 L36 74 M92 54 L92 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M40 60 L88 60 M40 64 L88 64 M40 68 L88 68" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M26 48 L26 72 L32 72 L32 48 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
-  
+  <g id="body"><path d="M14 52 L26 52 L26 74 L14 74 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M34 34 L90 34 Q98 34 98 42 L98 84 Q98 92 90 92 L34 92 Q26 92 26 84 L26 42 Q26 34 34 34 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/><path d="M98 50 L116 56 L116 68 L98 74 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M18 52 L18 74 M22 52 L22 74" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <rect x="36" y="40" width="52" height="34" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.75" data-ls="fill" data-ls-stroke="stroke"/>
+    <rect x="38" y="42" width="48" height="6" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/>
+    <rect x="38" y="48" width="48" height="9" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
+    <rect x="38" y="57" width="48" height="6" fill="#FFFFFF" stroke="#5A6B7B" stroke-linejoin="round" stroke-width="1.5" data-ls="thin" data-ls-stroke="thin"/>
+    <path d="M41 63 L47 57 M51 63 L57 57 M61 63 L67 57 M71 63 L77 57 M81 63 L85 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/>
+    <text x="62" y="88" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="stroke">PVDF</text>
+  </g>
 </svg>

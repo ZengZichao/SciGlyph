@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="注释指引线" data-name-en="note pointer callout" data-cat="arrows-connectors" aria-labelledby="t-53 d-53" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-53">注释指引线 / note_pointer_callout</title>
-  <desc id="d-53">注释框指引线箭头。关键词: note,pointer,callout,annotation</desc>
+  <title id="t-53">注释指引线 / Note Pointer Callout</title>
+  <desc id="d-53">注释框指引线箭头</desc>
   <g id="g-53-注释指引线">
     <rect x="10" y="10" width="30" height="18" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="40" y1="28" x2="75.27" y2="35.58" stroke="#1f2937" stroke-width="1.5" fill="none"/>

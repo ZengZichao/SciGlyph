@@ -932,7 +932,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "装饰零件，贴到树上用。分支多样化率条形图。 关键词: tree decoration, diversification rates, speciation, extinction, rate bars",
+   "desc": "装饰零件，贴到树上用。按支系成对的 speciation/extinction 率条形图，纵轴 Rate (per My)，虚线为灭绝率均值。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -958,7 +958,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "装饰零件，贴到树上用。缺失数据用斜纹填充。 关键词: tree decoration, missing data hatch, observed vs missing, hatching, incomplete data",
+   "desc": "装饰零件，贴到树上用。树末端对齐性状矩阵，实心=已测、斜纹=缺失数据。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1131,7 +1131,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "树叠加灰色共现网络边冲突边橙色虚线树网冲突可视化 关键词: tree, network, co-occurrence, conflict, overlay",
+   "desc": "树叠加灰色共现网络弧边、红色虚线弧为冲突边，树网冲突可视化（图内冲突边与图例均为 #C42D2D 红，\"橙色\"为错述）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1157,7 +1157,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "装饰零件，贴到树上用。树+环境梯度轴。 关键词: tree decoration, environment gradient, tree + environment axis, continuous covariate",
+   "desc": "装饰零件，贴到树上用。6 末端矩形树 + 每末端环境梯度值条，共享 0–100 数值轴与 low→high 色标。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1182,7 +1182,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "装饰零件，贴到树上用。树+温度/pH/盐度梯度条。 关键词: tree decoration, temperature pH gradient, salinity gradient, environmental covariate",
+   "desc": "装饰零件，贴到树上用。5 末端树 + 温度(0–100 °C)与 pH(0–14) 两条并列梯度轨，各带独立数值轴。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

@@ -10,7 +10,8 @@
     <circle cx="40" cy="47" r="6" fill="#00857A" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism"/>
     <circle cx="48" cy="47" r="5" fill="#00857A" stroke="#1B2733" stroke-width="1.2" data-pp="metabolism"/>
     <circle cx="55" cy="47" r="5" fill="#00857A" stroke="#1B2733" stroke-width="1.2" data-pp="metabolism"/>
-    <text x="47" y="49" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Cas</text>
+    <text x="47" y="49" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Cascade</text>
+    <text x="72" y="40" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cas3</text>
     <path d="M60,47 L70,47 L75,45 L75,49 L70,47" fill="#C42D2D" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
     <line x1="75" y1="47" x2="85" y2="47" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
     <path d="M35,40 Q38,43 40,43" fill="#E8871E" stroke="#E8871E" stroke-width="1.5" stroke-linecap="round" data-pp="mge"/>

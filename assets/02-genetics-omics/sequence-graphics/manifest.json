@@ -125,8 +125,8 @@
   },
   {
    "file": "006-phred-quality.svg",
-   "name_zh": "Phred 质量条",
-   "name_en": "Phred Quality Score Bar",
+   "name_zh": "Phred 质量曲线",
+   "name_en": "Phred Quality Score Line",
    "tags": [
     "phred",
     "quality",
@@ -774,7 +774,7 @@
    "category": "02-genetics-omics",
    "subdir": "sequence-graphics",
    "canvas": "0 0 600 400",
-   "desc": "RSCU 示意值(非实测)；单密码子家族(ATG/Met、TGG/Trp)的 RSCU 恒为 1.00。64 密码子使用频率热图骨架。关键词: codon usage, heatmap, synonymous, RSCU",
+   "desc": "64 密码子使用频率热图骨架：行=前两碱基(16 行)、列=第三碱基(4 列)。关键词: codon usage, heatmap, synonymous, RSCU",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1044,7 +1044,7 @@
    "category": "02-genetics-omics",
    "subdir": "sequence-graphics",
    "canvas": "0 0 400 400",
-   "desc": "Krona 式同心环分类图骨架。关键词: Krona, metagenome, taxonomy, concentric, ring",
+   "desc": "Krona 式同心环分类图骨架：根(Sample)在圆心，环由内向外为 Domain、Phylum、Class，子弧角度区间完整落在父弧内，弧长正比于相对丰度。关键词: Krona, metagenome, taxonomy, concentric, ring",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

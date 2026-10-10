@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="横向误差棒" data-name-en="Errorbar Horizontal" data-cat="charts-plots" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34">横向误差棒 / errorbar_horizontal</title>
-  <desc id="d-34">横向误差棒展示。关键词: errorbar,horizontal,range</desc>
+  <title id="t-34">横向误差棒 / Errorbar Horizontal</title>
+  <desc id="d-34">横向误差棒展示</desc>
   <g id="g-34-横向误差棒">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

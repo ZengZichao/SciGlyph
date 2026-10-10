@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="并集阴影" data-name-en="set-union-shaded" data-cat="flowchart-logic" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-27">并集阴影 / set_union_shaded</title>
-  <desc id="d-27">集合并集阴影。关键词: set,union</desc>
+  <title id="t-27">并集阴影 / Set-Union-Shaded</title>
+  <desc id="d-27">集合并集阴影</desc>
   <g id="g-27-并集阴影">
     <circle cx="95" cy="80" r="50" fill="#0072B2" stroke="none" data-drole="series-1"/>
     <circle cx="145" cy="80" r="50" fill="#0072B2" stroke="none" data-drole="series-1"/>

@@ -11,7 +11,7 @@
     <path d="M38,35 L42,38 L38,41" fill="none" stroke="#E8871E" stroke-width="1.5" stroke-linecap="round" data-pp="mge"/>
     <path d="M62,35 L58,38 L62,41" fill="none" stroke="#E8871E" stroke-width="1.5" stroke-linecap="round" data-pp="mge"/>
     <circle cx="50" cy="45" r="4" fill="#E8871E" fill-opacity="0.5" data-pp="mge"/>
-    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">⚡</text>
+    <path d="M53,20 L44,28 L49,28 L46.5,32 L56,24 L51,24 Z" fill="#C42D2D" stroke="none" data-pp="alert"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Electroporation</text>

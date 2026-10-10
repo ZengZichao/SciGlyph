@@ -4,9 +4,10 @@
      data-id="lh-glass-pipette-pasteur-gm" data-cat="lh" data-spec="128"
      data-tags="pipette,pasteur,glass,transfer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">玻璃巴氏吸管 / Glass Pasteur Pipette</title>
-  <desc id="d">玻璃巴斯德吸管，带橡胶乳头，用于少量液体转移</desc>
-  <g id="body"><path d="M56 10 L72 10 Q74 10 74 12 L74 36 Q74 38 72 38 L66 38 L66 108 L64 118 L62 108 L62 38 L56 38 Q54 38 54 36 L54 12 Q54 10 56 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M56 14 L72 14 L72 34 Q72 36 70 36 L58 36 Q56 36 56 34 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
-  <g id="detail"><path d="M56 14 L72 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <path d="M56 34 L72 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <desc id="d">玻璃巴斯德吸管，用于少量液体转移</desc>
+  <g id="body"><path d="M58 20 L58 28 C48 32 42 40 42 50 C42 60 48 68 58 72 L60 104 L62 118 L66 118 L68 104 L70 72 C80 68 86 60 86 50 C86 40 80 32 70 28 L70 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M42 52 C42 61 48 68 58 72 L60 104 L62 118 L66 118 L68 104 L70 72 C80 68 86 61 86 52 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+  <g id="detail"><path d="M58 72 L70 72" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <ellipse cx="64" cy="15" rx="11" ry="12" fill="#33414F" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="dark" data-ls-stroke="stroke"/>
+    <path d="M57 9 Q64 5 71 9" fill="none" opacity="0.5" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
 </svg>

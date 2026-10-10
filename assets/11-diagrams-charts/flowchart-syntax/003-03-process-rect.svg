@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="矩形处理" data-name-en="process-rect" data-cat="flowchart-logic" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-03">矩形处理 / process_rect</title>
-  <desc id="d-03">通用处理步骤。关键词: flowchart,process</desc>
+  <title id="t-03">矩形处理 / Process-Rect</title>
+  <desc id="d-03">通用处理步骤</desc>
   <g id="g-03-矩形处理">
     <rect x="10" y="15" width="100" height="50" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="45" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Process</text>

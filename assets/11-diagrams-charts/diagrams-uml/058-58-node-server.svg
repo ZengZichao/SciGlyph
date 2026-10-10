@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="塔式服务器" data-name-en="Node Server" data-cat="diagrams-sw-uml" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-58">塔式服务器 / node_server</title>
-  <desc id="d-58">塔式服务器图标。关键词: server,rack,node</desc>
+  <title id="t-58">塔式服务器 / Node Server</title>
+  <desc id="d-58">塔式服务器图标</desc>
   <g id="g-58-塔式服务器">
     <rect x="30" y="10" width="60" height="60" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="38" y="18" width="44" height="10" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>

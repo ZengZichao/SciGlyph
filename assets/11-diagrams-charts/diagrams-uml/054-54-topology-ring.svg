@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="环型拓扑" data-name-en="Topology Ring" data-cat="diagrams-sw-uml" aria-labelledby="t-54 d-54" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-54">环型拓扑 / topology_ring</title>
-  <desc id="d-54">环型网络拓扑。关键词: ring,topology,network</desc>
+  <title id="t-54">环型拓扑 / Topology Ring</title>
+  <desc id="d-54">环型网络拓扑</desc>
   <g id="g-54-环型拓扑">
     <circle cx="160" cy="40" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="260" cy="120" r="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

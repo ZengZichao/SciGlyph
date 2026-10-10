@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="四种角对比" data-name-en="Angle Types" data-cat="geometry-math" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-33">四种角对比 / angle_types</title>
-  <desc id="d-33">锐角直角钝角平角对比。关键词: angle,types,comparison</desc>
-  <g id="g-33-四种角对比">
+  <title id="t-33">四种角对比 / Angle Types</title>
+  <desc id="d-33">锐角直角钝角平角对比</desc>
+  <g id="g-33-四种角对比" transform="translate(0 29)">
     <line fill="none" x1="18" y1="100" x2="63" y2="100" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="18" y1="100" x2="48" y2="57" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M33,100 A15,15 0 0,0 28,90" fill="none" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>

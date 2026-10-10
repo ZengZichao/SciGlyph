@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="防火墙砖块" data-name-en="Node Firewall" data-cat="diagrams-sw-uml" aria-labelledby="t-61 d-61" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-61">防火墙砖块 / node_firewall</title>
-  <desc id="d-61">防火墙砖块图标。关键词: firewall,security,node</desc>
+  <title id="t-61">防火墙砖块 / Node Firewall</title>
+  <desc id="d-61">防火墙砖块图标</desc>
   <g id="g-61-防火墙砖块">
     <rect x="20" y="15" width="80" height="50" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <line fill="none" x1="20" y1="30" x2="100" y2="30" stroke="#1f2937" stroke-width="0.75"/>

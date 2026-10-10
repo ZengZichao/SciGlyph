@@ -5,11 +5,11 @@
   <desc id="d-31_dna_repair">光复活(photolyase)、错配修复(MutS/L链识别)、核苷酸切除修复(UvrABC)。关键词: DNA repair, photolyase, MutS, MutL, UvrABC, mismatch repair</desc>
   <g id="layer-body" data-name="body">
         <rect x="5" y="25" width="25" height="12" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="22.2" y="32.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">photolyase</text>
+    <text x="22.2" y="32.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">photolyase</text>
         <rect x="35" y="25" width="25" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <line x1="47.5" y1="30.4" x2="50.97" y2="36.96" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="52.38" y="40.05" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MutS/L</text>
+    <line x1="47.5" y1="30.4" x2="50.97" y2="36.96" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="52.38" y="40.05" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">MutS/L</text>
         <rect x="65" y="25" width="25" height="12" rx="1" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
-    <text x="77.5" y="32.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">UvrABC</text>
+    <text x="77.5" y="32.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">UvrABC</text>
       <line x1="5" y1="31" x2="90" y2="31" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
     <circle cx="50" cy="55" r="3" fill="#F4F1EA" data-pp="bg" stroke="#93A0AC" stroke-width="0.8"/>
     <line x1="17" y1="37" x2="17" y2="42" stroke="#00857A" data-pp="metabolism" stroke-width="0.8"/>

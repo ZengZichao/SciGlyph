@@ -8,10 +8,10 @@
     <line x1="15" y1="65" x2="85" y2="65" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
     <line x1="15" y1="15" x2="15" y2="65" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
     <path d="M15,60 Q25,58 35,50 Q45,30 55,22 Q65,22 75,30 Q80,45 85,55" fill="none" stroke="#2E86AB" stroke-width="2" stroke-linecap="round" data-pp="bacteria"/>
-    <text x="22" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">lag</text>
+    <text x="20" y="48" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">lag</text>
     <text x="40" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">log</text>
     <text x="62" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">stat</text>
-    <text x="77.8" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">death</text>
+    <text x="58" y="62" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">death</text>
       <line x1="13" y1="25" x2="15" y2="25" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
     <line x1="13" y1="45" x2="15" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>
     <line x1="35" y1="65" x2="35" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="0.5"/>

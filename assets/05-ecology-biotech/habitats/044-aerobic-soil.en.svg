@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-aerobic_soil d-aerobic_soil" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-aerobic_soil">Aerobic soil</title>
-  <desc id="d-aerobic_soil">Aerobic soil aggregates with Actinomycete filaments and rod bacteria 关键词: aerobic, soil, Actinomycetes</desc>
+  <desc id="d-aerobic_soil">Aerobic soil aggregates with Actinomycete filaments and rod bacteria</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="25" cy="40" r="12" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.4"/>

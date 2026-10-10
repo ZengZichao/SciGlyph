@@ -15,7 +15,7 @@
     <rect x="16" y="42" width="8" height="4" fill="#E8871E" data-pp="mge"/>
     <circle cx="38" cy="44" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
     <rect x="58" y="50" width="16" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="66" y="59" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RNAP</text>
+    <text x="66" y="59" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">RNAP</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="10" y="39" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5'</text>
@@ -23,7 +23,7 @@
     <text x="40.0" y="35.0" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Rho</text>
     <line x1="44" y1="44" x2="55" y2="44" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp52__ar)"/>
     <text x="50" y="74" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">rut loading (5' RNA)</text>
-    <text x="50" y="82" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5'→3' chase</text>
+    <text x="50" y="82" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">5'→3' chase</text>ext>
     <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">dissociate complex</text>
   </g>
 </svg>

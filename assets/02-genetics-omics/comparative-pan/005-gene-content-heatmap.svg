@@ -217,10 +217,10 @@
   <text x="90" y="334.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">F15</text>
 </g>
 <g data-name="legend">
-  <rect x="450" y="80" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
-  <text x="470" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Present</text>
-  <rect x="450" y="100" width="12" height="12" fill="#93A0AC" data-pp="muted"/>
-  <text x="470" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Absent</text>
+  <rect x="530" y="80" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="546" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Present</text>
+  <rect x="530" y="100" width="12" height="12" fill="#93A0AC" data-pp="muted"/>
+  <text x="546" y="110" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Absent</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Gene Content Heatmap — Presence/Absence (schematic)</text>
 </svg>

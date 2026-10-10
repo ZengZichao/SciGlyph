@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="煮沸试管" data-name-en="boiling_tube" data-cat="lab-equipment" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-06">煮沸试管 / boiling_tube</title>
-  <desc id="d-06">加热沸腾液体。关键词: 试管,boiling,加热,煮沸</desc>
+  <title id="t-06">煮沸试管 / Boiling_Tube</title>
+  <desc id="d-06">加热沸腾液体</desc>
   <g id="g-06-煮沸试管">
     <path d="M 42 12 L 42 90 Q 42 108 60 108 Q 78 108 78 90 L 78 12 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 43 50 L 43 90 Q 43 107 60 107 Q 77 107 77 90 L 77 50 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="240" viewBox="0 0 160 240" role="img" data-name-zh="地层柱状" data-name-en="Strat Column" data-cat="natural-sciences" aria-labelledby="t-67 d-67" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-67">地层柱状 / strat_column</title>
-  <desc id="d-67">展示地层柱状图。关键词: stratigraphy,column,geological layers</desc>
+  <title id="t-67">地层柱状 / Strat Column</title>
+  <desc id="d-67">展示地层柱状图</desc>
   <g id="g-67-地层柱状">
     <rect x="30" y="10" width="100" height="40" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <rect x="30" y="50" width="100" height="50" fill="#6b7280" stroke="#1f2937" stroke-width="1.5"/>

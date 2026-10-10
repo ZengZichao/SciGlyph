@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="氨基酸通式" data-name-en="Amino Acid General" data-cat="natural-sciences" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-26">氨基酸通式 / amino_acid_general</title>
-  <desc id="d-26">展示氨基酸通用结构式。关键词: amino acid,structure,functional group</desc>
+  <title id="t-26">氨基酸通式 / Amino Acid General</title>
+  <desc id="d-26">展示氨基酸通用结构式</desc>
   <g id="g-26-氨基酸通式">
     <text x="20" y="50" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="start">H2N</text>
     <line x1="50" y1="45" x2="70" y2="45" stroke="#1f2937" stroke-width="1.5"/>

@@ -2,7 +2,7 @@
 
 **SciGlyph** —— 面向科研绘图的开源 SVG 素材库：**2830 个主素材**（另有 260 个 `.en.svg` 英文文本变体），按 12 个学科大类组织，含五个画风系列与三种形态（插画/示意图/图标）。
 
-> ⚠️ **AI 生成声明**：本库全部素材由 AI（大模型）辅助生成，可能存在科学性或事实性误差。**正式使用（尤其是论文发表）前，请对照权威文献与官方标准自行核实图中信息的准确性。**
+> ⚠️ **AI 生成声明**：本库全部素材由 AI（大模型）辅助生成，并经人工审查与程序化质检；虽经逐文件校核，仍可能存在科学性或事实性误差。**正式使用（尤其是论文发表）前，请对照权威文献与官方标准自行核实图中信息的准确性。**
 
 ## 预览
 
@@ -17,6 +17,7 @@
 - 许可：素材 **CC BY 4.0**（权利人 ZengZichao）；工具与页面代码 **MIT**。
 - 英文文档：[README.en.md](README.en.md)；画风系列说明：[README-SERIES.md](README-SERIES.md) / [README-SERIES.en.md](README-SERIES.en.md)。
 - 浏览：直接双击打开根目录 `index.html`（离线可用，支持中英切换与亮暗主题）。
+- 在线画廊：推送到 GitHub 后由 Pages 自动发布（见 [DEPLOY.md](DEPLOY.md)）。
 - 引用：见 [CITATION.cff](CITATION.cff) 与 [NOTICE](NOTICE)。
 
 ## 12 个学科大类
@@ -44,7 +45,7 @@
 - 文件名 `NNN-slug-en.svg`（三位序号 + 全局唯一 kebab 英文 slug）；含中文渲染文本的素材配有同名 `.en.svg` 英文版。
 - 全部素材：零脚本、零外链、零内嵌位图；颜色为字面 hex；中文版字体链含 CJK 回退族。
 - 每个素材携带 `data-license="CC-BY-4.0" data-copyright="ZengZichao"`；manifest 每条含 license/license_uri/attribution。
-- 质检总闸门：`python3 tools/check_repo.py`（结构/命名/manifest/SVG 安全/许可/字体链/字号下限/标签零重叠/文字出画/安全标志对称/zh-en 配对）。
+- 质检总闸门：`python3 tools/check_repo.py`（结构/命名/manifest/SVG 安全/许可/字体链/字号下限/标签零重叠/文字出画/可渲染性/安全标志对称/zh-en 配对）；画廊与素材的一致性由 `python3 tools/check_site.py` 校验。
 
 ## 目录结构
 

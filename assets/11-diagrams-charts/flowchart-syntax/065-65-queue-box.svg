@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="队列框" data-name-en="queue-box" data-cat="flowchart-logic" aria-labelledby="t-65 d-65" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-65">队列框 / queue_box</title>
-  <desc id="d-65">FIFO队列框。关键词: queue,fifo</desc>
+  <title id="t-65">队列框 / Queue-Box</title>
+  <desc id="d-65">FIFO队列框</desc>
   <g id="g-65-队列框">
     <rect x="15" y="20" width="90" height="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="22" y="27" width="16" height="26" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>

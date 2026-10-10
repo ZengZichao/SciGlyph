@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="U形正交连接" data-name-en="conn orthogonal u" data-cat="arrows-connectors" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">U形正交连接 / conn_orthogonal_u</title>
-  <desc id="d-39">U形正交路径连接。关键词: conn,orthogonal,u,path</desc>
+  <title id="t-39">U形正交连接 / Conn Orthogonal U</title>
+  <desc id="d-39">U形正交路径连接</desc>
   <g id="g-39-U形正交连接">
     <polyline points="14,14 14,38 70,38 70,24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <polygon points="64,26 70,16 76,26" fill="#1f2937"/>

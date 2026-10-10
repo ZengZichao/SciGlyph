@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="RC低通" data-name-en="circuit-rc-lowpass" data-cat="physics-electronics" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-46">RC低通 / circuit_rc_lowpass</title>
-  <desc id="d-46">RC低通滤波电路。关键词: RC,低通,滤波</desc>
+  <title id="t-46">RC低通 / Circuit-Rc-Lowpass</title>
+  <desc id="d-46">RC低通滤波电路</desc>
   <g id="g-46-RC低通">
     <line x1="40" y1="100" x2="120" y2="100" stroke="#1f2937" stroke-width="2" fill="none"/>
     <rect x="120" y="85" width="60" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>

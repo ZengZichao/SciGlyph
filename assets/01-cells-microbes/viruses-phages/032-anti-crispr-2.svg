@@ -5,7 +5,7 @@
   <g id="layer-body-anti_crispr" data-name="body">
     
     <rect x="10" y="35" width="35" height="15" rx="3" ry="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" />
-    <text x="27" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cas9+crRNA</text>
+    <text x="27" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Cas9+crRNA</text>
     
     <path d="M50,42 L85,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2" />
     <path d="M50,46 L85,46" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="2" />

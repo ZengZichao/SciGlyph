@@ -1,11 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆环体" data-name-en="Torus Mini" data-cat="geometry-math" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-43">圆环体 / torus_mini</title>
-  <desc id="d-43">甜甜圈形圆环体。关键词: torus,ring,solid</desc>
+  <title id="t-43">圆环体 / Torus Mini</title>
+  <desc id="d-43">标注长半径R与管半径r的圆环体。关键词: torus,ring,solid</desc>
   <g id="g-43-圆环体">
     <ellipse cx="60" cy="65" rx="48" ry="28" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <ellipse cx="60" cy="65" rx="22" ry="12" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M38,65 A22,12 0 0,1 82,65" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>
     <path d="M60,37 A12,14 0 0,1 60,65" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
     <path d="M60,65 A12,14 0 0,1 60,93" fill="none" stroke="#1f2937" stroke-width="0.75"/>
+    <line fill="none" x1="60" y1="65" x2="95" y2="65" stroke="#0072B2" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <line fill="none" x1="95" y1="65" x2="108" y2="65" stroke="#0072B2" stroke-width="0.75" stroke-dasharray="4 3" data-drole="series-1"/>
+    <text x="77" y="61" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#0072B2" text-anchor="middle" data-drole="series-1">R</text>
+    <text x="101" y="61" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#0072B2" text-anchor="middle" data-drole="series-1">r</text>
   </g>
 </svg>

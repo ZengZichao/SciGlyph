@@ -11,13 +11,13 @@
   </defs>
   <g id="layer-body" data-name="body">
         <circle cx="15" cy="35" r="8" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="15" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">As(V)</text>
+    <text x="15" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">As(V)</text>
         <circle cx="50" cy="35" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
     <text x="50" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">As(III)</text>
         <circle cx="15" cy="65" r="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
     <text x="15.69" y="66.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">As(III)</text>
         <circle cx="50" cy="65" r="8" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="50" y="66.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">As(V)</text>
+    <text x="50" y="66.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">As(V)</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
         <line x1="23" y1="35" x2="42" y2="35" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp28__ar)"/>

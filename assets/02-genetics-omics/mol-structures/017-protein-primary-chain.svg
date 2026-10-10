@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="一级结构" data-name-en="Protein Primary Chain" data-cat="natural-sciences" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28">一级结构 / protein_primary_chain</title>
-  <desc id="d-28">展示蛋白质一级结构串珠。关键词: primary structure,polypeptide,sequence</desc>
+  <title id="t-28">一级结构 / Protein Primary Chain</title>
+  <desc id="d-28">展示蛋白质一级结构串珠</desc>
   <g id="g-28-一级结构">
     <circle cx="40" cy="120" r="12" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="80" cy="120" r="12" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

@@ -19,10 +19,10 @@
         <circle cx="42" cy="37" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
     <text x="42" y="38.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PC</text>
         <circle cx="42" cy="19" r="7" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="42.0" y="20.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PE</text>
+    <text x="42.0" y="20.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">PE</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
-        <line x1="42" y1="62" x2="42" y2="69" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp20__ar)"/>
+        <line x1="42" y1="62" x2="42" y2="76" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp20__ar)"/>
         <line x1="42" y1="44" x2="42" y2="48" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp20__ar)"/>
         <line x1="42" y1="26" x2="42" y2="37" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp20__ar)"/>
     <text x="60" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">hν→PS</text>

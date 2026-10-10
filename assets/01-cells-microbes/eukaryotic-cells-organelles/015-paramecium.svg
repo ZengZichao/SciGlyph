@@ -1,15 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="草履虫" data-name-en="Paramecium" data-cat="natural-sciences" aria-labelledby="t-48 d-48" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-48">草履虫 / paramecium</title>
-  <desc id="d-48">展示草履虫结构。关键词: paramecium,cilia,protozoan</desc>
+  <title id="t-48">草履虫 / Paramecium</title>
+  <desc id="d-48">展示草履虫结构</desc>
   <g id="g-48-草履虫">
-    <ellipse cx="80" cy="60" rx="55" ry="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <circle cx="60" cy="55" r="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
-    <circle cx="100" cy="65" r="6" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
-    <path d="M30,50 C25,48 22,50 20,55" fill="none" stroke="#6b7280" stroke-width="0.75"/>
-    <path d="M30,60 C25,60 22,62 20,65" fill="none" stroke="#6b7280" stroke-width="0.75"/>
-    <path d="M30,70 C25,72 22,70 20,68" fill="none" stroke="#6b7280" stroke-width="0.75"/>
-    <path d="M130,50 C135,48 138,50 140,55" fill="none" stroke="#6b7280" stroke-width="0.75"/>
-    <path d="M130,60 C135,60 138,62 140,65" fill="none" stroke="#6b7280" stroke-width="0.75"/>
-    <path d="M130,70 C135,72 138,70 140,68" fill="none" stroke="#6b7280" stroke-width="0.75"/>
+    <path d="M140.0 58.0L148.0 58.0 M139.1 62.5L146.6 65.4 M136.5 67.0L142.8 71.9 M132.2 71.4L137.4 77.5 M126.4 75.6L130.7 82.4 M119.3 79.6L122.8 86.8 M111.0 83.1L113.8 90.6 M101.8 86.1L104.0 93.8 M92.1 88.5L93.6 96.3 M82.0 90.0L82.8 98.0 M71.9 90.5L71.9 98.5 M62.2 90.0L61.2 97.9 M53.0 88.3L51.0 96.1 M44.7 85.5L41.5 92.8 M37.6 81.5L33.0 88.1 M31.8 76.6L26.0 82.1 M27.5 70.9L20.6 74.8 M24.9 64.6L17.2 66.7 M24.0 58.0L16.0 58.0 M24.9 51.4L17.2 49.3 M27.5 45.1L20.6 41.2 M31.8 39.4L26.0 33.9 M37.6 34.5L33.0 27.9 M44.7 30.5L41.5 23.2 M53.0 27.7L51.0 19.9 M62.2 26.0L61.2 18.1 M71.9 25.5L71.9 17.5 M82.0 26.0L82.8 18.0 M92.1 27.5L93.6 19.7 M101.8 29.9L104.0 22.2 M111.0 32.9L113.8 25.4 M119.3 36.4L122.8 29.2 M126.4 40.4L130.7 33.6 M132.2 44.6L137.4 38.5 M136.5 49.0L142.8 44.1 M139.1 53.5L146.6 50.6" fill="none" stroke="#6b7280" stroke-width="1.2"/>
+    <polygon points="140.0,58.0 139.1,62.5 136.5,67.0 132.2,71.4 126.4,75.6 119.3,79.6 111.0,83.1 101.8,86.1 92.1,88.5 82.0,90.0 71.9,90.5 62.2,90.0 53.0,88.3 44.7,85.5 37.6,81.5 31.8,76.6 27.5,70.9 24.9,64.6 24.0,58.0 24.9,51.4 27.5,45.1 31.8,39.4 37.6,34.5 44.7,30.5 53.0,27.7 62.2,26.0 71.9,25.5 82.0,26.0 92.1,27.5 101.8,29.9 111.0,32.9 119.3,36.4 126.4,40.4 132.2,44.6 136.5,49.0 139.1,53.5" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M33 68C46 70 60 76 68 84C64 88 58 88 54 84C46 76 38 74 32 74Z" fill="#6b7280" fill-opacity="0.25" stroke="#1f2937" stroke-width="1.2"/>
+    <circle cx="74" cy="84" r="3" fill="#D55E00" data-drole="series-2"/>
+    <circle cx="84" cy="86" r="2.6" fill="#D55E00" data-drole="series-2"/>
+    <circle cx="94" cy="82" r="2.2" fill="#D55E00" data-drole="series-2"/>
+    <path d="M64 47C70 40 84 41 88 49C92 57 85 67 75 67C67 67 62 62 63 56C64 52 62 49 64 47Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="93" cy="48" r="3.5" fill="#0072B2" stroke="#1f2937" stroke-width="1" data-drole="series-1"/>
+    <circle cx="40" cy="46" r="5.5" fill="#D55E00" stroke="#1f2937" stroke-width="1" data-drole="series-2"/>
+    <path d="M45.5 46L49 46 M43.9 49.9L46.4 52.4 M40 51.5L40 55 M36.1 49.9L33.6 52.4 M34.5 46L31 46 M36.1 42.1L33.6 39.6 M40 40.5L40 37 M43.9 42.1L46.4 39.6" fill="none" stroke="#D55E00" stroke-width="1.1" data-drole="series-2"/>
+    <circle cx="116" cy="50" r="5.5" fill="#D55E00" stroke="#1f2937" stroke-width="1" data-drole="series-2"/>
+    <path d="M121.5 50L125 50 M119.9 53.9L122.4 56.4 M116 55.5L116 59 M112.1 53.9L109.6 56.4 M110.5 50L107 50 M112.1 46.1L109.6 43.6 M116 44.5L116 41 M119.9 46.1L122.4 43.6" fill="none" stroke="#D55E00" stroke-width="1.1" data-drole="series-2"/>
   </g>
 </svg>

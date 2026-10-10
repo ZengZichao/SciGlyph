@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="SNP 距离热图" data-name-en="SNP distance heatmap" data-cat="04-phylo" data-tags="SNP,距离矩阵,热图,色阶,聚类" aria-labelledby="t-17-snp-heatmap d-17-snp-heatmap" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-17-snp-heatmap">SNP 距离热图 / SNP distance heatmap</title>
-  <desc id="d-17-snp-heatmap">5×5 的 SNP 距离热图矩阵（对称，对角线为 0），色阶由 #DCEEE4 过渡到 #5B4B8A 表示距离由低到高，右侧色标自上而下为「低」（浅色）到「高」（深色）；适合与 UPGMA/NJ 聚类树并排。关键词: SNP, 距离矩阵, 热图, 色阶, 聚类</desc>
+  <desc id="d-17-snp-heatmap">5×5 的 SNP 距离热图矩阵（对称，对角线为 0），色阶由 #DCEEE4 过渡到 #5B4B8A 表示距离由低到高，右侧色标自上而下为「低」（浅色）到「高」（深色）；适合与 UPGMA/NJ 聚类树并排</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="16" y="24" font-size="10" fill="#2B3A42">SNP 距离矩阵（5 株 × 5 株）</text>

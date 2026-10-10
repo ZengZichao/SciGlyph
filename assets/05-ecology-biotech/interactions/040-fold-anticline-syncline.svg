@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="背斜向斜" data-name-en="Fold Anticline Syncline" data-cat="natural-sciences" aria-labelledby="t-69 d-69" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-69">背斜向斜 / fold_anticline_syncline</title>
-  <desc id="d-69">展示背斜向斜褶皱结构。关键词: anticline,syncline,fold,geology</desc>
+  <title id="t-69">背斜向斜 / Fold Anticline Syncline</title>
+  <desc id="d-69">展示背斜向斜褶皱结构</desc>
   <g id="g-69-背斜向斜">
     <path d="M20,200 C80,120 160,120 240,200 C320,280 400,280 460,200" fill="none" stroke="#E69F00" stroke-width="3" data-drole="series-1"/>
     <path d="M20,220 C80,140 160,140 240,220 C320,300 400,300 460,220" fill="none" stroke="#6b7280" stroke-width="3"/>

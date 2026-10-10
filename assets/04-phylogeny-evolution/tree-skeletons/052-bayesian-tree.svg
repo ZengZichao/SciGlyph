@@ -36,6 +36,15 @@
     <circle cx="133.3" cy="216.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
     <circle cx="133.3" cy="323.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
+  <g data-name="support-values">
+    <text x="77.0" y="165.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">1.00</text>
+    <text x="103.7" y="65.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.99</text>
+    <text x="130.3" y="105.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.96</text>
+    <text x="103.7" y="265.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">1.00</text>
+    <text x="130.3" y="212.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.87</text>
+    <text x="130.3" y="318.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.72</text>
+    <text x="250" y="170" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">numbers = posterior probability</text>
+  </g>
   <g id="pp20__labels" data-name="tip-labels">
     <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpC</text>
     <text x="165.0" y="86.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpA</text>

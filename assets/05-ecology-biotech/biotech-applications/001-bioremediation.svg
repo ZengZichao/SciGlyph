@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="生物修复" data-name-en="Bioremediation" data-cat="05-eco-seq" data-tags="生物修复,污染物降解,降解菌,酶,土壤修复,地下水" role="img" aria-labelledby="t-31-bioremediation d-31-bioremediation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-31-bioremediation">生物修复 / Bioremediation</title>
-  <desc id="d-31-bioremediation">降解菌分泌酶系将油污等有机污染物逐步矿化，重金属则经价态转化与吸附固定，污染带沿地下水输移方向被生物过程逐步净化。关键词: 生物修复, 污染物降解, 降解菌, 酶, 土壤修复, 地下水</desc>
+  <desc id="d-31-bioremediation">降解菌分泌酶系将油污等有机污染物逐步矿化，重金属则经价态转化与吸附固定，污染带沿地下水输移方向被生物过程逐步净化</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 地表与土壤 -->
   <path d="M5 30 Q30 24 60 29 T115 26 L115 114 L5 114 Z" fill="#DCEEE4" fill-opacity="0.4" stroke="none"/>

@@ -18,11 +18,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "tools"))
+sys.path.insert(0, str(ROOT / "tools" / "review"))
 
 from svgtext import has_cjk_text, safe_fromstring, xml_guard  # noqa: E402
 import check_symbol_symmetry as symmetry  # noqa: E402
 import fix_label_overlap  # noqa: E402
 import legibility  # noqa: E402
+import scan_structure  # noqa: E402
 
 ASSETS = ROOT / "assets"
 NAME_RE = re.compile(r"^\d{3}-[a-z0-9]+(?:-[a-z0-9]+)*\.svg$")
@@ -238,7 +240,29 @@ def check_symmetry(fails):
         fails.append(f"安全标志旋转对称: {nfail} 项未过")
 
 
+def _utf8_stdout():
+    # Windows 控制台默认 GBK，闸门输出里的 ✓ / 中文会抛 UnicodeEncodeError
+    for stream in (sys.stdout, sys.stderr):
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            pass
+
+
+def check_renderable(fails):
+    """图元是否真的会被渲染：xmlns / 属性错配 / 零面积不可见 / 宽高比与 viewBox 失配。"""
+    n = 0
+    for f in sorted(ASSETS.glob("*/*/*.svg")):
+        n += 1
+        issues, _ = scan_structure.scan(f)
+        rel = f.relative_to(ROOT).as_posix()
+        for i in issues:
+            fails.append(f"可渲染性 {rel}: {i}")
+    return n
+
+
 def main(argv=None):
+    _utf8_stdout()
     ap = argparse.ArgumentParser(description="新结构总闸门")
     ap.add_argument("--list", action="store_true")
     args = ap.parse_args(argv)
@@ -249,6 +273,8 @@ def main(argv=None):
     n_manifest = check_manifests(fails)
     n_svg, n_en = check_svg_safety(fails)
     check_symmetry(fails)
+
+    n_struct = check_renderable(fails)
 
     print("=" * 62)
     print(f"大类 {len(cats)} · 命名扫描 {n_named} · SVG {n_svg}（.en.svg {n_en}）· manifest 条目 {n_manifest}")

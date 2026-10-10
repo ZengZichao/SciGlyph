@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-quorum_sensing d-quorum_sensing" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-quorum_sensing">Quorum Sensing</title>
-  <desc id="d-quorum_sensing">AI-2)感知密度调控基因表达。关键词: quorum sensing, AHL, AI-2, autoinducer, cell density, regulation</desc>
+  <desc id="d-quorum_sensing">群体感应: 细菌通过信号分子(AHL/AI-2)感知密度调控基因表达。关键词: quorum sensing, AHL, AI-2, autoinducer, cell density, regulation</desc>
   <g id="layer-body" data-name="body">
     <circle cx="30" cy="40" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
     <circle cx="50" cy="35" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>

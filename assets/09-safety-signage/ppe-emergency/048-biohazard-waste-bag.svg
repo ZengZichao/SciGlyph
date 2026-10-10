@@ -6,11 +6,13 @@
   <title id="t">医废袋 / Biohazard Waste Bag</title>
   <desc id="d">生物危害废物袋，黄色带生物危害标识。</desc>
   <g id="body"><path d="M36 28 Q32 28 30 36 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L98 36 Q96 28 92 28 Z" fill="#F5A623" opacity="0.4" stroke="none" data-ls="warn"/>
-     <path d="M36 28 Q32 28 30 36 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L98 36 Q96 28 92 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M36 28 Q32 28 30 36 L24 108 Q24 116 32 116 L96 116 Q104 116 104 108 L98 36 Q96 28 92 28 Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M44 28 L48 16 L80 16 L84 28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>
-  <g id="detail"><circle cx="64" cy="68" r="20" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="56" cy="62" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="72" cy="62" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
-     <circle cx="64" cy="76" r="6" fill="#E02020" stroke="none" data-ls="danger"/>
-     <path d="M60 58 L64 52 L68 58" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><g transform="translate(64,74) scale(1.7) translate(-12,-12)" fill="none" stroke="#1F2933" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-ls="dark">
+      <circle cx="12" cy="8.5" r="3.7"/>
+      <circle cx="8.969" cy="13.75" r="3.7"/>
+      <circle cx="15.031" cy="13.75" r="3.7"/>
+      <circle cx="12" cy="12" r="1.6"/>
+      <path d="M12 7.4 L12 8.6 M15.98 14.3 L14.94 13.7 M8.02 14.3 L9.06 13.7" stroke-width="1"/>
+    </g></g>
 </svg>

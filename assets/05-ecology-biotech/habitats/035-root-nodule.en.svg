@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-root_nodule d-root_nodule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-root_nodule">Root nodule</title>
-  <desc id="d-root_nodule">Legume root nodule with Y-shaped Rhizobium bacteroids inside 关键词: root, nodule, Rhizobium, bacteroid</desc>
+  <desc id="d-root_nodule">Legume root nodule with Y-shaped Rhizobium bacteroids inside</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M10,45 L55,45 Q58,45 60,42" fill="#00857A" stroke="#1B2733" stroke-width="3" stroke-linecap="round" data-pp="metabolism"/>

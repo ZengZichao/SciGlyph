@@ -840,7 +840,7 @@
   },
   {
    "file": "039-39-er-entity-box.svg",
-   "name_zh": "ER实体三栏",
+   "name_zh": "ER实体框",
    "name_en": "Er Entity Box",
    "tags": [
     "entity",
@@ -855,7 +855,7 @@
    "category": "11-diagrams-charts",
    "subdir": "diagrams-uml",
    "canvas": "0 0 160 120",
-   "desc": "ER实体三栏框(名/属性/方法)",
+   "desc": "ER实体框：实体名栏+属性栏，属性带 PK/FK 键标记（无方法栏，区别于一栏/三栏 UML 类框）。关键词: entity,er,attribute",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

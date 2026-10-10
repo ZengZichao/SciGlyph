@@ -12,6 +12,6 @@
      <path d="M48 72 L80 72 L80 100 Q80 108 72 108 L56 108 Q48 108 48 100 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
      <path d="M32 32 L32 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M96 32 L96 24" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-     <path d="M30 24 L34 24" fill="#2B7DE9" stroke="none" data-ls="accent"/>
-     <path d="M94 24 L98 24" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+     <path d="M30 24 L34 24" fill="none" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/>
+     <path d="M94 24 L98 24" fill="none" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/></g>
 </svg>

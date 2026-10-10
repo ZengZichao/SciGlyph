@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="带对象池活动图" data-name-en="Activity with Objects" data-cat="diagrams-sw-uml" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34">带对象池活动图 / activity_with_objects</title>
-  <desc id="d-34">活动图含对象池。关键词: swimlane,object,activity</desc>
+  <title id="t-34">带对象池活动图 / Activity With Objects</title>
+  <desc id="d-34">活动图含对象池</desc>
   <g id="g-34-带对象池活动图">
     <circle cx="30" cy="120" r="10" fill="#1f2937"/>
     <rect x="60" y="100" width="70" height="36" rx="14" ry="14" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

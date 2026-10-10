@@ -5,7 +5,7 @@
      data-tags="funnel,powder,wide stem,solid,transfer" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">粉末漏斗(宽颈) / Powder Funnel</title>
   <desc id="d">宽颈粉末漏斗，防止粉末堵塞。</desc>
-  <g id="body"><path d="M20 24 L52 78 L52 114 L76 114 L76 78 L108 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M30 40 L98 40 L76 78 L76 110 L52 110 L52 78 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/><path d="M26 32 L102 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <g id="body"><path d="M20 24 L46 72 L46 114 L82 114 L82 72 L108 24 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M30 40 L98 40 L80 72 L80 110 L48 110 L48 72 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/><path d="M26 32 L102 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
   
 </svg>

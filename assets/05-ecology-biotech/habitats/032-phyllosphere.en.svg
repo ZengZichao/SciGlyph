@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-phyllosphere d-phyllosphere" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-phyllosphere">Phyllosphere</title>
-  <desc id="d-phyllosphere">Leaf surface with stomata, Methylobacterium rods and epiphytic yeast 关键词: phyllosphere, leaf, Methylobacterium, yeast</desc>
+  <desc id="d-phyllosphere">Leaf surface with stomata, Methylobacterium rods and epiphytic yeast</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M10,30 Q50,15 90,30 L90,70 Q50,85 10,70 Z" fill="#00857A" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="metabolism" fill-opacity="0.3"/>

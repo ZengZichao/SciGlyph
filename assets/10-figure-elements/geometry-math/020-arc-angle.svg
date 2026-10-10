@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆弧与圆心角" data-name-en="Arc Angle" data-cat="geometry-math" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">圆弧与圆心角 / arc_angle</title>
-  <desc id="d-20">标注圆心角θ。关键词: arc,angle,geometry</desc>
+  <title id="t-20">圆弧与圆心角 / Arc Angle</title>
+  <desc id="d-20">标注圆心角θ</desc>
   <g id="g-20-圆弧与圆心角">
     <circle cx="50" cy="65" r="42" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="50" cy="65" r="2" fill="#1f2937" stroke="none"/>

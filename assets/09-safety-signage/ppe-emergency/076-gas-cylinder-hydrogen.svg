@@ -6,11 +6,11 @@
   <title id="t">氢气瓶 / Gas Cylinder Hydrogen</title>
   <desc id="d">氢气瓶，含瓶帽手阀和固定链；国标瓶色淡绿、字样红色（GB/T 7144）。</desc>
   <g id="body"><rect x="40" y="28" width="48" height="84" rx="12" fill="#E02020" opacity="0.3" stroke="none" data-ls="danger"/>
-     <rect x="40" y="28" width="48" height="84" rx="12" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+     <rect x="40" y="28" width="48" height="84" rx="12" fill="#CFE6D4" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M48 28 L48 18 Q48 10 64 10 Q80 10 80 18 L80 28 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <rect x="56" y="10" width="16" height="8" rx="3" fill="#33414F" stroke="none" data-ls="dark"/></g>
   <g id="detail"><path d="M40 60 L88 60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-     <path d="M40 72 L88 72" fill="#E02020" stroke="none" data-ls="danger"/>
+     <path d="M40 72 L88 72" fill="none" stroke="#E02020" stroke-width="4" stroke-linecap="round" data-ls="danger"/>
      <path d="M40 84 L88 84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M32 50 L32 100 Q32 104 36 104" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M96 50 L96 100 Q96 104 92 104" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>

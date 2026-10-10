@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="菱形" data-name-en="Rhombus" data-cat="geometry-math" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-08">菱形 / rhombus</title>
-  <desc id="d-08">四边等长的平行四边形。关键词: rhombus,quadrilateral,geometry</desc>
+  <title id="t-08">菱形 / Rhombus</title>
+  <desc id="d-08">四边等长的平行四边形</desc>
   <g id="g-08-菱形">
     <polygon points="60,16 105,60 60,104 15,60" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <text x="60" y="11" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>

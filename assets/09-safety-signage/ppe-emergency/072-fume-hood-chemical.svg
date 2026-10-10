@@ -20,5 +20,5 @@
      <circle cx="44" cy="112" r="3" fill="#F5A623" stroke="none" data-ls="warn"/>
      <rect x="56" y="108" width="40" height="8" rx="2" fill="#33414F" stroke="none" data-ls="dark"/>
      <path d="M60 16 L68 16" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-     <path d="M64 12 L64 8 M60 10 L64 6 L68 10" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
+     <path d="M64 12 L64 8 M60 10 L64 6 L68 10" fill="none" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/></g>
 </svg>

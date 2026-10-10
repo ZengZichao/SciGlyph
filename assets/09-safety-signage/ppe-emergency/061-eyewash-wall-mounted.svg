@@ -11,8 +11,8 @@
      <circle cx="40" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/>
      <circle cx="88" cy="92" r="3" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
   <g id="detail"><rect x="48" y="28" width="32" height="20" rx="3" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-     <path d="M36 92 L32 100 M36 92 L36 102 M36 92 L40 100" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
-     <path d="M88 92 L84 100 M88 92 L88 102 M88 92 L92 100" fill="#2B7DE9" opacity="0.6" stroke="none" data-ls="accent"/>
+     <path d="M36 92 L32 100 M36 92 L36 102 M36 92 L40 100" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/>
+     <path d="M88 92 L84 100 M88 92 L88 102 M88 92 L92 100" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/>
      <path d="M60 32 L68 32 L68 44 L60 44 Z" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <text x="64" y="42" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" font-weight="600" text-anchor="middle" data-ls="accent">H₂O</text></g>
 </svg>

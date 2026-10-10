@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="交换机" data-name-en="Node Switch" data-cat="diagrams-sw-uml" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-60">交换机 / node_switch</title>
-  <desc id="d-60">网络交换机图标。关键词: switch,network,node</desc>
+  <title id="t-60">交换机 / Node Switch</title>
+  <desc id="d-60">网络交换机图标</desc>
   <g id="g-60-交换机">
     <rect x="15" y="30" width="90" height="25" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="22" y="36" width="8" height="12" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>

@@ -16,8 +16,8 @@
     <circle cx="52" cy="42" r="2" fill="#00857A" data-pp="metabolism"/>
     <circle cx="70" cy="28" r="2" fill="#C42D2D" data-pp="alert"/>
     <circle cx="72" cy="30" r="2" fill="#C42D2D" data-pp="alert"/>
-    <text x="80" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">FSC</text>
-    <text x="12" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SSC</text>
+    <text x="78" y="62" text-anchor="end" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">FSC</text>
+    <text x="22" y="24" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SSC</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Flow cytometry</text>

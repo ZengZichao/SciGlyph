@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="核糖体" data-name-en="Ribosome" data-cat="02-structures" data-tags="核糖体,70S,50S,30S,翻译,多聚核糖体,肽链延伸" role="img" aria-labelledby="t-22-ribosome d-22-ribosome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-22-ribosome">核糖体 / Ribosome</title>
-  <desc id="d-22-ribosome">70S 核糖体由 50S 与 30S 两个亚基组成，结合 mRNA 并按三联体密码子逐个加入氨基酸、催化肽链延伸，多个核糖体可成多聚体。关键词: 核糖体, 70S, 50S, 30S, 翻译, 多聚核糖体, 肽链延伸</desc>
+  <desc id="d-22-ribosome">70S 核糖体由 50S 与 30S 两个亚基组成，结合 mRNA 并按三联体密码子逐个加入氨基酸、催化肽链延伸，多个核糖体可成多聚体</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <path d="M8 90C40 84 80 84 112 90" fill="none" stroke="#2B3A42" stroke-width="1.6"/>
 <ellipse cx="60" cy="82" rx="20" ry="10" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.6"/>

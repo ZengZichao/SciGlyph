@@ -7,7 +7,7 @@
 <g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
 <g data-name="genome-track">
   <rect x="60" y="170" width="480" height="30" fill="#2E86AB" fill-opacity="0.2" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" rx="5"/>
-  <text x="300" y="160" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genomic region</text>
+  <text x="300" y="118" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Genomic region</text>
   <line x1="80" y1="170" x2="80" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
   <line x1="120" y1="170" x2="120" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>
   <line x1="135" y1="170" x2="135" y2="200" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>

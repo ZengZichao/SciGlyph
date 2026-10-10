@@ -22,8 +22,4 @@
 <text x="390" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">GHI</text><rect x="205" y="150" width="150" height="40" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-dasharray="4,2" />
 <text x="280" y="145" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">tandem duplication</text>
 <text x="300" y="240" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Duplication gives new genes</text>
-<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Neo- / subfunctionalization</text>
-<rect x="150" y="290" width="60" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-<rect x="220" y="290" width="60" height="25" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
-<rect x="290" y="290" width="60" height="25" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-<rect x="360" y="290" width="60" height="25" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/></g></svg>
+<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Neo- / subfunctionalization</text></g></svg>

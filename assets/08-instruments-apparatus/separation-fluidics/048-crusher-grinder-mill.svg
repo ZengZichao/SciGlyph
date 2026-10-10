@@ -15,7 +15,5 @@
     <circle cx="44" cy="44" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
     <circle cx="84" cy="44" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
     <circle cx="44" cy="84" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
-    <circle cx="84" cy="84" r="3" fill="#33414F" stroke="none" data-ls="dark"/>
-    <path d="M64 20 L68 20 L68 28 L64 28 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
-    <path d="M60 16 L68 16 L68 20 L60 20 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+    <circle cx="84" cy="84" r="3" fill="#33414F" stroke="none" data-ls="dark"/></g>
 </svg>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -7.4 253.2 174.3" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="贝叶斯后验概率标注" data-name-en="Posterior probability" data-cat="04-phylo" data-tags="后验概率,贝叶斯,MrBayes,PP,可信度" aria-labelledby="t-08-posterior-probability d-08-posterior-probability" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -7.4 253.2 174.3" width="240" height="165.2" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="贝叶斯后验概率标注" data-name-en="Posterior probability" data-cat="04-phylo" data-tags="后验概率,贝叶斯,MrBayes,PP,可信度" aria-labelledby="t-08-posterior-probability d-08-posterior-probability" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-08-posterior-probability">贝叶斯后验概率标注 / Posterior probability</title>
-  <desc id="d-08-posterior-probability">右向根生树，节点标注后验概率 PP（0–1），右侧直方图给出 4 个内部节点的 PP 分布（0.62/0.88 各 1 个、≈1.0 共 2 个），PP&lt;0.95 的分支需谨慎解读。关键词: 后验概率, 贝叶斯, MrBayes, PP, 可信度</desc>
+  <desc id="d-08-posterior-probability">右向根生树，节点标注后验概率 PP（0–1），右侧直方图给出 4 个内部节点的 PP 分布（0.62/0.88 各 1 个、≈1.0 共 2 个），PP&lt;0.95 的分支需谨慎解读</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="6.9" y="1.3" width="236.3" height="156.9" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

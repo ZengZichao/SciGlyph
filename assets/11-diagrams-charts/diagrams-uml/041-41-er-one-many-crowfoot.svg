@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="一对多鸦爪" data-name-en="ER One-Many Crowfoot" data-cat="diagrams-sw-uml" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-41">一对多鸦爪 / er_one_many_crowfoot</title>
-  <desc id="d-41">一对多鸦爪记号。关键词: one,many,crowfoot,er</desc>
+  <title id="t-41">一对多鸦爪 / Er One-Many Crowfoot</title>
+  <desc id="d-41">一对多鸦爪记号</desc>
   <g id="g-41-一对多鸦爪">
     <rect x="10" y="35" width="50" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="54" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Dept</text>

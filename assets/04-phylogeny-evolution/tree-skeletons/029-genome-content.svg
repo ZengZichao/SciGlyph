@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.5 -6.4 252.2 212.9" width="240" height="200" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="基因组圈图" data-name-en="Circular genome map" data-cat="04-phylo" data-tags="基因组圈图,circular genome,基因注释,GC,径向刻度" aria-labelledby="t-29-genome-content d-29-genome-content" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.5 -6.4 252.2 212.9" width="240" height="202.6" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="基因组圈图" data-name-en="Circular genome map" data-cat="04-phylo" data-tags="基因组圈图,circular genome,基因注释,GC,径向刻度" aria-labelledby="t-29-genome-content d-29-genome-content" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-29-genome-content">基因组圈图 / Circular genome map</title>
-  <desc id="d-29-genome-content">同心圆基因组圈图：内环为基因注释（按功能着色、箭头示方向）、外环为 GC 径向柱与径向刻度（3.4 Mb 均分为 60 格，每格 ≈57 kb），右侧为功能配色图例。关键词: 基因组圈图, circular genome, 基因注释, GC, 径向刻度</desc>
+  <desc id="d-29-genome-content">同心圆基因组圈图：内环为基因注释（按功能着色、箭头示方向）、外环为 GC 径向柱与径向刻度（3.4 Mb 均分为 60 格，每格 ≈57 kb），右侧为功能配色图例</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="6.9" y="2.1" width="235.4" height="195.9" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <circle cx="100.0" cy="100.0" r="52" fill="#FFFFFF" stroke="#7A8B93" stroke-width="1.2"/>

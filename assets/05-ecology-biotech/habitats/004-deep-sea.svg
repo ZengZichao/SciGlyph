@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="深海高压环境" data-name-en="Deep-Sea High-Pressure Habitat" data-cat="05-eco-seq" data-tags="深海,高压,嗜压菌,水体分层,沉积物" role="img" aria-labelledby="t-04-deep-sea d-04-deep-sea" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-04-deep-sea">深海高压环境 / Deep-Sea High-Pressure Habitat</title>
-  <desc id="d-04-deep-sea">水柱随深度压强递增、光照逐层衰减，嗜压菌受向心压力挤压并以细胞膜成分调整等机制适应深海高压。关键词: 深海, 高压, 嗜压菌, 水体分层, 沉积物</desc>
+  <desc id="d-04-deep-sea">水柱随深度压强递增、光照逐层衰减，嗜压菌受向心压力挤压并以细胞膜成分调整等机制适应深海高压</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 水柱分层：自上而下压强递增、光照衰减 -->
   <path d="M5 5 H115 V26 H5 Z" fill="#B7D7E8" fill-opacity="0.5" stroke="none"/>
@@ -16,10 +16,10 @@
   <!-- 海面波光 -->
   <path d="M5 8 Q20 4 35 8 T65 8 T95 8 T115 8" stroke="#5FA8C7" stroke-width="1.2"/>
   <!-- 内外压力箭头（向心挤压） -->
-  <path d="M30 50 l-7 8 l7 8" stroke="#C0504D" stroke-width="1.4"/>
-  <path d="M90 50 l7 8 l-7 8" stroke="#C0504D" stroke-width="1.4"/>
-  <path d="M60 30 v-8 m-3 3 l3 -3 l3 3" stroke="#C0504D" stroke-width="1.4"/>
-  <path d="M60 78 v8 m-3 -3 l3 3 l3 -3" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M23 50 l7 8 l-7 8" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M97 50 l-7 8 l7 8" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M60 22 v8 m-3 -3 l3 3 l3 -3" stroke="#C0504D" stroke-width="1.4"/>
+  <path d="M60 86 v-8 m-3 3 l3 -3 l3 3" stroke="#C0504D" stroke-width="1.4"/>
   <!-- 嗜压杆菌（受压形态） -->
   <path d="M41 58 C41 48 79 48 79 58 C79 68 41 68 41 58 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
   <path d="M48 58 A8 6 0 0 0 66 58" stroke="#1F6F8B" stroke-width="1.4"/>

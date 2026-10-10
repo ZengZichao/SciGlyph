@@ -5,7 +5,6 @@
   <desc id="d-chryseobacterium">Short rod with yellow flexirubin pigment (Flavobacteriaceae); 部分种可滑行运动，不出芽、无柄。关键词: Chryseobacterium, flexirubin, yellow pigment, Flavobacteriaceae</desc>
   <g id="layer-body" data-name="body">
     <rect x="18" y="35" width="40" height="20" rx="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
-    <circle cx="58" cy="45" r="6" fill="#E8871E" fill-opacity="0.5" data-pp="mge" stroke="#1B2733" stroke-width="0.8"/>
     <circle cx="28" cy="42" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
     <circle cx="38" cy="48" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
     <circle cx="48" cy="42" r="1.5" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
@@ -14,8 +13,7 @@
   </g>
   <g id="layer-annotation" data-name="annotation">
 
-    <line x1="60" y1="40" x2="72" y2="22" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="64" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">rod end</text>
+    <line x1="32" y1="72" x2="32" y2="56" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
     <text x="15" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">flexirubin</text>
 
   </g>

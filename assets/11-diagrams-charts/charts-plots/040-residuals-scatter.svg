@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="残差散点" data-name-en="Residuals Scatter" data-cat="charts-plots" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-40">残差散点 / residuals_scatter</title>
-  <desc id="d-40">残差散点图。关键词: residuals,scatter,diagnostic</desc>
+  <title id="t-40">残差散点 / Residuals Scatter</title>
+  <desc id="d-40">残差散点图</desc>
   <g id="g-40-残差散点">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

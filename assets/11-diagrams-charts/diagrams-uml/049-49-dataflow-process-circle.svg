@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="数据流过程" data-name-en="Dataflow Process Circle" data-cat="diagrams-sw-uml" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">数据流过程 / dataflow_process_circle</title>
-  <desc id="d-49">数据流图圆形过程节点。关键词: process,circle,dfd</desc>
+  <title id="t-49">数据流过程 / Dataflow Process Circle</title>
+  <desc id="d-49">数据流图圆形过程节点</desc>
   <g id="g-49-数据流过程">
     <circle cx="60" cy="40" r="28" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="36" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">P1</text>

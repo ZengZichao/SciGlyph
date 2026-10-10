@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-high_pressure d-high_pressure" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-high_pressure">High pressure</title>
-  <desc id="d-high_pressure">High-pressure environment with converging pressure arrows and piezophile cell 关键词: pressure, piezophile, deep</desc>
+  <desc id="d-high_pressure">High-pressure environment with converging pressure arrows and piezophile cell</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="10" width="90" height="75" rx="2" fill="#1B2733" stroke="none" stroke-width="0" data-pp="ink" fill-opacity="0.1"/>

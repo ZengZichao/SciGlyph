@@ -28,7 +28,6 @@
 <text x="80" y="285" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pos=400  G→A  (transition)  QUAL=78  PASS</text>
 <text x="80" y="305" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">pos=480  del AC  (-2bp)  QUAL=65  PASS</text></g>  <g data-name="annotation">
     <line x1="60" y1="340" x2="560" y2="340" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <circle cx="530" cy="100" r="4" fill="#93A0AC" data-pp="muted"/>
     <line x1="60" y1="130" x2="60" y2="140" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="三栏类框" data-name-en="Class Box 3Comp" data-cat="diagrams-sw-uml" aria-labelledby="t-04 d-04" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-04">三栏类框 / class_box_3comp</title>
-  <desc id="d-04">UML类框：名称/属性/方法三栏。关键词: class,uml,attribute,method</desc>
+  <title id="t-04">三栏类框 / Class Box 3Comp</title>
+  <desc id="d-04">UML类框：名称/属性/方法三栏</desc>
   <g id="g-04-三栏类框">
     <rect x="10" y="10" width="140" height="28" fill="#0072B2" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
     <text x="80" y="29" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" text-anchor="middle" font-weight="bold">User</text>

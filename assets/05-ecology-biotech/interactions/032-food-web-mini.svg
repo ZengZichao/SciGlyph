@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="食物网" data-name-en="Food Web Mini" data-cat="natural-sciences" aria-labelledby="t-61 d-61" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-61">食物网 / food_web_mini</title>
-  <desc id="d-61">展示简单食物网。关键词: food web,ecosystem,trophic</desc>
+  <title id="t-61">食物网 / Food Web Mini</title>
+  <desc id="d-61">展示简单食物网</desc>
   <g id="g-61-食物网">
     <circle cx="80" cy="280" r="25" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="200" cy="280" r="25" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

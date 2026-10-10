@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="晶振" data-name-en="crystal-oscillator" data-cat="physics-electronics" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-09">晶振 / crystal_oscillator</title>
-  <desc id="d-09">石英晶体振荡器符号。关键词: 晶振,振荡器,频率控制</desc>
+  <title id="t-09">晶振 / Crystal-Oscillator</title>
+  <desc id="d-09">石英晶体振荡器符号</desc>
   <g id="g-09-晶振">
     <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="25" x2="40" y2="55" stroke="#1f2937" stroke-width="2" fill="none"/>

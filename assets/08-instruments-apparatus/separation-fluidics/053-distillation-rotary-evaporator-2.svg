@@ -4,7 +4,7 @@
      data-id="sp-distillation-rotary-evaporator" data-cat="sp" data-spec="128"
      data-tags="rotary,evaporator,rotovap,distillation,vacuum" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">旋转蒸发仪 / Rotary Evaporator</title>
-  <desc id="d">旋蒸：旋转瓶+垂直蒸发轴+冷凝竖管+接收瓶+真空表+水浴锅</desc>
+  <desc id="d">需</desc>
   <g id="body"><path d="M20 80 L60 80 L60 110 Q60 116 54 116 L26 116 Q20 116 20 110 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M30 60 Q30 80 40 80 Q50 80 50 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M38 60 L38 30 L42 30 L42 60" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

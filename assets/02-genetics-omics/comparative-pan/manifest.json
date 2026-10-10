@@ -572,7 +572,7 @@
   },
   {
    "file": "025-genomic-island-distribution.svg",
-   "name_zh": "基因组 island 分布",
+   "name_zh": "基因组岛分布",
    "name_en": "Genomic island distribution",
    "tags": [
     "comparative genomics",

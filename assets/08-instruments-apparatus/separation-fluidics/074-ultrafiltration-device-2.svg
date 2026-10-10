@@ -4,7 +4,7 @@
      data-id="sp-ultrafiltration-device" data-cat="sp" data-spec="128"
      data-tags="ultrafiltration,amicon,mwco,centrifuge,concentration" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">超滤离心管 / Ultrafiltration Device (MWCO)</title>
-  <desc id="d">超滤离心管，带MWCO膜，用于浓缩</desc>
+  <desc id="d">需</desc>
   <g id="body"><path d="M48 10 L80 10 L80 14 L78 14 L78 80 L80 84 L80 90 L76 94 L52 94 L48 90 L48 84 L50 80 L50 14 L48 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M52 10 L76 10 L76 14 L52 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M44 94 L84 94 L84 110 Q84 116 78 116 L50 116 Q44 116 44 110 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>

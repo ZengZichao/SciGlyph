@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="叶绿体" data-name-en="Chloroplast" data-cat="natural-sciences" aria-labelledby="t-13 d-13" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-13">叶绿体 / chloroplast</title>
-  <desc id="d-13">展示叶绿体基粒结构。关键词: chloroplast,grana,photosynthesis</desc>
+  <title id="t-13">叶绿体 / Chloroplast</title>
+  <desc id="d-13">展示叶绿体基粒结构</desc>
   <g id="g-13-叶绿体">
     <ellipse cx="80" cy="60" rx="65" ry="40" fill="#009E73" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
     <ellipse cx="40" cy="50" rx="12" ry="8" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>

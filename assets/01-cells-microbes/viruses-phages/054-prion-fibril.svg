@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="淀粉样纤维" data-name-en="Prion Fibril" data-cat="natural-sciences" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">淀粉样纤维 / prion_fibril</title>
-  <desc id="d-49">展示淀粉样纤维结构。关键词: prion,amyloid,fibril</desc>
+  <title id="t-49">淀粉样纤维 / Amyloid Fibril</title>
+  <desc id="d-49">展示淀粉样纤维（两条扭曲原纤维）结构</desc>
   <g id="g-49-淀粉样纤维">
     <path d="M20,60 C30,50 40,70 50,60 C60,50 70,70 80,60 C90,50 100,70 110,60 C120,50 130,70 140,60" fill="none" stroke="#D55E00" stroke-width="3" stroke-linecap="round" data-drole="series-1"/>
     <path d="M20,70 C30,60 40,80 50,70 C60,60 70,80 80,70 C90,60 100,80 110,70 C120,60 130,80 140,70" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" data-drole="series-1"/>

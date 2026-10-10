@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="热泉与嗜热菌" data-name-en="Hot Spring Thermophiles" data-cat="05-eco-seq" data-tags="热泉,嗜热菌,嗜极微生物,温度梯度,热流" role="img" aria-labelledby="t-01-hot-spring d-01-hot-spring" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-01-hot-spring">热泉与嗜热菌 / Hot Spring Thermophiles</title>
-  <desc id="d-01-hot-spring">高温泉池自冷端向热端形成温度梯度，气泡与热流沿池底上升，嗜热菌以耐热细胞壁与嗜热酶适应 70–100 ℃ 环境。关键词: 热泉, 嗜热菌, 嗜极微生物, 温度梯度, 热流</desc>
+  <desc id="d-01-hot-spring">高温泉池自冷端向热端形成温度梯度，气泡与热流沿池底上升，嗜热菌以耐热细胞壁与嗜热酶适应 70–100 ℃ 环境</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 泉池水体 -->
   <path d="M5 37 Q30 32 60 35 T115 32 L115 87 L5 87 Z" fill="#B7D7E8" fill-opacity="0.4" stroke="none"/>
   <path d="M5 37 Q30 32 60 35 T115 32" stroke="#5FA8C7" stroke-width="1.4"/>
   <!-- 水面上升热气 -->
-  <path d="M22 31 C16 23 28 17 22 9" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.8"/>
+  <path d="M22 31 C16 23 28 17 22 9" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.45"/>
   <path d="M44 32 C50 24 38 18 44 9" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.6"/>
-  <path d="M86 30 C80 22 92 16 86 7" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.45"/>
+  <path d="M86 30 C80 22 92 16 86 7" stroke="#E8B04B" stroke-width="2" stroke-opacity="0.8"/>
   <!-- 泉底矿壳与地层 -->
   <path d="M5 87 Q30 81 60 86 T115 84" stroke="#2B3A42" stroke-width="1.4"/>
   <path d="M5 93 Q30 88 60 92 T115 90" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>

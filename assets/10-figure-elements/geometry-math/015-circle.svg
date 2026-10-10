@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆与圆心半径" data-name-en="Circle" data-cat="geometry-math" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">圆与圆心半径 / circle</title>
-  <desc id="d-15">标注圆心O和半径r。关键词: circle,radius,geometry</desc>
+  <title id="t-15">圆与圆心半径 / Circle</title>
+  <desc id="d-15">标注圆心O和半径r</desc>
   <g id="g-15-圆与圆心半径">
     <circle cx="58" cy="60" r="45" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="58" cy="60" r="2" fill="#1f2937" stroke="none"/>

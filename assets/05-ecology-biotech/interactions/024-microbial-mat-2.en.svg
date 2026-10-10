@@ -2,13 +2,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-microbial_mat d-microbial_mat" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-microbial_mat">Microbial Mat</title>
-  <desc id="d-microbial_mat">Stratified microbial mat with photosynthetic, SRB and methanogen layers 关键词: microbial mat, stratification, layers</desc>
+  <desc id="d-microbial_mat">Stratified microbial mat with photosynthetic, SRB and methanogen layers</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="15" y="25" width="70" height="12" rx="2" fill="#00857A" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
-    <text x="50" y="33" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">photosynthesis</text>
+    <text x="50" y="33" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Photosynthesis</text>
     <rect x="15" y="37" width="70" height="12" rx="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
-    <text x="50" y="45" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">SRB</text>
+    <text x="50" y="45" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Sulfate reduction</text>
     <rect x="15" y="49" width="70" height="12" rx="2" fill="#A2305B" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
     <text x="50" y="57" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Methanogenesis</text>
     <rect x="15" y="61" width="70" height="10" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.5"/>

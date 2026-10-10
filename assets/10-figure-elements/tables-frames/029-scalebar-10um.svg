@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="比例尺条" data-name-en="scalebar-10um" data-cat="tables-frames" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">比例尺条 / scalebar_10um</title>
-  <desc id="d-29">10微米比例尺。关键词: 比例尺,标尺,显微</desc>
+  <title id="t-29">比例尺条 / Scalebar-10Um</title>
+  <desc id="d-29">10微米比例尺</desc>
   <g id="g-29-比例尺条">
     <line x1="20" y1="50" x2="100" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="20" y1="44" x2="20" y2="56" stroke="#1f2937" stroke-width="1.5" fill="none"/>

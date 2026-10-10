@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-hplc-uv-vis-detector" data-cat="an" data-spec="128" data-tags="hplc,detector,uv,vis,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-hplc-uv-vis-detector" data-cat="an" data-spec="128" data-tags="hplc,detector,uv,vis,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">紫外-可见检测器 / HPLC UV-Vis Detector</title>
   <desc id="d">紫外-可见光检测器，氘灯/钨灯、流通池、光电二极管。</desc>
   <g id="body">

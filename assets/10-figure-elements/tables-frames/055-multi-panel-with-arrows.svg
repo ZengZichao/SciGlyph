@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="多联图带箭头" data-name-en="multi-panel-with-arrows" data-cat="tables-frames" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">多联图带箭头 / multi_panel_with_arrows</title>
-  <desc id="d-55">多面板带箭头连接。关键词: 多联图,箭头,流程</desc>
-  <g id="g-55-多联图带箭头">
+  <title id="t-55">多联图带箭头 / Multi-Panel-With-Arrows</title>
+  <desc id="d-55">多面板带箭头连接</desc>
+  <g id="g-55-多联图带箭头" transform="translate(0,50)">
     <rect x="20" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="190" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="360" y="80" width="100" height="100" fill="none" stroke="#1f2937" stroke-width="1.5"/>

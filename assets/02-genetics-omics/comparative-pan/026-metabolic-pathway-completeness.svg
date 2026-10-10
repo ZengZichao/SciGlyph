@@ -58,5 +58,13 @@
   <text x="412" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">ETC</text>
   <text x="512" y="60" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">N-fixation</text>
 </g>
+<g data-name="legend">
+  <rect x="180" y="316" width="12" height="12" fill="#00857A" data-pp="metabolism" rx="2"/>
+  <text x="198" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Complete</text>
+  <rect x="270" y="316" width="12" height="12" fill="#E8871E" data-pp="mge" rx="2"/>
+  <text x="288" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Partial</text>
+  <rect x="345" y="316" width="12" height="12" fill="#C42D2D" data-pp="alert" rx="2"/>
+  <text x="363" y="326" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Absent</text>
+</g>
 <text x="300" y="30" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Metabolic Pathway Completeness Comparison (schematic)</text>
 </svg>

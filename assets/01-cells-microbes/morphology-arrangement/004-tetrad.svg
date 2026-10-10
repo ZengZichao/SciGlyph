@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="四联球菌" data-name-en="Tetrad" data-cat="01-morphology" data-tags="四联球菌,tetrad,四分体,垂直平面分裂,正方排列" role="img" aria-labelledby="t-04-tetrad d-04-tetrad" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-04-tetrad">四联球菌 / Tetrad</title>
-  <desc id="d-04-tetrad">沿两个互相垂直的平面分裂，四个子细胞呈正方形排列，如四联微球菌（Gaffkya tetragena）。关键词: 四联球菌, tetrad, 四分体, 垂直平面分裂, 正方排列</desc>
+  <desc id="d-04-tetrad">沿两个互相垂直的平面分裂，四个子细胞呈正方形排列，如四联微球菌（Gaffkya tetragena）</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <path d="M 60,12 L 60,108 M 12,60 L 108,60" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
     <g fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2">

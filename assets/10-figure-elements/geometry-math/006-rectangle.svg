@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="矩形" data-name-en="Rectangle" data-cat="geometry-math" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-06">矩形 / rectangle</title>
-  <desc id="d-06">四角为直角的四边形。关键词: rectangle,quadrilateral,geometry</desc>
+  <title id="t-06">矩形 / Rectangle</title>
+  <desc id="d-06">四角为直角的四边形</desc>
   <g id="g-06-矩形">
     <rect x="15" y="30" width="90" height="60" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <text x="11" y="102" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>

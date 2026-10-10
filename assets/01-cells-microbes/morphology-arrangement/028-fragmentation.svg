@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="断裂生殖" data-name-en="Fragmentation" data-cat="01-morphology" data-tags="断裂生殖,fragmentation,丝状体断裂,断片,再生,不等长" role="img" aria-labelledby="t-28-fragmentation d-28-fragmentation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-28-fragmentation">断裂生殖 / Fragmentation</title>
-  <desc id="d-28-fragmentation">丝状体在随机位置断裂成长短不一的断片，各断片两端再生并发育为新丝状体。关键词: 断裂生殖, fragmentation, 丝状体断裂, 断片, 再生, 不等长</desc>
+  <desc id="d-28-fragmentation">丝状体在随机位置断裂成长短不一的断片，各断片两端再生并发育为新丝状体</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <g fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2">
       <path transform="rotate(4 28 60)" d="M 12,60 C 12,54 17,51 23,51 L 38,51 L 43,55 L 37,60 L 42,64 L 38,69 L 23,69 C 17,69 12,66 12,60 Z"/>

@@ -5,19 +5,14 @@
   <desc id="d-pcr">PCR温度循环(单周期示意): 变性(95°C,最高平台)→退火(55°C,最低平台)→延伸(72°C,中间平台), 循环重复×N指数扩增DNA。关键词: PCR, denature, anneal, extend, thermocycling, Taq</desc>
   <g id="layer-body" data-name="body">
     <path d="M15,70 L15,25 L35,25 L35,55 L55,55 L55,40 L75,40 L75,70" fill="none" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-pp="gene"/>
-    <path d="M75,25 L85,25" fill="none" stroke="#6C3FA0" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="3,2" data-pp="gene" stroke-opacity="0.5"/>
-    <line x1="85" y1="70" x2="85" y2="27" stroke="#6C3FA0" stroke-width="1.5" stroke-dasharray="3,2" data-pp="gene" stroke-opacity="0.5"/>
-    <text x="25" y="20" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">95°</text>
-    <text x="45" y="62" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">55°</text>
-    <text x="65" y="36" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">72°</text>
+    <path d="M75,70 L85,70 L85,30" fill="none" stroke="#6C3FA0" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,2" data-pp="gene" stroke-opacity="0.55"/>
+    <polygon points="82,30 85,24 88,30" fill="#6C3FA0" fill-opacity="0.55" data-pp="gene"/>
+    <text x="25" y="20" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">95°C</text>
+    <text x="45" y="62" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">55°C</text>
+    <text x="65" y="36" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">72°C</text>
     <path d="M20,75 L80,75" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted"/>
     <path d="M78,73 L82,75 L78,77" fill="#93A0AC" data-pp="muted"/>
-    <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cycles (×N)</text>
-      <rect x="20" y="72" width="8" height="3" fill="#C42D2D" data-pp="alert"/>
-    <rect x="72" y="72" width="8" height="3" fill="#C42D2D" data-pp="alert"/>
-    <line x1="20" y1="80" x2="80" y2="80" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
-    <line x1="20" y1="82" x2="80" y2="82" stroke="#6C3FA0" data-pp="gene" stroke-width="1"/>
-
+    <text x="48" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cycles (×N)</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="95" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">PCR</text>

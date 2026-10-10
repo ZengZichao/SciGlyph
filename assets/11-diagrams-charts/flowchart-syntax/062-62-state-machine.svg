@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="状态机三态" data-name-en="state-machine" data-cat="flowchart-logic" aria-labelledby="t-62 d-62" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-62">状态机三态 / state_machine</title>
-  <desc id="d-62">三态状态机示意。关键词: state,machine,transition</desc>
-  <g id="g-62-状态机三态">
+  <title id="t-62">状态机三态 / State-Machine</title>
+  <desc id="d-62">三态状态机示意</desc>
+  <g id="g-62-状态机三态" transform="translate(0,53)">
     <rect x="20" y="30" width="80" height="40" rx="8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="60" y="55" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">Idle</text>
     <rect x="120" y="30" width="80" height="40" rx="8" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

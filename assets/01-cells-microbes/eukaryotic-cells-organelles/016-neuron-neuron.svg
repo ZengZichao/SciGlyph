@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="神经元与突触" data-name-en="Neuron Neuron" data-cat="natural-sciences" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-50">神经元与突触 / neuron_neuron</title>
-  <desc id="d-50">展示神经元与突触连接。关键词: neuron,synapse,nerve cell</desc>
+  <title id="t-50">神经元与突触 / Neuron and synapse</title>
+  <desc id="d-50">展示神经元与突触连接</desc>
   <g id="g-50-神经元与突触">
     <circle cx="80" cy="120" r="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="80" cy="120" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

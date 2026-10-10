@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="分支长度标尺" data-name-en="Branch-length scale bar" data-cat="04-phylo" data-tags="分支长度,标尺,比例尺,替换数,scale bar" aria-labelledby="t-06-scale-bar d-06-scale-bar" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-06-scale-bar">分支长度标尺 / Branch-length scale bar</title>
-  <desc id="d-06-scale-bar">带两端刻度与细分刻度的水平标尺，量程 0–0.10 替换/位点（80 px 对应 0.05）；上方示例树分支按同一比例绘制（8–140 px，即 0.005–0.088 替换/位点）。关键词: 分支长度, 标尺, 比例尺, 替换数, scale bar</desc>
+  <desc id="d-06-scale-bar">带两端刻度与细分刻度的水平标尺，量程 0–0.10 替换/位点（80 px 对应 0.05）；上方示例树分支按同一比例绘制（8–140 px，即 0.005–0.088 替换/位点）</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

@@ -15,10 +15,10 @@
     <text x="50" y="20" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">42°C</text>
     <circle cx="45" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
     <circle cx="55" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
-    <text x="50" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">ice</text>
+    <text x="50" y="73" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">ice</text>
   </g>
   
   <g id="layer-annotation" data-name="annotation">
-    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="28.3" y="92.0">Heat-shock</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="29.9" y="84.55">transformation</text><line x1="2.48" y1="96.28" x2="1" y2="80.51" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="28.3" y="92.0">Heat-shock</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="29.9" y="84.55">transformation</text>
   </g>
 </svg>

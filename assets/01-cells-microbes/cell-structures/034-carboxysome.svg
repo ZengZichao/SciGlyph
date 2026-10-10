@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="羧酶体" data-name-en="Carboxysome" data-cat="02-structures" data-tags="羧酶体,多面体,蛋白外壳,Rubisco,卡尔文循环,CO2浓缩,自养" role="img" aria-labelledby="t-34-carboxysome d-34-carboxysome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-34-carboxysome">羧酶体 / Carboxysome</title>
-  <desc id="d-34-carboxysome">羧酶体是自养细菌中由蛋白外壳包被的多面体微区室，壳内富集 Rubisco 等固碳酶，把 CO2 浓缩后进行卡尔文循环，显著降低固碳能耗。关键词: 羧酶体, 多面体, 蛋白外壳, Rubisco, 卡尔文循环, CO2浓缩, 自养</desc>
+  <desc id="d-34-carboxysome">羧酶体是自养细菌中由蛋白外壳包被的多面体微区室，壳内富集 Rubisco 等固碳酶，把 CO2 浓缩后进行卡尔文循环，显著降低固碳能耗</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <circle cx="60" cy="60" r="52" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <polygon points="60.0 33.0 83.4 46.5 83.4 73.5 60.0 87.0 36.6 73.5 36.6 46.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.6"/>

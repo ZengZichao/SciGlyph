@@ -49,7 +49,7 @@
     <circle cx="52.8" cy="63.9" r="1" fill="#5B8C3E" data-pp="virus"/>
     <circle cx="73.6" cy="62.4" r="1" fill="#5B8C3E" data-pp="virus"/>
     <circle cx="68.5" cy="84.4" r="1" fill="#5B8C3E" data-pp="virus"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="30.88" y="95.0">10000 frames →</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="28.11" y="87.45">super-res</text><line x1="15.15" y1="96.28" x2="9.21" y2="83.41" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="30.88" y="95.0">10000 frames →</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="79.97" y="95.0">super-res</text>
   </g>
   <g id="layer-annotation-palm_storm" data-name="annotation">
     <text x="50" y="8" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">PALM/STORM</text>

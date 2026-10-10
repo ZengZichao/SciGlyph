@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="常开按钮" data-name-en="pushbutton-normally-open" data-cat="physics-electronics" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-12">常开按钮 / pushbutton_normally_open</title>
-  <desc id="d-12">常开按钮开关符号。关键词: 按钮,常开,开关</desc>
+  <title id="t-12">常开按钮 / Pushbutton-Normally-Open</title>
+  <desc id="d-12">常开按钮开关符号</desc>
   <g id="g-12-常开按钮">
     <line x1="10" y1="50" x2="40" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
     <circle cx="40" cy="50" r="3" fill="#1f2937"/>

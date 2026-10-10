@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="外群与虚线基部" data-name-en="Outgroup rooting" data-cat="04-phylo" data-tags="外群,outgroup,基部,虚线,定根" aria-labelledby="t-10-outgroup d-10-outgroup" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-10-outgroup">外群与虚线基部 / Outgroup rooting</title>
-  <desc id="d-10-outgroup">外群分支以灰色虚线自根节点向下绘出并加空心三角标记；虚线外群支与实线内群干在根节点处交汇，该交汇点即系统发育根，虚线基部强调根位置的不确定性。关键词: 外群, outgroup, 基部, 虚线, 定根</desc>
+  <desc id="d-10-outgroup">外群分支以灰色虚线自根节点向下绘出并加空心三角标记；虚线外群支与实线内群干在根节点处交汇，该交汇点即系统发育根，虚线基部强调根位置的不确定性</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="8" width="112" height="100" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <!-- 实线内群：根干 → 根节点(24,48) → 内群 → 4 个叶端 -->
@@ -36,6 +36,6 @@
       <circle cx="100" cy="78" r="3"/>
     </g>
     <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="13" y="43" text-anchor="middle" font-size="9" fill="#2B3A42">根</text>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="62" y="100" text-anchor="middle" font-size="9" fill="#5B6B73">OUTGROUP</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="62" y="102" text-anchor="middle" font-size="9" fill="#5B6B73">外群</text>
   </g>
 </svg>

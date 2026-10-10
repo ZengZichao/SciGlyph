@@ -5,14 +5,14 @@
   <desc id="d-negative_stain_phage">负染噬菌体TEM：磷钨酸/醋酸铀负染→背景暗，噬菌体颗粒亮。快速鉴定噬菌体形态(头尾结构)。关键词: negative stain, TEM, uranyl acetate, phosphotungstic acid, phage morphology</desc>
   <g id="layer-body-negative_stain_phage" data-name="body">
     <!-- Dark background (stain) -->
-    <rect x="10" y="15" width="80" height="55" rx="3" ry="3" fill="#1B2733" data-pp="ink" fill-opacity="0.15" stroke="#1B2733" stroke-width="1"/>
+    <rect x="10" y="15" width="80" height="40" rx="3" ry="3" fill="#1B2733" data-pp="ink" fill-opacity="0.85" stroke="#1B2733" stroke-width="1"/>
     <!-- Phage particles (light against dark) -->
     <polygon points="30,30 36,26 36,34 30,38 24,34 24,26" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
-    <line x1="30" y1="38" x2="30" y2="48" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="30" y1="38" x2="30" y2="48" stroke="#FFFFFF" stroke-width="0.5"/>
     <polygon points="55,28 61,24 61,32 55,36 49,32 49,24" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
-    <line x1="55" y1="36" x2="55" y2="46" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="55" y1="36" x2="55" y2="46" stroke="#FFFFFF" stroke-width="0.5"/>
     <polygon points="72,35 78,31 78,39 72,43 66,39 66,31" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
-    <line x1="72" y1="43" x2="72" y2="53" stroke="#1B2733" stroke-width="0.5"/>
+    <line x1="72" y1="43" x2="72" y2="53" stroke="#FFFFFF" stroke-width="0.5"/>
     <!-- Stain around particles -->
     <circle cx="30" cy="33" r="10" fill="#1B2733" data-pp="ink" fill-opacity="0.08" stroke="none"/>
     <circle cx="55" cy="31" r="10" fill="#1B2733" data-pp="ink" fill-opacity="0.08" stroke="none"/>

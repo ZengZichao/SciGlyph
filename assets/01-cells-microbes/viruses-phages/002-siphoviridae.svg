@@ -18,6 +18,6 @@
   </g>
   <g id="layer-annotation-siphoviridae" data-name="annotation">
     <text x="68" y="16" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">head</text>
-    <line x1="58.0" y1="52.9" x2="51.76" y2="52.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">tail fibers</text>
+    <line x1="50" y1="52.9" x2="55.5" y2="52.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.5" y="55.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">long tail</text>
   </g>
 </svg>

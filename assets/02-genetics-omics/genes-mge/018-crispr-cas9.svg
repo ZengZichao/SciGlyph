@@ -7,7 +7,7 @@
     <line x1="10" y1="45" x2="90" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
     <line x1="10" y1="50" x2="90" y2="50" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
         <rect x="34" y="33" width="26" height="24" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="47" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cas9</text>
+    <text x="47" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">Cas9</text>
     <rect x="61" y="42.5" width="8" height="5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
     <line x1="55" y1="41" x2="55" y2="54" stroke="#C42D2D" data-pp="alert" stroke-width="2"/>
     <line x1="47" y1="25" x2="47" y2="33" stroke="#5B8C3E" data-pp="virus" stroke-width="1" stroke-dasharray="1,1"/>

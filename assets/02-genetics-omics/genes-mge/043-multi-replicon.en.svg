@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-43_multi_replicon d-43_multi_replicon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-43_multi_replicon">Multi-Replicon</title>
-  <desc id="d-43_multi_replicon">Multi-replicon genome with primary chromosome, secondary chromosome and plasmids 关键词: multi-replicon, chromosome, plasmid</desc>
+  <desc id="d-43_multi_replicon">Multi-replicon genome with primary chromosome, secondary chromosome and plasmids</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="40" cy="45" r="18" fill="none" stroke="#6C3FA0" stroke-width="2" data-pp="gene"/>

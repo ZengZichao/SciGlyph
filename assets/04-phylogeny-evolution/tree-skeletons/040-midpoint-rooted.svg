@@ -2,38 +2,63 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      role="img" aria-labelledby="t-08 d-08" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-08">中点根树 / Midpoint-rooted Tree</title>
-  <desc id="d-08">骨架，配合 FastTree midpoint rooting 使用。中点根法确定树根位置。 关键词: phylogenetic tree, midpoint rooted, Midpoint-rooted, FastTree, rooting, skeleton template</desc>
+  <desc id="d-08">…以最长tip-to-tip路径的中点确定树根位置。…</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp08__clades" data-name="clade-shading">
-    <rect x="102.7" y="21.0" width="12.0" height="18.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="102.7" y="130.7" width="61.3" height="225.3" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="92" y="46" width="164" height="308" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="384" y="46" width="142" height="248" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
   </g>
   <g id="pp08__branches" data-name="branches">
-    <line x1="80.0" y1="30.0" x2="80.0" y2="216.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="136.7" x2="106.7" y2="296.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="243.3" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="30.0" x2="106.7" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="216.7" x2="106.7" y2="216.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="136.7" x2="133.3" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="296.7" x2="133.3" y2="296.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="243.3" x2="160.0" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170.0" y1="60.0" x2="170.0" y2="160.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="240.0" x2="180.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="250.0" y1="110.0" x2="250.0" y2="290.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="390.0" y1="120.0" x2="390.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="450.0" y1="60.0" x2="450.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="250.0" y1="110.0" x2="170.0" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="250.0" y1="290.0" x2="180.0" y2="290.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170.0" y1="60.0" x2="95.0" y2="60.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170.0" y1="160.0" x2="135.0" y2="160.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="240.0" x2="105.0" y2="240.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="340.0" x2="125.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="250.0" y1="200.0" x2="390.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="390.0" y1="120.0" x2="450.0" y2="120.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="390.0" y1="280.0" x2="500.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="450.0" y1="60.0" x2="525.0" y2="60.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="450.0" y1="180.0" x2="500.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g data-name="longest-path">
+    <polyline points="95,60 170,60 170,110 250,110 250,200 390,200 390,120 450,120 450,60 525,60" fill="none" stroke="#A2305B" stroke-width="2.4" stroke-opacity="0.55" stroke-dasharray="5 4" data-pp="archaea" stroke-linejoin="round"/>
   </g>
   <g id="pp08__nodes" data-name="nodes">
-    <circle cx="80.0" cy="123.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="216.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="296.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="250.0" cy="200.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="390.0" cy="200.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="170.0" cy="110.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="180.0" cy="290.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="450.0" cy="120.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g data-name="midpoint">
+    <path d="M 310 192 L 318 200 L 310 208 L 302 200 Z" fill="#A2305B" data-pp="archaea"/>
+    <text x="310" y="186" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">midpoint</text>
+    <text x="215" y="192" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">215</text>
+    <text x="352" y="192" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">215</text>
   </g>
   <g id="pp08__labels" data-name="tip-labels">
-    <text x="111.7" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
-    <text x="138.3" y="139.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
-    <text x="165.0" y="246.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
+    <text x="89" y="63.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp_A</text>
+    <text x="129" y="163.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp_B</text>
+    <text x="99" y="243.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp_C</text>
+    <text x="119" y="343.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Sp_D</text>
+    <text x="531" y="63.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
+    <text x="506" y="183.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_F</text>
+    <text x="506" y="283.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_G</text>
+  </g>
+  <g data-name="legend">
+    <text x="95" y="372" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">dashed = longest tip-to-tip path (Sp_A to Sp_E)</text>
+    <text x="95" y="388" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">root placed at its midpoint: 215 from each tip</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="440" y1="378" x2="530" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="440" y1="374" x2="440" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="530" y1="374" x2="530" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="485" y="392" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

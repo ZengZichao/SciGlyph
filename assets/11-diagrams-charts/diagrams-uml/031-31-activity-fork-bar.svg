@@ -1,14 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="分叉条" data-name-en="Activity Fork Bar" data-cat="diagrams-sw-uml" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-31">分叉条 / activity_fork_bar</title>
-  <desc id="d-31">活动图黑色分叉条。关键词: fork,bar,parallel,activity</desc>
+  <title id="t-31">分叉条 / Activity Fork Bar</title>
+  <desc id="d-31">活动图黑色分叉条</desc>
   <g id="g-31-分叉条">
     <rect x="55" y="10" width="10" height="60" fill="#1f2937"/>
-    <line fill="none" x1="60" y1="10" x2="30" y2="10" stroke="#1f2937" stroke-width="1.5"/>
-    <line fill="none" x1="30" y1="10" x2="30" y2="5" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="60" y1="5" x2="60" y2="10" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="60" y1="70" x2="30" y2="70" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="30" y1="70" x2="30" y2="75" stroke="#1f2937" stroke-width="1.5"/>
-    <line fill="none" x1="60" y1="10" x2="90" y2="10" stroke="#1f2937" stroke-width="1.5"/>
-    <line fill="none" x1="90" y1="10" x2="90" y2="5" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="60" y1="70" x2="90" y2="70" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="90" y1="70" x2="90" y2="75" stroke="#1f2937" stroke-width="1.5"/>
   </g>

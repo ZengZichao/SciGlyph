@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-flow-cytometer" data-cat="ls" data-spec="128" data-tags="flow,cytometer,laser,scatter,fluorescence,facs,cell,analysis" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-flow-cytometer" data-cat="ls" data-spec="128" data-tags="flow,cytometer,laser,scatter,fluorescence,facs,cell,analysis" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">流式细胞仪 / Flow Cytometer</title>
   <desc id="d">流式细胞仪：液流系统、激光激发、散射光/荧光检测。</desc>
   <g id="body">

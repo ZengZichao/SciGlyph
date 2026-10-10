@@ -53,6 +53,6 @@
 <text x="158.0" y="359.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">long branch (many changes)</text>
 <line x1="120.0" y1="374.0" x2="150.0" y2="374.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
 <text x="158.0" y="377.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">short branch</text>
-<text x="200.0" y="392.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Long branches attract spuriously; true topology pairs them with short branches</text>
+<text x="200.0" y="392.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Long branches attract spuriously; true tree pairs long with short</text>
 </g>
 </svg>

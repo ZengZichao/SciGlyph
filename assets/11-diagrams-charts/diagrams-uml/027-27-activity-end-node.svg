@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="双环终点" data-name-en="Activity End Node" data-cat="diagrams-sw-uml" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-27">双环终点 / activity_end_node</title>
-  <desc id="d-27">活动图牛眼终止节点。关键词: end,node,final,activity</desc>
+  <title id="t-27">双环终点 / Activity End Node</title>
+  <desc id="d-27">活动图牛眼终止节点</desc>
   <g id="g-27-双环终点">
     <circle cx="48" cy="24" r="12" fill="#1f2937"/>
     <circle cx="48" cy="24" r="16" fill="none" stroke="#1f2937" stroke-width="1.5"/>

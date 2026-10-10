@@ -22,7 +22,6 @@
 <rect x="196" y="58" width="20" height="14" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
 <text x="206" y="69" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Et</text>
 <line x1="255" y1="85" x2="300" y2="85" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" marker-end="url(#pp10__ar)"/>
-<text x="260" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">错配</text>
 <text x="315" y="55" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start">错配</text>
 <line x1="310" y1="70" x2="460" y2="70" stroke="#93A0AC" data-pp="muted" stroke-width="2" stroke-linecap="round"/>
 <rect x="340" y="58" width="40" height="26" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><text x="360.0" y="75.0" text-anchor="middle" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">alkG</text>

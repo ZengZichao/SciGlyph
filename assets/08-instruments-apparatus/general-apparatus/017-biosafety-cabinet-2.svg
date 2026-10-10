@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="生物安全柜" data-name-en="biosafety_cabinet" data-cat="lab-equipment" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-60">生物安全柜 / biosafety_cabinet</title>
-  <desc id="d-60">生物样品无菌操作防护。关键词: 安全柜,biosafety,无菌,防护</desc>
+  <title id="t-60">生物安全柜 / Biosafety_Cabinet</title>
+  <desc id="d-60">生物样品无菌操作防护</desc>
   <g id="g-60-生物安全柜">
     <rect x="30" y="20" width="260" height="200" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <rect x="45" y="30" width="230" height="130" rx="2" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

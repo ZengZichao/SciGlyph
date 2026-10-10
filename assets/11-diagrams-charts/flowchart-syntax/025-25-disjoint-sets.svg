@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="不相交两组" data-name-en="disjoint-sets" data-cat="flowchart-logic" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-25">不相交两组 / disjoint_sets</title>
-  <desc id="d-25">不相交集合。关键词: set,disjoint</desc>
+  <title id="t-25">不相交两组 / Disjoint-Sets</title>
+  <desc id="d-25">不相交集合</desc>
   <g id="g-25-不相交两组">
     <circle cx="75" cy="80" r="40" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="165" cy="80" r="40" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

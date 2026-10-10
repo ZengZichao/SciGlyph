@@ -22,7 +22,7 @@
     <text x="50" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">λ/4 shift</text>
   </g>
   <g id="layer-annotation-phase_contrast" data-name="annotation">
-    <line x1="68.0" y1="14.9" x2="56.1" y2="14.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="17.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">phase ring</text>
+    <text x="50" y="7" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phase ring</text>
     <text x="68" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">annular</text>
     <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phase contrast</text>
   </g>

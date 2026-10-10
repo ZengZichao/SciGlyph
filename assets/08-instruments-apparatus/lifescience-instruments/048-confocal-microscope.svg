@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-confocal-microscope" data-cat="ls" data-spec="128" data-tags="confocal,microscope,laser,scanning,pinhole,pmt,z-stack" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-confocal-microscope" data-cat="ls" data-spec="128" data-tags="confocal,microscope,laser,scanning,pinhole,pmt,z-stack" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">激光共聚焦显微镜 / Confocal Microscope</title>
   <desc id="d">激光共聚焦扫描显微镜：多波长激光、扫描振镜、针孔、PMT。</desc>
   <g id="body">

@@ -13,12 +13,10 @@
 <text x="60" y="195" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Gap sizes:</text><line x1="100" y1="320" x2="500" y2="320" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
 <line x1="100" y1="200" x2="100" y2="320" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" />
 <text x="300.0" y="345" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Gap size (bp)</text>
-<text x="70" y="260.0" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" transform="rotate(-90,70,260.0)">Count</text><rect x="100.0" y="280.0" width="38.0" height="40" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
+<text x="70" y="260.0" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" transform="rotate(-90,70,260.0)">Count</text>
 <text x="120.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">0-10</text>
-<text x="170.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">10-25</text><rect x="140.0" y="200.0" width="158.0" height="120" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
-<text x="250.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">25-50</text><rect x="320.0" y="280.0" width="58.0" height="40" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
-<text x="400.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">50-100</text><rect x="420.0" y="280.0" width="58.0" height="40" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
-<text x="300" y="370" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Total gaps: 5 | Total N bases: 125 | Scaffold length: 480 kb</text></g>  <g data-name="annotation">
-    <circle cx="540" cy="120" r="3" fill="#C42D2D" data-pp="alert"/>
-  </g>
+<text x="170.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">10-25</text><rect x="140.0" y="200.0" width="60.0" height="120" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
+<text x="250.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">25-50</text><rect x="200.0" y="280.0" width="100.0" height="40" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
+<text x="400.0" y="335" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">50-100</text><rect x="300.0" y="280.0" width="200.0" height="40" fill="#E8871E" data-pp="mge" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5" />
+<text x="300" y="370" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Total gaps: 5 | Total N bases: 125 | Scaffold length: 480 kb</text></g>
 </svg>

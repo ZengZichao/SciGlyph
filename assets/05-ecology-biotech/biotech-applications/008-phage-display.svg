@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="噬菌体展示文库" data-name-en="Phage Display Library" data-cat="05-eco-seq" data-tags="噬菌体展示,多肽文库,淘选,生物亲和,洗脱,富集,定向进化" role="img" aria-labelledby="t-38-phage-display d-38-phage-display" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-38-phage-display">噬菌体展示文库 / Phage Display Library</title>
-  <desc id="d-38-phage-display">随机多肽展示于噬菌体衣壳表面形成巨量文库，经多轮亲和淘选、选择性洗脱与扩增富集获得高亲和力结合肽。关键词: 噬菌体展示, 多肽文库, 淘选, 生物亲和, 洗脱, 富集, 定向进化</desc>
+  <desc id="d-38-phage-display">随机多肽展示于噬菌体衣壳表面形成巨量文库，经多轮亲和淘选、选择性洗脱与扩增富集获得高亲和力结合肽</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- ① 随机多肽展示文库 -->
   <circle cx="14" cy="12" r="6.5" fill="#B57A17" stroke="none"/>

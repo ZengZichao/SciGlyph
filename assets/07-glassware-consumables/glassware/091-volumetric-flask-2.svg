@@ -5,7 +5,7 @@
      data-tags="volumetric,flask,calibrated,neck,meniscus,precise" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">容量瓶 / Volumetric Flask</title>
   <desc id="d">细颈单刻度线容量瓶，带磨口塞，用于精确定容。</desc>
-  <g id="body"><path d="M58 10 L58 42 L28 90 Q22 108 40 112 L88 112 Q106 108 100 90 L70 42 L70 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M34 88 Q28 106 42 110 L86 110 Q100 106 94 88 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M58 32 L70 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><g id="graduations"><path d="M58 32 L70 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M56 8 L56 14 L72 14 L72 8 Q68 6 64 6 Q60 6 56 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M60 10 L60 14 M68 10 L68 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
+  <g id="body"><path d="M59 12 L59 48 Q26 58 26 86 Q26 114 46 114 L82 114 Q102 114 102 86 Q102 58 69 48 L69 12 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M28.5 88 L99.5 88 Q99.5 112.5 82 112.5 L46 112.5 Q28.5 112.5 28.5 88 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><g id="graduations"><path d="M59 34 L69 34" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g><path d="M57 6 L57 14 L71 14 L71 6 Q67 4 64 4 Q60 4 57 6 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M61 8 L61 14 M67 8 L67 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
   
 </svg>

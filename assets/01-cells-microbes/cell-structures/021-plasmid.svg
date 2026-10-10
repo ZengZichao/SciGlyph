@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="质粒" data-name-en="Plasmid" data-cat="02-structures" data-tags="质粒,染色体外,环状双链DNA,抗性基因,复制子,接合" role="img" aria-labelledby="t-21-plasmid d-21-plasmid" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-21-plasmid">质粒 / Plasmid</title>
-  <desc id="d-21-plasmid">质粒是染色体外可自主复制的环状双链 DNA，常携带抗生素抗性、毒力或接合转移基因，可通过接合在菌群间传播。关键词: 质粒, 染色体外, 环状双链DNA, 抗性基因, 复制子, 接合</desc>
+  <desc id="d-21-plasmid">质粒是染色体外可自主复制的环状双链 DNA，常携带抗生素抗性、毒力或接合转移基因，可通过接合在菌群间传播</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <rect x="14" y="38" width="92" height="52" rx="20" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <path d="M30 64C28 55 38 48 48 51C57 54 62 50 70 53C80 57 82 66 74 71C66 76 58 70 49 73C40 76 32 72 30 64Z" fill="none" stroke="#5FA8C7" stroke-width="1.4" stroke-dasharray="4 3"/>

@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>缓冲安全瓶</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>缓冲安全瓶 / Flask Safety Bottle</title>
   <path d="M8 5 L8 8 Q5 9 5 12 L5 19 Q5 20.5 7 20.5 L17 20.5 Q19 20.5 19 19 L19 12 Q19 9 16 8 L16 5"/>
   <line x1="7.5" y1="5" x2="16.5" y2="5"/>
   <path d="M10 2 L10 5" stroke-width="1.25"/>

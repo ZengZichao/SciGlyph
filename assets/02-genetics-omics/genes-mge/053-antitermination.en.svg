@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-53_antitermination d-53_antitermination" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-53_antitermination">Antitermination</title>
-  <desc id="d-53_antitermination">Antitermination with RNAP bypassing terminator via Nus complex 关键词: antitermination, Nus, terminator</desc>
+  <desc id="d-53_antitermination">Antitermination with RNAP bypassing terminator via Nus complex</desc>
   
   <g id="layer-body" data-name="body">
     <line x1="15" y1="45" x2="85" y2="45" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>

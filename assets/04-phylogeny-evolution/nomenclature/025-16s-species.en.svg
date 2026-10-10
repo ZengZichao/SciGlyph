@@ -11,7 +11,7 @@
     <text x="50" y="62" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">~98.65%</text>
     <rect x="25" y="68" width="20" height="5" rx="1" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
     <rect x="55" y="68" width="20" height="5" rx="1" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
-  <line x1="30" y1="35" x2="30" y2="43" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="45" y1="35" x2="45" y2="43" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><line x1="60" y1="35" x2="60" y2="43" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="50" cy="55" r="2" fill="#C42D2D" stroke="#1B2733" stroke-width="0.6" data-pp="alert"/></g>
+  <circle cx="50" cy="55" r="2" fill="#C42D2D" stroke="#1B2733" stroke-width="0.6" data-pp="alert"/></g>
   
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">16S-based species</text>

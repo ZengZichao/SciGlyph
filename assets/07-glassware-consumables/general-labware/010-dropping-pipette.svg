@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="滴管" data-name-en="dropping_pipette" data-cat="lab-equipment" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-10">滴管 / dropping_pipette</title>
-  <desc id="d-10">逐滴加入少量液体。关键词: 滴管,pipette,滴加,少量</desc>
+  <title id="t-10">滴管 / Dropping_Pipette</title>
+  <desc id="d-10">逐滴加入少量液体</desc>
   <g id="g-10-滴管">
     <path d="M 52 8 Q 48 8 48 14 Q 48 22 55 24 L 55 24 L 55 95 L 58 108 L 62 108 L 65 95 L 65 24 Q 72 22 72 14 Q 72 8 68 8 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 50 10 Q 48 10 49 16 Q 50 20 55 22 L 65 22 Q 70 20 71 16 Q 72 10 70 10 Z" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>

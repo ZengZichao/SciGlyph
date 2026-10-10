@@ -5,7 +5,7 @@
      data-tags="pcr,strip,tube,8,0.2mL,polymerase" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">8连PCR管 / PCR Strip Tube (8-tube)</title>
   <desc id="d">8连管PCR管条，带盖，0.2mL每管。</desc>
-  <g id="body"><path d="M16 30 L16 96 L22 110 L26 110 L26 96 L30 96 L30 110 L34 110 L34 96 L38 96 L38 110 L42 110 L42 96 L46 96 L46 110 L50 110 L50 96 L54 96 L54 110 L58 110 L58 96 L62 96 L62 110 L66 110 L66 96 L70 96 L70 110 L74 110 L74 96 L78 96 L78 110 L82 110 L82 96 L86 96 L86 110 L90 110 L90 96 L94 96 L94 110 L98 110 L98 96 L102 96 L102 110 L106 110 L106 96 L112 96 L112 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><g id="cap"><path d="M14 18 L14 32 L114 32 L114 18 Q106 14 64 14 Q22 14 14 18 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g><path d="M18 60 L110 60 L110 96 L14 96 L14 60 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+  <g id="body"><path d="M16 30 L16 96 L18 110 L24 110 L26 96 L28 96 L30 110 L36 110 L38 96 L40 96 L42 110 L48 110 L50 96 L52 96 L54 110 L60 110 L62 96 L64 96 L66 110 L72 110 L74 96 L76 96 L78 110 L84 110 L86 96 L88 96 L90 110 L96 110 L98 96 L100 96 L102 110 L108 110 L110 96 L112 96 L112 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><g id="cap"><path d="M14 18 L14 32 L114 32 L114 18 Q106 14 64 14 Q22 14 14 18 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g><path d="M18 60 L110 60 L110 96 L18 96 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
   
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="岩石循环" data-name-en="Rock Cycle 3Stage" data-cat="natural-sciences" aria-labelledby="t-66 d-66" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-66">岩石循环 / rock_cycle_3stage</title>
-  <desc id="d-66">展示三阶段岩石循环。关键词: rock cycle,igneous,sedimentary,metamorphic</desc>
+  <title id="t-66">岩石循环 / Rock Cycle 3Stage</title>
+  <desc id="d-66">展示三阶段岩石循环</desc>
   <g id="g-66-岩石循环">
     <rect x="190" y="20" width="100" height="60" rx="10" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="240" y="55" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">岩浆岩</text>

@@ -9,8 +9,8 @@
     
     <line x1="32" y1="23" x2="32" y2="55" stroke="#1B2733" stroke-width="0.5" stroke-dasharray="0.5,0.5" />
     <line x1="38" y1="23" x2="38" y2="55" stroke="#1B2733" stroke-width="0.5" stroke-dasharray="0.5,0.5" />
-    <text x="35" y="54.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.34nm</text>
-    <text x="35" y="62.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">rise/bp</text>
+    <text x="35" y="54.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">0.34 nm</text>
+    <text x="35" y="62.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">rise/bp</text>
     
     <line x1="15" y1="82" x2="50" y2="82" stroke="#1B2733" stroke-width="1.5" />
     <line x1="15" y1="79" x2="15" y2="85" stroke="#1B2733" stroke-width="1" />

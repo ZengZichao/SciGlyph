@@ -60,7 +60,7 @@
   <!-- 标注 -->
   <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" stroke="none" text-anchor="middle" font-size="7" x="28.71" y="32.0">Lipid bilayer</text>
   <path d="M24 35 v6" stroke="#7A8B93" stroke-width="1.2"/>
-  <text x="98" y="34" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">Pore</text>
+  <text x="98" y="34" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Pore</text>
   <path d="M98 37 l-8 5" stroke="#7A8B93" stroke-width="1.2"/>
 </g>
 </svg>

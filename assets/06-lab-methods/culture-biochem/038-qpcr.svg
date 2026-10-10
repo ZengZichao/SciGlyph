@@ -18,11 +18,12 @@
     <circle cx="30" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
     <circle cx="35" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
     <circle cx="40" cy="40" r="1.5" fill="#2E86AB" stroke="#1B2733" stroke-width="0.8" data-pp="bacteria"/>
-    <path d="M60,45 Q65,44 68,40 Q72,35 75,30 Q78,28 80,28" fill="#00857A" stroke="#00857A" stroke-width="2" stroke-linecap="round" data-pp="metabolism"/>
-    <line x1="60" y1="35" x2="80" y2="35" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
-    <text x="70" y="38" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Ct</text>
-    <line x1="60" y1="48" x2="80" y2="48" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
-    <line x1="60" y1="25" x2="60" y2="48" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <path d="M60,48.5 C64,48 66,45 68.5,38 C70.5,32 73,27.5 77,26.5 C79,26 80,25.8 84,25.5" fill="none" stroke="#00857A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" data-pp="metabolism"/>
+    <line x1="60" y1="36" x2="84" y2="36" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
+    <line x1="68.6" y1="36" x2="68.6" y2="50" stroke="#C42D2D" stroke-width="0.8" stroke-linecap="round" data-pp="alert" stroke-dasharray="2,2"/>
+    <text x="68.6" y="57" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">Ct</text>
+    <line x1="60" y1="50" x2="84" y2="50" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
+    <line x1="60" y1="22" x2="60" y2="50" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="ink"/>
   </g>
   
   <g id="layer-annotation" data-name="annotation">

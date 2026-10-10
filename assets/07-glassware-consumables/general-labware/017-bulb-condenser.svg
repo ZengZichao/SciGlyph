@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="球型冷凝管" data-name-en="bulb_condenser" data-cat="lab-equipment" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-17">球型冷凝管 / bulb_condenser</title>
-  <desc id="d-17">回流冷凝蒸气。关键词: 冷凝管,condenser,回流,冷却</desc>
+  <title id="t-17">球型冷凝管 / Bulb_Condenser</title>
+  <desc id="d-17">回流冷凝蒸气</desc>
   <g id="g-17-球型冷凝管">
     <line x1="15" y1="95" x2="145" y2="25" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="15" y1="105" x2="145" y2="35" stroke="#1f2937" stroke-width="1.5"/>
-    <circle cx="45" cy="82" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
-    <circle cx="70" cy="70" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
-    <circle cx="95" cy="58" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
-    <circle cx="120" cy="46" r="8" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="45" cy="84" r="3.5" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="70" cy="71" r="3.5" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="95" cy="58" r="3.5" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
+    <circle cx="120" cy="45" r="3.5" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>
     <path d="M 20 88 Q 15 70 25 55 L 35 50 Q 20 65 25 85 Z" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <path d="M 130 30 Q 140 25 145 35 L 140 42 Q 135 35 128 38 Z" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <line x1="25" y1="55" x2="20" y2="45" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>

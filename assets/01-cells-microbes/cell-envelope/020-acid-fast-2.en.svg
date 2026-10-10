@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-acid_fast d-acid_fast" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-acid_fast">Acid-fast stain</title>
-  <desc id="d-acid_fast">Acid-fast stain: red AF+ rods vs blue AF- rods 关键词: acid-fast, red, blue, Ziehl-Neelsen</desc>
+  <desc id="d-acid_fast">Acid-fast stain: red AF+ rods vs blue AF- rods</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="20" y="38" width="14" height="5" rx="2.5" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" transform="rotate(10,27,41)"/>

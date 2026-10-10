@@ -9,12 +9,12 @@
     <polygon points="64,8 120,64 64,120 8,64" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="3" data-ls="stroke"/>
     <polygon points="64,8 92,36 64,64 36,36" fill="#E02020" data-ls="danger"/>
     <polygon points="36,36 64,64 36,92 8,64" fill="#2B7DE9" data-ls="accent"/>
-    <polygon points="92,36 120,64 92,92 64,64" fill="#F5A623" data-ls="warn"/>
+    <polygon points="92,36 120,64 92,92 64,64" fill="#FFD100" data-ls="warn"/>
     <polygon points="64,64 92,92 64,120 36,92" fill="#FFFFFF" data-ls="fill"/>
     <text x="64" y="33.5" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="fill">F</text>
     <text x="36" y="67.5" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="fill">H</text>
-    <text x="92" y="67.5" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="fill">R</text>
-    <text x="64" y="101.5" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" text-anchor="middle" data-ls="stroke">SP</text>
+    <text x="92" y="67.5" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="fill">R</text>
+    <text x="64" y="101.5" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="10" font-weight="600" text-anchor="middle" data-ls="stroke">SP</text>
   </g>
   <g id="detail"></g>
 </svg>

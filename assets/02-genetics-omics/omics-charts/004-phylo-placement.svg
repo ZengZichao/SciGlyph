@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="新分类单元放置" data-name-en="Novel Taxon Phylogenetic Placement" data-cat="05-eco-seq" data-tags="系统发育放置,新分类单元,最大似然,候选分支,似然权重" role="img" aria-labelledby="t-30-phylo-placement d-30-phylo-placement" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-30-phylo-placement">新分类单元放置 / Novel Taxon Phylogenetic Placement</title>
-  <desc id="d-30-phylo-placement">将未知序列沿系统发育树的多个候选分支做最大似然放置（pplacer/EPA-ng 类方法），以似然权重条（LWR）表达放置位置的不确定性。关键词: 系统发育放置, 新分类单元, 最大似然, 候选分支, 似然权重</desc>
+  <desc id="d-30-phylo-placement">将未知序列沿系统发育树的多个候选分支做最大似然放置（pplacer/EPA-ng 类方法），以似然权重条（LWR）表达放置位置的不确定性</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 系统发育树 -->
   <path d="M6 56 H22" stroke="#2B3A42" stroke-width="1.4"/>

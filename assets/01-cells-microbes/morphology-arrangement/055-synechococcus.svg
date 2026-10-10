@@ -13,7 +13,7 @@
   <g id="layer-annotation" data-name="annotation">
     <line x1="65" y1="42" x2="82" y2="25" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
     <line x1="68.0" y1="17.9" x2="60.44" y2="17.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="20.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">thylakoid</text>
-    <line x1="72" y1="50" x2="85" y2="60" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
-    <line x1="71.0" y1="63.9" x2="60.44" y2="63.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="66.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no sheath</text>
+    <line x1="72" y1="50" x2="85" y2="70" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round" />
+    <line x1="71.0" y1="73.9" x2="60.44" y2="73.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="76.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">no sheath</text>
   </g>
 </svg>

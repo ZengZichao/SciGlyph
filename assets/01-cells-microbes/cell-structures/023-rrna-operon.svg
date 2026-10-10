@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="rRNA 操纵子" data-name-en="rRNA operon" data-cat="02-structures" data-tags="rRNA操纵子,5S,16S,23S,tRNA基因,共同转录,核糖体RNA" role="img" aria-labelledby="t-23-rrna-operon d-23-rrna-operon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-23-rrna-operon">rRNA 操纵子 / rRNA operon</title>
-  <desc id="d-23-rrna-operon">典型 rRNA 操纵子按 5′→3′ 顺序排列 16S、23S、5S rRNA 基因，部分操纵子的间隔区夹有 tRNA 基因，全操纵子被 RNA 聚合酶共同转录为多顺反子 rRNA 前体。关键词: rRNA操纵子, 5S, 16S, 23S, tRNA基因, 共同转录, 核糖体RNA</desc>
+  <desc id="d-23-rrna-operon">典型 rRNA 操纵子按 5′→3′ 顺序排列 16S、23S、5S rRNA 基因，部分操纵子的间隔区夹有 tRNA 基因，全操纵子被 RNA 聚合酶共同转录为多顺反子 rRNA 前体</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <path d="M10 74L112 74" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
 <rect x="24" y="66" width="28" height="16" rx="3" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>

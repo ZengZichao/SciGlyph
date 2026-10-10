@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-hydrothermal_vent d-hydrothermal_vent" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-hydrothermal_vent">Hydrothermal vent</title>
-  <desc id="d-hydrothermal_vent">Black smoker chimney with smoke plume, thermophilic flagellated rods and archaea 关键词: hydrothermal, vent, thermophile, black smoker</desc>
+  <desc id="d-hydrothermal_vent">Black smoker chimney with smoke plume, thermophilic flagellated rods and archaea</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="5" y="70" width="90" height="15" rx="2" fill="#8C6D3F" stroke="#1B2733" stroke-width="1" data-pp="host" fill-opacity="0.5"/>

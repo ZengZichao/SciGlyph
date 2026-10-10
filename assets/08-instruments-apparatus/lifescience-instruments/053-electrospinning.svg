@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-electrospinning" data-cat="ls" data-spec="128" data-tags="electrospinning,nanofiber,syringe,high,voltage,collector" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-electrospinning" data-cat="ls" data-spec="128" data-tags="electrospinning,nanofiber,syringe,high,voltage,collector" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">静电纺丝装置 / Electrospinning</title>
   <desc id="d">静电纺丝：注射泵、高压电源、收集滚筒、纳米纤维。</desc>
   <g id="body">
@@ -20,8 +20,8 @@
 <path d="M54 39 Q58 36 62 40" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="0.8" data-ls="accent" />
 <path d="M56 43 Q60 46 64 42" fill="#2B7DE9" opacity="0.4" stroke="none" stroke-width="0.8" data-ls="accent" />
     <rect x="20" y="68" width="40" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
-    <text x="40" y="66" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Electrospin</text>
-    <text x="40" y="82" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">15 kV</text>
+    <text x="40" y="66" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">HV Supply</text>
+    <text x="40" y="82" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">15 kV</text>
     <circle cx="70" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
     <circle cx="80" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
     <circle cx="90" cy="76" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />

@@ -58,9 +58,9 @@
 <text x="490.0" y="280.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">0.72</text>
 <text x="490.0" y="295.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">p=0.001</text>
 <circle cx="50.0" cy="310.0" r="5.0" fill="#2E86AB" data-pp="bacteria"/>
-<text x="60.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Within</text>
+<text x="60.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group A</text>
 <circle cx="130.0" cy="310.0" r="5.0" fill="#A2305B" data-pp="archaea"/>
-<text x="140.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Between</text>
+<text x="140.0" y="314.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Group B</text>
 <text x="300.0" y="385.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Bray-Curtis, perm=999</text>
 </g>
 </svg>

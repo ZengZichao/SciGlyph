@@ -4,30 +4,32 @@
   <title id="t-sim">SIM结构光照明 / SIM structured illumination microscopy</title>
   <desc id="d-sim">SIM结构光照明显微镜：用条纹图案光照射样品→高频信息折叠为可观测Moiré条纹→多方向/多相位采集→计算重建→分辨率提升2×(~100nm)。关键词: SIM, structured illumination, Moiré, computational, 2x resolution</desc>
   <g id="layer-body-sim" data-name="body">
-    <!-- Structured illumination pattern -->
-    <rect x="5" y="10" width="30" height="25" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
-    <!-- Moiré fringes -->
-    <line x1="8" y1="12" x2="32" y2="12" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="8" y1="16" x2="32" y2="16" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="8" y1="20" x2="32" y2="20" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="8" y1="24" x2="32" y2="24" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="8" y1="28" x2="32" y2="28" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <line x1="8" y1="32" x2="32" y2="32" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
-    <text x="20.03" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">patterned</text>
+    <!-- Raw SIM frame: coarse Moiré fringes produced by the striped illumination -->
+    <rect x="10" y="24" width="30" height="24" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="13" y1="28" x2="37" y2="28" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="13" y1="32" x2="37" y2="32" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="13" y1="36" x2="37" y2="36" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="13" y1="40" x2="37" y2="40" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="13" y1="44" x2="37" y2="44" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
     <!-- Arrow -->
-    <path d="M38,22 L48,22" fill="none" stroke="#1B2733" stroke-width="1"/>
-    <polygon points="46,20 50,22 46,24" fill="#1B2733" data-pp="ink"/>
-    <!-- Computational reconstruction -->
-    <rect x="52" y="10" width="40" height="25" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
-    <text x="71.29" y="25" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">reconstructed</text>
-    <!-- Resolution improvement -->
-    <text x="50" y="55" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">2× resolution</text>
-    <text x="50" y="63" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~100nm lateral</text>
-    <!-- Moiré explanation -->
-    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">high-freq info → Moiré</text>
-    <line x1="50.0" y1="83.9" x2="59.09" y2="83.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="37.39" y="86.0">→ computationally</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="39.56" y="94.26">recovered</text>
+    <path d="M42,36 L53,36" fill="none" stroke="#1B2733" stroke-width="1.5"/>
+    <polygon points="51,33 57,36 51,39" fill="#1B2733" data-pp="ink"/>
+    <!-- Computational reconstruction: twice as many resolvable fringes -->
+    <rect x="58" y="24" width="32" height="24" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <line x1="61" y1="26.5" x2="87" y2="26.5" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="28.75" x2="87" y2="28.75" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="31" x2="87" y2="31" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="33.25" x2="87" y2="33.25" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="35.5" x2="87" y2="35.5" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="37.75" x2="87" y2="37.75" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="40" x2="87" y2="40" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="42.25" x2="87" y2="42.25" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
+    <line x1="61" y1="44.5" x2="87" y2="44.5" stroke="#E8871E" data-pp="mge" stroke-width="1"/>
   </g>
   <g id="layer-annotation-sim" data-name="annotation">
-    <line x1="50.0" y1="93.9" x2="59.09" y2="93.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="69.12" y="47.39">SIM structured</text><line x1="2.48" y1="94.18" x2="40.7" y2="43.35" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="26.54" y="70.89">illumination</text><line x1="8.85" y1="96.28" x2="1" y2="66.85" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text x="25" y="56" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">raw frame</text>
+    <text x="74" y="56" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">recon.</text>
+    <text x="50" y="64" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">2× resolution, ~100 nm</text>
+    <text x="50" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Moiré → reconstruction</text>
   </g>
 </svg>

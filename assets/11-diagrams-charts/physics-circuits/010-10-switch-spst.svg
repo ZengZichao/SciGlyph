@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="单刀单掷开关" data-name-en="switch-spst" data-cat="physics-electronics" aria-labelledby="t-10 d-10" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-10">单刀单掷开关 / switch_spst</title>
-  <desc id="d-10">SPST单刀单掷开关符号。关键词: 开关,SPST,单刀单掷</desc>
+  <title id="t-10">单刀单掷开关 / Switch-Spst</title>
+  <desc id="d-10">SPST单刀单掷开关符号</desc>
   <g id="g-10-单刀单掷开关">
     <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <circle cx="40" cy="40" r="3" fill="#1f2937"/>

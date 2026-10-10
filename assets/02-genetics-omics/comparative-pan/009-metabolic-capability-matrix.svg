@@ -1,43 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
-     role="img" aria-labelledby="t-metabolic_capability_matrix d-metabolic_capability_matrix" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" role="img" aria-labelledby="t-metabolic_capability_matrix d-metabolic_capability_matrix" class="pp-diagram pp-comparative" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-metabolic_capability_matrix">代谢能力比对矩阵 / Metabolic capability comparison matrix</title>
   <desc id="d-metabolic_capability_matrix">物种间代谢通路存在/缺失。schematic, not to scale. 关键词: metabolic, pathway, comparison</desc>
   
-<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
+<g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" /></g>
 <g data-name="matrix">
-  <rect x="140" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="220" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="300" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="380" y="80" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="460" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="140" y="120" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="220" y="120" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="300" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="380" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="460" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="140" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="220" y="160" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="300" y="160" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="380" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="460" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="140" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="220" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="300" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="380" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="460" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="140" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="220" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
-  <rect x="300" y="240" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="380" y="240" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2"/>
-  <rect x="460" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2"/>
+  <rect x="140" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="220" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="300" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="380" y="80" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="460" y="80" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="140" y="120" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="220" y="120" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="300" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="380" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="460" y="120" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="140" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="220" y="160" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="300" y="160" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="380" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="460" y="160" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="140" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="220" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="300" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="380" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="460" y="200" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="140" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="220" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
+  <rect x="300" y="240" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="380" y="240" width="77" height="37" fill="#00857A" data-pp="metabolism" rx="2" />
+  <rect x="460" y="240" width="77" height="37" fill="#93A0AC" data-pp="muted" rx="2" />
 </g>
 <g data-name="labels">
-  <text x="180.0" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Glycolysis</text>
-  <text x="260.0" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">TCA</text>
-  <text x="340.0" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">N fixation</text>
-  <text x="420.0" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Methanogenesis</text>
-  <text x="500.0" y="70" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sulfate red.</text>
+  <text x="180.0" y="70" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Glycolysis</text>
+  <text x="260.0" y="70" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">TCA</text>
+  <text x="340.0" y="70" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">N fixation</text>
+  <text x="420.0" y="70" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Methanogenesis</text>
+  <text x="500.0" y="70" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sulfate reduction</text>
   <text x="130" y="103.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp1</text>
   <text x="130" y="143.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp2</text>
   <text x="130" y="183.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="end" data-pp="ink">Sp3</text>

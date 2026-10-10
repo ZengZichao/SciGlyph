@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-methods" role="img" aria-labelledby="t-streak_plate d-streak_plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-streak_plate">Streak Plate</title>
-  <desc id="d-streak_plate">Quadrant streak plate with isolated colonies 关键词: streak plate, quadrant, isolation</desc>
+  <desc id="d-streak_plate">Quadrant streak plate with isolated colonies</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="50" cy="45" r="30" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="叶片蒸腾" data-name-en="Leaf Transpiration" data-cat="natural-sciences" aria-labelledby="t-71 d-71" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-71">叶片蒸腾 / leaf_transpiration</title>
-  <desc id="d-71">展示叶片蒸腾及气孔。关键词: leaf,transpiration,stomata</desc>
+  <title id="t-71">叶片蒸腾 / Leaf Transpiration</title>
+  <desc id="d-71">展示叶片蒸腾及气孔</desc>
   <g id="g-71-叶片蒸腾">
     <path d="M40,180 C40,80 120,30 200,30 C280,30 280,100 240,160 C200,220 80,220 40,180" fill="#009E73" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <path d="M60,170 C100,120 160,80 200,60" fill="none" stroke="#ffffff" stroke-width="1.5"/>

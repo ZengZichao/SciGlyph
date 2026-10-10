@@ -4,8 +4,9 @@
      data-id="pf-flow-boundary-dashed-container" data-cat="pf" data-spec="160"
      data-tags="boundary,dashed,container,group,swimlane,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">虚线分组容器 / Dashed Boundary Container</title>
-  <desc id="d">流程图虚线分组容器/泳道框。</desc>
+  <desc id="d">流程图虚线分组容器，左上带标题页签。</desc>
   <g id="body">
-    <rect x="12" y="12" width="136" height="72" rx="6" ry="6" fill="none" stroke="#1F2933" stroke-dasharray="10,5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="12" y="22" width="136" height="62" rx="6" ry="6" fill="none" stroke="#1F2933" stroke-dasharray="10,5" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M28,22 L34,10 L60,10 L66,22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
   </g>
 </svg>

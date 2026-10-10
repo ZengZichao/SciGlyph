@@ -4,7 +4,7 @@
   <title id="t-79_brace">括号线 / Brace</title>
   <desc id="d-79_brace">括号线。骨架，配合分组标注使用。关键词: brace, bracket, grouping</desc>
   <g id="layer-body" data-name="body">
-    <path d="M20,15 Q15,15 15,25 L15,40 Q15,45 10,50 Q15,55 15,60 L15,75 Q15,85 20,85" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="brace"/>
+    <path d="M55,15 Q50,15 50,25 L50,40 Q50,45 45,50 Q50,55 50,60 L50,75 Q50,85 55,85" fill="none" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-name="brace"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Brace</text>

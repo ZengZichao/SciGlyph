@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="突触放大" data-name-en="Synapse Detail" data-cat="natural-sciences" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-51">突触放大 / synapse_detail</title>
-  <desc id="d-51">展示突触结构放大图。关键词: synapse,neurotransmitter,vesicle</desc>
+  <title id="t-51">突触放大 / Synapse</title>
+  <desc id="d-51">展示突触结构放大图</desc>
   <g id="g-51-突触放大">
     <path d="M20,60 L120,60 L120,180 L20,180 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M200,60 L300,60 L300,180 L200,180 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

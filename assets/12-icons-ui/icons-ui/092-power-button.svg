@@ -6,9 +6,7 @@
   <title id="t">电源按钮图标 / Icon Power Button</title>
   <desc id="d">电源按钮微型图标。</desc>
   <g id="body">
-    <circle cx="12" cy="12" r="8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
-    <line x1="12" y1="4" x2="12" y2="10" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
-    <path d="M8,6 Q6,8 6,12" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
-    <path d="M16,6 Q18,8 18,12" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <path d="M16,5.07 A8,8 0 1 1 8,5.07" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
+    <line x1="12" y1="3" x2="12" y2="12" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.4" data-ls="stroke"/>
   </g>
 </svg>

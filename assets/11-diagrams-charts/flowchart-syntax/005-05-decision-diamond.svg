@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="判定菱形" data-name-en="decision-diamond" data-cat="flowchart-logic" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-05">判定菱形 / decision_diamond</title>
-  <desc id="d-05">条件判定分支。关键词: flowchart,decision,if</desc>
+  <title id="t-05">判定菱形 / Decision-Diamond</title>
+  <desc id="d-05">条件判定分支</desc>
   <g id="g-05-判定菱形">
     <polygon points="60,8 112,40 60,72 8,40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="44" font-family="Inter,Helvetica,Arial,sans-serif" font-size="14" fill="#1f2937" text-anchor="middle">IF?</text>

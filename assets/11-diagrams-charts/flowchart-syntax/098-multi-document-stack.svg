@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="pf-multi-document-stack" data-cat="pf" data-spec="160"
      data-tags="multi,document,stack,pages,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">多文档 / Multi-Document Stack</title>
+  <title id="t">多文档（空白符号） / Multi-Document Stack</title>
   <desc id="d">流程图多文档符号，多个文档堆叠。</desc>
   <g id="body">
     <path d="M30,12 L142,12 L142,60 Q132,52 122,60 Q112,68 102,60 Q92,52 82,60 Q72,68 62,60 Q52,52 42,60 Q32,68 30,60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

@@ -1,17 +1,24 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="肺泡-毛细血管" data-name-en="Alveolus Capillary" data-cat="natural-sciences" aria-labelledby="t-54 d-54" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-54">肺泡-毛细血管 / alveolus_capillary</title>
-  <desc id="d-54">展示肺泡-毛细血管气体交换。关键词: alveolus,capillary,gas exchange</desc>
+  <title id="t-54">肺泡-毛细血管 / Alveolus-capillary gas exchange</title>
+  <desc id="d-54">展示肺泡与毛细血管间的气体交换（呼吸膜、O2 入血、CO2 入肺泡）</desc>
   <g id="g-54-肺泡-毛细血管">
-    <circle cx="60" cy="60" r="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <path d="M25,40 C30,35 35,38 38,45" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <path d="M25,50 C30,48 35,50 38,55" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <path d="M25,65 C30,63 35,65 38,70" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <path d="M25,80 C30,78 35,80 38,85" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <circle cx="60" cy="60" r="15" fill="#0072B2" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
-    <text x="60" y="64" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">O2</text>
-    <path d="M110,30 L150,30" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <path d="M110,50 L150,50" fill="none" stroke="#0072B2" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M110,70 L150,70" fill="none" stroke="#D55E00" stroke-width="2" data-drole="series-1"/>
-    <path d="M110,90 L150,90" fill="none" stroke="#0072B2" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="16" y="84" width="130" height="28" fill="#ffffff" stroke="none"/>
+    <path d="M16 84L146 84" fill="none" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <path d="M16 112L146 112" fill="none" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
+    <ellipse cx="26" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <ellipse cx="48" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <ellipse cx="70" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <ellipse cx="92" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <ellipse cx="114" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <ellipse cx="136" cy="98" rx="8" ry="6" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-1"/>
+    <path d="M43.4 78A36 36 0 1 1 88.6 78Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
+    <line x1="59" y1="60" x2="59" y2="94" stroke="#0072B2" stroke-width="2.5" data-drole="series-2"/>
+    <polygon points="59,102 56,94 62,94" fill="#0072B2" data-drole="series-2"/>
+    <line x1="81" y1="96" x2="81" y2="68" stroke="#009E73" stroke-width="2.5" data-drole="series-3"/>
+    <polygon points="81,60 78,68 84,68" fill="#009E73" data-drole="series-3"/>
+    <circle cx="50" cy="42" r="11" fill="#0072B2" stroke="none" data-drole="series-2"/>
+    <text x="50" y="45.5" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">O2</text>
+    <circle cx="86" cy="42" r="11" fill="#009E73" stroke="none" data-drole="series-3"/>
+    <text x="86" y="45" font-family="Inter,Helvetica,Arial,sans-serif" font-size="8" fill="#ffffff" text-anchor="middle">CO2</text>
   </g>
 </svg>

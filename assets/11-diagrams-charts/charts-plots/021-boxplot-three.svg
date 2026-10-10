@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="三组箱线图" data-name-en="Boxplot Three" data-cat="charts-plots" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-21">三组箱线图 / boxplot_three</title>
-  <desc id="d-21">三组箱线对比。关键词: boxplot,three,compare</desc>
+  <title id="t-21">三组箱线图 / Boxplot Three</title>
+  <desc id="d-21">三组箱线对比</desc>
   <g id="g-21-三组箱线图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

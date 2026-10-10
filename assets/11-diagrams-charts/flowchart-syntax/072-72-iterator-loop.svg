@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="循环迭代" data-name-en="iterator-loop" data-cat="flowchart-logic" aria-labelledby="t-72 d-72" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-72">循环迭代 / iterator_loop</title>
-  <desc id="d-72">循环迭代计数器示意。关键词: iterator,loop,counter</desc>
+  <title id="t-72">循环迭代 / Iterator-Loop</title>
+  <desc id="d-72">循环迭代计数器示意</desc>
   <g id="g-72-循环迭代">
     <circle cx="50" cy="60" r="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M75,42 A30,30 0 0,1 75,78" fill="none" stroke="#1f2937" stroke-width="1.5"/>

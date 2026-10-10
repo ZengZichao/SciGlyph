@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="坩埚钳" data-name-en="crucible_tongs" data-cat="lab-equipment" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">坩埚钳 / crucible_tongs</title>
-  <desc id="d-24">夹取高温坩埚和热器皿。关键词: 坩埚钳,tongs,夹取,高温</desc>
-  <g id="g-24-坩埚钳">
+  <title id="t-24">坩埚钳 / Crucible_Tongs</title>
+  <desc id="d-24">夹取高温坩埚和热器皿</desc>
+  <g id="g-24-坩埚钳" transform="translate(12.5,0)">
     <path d="M 20 15 Q 25 30 35 50 L 55 90 L 60 95" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
     <path d="M 30 15 Q 35 30 42 50 L 60 85 L 65 90" stroke="#1f2937" stroke-width="2" fill="none" stroke-linecap="round"/>
     <path d="M 55 90 Q 50 100 45 108 L 50 110 Q 58 102 60 95" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

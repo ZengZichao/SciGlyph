@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="电压表" data-name-en="voltmeter-circle" data-cat="physics-electronics" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-40">电压表 / voltmeter_circle</title>
-  <desc id="d-40">圆形电压表符号。关键词: 电压表,伏特表,测量</desc>
+  <title id="t-40">电压表 / Voltmeter-Circle</title>
+  <desc id="d-40">圆形电压表符号</desc>
   <g id="g-40-电压表">
     <circle cx="60" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
     <text x="60" y="47" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">V</text>

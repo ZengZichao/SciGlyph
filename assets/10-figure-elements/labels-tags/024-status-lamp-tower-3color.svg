@@ -4,7 +4,7 @@
      data-id="lb-status-lamp-tower-3color" data-cat="lb" data-spec="160"
      data-tags="status,lamp,tower,3-color,red,yellow,green,andon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">塔灯三色 / Status Lamp Tower 3-Color</title>
-  <desc id="d">塔灯，红黄绿三层柱加亮态高亮。</desc>
+  <desc id="d">塔灯，红黄绿三层柱加底座与安装底板。 （素材实际未画"亮态高亮"，且本次补齐了底座/底板；不改图形，改描述）</desc>
   <g id="body">
     <rect x="60" y="14" width="40" height="20" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <rect x="62" y="16" width="36" height="16" rx="1" ry="1" fill="#E02020" stroke="none" data-ls="danger"/>
@@ -12,7 +12,7 @@
     <rect x="62" y="40" width="36" height="16" rx="1" ry="1" fill="#F5A623" stroke="none" data-ls="warn"/>
     <rect x="60" y="62" width="40" height="20" rx="2" ry="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <rect x="62" y="64" width="36" height="16" rx="1" ry="1" fill="#7FC26B" stroke="none" data-ls="liquid-2"/>
-    <rect x="70" y="86" width="20" height="6" fill="#33414F" stroke="none" data-ls="dark"/>
-    <line x1="80" y1="92" x2="80" y2="96" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <rect x="64" y="82" width="32" height="10" fill="#33414F" stroke="none" data-ls="dark"/>
+    <line x1="62" y1="94" x2="98" y2="94" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
   </g>
 </svg>

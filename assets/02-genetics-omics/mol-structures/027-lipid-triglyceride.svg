@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="甘油三酯" data-name-en="Lipid Triglyceride" data-cat="natural-sciences" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-38">甘油三酯 / lipid_triglyceride</title>
-  <desc id="d-38">展示甘油三酯结构。关键词: triglyceride,lipid,energy storage</desc>
+  <title id="t-38">甘油三酯 / Lipid Triglyceride</title>
+  <desc id="d-38">展示甘油三酯结构</desc>
   <g id="g-38-甘油三酯">
     <circle cx="80" cy="30" r="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="80" y="34" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">G</text>

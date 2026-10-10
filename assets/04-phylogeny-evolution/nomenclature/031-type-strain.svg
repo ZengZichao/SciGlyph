@@ -8,11 +8,11 @@
     <text x="50" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">TYPE STRAIN</text>
     <rect x="18" y="36" width="28" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.15" stroke="#2E86AB" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="32" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">ATCC</text>
-    <rect x="54" y="36" width="28" height="12" rx="2" fill="#A2305B" data-pp="archaea" fill-opacity="0.15" stroke="#A2305B" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="48" y="36" width="38" height="12" rx="2" fill="#A2305B" data-pp="archaea" fill-opacity="0.15" stroke="#A2305B" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="68" y="45" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">DSM 1234<tspan font-size="3.5" baseline-shift="super">T</tspan></text>
     <rect x="18" y="52" width="28" height="12" rx="2" fill="#00857A" data-pp="metabolism" fill-opacity="0.15" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="32" y="61" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">JCM</text>
-    <rect x="54" y="52" width="28" height="12" rx="2" fill="#E8871E" data-pp="mge" fill-opacity="0.15" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="48" y="52" width="38" height="12" rx="2" fill="#E8871E" data-pp="mge" fill-opacity="0.15" stroke="#E8871E" stroke-width="0.8" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="68" y="61" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">CCTCC</text>
       <polygon points="50,8 52,13 57,13 53,16 54,21 50,18 46,21 47,16 43,13 48,13" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
     <circle cx="82" cy="18" r="3" fill="#00857A" data-pp="metabolism"/>

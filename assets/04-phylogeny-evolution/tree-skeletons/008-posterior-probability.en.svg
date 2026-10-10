@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -7.4 253.2 174.3" width="240" height="160" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="贝叶斯后验概率标注" data-name-en="Posterior probability" data-cat="04-phylo" data-tags="后验概率,贝叶斯,MrBayes,PP,可信度" aria-labelledby="t-08-posterior-probability d-08-posterior-probability" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.6 -7.4 253.2 174.3" width="240" height="165.2" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="贝叶斯后验概率标注" data-name-en="Posterior probability" data-cat="04-phylo" data-tags="后验概率,贝叶斯,MrBayes,PP,可信度" aria-labelledby="t-08-posterior-probability d-08-posterior-probability" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-08-posterior-probability">Posterior probability</title>
   <desc id="d-08-posterior-probability">0.88 各 1 个、≈1.0 共 2 个），PP&lt;0.95 的分支需谨慎解读。关键词: 后验概率, 贝叶斯, MrBayes, PP, 可信度</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
@@ -48,7 +48,7 @@
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="154" y="132" text-anchor="end">0</text>
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="168" y="140" text-anchor="middle">0.5</text>
       <text font-family="Inter,Helvetica,Arial,sans-serif" x="210" y="140" text-anchor="middle">1.0</text>
-      <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" font-size="7" x="122.22" y="150.0">Posterior probability (node count)</text>
+      <text font-family="Inter,Helvetica,Arial,sans-serif" text-anchor="middle" font-size="7" x="194" y="150.0">Posterior probability</text>
     </g>
   </g>
 </svg>

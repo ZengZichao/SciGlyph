@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="分压器" data-name-en="circuit-voltage-divider" data-cat="physics-electronics" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-45">分压器 / circuit_voltage_divider</title>
-  <desc id="d-45">带输出端子的分压电路。关键词: 分压器,输出,电阻分压</desc>
+  <title id="t-45">分压器 / Circuit-Voltage-Divider</title>
+  <desc id="d-45">带输出端子的分压电路</desc>
   <g id="g-45-分压器">
     <line x1="40" y1="60" x2="40" y2="220" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="60" x2="200" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>

@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="gl-condenser-liebig" data-cat="gl" data-spec="128"
      data-tags="condenser,liebig,straight,cooling,jacket,water" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">直形冷凝管（卧式）/ Liebig Condenser</title>
+  <title id="t">直形冷凝管（卧式） / Liebig Condenser</title>
   <desc id="d">直形冷凝管(Liebig)卧放，内管直通+外层水夹套，冷却水下进上出，用于蒸馏回流冷凝。</desc>
   <g id="body">
     <rect x="26" y="53" width="76" height="22" rx="8" fill="#BFE0FF" stroke="none" data-ls="liquid"/>

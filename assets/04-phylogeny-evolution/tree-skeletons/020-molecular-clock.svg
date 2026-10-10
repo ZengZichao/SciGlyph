@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 160" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="分子钟时间轴" data-name-en="Molecular clock timeline" data-cat="04-phylo" data-tags="分子钟,分化时间,置信区间,HPD,Ma" aria-labelledby="t-20-molecular-clock d-20-molecular-clock" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-20-molecular-clock">分子钟时间轴 / Molecular clock timeline</title>
-  <desc id="d-20-molecular-clock">叶端对齐于现生的时标树，横轴为百万年前（Ma），左侧阴影带标注上新世（约 5.3–2.6 Ma）时段；各节点上方红色括号标示分化时间的 95% 最高后验密度（HPD）区间。关键词: 分子钟, 分化时间, 置信区间, HPD, Ma</desc>
+  <desc id="d-20-molecular-clock">叶端对齐于现生的时标树，横轴为百万年前（Ma），左侧阴影带标注上新世（约 5.3–2.6 Ma）时段；各节点上方红色括号标示分化时间的 95% 最高后验密度（HPD）区间</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <rect x="33.5" y="14" width="96.2" height="114" fill="#DCEEE4" fill-opacity="0.4"/>

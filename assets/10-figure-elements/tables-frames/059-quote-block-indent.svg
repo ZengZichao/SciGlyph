@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="引用块" data-name-en="quote-block-indent" data-cat="tables-frames" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-59">引用块 / quote_block_indent</title>
-  <desc id="d-59">缩进引用块。关键词: 引用,缩进,块引用</desc>
+  <title id="t-59">引用块 / Quote-Block-Indent</title>
+  <desc id="d-59">缩进引用块</desc>
   <g id="g-59-引用块">
     <rect x="60" y="50" width="220" height="140" fill="#e5e7eb"/>
     <line x1="60" y1="50" x2="60" y2="190" stroke="#6b7280" stroke-width="3" fill="none"/>

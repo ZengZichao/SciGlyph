@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="单刀双掷开关" data-name-en="switch-spdt" data-cat="physics-electronics" aria-labelledby="t-11 d-11" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-11">单刀双掷开关 / switch_spdt</title>
-  <desc id="d-11">SPDT单刀双掷开关符号。关键词: 开关,SPDT,单刀双掷</desc>
+  <title id="t-11">单刀双掷开关 / Switch-Spdt</title>
+  <desc id="d-11">SPDT单刀双掷开关符号</desc>
   <g id="g-11-单刀双掷开关">
     <line x1="10" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <circle cx="40" cy="40" r="3" fill="#1f2937"/>

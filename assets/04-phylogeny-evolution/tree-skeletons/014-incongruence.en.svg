@@ -4,7 +4,7 @@
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <!-- 上：基因树 ((t1,t2),(t3,t4)) -->
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="10" y="16" font-size="9" fill="#5B6B73" stroke="none">gene tree</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="10" y="16" font-size="9" fill="#5B6B73" stroke="none">Gene tree</text>
     <g fill="none" stroke="#5B4B8A" stroke-width="1.8">
       <path d="M 8 38 H 22"/>
       <path d="M 22 28 V 48"/>

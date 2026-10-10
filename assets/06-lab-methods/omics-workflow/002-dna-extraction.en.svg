@@ -46,6 +46,6 @@
   <path d="M103 77 C106 70 94 64 94 71" stroke="#5B4B8A" stroke-width="1.2"/>
   <rect x="84" y="60" width="7" height="26" rx="1.5" fill="#C0504D" fill-opacity="0.35" stroke="#C0504D" stroke-width="1.4"/>
   <path d="M80 56 h15 M80 90 h15" stroke="#C0504D" stroke-width="1.2"/>
-  <text x="117.29" y="114.73" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="end">Bead purification</text><line x1="22.2" y1="107.66" x2="25.49" y2="109.25" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+  <text x="60" y="115" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Bead purification</text>
 </g>
 </svg>

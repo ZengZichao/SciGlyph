@@ -4,7 +4,7 @@
      data-id="lb-waste-label-biohazard" data-cat="lb" data-spec="160"
      data-tags="waste,label,biohazard,infectious,medical waste,biological,废液,生物" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">生物废液标签 / Biohazard Waste Label</title>
-  <desc id="d">生物危害废液标签版式：橙色警示条、生物危害三弧符号、类别/灭活方式/产生日期/责任人栏位与满刻度线，供高压灭活前后填写。</desc>
+  <desc id="d">生物危害三瓣符号（简化圆环，未互扣）</desc>
   <g id="body">
     <rect x="10" y="10" width="140" height="76" rx="3" ry="3" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <rect x="10" y="10" width="140" height="10" fill="#F5A623" stroke="none" data-ls="warn"/>

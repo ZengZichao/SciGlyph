@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="四象限矩阵" data-name-en="quadrant-matrix" data-cat="flowchart-logic" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-40">四象限矩阵 / quadrant_matrix</title>
-  <desc id="d-40">四象限分析矩阵。关键词: matrix,quadrant</desc>
+  <title id="t-40">四象限矩阵 / Quadrant-Matrix</title>
+  <desc id="d-40">四象限分析矩阵</desc>
   <g id="g-40-四象限矩阵">
     <rect x="20" y="20" width="200" height="200" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="120" y1="20" x2="120" y2="220" stroke="#1f2937" stroke-width="1.5"/>

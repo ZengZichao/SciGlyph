@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="零或一" data-name-en="ER Zero-One" data-cat="diagrams-sw-uml" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-43">零或一 / er_zero_one</title>
-  <desc id="d-43">零或一基数标记。关键词: zero,one,optional,er</desc>
+  <title id="t-43">零或一 / Er Zero-One</title>
+  <desc id="d-43">零或一基数标记</desc>
   <g id="g-43-零或一">
     <rect x="10" y="35" width="50" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="54" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>

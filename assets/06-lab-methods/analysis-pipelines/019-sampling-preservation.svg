@@ -27,7 +27,7 @@
 
   <rect x="395" y="70" width="105" height="48" rx="8" ry="8"
         fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
-    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Liquid N2</text>
+    <text x="447.5" y="98.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Liquid N₂</text>
 
   <rect x="20" y="208" width="105" height="48" rx="8" ry="8"
         fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
@@ -35,7 +35,7 @@
 
   <rect x="145" y="208" width="105" height="48" rx="8" ry="8"
         fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
-    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Store -80C</text>
+    <text x="197.5" y="236.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Store -80°C</text>
 
   <rect x="270" y="208" width="105" height="48" rx="8" ry="8"
         fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>

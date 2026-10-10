@@ -44,6 +44,9 @@
   <line x1="110" y1="160" x2="516" y2="310" stroke="#C42D2D" stroke-width="1.5" stroke-dasharray="4,2" data-pp="alert"/>
   <circle cx="110" cy="160" r="3" fill="#C42D2D" data-pp="alert"/>
   <circle cx="516" cy="310" r="3" fill="#C42D2D" data-pp="alert"/>
-  <rect x="490" y="55" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+  <rect x="430" y="52" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+  <text x="446" y="62" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Plasmid</text>
+  <line x1="430" y1="76" x2="452" y2="76" stroke="#C42D2D" stroke-width="1.5" stroke-dasharray="4,2" data-pp="alert"/>
+  <text x="458" y="80" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Trend</text>
 </g>
 </svg>

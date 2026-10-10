@@ -12,8 +12,8 @@
      <path d="M74 32 L88 40 L90 56 L84 56 L82 44 L74 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M36 50 L44 50 L44 60 L36 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M84 50 L92 50 L92 60 L84 60 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M24 44 L40 44 L38 72 L26 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-     <rect d="M88 44 L104 44 L102 72 L90 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  <g id="prop"><path d="M24 44 L40 44 L38 72 L26 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+     <path d="M88 44 L104 44 L102 72 L90 72 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M27 58 L37 58 L36 70 L28 70 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/>
      <path d="M91 58 L101 58 L100 70 L92 70 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
 </svg>

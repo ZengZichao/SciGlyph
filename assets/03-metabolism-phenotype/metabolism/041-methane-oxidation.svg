@@ -10,25 +10,31 @@
     
   </defs>
   <g id="layer-body" data-name="body">
-        <circle cx="10" cy="40" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="10" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CH₄</text>
-        <circle cx="30" cy="40" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="30" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CH₃OH</text>
-        <circle cx="50" cy="40" r="6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-    <text x="50" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">HCHO</text>
-        <circle cx="70" cy="40" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="70" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">HCOO⁻</text>
-        <circle cx="90" cy="40" r="7" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1"/>
-    <text x="90" y="41.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">CO₂</text>
+    <text x="50" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">aerobic methanotroph</text>
+        <circle cx="10" cy="54" r="6.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="10" y="36" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CH₄</text>
+    <line x1="10" y1="38.5" x2="10" y2="46.5" stroke="#93A0AC" data-pp="muted" stroke-width="0.6"/>
+        <circle cx="30" cy="54" r="6.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="30" y="44" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CH₃OH</text>
+        <circle cx="50" cy="54" r="6.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="36" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">HCHO</text>
+    <line x1="50" y1="38.5" x2="50" y2="46.5" stroke="#93A0AC" data-pp="muted" stroke-width="0.6"/>
+        <circle cx="70" cy="54" r="6.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="70" y="44" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">HCOO⁻</text>
+        <circle cx="90" cy="54" r="6.5" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1"/>
+    <text x="90" y="36" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CO₂</text>
+    <line x1="90" y1="38.5" x2="90" y2="46.5" stroke="#93A0AC" data-pp="muted" stroke-width="0.6"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-        <line x1="17" y1="40" x2="24" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
-        <line x1="36" y1="40" x2="44" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
-        <line x1="56" y1="40" x2="64" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
-        <line x1="76" y1="40" x2="83" y2="40" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
-    <text x="20" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MMO</text>
-    <text x="40" y="28" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MDH</text>
-    <text x="50" y="65" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">pMMO / sMMO</text>
-    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">RuMP or serine</text>
+        <line x1="17" y1="54" x2="23" y2="54" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
+        <line x1="37" y1="54" x2="43" y2="54" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
+        <line x1="57" y1="54" x2="63" y2="54" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
+        <line x1="77" y1="54" x2="83" y2="54" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp41__ar)"/>
+    <text x="20" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MMO</text>
+    <text x="40" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MDH</text>
+    <text x="60" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">FaDH</text>
+    <text x="80" y="70" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">FDH</text>
+    <text x="50" y="82" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">pMMO / sMMO</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">RuMP or serine pathway</text>
   </g>
 </svg>

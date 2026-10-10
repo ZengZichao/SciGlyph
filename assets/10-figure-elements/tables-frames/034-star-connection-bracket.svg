@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="星联括号" data-name-en="star-connection-bracket" data-cat="tables-frames" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34">星联括号 / star_connection_bracket</title>
-  <desc id="d-34">星号连接括号。关键词: 星号,连接,显著性括号</desc>
-  <g id="g-34-星联括号">
+  <title id="t-34">星联括号 / Star-Connection-Bracket</title>
+  <desc id="d-34">星号连接括号</desc>
+  <g id="g-34-星联括号" transform="translate(0,-26)">
     <rect x="80" y="120" width="40" height="80" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="200" y="120" width="40" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="100" y1="100" x2="100" y2="85" stroke="#1f2937" stroke-width="1.5" fill="none"/>

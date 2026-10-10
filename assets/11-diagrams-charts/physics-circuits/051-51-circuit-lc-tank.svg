@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="LC谐振" data-name-en="circuit-lc-tank" data-cat="physics-electronics" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-51">LC谐振 / circuit_lc_tank</title>
-  <desc id="d-51">LC并联谐振回路。关键词: LC,谐振,振荡</desc>
+  <title id="t-51">LC谐振 / Circuit-Lc-Tank</title>
+  <desc id="d-51">LC并联谐振回路</desc>
   <g id="g-51-LC谐振">
     <line x1="130" y1="70" x2="210" y2="70" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="130" y1="170" x2="210" y2="170" stroke="#1f2937" stroke-width="2" fill="none"/>

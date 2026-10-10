@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="六角分箱图" data-name-en="Hexbin Mini" data-cat="charts-plots" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-26">六角分箱图 / hexbin_mini</title>
-  <desc id="d-26">六角形分箱图。关键词: hexbin,hexagon,bin</desc>
-  <g id="g-26-六角分箱图">
+  <title id="t-26">六角分箱图 / Hexbin Mini</title>
+  <desc id="d-26">追加"（纯纹理示意，无坐标轴）"以免与热力矩阵类素材混淆</desc>
+  <g id="g-26-六角分箱图" transform="translate(6.25,50)">
     <polygon points="97.3,40.0 97.3,60.0 80.0,70.0 62.7,60.0 62.7,40.0 80.0,30.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <polygon points="132.3,40.0 132.3,60.0 115.0,70.0 97.7,60.0 97.7,40.0 115.0,30.0" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <polygon points="167.3,40.0 167.3,60.0 150.0,70.0 132.7,60.0 132.7,40.0 150.0,30.0" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-methods" role="img" aria-labelledby="t-darkfield d-darkfield" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-darkfield">Darkfield</title>
-  <desc id="d-darkfield">Darkfield microscopy with bright spirochetes on dark background 关键词: darkfield, bright, dark, spirochete</desc>
+  <desc id="d-darkfield">Darkfield microscopy with bright spirochetes on dark background</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="15" y="20" width="70" height="55" rx="3" fill="#1B2733" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>

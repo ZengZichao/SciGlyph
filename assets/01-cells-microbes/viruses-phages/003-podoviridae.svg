@@ -16,6 +16,6 @@
     <circle cx="60" cy="56" r="1.5" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
   </g>
   <g id="layer-annotation-podoviridae" data-name="annotation">
-    <line x1="66.0" y1="47.9" x2="56.1" y2="47.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">short tail</text>
+    <line x1="66.0" y1="63.9" x2="56.1" y2="63.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="56.1" y="66.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">short tail</text>
   </g>
 </svg>

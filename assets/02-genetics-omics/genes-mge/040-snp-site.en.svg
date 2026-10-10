@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-40_snp_site d-40_snp_site" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-40_snp_site">SNP</title>
-  <desc id="d-40_snp_site">SNP site with aligned reads showing mismatch 关键词: SNP, mismatch, polymorphism</desc>
+  <desc id="d-40_snp_site">SNP site with aligned reads showing mismatch</desc>
   
   <g id="layer-body" data-name="body">
     <line x1="20" y1="40" x2="80" y2="40" stroke="#6C3FA0" stroke-width="2" stroke-linecap="round" data-pp="gene"/>

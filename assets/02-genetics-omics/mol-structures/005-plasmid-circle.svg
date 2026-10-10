@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="质粒环" data-name-en="Plasmid Circle" data-cat="natural-sciences" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-05">质粒环 / plasmid_circle</title>
-  <desc id="d-05">展示质粒环及酶切位点。关键词: plasmid,restriction site,vector</desc>
+  <title id="t-05">质粒环 / Plasmid Circle</title>
+  <desc id="d-05">展示质粒环及酶切位点</desc>
   <g id="g-05-质粒环">
     <circle cx="60" cy="60" r="40" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
     <rect x="55" y="16" width="10" height="8" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>

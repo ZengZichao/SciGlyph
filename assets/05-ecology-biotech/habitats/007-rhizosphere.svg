@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="植物根际" data-name-en="Plant Rhizosphere" data-cat="05-eco-seq" data-tags="根际,根毛,根际效应,植物促生菌,根际微生物群落" role="img" aria-labelledby="t-07-rhizosphere d-07-rhizosphere" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-07-rhizosphere">植物根际 / Plant Rhizosphere</title>
-  <desc id="d-07-rhizosphere">根毛与根系分泌物在根表形成菌群富集的根际圈，根际菌参与养分吸收、固氮与植物促生。关键词: 根际, 根毛, 根际效应, 植物促生菌, 根际微生物群落</desc>
+  <desc id="d-07-rhizosphere">根毛与根系分泌物在根表形成菌群富集的根际圈，根际菌参与养分吸收、固氮与植物促生</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 根际影响圈（虚线包络） -->
   <path d="M40 16 C26 34 32 58 28 82 C26 98 32 108 36 112" stroke="#5FA8C7" stroke-width="1.2" stroke-dasharray="2 3"/>

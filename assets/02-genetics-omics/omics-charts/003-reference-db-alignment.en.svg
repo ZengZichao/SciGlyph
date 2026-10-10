@@ -5,8 +5,8 @@
   <!-- 比对区高亮带 -->
   <rect x="50" y="26" width="42" height="80" fill="#2E7D5B" fill-opacity="0.08" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="3 2"/>
   <!-- 列刻度 -->
-  <path d="M8 8 v6 M23 8 v6 M38 8 v6 M53 8 v6 M68 8 v6 M83 8 v6" stroke="#2B3A42" stroke-width="1.2"/>
-  <path d="M6 14 H94" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M8 3 v5 M23 3 v5 M38 3 v5 M53 3 v5 M68 3 v5 M83 3 v5" stroke="#2B3A42" stroke-width="1.2"/>
+  <path d="M6 8 H94" stroke="#2B3A42" stroke-width="1.2"/>
   <!-- 查询序列 -->
   <rect x="8" y="18" width="11" height="8" rx="1.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
   <rect x="23" y="18" width="11" height="8" rx="1.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
@@ -14,7 +14,7 @@
   <rect x="53" y="18" width="11" height="8" rx="1.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
   <rect x="68" y="18" width="11" height="8" rx="1.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
   <rect x="83" y="18" width="11" height="8" rx="1.5" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
-  <text x="8" y="16" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#B57A17" stroke="none">query</text>
+  <text x="8" y="16" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#B57A17" stroke="none">Query</text>
   <!-- 参考序列 1（高相似度） -->
   <rect x="8" y="33" width="11" height="8" rx="1.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
   <rect x="23" y="33" width="11" height="8" rx="1.5" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>

@@ -12,6 +12,8 @@
     <line x1="16" y1="32" x2="144" y2="32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <text x="16" y="44" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">CONC:</text>
     <text x="80" y="44" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">DATE:</text>
+    <line x1="16" y1="48" x2="70" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="80" y1="48" x2="144" y2="48" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <text x="16" y="58" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">RESP:</text>
     <text x="80" y="58" fill="#1F2933" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" font-weight="600" data-ls="stroke">EXP:</text>
     <line x1="16" y1="62" x2="70" y2="62" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>

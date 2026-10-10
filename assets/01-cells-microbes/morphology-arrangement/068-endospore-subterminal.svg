@@ -15,7 +15,7 @@
   <g id="layer-annotation" data-name="annotation">
 
     <line x1="65" y1="41" x2="65" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="51.76" y="15.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">subterminal</text>
+    <text x="51.76" y="15.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">subterminal</text>
 
   </g>
 </svg>

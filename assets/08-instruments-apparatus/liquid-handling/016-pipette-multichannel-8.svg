@@ -9,10 +9,12 @@
     <path d="M46 20 L46 40 L42 40 L42 50 L46 50 L46 58 L42 58 L42 70 L46 70 L46 78 L42 78 L42 88 L46 88 L46 94 L82 94 L82 88 L86 88 L86 78 L82 78 L82 70 L86 70 L86 58 L82 58 L82 50 L86 50 L86 40 L82 40 L82 20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <rect x="50" y="24" width="28" height="12" rx="2" fill="#33414F" stroke="none" data-ls="dark"/></g>
   <g id="detail"><text x="64" y="34" fill="#FFFFFF" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="fill">300μL</text>
-    <path d="M48 94 L48 104 L50 108 L52 104 L52 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M54 94 L54 104 L56 108 L58 104 L58 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M60 94 L60 104 L62 108 L64 104 L64 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M66 94 L66 104 L68 108 L70 104 L70 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M72 94 L72 104 L74 108 L76 104 L76 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <path d="M78 94 L78 104 L80 108 L82 104 L82 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+    <path d="M46 94 L46 104 L47.5 108 L49 104 L49 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M50.5 94 L50.5 104 L52 108 L53.5 104 L53.5 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M55 94 L55 104 L56.5 108 L58 104 L58 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M59.5 94 L59.5 104 L61 108 L62.5 104 L62.5 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M64 94 L64 104 L65.5 108 L67 104 L67 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M68.5 94 L68.5 104 L70 108 L71.5 104 L71.5 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M73 94 L73 104 L74.5 108 L76 104 L76 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M77.5 94 L77.5 104 L79 108 L80.5 104 L80.5 94" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
 </svg>

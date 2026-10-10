@@ -10,7 +10,7 @@
 <line x1="560.0" y1="200.0" x2="560.0" y2="340.0" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-linecap="round"/>
 <text x="320.0" y="385.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Genomic position</text>
 <text x="50.0" y="125.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">π</text>
-<text x="575.0" y="270.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Tajima D</text>
+<text x="560.0" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">Tajima D</text>
 <rect x="260.0" y="50.0" width="80.0" height="290.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.08"/>
 <text x="300.0" y="45.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">sweep</text>
 <polyline points="80.0,83 89.6,78 99.2,81 108.8,83 118.4,78 128.0,81 137.6,83 147.1,78 156.7,81 166.3,83 175.9,79 185.5,82 195.1,84 204.7,82 214.3,88 223.9,95 233.5,99 243.1,113 252.7,128 262.2,140 271.8,159 281.4,175 291.0,180 300.6,186 310.2,184 319.8,169 329.4,157 339.0,142 348.6,122 358.2,111 367.8,102 377.3,90 386.9,87 396.5,86 406.1,80 415.7,82 425.3,83 434.9,78 444.5,81 454.1,83 463.7,78 473.3,81 482.9,83 492.4,78 502.0,81 511.6,83 521.2,78 530.8,81 540.4,83 550.0,78" fill="none" stroke="#2E86AB" stroke-width="2" data-pp="bacteria" stroke-linecap="round"/>

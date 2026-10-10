@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-bird_eggshell d-bird_eggshell" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-bird_eggshell">Bird eggshell</title>
-  <desc id="d-bird_eggshell">Eggshell cross-section with pores and Salmonella biofilm on surface 关键词: bird, eggshell, Salmonella, biofilm</desc>
+  <desc id="d-bird_eggshell">Eggshell cross-section with pores and Salmonella biofilm on surface</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="10" y="20" width="80" height="8" rx="1" fill="#F4F1EA" stroke="#1B2733" stroke-width="1" data-pp="bg"/>

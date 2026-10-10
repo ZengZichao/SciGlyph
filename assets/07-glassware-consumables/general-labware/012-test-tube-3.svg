@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="试管" data-name-en="test_tube" data-cat="lab-equipment" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-12">试管 / test_tube</title>
-  <desc id="d-12">少量试剂反应和加热。关键词: 试管,test_tube,反应,加热</desc>
+  <title id="t-12">试管 / Test_Tube</title>
+  <desc id="d-12">少量试剂反应和加热</desc>
   <g id="g-12-试管">
     <path d="M 45 12 L 45 90 Q 45 108 60 108 Q 75 108 75 90 L 75 12 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 46 60 L 46 90 Q 46 107 60 107 Q 74 107 74 90 L 74 60 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

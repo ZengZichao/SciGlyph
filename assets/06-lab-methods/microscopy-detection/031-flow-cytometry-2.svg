@@ -19,10 +19,10 @@
     <circle cx="60" cy="55" r="7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="1"/>
   </g>
   <g id="layer-annotation-flow_cytometry" data-name="annotation">
-    <text x="35" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">granular</text>
-    <text x="65" y="22" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">large</text>
-    <text x="25" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">debris</text>
-    <text x="60" y="67" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">small</text>
+    <text x="35" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">granular</text>
+    <text x="65" y="18" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">large</text>
+    <text x="30" y="71.5" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">debris</text>
+    <text x="61" y="71.5" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">low SSC</text>
     <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">flow cytometry</text>
   </g>
 </svg>

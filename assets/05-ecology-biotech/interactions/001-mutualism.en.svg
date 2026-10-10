@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-mutualism d-mutualism" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-mutualism">Mutualism</title>
-  <desc id="d-mutualism">+ symbols 关键词: mutualism, +/+, cooperation</desc>
+  <desc id="d-mutualism">Mutualism with bidirectional benefit arrows and +/+ symbols</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="30" cy="45" r="12" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>

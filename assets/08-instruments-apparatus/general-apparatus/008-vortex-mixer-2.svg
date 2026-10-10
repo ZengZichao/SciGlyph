@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="涡旋混合器" data-name-en="vortex_mixer" data-cat="lab-equipment" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-51">涡旋混合器 / vortex_mixer</title>
-  <desc id="d-51">快速混匀试管中液体。关键词: 混合器,vortex,混匀,试管</desc>
+  <title id="t-51">涡旋混合器 / Vortex_Mixer</title>
+  <desc id="d-51">快速混匀试管中液体</desc>
   <g id="g-51-涡旋混合器">
     <rect x="80" y="100" width="160" height="110" rx="10" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <path d="M 120 100 Q 120 70 160 65 Q 200 70 200 100 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

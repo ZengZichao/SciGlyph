@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML实现虚线箭头" data-name-en="uml realization dashed" data-cat="arrows-connectors" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-46">UML实现虚线箭头 / uml_realization_dashed</title>
-  <desc id="d-46">UML接口实现虚线箭头。关键词: uml,realization,dashed,implements</desc>
+  <title id="t-46">UML实现虚线箭头 / Uml Realization Dashed</title>
+  <desc id="d-46">UML接口实现虚线箭头</desc>
   <g id="g-46-UML实现虚线箭头">
     <line x1="30" y1="40" x2="86" y2="40" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 4" fill="none"/>
     <polygon points="86,30 100,40 86,50" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

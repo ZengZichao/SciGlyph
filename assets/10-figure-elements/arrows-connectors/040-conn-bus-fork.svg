@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="总线分叉连接" data-name-en="conn bus fork" data-cat="arrows-connectors" aria-labelledby="t-40 d-40" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-40">总线分叉连接 / conn_bus_fork</title>
-  <desc id="d-40">总线分叉输出连接。关键词: conn,bus,fork,split</desc>
+  <title id="t-40">总线分叉连接 / Conn Bus Fork</title>
+  <desc id="d-40">总线分叉输出连接</desc>
   <g id="g-40-总线分叉连接">
     <line x1="10" y1="24" x2="50" y2="24" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="50" y1="14" x2="50" y2="34" stroke="#1f2937" stroke-width="2" fill="none"/>

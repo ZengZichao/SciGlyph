@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="gl-dean-stark-trap" data-cat="gl" data-spec="128"
      data-tags="dean-stark,water-separator,azeotropic,蒸馏,除水" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">分水器（Dean-Stark）/ Dean-Stark Trap</title>
+  <title id="t">分水器（Dean-Stark） / Dean-Stark Trap</title>
   <desc id="d">Dean-Stark分水器：共沸蒸馏除水，冷凝液在收集管中分层，水相留存、有机相溢流回流。</desc>
   <g id="body"><path d="M44 14 L44 50 L38 56 L38 108 Q38 114 44 114 L84 114 Q90 114 90 108 L90 56 L84 50 L84 14 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/><path d="M84 70 L100 60 L100 54 L84 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
   <g id="detail"><path d="M40 80 L88 80 L88 108 Q88 112 84 112 L44 112 Q40 112 40 108 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M40 68 L88 68 L88 80 L40 80 Z" fill="#BFE0FF" opacity="0.45" stroke="none" data-ls="liquid"/><path d="M40 80 L88 80" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M44 14 L84 14" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>

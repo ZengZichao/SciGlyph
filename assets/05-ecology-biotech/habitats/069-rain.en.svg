@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-rain d-rain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-rain">Rain</title>
-  <desc id="d-rain">Rain with washout microorganisms from cloud to ground puddle 关键词: rain, washout, cloud, microbe</desc>
+  <desc id="d-rain">Rain with washout microorganisms from cloud to ground puddle</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M20,20 Q30,10 45,15 Q55,8 65,15 Q80,12 85,22 Q88,30 78,32 Q70,35 55,33 Q40,35 30,32 Q18,30 20,20 Z" fill="#93A0AC" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="muted" fill-opacity="0.4"/>

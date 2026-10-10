@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="提供与需求接口" data-name-en="Interface Provided Required" data-cat="diagrams-sw-uml" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-07">提供与需求接口 / interface_provided_required</title>
-  <desc id="d-07">提供接口(圆)与需求接口(半圆)。关键词: interface,provided,required</desc>
+  <title id="t-07">提供与需求接口 / Interface Provided Required</title>
+  <desc id="d-07">提供接口(圆)与需求接口(半圆)</desc>
   <g id="g-07-提供与需求接口">
     <rect x="10" y="30" width="50" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="54" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>
-    <line fill="none" x1="60" y1="50" x2="80" y2="50" stroke="#1f2937" stroke-width="1.5"/>
-    <circle cx="90" cy="50" r="10" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
+    <line fill="none" x1="60" y1="50" x2="77" y2="50" stroke="#1f2937" stroke-width="1.5"/>
+    <circle cx="84" cy="50" r="7" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="100" y="30" width="50" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="125" y="54" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">B</text>
-    <path d="M 100 40 A 10 10 0 0 0 100 60" fill="none" stroke="#1f2937" stroke-width="1.5"/>
-    <text x="80" y="108" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">required</text>
+    <path d="M 100 43 A 7 7 0 0 0 100 57" fill="none" stroke="#1f2937" stroke-width="1.5"/>
+    <text x="84" y="22" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">provided</text>
+    <text x="100" y="100" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">required</text>
   </g>
 </svg>

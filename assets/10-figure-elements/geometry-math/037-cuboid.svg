@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="长方体" data-name-en="Cuboid" data-cat="geometry-math" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">长方体 / cuboid</title>
-  <desc id="d-37">标注尺寸的长方体。关键词: cuboid,box,solid</desc>
+  <title id="t-37">长方体 / Cuboid</title>
+  <desc id="d-37">标注尺寸的长方体</desc>
   <g id="g-37-长方体">
     <polygon points="20,90 90,90 90,35 20,35" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <polygon points="20,35 45,15 115,15 90,35" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="空心三角箭头" data-name-en="head triangle hollow" data-cat="arrows-connectors" aria-labelledby="t-28 d-28" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28">空心三角箭头 / head_triangle_hollow</title>
-  <desc id="d-28">空心三角形线端头。关键词: head,triangle,hollow,outline</desc>
+  <title id="t-28">空心三角箭头 / Head Triangle Hollow</title>
+  <desc id="d-28">空心三角形线端头</desc>
   <g id="g-28-空心三角箭头">
     <line x1="10" y1="24" x2="68" y2="24" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <polygon points="66,12 86,24 66,36" fill="none" stroke="#1f2937" stroke-width="1.5"/>

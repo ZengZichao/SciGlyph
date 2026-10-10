@@ -12,7 +12,7 @@
   <g id="layer-body" data-name="body">
         <line x1="5" y1="60" x2="95" y2="60" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
     <line x1="5" y1="75" x2="95" y2="75" stroke="#00857A" data-pp="metabolism" stroke-width="1.5"/>
-        <rect x="25" y="62" width="20" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+        <rect x="23" y="62" width="24" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="35.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RC-LH1</text>
         <rect x="55" y="62" width="14" height="10" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="62.0" y="68.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Cyt</text>
@@ -23,10 +23,10 @@
   </g>
   <g id="layer-annotation" data-name="annotation">
         <line x1="35" y1="42" x2="35" y2="61" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
-        <line x1="45" y1="67" x2="55" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
+        <line x1="47" y1="67" x2="55" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
         <line x1="69" y1="67" x2="75" y2="67" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp18__ar)"/>
-    <path d="M82,62 Q90,40 35,35" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2"/>
-    <text x="50" y="15" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cyclic</text>
+    <path d="M62,62 Q48,45 35,60" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-dasharray="2,2"/>
+    <text x="53" y="48" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">cyclic</text>
     <text x="50" y="90" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">no O₂ evolved</text>
   </g>
 </svg>

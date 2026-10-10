@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="凸透镜光路" data-name-en="ray-diagram-convex" data-cat="physics-electronics" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">凸透镜光路 / ray_diagram_convex</title>
-  <desc id="d-55">凸透镜特殊光线成像图（2F等大倒立）。关键词: 凸透镜,光路,成像</desc>
+  <title id="t-55">凸透镜光路 / Ray-Diagram-Convex</title>
+  <desc id="d-55">凸透镜特殊光线成像图（2F等大倒立）</desc>
   <g id="g-55-凸透镜光路">
     <path d="M 160 60 Q 140 120 160 180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>
     <path d="M 160 60 Q 180 120 160 180" fill="none" stroke="#0072B2" stroke-width="2" data-drole="series-1"/>

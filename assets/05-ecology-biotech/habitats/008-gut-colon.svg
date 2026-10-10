@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="肠道菌群与绒毛上皮" data-name-en="Gut Microbiota on Villi" data-cat="05-eco-seq" data-tags="肠道菌群,绒毛,小肠上皮,黏附,共生" role="img" aria-labelledby="t-08-gut-colon d-08-gut-colon" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-08-gut-colon">肠道菌群与绒毛上皮 / Gut Microbiota on Villi</title>
-  <desc id="d-08-gut-colon">肠道菌群密集定殖于绒毛上皮刷状缘与肠腔中，形成宿主黏膜免疫与菌群互惠共生的界面。关键词: 肠道菌群, 绒毛, 小肠上皮, 黏附, 共生</desc>
+  <desc id="d-08-gut-colon">肠道菌群密集定殖于绒毛上皮刷状缘与肠腔中，形成宿主黏膜免疫与菌群互惠共生的界面</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 肠腔黏液层 -->
   <path d="M5 10 Q30 5 60 9 T115 7" stroke="#5FA8C7" stroke-width="1.4" stroke-dasharray="3 2"/>

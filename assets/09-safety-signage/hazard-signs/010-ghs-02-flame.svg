@@ -7,7 +7,8 @@
   <desc id="d">GHS象形图：火焰，表示易燃物质。</desc>
   <g id="body"><rect x="24" y="24" width="80" height="80" rx="4" transform="rotate(45 64 64)" fill="#FFFFFF" stroke="#D93025" stroke-linejoin="round" stroke-width="6" data-ls="fill" data-ls-stroke="ghs-border"/>
     <g fill="#1F2933" stroke="none" data-ls="stroke"><path d="M64 38 C58 50 48 58 48 72 C48 82 55 90 64 90 C73 90 80 82 80 72 C80 58 70 50 64 38Z"/>
-    <path d="M64 58 C61 64 56 68 56 76 C56 80 59 84 64 84 C69 84 72 80 72 76 C72 68 67 64 64 58Z" fill="#F5A623" data-ls="warn"/></g>
+    <path d="M64 58 C61 64 56 68 56 76 C56 80 59 84 64 84 C69 84 72 80 72 76 C72 68 67 64 64 58Z" fill="#F5A623" data-ls="warn"/>
+    <line x1="44" y1="96" x2="84" y2="96" stroke="#1F2933" stroke-linecap="round" stroke-width="4" data-ls="stroke"/></g>
     </g>
   <g id="detail"></g>
 </svg>

@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-methods" role="img" aria-labelledby="t-gradient_plate d-gradient_plate" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-gradient_plate">Gradient Plate</title>
-  <desc id="d-gradient_plate">Antibiotic gradient plate with bacterial growth in low concentration zone 关键词: gradient plate, antibiotic, resistance</desc>
+  <desc id="d-gradient_plate">Antibiotic gradient plate with bacterial growth in low concentration zone</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="50" cy="45" r="28" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.5" data-pp="bg"/>

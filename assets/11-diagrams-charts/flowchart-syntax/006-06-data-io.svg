@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="平行四边形输入输出" data-name-en="data-io" data-cat="flowchart-logic" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-06">平行四边形输入输出 / data_io</title>
-  <desc id="d-06">数据输入输出。关键词: flowchart,data,io</desc>
+  <title id="t-06">平行四边形输入输出 / Data-Io</title>
+  <desc id="d-06">数据输入输出</desc>
   <g id="g-06-平行四边形输入输出">
     <polygon points="25,15 112,15 95,65 8,65" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="45" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Data</text>

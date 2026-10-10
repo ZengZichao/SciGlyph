@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="单标线吸量管" data-name-en="volumetric_pipette" data-cat="lab-equipment" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-09">单标线吸量管 / volumetric_pipette</title>
-  <desc id="d-09">精确移取固定体积液体。关键词: 吸量管,pipette,单标线,精确</desc>
+  <title id="t-09">单标线吸量管 / Volumetric_Pipette</title>
+  <desc id="d-09">精确移取固定体积液体</desc>
   <g id="g-09-单标线吸量管">
     <path d="M 57 10 L 57 40 Q 45 50 45 60 Q 45 70 57 75 L 57 105 L 59 112 L 61 112 L 63 105 L 63 75 Q 75 70 75 60 Q 75 50 63 40 L 63 10 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <line x1="56" y1="45" x2="64" y2="45" stroke="#6b7280" stroke-width="0.75"/>

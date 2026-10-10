@@ -39,23 +39,23 @@
 <circle cx="500" cy="100" r="12" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1.5"/>
 <text x="500" y="105" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">✓</text>
 <text x="60" y="155" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Phenotype contrast</text>
-<rect x="80" y="170" width="80" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<rect x="80" y="170" width="140" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <path d="M100,195 L120,180 L140,195 L130,210 L110,210 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
 <path d="M170,195 L190,180 L210,195 L200,210 L180,210 Z" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
 <text x="145" y="235" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Parallel: homologous</text>
-<rect x="280" y="170" width="80" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<rect x="280" y="170" width="120" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <circle cx="310" cy="195" r="15" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" fill-opacity="0.3"/>
 <circle cx="370" cy="195" r="15" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1" fill-opacity="0.3"/>
 <text x="340" y="235" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Convergent: non-homologous</text>
 <rect x="60" y="260" width="480" height="110" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <text x="300" y="280" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">example</text>
 <text x="120" y="300" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">parallelism:</text>
-<text x="175.48" y="309.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Lactic acid bacteria gain acid resistance independently (same gene)</text><line x1="171.0" y1="297.66" x2="175.48" y2="303.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="175.48" y="309.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Lactic acid bacteria gain acid resistance independently (same gene)</text>
 <text x="120" y="320" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">convergence:</text>
-<text x="175.48" y="329.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Pterosaur/bird/bat flight (different structures)</text><line x1="171.0" y1="317.66" x2="175.48" y2="323.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="175.48" y="329.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Pterosaur/bird/bat flight (different structures)</text>
 <text x="120" y="340" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="start" font-weight="bold">convergence:</text>
-<text x="175.48" y="349.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Whale/fish streamlined bodies (different lineages)</text><line x1="171.0" y1="337.66" x2="175.48" y2="343.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="175.48" y="349.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Whale/fish streamlined bodies (different lineages)</text>
 <text x="120" y="358" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start" font-weight="bold">parallelism:</text>
-<text x="175.48" y="367.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Independent resistance mutations (rpoB S531L)</text><line x1="171.0" y1="355.66" x2="175.48" y2="361.54" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+<text x="175.48" y="367.02" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Independent resistance mutations (rpoB S531L)</text>
 </g>
 </svg>

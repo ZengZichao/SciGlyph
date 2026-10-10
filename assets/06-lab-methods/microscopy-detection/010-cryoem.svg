@@ -25,12 +25,12 @@
     <line x1="75" y1="25" x2="89" y2="25" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
     <line x1="82" y1="18" x2="82" y2="32" stroke="#1B2733" stroke-width="0.5" stroke-opacity="0.3"/>
     <!-- Many particles below -->
-    <text x="50" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1000s of images</text>
-    <text x="50" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ alignment → average</text>
+    <text x="50.0" y="50.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">thousands of images</text>
+    <text x="50" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ alignment → average</text>ext>
     <text x="50" y="66" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ 3D reconstruction</text>
   </g>
   <g id="layer-annotation-cryoem" data-name="annotation">
-    <text x="82" y="40" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">3D map</text>
+    <text x="82" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">3D map</text>
     <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="30.88" y="80.0">cryo-EM single</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="32.64" y="88.26">particle</text>
   </g>
 </svg>

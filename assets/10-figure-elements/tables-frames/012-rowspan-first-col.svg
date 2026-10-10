@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="跨行首列" data-name-en="rowspan-first-col" data-cat="tables-frames" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-12">跨行首列 / rowspan_first_col</title>
-  <desc id="d-12">首列跨行合并。关键词: 跨行,首列,合并单元格</desc>
+  <title id="t-12">跨行首列 / Rowspan-First-Col</title>
+  <desc id="d-12">首列跨行合并</desc>
   <g id="g-12-跨行首列">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>

@@ -50,20 +50,38 @@
 <circle cx="550" cy="97" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="570" cy="97" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
 <text x="60" y="135" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Allele divergence</text>
-<rect x="60" y="150" width="200" height="80" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
-<text x="160" y="165" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">Population A</text>
-<rect x="75" y="175" width="35" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="117" y="175" width="35" height="20" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="159" y="175" width="35" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="201" y="175" width="35" height="20" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
-<text x="160" y="215" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p = 0.8</text>
-<rect x="310" y="150" width="200" height="80" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
-<text x="410" y="165" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle" font-weight="bold">Population B</text>
-<rect x="325" y="175" width="35" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="367" y="175" width="35" height="20" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="409" y="175" width="35" height="20" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
-<rect x="451" y="175" width="35" height="20" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/>
-<text x="410" y="215" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p = 0.2</text>
+<rect x="60" y="148" width="200" height="82" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="160" y="163" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">Population A (n = 10)</text>
+<rect x="71" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="89" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="107" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="125" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="143" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="161" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="179" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="197" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="215" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="233" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<text x="160" y="212" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p(A1) = 0.8</text>
+<rect x="310" y="148" width="200" height="82" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="410" y="163" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle" font-weight="bold">Population B (n = 10)</text>
+<rect x="321" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="339" y="172" width="16" height="22" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="357" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="375" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="393" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="411" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="429" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="447" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="465" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="483" y="172" width="16" height="22" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<text x="410" y="212" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">p(A1) = 0.2</text>
+<text x="525" y="152" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">Alleles</text>
+<rect x="525" y="158" width="12" height="12" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+<text x="541" y="168" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">A1</text>
+<rect x="525" y="178" width="12" height="12" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
+<text x="541" y="188" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">A2</text>
+<text x="525" y="208" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Same locus</text>
 <text x="60" y="250" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">4. Secondary contact → reproductive isolation</text>
 <rect x="60" y="260" width="120" height="50" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
 <rect x="180" y="260" width="120" height="50" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>

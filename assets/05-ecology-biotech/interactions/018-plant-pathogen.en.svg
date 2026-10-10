@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-plant_pathogen d-plant_pathogen" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-plant_pathogen">Plant Pathogen</title>
-  <desc id="d-plant_pathogen">Plant pathogen injecting effectors with hypersensitive response damage 关键词: plant, pathogen, effector, immunity</desc>
+  <desc id="d-plant_pathogen">Plant pathogen injecting effectors with hypersensitive response damage</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M20,30 Q50,20 80,30 L80,60 Q50,70 20,60 Z" fill="#00857A" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" data-pp="metabolism" fill-opacity="0.3"/>

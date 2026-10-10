@@ -5,15 +5,15 @@
   <desc id="d-23_operon">多顺反子操纵子: 启动子(P)+操作子(O)+结构基因。乳糖操纵子lacZYA。关键词: operon, promoter, operator, polycistronic, lac operon</desc>
   <g id="layer-body" data-name="body">
         <rect x="5" y="40" width="10" height="12" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="10.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">P</text>
+    <text x="10.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">P</text>
         <rect x="17" y="40" width="10" height="12" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="22.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">O</text>
+    <text x="22.0" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">O</text>
         <rect x="30" y="40" width="15" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="37.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gene1</text>
+    <text x="37.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">g1</text>
         <rect x="47" y="40" width="15" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="60.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gene2</text>
+    <text x="54.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">g2</text>
         <rect x="64" y="40" width="15" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <line x1="71.5" y1="45.4" x2="74.97" y2="51.96" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="76.38" y="55.05" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">gene3</text>
+    <text x="71.5" y="47.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">g3</text>
     <path d="M10,35 Q22,30 37,35" fill="none" stroke="#93A0AC" data-pp="muted" stroke-width="1"/>
   </g>
   <g id="layer-annotation" data-name="annotation">

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="四角裁切标记" data-name-en="frame-corner-marks" data-cat="tables-frames" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">四角裁切标记 / frame_corner_marks</title>
-  <desc id="d-42">四角裁切标记框。关键词: 裁切标记,角标,印刷标记</desc>
+  <title id="t-42">四角裁切标记 / Frame-Corner-Marks</title>
+  <desc id="d-42">四角裁切标记框</desc>
   <g id="g-42-四角裁切标记">
     <line x1="30" y1="20" x2="30" y2="40" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="20" y1="40" x2="40" y2="40" stroke="#1f2937" stroke-width="1.5" fill="none"/>

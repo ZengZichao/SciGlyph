@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="参与者小人" data-name-en="Actor Stickman" data-cat="diagrams-sw-uml" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-01">参与者小人 / actor_stickman</title>
-  <desc id="d-01">UML用例图中表示外部参与者。关键词: actor,stickman,usecase,participant</desc>
+  <title id="t-01">参与者小人 / Actor Stickman</title>
+  <desc id="d-01">UML用例图中表示外部参与者</desc>
   <g id="g-01-参与者小人">
     <circle cx="48" cy="12" r="8" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line fill="none" x1="48" y1="20" x2="48" y2="36" stroke="#1f2937" stroke-width="2"/>

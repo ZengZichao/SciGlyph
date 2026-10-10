@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="NPN三极管" data-name-en="npn-bjt" data-cat="physics-electronics" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-21">NPN三极管 / npn_bjt</title>
-  <desc id="d-21">NPN型双极结型晶体管符号。关键词: NPN,三极管,BJT</desc>
-  <g id="g-21-NPN三极管">
+  <title id="t-21">NPN三极管 / Npn-Bjt</title>
+  <desc id="d-21">NPN型双极结型晶体管符号</desc>
+  <g id="g-21-NPN三极管" transform="translate(20 0)">
     <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="45" y1="20" x2="45" y2="60" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="45" y1="25" x2="70" y2="15" stroke="#1f2937" stroke-width="2" fill="none"/>

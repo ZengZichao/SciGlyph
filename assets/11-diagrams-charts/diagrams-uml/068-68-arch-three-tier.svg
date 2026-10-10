@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="360" viewBox="0 0 480 360" role="img" data-name-zh="三层架构" data-name-en="Arch Three Tier" data-cat="diagrams-sw-uml" aria-labelledby="t-68 d-68" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-68">三层架构 / arch_three_tier</title>
-  <desc id="d-68">客户端/应用/数据库三层架构图。关键词: three-tier,architecture,layer</desc>
+  <title id="t-68">三层架构 / Arch Three Tier</title>
+  <desc id="d-68">客户端/应用/数据库三层架构图</desc>
   <g id="g-68-三层架构">
     <rect x="80" y="30" width="320" height="80" rx="8" ry="8" fill="#0072B2" stroke="#1f2937" stroke-width="3" data-drole="series-1"/>
     <text x="240" y="55" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" font-weight="bold">Client</text>
@@ -15,7 +15,7 @@
     <line fill="none" x1="240" y1="110" x2="240" y2="150" stroke="#1f2937" stroke-width="2"/>
     <polygon points="240,150 234,142 246,142" fill="#1f2937"/>
     <text x="255" y="135" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">HTTP/REST</text>
-    <rect x="80" y="150" width="320" height="80" rx="8" ry="8" fill="#009E73" stroke="#1f2937" stroke-width="3" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="80" y="150" width="320" height="80" rx="8" ry="8" fill="#009E73" stroke="#1f2937" stroke-width="3" data-drole="series-2"/>
     <text x="240" y="175" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" font-weight="bold">Application</text>
     <rect x="110" y="190" width="80" height="30" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="150" y="209" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="middle">Web Server</text>
@@ -26,7 +26,7 @@
     <line fill="none" x1="240" y1="230" x2="240" y2="270" stroke="#1f2937" stroke-width="2"/>
     <polygon points="240,270 234,262 246,262" fill="#1f2937"/>
     <text x="255" y="255" fill="#6b7280" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" text-anchor="start">JDBC/SQL</text>
-    <rect x="80" y="270" width="320" height="70" rx="8" ry="8" fill="#E69F00" stroke="#1f2937" stroke-width="3" stroke-dasharray="2 2" data-drole="series-3"/>
+    <rect x="80" y="270" width="320" height="70" rx="8" ry="8" fill="#E69F00" stroke="#1f2937" stroke-width="3" data-drole="series-3"/>
     <text x="240" y="295" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="18" text-anchor="middle" font-weight="bold">Database</text>
     <ellipse cx="160" cy="320" rx="30" ry="12" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 130 320 L 130 330 Q 130 340 160 340 Q 190 340 190 330 L 190 320" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

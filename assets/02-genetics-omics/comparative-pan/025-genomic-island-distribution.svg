@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      class="pp-diagram pp-comparative" role="img" aria-labelledby="t-genomic_island_distribution d-genomic_island_distribution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-<title id="t-genomic_island_distribution">基因组 island 分布 / Genomic island distribution</title>
+<title id="t-genomic_island_distribution">基因组岛分布 / Genomic island distribution</title>
 <desc id="d-genomic_island_distribution">Multiple genome bars with island blocks and GC offset curves. schematic. 关键词: comparative genomics, genomic island distribution, blocks, offset, Backbone</desc>
 <g data-name="background"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/></g>
 <text x="300.0" y="25.0" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Genomic Island Distribution (schematic)</text>
@@ -11,8 +11,8 @@
 <rect x="309.0" y="130.0" width="25.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="452.0" y="130.0" width="36.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="518.0" y="130.0" width="27.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
-<rect x="480.0" y="130.0" width="20.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
-<rect x="540.0" y="130.0" width="29.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="492.0" y="130.0" width="20.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="549.0" y="130.0" width="29.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <polyline points="100,105 126,125 153,111 179,119 205,125 232,117 258,125 284,125 311,125 337,125 363,116 389,114 416,113 442,119 468,117 495,125 521,119 547,125 574,125 600,111" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
 <rect x="100.0" y="200.0" width="450.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
 <text x="85.0" y="212.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome B</text>
@@ -28,11 +28,11 @@
 <rect x="534.0" y="270.0" width="29.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="472.0" y="270.0" width="19.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="332.0" y="270.0" width="20.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
-<rect x="485.0" y="270.0" width="31.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="495.0" y="270.0" width="31.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <polyline points="100,256 125,252 151,265 176,265 201,256 226,248 252,265 277,256 302,265 327,254 353,265 378,257 403,265 428,255 454,249 479,265 504,265 529,259 555,253 580,250" fill="none" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
 <rect x="100.0" y="340.0" width="420.0" height="15.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#2E86AB" stroke-width="0.5"/>
 <text x="85.0" y="352.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Genome D</text>
-<rect x="339.0" y="340.0" width="40.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
+<rect x="358.0" y="340.0" width="40.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="118.0" y="340.0" width="17.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="260.0" y="340.0" width="22.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>
 <rect x="317.0" y="340.0" width="37.0" height="15.0" fill="#C42D2D" data-pp="alert" fill-opacity="0.7"/>

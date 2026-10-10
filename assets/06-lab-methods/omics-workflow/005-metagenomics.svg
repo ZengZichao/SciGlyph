@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="宏基因组" data-name-en="Metagenomics" data-cat="05-eco-seq" data-tags="宏基因组,鸟枪法,群落,读段,组装,contig" role="img" aria-labelledby="t-21-metagenomics d-21-metagenomics" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-21-metagenomics">宏基因组 / Metagenomics</title>
-  <desc id="d-21-metagenomics">环境群落全部基因组 DNA 被随机打断测序，读段经重叠比对组装为 contig 与支架，重建未知基因组。关键词: 宏基因组, 鸟枪法, 群落, 读段, 组装, contig</desc>
+  <desc id="d-21-metagenomics">环境群落全部基因组 DNA 被随机打断测序，读段经重叠比对组装为 contig 与支架，重建未知基因组</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 流程轴 -->
   <path d="M14 18 H106" stroke="#5B4B8A" stroke-width="2"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-centrifuge-tabletop" data-cat="ls" data-spec="128" data-tags="centrifuge,tabletop,rotor,angle,fixed,swing,rpm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-centrifuge-tabletop" data-cat="ls" data-spec="128" data-tags="centrifuge,tabletop,rotor,angle,fixed,swing,rpm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">台式离心机 / Tabletop Centrifuge</title>
   <desc id="d">台式离心机：转子腔、角转子、盖锁、转速显示。</desc>
   <g id="body">

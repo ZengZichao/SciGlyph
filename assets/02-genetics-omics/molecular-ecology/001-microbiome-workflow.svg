@@ -10,13 +10,13 @@
 </defs>
 <g id="l-microbiome_workflow" data-name="workflow">
   <rect x="20" y="180" width="60" height="40" rx="4" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
-<text x="50.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">采样</text>
+<text x="50.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">采样</text>
   <line x1="80" y1="200" x2="100" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <rect x="100" y="180" width="60" height="40" rx="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
-<text x="130.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">DNA</text>
+<text x="130.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">DNA</text>
   <line x1="160" y1="200" x2="180" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <rect x="180" y="180" width="60" height="40" rx="4" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
-<text x="210.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">扩增</text>
+<text x="210.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">扩增</text>
   <line x1="240" y1="200" x2="260" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <rect x="260" y="180" width="60" height="40" rx="4" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
 <text x="290.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">质控</text>
@@ -25,12 +25,12 @@
 <text x="370.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">去噪</text>
   <line x1="400" y1="200" x2="420" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <rect x="420" y="180" width="60" height="40" rx="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
-<text x="450.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">注释</text>
+<text x="450.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">注释</text>
   <line x1="480" y1="200" x2="500" y2="200" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <rect x="500" y="180" width="60" height="40" rx="4" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
-<text x="530.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">统计</text>
+<text x="530.0" y="204.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">统计</text>
   <rect x="500" y="240" width="60" height="40" rx="4" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
-  <text x="530.0" y="264.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">可视化</text>
+  <text x="530.0" y="264.0" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="ink" text-anchor="middle">可视化</text>
   <line x1="530" y1="220" x2="530" y2="240" stroke="#1B2733" stroke-width="1.5" data-pp="ink" marker-end="url(#pp01__ar)"/>
   <text x="300" y="50" font-size="16" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">微生物组分析流程</text>
 </g>

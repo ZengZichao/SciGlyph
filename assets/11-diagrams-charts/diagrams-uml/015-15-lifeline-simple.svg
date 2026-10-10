@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="两条生命线加消息" data-name-en="Lifeline Simple" data-cat="diagrams-sw-uml" aria-labelledby="t-15 d-15" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-15">两条生命线加消息 / lifeline_simple</title>
-  <desc id="d-15">两条生命线及同步消息。关键词: lifeline,message,sequence</desc>
+  <title id="t-15">两条生命线加消息 / Lifeline Simple</title>
+  <desc id="d-15">两条生命线及同步消息</desc>
   <g id="g-15-两条生命线加消息">
     <rect x="15" y="10" width="60" height="24" fill="#0072B2" stroke="#1f2937" stroke-width="2" data-drole="series-1"/>
     <text x="45" y="26" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="bold">A</text>
     <line fill="none" x1="45" y1="34" x2="45" y2="110" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="6 4"/>
-    <rect x="85" y="10" width="60" height="24" fill="#009E73" stroke="#1f2937" stroke-width="2" stroke-dasharray="6 3" data-drole="series-2"/>
+    <rect x="85" y="10" width="60" height="24" fill="#009E73" stroke="#1f2937" stroke-width="2" data-drole="series-2"/>
     <text x="115" y="26" fill="#ffffff" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle" font-weight="bold">B</text>
     <line fill="none" x1="115" y1="34" x2="115" y2="110" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="6 4"/>
     <line fill="none" x1="45" y1="60" x2="110" y2="60" stroke="#1f2937" stroke-width="2"/>

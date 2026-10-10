@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="泳道流程示例" data-name-en="flow-swimlane-example" data-cat="flowchart-logic" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-45">泳道流程示例 / flow_swimlane_example</title>
-  <desc id="d-45">泳道内流程节点。关键词: swimlane,flow,example</desc>
+  <title id="t-45">泳道流程示例 / Flow-Swimlane-Example</title>
+  <desc id="d-45">泳道内流程节点</desc>
   <g id="g-45-泳道流程示例">
     <rect x="10" y="10" width="300" height="100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="10" y="110" width="300" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

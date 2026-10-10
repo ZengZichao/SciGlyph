@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="拓扑不一致标记" data-name-en="Incongruence marker" data-cat="04-phylo" data-tags="不一致,冲突,基因树,物种树,conflict" aria-labelledby="t-14-incongruence d-14-incongruence" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-14-incongruence">拓扑不一致标记 / Incongruence marker</title>
-  <desc id="d-14-incongruence">上为基因树 ((t1,t2),(t3,t4))、下为物种树 ((t1,t4),(t2,t3))；两树之间以连线连接同一类群，灰色为位置一致者，红色为在两树中发生交叉的不一致类群，用于可视化水平基因转移或 ILS。关键词: 不一致, 冲突, 基因树, 物种树, conflict</desc>
+  <desc id="d-14-incongruence">上为基因树 ((t1,t2),(t3,t4))、下为物种树 ((t1,t4),(t2,t3))；两树之间以连线连接同一类群，灰色为位置一致者，红色为在两树中发生交叉的不一致类群，用于可视化水平基因转移或 ILS</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <!-- 上：基因树 ((t1,t2),(t3,t4)) -->

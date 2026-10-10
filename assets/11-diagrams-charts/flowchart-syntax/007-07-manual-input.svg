@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="手工输入" data-name-en="manual-input" data-cat="flowchart-logic" aria-labelledby="t-07 d-07" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-07">手工输入 / manual_input</title>
-  <desc id="d-07">手动输入操作。关键词: flowchart,manual,input</desc>
+  <title id="t-07">手工输入 / Manual-Input</title>
+  <desc id="d-07">手动输入操作</desc>
   <g id="g-07-手工输入">
     <polygon points="10,25 110,15 110,55 10,55" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="43" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">Input</text>

@@ -15,6 +15,6 @@
     <line x1="65" y1="12" x2="65" y2="28" stroke="#E8871E" stroke-width="1" stroke-linecap="round" data-pp="mge"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Phototrophic</text>
+    <text x="50" y="92" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Photoculture</text>
   </g>
 </svg>

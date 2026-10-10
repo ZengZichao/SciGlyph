@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="缩进层级行" data-name-en="hierarchical-indented-rows" data-cat="tables-frames" aria-labelledby="t-14 d-14" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-14">缩进层级行 / hierarchical_indented_rows</title>
-  <desc id="d-14">缩进表示层级关系。关键词: 层级,缩进,树形表格</desc>
+  <title id="t-14">缩进层级行 / Hierarchical-Indented-Rows</title>
+  <desc id="d-14">缩进表示层级关系</desc>
   <g id="g-14-缩进层级行">
     <line x1="40" y1="30" x2="280" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="280" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>

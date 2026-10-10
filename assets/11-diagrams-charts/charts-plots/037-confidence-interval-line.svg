@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="置信区间线" data-name-en="Confidence Interval Line" data-cat="charts-plots" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">置信区间线 / confidence_interval_line</title>
-  <desc id="d-37">折线加置信区间带。关键词: confidence,interval,band</desc>
+  <title id="t-37">置信区间线 / Confidence Interval Line</title>
+  <desc id="d-37">折线加置信区间带</desc>
   <g id="g-37-置信区间线">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

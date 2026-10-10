@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="与门" data-name-en="gate-and" data-cat="flowchart-logic" aria-labelledby="t-49 d-49" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-49">与门 / gate_and</title>
-  <desc id="d-49">逻辑与门符号。关键词: gate,and,logic</desc>
+  <title id="t-49">与门 / Gate-And</title>
+  <desc id="d-49">逻辑与门符号</desc>
   <g id="g-49-与门">
     <path d="M20,15 L55,15 A30,25 0 0,1 55,65 L20,65 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="5" y1="30" x2="20" y2="30" stroke="#1f2937" stroke-width="1.5"/>

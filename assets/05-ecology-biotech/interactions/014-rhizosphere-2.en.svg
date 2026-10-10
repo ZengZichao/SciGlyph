@@ -15,6 +15,6 @@
     <ellipse cx="50" cy="45" rx="20" ry="15" fill="#00857A" fill-opacity="0.15" stroke="#00857A" stroke-width="0.5" stroke-dasharray="2,2" data-pp="metabolism"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">rhizosphere</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Rhizosphere</text>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="微控制器" data-name-en="mcu-square-with-pins" data-cat="physics-electronics" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-30">微控制器 / mcu_square_with_pins</title>
-  <desc id="d-30">带引脚的MCU方框符号。关键词: MCU,微控制器,单片机</desc>
+  <title id="t-30">微控制器 / Mcu-Square-With-Pins</title>
+  <desc id="d-30">带引脚的MCU方框符号</desc>
   <g id="g-30-微控制器">
     <rect x="30" y="20" width="60" height="40" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="35" y1="10" x2="35" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>

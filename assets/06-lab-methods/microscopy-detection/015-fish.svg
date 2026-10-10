@@ -15,12 +15,12 @@
     <path d="M65,25 L65,45" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5" />
     <path d="M68,28 L72,32" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" />
     <text x="76" y="29.96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">probe</text>
-    <text x="76" y="37.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">rRNA</text>
+    <text x="76" y="37.04" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">rRNA</text>>
     <text x="73.46" y="44.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">target</text>
   </g>
   <g id="layer-annotation-fish" data-name="annotation">
     <text x="40" y="60" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">FISH</text>
-    <text x="40" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">fluorescent probe</text>
+    <text x="40" y="68" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">fluorescent probe</text>ext>
     <text x="40" y="76" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">→ rRNA target</text>
   </g>
 </svg>

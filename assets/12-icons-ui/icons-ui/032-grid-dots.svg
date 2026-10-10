@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="点阵网格" data-name-en="grid_dots" data-cat="basic-icons-ui" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">点阵网格 / grid_dots</title>
-  <desc id="d-32">点阵网格背景图标。关键词: 点阵,网格,grid,dots</desc>
+  <title id="t-32">点阵网格 / Grid_Dots</title>
+  <desc id="d-32">点阵网格背景图标</desc>
   <g id="g-32-点阵网格">
     <circle cx="12" cy="12" r="2" fill="#1f2937" stroke="none"/>
     <circle cx="24" cy="12" r="2" fill="#1f2937" stroke="none"/>

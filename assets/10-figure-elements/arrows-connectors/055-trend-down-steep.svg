@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="陡降趋势线" data-name-en="trend down steep" data-cat="arrows-connectors" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">陡降趋势线 / trend_down_steep</title>
-  <desc id="d-55">陡峭下降趋势曲线。关键词: trend,down,steep,fall,decrease</desc>
+  <title id="t-55">陡降趋势线 / Trend Down Steep</title>
+  <desc id="d-55">陡峭下降趋势曲线</desc>
   <g id="g-55-陡降趋势线">
     <line x1="10" y1="40" x2="10" y2="10" stroke="#6b7280" stroke-width="0.75" fill="none"/>
     <line x1="10" y1="40" x2="86" y2="40" stroke="#6b7280" stroke-width="0.75" fill="none"/>

@@ -21,8 +21,8 @@
   <g data-name="annotation">
     <circle cx="100" cy="300" r="8" fill="#A2305B" fill-opacity="0.5" stroke="#1B2733" stroke-width="1" data-pp="archaea"/>
     <line x1="120" y1="300" x2="320" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <rect x="330" y="100" width="30" height="220" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-dasharray="4 2" rx="4"/>
-    <circle cx="345" cy="150" r="5" fill="#00857A" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
-    <circle cx="345" cy="250" r="5" fill="#00857A" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <rect x="322" y="100" width="22" height="220" fill="none" stroke="#00857A" stroke-width="1.5" data-pp="metabolism" stroke-dasharray="4 2" rx="4"/>
+    <circle cx="333" cy="150" r="5" fill="#00857A" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
+    <circle cx="333" cy="250" r="5" fill="#00857A" fill-opacity="0.4" stroke="#1B2733" stroke-width="1" data-pp="metabolism"/>
   </g>
 </svg>

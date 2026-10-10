@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆柱截面" data-name-en="Cylinder Cross Section" data-cat="geometry-math" aria-labelledby="t-46 d-46" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-46">圆柱截面 / cross_section_cylinder</title>
-  <desc id="d-46">水平截切圆柱。关键词: cross section,cylinder,solid</desc>
+  <title id="t-46">圆柱截面 / Cylinder Cross Section</title>
+  <desc id="d-46">水平截切圆柱</desc>
   <g id="g-46-圆柱截面">
     <ellipse cx="60" cy="25" rx="35" ry="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="25" y1="25" x2="25" y2="95" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="支序高亮框" data-name-en="Highlighted clade" data-cat="04-phylo" data-tags="支序,高亮,圈选,clade,注释" aria-labelledby="t-11-clade-box d-11-clade-box" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-11-clade-box">支序高亮框 / Highlighted clade</title>
-  <desc id="d-11-clade-box">半透明圆角虚线框圈定需要强调的支序，框内成员共享更近的最近共同祖先，常用于标注讨论类群。关键词: 支序, 高亮, 圈选, clade, 注释</desc>
+  <desc id="d-11-clade-box">半透明圆角虚线框圈定需要强调的支序，框内成员共享更近的最近共同祖先，常用于标注讨论类群</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <rect x="32" y="12" width="74" height="58" rx="5" fill="#B7D7E8" fill-opacity="0.35" stroke="#5B4B8A" stroke-width="2" stroke-dasharray="4 3"/>

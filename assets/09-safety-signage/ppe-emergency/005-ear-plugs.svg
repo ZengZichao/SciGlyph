@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>成型隔音耳塞</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>成型隔音耳塞 / Ear Plugs</title>
   <path d="M6 8 L6 16 Q6 18 8 18 L9 18 Q10 18 10 16 L10 8 Q10 6 8 6 L8 6 Q6 6 6 8 Z"/>
   <path d="M6 10 L10 10"/>
   <path d="M6 12 L10 12"/>
@@ -8,6 +8,6 @@
   <path d="M14 10 L18 10"/>
   <path d="M14 12 L18 12"/>
   <path d="M14 14 L18 14"/>
-  <circle cx="8" cy="7" r="0.5" fill="currentColor"/>
-  <circle cx="16" cy="7" r="0.5" fill="currentColor"/>
+  <circle cx="8" cy="7" r="0.5" fill="#1B2733"/>
+  <circle cx="16" cy="7" r="0.5" fill="#1B2733"/>
 </svg>

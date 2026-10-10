@@ -15,7 +15,7 @@
         <circle cx="55" cy="45" r="9" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1"/>
     <text x="55" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MnO₂</text>
         <rect x="72" y="38" width="18" height="14" rx="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="81.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Mnx</text>
+    <text x="81.0" y="46.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">MnxG</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
         <line x1="29" y1="45" x2="46" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp27__ar)"/>

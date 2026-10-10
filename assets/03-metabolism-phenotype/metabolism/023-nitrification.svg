@@ -23,8 +23,8 @@
         <line x1="23" y1="30" x2="34" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
         <line x1="50" y1="30" x2="60" y2="30" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
         <line x1="68" y1="38" x2="68" y2="57" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp23__ar)"/>
-    <text x="28" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Amo/Hao</text>
-    <text x="55" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AOB</text>
+    <text x="28" y="18" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Amo/Hao</text>
+    <text x="58" y="18" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AOB</text>
     <text x="80" y="50" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nxr</text>
     <text x="80" y="58" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">NOB</text>
     <text x="15" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">2 steps, 2 guilds</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="柱线组合图" data-name-en="Bar Lined Combo" data-cat="charts-plots" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-05">柱线组合图 / bar_lined_combo</title>
-  <desc id="d-05">柱状图与折线组合。关键词: bar,line,combo,dual</desc>
+  <title id="t-05">柱线组合图 / Bar Lined Combo</title>
+  <desc id="d-05">柱状图与折线组合</desc>
   <g id="g-05-柱线组合图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

@@ -2,47 +2,78 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      role="img" aria-labelledby="t-03 d-03" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-03">时间校准树 / Time-calibrated Tree</title>
-  <desc id="d-03">骨架，配合 MCMCTree/BEAST 输出使用。枝长正比于百万年(Ma)。 关键词: phylogenetic tree, rect time tree, Time-calibrated, MCMCTree, BEAST, skeleton template</desc>
+  <desc id="d-03">…枝长正比于百万年(Ma)，横轴为时间轴，节点给出95% HPD枝龄区间。…</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp03__clades" data-name="clade-shading">
-    <rect x="106.6" y="24.0" width="57.4" height="92.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="86.9" y="184.0" width="77.1" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="215" y="32" width="257" height="110" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="177" y="182" width="295" height="186" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
   </g>
   <g id="pp03__branches" data-name="branches">
-    <line x1="81.0" y1="70.0" x2="81.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="30.0" x2="110.6" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.9" y1="190.0" x2="90.9" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="270.0" x2="110.6" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="81.0" y1="70.0" x2="110.6" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="30.0" x2="160.0" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="110.0" x2="160.0" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="81.0" y1="250.0" x2="90.9" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.9" y1="190.0" x2="160.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.9" y1="310.0" x2="110.6" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="270.0" x2="160.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="110.6" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="86.0" x2="90.0" y2="295.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="223.0" y1="48.0" x2="223.0" y2="124.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="185.0" y1="238.0" x2="185.0" y2="352.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="318.0" y1="200.0" x2="318.0" y2="276.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="86.0" x2="223.0" y2="86.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="295.0" x2="185.0" y2="295.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="223.0" y1="48.0" x2="470.0" y2="48.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="223.0" y1="124.0" x2="470.0" y2="124.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="185.0" y1="238.0" x2="318.0" y2="238.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="185.0" y1="352.0" x2="470.0" y2="352.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="318.0" y1="200.0" x2="470.0" y2="200.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="318.0" y1="276.0" x2="470.0" y2="276.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+  </g>
+  <g id="pp03__hpd" data-name="node-age-CI">
+    <line x1="61.5" y1="190.5" x2="118.5" y2="190.5" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="61.5" y1="185.5" x2="61.5" y2="195.5" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="118.5" y1="185.5" x2="118.5" y2="195.5" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="199.0" y1="86.0" x2="247.0" y2="86.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="199.0" y1="81.0" x2="199.0" y2="91.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="247.0" y1="81.0" x2="247.0" y2="91.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="164.0" y1="295.0" x2="206.0" y2="295.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="164.0" y1="290.0" x2="164.0" y2="300.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="206.0" y1="290.0" x2="206.0" y2="300.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="301.0" y1="238.0" x2="335.0" y2="238.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="301.0" y1="233.0" x2="301.0" y2="243.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
+    <line x1="335.0" y1="233.0" x2="335.0" y2="243.0" stroke="#93A0AC" stroke-width="2" data-pp="muted"/>
   </g>
   <g id="pp03__nodes" data-name="nodes">
-    <circle cx="81.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="110.6" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="90.9" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="110.6" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="90.0" cy="190.5" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="223.0" cy="86.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="185.0" cy="295.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="318.0" cy="238.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  </g>
+  <g data-name="node-age-labels">
+    <text x="122.5" y="193.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">400 Ma</text>
+    <text x="251.0" y="89.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">260 Ma</text>
+    <text x="210.0" y="298.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">300 Ma</text>
+    <text x="339.0" y="241.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">160 Ma</text>
   </g>
   <g id="pp03__labels" data-name="tip-labels">
-    <text x="165.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
-    <text x="165.0" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
-    <text x="165.0" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
-    <text x="165.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
+    <text x="476.0" y="51.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
+    <text x="476.0" y="127.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
+    <text x="476.0" y="203.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
+    <text x="476.0" y="279.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
+    <text x="476.0" y="355.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
   </g>
   <g data-name="present-line">
-    <line x1="160.0" y1="20.0" x2="160.0" y2="360.0" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
-    <text x="160.0" y="14.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Present</text>
+    <line x1="470.0" y1="32.0" x2="470.0" y2="356.0" stroke="#93A0AC" stroke-width="0.8" data-pp="muted" stroke-dasharray="3 2"/>
+    <text x="470.0" y="24.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Present</text>
   </g>
-  <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">50 Ma</text>
+  <g data-name="time-axis">
+    <line x1="90.0" y1="372.0" x2="470.0" y2="372.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="90.0" y1="372.0" x2="90.0" y2="377.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="185.0" y1="372.0" x2="185.0" y2="377.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="280.0" y1="372.0" x2="280.0" y2="377.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="375.0" y1="372.0" x2="375.0" y2="377.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="470.0" y1="372.0" x2="470.0" y2="377.0" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="90.0" y="386.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">400</text>
+    <text x="185.0" y="386.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">300</text>
+    <text x="280.0" y="386.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">200</text>
+    <text x="375.0" y="386.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">100</text>
+    <text x="470.0" y="386.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0</text>
+    <text x="86.0" y="368.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">Ma</text>
+  </g>
+  <g data-name="legend">
+    <text x="60.0" y="20.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">horizontal bars = 95% HPD of node age</text>
   </g>
 </svg>

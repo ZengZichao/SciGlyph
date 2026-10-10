@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-ftir-spectrometer" data-cat="an" data-spec="128" data-tags="ftir,infrared,spectrometer,interferometer,michelson" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-ftir-spectrometer" data-cat="an" data-spec="128" data-tags="ftir,infrared,spectrometer,interferometer,michelson" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">傅里叶变换红外光谱仪 / FTIR Spectrometer</title>
   <desc id="d">傅里叶变换红外光谱仪：红外光源→迈克尔逊干涉仪→样品室→检测器。</desc>
   <g id="body">
@@ -14,13 +14,13 @@
 <rect x="34" y="56" width="14" height="4" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
     <text x="41.0" y="63.2" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Fixed</text>
 <rect x="54" y="32" width="4" height="14" rx="1" fill="#33414F" stroke="none" data-ls="dark" />
-<path points="58,36 62,39 58,42" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent" />
+<polygon points="58,36 62,39 58,42" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent" />
     <text x="56" y="28" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Moving</text>
 <rect x="70" y="38" width="12" height="12" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
 <rect x="72" y="40" width="8" height="8" rx="1" fill="#BFE0FF" opacity="0.3" stroke="none" data-ls="liquid" />
     <text x="76.0" y="56.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
 <rect x="90" y="36" width="14" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
-    <text x="99.0" y="58.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">DTGS</text>
+    <text x="102.0" y="58.0" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">DTGS</text>
 <line x1="28" y1="44" x2="36" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
 <line x1="46" y1="44" x2="70" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
 <line x1="82" y1="44" x2="90" y2="44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />

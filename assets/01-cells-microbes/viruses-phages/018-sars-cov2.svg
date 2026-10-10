@@ -32,10 +32,8 @@
     <circle cx="70" cy="72" r="1.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
     <!-- E protein -->
     <circle cx="50" cy="80" r="1" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="0.5"/>
-    <!-- N protein (helical nucleocapsid) -->
-    <path d="M38,42 Q42,38 46,42 Q50,46 54,42 Q58,38 62,42" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
-    <path d="M38,50 Q42,46 46,50 Q50,54 54,50 Q58,46 62,50" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
-    <path d="M38,58 Q42,54 46,58 Q50,62 54,58 Q58,54 62,58" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
+    <!-- N protein (helical nucleocapsid): one continuous ssRNA(+) strand -->
+    <path d="M33,50 Q37,41 42,50 Q47,59 52,50 Q57,41 62,50 Q66,56 67,50" fill="none" stroke="#6C3FA0" data-pp="gene" stroke-width="1.5"/>
   </g>
   <g id="layer-annotation-sars_cov2" data-name="annotation">
     <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">S+M+E+N</text>

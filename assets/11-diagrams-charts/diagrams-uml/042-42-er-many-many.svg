@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="多对多" data-name-en="ER Many-Many" data-cat="diagrams-sw-uml" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">多对多 / er_many_many</title>
-  <desc id="d-42">多对多鸦爪记号。关键词: many,many,crowfoot,er</desc>
+  <title id="t-42">多对多 / Er Many-Many</title>
+  <desc id="d-42">多对多鸦爪记号</desc>
   <g id="g-42-多对多">
     <rect x="10" y="35" width="50" height="30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="54" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Stu</text>

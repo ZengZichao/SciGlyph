@@ -15,6 +15,6 @@
     <path d="M70,50 L75,55 L70,60" fill="none" stroke="#93A0AC" stroke-width="0.5" data-pp="muted"/>
   </g>
   <g id="layer-annotation" data-name="annotation">
-    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">permafrost</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Permafrost</text>
   </g>
 </svg>

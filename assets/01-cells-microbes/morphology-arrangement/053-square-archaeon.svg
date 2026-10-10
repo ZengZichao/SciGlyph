@@ -48,7 +48,7 @@
   </g>
   <g id="layer-annotation" data-name="annotation">
     <line x1="70" y1="30" x2="78" y2="18" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="62" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">vesicle</text>
+    <text x="32" y="15" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="muted">gas vesicle</text>
     <text x="25" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">S-layer</text>
   </g>
 </svg>

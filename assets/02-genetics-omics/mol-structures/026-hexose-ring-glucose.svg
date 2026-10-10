@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="六元糖环" data-name-en="Hexose Ring Glucose" data-cat="natural-sciences" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">六元糖环 / hexose_ring_glucose</title>
-  <desc id="d-37">展示六元糖环（葡萄糖）。关键词: glucose,hexose,ring structure</desc>
+  <title id="t-37">六元糖环 / Hexose Ring Glucose</title>
+  <desc id="d-37">展示六元糖环（葡萄糖）</desc>
   <g id="g-37-六元糖环">
     <polygon points="60,25 85,40 85,70 60,85 35,70 35,40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="85" cy="41" r="7.5" fill="#ffffff" stroke="#1f2937" stroke-width="0.75"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="直流源" data-name-en="dc-source-circle" data-cat="physics-electronics" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34">直流源 / dc_source_circle</title>
-  <desc id="d-34">圆形直流电压源符号。关键词: 直流源,DC,电源</desc>
+  <title id="t-34">直流源 / Dc-Source-Circle</title>
+  <desc id="d-34">圆形直流电压源符号</desc>
   <g id="g-34-直流源">
     <circle cx="60" cy="40" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="50" y1="33" x2="70" y2="33" stroke="#1f2937" stroke-width="2" fill="none"/>

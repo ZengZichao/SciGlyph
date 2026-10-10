@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="中心体" data-name-en="Centrosome Centrioles" data-cat="natural-sciences" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-19">中心体 / centrosome_centrioles</title>
-  <desc id="d-19">展示中心体及中心粒。关键词: centrosome,centriole,microtubule organizing</desc>
+  <title id="t-19">中心体 / Centrosome with centrioles</title>
+  <desc id="d-19">展示中心体及中心粒</desc>
   <g id="g-19-中心体">
     <rect x="30" y="30" width="25" height="50" rx="4" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="33" y1="38" x2="52" y2="38" stroke="#1f2937" stroke-width="0.75"/>

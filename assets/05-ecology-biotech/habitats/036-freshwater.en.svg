@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-freshwater d-freshwater" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-freshwater">Freshwater</title>
-  <desc id="d-freshwater">Freshwater lake with cyanobacteria and heterotrophs 关键词: freshwater, lake, cyanobacteria, heterotrophs, pelagic, low salinity</desc>
+  <desc id="d-freshwater">Freshwater lake with cyanobacteria and heterotrophs</desc>
   <g id="l-freshwater-bg" data-name="habitat-bg">
     <rect x="5" y="30" width="90" height="45" rx="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5"/>
   </g>

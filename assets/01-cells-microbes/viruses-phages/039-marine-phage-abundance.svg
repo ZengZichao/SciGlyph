@@ -51,10 +51,13 @@
     <circle cx="25" cy="30" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
     <circle cx="60" cy="45" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
     <circle cx="75" cy="25" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <circle cx="50" cy="22" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
   </g>
   <g id="layer-annotation-marine_phage_abundance" data-name="annotation">
-    <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~10^7 phage/mL</text>
-    <text x="50" y="88" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~10^6 bacteria/mL</text>
-    <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phage:bacteria ≈ 10:1</text>
+    <circle cx="14" cy="70" r="2.2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.4"/>
+    <text x="19" y="72" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">phage ~10^7 /mL</text>
+    <circle cx="14" cy="80" r="3.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
+    <text x="19" y="82" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">bacteria ~10^6 /mL</text>
+    <text x="50" y="93" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">phage : bacteria ≈ 10:1</text>
   </g>
 </svg>

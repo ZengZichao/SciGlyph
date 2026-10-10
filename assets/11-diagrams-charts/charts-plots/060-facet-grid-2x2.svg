@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="小倍数网格" data-name-en="Facet Grid 2x2" data-cat="charts-plots" aria-labelledby="t-60 d-60" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-60">小倍数网格 / facet_grid_2x2</title>
-  <desc id="d-60">2x2小倍数面板网格。关键词: facet,grid,small,multiples</desc>
+  <title id="t-60">小倍数网格 / Facet Grid 2X2</title>
+  <desc id="d-60">2x2小倍数面板网格</desc>
   <g id="g-60-小倍数网格">
     <line x1="40" y1="25" x2="40" y2="140" stroke="#1f2937" stroke-width="0.75"/>
     <line x1="40" y1="140" x2="190" y2="140" stroke="#1f2937" stroke-width="0.75"/>

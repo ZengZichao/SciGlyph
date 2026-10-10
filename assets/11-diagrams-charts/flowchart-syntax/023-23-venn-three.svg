@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="三集合韦恩" data-name-en="venn-three" data-cat="flowchart-logic" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-23">三集合韦恩 / venn_three</title>
-  <desc id="d-23">三集合韦恩图。关键词: set,venn,three</desc>
+  <title id="t-23">三集合韦恩 / Venn-Three</title>
+  <desc id="d-23">三集合韦恩图</desc>
   <g id="g-23-三集合韦恩">
     <circle cx="100" cy="65" r="45" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="140" cy="65" r="45" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

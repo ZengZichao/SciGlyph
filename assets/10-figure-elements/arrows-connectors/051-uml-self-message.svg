@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="UML自消息箭头" data-name-en="uml self message" data-cat="arrows-connectors" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-51">UML自消息箭头 / uml_self_message</title>
-  <desc id="d-51">UML对象自调用消息箭头。关键词: uml,self,message,recursive</desc>
+  <title id="t-51">UML自消息箭头 / Uml Self Message</title>
+  <desc id="d-51">UML对象自调用消息箭头</desc>
   <g id="g-51-UML自消息箭头">
     <line x1="30" y1="14" x2="30" y2="66" stroke="#6b7280" stroke-width="1.5" stroke-dasharray="4 3" fill="none"/>
     <path d="M 30 30 L 80 30 L 80 50 L 36 50" stroke="#1f2937" stroke-width="1.5" fill="none"/>

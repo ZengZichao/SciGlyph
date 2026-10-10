@@ -11,8 +11,8 @@
     <rect x="53" y="62" width="14" height="8" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
     <rect x="76" y="76" width="16" height="24" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
     <rect x="78" y="70" width="12" height="8" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
-    <path d="M96 30 L104 16 L108 18 L100 32" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2" data-ls="accent"/>
-    <path d="M96 30 L92 40 M100 32 L104 42" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="1.5" data-ls="accent"/>
+    <path d="M104 14 C97 18 98 30 100 46" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2" data-ls="accent"/>
+    <path d="M104 14 C111 18 110 30 108 46" fill="none" stroke="#2B7DE9" stroke-linecap="round" stroke-width="2" data-ls="accent"/>
     <text x="32" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">200g</text>
     <text x="60" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">100g</text>
     <text x="84" y="108" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">50g</text></g>

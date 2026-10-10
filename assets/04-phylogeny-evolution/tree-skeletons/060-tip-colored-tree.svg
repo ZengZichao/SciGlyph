@@ -4,10 +4,7 @@
   <title id="t-28">Tip着色型树 / Tip-colored Tree</title>
   <desc id="d-28">骨架，配合iTOL/ggtree使用。Tip标签按分类群着色。 关键词: phylogenetic tree, tip colored tree, Tip-colored, iTOL, ggtree, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
-  <g id="pp28__clades" data-name="clade-shading">
-    <rect x="96.0" y="24.0" width="48.0" height="103.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="96.0" y="161.1" width="68.0" height="194.9" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
-  </g>
+  <g id="pp28__clades" data-name="clade-shading"/>
   <g id="pp28__branches" data-name="branches">
     <line x1="80.0" y1="64.3" x2="80.0" y2="241.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="100.0" y1="30.0" x2="100.0" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
@@ -49,6 +46,11 @@
     <text x="145.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Sp_F</text>
     <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Sp_G</text>
     <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Sp_H</text>
+  </g>
+  <g data-name="domain-key">
+    <text x="250" y="160" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Bacteria</text>
+    <text x="250" y="174" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Archaea</text>
+    <text x="250" y="188" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Eukaryota</text>
   </g>
   <g data-name="scale-bar">
     <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>

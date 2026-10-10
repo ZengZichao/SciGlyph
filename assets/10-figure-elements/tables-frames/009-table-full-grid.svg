@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="全网格" data-name-en="table-full-grid" data-cat="tables-frames" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-09">全网格 / table_full_grid</title>
-  <desc id="d-09">完整网格表格。关键词: 网格,全边框,表格</desc>
+  <title id="t-09">全网格 / Table-Full-Grid</title>
+  <desc id="d-09">完整网格表格</desc>
   <g id="g-09-全网格">
     <rect x="40" y="40" width="240" height="160" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="40" y1="66" x2="280" y2="66" stroke="#6b7280" stroke-width="0.75" fill="none"/>

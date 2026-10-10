@@ -11,10 +11,9 @@
     <line x1="64" y1="50" x2="50" y2="78" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="64" y1="50" x2="78" y2="78" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="20" y1="64" x2="32" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="26,64 32,60 32,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
-    <line x1="96" y1="64" x2="116" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="108,64 102,60 102,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <polygon points="32,64 26,60 26,68" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="64" y1="32" x2="64" y2="16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,18 60,24 68,24" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="56" y1="16" x2="72" y2="16" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
   </g>
 </svg>

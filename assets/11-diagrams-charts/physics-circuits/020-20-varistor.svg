@@ -1,11 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="压敏电阻" data-name-en="varistor" data-cat="physics-electronics" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">压敏电阻 / varistor</title>
-  <desc id="d-20">电压敏感电阻符号。关键词: 压敏电阻,过压保护,MOV</desc>
+  <title id="t-20">压敏电阻 / Varistor</title>
+  <desc id="d-20">电压敏感电阻符号</desc>
   <g id="g-20-压敏电阻">
     <line x1="10" y1="40" x2="45" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <path d="M 45 25 L 45 55 L 70 40 Z" fill="#1f2937" stroke="#1f2937" stroke-width="2"/>
-    <line x1="70" y1="40" x2="70" y2="20" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <line x1="70" y1="60" x2="70" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
+    <rect x="45" y="25" width="25" height="30" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="70" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="55" x2="75" y2="25" stroke="#1f2937" stroke-width="1.5" fill="none"/>
   </g>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="缩进式支序图" data-name-en="Indented cladogram" data-cat="04-phylo" data-tags="缩进树,支序图,列表式,逐级缩进,indented" aria-labelledby="t-05-indented-cladogram d-05-indented-cladogram" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-05-indented-cladogram">缩进式支序图 / Indented cladogram</title>
-  <desc id="d-05-indented-cladogram">列表式支序图：每一级支序的共祖点以折线连接并逐级左移缩进，叶端等距排列，便于对照分类单元清单。关键词: 缩进树, 支序图, 列表式, 逐级缩进, indented</desc>
+  <desc id="d-05-indented-cladogram">列表式支序图：每一级支序的共祖点以折线连接并逐级左移缩进，叶端等距排列，便于对照分类单元清单</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

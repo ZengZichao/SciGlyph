@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="有竖线版" data-name-en="table-vertical-lines" data-cat="tables-frames" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-08">有竖线版 / table_vertical_lines</title>
-  <desc id="d-08">带竖线的表格。关键词: 竖线,网格线,表格</desc>
+  <title id="t-08">有竖线版 / Table-Vertical-Lines</title>
+  <desc id="d-08">带竖线的表格</desc>
   <g id="g-08-有竖线版">
     <line x1="40" y1="40" x2="280" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="40" y1="65" x2="280" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>

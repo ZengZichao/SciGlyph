@@ -10,26 +10,27 @@
     
   </defs>
   <g id="layer-body" data-name="body">
-        <circle cx="10" cy="50" r="7" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="10" y="51.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₃⁻</text>
-        <circle cx="30" cy="50" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
-    <text x="30" y="51.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₂⁻</text>
-        <circle cx="50" cy="50" r="6" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
-    <text x="50" y="51.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO</text>
-        <circle cx="68" cy="50" r="6" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="68" y="51.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂O</text>
-        <circle cx="88" cy="50" r="7" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
-    <text x="88" y="51.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂</text>
+    <text x="50" y="22" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">e⁻ donor: organic C</text>
+        <circle cx="10" cy="55" r="6.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="10" y="41" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₃⁻</text>
+        <circle cx="30" cy="55" r="6.5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="30" y="41" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO₂⁻</text>
+        <circle cx="50" cy="55" r="6.5" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+    <text x="50" y="41" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">NO</text>
+        <circle cx="70" cy="55" r="6.5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="70" y="41" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂O</text>
+        <circle cx="90" cy="55" r="6.5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <text x="90" y="41" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">N₂</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
-        <line x1="17" y1="50" x2="24" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
-        <line x1="36" y1="50" x2="44" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
-        <line x1="56" y1="50" x2="62" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
-        <line x1="74" y1="50" x2="81" y2="50" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
-    <text x="20" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nar</text>
-    <text x="40" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nir</text>
-    <text x="59" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nor</text>
-    <text x="78" y="38" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nos</text>
-    <text x="50" y="75" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">4 steps → N₂</text>
+        <line x1="17" y1="55" x2="23" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
+        <line x1="37" y1="55" x2="43" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
+        <line x1="57" y1="55" x2="63" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
+        <line x1="77" y1="55" x2="83" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp37__ar)"/>
+    <text x="20" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nar</text>
+    <text x="40" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nir</text>
+    <text x="60" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nor</text>
+    <text x="80" y="72" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Nos</text>
+    <text x="50" y="88" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">4 steps → N₂</text>
   </g>
 </svg>

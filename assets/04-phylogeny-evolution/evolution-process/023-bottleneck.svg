@@ -11,7 +11,7 @@
 <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
 <text x="300" y="24" font-size="13" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Bottleneck Effect</text>
 <text x="60" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">种群大小</text>
-<rect x="50" y="60" width="130" height="80" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.15"/>
+<rect x="50" y="60" width="130" height="80" fill="#2E86AB" fill-opacity="0.2" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.15"/>
 <text x="115" y="105" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">大种群</text>
 <circle cx="65" cy="72" r="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="85" cy="72" r="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
@@ -38,7 +38,7 @@
 <circle cx="256" cy="92" r="5" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="270" cy="92" r="5" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
 <line x1="285" y1="100" x2="325" y2="100" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp23__ar)"/>
-<rect x="330" y="60" width="130" height="80" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" rx="0.15"/>
+<rect x="330" y="60" width="130" height="80" fill="#00857A" fill-opacity="0.2" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5" rx="0.15"/>
 <text x="395" y="105" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">恢复</text>
 <circle cx="345" cy="72" r="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="373" cy="72" r="6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>

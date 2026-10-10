@@ -87,7 +87,7 @@
 <text x="127" y="280" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">B</text>
 <rect x="150" y="250" width="25" height="16" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
 <text x="162" y="280" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C</text>
-<rect x="185" y="250" width="25" height="16" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/>
+<rect x="185" y="250" width="25" height="16" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="0.5"/><rect x="220" y="250" width="25" height="16" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="0.5"/><text x="232" y="280" text-anchor="middle" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted">E</text><rect x="255" y="250" width="25" height="16" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="0.5"/><text x="267" y="280" text-anchor="middle" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted">F</text>
 <text x="197" y="280" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">D</text>
 <text x="300" y="235" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">新种群</text>
 <rect x="300" y="250" width="80" height="16" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
@@ -96,7 +96,7 @@
 <text x="402" y="280" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">B</text>
 <rect x="60" y="300" width="480" height="70" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <text x="300" y="320" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">丢失的等位基因</text>
-<text x="300" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C, D 在源种群存在但奠基者未携带</text>
+<text x="300" y="340" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">C–F 在源种群存在但奠基者未携带</text>
 <text x="300" y="358" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Amish · 芬兰 · 太平洋岛屿</text>
 </g>
 </svg>

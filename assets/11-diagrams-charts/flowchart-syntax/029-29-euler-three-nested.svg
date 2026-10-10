@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="三层嵌套" data-name-en="euler-three-nested" data-cat="flowchart-logic" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">三层嵌套 / euler_three_nested</title>
-  <desc id="d-29">欧拉图三层嵌套。关键词: set,euler,nested</desc>
+  <title id="t-29">三层嵌套 / Euler-Three-Nested</title>
+  <desc id="d-29">欧拉图三层嵌套</desc>
   <g id="g-29-三层嵌套">
     <circle cx="120" cy="80" r="70" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="120" cy="80" r="48" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

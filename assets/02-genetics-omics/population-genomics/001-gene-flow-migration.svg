@@ -30,21 +30,25 @@
 <rect x="465.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
 <rect x="475.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
 <rect x="485.0" y="260.0" width="7.0" height="15.0" fill="#E8871E" data-pp="mge" fill-opacity="0.5"/>
-<line x1="158.0" y1="120.0" x2="412.0" y2="120.0" stroke="#E8871E" stroke-width="5" data-pp="mge" stroke-linecap="round"/>
+<defs>
+<marker id="pp06gf-o" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#E8871E" data-pp="mge"/></marker>
+<marker id="pp06gf-g" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,1 L9,5 L0,9 z" fill="#93A0AC" data-pp="muted"/></marker>
+</defs>
+<line x1="158.0" y1="120.0" x2="406.0" y2="120.0" stroke="#E8871E" stroke-width="5" data-pp="mge" stroke-linecap="round" marker-end="url(#pp06gf-o)"/>
 <text x="285.0" y="135.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.10</text>
-<line x1="412.0" y1="120.0" x2="158.0" y2="120.0" stroke="#93A0AC" stroke-width="1.5" data-pp="muted" stroke-linecap="round"/>
-<text x="285.0" y="105.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.01</text>
-<line x1="146.9" y1="146.9" x2="273.1" y2="273.1" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round"/>
+<line x1="412.0" y1="108.0" x2="164.0" y2="108.0" stroke="#93A0AC" stroke-width="1.5" data-pp="muted" stroke-linecap="round" marker-end="url(#pp06gf-g)"/>
+<text x="285.0" y="101.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.01</text>
+<line x1="146.9" y1="146.9" x2="267.6" y2="267.6" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round" marker-end="url(#pp06gf-g)"/>
 <text x="199.4" y="220.6" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.05</text>
-<line x1="273.1" y1="273.1" x2="146.9" y2="146.9" stroke="#93A0AC" stroke-width="2" data-pp="muted" stroke-linecap="round"/>
+<line x1="273.1" y1="273.1" x2="156.4" y2="156.4" stroke="#93A0AC" stroke-width="2" data-pp="muted" stroke-linecap="round" marker-end="url(#pp06gf-g)"/>
 <text x="220.6" y="199.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.02</text>
-<line x1="425.7" y1="149.2" x2="324.3" y2="270.8" stroke="#E8871E" stroke-width="4" data-pp="mge" stroke-linecap="round"/>
+<line x1="425.7" y1="149.2" x2="329.9" y2="263.7" stroke="#E8871E" stroke-width="4" data-pp="mge" stroke-linecap="round" marker-end="url(#pp06gf-o)"/>
 <text x="363.5" y="200.4" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.08</text>
-<line x1="262.0" y1="300.0" x2="158.0" y2="300.0" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round"/>
+<line x1="262.0" y1="300.0" x2="163.5" y2="300.0" stroke="#93A0AC" stroke-width="3" data-pp="muted" stroke-linecap="round" marker-end="url(#pp06gf-g)"/>
 <text x="210.0" y="285.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.04</text>
-<line x1="158.0" y1="300.0" x2="442.0" y2="300.0" stroke="#93A0AC" stroke-width="2.5" data-pp="muted" stroke-linecap="round"/>
-<text x="300.0" y="315.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.03</text>
-<line x1="473.8" y1="262.5" x2="456.2" y2="157.5" stroke="#E8871E" stroke-width="3.5" data-pp="mge" stroke-linecap="round"/>
+<path d="M 158.0,300.0 Q 300.0,400.0 442.0,300.0" fill="none" stroke="#93A0AC" stroke-width="2.5" data-pp="muted" stroke-linecap="round" marker-end="url(#pp06gf-g)"/>
+<text x="300.0" y="372.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.03</text>
+<line x1="473.8" y1="262.5" x2="458.1" y2="163.0" stroke="#E8871E" stroke-width="3.5" data-pp="mge" stroke-linecap="round" marker-end="url(#pp06gf-o)"/>
 <text x="479.8" y="207.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">~0.06</text>
 <rect x="30.0" y="50.0" width="60.0" height="50.0" fill="#FFFFFF" data-pp="white" stroke="#1B2733" stroke-width="0.5"/>
 <text x="60.0" y="65.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Fst</text>

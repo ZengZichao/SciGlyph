@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="运放" data-name-en="opamp-triangle" data-cat="physics-electronics" aria-labelledby="t-26 d-26" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-26">运放 / opamp_triangle</title>
-  <desc id="d-26">运算放大器三角形符号。关键词: 运放,运算放大器,模拟IC</desc>
+  <title id="t-26">运放 / Opamp-Triangle</title>
+  <desc id="d-26">运算放大器三角形符号</desc>
   <g id="g-26-运放">
     <path d="M 30 20 L 30 60 L 80 40 Z" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="10" y1="30" x2="30" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="10" y1="50" x2="30" y2="50" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="80" y1="40" x2="110" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
-    <text x="25" y="33" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
-    <text x="25" y="53" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
+    <text x="36" y="33" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">+</text>
+    <text x="36" y="53" font-size="9" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">-</text>
   </g>
 </svg>

@@ -8,6 +8,7 @@
   <g id="body">
     <path d="M30,20 L30,90 Q30,108 64,108 Q98,108 98,90 L98,20 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <line x1="64" y1="10" x2="64" y2="20" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="64" y1="20" x2="64" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="50" y1="40" x2="78" y2="40" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="50" y1="56" x2="78" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <line x1="64" y1="40" x2="50" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
@@ -22,7 +23,7 @@
     <polygon points="64,114 60,108 68,108" fill="#2B7DE9" stroke="none" data-ls="accent"/>
     <line x1="98" y1="70" x2="112" y2="70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <polygon points="106,70 100,66 100,74" fill="#2B7DE9" stroke="none" data-ls="accent"/>
-    <line x1="64" y1="10" x2="64" y2="14" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="64,12 60,18 68,18" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="80" y1="20" x2="80" y2="8" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="80,12 76,18 84,18" fill="#2B7DE9" stroke="none" data-ls="accent"/>
   </g>
 </svg>

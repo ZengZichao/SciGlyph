@@ -5,11 +5,10 @@
      data-tags="rain,gauge,tipping,bucket,precipitation,雨量筒,翻斗" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">翻斗式雨量筒 / Tipping Bucket Rain Gauge</title>
   <desc id="d">雨量筒：翻斗式。</desc>
-  <g id="body"><path d="M38 14 L30 114 L98 114 L90 14Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+  <g id="body"><path d="M30 14 L38 114 L90 114 L98 14Z" fill="none" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
     <path d="M42 60 L64 68 L86 60" fill="none" stroke="#2B7DE9" stroke-linejoin="round" stroke-width="2" data-ls="accent"/>
     <path d="M64 68 L64 76" stroke="#2B7DE9" stroke-width="2" data-ls="accent"/>
-    <path d="M44 20 L84 20" fill="none" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
-    <path d="M36 80 L92 80" fill="none" opacity="0.4" stroke="#BFE0FF" stroke-width="8" data-ls="liquid"/>
-    <path d="M38 90 L38 100 M42 86 L42 100 M46 90 L46 100" fill="none" stroke="#5A6B7B" stroke-width="0.8" data-ls="thin"/></g>
+    <path d="M32 20 L96 20" fill="none" stroke="#5A6B7B" stroke-width="1" data-ls="thin"/>
+    <path d="M36 80 L92 80" fill="none" opacity="0.4" stroke="#BFE0FF" stroke-width="8" data-ls="liquid"/></g>
   <g id="detail"></g>
 </svg>

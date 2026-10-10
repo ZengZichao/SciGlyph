@@ -3,13 +3,13 @@
      role="img" aria-labelledby="t d"
      data-id="hc-wire-gauze-asbestos-free" data-cat="hc" data-spec="128"
      data-tags="wire-gauze,asbestos-free,ceramic-fiber,tripod,support" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">陶瓷纤维网（石棉网替代）/ Ceramic Fiber Wire Gauze</title>
+  <title id="t">陶瓷纤维网（石棉网替代） / Ceramic Fiber Wire Gauze</title>
   <desc id="d">陶瓷纤维隔热网+三脚架（替代传统石棉网），网格</desc>
-  <g id="body"><rect x="24" y="50" width="80" height="8" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  <g transform="translate(0,-19)" id="body"><rect x="24" y="50" width="80" height="8" rx="1" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M24 108 L32 108 L32 116 L24 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M60 108 L68 108 L68 116 L60 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
     <path d="M96 108 L104 108 L104 116 L96 116 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M28 52 L100 52 M28 54 L100 54 M28 56 L100 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+  <g transform="translate(0,-19)" id="detail"><path d="M28 52 L100 52 M28 54 L100 54 M28 56 L100 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <path d="M32 50 L32 58 M40 50 L40 58 M48 50 L48 58 M56 50 L56 58 M64 50 L64 58 M72 50 L72 58 M80 50 L80 58 M88 50 L88 58 M96 50 L96 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
     <path d="M24 58 L30 108 M104 58 L98 108" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M64 58 L64 108" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>

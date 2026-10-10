@@ -1,28 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
-     class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-57_spacer_source d-57_spacer_source" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" class="pp-icon pp-genes-mge" role="img" aria-labelledby="t-57_spacer_source d-57_spacer_source" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-57_spacer_source">Spacer来源匹配 / Spacer Source Matching</title>
   <desc id="d-57_spacer_source">CRISPR spacer来源: 噬菌体DNA(病毒防御) vs 质粒DNA vs 宿主自身(自免疫)。关键词: CRISPR spacer, phage DNA, plasmid, self vs non-self</desc>
   <defs>
     <marker id="pp57__ar" viewBox="0 0 5 5" refX="4" refY="2.5" markerWidth="4" markerHeight="4" orient="auto">
-      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink"/>
+      <path d="M0,0 L5,2.5 L0,5 z" fill="#1B2733" data-pp="ink" />
     </marker>
     
   </defs>
   <g id="layer-body" data-name="body">
-        <circle cx="25" cy="35" r="10" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
-    <text x="25" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">phage</text>
-        <circle cx="55" cy="35" r="10" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="25" cy="35" r="10" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" />
+    <text x="25" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">phage</text>
+        <circle cx="55" cy="35" r="10" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1" />
     <text x="55" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">plasmid</text>
-        <circle cx="80" cy="35" r="10" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="80" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">self</text>
-        <rect x="15" y="55" width="70" height="12" rx="1" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1"/>
+        <circle cx="80" cy="35" r="10" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
+    <text x="80" y="36.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">self</text>
+        <rect x="15" y="55" width="70" height="12" rx="1" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1" />
     <text x="50.0" y="62.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CRISPR array</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
-        <line x1="25" y1="45" x2="30" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp57__ar)"/>
-        <line x1="55" y1="45" x2="50" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp57__ar)"/>
-    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="35.22" y="80.0">spacer = invader</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="36.98" y="88.26">memory</text>
-    <line x1="50.0" y1="89.9" x2="56.92" y2="89.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="31.71" y="95.64">self-spacer →</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="29.38" y="72.92">autoimmunity</text><line x1="6.68" y1="96.28" x2="4.18" y2="68.88" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+        <line x1="25" y1="45" x2="30" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp57__ar)" />
+        <line x1="55" y1="45" x2="50" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp57__ar)" />
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="50" y="79.0">spacer = invader</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="50" y="86.7">memory</text>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="50" y="94.4">self → autoimmunity</text>
   </g>
 </svg>

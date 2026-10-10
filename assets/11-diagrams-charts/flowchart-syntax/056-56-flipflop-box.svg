@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="D触发器" data-name-en="flipflop-box" data-cat="flowchart-logic" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-56">D触发器 / flipflop_box</title>
-  <desc id="d-56">D触发器符号。关键词: flipflop,d,register</desc>
+  <title id="t-56">D触发器 / Flipflop-Box</title>
+  <desc id="d-56">D触发器符号</desc>
   <g id="g-56-D触发器">
     <rect x="30" y="10" width="60" height="60" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="35" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">D</text>

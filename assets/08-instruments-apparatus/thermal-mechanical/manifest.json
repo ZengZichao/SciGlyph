@@ -853,7 +853,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "thermal-mechanical",
    "canvas": "0 0 128 128",
-   "desc": "铝制加热块，用于恒温孵育",
+   "desc": "四孔铝制加热块，用于恒温孵育",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1027,7 +1027,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "thermal-mechanical",
    "canvas": "0 0 128 128",
-   "desc": "金属模块加热块，截面画3个孔管",
+   "desc": "三孔金属干浴块",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1320,7 +1320,7 @@
   },
   {
    "file": "062-oven-drying-105.svg",
-   "name_zh": "烘箱（105℃）",
+   "name_zh": "烘箱（105°C）",
    "name_en": "Drying Oven (105°C)",
    "tags": [
     "oven",

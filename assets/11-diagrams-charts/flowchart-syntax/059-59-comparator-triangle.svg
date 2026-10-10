@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="比较器" data-name-en="comparator-triangle" data-cat="flowchart-logic" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-59">比较器 / comparator_triangle</title>
-  <desc id="d-59">比较器三角符号。关键词: comparator,triangle</desc>
+  <title id="t-59">比较器 / Comparator-Triangle</title>
+  <desc id="d-59">比较器三角符号</desc>
   <g id="g-59-比较器">
     <polygon points="20,15 100,40 20,65" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="5" y1="30" x2="20" y2="30" stroke="#1f2937" stroke-width="1.5"/>

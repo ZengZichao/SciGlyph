@@ -23,6 +23,6 @@
   </g>
   <g id="layer-annotation-amg" data-name="annotation">
     <text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="41.73" y="85.0">auxiliary metabolic</text><text font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-size="7" x="43.9" y="93.26">genes</text>
-    <text x="39.56" y="57.64" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">(psbA, psbD, etc.)</text><line x1="14.61" y1="91.17" x2="1.2" y2="53.6" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text x="39.56" y="57.64" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">(psbA, psbD, etc.)</text><line x1="14.61" y1="80.0" x2="12.0" y2="46.0" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
   </g>
 </svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="KM生存曲线" data-name-en="Survival Steps" data-cat="charts-plots" aria-labelledby="t-45 d-45" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-45">KM生存曲线 / survival_steps</title>
-  <desc id="d-45">Kaplan-Meier阶梯生存曲线。关键词: survival,kaplan,meier</desc>
+  <title id="t-45">KM生存曲线 / Survival Steps</title>
+  <desc id="d-45">Kaplan-Meier阶梯生存曲线</desc>
   <g id="g-45-KM生存曲线">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="瘤胃发酵" data-name-en="Rumen Fermentation" data-cat="05-eco-seq" data-tags="瘤胃,反刍动物,发酵,网状组织,纤维降解" role="img" aria-labelledby="t-09-rumen d-09-rumen" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-09-rumen">瘤胃发酵 / Rumen Fermentation</title>
-  <desc id="d-09-rumen">瘤胃内植物纤维在网胃-瘤胃复合体的蜂窝状内衬与微生物作用下发酵降解，顶部产气与底部挥发性脂肪酸同时生成。关键词: 瘤胃, 反刍动物, 发酵, 网状组织, 纤维降解</desc>
+  <desc id="d-09-rumen">瘤胃内植物纤维在网胃-瘤胃复合体的蜂窝状内衬与微生物作用下发酵降解，顶部产气与底部挥发性脂肪酸同时生成</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 瘤胃壁 -->
   <path d="M14 26 C4 48 8 88 34 102 C62 116 96 108 110 84 C118 66 114 36 100 22 C84 6 28 8 14 26 Z" fill="#B7D7E8" fill-opacity="0.18" stroke="#1F6F8B" stroke-width="2"/>

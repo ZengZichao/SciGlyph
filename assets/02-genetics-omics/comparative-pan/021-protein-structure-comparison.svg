@@ -14,7 +14,7 @@
   <polygon points="90,140 120,140 115,160 95,160" fill="#6C3FA0" data-pp="gene"/>
   <polygon points="140,140 170,140 165,160 145,160" fill="#6C3FA0" data-pp="gene"/>
   <polygon points="190,140 220,140 215,160 195,160" fill="#6C3FA0" data-pp="gene"/>
-  <text x="150" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">ααβ αβ α</text>
+  <text x="150" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">4 α-helices · 3 β-strands</text>
 </g>
 <g data-name="protein-b">
   <text x="440" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Protein B (homolog)</text>
@@ -24,7 +24,7 @@
   <polygon points="380,140 410,140 405,160 385,160" fill="#6C3FA0" data-pp="gene"/>
   <polygon points="430,140 460,140 455,160 435,160" fill="#6C3FA0" data-pp="gene"/>
   <polygon points="480,140 510,140 505,160 485,160" fill="#6C3FA0" data-pp="gene"/>
-  <text x="440" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">αβα βα α</text>
+  <text x="440" y="190" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" text-anchor="middle" data-pp="muted">3 α-helices · 3 β-strands</text>
 </g>
 <g data-name="classification">
   <text x="150" y="240" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">SCOP: c.1.2.1</text>
@@ -35,7 +35,7 @@
   <rect x="180" y="320" width="25" height="10" fill="#2E86AB" data-pp="bacteria" rx="5"/>
   <text x="220" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">α-helix</text>
   <polygon points="320,320 345,320 340,335 325,335" fill="#6C3FA0" data-pp="gene"/>
-  <text x="355" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">β-sheet</text>
+  <text x="355" y="330" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">β-strand</text>
 </g>
 <text x="300" y="30" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Protein Structure — Fold Classification (schematic)</text>
 </svg>

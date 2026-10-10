@@ -3,9 +3,12 @@
      role="img" aria-labelledby="t d"
      data-id="st-volumetric-bottle-cap" data-cat="st" data-spec="128"
      data-tags="volumetric,bottle,cap,standard,solution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">容量瓶(带塞) / Volumetric Bottle with Cap</title>
+  <title id="t">容量瓶(带塞) / Volumetric Flask with Ground Stopper"（容量瓶=volumetric flask，"Bottle" 术语错误；</title>
   <desc id="d">带磨口塞容量瓶，储存标准溶液。</desc>
-  <g id="body"><path d="M58 10 L58 42 L28 90 Q22 108 40 112 L88 112 Q106 108 100 90 L70 42 L70 10 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><path d="M34 88 Q28 106 42 110 L86 110 Q100 106 94 88 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/><path d="M58 32 L70 32" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/><path d="M56 8 L56 14 L72 14 L72 8 Q68 6 64 6 Q60 6 56 8 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  
+  <g id="body"><path d="M57 22 L57 54 C44 58 26 72 26 90 L26 96 Q26 112 44 112 L84 112 Q102 112 102 96 L102 90 C102 72 84 58 71 54 L71 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
+  <g id="detail"><path d="M58.5 37 L69.5 37 L69.5 54 C83 58 100 72 100 90 L100 95 Q100 110 84 110 L44 110 Q28 110 28 95 L28 90 C28 72 45 58 58.5 54 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/>
+    <path d="M57 36 L71 36" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="2" data-ls="thin"/>
+    <path d="M55 12 L73 12 L70 28 L58 28 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="52" y="6" width="24" height="9" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <path d="M58 18 L62 14 M62 24 L68 18 M66 26 L70 22" fill="none" opacity="0.6" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/></g>
 </svg>

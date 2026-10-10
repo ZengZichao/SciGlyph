@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="路由器" data-name-en="Node Router" data-cat="diagrams-sw-uml" aria-labelledby="t-59 d-59" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-59">路由器 / node_router</title>
-  <desc id="d-59">路由器图标。关键词: router,network,node</desc>
+  <title id="t-59">路由器 / Node Router</title>
+  <desc id="d-59">路由器图标</desc>
   <g id="g-59-路由器">
     <rect x="20" y="30" width="80" height="30" rx="6" ry="6" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="40" cy="45" r="3" fill="#009E73" data-drole="series-1"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆环" data-name-en="Annulus" data-cat="geometry-math" aria-labelledby="t-19 d-19" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-19">圆环 / annulus</title>
-  <desc id="d-19">标注内外半径R和r。关键词: annulus,ring,geometry</desc>
+  <title id="t-19">圆环 / Annulus</title>
+  <desc id="d-19">标注内外半径R和r</desc>
   <g id="g-19-圆环">
     <circle cx="60" cy="60" r="48" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="60" cy="60" r="25" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

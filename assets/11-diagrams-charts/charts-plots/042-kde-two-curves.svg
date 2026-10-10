@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="双KDE曲线" data-name-en="KDE Two Curves" data-cat="charts-plots" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">双KDE曲线 / kde_two_curves</title>
-  <desc id="d-42">两条核密度估计曲线。关键词: kde,density,two</desc>
+  <title id="t-42">双KDE曲线 / Kde Two Curves</title>
+  <desc id="d-42">两条核密度估计曲线</desc>
   <g id="g-42-双KDE曲线">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.8 -9.5 259.4 178.6" width="240" height="160" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="多数共识树" data-name-en="Majority-rule consensus tree" data-cat="04-phylo" data-tags="共识树,多数规则,majority-rule,未解析,collapse" aria-labelledby="t-19-consensus-tree d-19-consensus-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1.8 -9.5 259.4 178.6" width="240" height="165.2" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" role="img" data-name-zh="多数共识树" data-name-en="Majority-rule consensus tree" data-cat="04-phylo" data-tags="共识树,多数规则,majority-rule,未解析,collapse" aria-labelledby="t-19-consensus-tree d-19-consensus-tree" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-19-consensus-tree">多数共识树 / Majority-rule consensus tree</title>
-  <desc id="d-19-consensus-tree">多数共识树：出现频率 &lt;50% 的分支折叠为虚线未解析分支，节点值表示该支序在重复重建中出现的频率百分比。关键词: 共识树, 多数规则, majority-rule, 未解析, collapse</desc>
+  <desc id="d-19-consensus-tree">多数共识树：出现频率 &lt;50% 的分支折叠为虚线未解析分支，节点值表示该支序在重复重建中出现的频率百分比</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="6.9" y="-0.6" width="242.1" height="160.7" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

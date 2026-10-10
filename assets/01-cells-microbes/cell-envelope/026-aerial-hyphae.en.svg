@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-aerial_hyphae d-aerial_hyphae" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-aerial_hyphae">Aerial hyphae</title>
-  <desc id="d-aerial_hyphae">Aerial hypha with substrate mycelium and spore chain with septation 关键词: aerial hyphae, spore, septation</desc>
+  <desc id="d-aerial_hyphae">Aerial hypha with substrate mycelium and spore chain with septation</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M15,65 Q30,60 45,65 Q60,60 75,65" fill="#2E86AB" stroke="#2E86AB" stroke-width="2" stroke-linecap="round" data-pp="bacteria"/>

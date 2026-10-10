@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="警告三角" data-name-en="warning_triangle" data-cat="basic-icons-ui" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">警告三角 / warning_triangle</title>
-  <desc id="d-47">警告与注意图标。关键词: 警告,三角,warning,triangle</desc>
+  <title id="t-47">警告三角 / Warning_Triangle</title>
+  <desc id="d-47">警告与注意图标</desc>
   <g id="g-47-警告三角">
     <polygon points="24,6 44,40 4,40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <line x1="24" y1="18" x2="24" y2="30" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

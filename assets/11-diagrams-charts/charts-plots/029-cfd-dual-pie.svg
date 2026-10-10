@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="漏斗双饼图" data-name-en="CFD Dual Pie" data-cat="charts-plots" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">漏斗双饼图 / cfd_dual_pie</title>
-  <desc id="d-29">漏斗式双饼对比。关键词: pie,dual,funnel</desc>
+  <title id="t-29">漏斗双饼图 / Cfd Dual Pie</title>
+  <desc id="d-29">漏斗式双饼对比</desc>
   <g id="g-29-漏斗双饼图">
     <path d="M130,160 L130.0,90.0 A70,70 0 0 1 130.0,230.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <path d="M130,160 L130.0,230.0 A70,70 0 0 1 69.4,125.0 Z" fill="#009E73" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

@@ -21,6 +21,6 @@
   </g>
   <g id="layer-annotation-p22_phage" data-name="annotation">
     <text x="72" y="30" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">P22</text>
-    <line x1="60.0" y1="57.9" x2="51.76" y2="57.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="60.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">tail spikes</text>
+    <line x1="60.0" y1="67.9" x2="51.76" y2="67.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="51.76" y="70.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">tail spikes</text>
   </g>
 </svg>

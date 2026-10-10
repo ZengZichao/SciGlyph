@@ -43,10 +43,10 @@
 <line x1="165" y1="130" x2="185" y2="290" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
 <line x1="245" y1="100" x2="265" y2="260" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
 <line x1="325" y1="80" x2="345" y2="240" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="3,3"/>
-<rect x="440" y="45" width="130" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
-<text x="505" y="62" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">抗性基因</text>
-<text x="505" y="78" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">R基因 · CRISPR</text>
-<text x="505" y="93" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">限制修饰</text>
+<rect x="440" y="110" width="130" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="505" y="127" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle" font-weight="bold">抗性基因</text>
+<text x="505" y="143" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">R基因 · CRISPR</text>
+<text x="505" y="158" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">限制修饰</text>
 <rect x="440" y="345" width="130" height="40" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <text x="505" y="362" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle" font-weight="bold">毒力基因</text>
 <text x="505" y="378" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">效应蛋白 · 毒素</text>

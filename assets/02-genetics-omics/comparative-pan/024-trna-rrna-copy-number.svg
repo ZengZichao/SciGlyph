@@ -34,10 +34,10 @@
   <text x="497" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Sp6</text>
 </g>
 <g data-name="legend">
-  <rect x="420" y="70" width="12" height="12" fill="#6C3FA0" data-pp="gene"/>
-  <text x="440" y="80" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">tRNA</text>
-  <rect x="420" y="90" width="12" height="12" fill="#00857A" data-pp="metabolism"/>
-  <text x="440" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">rRNA</text>
+  <rect x="95" y="58" width="12" height="12" fill="#6C3FA0" data-pp="gene"/>
+  <text x="115" y="68" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">tRNA</text>
+  <rect x="95" y="78" width="12" height="12" fill="#00857A" data-pp="metabolism"/>
+  <text x="115" y="88" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">rRNA</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">tRNA/rRNA Copy Number Comparison (schematic)</text>
 </svg>

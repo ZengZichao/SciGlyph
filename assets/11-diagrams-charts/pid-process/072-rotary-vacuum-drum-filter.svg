@@ -4,17 +4,26 @@
      data-id="uo-rotary-vacuum-drum-filter" data-cat="uo" data-spec="128"
      data-tags="filter,rotary,vacuum,drum,continuous" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">转鼓真空过滤机 / Rotary Vacuum Drum Filter</title>
-  <desc id="d">转鼓真空过滤机，旋转圆鼓。</desc>
+  <desc id="d">转鼓真空过滤机剖面：转鼓部分浸入料浆槽，鼓面滤饼由刮刀卸料，滤液经中心轴自顶部真空口排出。</desc>
   <g id="body">
-    <ellipse cx="64" cy="64" rx="40" ry="40" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-    <ellipse cx="64" cy="64" rx="28" ry="28" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <line x1="64" y1="24" x2="64" y2="36" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="64" y1="92" x2="64" y2="104" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="24" y1="64" x2="36" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="92" y1="64" x2="104" y2="64" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <line x1="64" y1="10" x2="64" y2="24" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
-    <polygon points="64,16 60,22 68,22" fill="#2B7DE9" stroke="none" data-ls="accent"/>
-    <path d="M44,44 L84,84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
-    <path d="M84,44 L44,84" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M26,72 L26,82 Q26,102 64,102 Q102,102 102,82 L102,72 Z" fill="#2B7DE9" opacity="0.25" stroke="none" data-ls="accent"/>
+    <path d="M26,66 L26,82 Q26,102 64,102 Q102,102 102,82 L102,66" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <line x1="6" y1="76" x2="20" y2="76" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="26,76 20,72 20,80" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <circle cx="64" cy="60" r="32" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <path d="M93.66,71.98 A32,32 0 0 0 86.63,37.37 L90.87,33.13 A38,38 0 0 1 99.23,74.23 Z" fill="#FFFFFF" stroke="#5A6B7B" stroke-linejoin="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="97" y1="60" x2="101" y2="60" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="95.88" y1="51.46" x2="99.72" y2="50.43" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <line x1="92.58" y1="43.5" x2="96.04" y2="41.5" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M88.66,24.77 L102.29,38.51 L96.95,45.23 L85.22,29.69 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="107" y1="44" x2="107" y2="56" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="107,62 103,54 111,54" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+    <line x1="64" y1="60" x2="64" y2="25" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <circle cx="64" cy="60" r="4.5" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <path d="M57.16,41.21 A20,20 0 0 0 46.68,50" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <polygon points="44.68,53.46 50.28,49.76 45.08,46.76" fill="#5A6B7B" stroke="none" data-ls="thin"/>
+    <rect x="52" y="14" width="24" height="11" rx="1" ry="1" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+    <line x1="64" y1="14" x2="64" y2="10" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
+    <polygon points="64,4 60,10 68,10" fill="#2B7DE9" stroke="none" data-ls="accent"/>
   </g>
 </svg>

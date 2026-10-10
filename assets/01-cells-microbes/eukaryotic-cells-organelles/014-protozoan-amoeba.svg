@@ -1,11 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="变形虫" data-name-en="Protozoan Amoeba" data-cat="natural-sciences" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">变形虫 / protozoan_amoeba</title>
-  <desc id="d-47">展示变形虫形态。关键词: amoeba,protozoan,pseudopod</desc>
+  <title id="t-47">变形虫 / Amoeba</title>
+  <desc id="d-47">展示变形虫形态</desc>
   <g id="g-47-变形虫">
-    <path d="M40,50 C50,35 70,30 85,40 C100,50 105,70 95,85 C85,100 65,105 50,95 C35,85 30,65 40,50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
-    <circle cx="60" cy="60" r="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
-    <circle cx="75" cy="75" r="5" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
-    <circle cx="50" cy="80" r="4" fill="#D55E00" stroke="none" stroke-dasharray="6 3" data-drole="series-2"/>
-    <path d="M90,50 C95,45 100,48 105,55" fill="none" stroke="#6b7280" stroke-width="0.75" stroke-dasharray="4 3"/>
+    <path d="M56 14C70 14 68 30 74 38C82 46 100 24 118 22C134 20 148 26 144 40C140 54 118 52 112 64C106 76 124 84 130 96C134 106 118 110 104 100C92 92 90 82 84 84C76 86 62 96 52 102C40 110 30 98 36 84C40 74 44 76 40 72C34 66 18 66 14 54C10 42 24 42 32 34C40 26 44 14 56 14Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
+    <path d="M60.6 23.4C71.8 23.4 70.2 36.2 75 42.6C81.4 49 95.8 31.4 110.2 29.8C123 28.2 134.2 33 131 44.2C127.8 55.4 110.2 53.8 105.4 63.4C100.6 73 115 79.4 119.8 89C123 97 110.2 100.2 99 92.2C89.4 85.8 87.8 77.8 83 79.4C76.6 81 65.4 89 57.4 93.8C47.8 100.2 39.8 90.6 44.6 79.4C47.8 71.4 51 73 47.8 69.8C43 65 30.2 65 27 55.4C23.8 45.8 35 45.8 41.4 39.4C47.8 33 51 23.4 60.6 23.4Z" fill="#6b7280" fill-opacity="0.3" stroke="#6b7280" stroke-width="1"/>
+    <circle cx="48" cy="44" r="1.5" fill="#6b7280"/><circle cx="96" cy="42" r="1.5" fill="#6b7280"/>
+    <circle cx="129" cy="42" r="1.5" fill="#6b7280"/><circle cx="92" cy="58" r="1.5" fill="#6b7280"/>
+    <circle cx="52" cy="72" r="1.5" fill="#6b7280"/><circle cx="66" cy="80" r="1.5" fill="#6b7280"/>
+    <circle cx="86" cy="70" r="1.5" fill="#6b7280"/><circle cx="44" cy="58" r="1.5" fill="#6b7280"/>
+    <circle cx="60" cy="34" r="1.5" fill="#6b7280"/><circle cx="76" cy="50" r="1.5" fill="#6b7280"/>
+    <circle cx="62" cy="54" r="13" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
+    <circle cx="65" cy="51" r="3.5" fill="#1f2937"/>
+    <circle cx="118" cy="40" r="7.5" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-2"/>
+    <circle cx="58" cy="84" r="5" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-2"/>
+    <circle cx="98" cy="50" r="5" fill="#D55E00" stroke="#1f2937" stroke-width="1.2" data-drole="series-2"/>
   </g>
 </svg>

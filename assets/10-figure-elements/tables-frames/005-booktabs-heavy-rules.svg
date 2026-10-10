@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="加粗首末线" data-name-en="booktabs-heavy-rules" data-cat="tables-frames" aria-labelledby="t-05 d-05" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-05">加粗首末线 / booktabs_heavy_rules</title>
-  <desc id="d-05">booktabs风格加粗首末线。关键词: booktabs,粗线,表格</desc>
+  <title id="t-05">加粗首末线 / Booktabs-Heavy-Rules</title>
+  <desc id="d-05">booktabs风格加粗首末线</desc>
   <g id="g-05-加粗首末线">
     <line x1="40" y1="40" x2="280" y2="40" stroke="#1f2937" stroke-width="3" fill="none"/>
     <line x1="40" y1="70" x2="280" y2="70" stroke="#1f2937" stroke-width="1.5" fill="none"/>

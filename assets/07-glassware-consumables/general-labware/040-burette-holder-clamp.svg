@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="滴定管夹" data-name-en="burette_holder_clamp" data-cat="lab-equipment" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">滴定管夹 / burette_holder_clamp</title>
-  <desc id="d-42">固定夹持滴定管。关键词: 滴定管夹,clamp,固定,滴定</desc>
-  <g id="g-42-滴定管夹">
+  <title id="t-42">滴定管夹 / Burette_Holder_Clamp</title>
+  <desc id="d-42">固定夹持滴定管</desc>
+  <g id="g-42-滴定管夹" transform="translate(16.5,0)">
     <rect x="20" y="15" width="6" height="95" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="26" y="45" width="30" height="6" rx="1" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 56 38 L 70 38 L 72 35 L 72 58 L 70 55 L 56 55 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

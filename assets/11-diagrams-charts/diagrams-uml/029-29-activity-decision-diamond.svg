@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="决策菱形" data-name-en="Activity Decision Diamond" data-cat="diagrams-sw-uml" aria-labelledby="t-29 d-29" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-29">决策菱形 / activity_decision_diamond</title>
-  <desc id="d-29">活动图菱形判断节点。关键词: decision,diamond,branch</desc>
+  <title id="t-29">决策菱形 / Activity Decision Diamond</title>
+  <desc id="d-29">活动图菱形判断节点</desc>
   <g id="g-29-决策菱形">
     <polygon points="60,10 100,40 60,70 20,40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="60" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">?</text>

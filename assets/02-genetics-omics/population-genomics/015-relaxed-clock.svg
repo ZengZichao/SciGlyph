@@ -25,6 +25,7 @@
   <text x="500" y="104" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">slow</text>
   <line x1="450" y1="120" x2="490" y2="120" stroke="#C42D2D" stroke-width="4.5" data-pp="alert"/>
   <text x="500" y="124" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">fast</text>
+<line x1="450" y1="134" x2="490" y2="134" stroke="#E8871E" stroke-width="3" data-pp="mge"/>
 <text x="500" y="138" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">intermediate</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Relaxed Molecular Clock — Variable Rates (schematic)</text>

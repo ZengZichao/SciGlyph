@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="三层数据库" data-name-en="db-cylinder-stack" data-cat="flowchart-logic" aria-labelledby="t-64 d-64" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-64">三层数据库 / db_cylinder_stack</title>
-  <desc id="d-64">三层堆叠数据库。关键词: database,stack,cylinder</desc>
+  <title id="t-64">三层数据库 / Db-Cylinder-Stack</title>
+  <desc id="d-64">三层堆叠数据库</desc>
   <g id="g-64-三层数据库">
     <path d="M25,10 Q60,2 95,10 L95,25 Q60,33 25,25 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <path d="M25,25 Q60,33 95,25" fill="none" stroke="#1f2937" stroke-width="1.5"/>

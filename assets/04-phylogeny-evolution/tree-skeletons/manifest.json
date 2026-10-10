@@ -74,8 +74,8 @@
    "format": "diagram",
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
-   "canvas": "-26.4 -14.2 148.2 148.2",
-   "desc": "8 个叶端按 30° 等角度分布、根位于圆心，分支沿半径逐级向外辐射（16/32/48），虚线弧沿叶端圆标示环状排序",
+   "canvas": "0 0 120 120",
+   "desc": "8 个叶端按 45° 等角度均分绕圆心一整圈，根位于圆心，分支沿半径逐级向外辐射（16/32/48），虚线圆沿叶端圆标示环状排序。关键词: 放射树, 圆周, 扇形, 叶端角度均分, radial",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -845,7 +845,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 FastTree/IQ-TREE 输出使用。矩形枝杈树(cladogram)，枝长不代表进化距离(替换数)或时间。 关键词: phylogenetic tree, rect cladogram, Rectangular, FastTree, IQ-TREE, skeleton template",
+   "desc": "骨架，配合 FastTree/IQ-TREE 输出使用。矩形枝杈树(cladogram)，枝长不代表进化距离(替换数)或时间，全部叶端右端对齐。 关键词: phylogenetic tree, rect cladogram, Rectangular, FastTree, IQ-TREE, skeleton template",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -871,7 +871,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 IQ-TREE/GTDB-Tk 输出使用。枝长正比于替换数/位点(subs/site)。 关键词: phylogenetic tree, rect phylogram, Rectangular, IQ-TREE, GTDB-Tk, skeleton template",
+   "desc": "骨架，配合 IQ-TREE/GTDB-Tk 输出使用。枝长正比于替换数/位点(subs/site)，比例尺 100 px = 0.1 subs/site。 关键词: phylogenetic tree, rect phylogram, Rectangular, IQ-TREE, GTDB-Tk, skeleton template",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -897,7 +897,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 MCMCTree/BEAST 输出使用。枝长正比于百万年(Ma)。 关键词: phylogenetic tree, rect time tree, Time-calibrated, MCMCTree, BEAST, skeleton template",
+   "desc": "…枝长正比于百万年(Ma)，横轴为时间轴，节点给出95% HPD枝龄区间。…",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -997,7 +997,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 IQ-TREE/RAxML 输出使用。方框树带bootstrap值位置示意。 关键词: phylogenetic tree, boxtree bootstrap, IQ-TREE, RAxML, skeleton template",
+   "desc": "…方框树：虚线框标出命名支(Clade A/B/B1)，节点旁给bootstrap自展值。…",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1023,7 +1023,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 FastTree midpoint rooting 使用。中点根法确定树根位置。 关键词: phylogenetic tree, midpoint rooted, Midpoint-rooted, FastTree, rooting, skeleton template",
+   "desc": "…以最长tip-to-tip路径的中点确定树根位置。…",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1101,7 +1101,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合Williams et al. 2013 (Nature 504:231-236)使用。两域假说：真核生物起源于Asgard古菌内。 关键词: phylogenetic tree, eocyte hypothesis, Williams, Asgard, two-domain, skeleton template",
+   "desc": "骨架，配合Williams et al. 2013 (Nature 504:231-236)使用。两域假说：真核生物起源于古菌内部，与TACK(eocyte)支构成姐妹群。 关键词: phylogenetic tree, eocyte hypothesis, Williams, TACK, two-domain, skeleton template",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1179,7 +1179,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合GTDB-Tk输出使用。简化GTDB门级系统发育树(9个门，各以2个tip示意)。 关键词: phylogenetic tree, gtdb phylum tree, Phylum-level, GTDB-Tk, skeleton template, phylogenetics",
+   "desc": "…简化GTDB门级系统发育树(9个门，每门1个tip，门名用GTDB全称)。…\"（图内已取消 Ac/Fi/Pr 缩略码）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

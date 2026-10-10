@@ -6,7 +6,7 @@
     
     <rect x="25" y="35" width="50" height="30" rx="15" ry="15" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" />
     
-    <rect x="40" y="45" width="20" height="8" rx="2" ry="2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" />
+    <rect x="32" y="45" width="36" height="8" rx="2" ry="2" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1" />
     <text x="50" y="52" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">prophage</text>
     
     <circle cx="38" cy="42" r="3" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" />

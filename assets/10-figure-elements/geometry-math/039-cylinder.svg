@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="圆柱" data-name-en="Cylinder" data-cat="geometry-math" aria-labelledby="t-39 d-39" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-39">圆柱 / cylinder</title>
-  <desc id="d-39">标注半径r和高h。关键词: cylinder,solid,geometry</desc>
+  <title id="t-39">圆柱 / Cylinder</title>
+  <desc id="d-39">标注半径r和高h</desc>
   <g id="g-39-圆柱">
     <ellipse cx="60" cy="25" rx="35" ry="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line fill="none" x1="25" y1="25" x2="25" y2="95" stroke="#1f2937" stroke-width="1.5"/>

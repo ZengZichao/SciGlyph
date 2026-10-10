@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" data-name-zh="环形图" data-name-en="Donut 3 Seg" data-cat="charts-plots" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-16">环形图 / donut_3seg</title>
-  <desc id="d-16">三段环形图。关键词: donut,ring,three</desc>
+  <title id="t-16">环形图 / Donut 3 Seg</title>
+  <desc id="d-16">三段环形图</desc>
   <g id="g-16-环形图">
     <path d="M120.0,30.0 A90,90 0 0 1 197.9,165.0 L163.3,145.0 A50,50 0 0 0 120.0,70.0 Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="181" y="88" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">A</text>

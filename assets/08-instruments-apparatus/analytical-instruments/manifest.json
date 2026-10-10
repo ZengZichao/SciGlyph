@@ -1082,7 +1082,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "analytical-instruments",
    "canvas": "0 0 128 128",
-   "desc": "动态光散射粒度分析仪：激光→样品池→光电探测器→自相关器。",
+   "desc": "动态光散射粒度分析仪：激光→样品池→90°散射→光电探测器→自相关器。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

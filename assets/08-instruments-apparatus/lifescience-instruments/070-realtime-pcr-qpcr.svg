@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-realtime-pcr-qpcr" data-cat="ls" data-spec="128" data-tags="qpcr,realtime,pcr,fluorescence,quantitative,amplification" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-realtime-pcr-qpcr" data-cat="ls" data-spec="128" data-tags="qpcr,realtime,pcr,fluorescence,quantitative,amplification" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">实时荧光定量PCR仪 / Real-time PCR (qPCR)</title>
   <desc id="d">实时荧光定量PCR仪：96/384孔板、多通道荧光检测。</desc>
   <g id="body">

@@ -22,6 +22,6 @@
         <line x1="65" y1="38" x2="65" y2="55" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp53__ar)"/>
     <text x="20" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Na⁺</text>
     <text x="75" y="42" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H⁺</text>
-    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="28.71" y="92.0">Na⁺ cycle, pH</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="29.38" y="72.92">homeostasis</text><line x1="8.78" y1="96.28" x2="6.28" y2="68.88" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="28.71" y="92.0">Na⁺ cycle, pH</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="29.38" y="72.92">homeostasis</text>
   </g>
 </svg>

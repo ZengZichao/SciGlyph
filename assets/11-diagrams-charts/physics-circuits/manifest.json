@@ -639,7 +639,7 @@
    "category": "11-diagrams-charts",
    "subdir": "physics-circuits",
    "canvas": "0 0 120 80",
-   "desc": "差分晶体管对符号",
+   "desc": "差分对：两管独立基极输入、共发射极汇流条接尾电流源并接地，集电极为两个差分输出端",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1339,7 +1339,7 @@
   {
    "file": "060-60-pulley-block.svg",
    "name_zh": "滑轮组",
-   "name_en": "Pulley-Block",
+   "name_en": "Fixed Pulley",
    "tags": [
     "滑轮",
     "力学",
@@ -1354,7 +1354,7 @@
    "category": "11-diagrams-charts",
    "subdir": "physics-circuits",
    "canvas": "0 0 320 240",
-   "desc": "滑轮组力学示意图",
+   "desc": "滑轮组（一定一动）受力示意图：绳自固定端绕过动滑轮与定滑轮，n=2，F=mg/2",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1876,7 +1876,7 @@
    "category": "11-diagrams-charts",
    "subdir": "physics-circuits",
    "canvas": "0 0 128 128",
-   "desc": "直流稳压电源：电压/电流双路数显+粗调细调+输出端子+四线补偿。",
+   "desc": "直流稳压电源：电压/电流双路数显+粗调细调+输出端子。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

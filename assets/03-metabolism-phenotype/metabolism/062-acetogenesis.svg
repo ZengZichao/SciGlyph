@@ -21,7 +21,7 @@
         <line x1="20" y1="45" x2="30" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp62__ar)"/>
         <line x1="55" y1="45" x2="71" y2="45" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp62__ar)"/>
     <text x="42" y="30" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">4H₂+2CO₂</text>
-    <line x1="50.0" y1="67.9" x2="59.09" y2="67.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="33.05" y="70.0">Clostridium,</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="30.88" y="78.26">Acetobacterium</text>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="33.05" y="70.0">Clostridium,</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" font-size="7" x="30.88" y="78.26">Acetobacterium</text>
     <text x="51.41" y="85.99" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">homoacetogenesis</text>
   </g>
 </svg>

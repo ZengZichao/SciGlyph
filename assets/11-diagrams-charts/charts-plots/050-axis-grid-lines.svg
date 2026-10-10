@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="网格底图" data-name-en="Axis Grid Lines" data-cat="charts-plots" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-50">网格底图 / axis_grid_lines</title>
-  <desc id="d-50">浅网格底图。关键词: axis,grid,background</desc>
+  <title id="t-50">网格底图 / Axis Grid Lines</title>
+  <desc id="d-50">浅网格底图</desc>
   <g id="g-50-网格底图">
     <line x1="76" y1="15" x2="76" y2="115" stroke="#e5e7eb" stroke-width="0.75"/>
     <line x1="122" y1="15" x2="122" y2="115" stroke="#e5e7eb" stroke-width="0.75"/>

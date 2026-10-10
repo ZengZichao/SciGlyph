@@ -35,7 +35,7 @@
       <circle cx="100" cy="58" r="3"/>
       <circle cx="100" cy="78" r="3"/>
     </g>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="13" y="43" text-anchor="middle" font-size="9" fill="#2B3A42">Root</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="17" y="43" text-anchor="middle" font-size="9" fill="#2B3A42">Root</text>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="62" y="100" text-anchor="middle" font-size="9" fill="#5B6B73">OUTGROUP</text>
   </g>
 </svg>

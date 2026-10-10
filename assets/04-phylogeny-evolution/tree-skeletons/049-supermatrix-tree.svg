@@ -5,50 +5,83 @@
   <desc id="d-17">骨架，配合PhyloPhlAn/CheckM使用。标记基因串联(supermatrix/超级矩阵法)后建树；注意supermatrix(先串联后建树)不同于supertree(先分别建树再合成)。 关键词: phylogenetic tree, supermatrix, concatenated, PhyloPhlAn, CheckM, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp17__clades" data-name="clade-shading">
-    <rect x="102.7" y="24.0" width="61.3" height="118.7" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="102.7" y="184.0" width="61.3" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="174" y="24" width="248" height="174" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.10" data-name="clade-A"/>
+    <rect x="174" y="204" width="248" height="92" fill="#A2305B" data-pp="archaea" fill-opacity="0.10" data-name="clade-B"/>
   </g>
   <g id="pp17__branches" data-name="branches">
-    <line x1="80.0" y1="70.0" x2="80.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="83.3" x2="133.3" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="216.7" x2="106.7" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="190.0" x2="133.3" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="296.7" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="83.3" x2="160.0" y2="83.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="136.7" x2="160.0" y2="136.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="270.0" x2="106.7" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="216.7" x2="133.3" y2="216.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="190.0" x2="160.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="243.3" x2="160.0" y2="243.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="323.3" x2="133.3" y2="323.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="296.7" x2="160.0" y2="296.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="94.5" x2="90.0" y2="243.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="54.0" x2="180.0" y2="135.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="216.0" x2="180.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="36.0" x2="270.0" y2="72.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="108.0" x2="270.0" y2="162.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="252.0" x2="270.0" y2="288.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="144.0" x2="345.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="94.5" x2="180.0" y2="94.5" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="243.0" x2="180.0" y2="243.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="54.0" x2="270.0" y2="54.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="135.0" x2="270.0" y2="135.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="216.0" x2="420.0" y2="216.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="180.0" y1="270.0" x2="270.0" y2="270.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="36.0" x2="420.0" y2="36.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="72.0" x2="420.0" y2="72.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="108.0" x2="420.0" y2="108.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="162.0" x2="345.0" y2="162.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="144.0" x2="420.0" y2="144.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="345.0" y1="180.0" x2="420.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="252.0" x2="420.0" y2="252.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="270.0" y1="288.0" x2="420.0" y2="288.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
   </g>
   <g id="pp17__nodes" data-name="nodes">
-    <circle cx="80.0" cy="170.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="110.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="270.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="216.7" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="323.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="90.0" cy="168.8" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="86.0" y="161.8" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">97/100</text>
+    <circle cx="180.0" cy="94.5" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="176.0" y="87.5" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">82/99</text>
+    <circle cx="180.0" cy="243.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="176.0" y="236.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">91/100</text>
+    <circle cx="270.0" cy="54.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="266.0" y="47.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">64/91</text>
+    <circle cx="270.0" cy="135.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="266.0" y="128.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">99/100</text>
+    <circle cx="270.0" cy="270.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="266.0" y="263.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">73/95</text>
+    <circle cx="345.0" cy="162.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <text x="341.0" y="155.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">45/72</text>
+    <text x="180.0" y="190.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Clade I</text>
+    <text x="180.0" y="296.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Clade II</text>
   </g>
   <g id="pp17__labels" data-name="tip-labels">
-    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpC</text>
-    <text x="165.0" y="86.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpA</text>
-    <text x="165.0" y="139.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpB</text>
-    <text x="165.0" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpD</text>
-    <text x="165.0" y="246.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpE</text>
-    <text x="165.0" y="299.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpF</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SpG</text>
+    <text x="426.0" y="39.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxA</text>
+    <text x="426.0" y="75.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxB</text>
+    <text x="426.0" y="111.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxC</text>
+    <text x="426.0" y="147.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxD</text>
+    <text x="426.0" y="183.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxE</text>
+    <text x="426.0" y="219.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxF</text>
+    <text x="426.0" y="255.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxG</text>
+    <text x="426.0" y="291.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">TaxH</text>
+  </g>
+  <g data-name="supermatrix-bar">
+    <rect x="90.5" y="300" width="62.9" height="26" fill="#2E86AB" data-pp="partition-1"/>
+    <rect x="154.4" y="300" width="96.4" height="26" fill="#00857A" data-pp="partition-2"/>
+    <rect x="251.8" y="300" width="47.7" height="26" fill="#A2305B" data-pp="partition-3"/>
+    <rect x="300.5" y="300" width="45.9" height="26" fill="#E8871E" data-pp="partition-4"/>
+    <rect x="347.4" y="300" width="64.1" height="26" fill="#6C3FA0" data-pp="partition-5"/>
+    <rect x="412.5" y="300" width="57.0" height="26" fill="#5B8C3E" data-pp="partition-6"/>
+    <text x="121.9" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">rpoB</text>
+    <text x="202.6" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">gyrB</text>
+    <text x="275.6" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">recA</text>
+    <text x="323.4" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">16S</text>
+    <text x="379.4" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">rbcL</text>
+    <text x="441.0" y="317" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">tufA</text>
+  </g>
+  <g data-name="legend">
+    <text x="90" y="22" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">node labels: SH-aLRT / UFBoot (%)</text>
+    <text x="90" y="342" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">each block = one marker-gene partition, width proportional to site count</text>
+    <text x="90" y="358" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">all six partitions concatenated into a single 12,486-site supermatrix</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="90" y1="378" x2="190" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="90" y1="374" x2="90" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="190" y1="374" x2="190" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="140.0" y="392" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">0.05 subs/site</text>
   </g>
 </svg>

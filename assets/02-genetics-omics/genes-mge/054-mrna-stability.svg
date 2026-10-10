@@ -7,8 +7,8 @@
     <line x1="10" y1="40" x2="90" y2="40" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
     <text x="10" y="35" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">5' ppp</text>
     <text x="75" y="35" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">3' OH</text>
-        <rect x="40" y="50" width="20" height="12" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="50.0" y="57.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">RNaseE</text>
+        <rect x="36" y="49" width="28" height="14" rx="1" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="50.0" y="58.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">RNase E</text>
       <circle cx="25" cy="50" r="2" fill="#6C3FA0" data-pp="gene"/>
     <circle cx="65" cy="50" r="2" fill="#6C3FA0" data-pp="gene"/>
     <line x1="30" y1="40" x2="35" y2="48" stroke="#C42D2D" data-pp="alert" stroke-width="1"/>

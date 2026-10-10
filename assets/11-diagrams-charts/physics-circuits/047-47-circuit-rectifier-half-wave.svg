@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="半波整流" data-name-en="circuit-rectifier-half-wave" data-cat="physics-electronics" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">半波整流 / circuit_rectifier_half_wave</title>
-  <desc id="d-47">二极管半波整流电路。关键词: 整流,半波,二极管</desc>
+  <title id="t-47">半波整流 / Circuit-Rectifier-Half-Wave</title>
+  <desc id="d-47">二极管半波整流电路</desc>
   <g id="g-47-半波整流">
     <circle cx="60" cy="120" r="20" fill="none" stroke="#1f2937" stroke-width="2"/>
     <path d="M 50 120 Q 55 110 60 120 Q 65 130 70 120" fill="none" stroke="#1f2937" stroke-width="1.5"/>

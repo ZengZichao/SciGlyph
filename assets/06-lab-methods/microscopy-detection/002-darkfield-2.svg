@@ -21,8 +21,7 @@
     <rect x="25" y="48" width="50" height="14" fill="#1B2733" data-pp="ink" fill-opacity="0.1" stroke="none"/>
   </g>
   <g id="layer-annotation-darkfield" data-name="annotation">
-    <line x1="68.0" y1="67.9" x2="60.44" y2="67.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="70.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">darkfield</text>
-    <line x1="68.0" y1="74.9" x2="60.44" y2="74.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="60.44" y="77.99" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">condenser</text>
+    <text x="50" y="84" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">darkfield condenser</text>
     <text x="50" y="95" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">scattered light</text>
   </g>
 </svg>

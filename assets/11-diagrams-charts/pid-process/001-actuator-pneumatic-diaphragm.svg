@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>气动薄膜执行机构</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>气动薄膜执行机构 / Actuator Pneumatic Diaphragm</title>
   <ellipse cx="12" cy="6" rx="5" ry="3"/>
   <path d="M7 6L7 10L17 10L17 6"/>
   <line x1="10" y1="8" x2="10" y2="6" stroke-width="0.75"/>

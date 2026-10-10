@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="正态曲线" data-name-en="Normal Curve" data-cat="charts-plots" aria-labelledby="t-41 d-41" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-41">正态曲线 / normal_curve</title>
-  <desc id="d-41">正态钟形曲线。关键词: normal,gaussian,bell</desc>
+  <title id="t-41">正态曲线 / Normal Curve</title>
+  <desc id="d-41">正态钟形曲线</desc>
   <g id="g-41-正态曲线">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

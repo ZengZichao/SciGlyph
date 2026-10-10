@@ -1706,7 +1706,7 @@
    "category": "12-icons-ui",
    "subdir": "icons-ui",
    "canvas": "0 0 24 24",
-   "desc": "火焰微型图标。",
+   "desc": "火焰微型图标，尖端偏右上、左侧带内凹肩的非对称轮廓（与液滴图标区分）。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1774,7 +1774,7 @@
    "category": "12-icons-ui",
    "subdir": "icons-ui",
    "canvas": "0 0 24 24",
-   "desc": "手套微型图标。",
+   "desc": "手套微型图标：掌部 + 四根不等长指套 + 单侧拇指 + 腕口收紧线。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1889,7 +1889,7 @@
    "category": "12-icons-ui",
    "subdir": "icons-ui",
    "canvas": "0 0 24 24",
-   "desc": "显微镜微型图标。",
+   "desc": "显微镜微型图标：倾斜镜臂、镜筒与物镜、载物台、底座。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -2052,7 +2052,7 @@
    "category": "12-icons-ui",
    "subdir": "icons-ui",
    "canvas": "0 0 24 24",
-   "desc": "雪花冷微型图标。",
+   "desc": "雪花冷微型图标，六臂六重旋转对称（含 12 根侧枝）。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

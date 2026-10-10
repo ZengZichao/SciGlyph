@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="折断轴" data-name-en="Axis Broken" data-cat="charts-plots" aria-labelledby="t-51 d-51" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-51">折断轴 / axis_broken</title>
-  <desc id="d-51">折断轴：断口用沿轴方向的连续锯齿（两个以上来回），与关键词: axis,broken,interrupt</desc>
+  <title id="t-51">折断轴 / Axis Broken</title>
+  <desc id="d-51">折断轴带斜线断口</desc>
   <g id="g-51-折断轴">
     <line x1="30" y1="130" x2="30" y2="72" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="30" y1="56" x2="30" y2="10" stroke="#1f2937" stroke-width="1.5"/>

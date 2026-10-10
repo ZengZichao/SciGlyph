@@ -12,7 +12,7 @@
     <rect x="28" y="35" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(30,30,36)"/>
     <rect x="72" y="45" width="5" height="2" rx="1.0" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria" transform="rotate(-20,74,46)"/>
     <path d="M50,40 Q45,35 48,30 Q55,28 58,33 Q60,38 55,42 Q50,45 48,42 Z" fill="#3F8FBF" stroke="#1B2733" stroke-width="1" stroke-linecap="round" data-pp="eukaryote"/>
-    <text x="50" y="80" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">35°C</text>
+    <text x="50" y="83" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">35°C</text>
   </g>
   
   <g id="layer-annotation" data-name="annotation">

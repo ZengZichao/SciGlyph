@@ -5,19 +5,15 @@
      data-tags="micrometer,screw,gauge,千分尺" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">外径千分尺 / Micrometer Screw Gauge</title>
   <desc id="d">外径千分尺：弓架+测微筒+棘轮。</desc>
-  <g id="body"><path d="M16 40 C16 30 24 20 36 20 L36 108 C24 108 16 98 16 88Z" fill="#E8EDF2" stroke="#1F2933" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
-    <rect x="36" y="48" width="56" height="32" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
-    <rect x="92" y="44" width="16" height="40" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-width="2" data-ls="body" data-ls-stroke="stroke"/>
-    <rect x="108" y="50" width="10" height="28" rx="4" fill="#33414F" stroke="#1F2933" stroke-width="1.5" data-ls="dark" data-ls-stroke="stroke"/></g>
-  <g id="detail"><g id="thimble-scale">
-    <line x1="40" y1="48" x2="40" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="46" y1="48" x2="46" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="52" y1="48" x2="52" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="58" y1="48" x2="58" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="64" y1="48" x2="64" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="70" y1="48" x2="70" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="76" y1="48" x2="76" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="82" y1="48" x2="82" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-    <line x1="88" y1="48" x2="88" y2="52" stroke="#5A6B7B" stroke-width="0.6" data-ls="thin"/>
-  </g></g>
+  <g id="body"><path d="M22 50 L22 68 Q22 90 44 90 L58 90 L58 56 L48 56 L48 72 Q48 80 40 80 L36 80 L36 50 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="22" y="40" width="14" height="12" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="42" y="42" width="14" height="8" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="54" y="36" width="32" height="20" rx="2" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="86" y="32" width="14" height="28" rx="3" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+    <rect x="100" y="38" width="8" height="16" rx="4" fill="#33414F" stroke="#1F2933" stroke-linejoin="round" stroke-width="1.5" data-ls="dark" data-ls-stroke="stroke"/></g>
+  <g id="detail"><rect x="37" y="42" width="4" height="8" fill="#BFE0FF" stroke="#5A6B7B" stroke-linejoin="round" stroke-width="1.5" data-ls="liquid" data-ls-stroke="thin"/>
+    <path d="M56 46 L84 46" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
+    <path d="M58 46 L58 52 M62 46 L62 52 M66 46 L66 52 M70 46 L70 52 M74 46 L74 52 M78 46 L78 52 M82 46 L82 52" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/>
+    <path d="M60 46 L60 42 M64 46 L64 42 M68 46 L68 42 M72 46 L72 42 M76 46 L76 42 M80 46 L80 42" fill="none" opacity="0.7" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/>
+    <path d="M89 36 L97 36 M89 41 L97 41 M89 51 L97 51 M89 56 L97 56" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.5" data-ls="thin"/></g>
 </svg>

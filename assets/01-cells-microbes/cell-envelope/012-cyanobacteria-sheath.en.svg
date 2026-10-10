@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-cyanobacteria_sheath d-cyanobacteria_sheath" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-cyanobacteria_sheath">Cyanobacterial sheath</title>
-  <desc id="d-cyanobacteria_sheath">Cyanobacterial cell with thick polysaccharide sheath and thylakoids 关键词: cyanobacteria, sheath, polysaccharide</desc>
+  <desc id="d-cyanobacteria_sheath">Cyanobacterial cell with thick polysaccharide sheath and thylakoids</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="30" y="40" width="40" height="15" rx="7" fill="#00857A" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism"/>

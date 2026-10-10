@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="返回消息" data-name-en="Seq Return Message" data-cat="diagrams-sw-uml" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-17">返回消息 / seq_return_message</title>
-  <desc id="d-17">时序图中虚线返回箭头。关键词: return,message,dashed</desc>
+  <title id="t-17">返回消息 / Seq Return Message</title>
+  <desc id="d-17">时序图中虚线返回箭头</desc>
   <g id="g-17-返回消息">
     <rect x="20" y="10" width="50" height="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="45" y="24" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>

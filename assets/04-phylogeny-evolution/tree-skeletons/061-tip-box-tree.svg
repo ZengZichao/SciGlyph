@@ -5,63 +5,69 @@
   <desc id="d-29">骨架，配合iTOL使用。Tip标签带方框包围。 关键词: phylogenetic tree, tip label box, label frame, iTOL, ggtree, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp29__clades" data-name="clade-shading">
-    <rect x="96.0" y="24.0" width="48.0" height="103.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="96.0" y="161.1" width="68.0" height="194.9" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="165" y="20" width="345" height="112" fill="#93A0AC" data-pp="muted" fill-opacity="0.12" data-name="clade-I"/>
+    <rect x="165" y="157" width="345" height="203" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-II"/>
   </g>
   <g id="pp29__branches" data-name="branches">
-    <line x1="80.0" y1="64.3" x2="80.0" y2="241.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="30.0" x2="100.0" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="75.7" x2="120.0" y2="121.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="190.0" x2="100.0" y2="292.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="167.1" x2="120.0" y2="212.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="258.6" x2="120.0" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="304.3" x2="140.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="64.3" x2="100.0" y2="64.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="30.0" x2="120.0" y2="30.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="98.6" x2="120.0" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="75.7" x2="140.0" y2="75.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="121.4" x2="140.0" y2="121.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="241.4" x2="100.0" y2="241.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="190.0" x2="120.0" y2="190.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="167.1" x2="140.0" y2="167.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="212.9" x2="140.0" y2="212.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="292.9" x2="120.0" y2="292.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="258.6" x2="140.0" y2="258.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="327.1" x2="140.0" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="304.3" x2="160.0" y2="304.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="64.3" x2="60" y2="241.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="30" x2="170" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="75.7" x2="280" y2="121.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="190" x2="170" y2="292.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="167.1" x2="280" y2="212.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="258.6" x2="280" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380" y1="304.3" x2="380" y2="350" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="64.3" x2="170" y2="64.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="60" y1="241.4" x2="170" y2="241.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="30" x2="470" y2="30" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="98.6" x2="280" y2="98.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="75.7" x2="470" y2="75.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="121.4" x2="470" y2="121.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="190" x2="280" y2="190" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="170" y1="292.9" x2="280" y2="292.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="167.1" x2="470" y2="167.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="212.9" x2="470" y2="212.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="258.6" x2="470" y2="258.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="280" y1="327.1" x2="380" y2="327.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380" y1="304.3" x2="470" y2="304.3" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380" y1="350" x2="470" y2="350" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
   </g>
   <g id="pp29__nodes" data-name="nodes">
-    <circle cx="80.0" cy="152.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="100.0" cy="64.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="98.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="100.0" cy="241.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="190.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="292.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="140.0" cy="327.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="60" cy="152.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="170" cy="64.3" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="280" cy="98.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="170" cy="241.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="280" cy="190" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="280" cy="292.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="380" cy="327.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp29__labels" data-name="tip-labels">
-    <rect x="124.0" y="24.0" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="125.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
-    <rect x="144.0" y="69.7" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="145.0" y="78.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
-    <rect x="144.0" y="115.4" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="145.0" y="124.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
-    <rect x="144.0" y="161.1" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="145.0" y="170.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
-    <rect x="144.0" y="206.9" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="145.0" y="215.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
-    <rect x="144.0" y="252.6" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="145.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_F</text>
-    <rect x="164.0" y="298.3" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_G</text>
-    <rect x="164.0" y="344.0" width="28" height="12" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_H</text>
+    <rect x="478" y="21.5" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="33.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
+    <rect x="478" y="67.2" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="79.2" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
+    <rect x="478" y="112.9" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="124.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
+    <rect x="478" y="158.6" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="170.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
+    <rect x="478" y="204.4" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="216.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
+    <rect x="478" y="250.1" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="262.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_F</text>
+    <rect x="478" y="295.8" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="307.8" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_G</text>
+    <rect x="478" y="341.5" width="32" height="13" fill="#FFFFFF" stroke="#93A0AC" stroke-width="0.5" data-pp="white"/>
+    <text x="481" y="353.5" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_H</text>
+  </g>
+  <g data-name="clade-legend">
+    <rect x="516" y="68" width="16" height="11" fill="#93A0AC" data-pp="muted" fill-opacity="0.35"/>
+    <text x="536" y="77" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Clade I</text>
+    <rect x="516" y="253" width="16" height="11" fill="#6C3FA0" data-pp="gene" fill-opacity="0.35"/>
+    <text x="536" y="262" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Clade II</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="60" y1="380" x2="170" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="60" y1="377" x2="60" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="170" y1="377" x2="170" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="115" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

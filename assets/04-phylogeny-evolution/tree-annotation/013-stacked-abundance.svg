@@ -24,4 +24,14 @@
     <rect x="355" y="274.3" width="40" height="1.1" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
     <rect x="355" y="254.1" width="40" height="20.2" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
   </g>
+  <g data-name="annotation">
+    <line x1="80" y1="320" x2="395" y2="320" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80" y1="120" x2="80" y2="320" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <rect x="100" y="345" width="15" height="15" fill="#2E86AB" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="bacteria"/>
+    <text x="120" y="357" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">bacteria</text>
+    <rect x="190" y="345" width="15" height="15" fill="#A2305B" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="archaea"/>
+    <text x="210" y="357" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">archaea</text>
+    <rect x="280" y="345" width="15" height="15" fill="#3F8FBF" fill-opacity="0.6" stroke="#1B2733" stroke-width="0.5" data-pp="eukaryote"/>
+    <text x="300" y="357" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">eukaryote</text>
+  </g>
 </svg>

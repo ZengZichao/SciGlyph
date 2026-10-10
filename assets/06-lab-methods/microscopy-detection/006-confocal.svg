@@ -10,37 +10,49 @@
   </defs>
   <g id="layer-body-confocal" data-name="body">
     <!-- Laser -->
-    <rect x="5" y="15" width="15" height="8" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="12" y="21" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">laser</text>
+    <rect x="2" y="40" width="24" height="10" rx="2" ry="2" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
+    <text x="14" y="47.5" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">laser</text>
     <!-- Excitation pinhole -->
-    <rect x="25" y="17" width="3" height="4" fill="#1B2733" data-pp="ink"/>
-    <circle cx="26" cy="19" r="0.5" fill="#FFFFFF" data-pp="white"/>
+    <rect x="30" y="40" width="3" height="10" fill="#1B2733" data-pp="ink"/>
+    <circle cx="31.5" cy="45" r="0.9" fill="#FFFFFF" data-pp="white"/>
     <!-- Dichroic mirror at 45 degrees (excitation reflects down, emission transmits up) -->
-    <line x1="45.5" y1="12" x2="59.5" y2="26" stroke="#E8871E" data-pp="mge" stroke-width="1.5"/>
+    <line x1="36" y1="40" x2="46" y2="50" stroke="#E8871E" data-pp="mge" stroke-width="2" stroke-linecap="round"/>
     <!-- Objective -->
-    <rect x="45" y="30" width="15" height="8" rx="2" ry="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1"/>
+    <path d="M33 52 L47 52 L45 61 L35 61 Z" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1" stroke-linejoin="round"/>
+    <!-- Focused excitation spot -->
+    <path d="M35 61 L40 68 L45 61 Z" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="none"/>
     <!-- Sample (z-stack) -->
-    <rect x="35" y="45" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5"/>
-    <rect x="35" y="50" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
-    <rect x="35" y="55" width="35" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="14" y="68" width="34" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.3" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="14" y="73" width="34" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.5" stroke="#1B2733" stroke-width="0.5"/>
+    <rect x="14" y="78" width="34" height="3" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.7" stroke="#1B2733" stroke-width="0.5"/>
     <!-- Focal plane highlight -->
-    <line x1="35" y1="51" x2="70" y2="51" stroke="#C42D2D" data-pp="alert" stroke-width="1" stroke-dasharray="2,1"/>
-    <!-- Detection pinhole + PMT (top) -->
-    <rect x="51" y="9" width="3" height="4" fill="#1B2733" data-pp="ink"/>
-    <rect x="46" y="1" width="12" height="6" rx="1" ry="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
-    <text x="52.0" y="6.1" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PMT</text>
+    <line x1="14" y1="69.5" x2="48" y2="69.5" stroke="#C42D2D" data-pp="alert" stroke-width="0.8" stroke-dasharray="2,1"/>
     <!-- Excitation beam: laser -> pinhole -> dichroic -> down to objective -->
-    <line x1="20" y1="19" x2="25" y2="19" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2"/>
-    <line x1="28" y1="19" x2="51" y2="19" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
-    <line x1="52.5" y1="21" x2="52.5" y2="28" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
+    <line x1="26" y1="45" x2="30" y2="45" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2"/>
+    <line x1="33" y1="45" x2="39" y2="45" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
+    <line x1="39.5" y1="43.5" x2="39.5" y2="51" stroke="#2E86AB" data-pp="bacteria" stroke-width="1.2" marker-end="url(#pp06__ar)"/>
     <!-- Emission beam: sample -> up through dichroic -> detection pinhole -->
-    <line x1="52.5" y1="44" x2="52.5" y2="14" stroke="#00857A" data-pp="metabolism" stroke-width="1" stroke-dasharray="2,1.5" marker-end="url(#pp06__ar)"/>
+    <line x1="41.5" y1="68" x2="41.5" y2="31" stroke="#00857A" data-pp="metabolism" stroke-width="1.2" stroke-dasharray="2,1.5" marker-end="url(#pp06__ar)"/>
+    <!-- Detection pinhole + PMT (top) -->
+    <rect x="40" y="24" width="3" height="6" fill="#1B2733" data-pp="ink"/>
+    <circle cx="41.5" cy="27" r="0.8" fill="#FFFFFF" data-pp="white"/>
+    <rect x="34" y="14" width="15" height="8" rx="1" ry="1" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+    <text x="41.5" y="20" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">PMT</text>
   </g>
   <g id="layer-annotation-confocal" data-name="annotation">
-    <text x="26" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">pinhole</text>
-    <line x1="64.0" y1="9.9" x2="47.42" y2="10.89" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="13.98" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">det. pinhole</text>
-    <line x1="64.0" y1="19.9" x2="47.42" y2="19.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="47.42" y="22.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dichroic 45°</text>
-    <text x="50" y="70" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">optical sectioning</text>
-    <text x="50" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">(z-stack)</text>
+    <text x="2" y="35" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">pinhole</text>
+    <line x1="31.5" y1="37" x2="31.5" y2="39.5" stroke="#5A6B7B" stroke-width="0.6"/>
+    <text x="54" y="21" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">detection</text>
+    <text x="54" y="29" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">pinhole</text>
+    <line x1="44" y1="27" x2="52" y2="27" stroke="#5A6B7B" stroke-width="0.6"/>
+    <text x="54" y="44" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dichroic</text>
+    <text x="54" y="52" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">mirror 45°</text>
+    <line x1="47" y1="50" x2="52" y2="50" stroke="#5A6B7B" stroke-width="0.6"/>
+    <text x="54" y="61" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">objective</text>
+    <line x1="46" y1="57" x2="52" y2="57" stroke="#5A6B7B" stroke-width="0.6"/>
+    <text x="54" y="71" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">sample</text>
+    <text x="54" y="79" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">(z-stack)</text>
+    <line x1="48" y1="75" x2="52" y2="75" stroke="#5A6B7B" stroke-width="0.6"/>
+    <text x="50" y="90" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">optical sectioning</text>
   </g>
 </svg>

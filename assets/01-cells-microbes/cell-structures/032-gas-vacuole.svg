@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="气泡" data-name-en="Gas vacuole" data-cat="02-structures" data-tags="气泡,气泡囊,浮力,浮游细菌,趋光,垂直迁移" role="img" aria-labelledby="t-32-gas-vacuole d-32-gas-vacuole" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-32-gas-vacuole">气泡 / Gas vacuole</title>
-  <desc id="d-32-gas-vacuole">气泡由成束排列的气泡囊组成，内部充气使细胞比重降低、浮力增加，浮游蓝细菌借此实现趋光性垂直迁移。关键词: 气泡, 气泡囊, 浮力, 浮游细菌, 趋光, 垂直迁移</desc>
+  <desc id="d-32-gas-vacuole">气泡由成束排列的气泡囊组成，内部充气使细胞比重降低、浮力增加，浮游蓝细菌借此实现趋光性垂直迁移</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <rect x="18" y="40" width="84" height="40" rx="18" fill="#DCEEE4" stroke="#1F6F8B" stroke-width="2"/>
 <ellipse cx="30" cy="50" rx="4.2" ry="2.6" fill="#F7FBF9" stroke="#5FA8C7" stroke-width="1.2"/>

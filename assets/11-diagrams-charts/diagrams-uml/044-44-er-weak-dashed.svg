@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="弱实体" data-name-en="Er Weak Dashed" data-cat="diagrams-sw-uml" aria-labelledby="t-44 d-44" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-44">弱实体 / er_weak_dashed</title>
-  <desc id="d-44">双线框弱实体。关键词: weak,entity,dashed,er</desc>
+  <title id="t-44">弱实体 / Er Weak Dashed</title>
+  <desc id="d-44">双线框弱实体</desc>
   <g id="g-44-弱实体">
     <rect x="15" y="15" width="90" height="50" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="20" y="20" width="80" height="40" fill="none" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="4 3"/>

@@ -45,8 +45,8 @@
 <text x="340" y="228" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Unequal crossing-over · transposon-mediated</text>
 <text x="340" y="245" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Intron phase permits module shuffling</text>
 <text x="340" y="260" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="start">Phase 0/1/2 introns</text>
-<rect x="60" y="260" width="480" height="55" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
-<text x="300" y="278" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Example: domain shuffling</text>
+<rect x="60" y="272" width="480" height="48" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
+<text x="300" y="282" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">Example: domain shuffling</text>
 <rect x="80" y="288" width="70" height="18" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5" rx="2"/>
 <text x="115" y="301" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">EGF</text>
 <rect x="175" y="288" width="70" height="18" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5" rx="2"/>

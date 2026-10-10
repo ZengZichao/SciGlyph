@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="三端稳压器" data-name-en="voltage-regulator-3pin" data-cat="physics-electronics" aria-labelledby="t-27 d-27" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-27">三端稳压器 / voltage_regulator_3pin</title>
-  <desc id="d-27">三端集成稳压器符号。关键词: 稳压器,三端,78xx</desc>
+  <title id="t-27">三端稳压器 / Voltage-Regulator-3Pin</title>
+  <desc id="d-27">三端集成稳压器符号</desc>
   <g id="g-27-三端稳压器">
     <rect x="35" y="20" width="50" height="40" fill="none" stroke="#1f2937" stroke-width="2"/>
     <line x1="60" y1="60" x2="60" y2="75" stroke="#1f2937" stroke-width="2" fill="none"/>

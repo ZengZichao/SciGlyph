@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="带激活条" data-name-en="Lifeline Activation" data-cat="diagrams-sw-uml" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-16">带激活条 / lifeline_activation</title>
-  <desc id="d-16">生命线带蓝色激活条。关键词: activation,lifeline,sequence</desc>
+  <title id="t-16">带激活条 / Lifeline Activation</title>
+  <desc id="d-16">生命线带蓝色激活条</desc>
   <g id="g-16-带激活条">
     <rect x="20" y="10" width="50" height="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="45" y="24" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">A</text>

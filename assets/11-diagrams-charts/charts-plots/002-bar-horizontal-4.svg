@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="四横条图" data-name-en="Bar Horizontal 4" data-cat="charts-plots" aria-labelledby="t-02 d-02" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-02">四横条图 / bar_horizontal_4</title>
-  <desc id="d-02">展示四组数据的横向柱状图。关键词: bar,horizontal,row</desc>
+  <title id="t-02">四横条图 / Bar Horizontal 4</title>
+  <desc id="d-02">展示四组数据的横向柱状图</desc>
   <g id="g-02-四横条图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

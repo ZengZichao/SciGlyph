@@ -18,7 +18,7 @@
 <rect x="335" y="155.0" width="50" height="75.0" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
 <text x="360" y="245" font-size="11" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">aa</text>
 <text x="360" y="150.0" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">0.5</text>
-<rect x="205" y="72" width="70" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
+<rect x="205" y="78" width="70" height="20" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" rx="3"/>
 <text x="240" y="87" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">最高</text>
 <text x="60" y="270" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">等位基因频率动态</text>
 <line x1="80" y1="280" x2="80" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
@@ -38,6 +38,6 @@
 <text x="475" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">镰状细胞贫血</text>
 <text x="475" y="95" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">HbS/HbA 抗疟疾</text>
 <text x="475" y="112" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#2E86AB" data-pp="bacteria" text-anchor="middle">HbA/HbA 正常敏感</text>
-<text x="475" y="128" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">HbS/HbS 贫血</text>
+<text x="475" y="128" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#A2305B" data-pp="archaea" text-anchor="middle">HbS/HbS 贫血</text>
 </g>
 </svg>

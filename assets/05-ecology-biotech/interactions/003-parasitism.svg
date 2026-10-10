@@ -4,7 +4,7 @@
   <title id="t-parasitism">寄生 / Parasitism</title>
   <desc id="d-parasitism">Parasitism with damaged host and attached parasite, −/+ symbols 关键词: parasitism, +/−, damage</desc>
   
-  <g id="layer-body" data-name="body">
+  <g id="layer-body" data-name="body" transform="translate(11,0)">
     <circle cx="35" cy="45" r="15" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>
     <line x1="28" y1="38" x2="32" y2="42" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>
     <line x1="38" y1="35" x2="42" y2="39" stroke="#C42D2D" stroke-width="1" stroke-linecap="round" data-pp="alert"/>

@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-slime_vs_capsule d-slime_vs_capsule" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-slime_vs_capsule">Slime vs capsule</title>
-  <desc id="d-slime_vs_capsule">Comparison: loose dashed slime layer vs tight solid capsule 关键词: slime, capsule, organized</desc>
+  <desc id="d-slime_vs_capsule">Comparison: loose dashed slime layer vs tight solid capsule</desc>
   
   <g id="layer-body" data-name="body">
     <ellipse cx="25" cy="45" rx="18" ry="22" fill="#E8871E" stroke="#93A0AC" stroke-width="1" data-pp="mge" fill-opacity="0.2" stroke-dasharray="3,2"/>

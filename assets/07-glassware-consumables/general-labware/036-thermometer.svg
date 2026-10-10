@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="温度计" data-name-en="thermometer" data-cat="lab-equipment" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">温度计 / thermometer</title>
-  <desc id="d-37">测量液体或环境温度。关键词: 温度计,thermometer,温度,测量</desc>
+  <title id="t-37">温度计 / Thermometer</title>
+  <desc id="d-37">测量液体或环境温度</desc>
   <g id="g-37-温度计">
     <rect x="55" y="10" width="10" height="85" rx="5" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="60" cy="100" r="10" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

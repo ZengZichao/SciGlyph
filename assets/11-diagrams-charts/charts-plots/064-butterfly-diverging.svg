@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="蝴蝶对比图" data-name-en="Butterfly Diverging" data-cat="charts-plots" aria-labelledby="t-64 d-64" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-64">蝴蝶对比图 / butterfly_diverging</title>
-  <desc id="d-64">两侧对比蝴蝶图。关键词: butterfly,diverging,compare</desc>
+  <title id="t-64">蝴蝶对比图 / Butterfly Diverging</title>
+  <desc id="d-64">两侧对比蝴蝶图</desc>
   <g id="g-64-蝴蝶对比图">
     <line x1="220" y1="30" x2="220" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="133" y="56" width="87" height="30" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>

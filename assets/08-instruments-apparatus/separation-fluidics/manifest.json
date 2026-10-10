@@ -31,8 +31,8 @@
   },
   {
    "file": "002-column-chromatography-glass.svg",
-   "name_zh": "玻璃层析柱",
-   "name_en": "Column Chromatography Glass",
+   "name_zh": "层析柱（图标）",
+   "name_en": "Chromatography Column (Icon)",
    "tags": [
     "玻璃层析柱",
     "column chromatography glass",
@@ -1048,7 +1048,7 @@
   },
   {
    "file": "050-dialysis-cassette-2.svg",
-   "name_zh": "透析小盒",
+   "name_zh": "盒式透析装置（扁平盒）",
    "name_en": "Dialysis Cassette",
    "tags": [
     "dialysis",
@@ -1063,14 +1063,14 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "小型透析盒装置",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
   },
   {
    "file": "051-dialysis-tubing-segment.svg",
-   "name_zh": "透析袋",
+   "name_zh": "透析袋截段（两端未封）",
    "name_en": "Dialysis Tubing Segment",
    "tags": [
     "dialysis",
@@ -1087,7 +1087,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "透析袋，显示截留分子量膜剖面，小分子穿过/大分子截留",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1133,14 +1133,14 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "旋蒸：旋转瓶+垂直蒸发轴+冷凝竖管+接收瓶+真空表+水浴锅",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
   },
   {
    "file": "054-extractor-soxhlet.svg",
-   "name_zh": "索氏提取器",
+   "name_zh": "索氏提取器（提取筒单体）",
    "name_en": "Soxhlet Extractor",
    "tags": [
     "soxhlet",
@@ -1155,7 +1155,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "索氏提取器，带虹吸管、回液管和蒸汽旁路",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1179,7 +1179,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "瓷质布氏漏斗，带多孔底板，用于真空抽滤",
+   "desc": "同物",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1201,7 +1201,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "玻璃砂芯滤埚，带烧结玻璃底板",
+   "desc": "需注明砂芯规格与有无长茎",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1579,7 +1579,7 @@
   },
   {
    "file": "073-tlc-chamber-development.svg",
-   "name_zh": "层析缸",
+   "name_zh": "层析缸（展开中）",
    "name_en": "TLC Development Chamber",
    "tags": [
     "tlc",
@@ -1594,7 +1594,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "层析缸，内含滤纸和展开剂液面",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1618,7 +1618,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "超滤离心管，带MWCO膜，用于浓缩",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1673,7 +1673,7 @@
   },
   {
    "file": "077-vacuum-pump-diaphragm-2.svg",
-   "name_zh": "隔膜真空泵",
+   "name_zh": "隔膜真空泵（整机）",
    "name_en": "Diaphragm Vacuum Pump",
    "tags": [
     "vacuum",
@@ -1688,7 +1688,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "separation-fluidics",
    "canvas": "0 0 128 128",
-   "desc": "隔膜真空泵，带接口",
+   "desc": "需",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

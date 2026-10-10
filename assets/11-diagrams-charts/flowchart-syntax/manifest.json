@@ -737,8 +737,8 @@
   },
   {
    "file": "036-36-org-chart-4box.svg",
-   "name_zh": "四框组织结构",
-   "name_en": "Org-Chart-4Box",
+   "name_zh": "五框组织结构",
+   "name_en": "Org-Chart-5Box",
    "tags": [
     "org",
     "chart",
@@ -752,7 +752,7 @@
    "category": "11-diagrams-charts",
    "subdir": "flowchart-syntax",
    "canvas": "0 0 320 240",
-   "desc": "四框组织结构图",
+   "desc": "五框三层组织结构图（CEO/两部门/两岗位）",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1862,7 +1862,7 @@
   },
   {
    "file": "088-decision-diamond.svg",
-   "name_zh": "判断菱形",
+   "name_zh": "判定菱形（空白符号）",
    "name_en": "Decision Diamond",
    "tags": [
     "decision",
@@ -1878,7 +1878,7 @@
    "category": "11-diagrams-charts",
    "subdir": "flowchart-syntax",
    "canvas": "0 0 160 96",
-   "desc": "流程图判断符号，菱形，表示条件分支。",
+   "desc": "判定菱形空白符号，无文字。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1910,7 +1910,7 @@
   },
   {
    "file": "090-document-wavy-bottom.svg",
-   "name_zh": "文档波浪底",
+   "name_zh": "文档波浪底（空白符号）",
    "name_en": "Document Wavy Bottom",
    "tags": [
     "document",
@@ -1951,7 +1951,7 @@
    "category": "11-diagrams-charts",
    "subdir": "flowchart-syntax",
    "canvas": "0 0 160 96",
-   "desc": "流程图虚线分组容器/泳道框。",
+   "desc": "流程图虚线分组容器，左上带标题页签。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -2069,7 +2069,7 @@
    "category": "11-diagrams-charts",
    "subdir": "flowchart-syntax",
    "canvas": "0 0 160 96",
-   "desc": "流程图人工输入符号，上宽下窄梯形。",
+   "desc": "流程图人工输入符号，顶边斜切的四边形（图内",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -2099,7 +2099,7 @@
   },
   {
    "file": "098-multi-document-stack.svg",
-   "name_zh": "多文档",
+   "name_zh": "多文档（空白符号）",
    "name_en": "Multi-Document Stack",
    "tags": [
     "multi",
@@ -2170,8 +2170,8 @@
   },
   {
    "file": "101-predefined-procedure.svg",
-   "name_zh": "子流程双竖边框",
-   "name_en": "Predefined Procedure",
+   "name_zh": "折叠子流程",
+   "name_en": "Collapsed Subprocess",
    "tags": [
     "procedure",
     "subroutine",
@@ -2187,7 +2187,7 @@
    "category": "11-diagrams-charts",
    "subdir": "flowchart-syntax",
    "canvas": "0 0 160 96",
-   "desc": "流程图子流程符号，矩形两侧竖线标记。",
+   "desc": "BPMN 折叠子流程符号，圆角矩形中心带圆圈加号标记",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -2219,7 +2219,7 @@
   },
   {
    "file": "103-preparation-hexagon.svg",
-   "name_zh": "准备六边形",
+   "name_zh": "准备六边形（空白符号）",
    "name_en": "Preparation Hexagon",
    "tags": [
     "preparation",

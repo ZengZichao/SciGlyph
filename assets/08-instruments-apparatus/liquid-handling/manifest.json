@@ -208,7 +208,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "liquid-handling",
    "canvas": "0 0 128 128",
-   "desc": "玻璃巴斯德吸管，带橡胶乳头，用于少量液体转移",
+   "desc": "玻璃巴斯德吸管，用于少量液体转移",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -629,7 +629,7 @@
    "category": "08-instruments-apparatus",
    "subdir": "liquid-handling",
    "canvas": "0 0 128 128",
-   "desc": "枪头废物收集容器，带生物危害标识",
+   "desc": "枪头废物收集容器，带警示标识",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title>研磨珠离心管</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#1B2733" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+  <title>研磨珠离心管 / Bead Tube Mixing</title>
   <path d="M8 2h8v3H8z"/>
   <path d="M9 5v3"/>
   <path d="M15 5v3"/>
   <path d="M9 8a3 3 0 0 0-1 2v4a4 4 0 0 0 8 0v-4a3 3 0 0 0-1-2"/>
-  <circle cx="10.5" cy="14.5" r="0.75" fill="currentColor" stroke="none"/>
-  <circle cx="13.5" cy="14.5" r="0.75" fill="currentColor" stroke="none"/>
-  <circle cx="12" cy="16.8" r="0.75" fill="currentColor" stroke="none"/>
+  <circle cx="10.5" cy="14.5" r="0.75" fill="#1B2733" stroke="none"/>
+  <circle cx="13.5" cy="14.5" r="0.75" fill="#1B2733" stroke="none"/>
+  <circle cx="12" cy="16.8" r="0.75" fill="#1B2733" stroke="none"/>
 </svg>

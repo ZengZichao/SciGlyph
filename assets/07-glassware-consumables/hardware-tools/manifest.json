@@ -53,7 +53,7 @@
   {
    "file": "003-clamp-boiler-twisted-wire.svg",
    "name_zh": "双线烧瓶夹",
-   "name_en": "Clamp Boiler Twisted Wire",
+   "name_en": "Double-Wire Flask Clamp\"（\"Boiler\"=锅炉，系\"烧瓶\"误译，属术语错误；",
    "tags": [
     "双线烧瓶夹",
     "clamp boiler twisted wire",
@@ -109,7 +109,7 @@
    "category": "07-glassware-consumables",
    "subdir": "hardware-tools",
    "canvas": "0 0 24 24",
-   "desc": "三橡胶爪+紧固螺+立柱孔",
+   "desc": "三橡胶爪+抱箍+拇指螺丝抱环+螺纹支杆",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -139,7 +139,7 @@
   {
    "file": "007-clay-pipe-triangle.svg",
    "name_zh": "泥三角",
-   "name_en": "Clay Pipe Triangle",
+   "name_en": "Pipeclay Triangle\"",
    "tags": [
     "泥三角",
     "clay pipe triangle",
@@ -160,7 +160,7 @@
   {
    "file": "008-cork-borer-set.svg",
    "name_zh": "打孔器",
-   "name_en": "Cork Borer Set",
+   "name_en": "Cork Borer",
    "tags": [
     "打孔器",
     "cork borer set",

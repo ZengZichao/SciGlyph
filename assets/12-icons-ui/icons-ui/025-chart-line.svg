@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="折线图" data-name-en="chart_line" data-cat="basic-icons-ui" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-25">折线图 / chart_line</title>
-  <desc id="d-25">折线统计图图标。关键词: 折线图,统计,chart,line</desc>
+  <title id="t-25">折线图 / Chart_Line</title>
+  <desc id="d-25">折线统计图图标</desc>
   <g id="g-25-折线图">
     <line x1="8" y1="40" x2="42" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <line x1="8" y1="8" x2="8" y2="40" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

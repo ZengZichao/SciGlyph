@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="方差分析表" data-name-en="anova-table" data-cat="tables-frames" aria-labelledby="t-17 d-17" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-17">方差分析表 / anova_table</title>
-  <desc id="d-17">ANOVA方差分析表。关键词: 方差分析,ANOVA,统计表格</desc>
-  <g id="g-17-方差分析表">
+  <title id="t-17">方差分析表 / Anova-Table</title>
+  <desc id="d-17">ANOVA方差分析表</desc>
+  <g id="g-17-方差分析表" transform="translate(0,46)">
     <line x1="30" y1="30" x2="370" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="30" y1="55" x2="370" y2="55" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <text x="70" y="48" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">Src</text>
@@ -13,7 +13,7 @@
     <text x="140" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">2</text>
     <text x="210" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">12.3</text>
     <text x="280" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">6.1</text>
-    <text x="350" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5.3</text>
+    <text x="350" y="80" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">5.4</text>
     <text x="70" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">Error</text>
     <text x="140" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">27</text>
     <text x="210" y="108" font-size="11" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif">31.0</text>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="OTU / ASV 聚类" data-name-en="OTU and ASV Clustering" data-cat="05-eco-seq" data-tags="OTU,ASV,操作分类单元,聚类,低丰度过滤,噪声" role="img" aria-labelledby="t-28-otu-cluster d-28-otu-cluster" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-28-otu-cluster">ASV 聚类 / OTU and ASV Clustering</title>
-  <desc id="d-28-otu-cluster">UNOISE）推断 ASV；并依丰度阈值剔除噪声与嵌合体读段。关键词: OTU, ASV, 操作分类单元, 聚类, 低丰度过滤, 噪声</desc>
+  <title id="t-28-otu-cluster">OTU and ASV Clustering</title>
+  <desc id="d-28-otu-cluster">高变区序列按 97% 相似度聚类为 OTU，或经去噪算法（DADA2/UNOISE）推断 ASV；并依丰度阈值剔除噪声与嵌合体读段。关键词: OTU, ASV, 操作分类单元, 聚类, 低丰度过滤, 噪声</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 聚类簇 1 -->
   <ellipse cx="26" cy="30" rx="13" ry="10" fill="#2E7D5B" fill-opacity="0.12" stroke="#2E7D5B" stroke-width="1.2" stroke-dasharray="3 2"/>

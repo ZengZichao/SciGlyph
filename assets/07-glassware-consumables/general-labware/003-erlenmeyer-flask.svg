@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="锥形瓶" data-name-en="erlenmeyer_flask" data-cat="lab-equipment" aria-labelledby="t-03 d-03" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-03">锥形瓶 / erlenmeyer_flask</title>
-  <desc id="d-03">滴定反应和摇瓶培养。关键词: 锥形瓶,flask,滴定,培养</desc>
+  <title id="t-03">锥形瓶 / Erlenmeyer_Flask</title>
+  <desc id="d-03">滴定反应和摇瓶培养</desc>
   <g id="g-03-锥形瓶">
     <path d="M 50 15 L 50 40 L 20 100 L 100 100 L 70 40 L 70 15 Z" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <path d="M 32 75 L 88 75 L 100 100 L 20 100 Z" fill="#0072B2" stroke="none" data-drole="series-1"/>

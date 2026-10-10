@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="磷脂分子" data-name-en="Phospholipid Head Tails" data-cat="natural-sciences" aria-labelledby="t-20 d-20" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-20">磷脂分子 / phospholipid_head_tails</title>
-  <desc id="d-20">展示单个磷脂分子（头部尾部）。关键词: phospholipid,head,tail,amphipathic</desc>
+  <title id="t-20">磷脂分子 / Phospholipid Head Tails</title>
+  <desc id="d-20">展示单个磷脂分子（头部尾部）</desc>
   <g id="g-20-磷脂分子">
     <circle cx="60" cy="25" r="14" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="60" y="29" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#ffffff" text-anchor="middle">P</text>

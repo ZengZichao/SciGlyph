@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="白细胞" data-name-en="White Blood Cell" data-cat="natural-sciences" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-58">白细胞 / white_blood_cell</title>
-  <desc id="d-58">展示白细胞形态。关键词: white blood cell,leukocyte,immune</desc>
+  <title id="t-58">白细胞 / White Blood Cell</title>
+  <desc id="d-58">展示白细胞形态</desc>
   <g id="g-58-白细胞">
     <circle cx="60" cy="60" r="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M45,50 C50,40 65,38 70,48 C75,58 68,70 55,72 C42,74 38,60 45,50" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>

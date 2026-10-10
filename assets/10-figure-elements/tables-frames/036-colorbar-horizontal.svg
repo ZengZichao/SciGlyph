@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="水平色标" data-name-en="colorbar-horizontal" data-cat="tables-frames" aria-labelledby="t-36 d-36" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-36">水平色标 / colorbar_horizontal</title>
-  <desc id="d-36">水平方向色标。关键词: 色标,颜色条,水平</desc>
+  <title id="t-36">水平色标 / Colorbar-Horizontal</title>
+  <desc id="d-36">水平方向色标</desc>
   <g id="g-36-水平色标">
     <rect x="60" y="100" width="30" height="20" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <rect x="90" y="100" width="30" height="20" fill="#009E73" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
     <rect x="120" y="100" width="30" height="20" fill="#E69F00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="2 2" data-drole="series-3"/>
     <rect x="150" y="100" width="30" height="20" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="8 3 2 3" data-drole="series-4"/>
-    <rect x="180" y="100" width="30" height="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="0.75"/>
     <text x="60" y="140" font-size="9" fill="#6b7280" text-anchor="start" font-family="Inter,Helvetica,Arial,sans-serif">Low</text>
-    <text x="210" y="140" font-size="9" fill="#6b7280" text-anchor="end" font-family="Inter,Helvetica,Arial,sans-serif">High</text>
+    <text x="180" y="140" font-size="9" fill="#6b7280" text-anchor="end" font-family="Inter,Helvetica,Arial,sans-serif">High</text>
   </g>
 </svg>

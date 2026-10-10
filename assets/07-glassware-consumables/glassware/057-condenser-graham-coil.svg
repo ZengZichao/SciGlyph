@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="gl-condenser-graham-coil" data-cat="gl" data-spec="128"
      data-tags="condenser,graham,coil,spiral,cooling,jacket,water" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">螺旋冷凝管（卧式）/ Graham Coil Condenser</title>
+  <title id="t">螺旋冷凝管（卧式） / Graham Coil Condenser</title>
   <desc id="d">螺旋冷凝管(Graham)卧放，内管为螺旋形增大冷却面积，外层水夹套，冷却水下进上出，用于蒸馏回流。</desc>
   <g id="body">
     <rect x="26" y="53" width="76" height="22" rx="8" fill="#BFE0FF" stroke="none" data-ls="liquid"/>

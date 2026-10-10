@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="锁钥模型" data-name-en="Enzyme Substrate Lock" data-cat="natural-sciences" aria-labelledby="t-34 d-34" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-34">锁钥模型 / enzyme_substrate_lock</title>
-  <desc id="d-34">展示酶-底物锁钥模型。关键词: enzyme,substrate,lock and key</desc>
+  <title id="t-34">锁钥模型 / Enzyme Substrate Lock</title>
+  <desc id="d-34">展示酶-底物锁钥模型</desc>
   <g id="g-34-锁钥模型">
-    <path d="M30,40 L30,80 L70,80 L70,70 L60,70 L60,60 L70,60 L70,50 L60,50 L60,40 Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
-    <rect x="80" y="50" width="30" height="20" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
-    <rect x="110" y="55" width="20" height="10" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>
+    <path d="M26 28L98 28L98 48L74 48L74 72L98 72L98 92L26 92Z" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round" data-drole="series-1"/>
+    <path d="M98 42L138 42L138 78L98 78L98 72L74 72L74 48L98 48Z" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round" data-drole="series-2"/>
   </g>
 </svg>

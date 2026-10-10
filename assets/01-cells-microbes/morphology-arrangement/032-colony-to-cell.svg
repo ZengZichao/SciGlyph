@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="菌落→细胞放大尺度关系" data-name-en="Colony-to-cell scale" data-cat="01-morphology" data-tags="菌落,colony,放大,尺度关系,引线,显微观察,组合构图" role="img" aria-labelledby="t-32-colony-to-cell d-32-colony-to-cell" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-32-colony-to-cell">菌落→细胞放大尺度关系 / Colony-to-cell scale</title>
-  <desc id="d-32-colony-to-cell">组合构图：下方菌落整体经引线取样放大为上方单个细胞，两级比例尺直观表达尺度差。关键词: 菌落, colony, 放大, 尺度关系, 引线, 显微观察, 组合构图</desc>
+  <desc id="d-32-colony-to-cell">组合构图：下方菌落整体经引线取样放大为上方单个细胞，两级比例尺直观表达尺度差</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="22" y="10" width="76" height="40" rx="8" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>
     <rect x="30" y="17" width="60" height="26" rx="13" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>

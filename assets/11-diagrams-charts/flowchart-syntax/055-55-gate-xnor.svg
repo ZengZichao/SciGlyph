@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="同或门" data-name-en="gate-xnor" data-cat="flowchart-logic" aria-labelledby="t-55 d-55" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-55">同或门 / gate_xnor</title>
-  <desc id="d-55">逻辑同或门符号。关键词: gate,xnor,logic</desc>
+  <title id="t-55">同或门 / Gate-Xnor</title>
+  <desc id="d-55">逻辑同或门符号</desc>
   <g id="g-55-同或门">
     <path d="M20,15 Q45,40 20,65 Q55,65 75,40 Q55,15 20,15 Z" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M12,15 Q37,40 12,65" fill="none" stroke="#1f2937" stroke-width="1.5"/>

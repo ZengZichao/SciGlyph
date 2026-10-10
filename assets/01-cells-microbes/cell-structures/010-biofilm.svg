@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" stroke-linecap="round" stroke-linejoin="round" data-name-zh="生物膜" data-name-en="Biofilm" data-cat="02-structures" data-tags="生物膜,胞外聚合物,EPS,群落,抗药性,附着" role="img" aria-labelledby="t-10-biofilm d-10-biofilm" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-10-biofilm">生物膜 / Biofilm</title>
-  <desc id="d-10-biofilm">生物膜是细胞被胞外聚合物基质（EPS）包裹并黏附于固体表面形成的多细胞群落，对抗生素与消毒剂的耐受性显著升高。关键词: 生物膜, 胞外聚合物, EPS, 群落, 抗药性, 附着</desc>
+  <desc id="d-10-biofilm">生物膜是细胞被胞外聚合物基质（EPS）包裹并黏附于固体表面形成的多细胞群落，对抗生素与消毒剂的耐受性显著升高</desc>
 <g stroke-linecap="round" stroke-linejoin="round">
 <path d="M6 28C30 24 90 32 114 28" fill="none" stroke="#5FA8C7" stroke-width="1.6"/>
 <path d="M20 20C40 17 80 22 102 20" fill="none" stroke="#7A8B93" stroke-width="1.2" stroke-dasharray="2 3"/>

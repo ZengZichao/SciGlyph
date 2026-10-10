@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-phred_quality d-phred_quality" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-phred_quality">Phred 质量条 / Phred Quality Score Bar</title>
+  <title id="t-phred_quality">Phred 质量曲线 / Phred Quality Score Line</title>
   <desc id="d-phred_quality">Phred 质量分数沿 read 位置的分布。关键词: Phred, quality, Q-score, read</desc>
   <g data-name="body">
     <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />

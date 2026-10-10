@@ -4,56 +4,75 @@
   <title id="t-46">树缩略图 / Tree Thumbnail</title>
   <desc id="d-46">骨架，供多面板比对使用。小型缩略树，适合放在多面板图的一格中。 关键词: phylogenetic tree, thumbnail tree, multi-panel figure, small tree, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
-  <g id="pp46__clades" data-name="clade-shading">
-    <rect x="96.0" y="24.0" width="48.0" height="103.4" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="96.0" y="161.1" width="68.0" height="194.9" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
-  </g>
+  <g id="pp46__clades" data-name="clade-shading"/>
   <g id="pp46__branches" data-name="branches">
-    <line x1="80.0" y1="64.3" x2="80.0" y2="241.4" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="30.0" x2="100.0" y2="98.6" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="75.7" x2="120.0" y2="121.4" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="190.0" x2="100.0" y2="292.9" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="167.1" x2="120.0" y2="212.9" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="258.6" x2="120.0" y2="327.1" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="304.3" x2="140.0" y2="350.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="64.3" x2="100.0" y2="64.3" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="30.0" x2="120.0" y2="30.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="98.6" x2="120.0" y2="98.6" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="75.7" x2="140.0" y2="75.7" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="121.4" x2="140.0" y2="121.4" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="241.4" x2="100.0" y2="241.4" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="190.0" x2="120.0" y2="190.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="167.1" x2="140.0" y2="167.1" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="212.9" x2="140.0" y2="212.9" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="100.0" y1="292.9" x2="120.0" y2="292.9" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="258.6" x2="140.0" y2="258.6" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="120.0" y1="327.1" x2="140.0" y2="327.1" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="304.3" x2="160.0" y2="304.3" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="140.0" y1="350.0" x2="160.0" y2="350.0" stroke="#1B2733" stroke-width="0.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M60 104.5V272 M60 104.5H130 M130 62.6V146.4 M130 62.6H200 M200 41.7V83.6 M200 41.7H265 M265 31.2V52.2 M265 31.2H325 M325 26V36.5 M325 26H430 M325 36.5H380 M380 33V40 M380 33H430 M380 40H430 M265 52.2H325 M325 46.9V57.4 M325 46.9H430 M325 57.4H380 M380 53.9V60.9 M380 53.9H430 M380 60.9H430 M200 83.6H265 M265 73.1V94 M265 73.1H325 M325 67.9V78.3 M325 67.9H430 M325 78.3H380 M380 74.9V81.8 M380 74.9H430 M380 81.8H430 M265 94H325 M325 88.8V99.3 M325 88.8H430 M325 99.3H380 M380 95.8V102.8 M380 95.8H430 M380 102.8H430 M130 146.4H200 M200 125.4V167.3 M200 125.4H265 M265 115V135.9 M265 115H325 M325 109.7V120.2 M325 109.7H430 M325 120.2H380 M380 116.7V123.7 M380 116.7H430 M380 123.7H430 M265 135.9H325 M325 130.7V141.1 M325 130.7H430 M325 141.1H380 M380 137.7V144.6 M380 137.7H430 M380 144.6H430 M200 167.3H265 M265 156.9V177.8 M265 156.9H325 M325 151.6V162.1 M325 151.6H430 M325 162.1H380 M380 158.6V165.6 M380 158.6H430 M380 165.6H430 M265 177.8H325 M325 172.6V183 M325 172.6H430 M325 183H380 M380 179.5V186.5 M380 179.5H430 M380 186.5H430 M60 272H130 M130 230.1V313.9 M130 230.1H200 M200 209.2V251.1 M200 209.2H265 M265 198.7V219.7 M265 198.7H325 M325 193.5V204 M325 193.5H430 M325 204H380 M380 200.5V207.4 M380 200.5H430 M380 207.4H430 M265 219.7H325 M325 214.4V224.9 M325 214.4H430 M325 224.9H380 M380 221.4V228.4 M380 221.4H430 M380 228.4H430 M200 251.1H265 M265 240.6V261.5 M265 240.6H325 M325 235.4V245.8 M325 235.4H430 M325 245.8H380 M380 242.3V249.3 M380 242.3H430 M380 249.3H430 M265 261.5H325 M325 256.3V266.8 M325 256.3H430 M325 266.8H380 M380 263.3V270.3 M380 263.3H430 M380 270.3H430 M130 313.9H200 M200 292.9V334.8 M200 292.9H265 M265 282.5V303.4 M265 282.5H325 M325 277.2V287.7 M325 277.2H430 M325 287.7H380 M380 284.2V291.2 M380 284.2H430 M380 291.2H430 M265 303.4H325 M325 298.2V308.6 M325 298.2H430 M325 308.6H380 M380 305.1V312.1 M380 305.1H430 M380 312.1H430 M200 334.8H265 M265 324.3V345.3 M265 324.3H325 M325 319.1V329.6 M325 319.1H430 M325 329.6H380 M380 326.1V333.1 M380 326.1H430 M380 333.1H430 M265 345.3H325 M325 340V350.5 M325 340H430 M325 350.5H380 M380 347V354 M380 347H430 M380 354H430"
+          fill="none" stroke="#1B2733" stroke-width="0.6" data-pp="ink" stroke-linecap="round"/>
   </g>
-  <g id="pp46__nodes" data-name="nodes">
-    <circle cx="80.0" cy="152.9" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="100.0" cy="64.3" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="98.6" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="100.0" cy="241.4" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="190.0" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="120.0" cy="292.9" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="140.0" cy="327.1" r="1.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+  <g id="pp46__nodes" data-name="nodes"/>
+  <g id="pp46__labels" data-name="tip-labels"/>
+  <g data-name="domain-track">
+    <rect x="436" y="23" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="30" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="37" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="43.9" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="50.9" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="57.9" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="64.9" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="71.9" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="78.8" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="85.8" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="92.8" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="99.8" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="106.7" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="113.7" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="120.7" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="127.7" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="134.7" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="141.6" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="148.6" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="155.6" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="162.6" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="169.6" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="176.5" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="183.5" width="10" height="6" fill="#2E86AB" data-pp="bacteria"/>
+    <rect x="436" y="190.5" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="197.5" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="204.4" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="211.4" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="218.4" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="225.4" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="232.4" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="239.3" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="246.3" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="253.3" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="260.3" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="267.3" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="274.2" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="281.2" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="288.2" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="295.2" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="302.1" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="309.1" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="316.1" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="323.1" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="330.1" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="337" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="344" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
+    <rect x="436" y="351" width="10" height="6" fill="#A2305B" data-pp="archaea"/>
   </g>
-  <g id="pp46__labels" data-name="tip-labels">
-    <text x="125.0" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
-    <text x="145.0" y="78.7" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
-    <text x="145.0" y="124.4" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
-    <text x="145.0" y="170.1" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
-    <text x="145.0" y="215.9" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_E</text>
-    <text x="145.0" y="261.6" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_F</text>
-    <text x="165.0" y="307.3" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_G</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_H</text>
+  <g data-name="domain-legend">
+    <text x="456" y="170" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">domain</text>
+    <rect x="456" y="178" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+    <text x="474" y="188" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Bacteria</text>
+    <rect x="456" y="196" width="12" height="12" fill="#A2305B" data-pp="archaea"/>
+    <text x="474" y="206" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Archaea</text>
+    <text x="456" y="226" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">48 tips, thin lines</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="60" y1="380" x2="130" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="60" y1="377" x2="60" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="130" y1="377" x2="130" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="95" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

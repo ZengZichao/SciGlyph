@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" role="img" data-name-zh="数据库" data-name-en="database_cylinder" data-cat="basic-icons-ui" aria-labelledby="t-22 d-22" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-22">数据库 / database_cylinder</title>
-  <desc id="d-22">数据库存储图标。关键词: 数据库,存储,database,cylinder</desc>
+  <title id="t-22">数据库 / Database_Cylinder</title>
+  <desc id="d-22">数据库存储图标</desc>
   <g id="g-22-数据库">
     <ellipse cx="24" cy="12" rx="14" ry="6" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
     <path d="M10 12 L10 36 Q10 42 24 42 Q38 42 38 36 L38 12" fill="none" stroke="#1f2937" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="折叠分支三角" data-name-en="Collapsed branch" data-cat="04-phylo" data-tags="折叠,三角,collapsed,隐藏多样性,树形压缩" aria-labelledby="t-13-collapsed-branch d-13-collapsed-branch" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-13-collapsed-branch">折叠分支三角 / Collapsed branch</title>
-  <desc id="d-13-collapsed-branch">含大量不可见类群的分支折叠为三角形，三角形内的叶端以灰色虚线示意，表示该支序包含 n 个未显示类群。关键词: 折叠, 三角, collapsed, 隐藏多样性, 树形压缩</desc>
+  <desc id="d-13-collapsed-branch">含大量不可见类群的分支折叠为三角形，三角形内的叶端以灰色虚线示意，表示该支序包含 n 个未显示类群</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="8" width="112" height="104" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">

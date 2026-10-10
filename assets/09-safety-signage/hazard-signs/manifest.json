@@ -528,7 +528,7 @@
    "category": "09-safety-signage",
    "subdir": "hazard-signs",
    "canvas": "0 0 128 128",
-   "desc": "受限空间警告：人+三角形。",
+   "desc": "受限空间警告：人员探入密闭容器入口。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -624,7 +624,7 @@
    "category": "09-safety-signage",
    "subdir": "hazard-signs",
    "canvas": "0 0 128 128",
-   "desc": "手+蒸汽/火焰高温烫伤警告标志。",
+   "desc": "高温表面警告：手悬于热面上方，热面上升3条热波纹。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

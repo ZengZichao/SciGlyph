@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="160" viewBox="0 0 480 160" role="img" data-name-zh="统计结果串" data-name-en="stat-result-inline" data-cat="tables-frames" aria-labelledby="t-50 d-50" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-50">统计结果串 / stat_result_inline</title>
-  <desc id="d-50">统计结果内联显示。关键词: 统计结果,F值,p值</desc>
+  <title id="t-50">统计结果串 / Stat-Result-Inline</title>
+  <desc id="d-50">统计结果内联显示</desc>
   <g id="g-50-统计结果串">
     <rect x="30" y="30" width="420" height="100" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <text x="240" y="65" font-size="14" fill="#1f2937" text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" font-weight="bold">F(2,27)=5.31</text>

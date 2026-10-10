@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="全等三角形对" data-name-en="Triangle Congruent Pair" data-cat="geometry-math" aria-labelledby="t-25 d-25" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-25">全等三角形对 / triangle_congruent_pair</title>
-  <desc id="d-25">两个全等三角形对比。关键词: congruent,triangle,geometry</desc>
+  <title id="t-25">全等三角形对 / Triangle Congruent Pair</title>
+  <desc id="d-25">两个全等三角形对比</desc>
   <g id="g-25-全等三角形对">
     <polygon points="10,90 50,90 30,30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <polygon points="65,90 105,90 85,30" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>

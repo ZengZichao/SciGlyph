@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="显著性括号ns" data-name-en="significance-bracket-ns" data-cat="tables-frames" aria-labelledby="t-33 d-33" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-33">显著性括号ns / significance_bracket_ns</title>
-  <desc id="d-33">显著性检验括号标注ns。关键词: 显著性,括号,ns</desc>
-  <g id="g-33-显著性括号ns">
+  <title id="t-33">显著性括号ns / Significance-Bracket-Ns</title>
+  <desc id="d-33">显著性检验括号标注ns</desc>
+  <g id="g-33-显著性括号ns" transform="translate(0,-28)">
     <rect x="80" y="120" width="40" height="80" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="200" y="120" width="40" height="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="100" y1="100" x2="100" y2="90" stroke="#1f2937" stroke-width="1.5" fill="none"/>

@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="变压器" data-name-en="transformer-two-winding" data-cat="physics-electronics" aria-labelledby="t-08 d-08" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-08">变压器 / transformer_two_winding</title>
-  <desc id="d-08">双绕组变压器符号。关键词: 变压器,双绕组,磁耦合</desc>
-  <g id="g-08-变压器">
+  <title id="t-08">变压器 / Transformer-Two-Winding</title>
+  <desc id="d-08">双绕组变压器符号</desc>
+  <g id="g-08-变压器" transform="translate(22.5 0)">
     <path d="M 30 20 Q 15 27 30 35" fill="none" stroke="#1f2937" stroke-width="2"/>
     <path d="M 30 35 Q 15 42 30 50" fill="none" stroke="#1f2937" stroke-width="2"/>
     <path d="M 30 50 Q 15 57 30 65" fill="none" stroke="#1f2937" stroke-width="2"/>

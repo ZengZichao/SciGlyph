@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-nitrogen_fixation d-nitrogen_fixation" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-nitrogen_fixation">Nitrogen Fixation</title>
-  <desc id="d-nitrogen_fixation">Root nodule with Y-shaped Rhizobium bacteroids fixing N2 关键词: nitrogen, fixation, rhizobia, nodule</desc>
+  <title id="t-nitrogen_fixation">Nitrogen-fixing symbiosis</title>
+  <desc id="d-nitrogen_fixation">Root nodule with Y-shaped Rhizobium bacteroids fixing N2</desc>
   
   <g id="layer-body" data-name="body">
     <path d="M10,45 L50,45" fill="#00857A" stroke="#00857A" stroke-width="3" stroke-linecap="round" data-pp="metabolism"/>
@@ -10,7 +10,7 @@
     <path d="M55,42 L55,38 M55,42 L52,45 M55,42 L58,45" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
     <path d="M63,42 L63,38 M63,42 L60,45 M63,42 L66,45" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
     <path d="M58,50 L58,46 M58,50 L55,53 M58,50 L61,53" fill="#2E86AB" stroke="#2E86AB" stroke-width="1.5" stroke-linecap="round" data-pp="bacteria"/>
-    <text x="75" y="45" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">N2</text>
+    <text x="75" y="45" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism">N₂</text>
     <line x1="72" y1="48" x2="68" y2="48" stroke="#00857A" stroke-width="1" stroke-linecap="round" data-pp="metabolism"/>
     <path d="M70,46 L68,48 L70,50" fill="#00857A" stroke="#00857A" stroke-width="0.8" stroke-linecap="round" data-pp="metabolism"/>
   </g>

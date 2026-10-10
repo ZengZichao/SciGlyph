@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      class="pp-diagram pp-workflow" role="img" aria-labelledby="t-22_dna_sip_nanosims d-22_dna_sip_nanosims" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-22_dna_sip_nanosims">原位活性检测流程 / In Situ Activity Detection (DNA-SIP)</title>
+  <title id="t-22_dna_sip_nanosims">稳定同位素活性检测流程 / DNA-SIP / NanoSIMS Activity Detection</title>
   <desc id="d-22_dna_sip_nanosims">骨架流程：样本→13C标记底物→incubation→DNA提取→超离心分离→收集重馏分→测序重DNA→NanoSIMS验证→活性类群鉴定。工具：DNA-SIP, NanoSIMS。输入：环境样本+13C底物；输出：活性微生物鉴定。 关键词: bioinformatics workflow, dna sip nanosims, Situ, Activity, DNA-SIP, incubation, Incubate, skeleton template</desc>
 <defs>
   <marker id="pp22__arrow" viewBox="0 0 10 10" refX="9" refY="5"
@@ -19,7 +19,7 @@
 
   <rect x="130" y="60" width="95" height="44" rx="8" ry="8"
         fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5"/>
-    <text x="177.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">13C Label</text>
+    <text x="177.5" y="86.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">¹³C Label</text>
 
   <rect x="240" y="60" width="95" height="44" rx="8" ry="8"
         fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>
@@ -58,9 +58,9 @@
   <line x1="115" y1="206.0" x2="130" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
   <line x1="225" y1="206.0" x2="240" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
   <line x1="335" y1="206.0" x2="350" y2="206.0" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp22__arrow)" stroke-linecap="round"/>
-  <text x="20" y="45" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA-SIP / NanoSIMS In Situ Activity</text>
+  <text x="20" y="45" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">DNA-SIP / NanoSIMS Activity Detection</text>
     <rect x="20" y="370" width="12" height="12" rx="2" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5"/>
-  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">13C/DNA</text>
+  <text x="36" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">¹³C/DNA</text>
   <rect x="97" y="370" width="12" height="12" rx="2" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="0.5"/>
   <text x="113" y="380" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">SIP</text>
   <rect x="146" y="370" width="12" height="12" rx="2" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>

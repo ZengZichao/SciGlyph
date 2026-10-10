@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="16S rRNA 二级结构片段" data-name-en="16S secondary structure" data-cat="04-phylo" data-tags="16S rRNA,二级结构,茎环,发夹,保守区" aria-labelledby="t-24-16s-secondary-structure d-24-16s-secondary-structure" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-24-16s-secondary-structure">16S rRNA 二级结构片段 / 16S secondary structure</title>
-  <desc id="d-24-16s-secondary-structure">16S rRNA 二级结构的茎-环片段：竖线为茎、横线为碱基配对，顶部弧为环，红色虚线框标出用于扩增/比对的保守区段。关键词: 16S rRNA, 二级结构, 茎环, 发夹, 保守区</desc>
+  <desc id="d-24-16s-secondary-structure">16S rRNA 二级结构的茎-环片段：竖线为茎、横线为碱基配对，顶部弧为环，红色虚线框标出用于扩增/比对的保守区段</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="6" width="112" height="108" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <path d="M 12 92 H 108" stroke="#2B3A42" stroke-width="2" fill="none"/>

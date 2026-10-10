@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="树型拓扑" data-name-en="Topology Tree" data-cat="diagrams-sw-uml" aria-labelledby="t-56 d-56" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-56">树型拓扑 / topology_tree</title>
-  <desc id="d-56">树型网络拓扑。关键词: tree,topology,network</desc>
+  <title id="t-56">树型拓扑 / Topology Tree</title>
+  <desc id="d-56">树型网络拓扑</desc>
   <g id="g-56-树型拓扑">
     <circle cx="160" cy="40" r="14" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="80" cy="110" r="12" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>

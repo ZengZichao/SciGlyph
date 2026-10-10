@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-pcr-thermal-cycler" data-cat="ls" data-spec="128" data-tags="pcr,thermal,cycler,denaturation,annealing,extension,96,well" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="ls-pcr-thermal-cycler" data-cat="ls" data-spec="128" data-tags="pcr,thermal,cycler,denaturation,annealing,extension,96,well" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">PCR热循环仪 / PCR Thermal Cycler</title>
   <desc id="d">PCR热循环仪：加热盖、96孔样品块、半导体控温。</desc>
   <g id="body">

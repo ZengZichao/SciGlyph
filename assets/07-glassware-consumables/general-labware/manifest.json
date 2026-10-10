@@ -438,7 +438,7 @@
   {
    "file": "020-woulff-bottle.svg",
    "name_zh": "安全瓶",
-   "name_en": "Woulff_Bottle",
+   "name_en": "safety_bottle",
    "tags": [
     "安全瓶",
     "woulff",
@@ -452,7 +452,7 @@
    "category": "07-glassware-consumables",
    "subdir": "general-labware",
    "canvas": "0 0 120 120",
-   "desc": "减压蒸馏中缓冲安全",
+   "desc": "减压蒸馏中缓冲安全。关键词: 安全瓶,safety,缓冲,减压",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -761,7 +761,7 @@
    "category": "07-glassware-consumables",
    "subdir": "general-labware",
    "canvas": "0 0 120 120",
-   "desc": "支撑三角架放置坩埚",
+   "desc": "放置坩埚作高温灼烧的环形三足支架。关键词: 坩埚架,holder,支撑,坩埚",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

@@ -4,12 +4,14 @@
      data-id="hz-hazard-high-temperature" data-cat="hz" data-spec="128"
      data-tags="temperature,hot,burn,高温,烫伤" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">高温烫伤标志 / High Temperature Hazard</title>
-  <desc id="d">手+蒸汽/火焰高温烫伤警告标志。</desc>
+  <desc id="d">高温表面警告：手悬于热面上方，热面上升3条热波纹。</desc>
   <g id="body"><rect x="14" y="14" width="100" height="100" rx="6" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
-    <path d="M44 68 L44 90 C44 94 48 96 52 96 L76 96 C80 96 84 94 84 90 L84 68" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
-    <path d="M52 68 L52 80 M60 68 L60 80 M68 68 L68 80 M76 68 L76 80" fill="none" stroke="#1F2933" stroke-width="2" data-ls="stroke"/>
-    <path d="M50 60 Q54 50 50 40" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/>
-    <path d="M64 58 Q68 46 64 36" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/>
-    <path d="M78 60 Q82 50 78 40" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="2.5" data-ls="danger"/></g>
-  <g id="detail"></g>
+    <path d="M28 96 Q64 86 100 96 L100 102 Q64 92 28 102 Z" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <path d="M52 88 Q57 81 52 74 Q47 67 52 60 M68 84 Q73 77 68 70 Q63 63 68 56 M84 88 Q89 81 84 74 Q79 67 84 60" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="3.5" data-ls="danger"/></g>
+  <g id="detail"><rect x="44" y="18" width="50" height="20" rx="8" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <ellipse cx="38" cy="30" rx="7" ry="5" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <rect x="48" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <rect x="59" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <rect x="70" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <rect x="81" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/></g>
 </svg>

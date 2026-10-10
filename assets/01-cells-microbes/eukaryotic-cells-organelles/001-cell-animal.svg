@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="动物细胞" data-name-en="Animal Cell" data-cat="natural-sciences" aria-labelledby="t-09 d-09" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-09">动物细胞 / cell_animal</title>
-  <desc id="d-09">展示动物细胞剖面结构。关键词: animal cell,organelle,eukaryote</desc>
+  <title id="t-09">动物细胞 / Animal cell</title>
+  <desc id="d-09">展示动物细胞剖面结构</desc>
   <g id="g-09-动物细胞">
     <ellipse cx="160" cy="120" rx="140" ry="100" fill="#e5e7eb" stroke="#1f2937" stroke-width="2"/>
     <circle cx="160" cy="110" r="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>

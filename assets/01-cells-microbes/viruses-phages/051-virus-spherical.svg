@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="球形病毒" data-name-en="Spherical Virus" data-cat="natural-sciences" aria-labelledby="t-42 d-42" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-42">球形病毒 / virus_spherical</title>
-  <desc id="d-42">展示球形病毒（衣壳+刺突）。关键词: virus,spherical,capsid,spike</desc>
+  <title id="t-42">球形病毒 / Spherical Virus</title>
+  <desc id="d-42">展示球形病毒（衣壳+刺突）</desc>
   <g id="g-42-球形病毒">
     <circle cx="60" cy="60" r="30" fill="#D55E00" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <circle cx="60" cy="25" r="4" fill="#E69F00" stroke="#1f2937" stroke-width="1.5" stroke-dasharray="6 3" data-drole="series-2"/>

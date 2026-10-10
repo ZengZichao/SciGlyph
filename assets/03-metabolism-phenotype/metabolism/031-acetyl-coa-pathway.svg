@@ -15,9 +15,9 @@
         <circle cx="15" cy="70" r="8" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="15" y="71.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">CO₂</text>
         <rect x="35" y="22" width="16" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="43.0" y="29.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">West</text>
+    <text x="43.0" y="29.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">West</text>
         <rect x="35" y="62" width="16" height="12" rx="1" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1"/>
-    <text x="43.0" y="69.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">East</text>
+    <text x="43.0" y="69.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">East</text>
         <circle cx="75" cy="47" r="10" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
     <text x="75" y="48.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">AcCoA</text>
   </g>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="帕累托图" data-name-en="Pareto Bars Line" data-cat="charts-plots" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">帕累托图 / pareto_bars_line</title>
-  <desc id="d-32">帕累托柱线组合图。关键词: pareto,cumulative,line</desc>
+  <title id="t-32">帕累托图 / Pareto Bars Line</title>
+  <desc id="d-32">帕累托柱线组合图</desc>
   <g id="g-32-帕累托图">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>
@@ -17,6 +17,7 @@
     <rect x="329" y="251" width="46" height="29" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <text x="352" y="296" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#6b7280" text-anchor="middle">E</text>
     <polyline points="88,180 154,111 220,68 286,42 352,30" fill="none" stroke="#D55E00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="6 3" data-drole="series-2"/>
+    <text x="338" y="20" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#D55E00" text-anchor="middle">cumulative %</text>
     <circle cx="88" cy="180" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
     <circle cx="154" cy="111" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>
     <circle cx="220" cy="68" r="2.5" fill="#D55E00" stroke="#1f2937" stroke-width="0.75" stroke-dasharray="6 3" data-drole="series-2"/>

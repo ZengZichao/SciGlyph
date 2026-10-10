@@ -17,7 +17,7 @@
         <circle cx="75" cy="43" r="5" fill="#1B2733" data-pp="ink" stroke="#1B2733" stroke-width="1"/>
     <text x="75" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">e⁻</text>
         <circle cx="88" cy="43" r="5" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1"/>
-    <text x="88" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">H⁺</text>
+    <text x="88" y="44.5" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">H⁺</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
         <line x1="19" y1="43" x2="30" y2="43" stroke="#1B2733" data-pp="ink" stroke-width="1" marker-end="url(#pp25__ar)"/>

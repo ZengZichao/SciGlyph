@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="左侧大括号" data-name-en="brace-group-left" data-cat="tables-frames" aria-labelledby="t-32 d-32" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-32">左侧大括号 / brace_group_left</title>
-  <desc id="d-32">左侧大括号分组。关键词: 大括号,左侧,分组标记</desc>
-  <g id="g-32-左侧大括号">
+  <title id="t-32">左侧大括号 / Brace-Group-Left</title>
+  <desc id="d-32">左侧大括号分组</desc>
+  <g id="g-32-左侧大括号" transform="translate(104,20)">
     <line x1="50" y1="50" x2="40" y2="50" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="40" y1="50" x2="40" y2="100" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="40" y1="100" x2="35" y2="100" stroke="#1f2937" stroke-width="1.5" fill="none"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="异步消息" data-name-en="Async Message Arrow" data-cat="diagrams-sw-uml" aria-labelledby="t-23 d-23" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-23">异步消息 / message_async_arrow</title>
-  <desc id="d-23">开口箭头的异步消息箭头。关键词: async,message,open-arrow</desc>
+  <title id="t-23">异步消息 / Async Message Arrow</title>
+  <desc id="d-23">开口箭头的异步消息箭头</desc>
   <g id="g-23-异步消息">
     <line fill="none" x1="10" y1="24" x2="75" y2="24" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 80 24 L 72 20 L 72 28 Z" fill="none" stroke="#1f2937" stroke-width="1.5"/>

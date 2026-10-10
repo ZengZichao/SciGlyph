@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="皮肤菌群" data-name-en="Skin Microbiome" data-cat="05-eco-seq" data-tags="皮肤菌群,表皮,毛囊,皮脂腺,汗孔" role="img" aria-labelledby="t-10-skin-microbiome d-10-skin-microbiome" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-10-skin-microbiome">皮肤菌群 / Skin Microbiome</title>
-  <desc id="d-10-skin-microbiome">葡萄球菌成簇与棒状杆菌定殖于角质层、毛囊和皮脂腺周围，依赖皮脂与汗液维持群落稳定。关键词: 皮肤菌群, 表皮, 毛囊, 皮脂腺, 汗孔</desc>
+  <desc id="d-10-skin-microbiome">葡萄球菌成簇与棒状杆菌定殖于角质层、毛囊和皮脂腺周围，依赖皮脂与汗液维持群落稳定</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 真皮层 -->
   <path d="M6 92 H114 V113 H6 Z" fill="#F6DADA" fill-opacity="0.35" stroke="#C0504D" stroke-width="1.2"/>

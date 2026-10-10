@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-eco-interactions" role="img" aria-labelledby="t-syntrophy d-syntrophy" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-syntrophy">Syntrophy</title>
-  <desc id="d-syntrophy">formate to methanogen (CH₄), keeping H₂ partial pressure low; mutual benefit 关键词: syntrophy, H2, methanogenesis</desc>
+  <desc id="d-syntrophy">Syntrophy: butyrate-oxidizing bacterium (C₄) transfers H₂/formate to methanogen (CH₄), keeping H₂ partial pressure low; mutual benefit</desc>
 
   <g id="layer-body" data-name="body">
     <circle cx="30" cy="45" r="12" fill="#2E86AB" stroke="#1B2733" stroke-width="1.5" data-pp="bacteria"/>

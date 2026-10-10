@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="六边形" data-name-en="Hexagon" data-cat="geometry-math" aria-labelledby="t-12 d-12" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-12">六边形 / hexagon</title>
-  <desc id="d-12">正六边形。关键词: hexagon,polygon,geometry</desc>
+  <title id="t-12">六边形 / Hexagon</title>
+  <desc id="d-12">正六边形</desc>
   <g id="g-12-六边形">
     <polygon points="60,14 103,39 103,89 60,114 17,89 17,39" fill="#ffffff" stroke="#1f2937" stroke-width="1.5" stroke-linejoin="round"/>
     <text x="60" y="10" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#1f2937" text-anchor="middle">A</text>

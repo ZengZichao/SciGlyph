@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="96" height="48" viewBox="0 0 96 48" role="img" data-name-zh="无线弧" data-name-en="Net Link WiFi Arc" data-cat="diagrams-sw-uml" aria-labelledby="t-67 d-67" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-67">无线弧 / net_link_wifi_arc</title>
-  <desc id="d-67">无线网络弧形连接。关键词: wifi,wireless,arc,network</desc>
+  <title id="t-67">无线弧 / Net Link Wifi Arc</title>
+  <desc id="d-67">无线网络弧形连接</desc>
   <g id="g-67-无线弧">
     <path d="M 20 40 Q 48 10 76 40" fill="none" stroke="#1f2937" stroke-width="1.5"/>
     <path d="M 30 40 Q 48 20 66 40" fill="none" stroke="#1f2937" stroke-width="1.5"/>

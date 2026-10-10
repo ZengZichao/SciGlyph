@@ -4,12 +4,12 @@
   <title id="t-43_legend_linestyle">线型图例 / Line styles</title>
   <desc id="d-43_legend_linestyle">虚线vs实线含义图例。骨架，配合多线图使用。关键词: legend, line style, dashed, solid</desc>
   <g id="layer-body" data-name="body">
-    <line x1="10" y1="28" x2="40" y2="28" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
-    <line x1="46.0" y1="28.9" x2="34.4" y2="28.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="34.4" y="31.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">solid: observed</text>
-    <line x1="10" y1="44" x2="40" y2="44" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-dasharray="4 2" stroke-linecap="round"/>
-    <line x1="46.0" y1="44.9" x2="25.72" y2="44.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="25.72" y="47.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dashed: predicted</text>
-    <line x1="10" y1="60" x2="40" y2="60" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-dasharray="1 3" stroke-linecap="round"/>
-    <line x1="46.0" y1="60.9" x2="25.72" y2="60.9" stroke="#5A6B7B" stroke-width="0.5" stroke-dasharray="1.5,1.2"/><text x="25.72" y="63.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dotted: uncertain</text>
+    <line x1="10" y1="28" x2="26" y2="28" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
+    <text x="32" y="31.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">solid: observed</text>
+    <line x1="10" y1="44" x2="26" y2="44" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-dasharray="4 2" stroke-linecap="round"/>
+    <text x="25.72" y="47.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dashed: predicted</text>
+    <line x1="10" y1="60" x2="26" y2="60" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-dasharray="1 3" stroke-linecap="round"/>
+    <text x="25.72" y="63.0" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start">dotted: uncertain</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="96" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Line styles</text>

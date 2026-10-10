@@ -11,7 +11,7 @@
     <circle cx="60" cy="60" r="5" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted"/>
     <polygon points="40,55 42,58 45,58 43,60 44,63 40,61 36,63 37,60 35,58 38,58" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert"/>
     <text x="40" y="70" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert">type</text>
-  <path d="M50,25 L50,20" fill="none" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/><line x1="45" y1="60" x2="55" y2="60" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/><circle cx="50" cy="40" r="2.5" fill="#6C3FA0" stroke="#1B2733" stroke-width="0.8" data-pp="gene"/><path d="M42,40 Q50,34 58,40" fill="none" stroke="#6C3FA0" stroke-width="1.1" data-pp="gene" stroke-linecap="round"/></g>
+  <path d="M50,25 L50,20" fill="none" stroke="#1B2733" stroke-width="1.2" data-pp="ink" stroke-linecap="round"/><line x1="45" y1="60" x2="55" y2="60" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/></g>
   
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="92" text-anchor="middle" font-size="7" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink">模式种</text>

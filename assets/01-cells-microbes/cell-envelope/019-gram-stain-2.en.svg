@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-cell-envelope" role="img" aria-labelledby="t-gram_stain d-gram_stain" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-gram_stain">Gram stain</title>
-  <desc id="d-gram_stain">Gram stain result: purple G+ cocci vs red G- rods 关键词: Gram stain, purple, red, G+, G-</desc>
+  <desc id="d-gram_stain">Gram stain result: purple G+ cocci vs red G- rods</desc>
   
   <g id="layer-body" data-name="body">
     <circle cx="25" cy="40" r="6" fill="#6C3FA0" stroke="#1B2733" stroke-width="1.5" data-pp="gene"/>

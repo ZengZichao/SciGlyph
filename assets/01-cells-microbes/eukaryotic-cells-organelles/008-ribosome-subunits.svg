@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="核糖体" data-name-en="Ribosome Subunits" data-cat="natural-sciences" aria-labelledby="t-16 d-16" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-16">核糖体 / ribosome_subunits</title>
-  <desc id="d-16">展示核糖体大小亚基。关键词: ribosome,subunit,translation</desc>
+  <title id="t-16">核糖体 / Ribosomal subunits</title>
+  <desc id="d-16">展示核糖体大小亚基</desc>
   <g id="g-16-核糖体">
     <ellipse cx="60" cy="45" rx="35" ry="25" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <ellipse cx="60" cy="82" rx="28" ry="18" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

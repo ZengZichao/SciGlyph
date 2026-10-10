@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="三维坐标轴" data-name-en="Axes 3D" data-cat="geometry-math" aria-labelledby="t-47 d-47" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-47">三维坐标轴 / axes_3d</title>
-  <desc id="d-47">xyz三轴带箭头。关键词: axes,3d,coordinate</desc>
+  <title id="t-47">三维坐标轴 / Axes 3D</title>
+  <desc id="d-47">xyz三轴带箭头</desc>
   <g id="g-47-三维坐标轴">
     <line fill="none" x1="20" y1="90" x2="100" y2="90" stroke="#1f2937" stroke-width="1.5"/>
     <polygon points="97,87 97,93 104,90" fill="#1f2937" stroke="none"/>

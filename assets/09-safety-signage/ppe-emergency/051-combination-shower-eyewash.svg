@@ -10,8 +10,8 @@
      <path d="M40 32 L88 32 L84 44 L44 44 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M64 44 L64 70" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M44 70 L84 70 L80 82 L48 82 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
-     <path d="M48 48 L48 66 M56 48 L56 66 M64 48 L64 66 M72 48 L72 66 M80 48 L80 66" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
-  <g id="detail"><path d="M52 86 L52 108 M60 86 L60 108 M68 86 L68 108 M76 86 L76 108" fill="#2B7DE9" stroke="none" data-ls="accent"/>
+     <path d="M48 48 L48 66 M56 48 L56 66 M64 48 L64 66 M72 48 L72 66 M80 48 L80 66" fill="none" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/></g>
+  <g id="detail"><path d="M52 86 L52 108 M60 86 L60 108 M68 86 L68 108 M76 86 L76 108" fill="none" stroke="#2B7DE9" stroke-width="2.5" stroke-linecap="round" data-ls="accent"/>
      <path d="M42 44 Q50 46 58 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M70 44 Q78 46 86 44" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/></g>
 </svg>

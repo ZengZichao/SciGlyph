@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="逗号弧菌" data-name-en="Comma" data-cat="01-morphology" data-tags="逗号弧菌,comma,逗号形,霍乱弧菌,不对称" role="img" aria-labelledby="t-11-comma d-11-comma" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-11-comma">逗号弧菌 / Comma</title>
-  <desc id="d-11-comma">一端膨大、另一端渐细的逗号形弯曲杆菌，霍乱弧菌（Vibrio cholerae）为代表。关键词: 逗号弧菌, comma, 逗号形, 霍乱弧菌, 不对称</desc>
+  <desc id="d-11-comma">一端膨大、另一端渐细的逗号形弯曲杆菌，霍乱弧菌（Vibrio cholerae）为代表</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <path d="M 100,94 C 86,89 76,78 68,62 A 26,26 0 1 0 20,48 C 19,62 24,78 40,88 C 60,100 82,101 100,94 Z" fill="#DCEEE4" stroke="#2E7D5B" stroke-width="2"/>
     <circle cx="44" cy="43" r="11" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.4"/>

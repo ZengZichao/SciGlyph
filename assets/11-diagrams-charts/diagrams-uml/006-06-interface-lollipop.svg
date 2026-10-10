@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="接口棒棒糖" data-name-en="Interface Lollipop" data-cat="diagrams-sw-uml" aria-labelledby="t-06 d-06" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-06">接口棒棒糖 / interface_lollipop</title>
-  <desc id="d-06">棒棒糖表示法展示接口。关键词: interface,lollipop,provided</desc>
+  <title id="t-06">接口棒棒糖 / Interface Lollipop</title>
+  <desc id="d-06">棒棒糖表示法展示接口</desc>
   <g id="g-06-接口棒棒糖">
     <rect x="10" y="20" width="50" height="40" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <text x="35" y="44" fill="#1f2937" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" text-anchor="middle">Class</text>

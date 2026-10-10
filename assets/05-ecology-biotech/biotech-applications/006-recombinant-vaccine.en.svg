@@ -8,7 +8,7 @@
   <path d="M37 50 A16 16 0 0 1 22 58" stroke="#5FA8C7" stroke-width="4"/>
   <path d="M7 50 A16 16 0 0 1 7 34" stroke="#5FA8C7" stroke-width="4"/>
   <circle cx="30" cy="27" r="1.8" fill="#B57A17" stroke="none"/>
-  <text x="18" y="66" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">plasmid</text>
+  <text x="18" y="66" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Plasmid</text>
   <!-- ①→② -->
   <path d="M38 42 H43 M41 40 l2.5 2 l-2.5 2" stroke="#B57A17" stroke-width="1.6"/>
   <!-- ② 宿主细胞表达抗原 -->
@@ -44,6 +44,6 @@
   <path d="M47 90 H43 M43 84 V97" stroke="#B57A17" stroke-width="1.6"/>
   <path d="M77 90 H86" stroke="#2B3A42" stroke-width="1.4"/>
   <path d="M56 84 v13 M63 84 v13 M70 84 v13" stroke="#7A8B93" stroke-width="1.2"/>
-  <text x="62.0" y="74.8" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#2B3A42" stroke="none" text-anchor="middle">Vaccine formulation</text>
+  <text x="78.0" y="74.8" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" fill="#2B3A42" stroke="none" text-anchor="middle">Vaccine formulation</text>
 </g>
 </svg>

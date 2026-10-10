@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="图例边框盒" data-name-en="legend-box-outline" data-cat="tables-frames" aria-labelledby="t-37 d-37" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-37">图例边框盒 / legend_box_outline</title>
-  <desc id="d-37">带边框的图例盒。关键词: 图例,边框,图例盒</desc>
+  <title id="t-37">图例边框盒 / Legend-Box-Outline</title>
+  <desc id="d-37">带边框的图例盒</desc>
   <g id="g-37-图例边框盒">
     <rect x="100" y="60" width="120" height="120" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <rect x="110" y="75" width="12" height="12" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>

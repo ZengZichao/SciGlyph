@@ -8,7 +8,7 @@
   
   <g id="figure"><circle cx="36" cy="26" r="10" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M26 36 L24 78 L18 116 L30 116 L36 88 L42 116 L54 116 L48 78 L46 36 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M60 80 L112 80 L112 96 L60 96 Z" rx="8" transform="rotate(-15 86 88)" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
+  <g id="prop"><rect x="62" y="81" width="48" height="14" rx="7" transform="rotate(-15 86 88)" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M56 84 L52 80 Q50 76 54 74 Q58 72 60 76 L60 84 Z" transform="rotate(-15 58 80)" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <circle cx="86" cy="80" r="28" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/>
      <path d="M66 60 L106 100" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" data-ls="stroke"/></g>

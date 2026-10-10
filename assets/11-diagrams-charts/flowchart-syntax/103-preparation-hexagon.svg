@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="pf-preparation-hexagon" data-cat="pf" data-spec="160"
      data-tags="preparation,hexagon,setup,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">准备六边形 / Preparation Hexagon</title>
+  <title id="t">准备六边形（空白符号） / Preparation Hexagon</title>
   <desc id="d">流程图准备步骤符号，六边形。</desc>
   <g id="body">
     <polygon points="50,16 110,16 140,48 110,80 50,80 20,48" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>

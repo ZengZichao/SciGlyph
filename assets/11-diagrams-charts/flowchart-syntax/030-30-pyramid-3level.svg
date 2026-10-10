@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="三级金字塔" data-name-en="pyramid-3level" data-cat="flowchart-logic" aria-labelledby="t-30 d-30" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-30">三级金字塔 / pyramid_3level</title>
-  <desc id="d-30">三级层次金字塔。关键词: hierarchy,pyramid</desc>
+  <title id="t-30">三级金字塔 / Pyramid-3Level</title>
+  <desc id="d-30">三级层次金字塔</desc>
   <g id="g-30-三级金字塔">
     <polygon points="120,15 200,140 40,140" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <polygon points="120,15 146.7,56.7 93.3,56.7" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

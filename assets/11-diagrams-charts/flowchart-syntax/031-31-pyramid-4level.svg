@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="240" height="160" viewBox="0 0 240 160" role="img" data-name-zh="四级金字塔" data-name-en="pyramid-4level" data-cat="flowchart-logic" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-31">四级金字塔 / pyramid_4level</title>
-  <desc id="d-31">四级层次金字塔。关键词: hierarchy,pyramid</desc>
+  <title id="t-31">四级金字塔 / Pyramid-4Level</title>
+  <desc id="d-31">四级层次金字塔</desc>
   <g id="g-31-四级金字塔">
     <polygon points="120,10 210,145 30,145" fill="#e5e7eb" stroke="#1f2937" stroke-width="1.5"/>
     <polygon points="120,10 142.5,43.8 97.5,43.8" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="学术三线表" data-name-en="three-line-table-3x4" data-cat="tables-frames" aria-labelledby="t-01 d-01" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-01">学术三线表 / three_line_table_3x4</title>
-  <desc id="d-01">标准三线表3行4列。关键词: 三线表,学术表格,booktabs</desc>
+  <title id="t-01">学术三线表 / Three-Line-Table-3X4</title>
+  <desc id="d-01">标准三线表3行4列</desc>
   <g id="g-01-学术三线表">
     <line x1="40" y1="40" x2="280" y2="40" stroke="#1f2937" stroke-width="3" fill="none"/>
     <line x1="40" y1="70" x2="280" y2="70" stroke="#1f2937" stroke-width="1.5" fill="none"/>

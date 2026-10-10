@@ -55,12 +55,12 @@
   <text x="547" y="360" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">10</text>
 </g>
 <g data-name="legend">
-  <rect x="420" y="70" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
-  <text x="445" y="80" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Core</text>
-  <rect x="420" y="90" width="12" height="12" fill="#E8871E" data-pp="mge"/>
-  <text x="445" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Dispensable</text>
-  <rect x="420" y="110" width="12" height="12" fill="#C42D2D" data-pp="alert"/>
-  <text x="445" y="120" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Private</text>
+  <rect x="100" y="70" width="12" height="12" fill="#2E86AB" data-pp="bacteria"/>
+  <text x="125" y="80" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Core</text>
+  <rect x="100" y="90" width="12" height="12" fill="#E8871E" data-pp="mge"/>
+  <text x="125" y="100" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Dispensable</text>
+  <rect x="100" y="110" width="12" height="12" fill="#C42D2D" data-pp="alert"/>
+  <text x="125" y="120" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="start" data-pp="ink">Private</text>
 </g>
 <text x="300" y="30" font-size="13" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" text-anchor="middle" data-pp="ink">Pangenome — Core, Dispensable, Private Genes (schematic)</text>
 </svg>

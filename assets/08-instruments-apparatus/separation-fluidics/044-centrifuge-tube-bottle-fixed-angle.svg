@@ -11,7 +11,5 @@
   <g id="detail"><path d="M40 50 L48 40 L56 50 L56 80 L40 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M72 50 L80 40 L88 50 L88 80 L72 80 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
     <path d="M42 60 L54 60 L54 76 L42 76 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
-    <path d="M74 60 L86 60 L86 76 L74 76 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/>
-    <path d="M64 24 L68 24 L68 32 L64 32 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/>
-    <path d="M60 20 L68 20 L68 24 L60 24 Z" fill="#2B7DE9" opacity="0.5" stroke="none" data-ls="accent"/></g>
+    <path d="M74 60 L86 60 L86 76 L74 76 Z" fill="#2B7DE9" opacity="0.4" stroke="none" data-ls="accent"/></g>
 </svg>

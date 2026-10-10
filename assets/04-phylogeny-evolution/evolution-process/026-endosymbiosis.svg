@@ -36,12 +36,12 @@
 <line x1="445" y1="90" x2="495" y2="90" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
 <text x="350" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">基因转移 (EGT)</text>
 <text x="60" y="170" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">基因数递减</text>
-<rect x="80" y="60" width="60" height="200" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+<rect x="80" y="190" width="60" height="70" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
 <text x="110" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">自由生活</text>
-<text x="118" y="58" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">4000</text>
-<rect x="220" y="180" width="60" height="80" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
+<text x="110" y="185" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">4000</text>
+<rect x="220" y="232" width="60" height="28" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1"/>
 <text x="250" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">早期共生</text>
-<text x="250" y="175" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1600</text>
+<text x="250" y="227" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">1600</text>
 <rect x="360" y="258" width="60" height="2" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="1"/>
 <text x="390" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">线粒体</text>
 <text x="390" y="254" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">37</text>

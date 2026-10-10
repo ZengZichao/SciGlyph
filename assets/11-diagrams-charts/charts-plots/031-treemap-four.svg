@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="矩形树图" data-name-en="Treemap Four" data-cat="charts-plots" aria-labelledby="t-31 d-31" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-31">矩形树图 / treemap_four</title>
-  <desc id="d-31">四块矩形树图。关键词: treemap,rectangles,parts</desc>
+  <title id="t-31">矩形树图 / Treemap Four</title>
+  <desc id="d-31">四块矩形树图</desc>
   <g id="g-31-矩形树图">
     <rect x="30" y="25" width="200" height="160" fill="#0072B2" stroke="#1f2937" stroke-width="1.5" data-drole="series-1"/>
     <text x="130" y="108" font-family="Inter,Helvetica,Arial,sans-serif" font-size="11" fill="#ffffff" text-anchor="middle">A</text>

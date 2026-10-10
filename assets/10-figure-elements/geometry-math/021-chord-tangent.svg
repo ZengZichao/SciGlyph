@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120" role="img" data-name-zh="弦与切线" data-name-en="Chord Tangent" data-cat="geometry-math" aria-labelledby="t-21 d-21" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-21">弦与切线 / chord_tangent</title>
-  <desc id="d-21">圆中弦与切线示意。关键词: chord,tangent,circle</desc>
+  <title id="t-21">弦与切线 / Chord Tangent</title>
+  <desc id="d-21">圆中弦与切线示意</desc>
   <g id="g-21-弦与切线">
     <circle cx="55" cy="55" r="40" fill="#ffffff" stroke="#1f2937" stroke-width="1.5"/>
     <circle cx="55" cy="55" r="2" fill="#1f2937" stroke="none"/>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="真空管路" data-name-en="vacuum_desiccator_line" data-cat="lab-equipment" aria-labelledby="t-58 d-58" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-58">真空管路 / vacuum_desiccator_line</title>
-  <desc id="d-58">真空抽滤和减压操作。关键词: 真空管,vacuum,抽滤,减压</desc>
+  <title id="t-58">真空管路 / Vacuum_Desiccator_Line</title>
+  <desc id="d-58">真空抽滤和减压操作</desc>
   <g id="g-58-真空管路">
     <line x1="30" y1="120" x2="290" y2="120" stroke="#1f2937" stroke-width="2"/>
     <line x1="30" y1="126" x2="290" y2="126" stroke="#1f2937" stroke-width="2"/>

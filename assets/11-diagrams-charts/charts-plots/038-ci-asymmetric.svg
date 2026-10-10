@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="400" height="320" viewBox="0 0 400 320" role="img" data-name-zh="非对称CI" data-name-en="CI Asymmetric" data-cat="charts-plots" aria-labelledby="t-38 d-38" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-38">非对称CI / ci_asymmetric</title>
-  <desc id="d-38">非对称置信区间误差棒。关键词: ci,asymmetric,errorbar</desc>
+  <title id="t-38">非对称CI / Ci Asymmetric</title>
+  <desc id="d-38">非对称置信区间误差棒</desc>
   <g id="g-38-非对称CI">
     <line x1="55" y1="30" x2="55" y2="280" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="55" y1="280" x2="385" y2="280" stroke="#1f2937" stroke-width="1.5"/>

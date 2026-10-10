@@ -2,43 +2,60 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      role="img" aria-labelledby="t-11 d-11" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-11">Eocyte假说 / Eocyte Hypothesis Tree</title>
-  <desc id="d-11">骨架，配合Williams et al. 2013 (Nature 504:231-236)使用。两域假说：真核生物起源于Asgard古菌内。 关键词: phylogenetic tree, eocyte hypothesis, Williams, Asgard, two-domain, skeleton template</desc>
+  <desc id="d-11">骨架，配合Williams et al. 2013 (Nature 504:231-236)使用。两域假说：真核生物起源于古菌内部，与TACK(eocyte)支构成姐妹群。 关键词: phylogenetic tree, eocyte hypothesis, Williams, TACK, two-domain, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp11__clades" data-name="clade-shading">
-    <rect x="102.7" y="24.0" width="34.6" height="92.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
-    <rect x="102.7" y="184.0" width="61.3" height="172.0" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
+    <rect x="194" y="34" width="268" height="76" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
+    <rect x="194" y="142" width="268" height="146" fill="#A2305B" data-pp="archaea" fill-opacity="0.12" data-name="clade-B"/>
   </g>
   <g id="pp11__branches" data-name="branches">
-    <line x1="80.0" y1="70.0" x2="80.0" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="106.7" y2="110.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="190.0" x2="106.7" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="270.0" x2="133.3" y2="350.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="80.0" y1="70.0" x2="106.7" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="30.0" x2="133.3" y2="30.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="106.7" y1="110.0" x2="133.3" y2="110.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
-    <line x1="80.0" y1="250.0" x2="106.7" y2="250.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="106.7" y1="190.0" x2="133.3" y2="190.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="106.7" y1="310.0" x2="133.3" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="133.3" y1="270.0" x2="160.0" y2="270.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
-    <line x1="133.3" y1="350.0" x2="160.0" y2="350.0" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="90.0" y1="72.0" x2="90.0" y2="219.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="48.0" x2="200.0" y2="96.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="156.0" x2="200.0" y2="282.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="290.0" y1="240.0" x2="290.0" y2="324.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="380.0" y1="216.0" x2="380.0" y2="264.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="72.0" x2="200.0" y2="72.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="90.0" y1="219.0" x2="200.0" y2="219.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="200.0" y1="48.0" x2="460.0" y2="48.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="200.0" y1="96.0" x2="460.0" y2="96.0" stroke="#2E86AB" stroke-width="1.5" data-pp="bacteria" stroke-linecap="round"/>
+    <line x1="200.0" y1="156.0" x2="460.0" y2="156.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="200.0" y1="282.0" x2="290.0" y2="282.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="290.0" y1="240.0" x2="380.0" y2="240.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="290.0" y1="324.0" x2="460.0" y2="324.0" stroke="#3F8FBF" stroke-width="1.5" data-pp="eukaryote" stroke-linecap="round"/>
+    <line x1="380.0" y1="216.0" x2="460.0" y2="216.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+    <line x1="380.0" y1="264.0" x2="460.0" y2="264.0" stroke="#A2305B" stroke-width="1.5" data-pp="archaea" stroke-linecap="round"/>
+  </g>
+  <g data-name="eocyte-box">
+    <rect x="284" y="202" width="176" height="136" fill="none" stroke="#3F8FBF" stroke-width="1.2" stroke-dasharray="5 3" data-pp="eukaryote"/>
+    <text x="284" y="196" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">eocyte clade (TACK + Eukarya)</text>
   </g>
   <g id="pp11__nodes" data-name="nodes">
-    <circle cx="80.0" cy="160.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="70.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="106.7" cy="250.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="133.3" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="90.0" cy="145.5" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="200.0" cy="72.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="200.0" cy="219.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="290.0" cy="282.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="380.0" cy="240.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp11__labels" data-name="tip-labels">
-    <text x="138.3" y="33.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacA</text>
-    <text x="138.3" y="113.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacB</text>
-    <text x="138.3" y="193.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">ArcA</text>
-    <text x="165.0" y="273.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Asgard</text>
-    <text x="165.0" y="353.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">EukA</text>
+    <text x="466.0" y="51.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacA</text>
+    <text x="466.0" y="99.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">BacB</text>
+    <text x="466.0" y="159.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">EuryB</text>
+    <text x="466.0" y="219.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">CrenA</text>
+    <text x="466.0" y="267.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">TackA</text>
+    <text x="466.0" y="327.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">EukA</text>
+  </g>
+  <g data-name="domain-labels">
+    <text x="506.0" y="76.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria">Bacteria</text>
+    <text x="506.0" y="216.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#A2305B" data-pp="archaea">Archaea</text>
+    <text x="506.0" y="327.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#3F8FBF" data-pp="eukaryote">Eukarya</text>
+  </g>
+  <g data-name="legend">
+    <text x="90" y="372" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Eukarya nests within Archaea (two-domain tree of life)</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="380" y1="378" x2="470" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="380" y1="374" x2="380" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="470" y1="374" x2="470" y2="382" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="425.0" y="392" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-uv-vis-spectrophotometer" data-cat="an" data-spec="128" data-tags="uv,vis,spectrophotometer,cuvette,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="t d" data-id="an-uv-vis-spectrophotometer" data-cat="an" data-spec="128" data-tags="uv,vis,spectrophotometer,cuvette,absorbance,optical" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">紫外-可见分光光度计 / UV-Vis Spectrophotometer</title>
   <desc id="d">紫外-可见分光光度计：光源→单色器→样品室（比色皿）→检测器。</desc>
   <g id="body">

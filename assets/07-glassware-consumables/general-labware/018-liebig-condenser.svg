@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="160" height="120" viewBox="0 0 160 120" role="img" data-name-zh="直形冷凝管" data-name-en="liebig_condenser" data-cat="lab-equipment" aria-labelledby="t-18 d-18" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-18">直形冷凝管 / liebig_condenser</title>
-  <desc id="d-18">蒸馏冷凝蒸气。关键词: 冷凝管,condenser,蒸馏,冷却</desc>
+  <title id="t-18">直形冷凝管 / Liebig_Condenser</title>
+  <desc id="d-18">蒸馏冷凝蒸气</desc>
   <g id="g-18-直形冷凝管">
     <line x1="15" y1="95" x2="145" y2="25" stroke="#1f2937" stroke-width="1.5"/>
     <line x1="15" y1="105" x2="145" y2="35" stroke="#1f2937" stroke-width="1.5"/>
-    <line x1="25" y1="82" x2="135" y2="28" stroke="#1f2937" stroke-width="0.75"/>
-    <line x1="25" y1="92" x2="135" y2="38" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="25" y1="92" x2="135" y2="33" stroke="#1f2937" stroke-width="0.75"/>
+    <line x1="25" y1="97" x2="135" y2="38" stroke="#1f2937" stroke-width="0.75"/>
     <path d="M 30 80 L 25 70 L 35 65 L 40 75 Z" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <path d="M 120 38 L 125 48 L 135 43 L 130 33 Z" fill="#0072B2" stroke="#1f2937" stroke-width="0.75" data-drole="series-1"/>
     <line x1="25" y1="70" x2="20" y2="60" stroke="#0072B2" stroke-width="1.5" data-drole="series-1"/>

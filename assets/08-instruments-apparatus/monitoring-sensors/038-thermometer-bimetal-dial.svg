@@ -21,6 +21,6 @@
     <line x1="88" y1="36" x2="84" y2="40" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/>
     <text x="64" y="18" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">100</text>
     <text x="24" y="62" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">0</text>
-    <text x="64" y="106" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">℃</text>
+    <text x="64" y="88" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">℃</text>
   </g></g>
 </svg>

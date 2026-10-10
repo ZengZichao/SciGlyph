@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80" role="img" data-name-zh="N沟道MOSFET" data-name-en="mosfet-n-enhancement" data-cat="physics-electronics" aria-labelledby="t-24 d-24" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-24">N沟道MOSFET / mosfet_n_enhancement</title>
-  <desc id="d-24">N沟道增强型MOSFET符号。关键词: MOSFET,N沟道,增强型</desc>
-  <g id="g-24-N沟道MOSFET">
+  <title id="t-24">N沟道MOSFET / Mosfet-N-Enhancement</title>
+  <desc id="d-24">N沟道增强型MOSFET符号</desc>
+  <g id="g-24-N沟道MOSFET" transform="translate(20 0)">
     <line x1="10" y1="40" x2="38" y2="40" stroke="#1f2937" stroke-width="2" fill="none"/>
     <line x1="38" y1="15" x2="38" y2="65" stroke="#1f2937" stroke-width="1.5" fill="none"/>
     <line x1="44" y1="15" x2="44" y2="30" stroke="#1f2937" stroke-width="2" fill="none"/>

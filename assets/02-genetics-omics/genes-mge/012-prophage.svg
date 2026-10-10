@@ -6,7 +6,7 @@
   <g id="layer-body" data-name="body">
     <line x1="5" y1="45" x2="30" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
     <rect x="30" y="38" width="40" height="14" rx="2" fill="#5B8C3E" data-pp="virus"/>
-    <text x="50" y="48" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">prophage</text>
+    <text x="50" y="48" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="ink">prophage</text>
     <line x1="70" y1="45" x2="95" y2="45" stroke="#6C3FA0" data-pp="gene" stroke-width="2"/>
       <polygon points="30,42 33,45 30,48" fill="#E8871E" data-pp="mge"/>
     <polygon points="70,42 67,45 70,48" fill="#E8871E" data-pp="mge"/>

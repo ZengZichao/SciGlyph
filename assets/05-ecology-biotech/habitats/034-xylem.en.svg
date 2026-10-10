@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-xylem d-xylem" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-xylem">Xylem</title>
-  <desc id="d-xylem">Xylem vessel tubes with Xylella rods and biofilm plug 关键词: xylem, Xylella, vessel</desc>
+  <desc id="d-xylem">Xylem vessel tubes with Xylella rods and biofilm plug</desc>
   
   <g id="layer-body" data-name="body">
     <rect x="20" y="10" width="12" height="75" rx="1" fill="#00857A" stroke="#1B2733" stroke-width="1.5" data-pp="metabolism" fill-opacity="0.3"/>

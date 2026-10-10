@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" data-name-zh="放线菌抗生素筛选" data-name-en="Streptomyces Antibiotic Screening" data-cat="05-eco-seq" data-tags="放线菌,抗生素,链霉菌,抑菌圈,次级代谢产物,平板筛选" role="img" aria-labelledby="t-34-antibiotic-discovery d-34-antibiotic-discovery" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-34-antibiotic-discovery">放线菌抗生素筛选 / Streptomyces Antibiotic Screening</title>
-  <desc id="d-34-antibiotic-discovery">链霉菌气生菌丝与螺旋孢子链向琼脂扩散次级代谢产物，在产生菌菌落周围形成抑菌圈、抑制周边敏感菌，挑取阳性菌落发酵复验。关键词: 放线菌, 抗生素, 链霉菌, 抑菌圈, 次级代谢产物, 平板筛选</desc>
+  <desc id="d-34-antibiotic-discovery">链霉菌气生菌丝与螺旋孢子链向琼脂扩散次级代谢产物，在产生菌菌落周围形成抑菌圈、抑制周边敏感菌，挑取阳性菌落发酵复验</desc>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <!-- 平板与琼脂 -->
   <circle cx="58" cy="58" r="42" fill="#B7D7E8" fill-opacity="0.3" stroke="#2B3A42" stroke-width="1.6"/>
@@ -22,7 +22,7 @@
   <!-- 抑菌圈 -->
   <circle cx="48" cy="58" r="19" fill="none" stroke="#C0504D" stroke-width="1.4" stroke-dasharray="4 3"/>
   <!-- 抗生素扩散 -->
-  <path d="M48 58 m0 -19 a19 19 0 0 1 13.4 5.5" stroke="none"/>
+  <path d="M48 58 m0 -19 a19 19 0 0 1 13.4 5.5" fill="none" stroke="#B57A17" stroke-width="1.2"/>
   <circle cx="60" cy="40" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
   <circle cx="66" cy="46" r="2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>
   <circle cx="30" cy="66" r="2.2" fill="#E8B04B" stroke="#B57A17" stroke-width="1.2"/>

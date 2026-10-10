@@ -14,7 +14,7 @@
      <path d="M38 34 L28 42 L26 54 L32 54 L32 44 L38 38 Z" fill="#E8EDF2" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="body" data-ls-stroke="stroke"/>
      <path d="M70 48 L76 48 L76 58 L70 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M24 48 L32 48 L32 58 L24 58 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="prop"><rect d="M72 40 L96 40 L94 64 L74 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
+  <g id="prop"><path d="M72 40 L96 40 L94 64 L74 64 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
      <path d="M76 46 L92 46 M76 50 L92 50 M76 54 L90 54 M76 58 L88 58" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin"/>
      <path d="M44 68 L46 68 L46 80 L44 80 Z" fill="#2B7DE9" stroke="none" data-ls="accent"/></g>
 </svg>

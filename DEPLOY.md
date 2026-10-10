@@ -21,18 +21,30 @@ python3 -m http.server -d site 8000  # 本地预览
 
 ## 二、开启 Pages
 
-1. 把仓库推到 GitHub（默认分支 `main`）。
-2. 仓库 **Settings → Pages → Build and deployment** 里 Source 选 **GitHub Actions**。
-3. 本仓库自带工作流 `.github/workflows/pages.yml`：
-   它在 `push` 到 `main`（以及手动触发）时先跑上面两个质检闸门，
-   再用 `build_site.py` 装配 `site/`，最后通过官方
-   `actions/upload-pages-artifact` + `actions/deploy-pages` 发布。
-   任何一项闸门失败，部署会中止，不会把坏素材发上去。
-4. 首次运行后可在 **Actions** 页面看到 "Deploy gallery to Pages"，
-   日志末尾给出的 `Page URL` 形如 `https://<用户名>.github.io/<仓库名>/`。
+线上站点：<https://zengzichao.github.io/SciGlyph/>
 
-之后每次推送到 `main` 都会自动重新发布；也可以在 Actions 里手动
-"Run workflow" 触发一次部署。
+当前采用**分支部署**（零构建，最省事且够用）：
+
+1. 仓库 **Settings → Pages → Build and deployment**，Source 选 **Deploy from a branch**，
+   分支 `main` / 目录 `/`（根目录）。
+2. 保存后 GitHub 会构建 `main` 根目录，产物即 `index.html` + `assets/` + `preview/`。
+3. 之后每次推送到 `main` 都会自动重新发布。
+
+### 可选：改用 Actions 部署（部署前跑质检闸门）
+
+仓库自带 `.github/workflows/pages.yml`：先跑 `check_repo.py` 与 `check_site.py`，
+再用 `build_site.py` 装配 `site/` 发布——任一闸门失败即中止部署，坏素材发不上去。
+
+启用步骤：
+
+1. 把 Source 从 *Deploy from a branch* 改为 **GitHub Actions**。
+2. 推送该工作流文件。注意：GitHub 规定**经 API/令牌创建工作流文件需要 `workflow` 作用域**，
+   若令牌没有该作用域，可用 `gh auth refresh -s workflow` 补授权，
+   或直接在网页上 *Add file → Create new file* 粘贴 `.github/workflows/pages.yml`。
+3. 之后推送到 `main` 会在 **Actions** 里出现 "Deploy gallery to Pages"，
+   日志末尾的 `Page URL` 即站点地址；也可在 Actions 里手动 "Run workflow" 触发一次部署。
+
+两种方式产出的站点内容一致，可任选；只用分支部署时，闸门需要在推送前本地跑。
 
 ## 三、改了素材之后
 

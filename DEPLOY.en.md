@@ -22,18 +22,33 @@ Open <http://localhost:8000/> for the exact experience served online.
 
 ## 2. Turn Pages on
 
-1. Push the repository to GitHub (default branch `main`).
-2. In **Settings → Pages → Build and deployment**, set Source to **GitHub Actions**.
-3. This repository ships `.github/workflows/pages.yml`: on every push to `main`
-   (and on manual dispatch) it runs both quality gates, stages `site/` with
-   `build_site.py`, then publishes with the official
-   `actions/upload-pages-artifact` + `actions/deploy-pages`. If any gate fails the
-   deployment aborts, so broken assets can never go live.
-4. The first run appears in **Actions** as "Deploy gallery to Pages"; its log ends
-   with a `Page URL` like `https://<user>.github.io/<repo>/`.
+Live site: <https://zengzichao.github.io/SciGlyph/>
 
-Every later push to `main` republishes automatically; you can also trigger
-"Run workflow" from Actions.
+The site currently uses **branch deployment** (build-free, and all this project needs):
+
+1. In **Settings → Pages → Build and deployment**, choose Source =
+   *Deploy from a branch*, branch `main`, folder `/` (root).
+2. GitHub then builds the `main` root, i.e. `index.html` + `assets/` + `preview/`.
+3. Every later push to `main` republishes automatically.
+
+### Optional: deploy via Actions so the quality gates run first
+
+This repository ships `.github/workflows/pages.yml`: it runs `check_repo.py` and
+`check_site.py` first, stages `site/` with `build_site.py`, then publishes — any gate
+failure aborts the deployment, so broken assets cannot go live.
+
+To switch to it:
+
+1. Change Source from *Deploy from a branch* to **GitHub Actions**.
+2. Push the workflow file. Note that GitHub requires the `workflow` OAuth scope to
+   create workflow files through the API/token; if it is missing, run
+   `gh auth refresh -s workflow`, or add the file in the web UI
+   (*Add file → Create new file*) and paste `.github/workflows/pages.yml`.
+3. Pushes to `main` then show up in **Actions** as "Deploy gallery to Pages", whose log
+   ends with the `Page URL`. You can also trigger "Run workflow" manually.
+
+Both routes serve identical content. With branch deployment only, run the gates
+locally before pushing.
 
 ## 3. After changing assets
 

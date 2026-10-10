@@ -16,6 +16,6 @@
 <circle cx="70" cy="48" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
   </g>
   <g id="l-freshwater-label" data-name="annotation">
-    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Freshwater</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Freshwater</text>
   </g>
 </svg>

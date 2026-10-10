@@ -16,6 +16,6 @@
 <circle cx="70" cy="55" r="3" fill="#5B8C3E" data-pp="virus" stroke="#1B2733" stroke-width="1"/>
   </g>
   <g id="l-coral_mucus-label" data-name="annotation">
-    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Coral mucus</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Coral mucus</text>
   </g>
 </svg>

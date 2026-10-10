@@ -4,21 +4,24 @@
   <title id="t-dairy">Dairy product</title>
   <desc id="d-dairy">Dairy product with Lactococcus and Streptococcus thermophilus</desc>
   <g id="l-dairy-bg" data-name="habitat-bg">
-    <rect x="5" y="30" width="90" height="45" rx="6" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M24 16 L24 26 C24 30 15 31 15 38 L15 77 C15 80 17 82 20 82 L40 82 C43 82 45 80 45 77 L45 38 C45 31 36 30 36 26 L36 16 Z" fill="#FFFFFF" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M16.5 45 L16.5 76.5 C16.5 78.7 18.3 80.5 20.5 80.5 L39.5 80.5 C41.7 80.5 43.5 78.7 43.5 76.5 L43.5 45 Q30 47.5 16.5 45 Z" fill="#F4F1EA" data-pp="bg" stroke="none"/>
+    <rect x="21.5" y="9" width="17" height="7.5" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
+    <path d="M52 38 L88 38 L83.5 76.5 C83.5 79.5 81.3 82 78.3 82 L61.7 82 C58.7 82 56.5 79.5 56.5 76.5 Z" fill="#F4F1EA" data-pp="bg" stroke="#1B2733" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="50" y="31" width="40" height="7" rx="2" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
   </g>
   <g id="l-dairy-microbes" data-name="microbes">
-    <circle cx="12.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="18.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="25.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="31.5" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="38.0" cy="50" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="45.2" cy="55" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="51.8" cy="55" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="58.2" cy="55" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="64.8" cy="55" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
-<circle cx="72" cy="48" r="3" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
+    <circle cx="22.0" cy="70" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="27.4" cy="70" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="32.8" cy="70" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="54.0" cy="20" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="59.3" cy="20" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="64.6" cy="20" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="69.9" cy="20" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="80.0" cy="24" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
+<circle cx="85.3" cy="24" r="2.6" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.8"/>
   </g>
   <g id="l-dairy-label" data-name="annotation">
-    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Dairy product</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Dairy product</text>
   </g>
 </svg>

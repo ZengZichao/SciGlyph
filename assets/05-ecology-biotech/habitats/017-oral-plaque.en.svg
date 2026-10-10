@@ -20,6 +20,6 @@
 <circle cx="50" cy="48" r="3" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1"/>
   </g>
   <g id="l-oral_plaque-label" data-name="annotation">
-    <text x="50" y="12" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Oral plaque</text>
+    <text x="50" y="92" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Oral plaque</text>
   </g>
 </svg>

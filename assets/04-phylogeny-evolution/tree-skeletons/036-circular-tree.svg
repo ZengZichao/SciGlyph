@@ -5,16 +5,16 @@
   <desc id="d-04">骨架，配合 iTOL/FastTree 输出使用。环形放射状系统发育树。 关键词: phylogenetic tree, circular tree, iTOL, FastTree, skeleton template, phylogenetics</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp04__branches" data-name="branches">
-    <line x1="300.0" y1="200.0" x2="317.2" y2="241.6" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="300.0" y1="200.0" x2="282.8" y2="158.4" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 331.8 231.8 A 45.0 45.0 0 0 1 300.0 245.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 268.2 168.2 A 45.0 45.0 0 0 1 300.0 155.0" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300.0" y1="200.0" x2="300.0" y2="245.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="300.0" y1="200.0" x2="300.0" y2="155.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 331.8 231.8 A 45.0 45.0 0 0 1 268.2 231.8" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 268.2 168.2 A 45.0 45.0 0 0 1 331.8 168.2" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="331.8" y1="231.8" x2="360.1" y2="260.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="300.0" y1="245.0" x2="300.0" y2="285.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="268.2" y1="231.8" x2="239.9" y2="260.1" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="268.2" y1="168.2" x2="239.9" y2="139.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="300.0" y1="155.0" x2="300.0" y2="115.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="331.8" y1="168.2" x2="360.1" y2="139.9" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <path d="M 378.5 232.5 A 85.0 85.0 0 0 1 332.5 278.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <path d="M 300.0 285.0 A 85.0 85.0 0 0 1 221.5 232.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <path d="M 267.5 278.5 A 85.0 85.0 0 0 1 221.5 232.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <path d="M 221.5 167.5 A 85.0 85.0 0 0 1 267.5 121.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <path d="M 332.5 121.5 A 85.0 85.0 0 0 1 378.5 167.5" fill="none" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="378.5" y1="232.5" x2="420.1" y2="249.7" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
@@ -28,12 +28,12 @@
   </g>
   <g id="pp04__nodes" data-name="nodes">
     <circle cx="300.0" cy="200.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="317.2" cy="241.6" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="282.8" cy="158.4" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="300.0" cy="245.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="300.0" cy="155.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
     <circle cx="360.1" cy="260.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="300.0" cy="285.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="239.9" cy="260.1" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
     <circle cx="239.9" cy="139.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="300.0" cy="115.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="360.1" cy="139.9" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp04__labels" data-name="tip-labels">
     <text x="427.5" y="252.8" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" transform="rotate(22.5 427.5 252.8)">Sp_A</text>

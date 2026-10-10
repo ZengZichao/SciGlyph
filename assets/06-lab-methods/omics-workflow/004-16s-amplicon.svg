@@ -44,9 +44,9 @@
   <path d="M33.5 87 v5 h19 v-5" stroke="#5B4B8A" stroke-width="1.6"/>
   <text x="43" y="100" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#5B4B8A" stroke="none" text-anchor="middle">V3–V4</text>
   <!-- 引物覆盖示意 -->
-  <path d="M17.5 108 H94" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
-  <path d="M8.5 108 H17.5 M14 105.5 l3.5 2.5 l-3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
-  <path d="M103 108 H94 M97 105.5 l-3.5 2.5 l3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
-  <text x="56.3" y="116" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#B57A17" stroke="none" text-anchor="middle">引物覆盖范围</text>
+  <path d="M17.5 106.5 H94" stroke="#B57A17" stroke-width="1.2" stroke-dasharray="3 2"/>
+  <path d="M8.5 106.5 H17.5 M14 104 l3.5 2.5 l-3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
+  <path d="M103 106.5 H94 M97 104 l-3.5 2.5 l3.5 2.5" stroke="#B57A17" stroke-width="1.4"/>
+  <text x="56.3" y="117" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="9" fill="#B57A17" stroke="none" text-anchor="middle">引物覆盖范围</text>
 </g>
 </svg>

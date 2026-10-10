@@ -17,10 +17,8 @@
     <line x1="80" y1="100" x2="80" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
     <path d="M 80 260 L 150 195 L 220 210 L 290 165 L 360 130" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-dasharray="3 2" stroke-opacity="0.4"/>
     <path d="M 80 240 L 150 165 L 220 190 L 290 135 L 360 110" fill="none" stroke="#6C3FA0" stroke-width="1" data-pp="gene" stroke-dasharray="3 2" stroke-opacity="0.4"/>
-    <circle cx="80" cy="250" r="8" fill="#6C3FA0" fill-opacity="0.15" stroke="none" data-pp="gene"/>
-    <circle cx="360" cy="120" r="8" fill="#6C3FA0" fill-opacity="0.15" stroke="none" data-pp="gene"/>
     <line x1="80" y1="200" x2="360" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="4 2"/>
-    <text x="20" y="200" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90 20 200)">Trait value</text>
+    <text x="20" y="200" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90 20 200)">Trait value (a.u.)</text>
     <text x="220" y="325" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Time</text>
     <text x="200" y="385" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Line = ASR estimate, dashed = uncertainty band</text>
   </g>

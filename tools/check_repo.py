@@ -37,6 +37,8 @@ REQUIRED_ITEM_FIELDS = ("file", "name_zh", "name_en", "tags", "series", "format"
                         "category", "canvas", "license", "license_uri", "attribution")
 SERIES_OK = {"classic", "atlas", "icon24", "primitives", "labflow"}
 FORMAT_OK = {"illustration", "diagram", "icon"}
+CJK_IN_EN = re.compile(r"[㐀-鿿豈-﫿]")
+EDIT_RESIDUE = re.compile(r"同上|变体同步|已同步|请主控|待主控|需人工|作废|二选一|未落盘|待重画|理由[:：]|※|`")
 
 
 def load_json(p: Path):
@@ -200,6 +202,15 @@ def check_manifests(fails):
                     fails.append(f"manifest: 非法 series {it.get('series')}")
                 if it.get("format") not in FORMAT_OK:
                     fails.append(f"manifest: 非法 format {it.get('format')}")
+                for fld in ("name_zh", "name_en", "desc"):
+                    val = it.get(fld, "") or ""
+                    who = f"{sm['category']}/{sm['subdir']}/{it.get('file')}"
+                    if fld == "name_en" and CJK_IN_EN.search(val):
+                        fails.append(f"manifest: {who} 的 name_en 含非英文字符 {val[:40]!r}")
+                    if fld != "name_en" and EDIT_RESIDUE.search(val):
+                        fails.append(f"manifest: {who} 的 {fld} 含复核批注残留 {val[:40]!r}")
+                    if fld == "name_zh" and re.search(r"\s->\s", val):
+                        fails.append(f"manifest: {who} 的 name_zh 含未落盘的改名字段 {val[:40]!r}")
                 fp = cdir / sub["id"] / it["file"]
                 if not fp.exists():
                     fails.append(f"manifest: 条目文件不存在 {fp.relative_to(ASSETS)}")

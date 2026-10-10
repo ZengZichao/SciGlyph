@@ -26,15 +26,15 @@
 <text x="430" y="50" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">现代细胞器</text>
 <circle cx="430" cy="110" r="25" fill="#3F8FBF" data-pp="eukaryote" stroke="#1B2733" stroke-width="2" fill-opacity="0.2"/>
 <circle cx="430" cy="110" r="15" fill="none" data-pp="gene" stroke="#6C3FA0" stroke-width="1.5"/>
-<text x="430" y="108" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">~37</text>
-<text x="430" y="122" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">基因</text>
+<text x="430" y="106" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" font-weight="bold">~37</text>
+<text x="430" y="118" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">基因</text>
 <text x="530" y="60" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#6C3FA0" data-pp="gene" text-anchor="middle" font-weight="bold">核基因组</text>
 <rect x="490" y="65" width="80" height="50" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1.5" rx="0.15"/>
 <text x="530" y="95" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">~20000</text>
-<line x1="110" y1="80" x2="495" y2="80" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
-<line x1="295" y1="85" x2="495" y2="85" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
+<line x1="90" y1="68" x2="495" y2="68" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
+<line x1="278" y1="78" x2="495" y2="78" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
 <line x1="445" y1="90" x2="495" y2="90" stroke="#E8871E" data-pp="mge" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,3"/>
-<text x="350" y="75" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">基因转移 (EGT)</text>
+<text x="350" y="62" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">基因转移 (EGT)</text>
 <text x="60" y="170" font-size="10" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#1B2733" data-pp="ink" text-anchor="start" font-weight="bold">基因数递减</text>
 <rect x="80" y="190" width="60" height="70" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1"/>
 <text x="110" y="275" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">自由生活</text>

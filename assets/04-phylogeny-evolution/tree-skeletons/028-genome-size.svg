@@ -14,7 +14,7 @@
     </g>
     <path d="M 56 126 V 24" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
     <path d="M 56 126 H 216" fill="none" stroke="#2B3A42" stroke-width="1.4"/>
-    <path d="M 60 88 L 212 62" fill="none" stroke="#7A8B93" stroke-width="1.4" stroke-dasharray="4 2"/>
+    <path d="M 60 51.3 L 212 77.5" fill="none" stroke="#7A8B93" stroke-width="1.4" stroke-dasharray="4 2"/>
     <g fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.4">
       <circle cx="60.3" cy="73.7" r="3.6"/>
       <circle cx="72" cy="57.1" r="4.2"/>
@@ -27,7 +27,7 @@
     </g>
     <circle cx="187.6" cy="91.3" r="5" fill="#F6DADA" fill-opacity="0.6" stroke="#C0504D" stroke-width="1.4"/>
     <circle cx="148.4" cy="53.5" r="4" fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.4"/>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="193" y="106" font-size="9" fill="#C0504D">异常株</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="174" y="95" font-size="9" text-anchor="end" fill="#C0504D">异常株</text>
     <g font-size="9" fill="#2B3A42" text-anchor="end">
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="52" y="28">90</text>
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="52" y="53">88</text>
@@ -42,13 +42,13 @@
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="176" y="140">3.5</text>
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="216" y="140">4.5</text>
     </g>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="136" y="152" text-anchor="middle" font-size="9.5" fill="#2B3A42">基因组大小 (Mb)</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="136" y="150" text-anchor="middle" font-size="9" fill="#2B3A42">基因组大小 (Mb)</text>
     <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="22" y="75" font-size="9.5" fill="#2B3A42" transform="rotate(-90 22 75)" text-anchor="middle">编码密度 (%)</text>
     <g font-size="9" fill="#2B3A42">
-      <circle cx="186" cy="34" r="3" fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.2"/>
-      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="192" y="37">GC 38%</text>
-      <circle cx="186" cy="46" r="5" fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.2"/>
-      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="192" y="49">GC 52%</text>
+      <circle cx="186" cy="30" r="3" fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.2"/>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="192" y="33">GC 38%</text>
+      <circle cx="186" cy="42" r="5" fill="#5B4B8A" fill-opacity="0.55" stroke="#5B4B8A" stroke-width="1.2"/>
+      <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="192" y="45">GC 52%</text>
     </g>
   </g>
 </svg>

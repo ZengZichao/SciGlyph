@@ -21,8 +21,9 @@
     <path d="M 178.9 30.6 V 126" fill="none" stroke="#C0504D" stroke-width="1.2" stroke-dasharray="3 2"/>
     <circle cx="184" cy="24" r="3" fill="#5B4B8A"/>
     <circle cx="178.9" cy="30.6" r="3" fill="#C0504D"/>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="64" y="44" font-size="9.5" fill="#C0504D">ANI ≈ 96%（共享 k-mer）</text>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="64" y="56" font-size="9" fill="#C0504D">峰深 19.2× vs 20.0×</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="78" y="36" font-size="9.5" fill="#C0504D">ANI ≈ 96%</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="64" y="48" font-size="9" fill="#C0504D">（共享 k-mer）</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="64" y="60" font-size="9" fill="#C0504D">峰深 19.2× vs 20.0×</text>
     <g fill="#5B4B8A">
       <circle cx="172" cy="52" r="1.8"/>
       <circle cx="176" cy="44" r="1.8"/>
@@ -48,7 +49,7 @@
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="184" y="140">20</text>
       <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="216" y="140">25</text>
     </g>
-    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="136" y="152" text-anchor="middle" font-size="9.5" fill="#2B3A42">k-mer 深度 (×)</text>
+    <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="136" y="150" text-anchor="middle" font-size="9" fill="#2B3A42">k-mer 深度 (×)</text>
     <text font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" x="22" y="75" font-size="9.5" fill="#2B3A42" transform="rotate(-90 22 75)" text-anchor="middle">k-mer 频数</text>
     <g font-size="9" fill="#2B3A42">
       <path d="M 68 82 H 86" fill="none" stroke="#5B4B8A" stroke-width="2"/>

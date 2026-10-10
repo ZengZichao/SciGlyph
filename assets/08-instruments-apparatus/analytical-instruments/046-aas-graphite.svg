@@ -22,7 +22,7 @@
     <text x="96" y="58" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Mono</text>
 <rect x="54" y="22" width="14" height="10" rx="2" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke" />
 <line x1="61" y1="32" x2="61" y2="40" fill="none" stroke="#5A6B7B" stroke-linecap="round" stroke-width="1.75" data-ls="thin" />
-    <text x="61" y="30" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="start" data-ls="thin">Auto</text>
+    <text x="72" y="30" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="start" data-ls="thin">Auto</text>
     <rect x="18" y="70" width="40" height="18" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
     <text x="38" y="97" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">GFAAS</text>
 <path d="M22 84 L28 80 L34 82 L40 78 L46 80 L52 76" fill="#2B7DE9" stroke="none" stroke-width="1.2" data-ls="accent" />

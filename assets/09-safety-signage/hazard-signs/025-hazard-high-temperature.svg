@@ -9,9 +9,9 @@
     <path d="M28 96 Q64 86 100 96 L100 102 Q64 92 28 102 Z" fill="#1F2933" stroke="none" data-ls="stroke"/>
     <path d="M52 88 Q57 81 52 74 Q47 67 52 60 M68 84 Q73 77 68 70 Q63 63 68 56 M84 88 Q89 81 84 74 Q79 67 84 60" fill="none" stroke="#E02020" stroke-linecap="round" stroke-width="3.5" data-ls="danger"/></g>
   <g id="detail"><rect x="44" y="18" width="50" height="20" rx="8" fill="#1F2933" stroke="none" data-ls="stroke"/>
-    <ellipse cx="38" cy="30" rx="7" ry="5" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <ellipse cx="40" cy="32" rx="7.5" ry="5" transform="rotate(-20 40 32)" fill="#1F2933" stroke="none" data-ls="stroke"/>
     <rect x="48" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
-    <rect x="59" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
+    <rect x="59" y="36" width="8" height="16" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
     <rect x="70" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/>
-    <rect x="81" y="36" width="8" height="14" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/></g>
+    <rect x="81" y="36" width="8" height="10" rx="4" fill="#1F2933" stroke="none" data-ls="stroke"/></g>
 </svg>

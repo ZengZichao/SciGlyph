@@ -371,7 +371,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 120 120",
-   "desc": "主树局部以红色虚线框标出，并由两条虚线引导连接到下方放大插图（inset），展示局部拓扑与支持度细节",
+   "desc": "主树上一支（3 末端多分叉）以红色虚线框完整标出，由两条虚线引导连到下方放大插图；末端圆点等距排布，未被选中的支与选框不相交",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -845,7 +845,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合 FastTree/IQ-TREE 输出使用。矩形枝杈树(cladogram)，枝长不代表进化距离(替换数)或时间，全部叶端右端对齐。 关键词: phylogenetic tree, rect cladogram, Rectangular, FastTree, IQ-TREE, skeleton template",
+   "desc": "追加 \"图内不画比例尺，仅以文字注明枝长未按比例。\"（w302 已申请的比例尺描述需随",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"
@@ -1205,7 +1205,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-skeletons",
    "canvas": "0 0 600 400",
-   "desc": "骨架，配合NCBI 16S rRNA数据库使用。基于16S rRNA基因的门级分类树。 关键词: phylogenetic tree, ncbi 16s tree, Phylum, rRNA, skeleton template",
+   "desc": "追加 \"图内缩略码 Cy/Ba/Eu/Th 在右下角给出全称，Th 为 Thaumarchaeota。",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

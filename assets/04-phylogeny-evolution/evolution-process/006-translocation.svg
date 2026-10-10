@@ -8,7 +8,7 @@
 </marker>
 </defs>
 <g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
-<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Translocation Mutation</text>
+<g transform="translate(0,75)"><text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Translocation Mutation</text>
 <text x="80" y="70" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text>
 <text x="80" y="95" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Chr 1:</text><rect x="130" y="80" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="150" y="97" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">A</text><rect x="175" y="80" width="40" height="25" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
@@ -30,4 +30,4 @@
 <text x="495" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">B</text><rect x="520" y="120" width="40" height="25" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="540" y="137" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white">Z</text>
 <text x="300" y="200" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Segments swap between loci</text>
-<text x="300" y="230" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Fusion genes / regulation</text></g></svg>
+<text x="300" y="230" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Fusion genes / regulation</text></g></g></svg>

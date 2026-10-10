@@ -1106,7 +1106,7 @@
    "category": "04-phylogeny-evolution",
    "subdir": "tree-annotation",
    "canvas": "0 0 400 400",
-   "desc": "树每末端微型基因组条彩色基因方块行与tip对齐 关键词: tree, genome, panel, gene, synteny",
+   "desc": "树每末端微型基因组条，基因方块按 CDS/Met/MGE 三类着色并与 tip 对齐",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

@@ -30,7 +30,7 @@
 <circle cx="270" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="295" cy="97" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <rect x="325" y="55" width="20" height="62" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5"/>
-<text x="335" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold">Mountain</text>
+<text x="338.5" y="90" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle" font-weight="bold" transform="rotate(-90 338.5 90)">Mountain</text>
 <rect x="350" y="58" width="65" height="55" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1.5" rx="0.2"/>
 <circle cx="365" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>
 <circle cx="390" cy="72" r="8" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="0.5"/>

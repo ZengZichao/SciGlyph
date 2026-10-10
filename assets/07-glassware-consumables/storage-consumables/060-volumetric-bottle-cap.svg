@@ -3,7 +3,7 @@
      role="img" aria-labelledby="t d"
      data-id="st-volumetric-bottle-cap" data-cat="st" data-spec="128"
      data-tags="volumetric,bottle,cap,standard,solution" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t">容量瓶(带塞) / Volumetric Flask with Ground Stopper"（容量瓶=volumetric flask，"Bottle" 术语错误；</title>
+  <title id="t">容量瓶(带塞) / `Volumetric Flask with Ground Stopper`</title>
   <desc id="d">带磨口塞容量瓶，储存标准溶液。</desc>
   <g id="body"><path d="M57 22 L57 54 C44 58 26 72 26 90 L26 96 Q26 112 44 112 L84 112 Q102 112 102 96 L102 90 C102 72 84 58 71 54 L71 22 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
   <g id="detail"><path d="M58.5 37 L69.5 37 L69.5 54 C83 58 100 72 100 90 L100 95 Q100 110 84 110 L44 110 Q28 110 28 95 L28 90 C28 72 45 58 58.5 54 Z" fill="#BFE0FF" opacity="0.75" stroke="none" data-ls="liquid"/>

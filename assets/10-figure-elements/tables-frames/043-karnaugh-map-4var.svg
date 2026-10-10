@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="320" height="240" viewBox="0 0 320 240" role="img" data-name-zh="卡诺图" data-name-en="karnaugh-map-4var" data-cat="tables-frames" aria-labelledby="t-43 d-43" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-43">卡诺图 / Karnaugh-Map-4Var</title>
   <desc id="d-43">4变量卡诺图</desc>
-  <g id="g-43-卡诺图">
+  <g id="g-43-卡诺图" transform="translate(32,0)">
     <text x="150" y="22" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">CD</text>
     <text x="22" y="143" font-family="Inter,Helvetica,Arial,sans-serif" font-size="9" fill="#1f2937" text-anchor="middle">AB</text>
     <line x1="60" y1="50" x2="240" y2="50" stroke="#1f2937" stroke-width="1.5" fill="none"/>

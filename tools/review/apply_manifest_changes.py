@@ -25,7 +25,7 @@ SEG_RE = re.compile(r"(name_zh|name_en|desc|tags|format|canvas)\s*[:：]\s*(.*)$
 NOISE = re.compile(r"[（(](?:理由|重画|承|待|若|画面|现|本组|NEEDS|登记|已|需|与\s*0|第一轮|后改)[^）)]*[）)]")
 # 说明性/未定稿的值一律不落盘
 META = re.compile(r"不变|建议|无需|请主控|需人工|待定|作废|※|已同步|未落盘|二选一|待重画|按\s*diagram"
-                  r"|末尾追加|补注|需补|拟改|合并|待主控|拟改|若后续")
+                  r"|末尾追加|补注|需补|拟改|合并|若后续|同上|变体同步|`|->|→")
 FORMAT_OK = {"illustration", "diagram", "icon"}
 # 值里混入的说明性尾巴，从这些词起截断
 TAIL = re.compile(r"[。.\s]*（?(?:理由|※|建议|需同步|待主控|现画面|画面已|本轮|tags 内|desc 已|name_zh|与\s*\d{3}\b)[^）]*）?")
@@ -86,6 +86,7 @@ def collect():
                         meta_skipped.append((rel, field, "非法 format 值，跳过"))
                         continue
                     if field in ("name_zh", "name_en"):
+                        val = re.split(r'["”]\s*[（(]|[；;]|（"', val, maxsplit=1)[0]
                         val = re.sub(r"[（(][^）)]{6,}[）)]\s*$", "", val).strip()
                     out[(rel, field)] = (val, f.name)
     return out

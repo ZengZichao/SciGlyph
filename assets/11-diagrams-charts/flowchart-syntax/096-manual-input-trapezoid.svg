@@ -4,7 +4,7 @@
      data-id="pf-manual-input-trapezoid" data-cat="pf" data-spec="160"
      data-tags="manual,input,trapezoid,keyboard,flowchart" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t">人工输入梯形 / Manual Input Trapezoid</title>
-  <desc id="d">流程图人工输入符号，顶边斜切的四边形（图内</desc>
+  <desc id="d">流程图人工输入符号，顶边斜切的四边形。（与 SVG 内已修复的 desc 同步，去掉截断的半句与未闭合括号）</desc>
   <g id="body">
     <polygon points="14,30 146,20 146,76 14,76" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/>
   </g>

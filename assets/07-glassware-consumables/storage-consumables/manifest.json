@@ -1458,7 +1458,7 @@
   {
    "file": "060-volumetric-bottle-cap.svg",
    "name_zh": "容量瓶(带塞)",
-   "name_en": "Volumetric Flask with Ground Stopper\"（容量瓶=volumetric flask，\"Bottle\" 术语错误；",
+   "name_en": "`Volumetric Flask with Ground Stopper`",
    "tags": [
     "volumetric",
     "bottle",

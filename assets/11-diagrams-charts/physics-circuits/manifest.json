@@ -1967,7 +1967,7 @@
    "category": "11-diagrams-charts",
    "subdir": "physics-circuits",
    "canvas": "0 0 128 128",
-   "desc": "电位器符号：电阻+滑动触头。",
+   "desc": "电位器符号：电阻+滑动触头。（SVG 内",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

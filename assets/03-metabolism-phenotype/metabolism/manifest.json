@@ -241,7 +241,7 @@
   {
    "file": "011-ferm-ethanol.svg",
    "name_zh": "乙醇发酵",
-   "name_en": "Ethanol Fermentation\"",
+   "name_en": "Ethanol Fermentation",
    "tags": [
     "fermentation",
     "substrate-level phosphorylation",
@@ -263,7 +263,7 @@
   {
    "file": "012-ferm-mixed-acid.svg",
    "name_zh": "混合酸发酵",
-   "name_en": "Mixed-Acid Fermentation\"",
+   "name_en": "Mixed-Acid Fermentation",
    "tags": [
     "fermentation",
     "substrate-level phosphorylation",
@@ -286,7 +286,7 @@
   {
    "file": "013-ferm-butyrate.svg",
    "name_zh": "丁酸发酵",
-   "name_en": "Butyrate Fermentation\"",
+   "name_en": "Butyrate Fermentation",
    "tags": [
     "fermentation",
     "substrate-level phosphorylation",
@@ -308,7 +308,7 @@
   {
    "file": "014-ferm-propionate.svg",
    "name_zh": "丙酸发酵",
-   "name_en": "Propionate Fermentation\"",
+   "name_en": "Propionate Fermentation",
    "tags": [
     "fermentation",
     "substrate-level phosphorylation",
@@ -330,7 +330,7 @@
   {
    "file": "015-ferm-butanediol.svg",
    "name_zh": "2,3-丁二醇发酵",
-   "name_en": "2,3-Butanediol Fermentation\"",
+   "name_en": "2,3-Butanediol Fermentation",
    "tags": [
     "fermentation",
     "substrate-level phosphorylation",

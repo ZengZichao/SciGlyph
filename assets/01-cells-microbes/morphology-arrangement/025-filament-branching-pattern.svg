@@ -54,5 +54,9 @@
       <circle cx="86" cy="16" r="2"/>
       <circle cx="104" cy="16" r="2"/>
     </g>
+    <g fill="none">
+      <text x="30" y="9" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="middle">lateral</text>
+      <text x="84" y="9" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2B3A42" text-anchor="middle">dichotomous</text>
+    </g>
   </g>
 </svg>

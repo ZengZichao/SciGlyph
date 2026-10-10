@@ -31,14 +31,14 @@
 <line x1="80" y1="200" x2="250" y2="310" stroke="#A2305B" data-pp="archaea" stroke-width="2" stroke-linecap="round"/>
 <circle cx="250" cy="310" r="8" fill="#A2305B" data-pp="archaea" stroke="#1B2733" stroke-width="1.5"/>
 <path d="M265,302 L280,310 L265,313 Z" fill="#C42D2D" data-pp="alert" stroke="#1B2733" stroke-width="1" stroke-linejoin="round" stroke-linecap="round"/>
-<text x="265" y="332" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Hematophagous</text>
+<text x="250" y="332" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Hematophagous</text>
 <line x1="80" y1="200" x2="350" y2="340" stroke="#8C6D3F" data-pp="host" stroke-width="2" stroke-linecap="round"/>
 <circle cx="350" cy="340" r="8" fill="#8C6D3F" data-pp="host" stroke="#1B2733" stroke-width="1.5"/>
 <rect x="365" y="335" width="15" height="10" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="0.5"/>
 <text x="365" y="362" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Omnivorous</text>
 <line x1="50" y1="370" x2="550" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" stroke-linecap="round"/>
 <line x1="500" y1="370" x2="550" y2="370" stroke="#1B2733" data-pp="ink" stroke-width="1.5" marker-end="url(#pp18__ar)"/>
-<text x="560" y="375" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">time</text>
+<text x="560" y="386" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">time</text>
 <line x1="440" y1="50" x2="440" y2="350" stroke="#93A0AC" data-pp="muted" stroke-width="1" stroke-linecap="round" stroke-dasharray="4,4"/>
 <text x="445" y="50" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">Ecological niche</text>
 <rect x="440" y="150" width="140" height="50" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>

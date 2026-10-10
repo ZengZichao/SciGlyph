@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100"
      class="pp-icon pp-environments" role="img" aria-labelledby="t-food_ferment d-food_ferment" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-food_ferment">食品发酵 / Food fermentation</title>
-  <desc id="d-food_ferment">同上（.en 变体同步）</desc>
+  <desc id="d-food_ferment">Fermentation crock with substrate, brine level, CO2 bubbles and lactic acid bacteria 关键词: food, ferment</desc>
   <g id="l-food_ferment-bg" data-name="habitat-bg">
     <rect x="18" y="13" width="64" height="10" rx="3" fill="#93A0AC" data-pp="muted" stroke="#1B2733" stroke-width="1.5"/>
     <rect x="22" y="22" width="56" height="58" rx="6" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1.5"/>

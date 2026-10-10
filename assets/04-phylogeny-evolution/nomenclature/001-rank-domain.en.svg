@@ -9,7 +9,7 @@
     <rect x="18" y="18" width="64" height="54" rx="3" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
     <rect x="26" y="26" width="48" height="38" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
     <rect x="34" y="34" width="32" height="22" rx="2" fill="#93A0AC" stroke="#1B2733" stroke-width="1" data-pp="muted" fill-opacity="0.3"/>
-    <text x="50" y="50" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">Domain</text>
+    <text x="50" y="50" text-anchor="middle" font-size="8" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">Domain</text>
   <line x1="14" y1="14" x2="14" y2="76" stroke="#2E86AB" stroke-width="1" data-pp="bacteria" stroke-linecap="round"/></g>
   
   <g id="layer-annotation" data-name="annotation">

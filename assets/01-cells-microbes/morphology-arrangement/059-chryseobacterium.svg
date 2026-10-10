@@ -4,17 +4,17 @@
   <title id="t-chryseobacterium">金黄杆菌 / Chryseobacterium</title>
   <desc id="d-chryseobacterium">Short rod with yellow flexirubin pigment (Flavobacteriaceae); 部分种可滑行运动，不出芽、无柄。关键词: Chryseobacterium, flexirubin, yellow pigment, Flavobacteriaceae</desc>
   <g id="layer-body" data-name="body">
-    <rect x="18" y="35" width="40" height="20" rx="8" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
-    <circle cx="28" cy="42" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
-    <circle cx="38" cy="48" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
-    <circle cx="48" cy="42" r="1.5" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
-    <ellipse cx="35" cy="45" rx="6" ry="3" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.4"/>
+    <rect x="20" y="32" width="60" height="26" rx="12" fill="#E8871E" data-pp="mge" stroke="#1B2733" stroke-width="1.5"/>
+    <circle cx="33" cy="40" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
+    <circle cx="50" cy="53" r="2" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
+    <circle cx="67" cy="41" r="1.5" fill="#C42D2D" data-pp="alert" fill-opacity="0.5"/>
+    <ellipse cx="50" cy="45" rx="9" ry="3.5" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="0.5" fill-opacity="0.4"/>
 
   </g>
   <g id="layer-annotation" data-name="annotation">
 
-    <line x1="32" y1="72" x2="32" y2="56" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
-    <text x="15" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge">flexirubin</text>
+    <line x1="50" y1="72" x2="50" y2="60" stroke="#93A0AC" stroke-width="1" data-pp="muted" stroke-linecap="round"/>
+    <text x="50" y="80" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#E8871E" data-pp="mge" text-anchor="middle">flexirubin</text>
 
   </g>
 </svg>

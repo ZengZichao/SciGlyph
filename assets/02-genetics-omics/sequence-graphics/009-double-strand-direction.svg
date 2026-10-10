@@ -9,6 +9,7 @@
   </defs>
   <g data-name="body">
     <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
+    <g transform="translate(0,45)">
     <text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Double-Strand Direction (5′→3′)</text>
     <line x1="80" y1="120" x2="520" y2="120" stroke="#2E86AB" data-pp="bacteria" stroke-width="3" stroke-linecap="round" marker-end="url(#pp09__ar)" />
     <text x="60" y="125" text-anchor="end" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#2E86AB" data-pp="bacteria" font-weight="bold">5′</text>
@@ -78,5 +79,6 @@
     <text x="430" y="195" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">A</text>
     <text x="300" y="260" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Antiparallel strands</text>
     <text x="300" y="290" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">A=T (2 H-bonds)  |  G≡C (3 H-bonds)</text>
+    </g>
   </g>
 </svg>

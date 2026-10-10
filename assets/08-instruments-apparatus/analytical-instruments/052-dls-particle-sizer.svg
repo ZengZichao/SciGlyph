@@ -21,13 +21,11 @@
     <rect x="20" y="51" width="16" height="10" rx="3" fill="#E02020" opacity="0.7" stroke="none" data-ls="danger" />
     <line x1="36" y1="56" x2="48" y2="56" fill="none" opacity="0.6" stroke="#2B7DE9" stroke-width="1.5" data-ls="accent" stroke-linecap="round" />
     <polygon points="40,52.5 47,56 40,59.5" fill="#2B7DE9" stroke="none" data-ls="accent" />
-    <text x="28" y="74" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="accent">Laser</text>
+    <text x="28" y="74" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Laser</text>
     <text x="56" y="74" fill="#5A6B7B" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="middle" data-ls="thin">Sample</text>
     <rect x="18" y="80" width="48" height="16" rx="3" fill="#33414F" stroke="none" data-ls="dark" />
     <polygon points="20,94 27,94 31,89 35,84 39,82 43,85 47,90 50,94 53,92 56,89 59,92 62,94 64,94" fill="#2B7DE9" stroke="none" data-ls="accent" />
     <text x="70" y="92" fill="#2B7DE9" font-family="Inter,Helvetica,Arial,sans-serif" font-size="7" font-weight="600" text-anchor="start" data-ls="accent">DLS</text>
-    <circle cx="78" cy="80" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
-    <circle cx="90" cy="80" r="3" fill="#2B7DE9" stroke="none" data-ls="accent" />
     <rect x="20" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
     <rect x="98" y="108" width="10" height="4" rx="2" fill="#33414F" stroke="none" data-ls="dark" />
   </g>

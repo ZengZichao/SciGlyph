@@ -5,41 +5,41 @@
   <desc id="d-32">骨架，配合IQ-TREE/RAxML使用。外群 Out_A 最先分出、其枝以虚线标示，用于确定树根。 关键词: phylogenetic tree, outgroup tree, IQ-TREE, RAxML, Out_A, skeleton template</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp32__clades" data-name="clade-shading">
-    <rect x="116.7" y="114.0" width="34.6" height="72.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-AB"/>
-    <rect x="116.7" y="274.0" width="34.6" height="72.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.12" data-name="clade-CD"/>
+    <rect x="370.0" y="114.0" width="152.0" height="72.0" fill="#6C3FA0" data-pp="gene" fill-opacity="0.12" data-name="clade-AB"/>
+    <rect x="370.0" y="274.0" width="152.0" height="72.0" fill="#00857A" data-pp="metabolism" fill-opacity="0.12" data-name="clade-CD"/>
   </g>
   <g id="pp32__branches" data-name="branches">
-    <line x1="60.0" y1="70.0" x2="60.0" y2="230.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="60.0" y1="70.0" x2="90.0" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round" stroke-dasharray="3 2" data-name="outgroup-branch"/>
-    <line x1="60.0" y1="230.0" x2="90.0" y2="230.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.0" y1="150.0" x2="90.0" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.0" y1="150.0" x2="116.7" y2="150.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="120.0" x2="116.7" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="90.0" y1="310.0" x2="116.7" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="280.0" x2="116.7" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="120.0" x2="143.3" y2="120.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="180.0" x2="143.3" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="280.0" x2="143.3" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
-    <line x1="116.7" y1="340.0" x2="143.3" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="70.0" x2="80.0" y2="230.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="80.0" y1="70.0" x2="220.0" y2="70.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round" stroke-dasharray="3 2" data-name="outgroup-branch"/>
+    <line x1="80.0" y1="230.0" x2="220.0" y2="230.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="220.0" y1="150.0" x2="220.0" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="220.0" y1="150.0" x2="370.0" y2="150.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="120.0" x2="370.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="220.0" y1="310.0" x2="370.0" y2="310.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="280.0" x2="370.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="120.0" x2="520.0" y2="120.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="180.0" x2="520.0" y2="180.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="280.0" x2="520.0" y2="280.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
+    <line x1="370.0" y1="340.0" x2="520.0" y2="340.0" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
   </g>
   <g id="pp32__nodes" data-name="nodes">
-    <circle cx="60.0" cy="150.0" r="2.5" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" data-name="root"/>
-    <circle cx="90.0" cy="230.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="116.7" cy="150.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
-    <circle cx="116.7" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="80.0" cy="150.0" r="2.5" fill="#C42D2D" stroke="#1B2733" stroke-width="1" data-pp="alert" data-name="root"/>
+    <circle cx="220.0" cy="230.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="370.0" cy="150.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
+    <circle cx="370.0" cy="310.0" r="2.5" fill="#FFFFFF" stroke="#1B2733" stroke-width="1" data-pp="white"/>
   </g>
   <g id="pp32__labels" data-name="tip-labels">
-    <text x="96.0" y="73.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Out_A (outgroup)</text>
-    <text x="148.3" y="123.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
-    <text x="148.3" y="183.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
-    <text x="148.3" y="283.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
-    <text x="148.3" y="343.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
-    <text x="52.0" y="153.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="end">Root</text>
+    <text x="228.0" y="73.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Out_A (outgroup)</text>
+    <text x="528.0" y="123.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_A</text>
+    <text x="528.0" y="183.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_B</text>
+    <text x="528.0" y="283.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_C</text>
+    <text x="528.0" y="343.0" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Sp_D</text>
+    <text x="72.0" y="153.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="end">Root</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="80" y1="380" x2="160" y2="380" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="80" y1="377" x2="80" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="160" y1="377" x2="160" y2="383" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="120.0" y="394" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
+    <line x1="240" y1="378" x2="360" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="240" y1="375" x2="240" y2="381" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <line x1="360" y1="375" x2="360" y2="381" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
+    <text x="300.0" y="393" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">schematic</text>
   </g>
 </svg>

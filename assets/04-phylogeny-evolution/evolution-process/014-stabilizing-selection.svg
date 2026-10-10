@@ -25,10 +25,10 @@
 <line x1="200" y1="270" x2="260" y2="270" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round" marker-end="url(#pp14__ar_red)"/>
 <line x1="400" y1="270" x2="340" y2="270" stroke="#C42D2D" data-pp="alert" stroke-width="1.5" stroke-linecap="round" marker-end="url(#pp14__ar_red)"/>
 <text x="300" y="265" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="middle">压制极端</text>
-<line x1="420" y1="280" x2="450" y2="280" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6,4"/>
-<text x="460" y="284" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">宽分布</text>
-<line x1="420" y1="300" x2="450" y2="300" stroke="#00857A" data-pp="metabolism" stroke-width="2" stroke-linecap="round"/>
-<text x="460" y="304" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">窄分布</text>
+<line x1="420" y1="300" x2="450" y2="300" stroke="#93A0AC" data-pp="muted" stroke-width="1.5" stroke-linecap="round" stroke-dasharray="6,4"/>
+<text x="460" y="304" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="start">宽分布</text>
+<line x1="420" y1="320" x2="450" y2="320" stroke="#00857A" data-pp="metabolism" stroke-width="2" stroke-linecap="round"/>
+<text x="460" y="324" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="start">窄分布</text>
 <rect x="60" y="310" width="300" height="60" fill="#FFFFFF" data-pp="white" stroke="#93A0AC" stroke-width="1" rx="4"/>
 <text x="210" y="330" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">出生体重 · 卵数 · 酶最适温度</text>
 <text x="210" y="350" font-size="9" font-family="'PingFang SC','Microsoft YaHei','Noto Sans CJK SC',sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="middle">中间表型存活率最高</text>

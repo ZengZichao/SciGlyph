@@ -980,7 +980,7 @@
    "category": "11-diagrams-charts",
    "subdir": "pid-process",
    "canvas": "0 0 128 128",
-   "desc": "碟片离心机剖面，多层碟片。",
+   "desc": "碟片离心机正视，碟片组外缘呈多层水平线；左进料、右轻相出、底固相出",
    "license": "CC-BY-4.0",
    "license_uri": "https://creativecommons.org/licenses/by/4.0/",
    "attribution": "ZengZichao (https://github.com/ZengZichao)"

@@ -8,7 +8,7 @@
 </marker>
 </defs>
 <g data-name="body"><rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg" />
-<text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Inversion Mutation</text>
+<g transform="translate(0,55)"><text x="300" y="28" text-anchor="middle" font-size="14" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-weight="bold">Inversion Mutation</text>
 <text x="80" y="80" font-size="11" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Before:</text><rect x="120" y="65" width="50" height="30" fill="#2E86AB" data-pp="bacteria" stroke="#1B2733" stroke-width="1" />
 <text x="145" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">A</text><rect x="175" y="65" width="50" height="30" fill="#6C3FA0" data-pp="gene" stroke="#1B2733" stroke-width="1" />
 <text x="200" y="85" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">B</text><rect x="230" y="65" width="50" height="30" fill="#00857A" data-pp="metabolism" stroke="#1B2733" stroke-width="1" />
@@ -25,4 +25,4 @@
 <text x="365" y="175" text-anchor="middle" font-size="12" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" font-weight="bold">E</text><rect x="175" y="150" width="165" height="40" fill="none" stroke="#C42D2D" data-pp="alert" stroke-width="2" stroke-dasharray="4,2" />
 <text x="257" y="145" text-anchor="middle" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">inverted (DCB)</text>
 <text x="300" y="240" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Inversion reverses orientation of a chromosomal segment</text>
-<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Can disrupt genes at breakpoints or alter gene regulation</text></g></svg>
+<text x="300" y="270" text-anchor="middle" font-size="10" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted">Can disrupt genes at breakpoints or alter gene regulation</text></g></g></svg>

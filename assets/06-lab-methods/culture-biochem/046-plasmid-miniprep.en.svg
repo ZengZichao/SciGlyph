@@ -14,7 +14,7 @@
     <rect x="82" y="42" width="9" height="15" rx="2" fill="#6C3FA0" fill-opacity="0.55" data-pp="gene"/>
     <text x="27" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">lyse</text>
     <text x="57" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">bind</text>
-    <text x="85" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">elute</text>
+    <text x="86.5" y="68" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">elute</text>
   </g>
   <g id="layer-annotation" data-name="annotation">
     <text x="50" y="85" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink">Miniprep</text>

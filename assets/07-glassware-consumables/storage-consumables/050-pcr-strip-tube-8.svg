@@ -6,6 +6,6 @@
   <title id="t">8连PCR管 / PCR Strip Tube (8-tube)</title>
   <desc id="d">8连管PCR管条，带盖，0.2mL每管。</desc>
   <g id="body"><path d="M16 30 L16 96 L18 110 L24 110 L26 96 L28 96 L30 110 L36 110 L38 96 L40 96 L42 110 L48 110 L50 96 L52 96 L54 110 L60 110 L62 96 L64 96 L66 110 L72 110 L74 96 L76 96 L78 110 L84 110 L86 96 L88 96 L90 110 L96 110 L98 96 L100 96 L102 110 L108 110 L110 96 L112 96 L112 30 Z" fill="#FFFFFF" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="fill" data-ls-stroke="stroke"/></g>
-  <g id="detail"><g id="cap"><path d="M14 18 L14 32 L114 32 L114 18 Q106 14 64 14 Q22 14 14 18 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g><path d="M18 60 L110 60 L110 96 L18 96 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/></g>
+  <g id="detail"><g id="cap"><path d="M14 18 L14 32 L114 32 L114 18 Q106 14 64 14 Q22 14 14 18 Z" fill="#2B7DE9" opacity="0.7" stroke="none" data-ls="accent"/></g><path d="M18 60 L110 60 L110 96 L18 96 Z" fill="#BFE0FF" opacity="0.5" stroke="none" data-ls="liquid"/><path d="M27 32 V96 M39 32 V96 M51 32 V96 M63 32 V96 M75 32 V96 M87 32 V96 M99 32 V96" fill="none" stroke="#1F2933" stroke-width="1.5" data-ls="stroke"/></g>
   
 </svg>

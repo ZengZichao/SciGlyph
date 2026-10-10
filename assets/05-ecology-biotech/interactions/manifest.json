@@ -186,8 +186,8 @@
   },
   {
    "file": "009-t6ss.svg",
-   "name_zh": "VI型分泌系统；name_en: T6SS -> Type VI secretion system (T6SS)",
-   "name_en": "T6SS",
+   "name_zh": "VI型分泌系统",
+   "name_en": "Type VI secretion system (T6SS)",
    "tags": [
     "t6ss",
     "secretion",

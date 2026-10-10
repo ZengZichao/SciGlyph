@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400"
      role="img" aria-labelledby="t-01 d-01" class="pp-diagram pp-trees" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-01">矩形枝杈树 / Rectangular Cladogram</title>
-  <desc id="d-01">骨架，配合 FastTree/IQ-TREE 输出使用。矩形枝杈树(cladogram)，枝长不代表进化距离(替换数)或时间，全部叶端右端对齐。 关键词: phylogenetic tree, rect cladogram, Rectangular, FastTree, IQ-TREE, skeleton template</desc>
+  <desc id="d-01">追加 "图内不画比例尺，仅以文字注明枝长未按比例。"（w302 已申请的比例尺描述需随</desc>
   <rect x="0" y="0" width="600" height="400" fill="#F4F1EA" data-pp="bg"/>
   <g id="pp01__clades" data-name="clade-shading">
     <rect x="184.0" y="22.0" width="340.0" height="110.0" fill="#2E86AB" data-pp="bacteria" fill-opacity="0.12" data-name="clade-A"/>
@@ -56,9 +56,6 @@
     <text x="76.0" y="146.0" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="end">root</text>
   </g>
   <g data-name="scale-bar">
-    <line x1="240" y1="378" x2="360" y2="378" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="240" y1="375" x2="240" y2="381" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <line x1="360" y1="375" x2="360" y2="381" stroke="#1B2733" stroke-width="1.5" data-pp="ink"/>
-    <text x="300.0" y="393" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Branch lengths not scaled</text>
+    <text x="300.0" y="385" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">Branch lengths not scaled</text>
   </g>
 </svg>

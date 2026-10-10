@@ -6,8 +6,8 @@
   <title id="t">受限空间标志 / Confined Space Hazard</title>
   <desc id="d">受限空间警告：人员探入密闭容器入口。</desc>
   <g id="body"><path d="M64 14 L114 104 L14 104Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
-    <circle cx="54" cy="72" r="5.5" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
-    <path d="M50 77 L40 88 M40 88 L32 98 M40 88 L44 98 M46 82 L55 79" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/></g>
+    <circle cx="47" cy="71" r="5.5" fill="none" stroke="#1F2933" stroke-width="2.5" data-ls="stroke"/>
+    <path d="M47 77 L38 88 M38 88 L30 98 M38 88 L42 98 M43 82 L57 77" fill="none" stroke="#1F2933" stroke-linecap="round" stroke-width="2.5" data-ls="stroke"/></g>
   <g id="detail"><path d="M58 68 L58 92 Q58 98 64 98 L82 98 Q88 98 88 92 L88 68 Z" fill="#F5A623" stroke="#1F2933" stroke-linejoin="round" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
     <ellipse cx="73" cy="68" rx="15" ry="5" fill="#F5A623" stroke="#1F2933" stroke-width="2.5" data-ls="warn" data-ls-stroke="stroke"/>
     <ellipse cx="58" cy="80" rx="3.5" ry="8" fill="#1F2933" stroke="none" data-ls="stroke"/>

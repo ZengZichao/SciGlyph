@@ -27,7 +27,7 @@
   <g id="layer-annotation-crispr_spacer_match" data-name="annotation">
     <text x="12.5" y="9" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">R</text>
     <text x="72.5" y="9" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">spacer</text>
-    <text x="76" y="34" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="end">guide RNA</text>
+    <text x="68" y="34" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#00857A" data-pp="metabolism" text-anchor="end">guide RNA</text>
     <text x="72.5" y="58.5" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#FFFFFF" data-pp="white" text-anchor="middle">Cas</text>
     <text x="24" y="78" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle">phage DNA</text>
     <text x="90" y="84" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert" text-anchor="end">cleavage</text>

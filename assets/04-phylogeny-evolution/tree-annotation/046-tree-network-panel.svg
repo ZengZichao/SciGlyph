@@ -32,9 +32,9 @@
 <line x1="226.0" y1="350.0" x2="246.0" y2="350.0" stroke="#93A0AC" stroke-width="0.6" data-pp="muted" stroke-dasharray="2 2"/>
 <path d="M 250.0 50.0 Q 285.0 87.5 250.0 125.0" fill="none" stroke="#93A0AC" stroke-width="1.2" data-pp="muted" stroke-linecap="round"/>
 <path d="M 250.0 200.0 Q 285.0 237.5 250.0 275.0" fill="none" stroke="#93A0AC" stroke-width="1.2" data-pp="muted" stroke-linecap="round"/>
-<path d="M 250.0 50.0 Q 380.0 200.0 250.0 350.0" fill="none" stroke="#93A0AC" stroke-width="1.2" data-pp="muted" stroke-linecap="round"/>
+<path d="M 250.0 50.0 Q 380.0 200.0 250.0 350.0" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4 3" stroke-linecap="round"/>
 <path d="M 250.0 125.0 Q 300.0 162.5 250.0 200.0" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4 3" stroke-linecap="round"/>
-<path d="M 250.0 275.0 Q 300.0 312.5 250.0 350.0" fill="none" stroke="#C42D2D" stroke-width="1.5" data-pp="alert" stroke-dasharray="4 3" stroke-linecap="round"/>
+<path d="M 250.0 275.0 Q 300.0 312.5 250.0 350.0" fill="none" stroke="#93A0AC" stroke-width="1.2" data-pp="muted" stroke-linecap="round"/>
 <circle cx="250.0" cy="50.0" r="4.0" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.2" data-pp="ink"/>
 <circle cx="250.0" cy="125.0" r="4.0" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.2" data-pp="ink"/>
 <circle cx="250.0" cy="200.0" r="4.0" fill="#F4F1EA" stroke="#1B2733" stroke-width="1.2" data-pp="ink"/>

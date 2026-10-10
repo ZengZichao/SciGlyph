@@ -4,29 +4,29 @@
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="8" y="8" width="224" height="144" rx="6" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <rect x="78" y="18" width="7" height="18" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="81.5" y="15" text-anchor="middle" font-size="9" fill="#2B3A42">6</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="81.5" y="16.5" text-anchor="middle" font-size="9" fill="#2B3A42">6</text>
     <rect x="89" y="18" width="7" height="18" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="92.5" y="15" text-anchor="middle" font-size="9" fill="#2B3A42">6</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="92.5" y="16.5" text-anchor="middle" font-size="9" fill="#2B3A42">6</text>
     <rect x="100" y="21" width="7" height="15" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="103.5" y="18" text-anchor="middle" font-size="9" fill="#2B3A42">5</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="103.5" y="19.5" text-anchor="middle" font-size="9" fill="#2B3A42">5</text>
     <rect x="111" y="27" width="7" height="9" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="114.5" y="24" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="114.5" y="25.5" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
     <rect x="122" y="27" width="7" height="9" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="125.5" y="24" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="125.5" y="25.5" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
     <rect x="133" y="30" width="7" height="6" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="136.5" y="27" text-anchor="middle" font-size="9" fill="#2B3A42">2</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="136.5" y="28.5" text-anchor="middle" font-size="9" fill="#2B3A42">2</text>
     <rect x="144" y="30" width="7" height="6" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="147.5" y="27" text-anchor="middle" font-size="9" fill="#2B3A42">2</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="147.5" y="28.5" text-anchor="middle" font-size="9" fill="#2B3A42">2</text>
     <rect x="155" y="27" width="7" height="9" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="158.5" y="24" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="158.5" y="25.5" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
     <rect x="166" y="27" width="7" height="9" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="169.5" y="24" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="169.5" y="25.5" text-anchor="middle" font-size="9" fill="#2B3A42">3</text>
     <rect x="177" y="33" width="7" height="3" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="180.5" y="30" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="180.5" y="31.5" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
     <rect x="188" y="33" width="7" height="3" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="191.5" y="30" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="191.5" y="31.5" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
     <rect x="199" y="33" width="7" height="3" fill="#5B4B8A"/>
-    <text font-family="Inter,Helvetica,Arial,sans-serif" x="202.5" y="30" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
+    <text font-family="Inter,Helvetica,Arial,sans-serif" x="202.5" y="31.5" text-anchor="middle" font-size="9" fill="#2B3A42">1</text>
     <rect x="30" y="38" width="31.200000000000003" height="7" rx="1" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="26" y="45" text-anchor="end" font-size="9.5" fill="#2B3A42">A</text>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="64.2" y="45" font-size="9" fill="#2B3A42">12</text>
@@ -40,8 +40,8 @@
     <rect x="153" y="36" width="10" height="10" rx="1.5" fill="#B7D7E8"/>
     <rect x="164" y="36" width="10" height="10" rx="1.5" fill="#B7D7E8"/>
     <rect x="175" y="36" width="10" height="10" rx="1.5" fill="#E8B04B"/>
-    <rect x="186" y="36" width="10" height="10" rx="1.5" fill="#B7D7E8"/>
-    <rect x="197" y="36" width="10" height="10" rx="1.5" fill="#B7D7E8"/>
+    <rect x="186" y="36" width="10" height="10" rx="1.5" fill="#E8B04B"/>
+    <rect x="197" y="36" width="10" height="10" rx="1.5" fill="#E8B04B"/>
     <rect x="30" y="49" width="23.4" height="7" rx="1" fill="#B7D7E8" stroke="#1F6F8B" stroke-width="1.2"/>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="26" y="56" text-anchor="end" font-size="9.5" fill="#2B3A42">B</text>
     <text font-family="Inter,Helvetica,Arial,sans-serif" x="56.4" y="56" font-size="9" fill="#2B3A42">9</text>

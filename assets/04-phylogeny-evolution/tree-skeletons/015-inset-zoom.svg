@@ -1,28 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" font-family="Inter,Helvetica,Arial,sans-serif" role="img" data-name-zh="树内嵌放大" data-name-en="Inset zoom" data-cat="04-phylo" data-tags="内嵌,放大,插图,inset,局部细节" aria-labelledby="t-15-inset-zoom d-15-inset-zoom" data-license="CC-BY-4.0" data-copyright="ZengZichao">
   <title id="t-15-inset-zoom">树内嵌放大 / Inset zoom</title>
-  <desc id="d-15-inset-zoom">主树局部以红色虚线框标出，并由两条虚线引导连接到下方放大插图（inset），展示局部拓扑与支持度细节</desc>
+  <desc id="d-15-inset-zoom">主树上一支（3 末端多分叉）以红色虚线框完整标出，由两条虚线引导连到下方放大插图；末端圆点等距排布，未被选中的支与选框不相交</desc>
   <g stroke-linecap="round" stroke-linejoin="round">
     <rect x="4" y="4" width="112" height="112" rx="4" fill="#F7FAF8" stroke="#DCEEE4" stroke-width="1.2"/>
     <g fill="none" stroke="#5B4B8A" stroke-width="2">
       <path d="M 8 20 H 20"/>
-      <path d="M 20 20 V 38"/>
+      <path d="M 20 20 V 43"/>
       <path d="M 20 20 H 40"/>
-      <path d="M 20 38 H 40"/>
+      <path d="M 20 43 H 40"/>
       <path d="M 40 13 V 27"/>
       <path d="M 40 13 H 62"/>
       <path d="M 40 20 H 62"/>
       <path d="M 40 27 H 62"/>
-      <path d="M 40 32 V 38"/>
-      <path d="M 40 32 H 62"/>
-      <path d="M 40 38 H 62"/>
+      <path d="M 40 37 V 43"/>
+      <path d="M 40 37 H 62"/>
+      <path d="M 40 43 H 62"/>
     </g>
     <rect x="34" y="8" width="38" height="24" rx="2" fill="none" stroke="#C0504D" stroke-width="1.6" stroke-dasharray="3 2"/>
     <g fill="#B7D7E8" stroke="#5B4B8A" stroke-width="1.2">
       <circle cx="62" cy="13" r="2.2"/>
       <circle cx="62" cy="20" r="2.2"/>
       <circle cx="62" cy="27" r="2.2"/>
-      <circle cx="62" cy="32" r="2.2"/>
-      <circle cx="62" cy="38" r="2.2"/>
+      <circle cx="62" cy="37" r="2.2"/>
+      <circle cx="62" cy="43" r="2.2"/>
     </g>
     <path d="M 34 32 L 22 56" fill="none" stroke="#C0504D" stroke-width="1.4" stroke-dasharray="3 2"/>
     <path d="M 72 32 L 110 56" fill="none" stroke="#C0504D" stroke-width="1.4" stroke-dasharray="3 2"/>

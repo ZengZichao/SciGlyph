@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" class="pp-diagram pp-sequence-graphics" role="img" aria-labelledby="t-rbs_shine_dalgarno d-rbs_shine_dalgarno" data-license="CC-BY-4.0" data-copyright="ZengZichao">
-  <title id="t-rbs_shine_dalgarno">RBS / SD 序列 / Ribosome Binding Site (Shine-Dalgarno)</title>
+  <title id="t-rbs_shine_dalgarno">RBS / Ribosome Binding Site (Shine-Dalgarno)</title>
   <desc id="d-rbs_shine_dalgarno">Shine-Dalgarno 序列与起始密码子位置示意。关键词: RBS, Shine-Dalgarno, SD, ribosome, translation</desc>
   <defs>
     <marker id="pp17__ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">

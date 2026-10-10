@@ -10,8 +10,8 @@
     <circle cx="50" cy="45" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
     <circle cx="55" cy="42" r="2" fill="#2E86AB" stroke="#1B2733" stroke-width="1" data-pp="bacteria"/>
     <circle cx="50" cy="50" r="3" fill="#E8871E" stroke="#1B2733" stroke-width="1" data-pp="mge"/>
-    <path d="M35,30 Q38,25 40,30 Q42,35 45,30" fill="#C42D2D" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
-    <path d="M55,30 Q58,25 60,30 Q62,35 65,30" fill="#C42D2D" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <path d="M25,30 Q28,25 30,30 Q32,35 35,30" fill="none" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
+    <path d="M65,30 Q68,25 70,30 Q72,35 75,30" fill="none" stroke="#C42D2D" stroke-width="1.5" stroke-linecap="round" data-pp="alert"/>
     <text x="50" y="20" text-anchor="middle" font-size="7" font-family="Inter,Helvetica,Arial,sans-serif" fill="#C42D2D" data-pp="alert">42°C</text>
     <circle cx="45" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
     <circle cx="55" cy="58" r="2" fill="#F4F1EA" stroke="#1B2733" stroke-width="0.8" data-pp="bg"/>
@@ -19,6 +19,6 @@
   </g>
   
   <g id="layer-annotation" data-name="annotation">
-    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="28.3" y="92.0">Heat-shock</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="29.9" y="84.55">transformation</text>
+    <text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="50" y="84.55">Heat-shock</text><text text-anchor="middle" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" font-size="7" x="50" y="92">transformation</text>
   </g>
 </svg>

@@ -15,6 +15,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import math
 import re
 import sys
 from collections import Counter, defaultdict
@@ -24,7 +25,7 @@ ROOT = Path(__file__).resolve().parents[2]
 ASSETS = ROOT / "assets"
 OUT = ROOT / "qa" / "review"
 
-NUM = re.compile(r"-?\d+(?:\.\d+)?(?:e-?\d+)?")
+NUM = re.compile(r"-?(?:\d+(?:\.\d+)?|\.\d+)(?:e-?\d+)?", re.I)
 HEX = re.compile(r"#[0-9A-Fa-f]{3,8}\b")
 CJK = re.compile(r"[\u3400-\u9fff\uf900-\ufaff\uff00-\uffef]")
 
@@ -34,30 +35,32 @@ def strip_ns(tag):
 
 
 def parse_transform(t):
-    """返回 3x2 仿射矩阵 (a,b,c,d,e,f)：x'=a*x+c*y+e, y'=b*x+d*y+f。"""
+    """返回 SVG 矩阵 (a,b,c,d,e,f)：x'=a*x+c*y+e, y'=b*x+d*y+f。
+
+    transform="A B" 的语义是 M = A·B（最左最外层），故按书写顺序右乘累积。
+    """
     m = (1.0, 0.0, 0.0, 1.0, 0.0, 0.0)
     for name, arg in re.findall(r"(translate|scale|rotate|skewX|skewY|matrix)\(([^)]*)\)", t or ""):
         v = [float(x) for x in NUM.findall(arg)]
         if name == "translate":
-            n = mat_mul((1, 0, 0, 1, v[0] if v else 0, v[1] if len(v) > 1 else 0), m)
+            op = (1, 0, 0, 1, v[0] if v else 0, v[1] if len(v) > 1 else 0)
         elif name == "scale":
-            n = mat_mul((v[0] if v else 1, 0, 0, v[1] if len(v) > 1 else (v[0] if v else 1), 0, 0), m)
+            sx = v[0] if v else 1
+            op = (sx, 0, 0, v[1] if len(v) > 1 else sx, 0, 0)
         elif name == "rotate":
-            import math
-            a = math.radians(v[0]) if v else 0.0
-            ca, sa = math.cos(a), math.sin(a)
-            n = mat_mul((ca, sa, -sa, ca, 0, 0), m)
+            ang = math.radians(v[0]) if v else 0.0
+            ca, sa = math.cos(ang), math.sin(ang)
+            op = (ca, sa, -sa, ca, 0, 0)
             if len(v) == 3:
-                n = mat_mul((1, 0, 0, 1, v[2], v[1]), mat_mul(n, (1, 0, 0, 1, -v[1], -v[2])))
+                cx, cy = v[1], v[2]
+                op = mat_mul((1, 0, 0, 1, cx, cy), mat_mul(op, (1, 0, 0, 1, -cx, -cy)))
         elif name == "skewX":
-            import math
-            n = mat_mul((1, 0, math.tan(math.radians(v[0] if v else 0)), 1, 0, 0), m)
+            op = (1, 0, math.tan(math.radians(v[0] if v else 0)), 1, 0, 0)
         elif name == "skewY":
-            import math
-            n = mat_mul((1, math.tan(math.radians(v[0] if v else 0)), 0, 1, 0, 0), m)
+            op = (1, math.tan(math.radians(v[0] if v else 0)), 0, 1, 0, 0)
         else:
-            n = mat_mul(tuple(v[:6]), m) if len(v) >= 6 else m
-        m = n
+            op = tuple(v[:6]) if len(v) >= 6 else (1, 0, 0, 1, 0, 0)
+        m = mat_mul(m, op)
     return m
 
 
@@ -80,7 +83,7 @@ CMD_ARGS = {"M": 2, "L": 2, "H": 1, "V": 1, "C": 6, "S": 4, "Q": 4, "T": 2, "A":
 def path_points(d):
     """按 SVG 路径语法走笔，返回绝对坐标采样点（端点 + 曲线上的细分点）。"""
     import math
-    toks = re.findall(r"[MmLlHhVvCcSsQqTtAaZz]|-?\d+(?:\.\d+)?(?:e-?\d+)?", d or "")
+    toks = re.findall(r"[MmLlHhVvCcSsQqTtAaZz]|" + NUM.pattern, d or "")
     pts, cx, cy, sx, sy = [], 0.0, 0.0, 0.0, 0.0
     i, cmd = 0, ""
     while i < len(toks):
@@ -213,10 +216,39 @@ def est_width(s, fs):
     return units * fs
 
 
-def walk(el, mat, base_fs, acc):
+def collect_clips(root):
+    """clipPath id -> 该 clip 的联合包围盒（不含变换，按用户坐标）。"""
+    clips = {}
+    for cp in root.iter():
+        if strip_ns(cp.tag) != "clipPath":
+            continue
+        boxes = []
+        for ch in cp:
+            b = point_box(ch, (1, 0, 0, 1, 0, 0))
+            if b:
+                boxes.append(b)
+        if boxes and cp.get("id"):
+            clips[cp.get("id")] = (min(b[0] for b in boxes), min(b[1] for b in boxes),
+                                   max(b[2] for b in boxes), max(b[3] for b in boxes))
+    return clips
+
+
+def intersect(a, b):
+    if a is None:
+        return b
+    if b is None:
+        return a
+    r = (max(a[0], b[0]), max(a[1], b[1]), min(a[2], b[2]), min(a[3], b[3]))
+    return r if r[2] >= r[0] and r[3] >= r[1] else None
+
+
+def walk(el, mat, base_fs, acc, vw=0, vh=0, clip=None, clips=None):
     tag = strip_ns(el.tag)
     a = el.attrib
-    cur = mat_mul(parse_transform(a.get("transform", "")), mat)
+    cur = mat_mul(mat, parse_transform(a.get("transform", "")))
+    ref = re.search(r"url\(#([^)]+)\)", a.get("clip-path", "") or "")
+    if ref and clips and ref.group(1) in clips:
+        clip = intersect(clip, apply_box(mat, clips[ref.group(1)]))
     fs = font_size(a, ())
     base = fs if fs else base_fs
     acc["tags"][tag] += 1
@@ -224,7 +256,7 @@ def walk(el, mat, base_fs, acc):
         s = " ".join("".join(el.itertext()).split())
         acc["texts"].append({
             "s": s,
-            "fs": base * abs(cur[0] if cur[0] else 1),
+            "fs": (base if a.get("font-size") else 16.0) * math.hypot(cur[0], cur[1]),
             "anchor": a.get("text-anchor", "start"),
             "weight": a.get("font-weight", ""),
             "fill": a.get("fill", ""),
@@ -233,11 +265,35 @@ def walk(el, mat, base_fs, acc):
         v = a.get(k)
         if v:
             acc["paints"][v] += 1
-    b = point_box(el, cur)
-    if b:
-        acc["boxes"].append(b)
+    if tag == "text":
+        tb = point_box(el, cur)
+        if tb:
+            acc["tboxes"].append(intersect(tb, clip) or tb)
+    elif tag not in ("title", "desc", "marker", "mask", "pattern", "filter",
+                     "clipPath", "solidColor", "linearGradient", "radialGradient", "stop"):
+        b = point_box(el, cur)
+        if b is not None:
+            # 铺满整幅的背景板只用于上色，不算主体轮廓
+            w, h = b[2] - b[0], b[3] - b[1]
+            bg = vw and vh and w >= 0.94 * vw and h >= 0.94 * vh
+            b = intersect(b, clip) or b
+            if b:
+                (acc["bg"] if bg else acc["boxes"]).append(b)
+    sig_src = (tag, a.get("d") or a.get("points") or "", a.get("fill", ""),
+               a.get("stroke", ""), a.get("stroke-width", ""), a.get("stroke-dasharray", ""))
+    acc["sig"].append(sig_src)
     for ch in el:
-        walk(ch, cur, base, acc)
+        walk(ch, cur, base, acc, vw, vh, clip, clips)
+
+
+def apply_box(mat, box):
+    """把局部坐标的包围盒变换到外层坐标（取变换后四角的外接盒）。"""
+    xs, ys = [], []
+    for x, y in ((box[0], box[1]), (box[2], box[1]), (box[2], box[3]), (box[0], box[3])):
+        px, py = apply(mat, x, y)
+        xs.append(px)
+        ys.append(py)
+    return (min(xs), min(ys), max(xs), max(ys))
 
 
 def analyze(path: Path, view):
@@ -247,11 +303,13 @@ def analyze(path: Path, view):
         root = ET.fromstring(raw)
     except Exception:
         return {"error": "parse"}
-    acc = {"tags": Counter(), "texts": [], "paints": Counter(), "boxes": []}
-    walk(root, (1.0, 0.0, 0.0, 1.0, 0.0, 0.0), 3.0, acc)
-    vw = view.get("w", 0)
-    vh = view.get("h", 0)
-    boxes = acc["boxes"]
+    vw, vh = view.get("w", 0), view.get("h", 0)
+    acc = {"tags": Counter(), "texts": [], "paints": Counter(), "boxes": [], "bg": [],
+           "tboxes": [], "sig": []}
+    walk(root, (1.0, 0.0, 0.0, 1.0, 0.0, 0.0), 3.0, acc, vw, vh, None, collect_clips(root))
+    # 主体框只按图形算（文字越界另有 check_repo 的文字出画闸门负责）；
+    # 纯文字素材没有图形，退化为按文字框算，避免 bbox 恒为 0。
+    boxes = acc["boxes"] or acc["tboxes"]
     if boxes:
         bb = (min(b[0] for b in boxes), min(b[1] for b in boxes),
               max(b[2] for b in boxes), max(b[3] for b in boxes))
@@ -274,6 +332,7 @@ def analyze(path: Path, view):
     desc = re.search(r"<desc[^>]*>(.*?)</desc>", raw, re.S)
     sig = hashlib.sha1(json.dumps(
         sorted([tuple(round(x, 1) for x in b) for b in boxes]) +
+        [[t[0], t[1], t[2], t[3], t[4], t[5]] for t in acc["sig"]] +
         [t["s"] for t in acc["texts"]], ensure_ascii=False).encode("utf-8")).hexdigest()[:12]
     return {
         "view": [vw, vh],
@@ -342,7 +401,7 @@ def main():
         if r.get("error"):
             flags["parse-error"].append(p)
             continue
-        if r["fill"] < 0.06:
+        if r["fill"] < 0.06 and r["cover"] < 0.5:
             flags["too-small-on-canvas"].append(p)
         if r["fill"] > 0.85:
             flags["crowded-canvas"].append(p)

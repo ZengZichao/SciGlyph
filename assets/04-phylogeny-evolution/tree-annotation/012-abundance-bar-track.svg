@@ -18,6 +18,16 @@
     <line x1="100" y1="300" x2="396" y2="300" stroke="#1B2733" stroke-width="1.5" data-pp="ink" stroke-linecap="round"/>
     <line x1="100" y1="100" x2="100" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
     <line x1="100" y1="200" x2="396" y2="200" stroke="#93A0AC" stroke-width="0.5" data-pp="muted" stroke-dasharray="3 2"/>
+    <line x1="96" y1="300" x2="100" y2="300" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="96" y1="250" x2="100" y2="250" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="96" y1="200" x2="100" y2="200" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="96" y1="150" x2="100" y2="150" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <line x1="96" y1="100" x2="100" y2="100" stroke="#1B2733" stroke-width="1" data-pp="ink"/>
+    <text x="92" y="303" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.0</text>
+    <text x="92" y="253" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.25</text>
+    <text x="92" y="203" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.50</text>
+    <text x="92" y="153" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">0.75</text>
+    <text x="92" y="103" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="end">1.00</text>
     <text x="20" y="200" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#1B2733" data-pp="ink" text-anchor="middle" transform="rotate(-90 20 200)">Abundance</text>
     <text x="200" y="385" font-size="9" font-family="Inter,Helvetica,Arial,sans-serif" fill="#93A0AC" data-pp="muted" text-anchor="middle">Bar = relative abundance per taxon</text>
   </g>

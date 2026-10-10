@@ -50,7 +50,7 @@ def main():
             if v in listed:
                 fails.append(f"DATA 重复条目 {v}")
             listed.add(v)
-            if not (ROOT / v.replace("/", "\\")).exists():
+            if not (ROOT / v).exists():
                 fails.append(f"DATA 指向缺失文件 {v}")
 
     on_disk = {str(p.relative_to(ROOT)).replace("\\", "/") for p in ASSETS.glob("*/*/*.svg")}
@@ -74,7 +74,7 @@ def main():
         for img in re.findall(r"!\[[^\]]*\]\(([^)]+)\)", p.read_text(encoding="utf-8")):
             if img.startswith(("http:", "https:")):
                 continue
-            if not (ROOT / img.replace("/", "\\")).exists():
+            if not (ROOT / img).exists():
                 fails.append(f"{md} 引用缺失图片 {img}")
 
     served = [p for p in ROOT.glob("assets/**") if p.name.startswith(("_", "."))]

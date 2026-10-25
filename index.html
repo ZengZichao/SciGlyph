@@ -403,6 +403,7 @@ body{
   display:flex;align-items:center;gap:6px;
   transition:transform 0.1s;
 }
+  .about-copy.copied{color:var(--color-primary)}
 .fab-bar .fab-btn:active{transform:scale(0.95)}
 .fab-bar .fab-btn-primary{
   background:var(--color-primary);color:var(--color-on-primary);
@@ -411,12 +412,71 @@ body{
   background:var(--color-surface-chip);color:var(--color-on-dark);
 }
 
+/* ─── Apple About Modal ─── */
+.about-modal .about-inner{
+  background:var(--color-canvas);
+  border-radius:18px;padding:40px 32px 32px;
+  max-width:440px;width:calc(100vw - 48px);
+  text-align:center;
+  box-shadow:0 20px 60px rgba(0,0,0,0.3);
+}
+.about-modal .about-title{
+  font-family:"SF Pro Display","PingFang SC",system-ui,-apple-system,sans-serif;
+  font-size:28px;font-weight:600;line-height:1.14;letter-spacing:-0.56px;
+  margin:0;color:var(--color-ink);
+}
+.about-modal .about-sub{
+  font-family:"SF Pro Text","PingFang SC",system-ui,-apple-system,sans-serif;
+  font-size:14px;color:var(--color-ink-muted-48);
+  margin:4px 0 24px;letter-spacing:-0.224px;
+}
+.about-modal .about-links{
+  display:flex;flex-direction:column;gap:12px;margin-bottom:24px;
+}
+.about-modal .about-linkRow{
+  display:flex;align-items:center;gap:12px;
+  padding:10px 16px;border-radius:12px;
+  background:var(--color-canvas-parchment);
+}
+.about-modal .about-label{
+  font-family:"SF Pro Text",system-ui,-apple-system,sans-serif;
+  font-size:12px;color:var(--color-ink-muted-48);
+  letter-spacing:-0.12px;flex:none;width:80px;text-align:left;
+}
+.about-modal .about-urlRow{
+  display:flex;align-items:center;gap:6px;flex:1;min-width:0;
+}
+.about-modal .about-url{
+  font-family:"SF Pro Text",system-ui,-apple-system,sans-serif;
+  font-size:12px;color:var(--color-primary);
+  text-decoration:none;letter-spacing:-0.12px;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+.about-modal .about-url:hover{text-decoration:underline}
+.about-modal .about-copy{
+  width:28px;height:28px;border-radius:6px;
+  border:none;background:transparent;color:var(--color-ink-muted-48);
+  cursor:pointer;display:flex;align-items:center;justify-content:center;
+  flex:none;transition:background 0.15s;
+}
+.about-modal .about-copy:hover{background:var(--color-canvas)}
+.about-modal .about-copy:active{transform:scale(0.9)}
+.about-modal .about-meta{
+  font-family:"SF Pro Text",system-ui,-apple-system,sans-serif;
+  font-size:12px;color:var(--color-ink-muted-48);
+  letter-spacing:-0.12px;
+}
+.about-modal .about-dot{opacity:0.4;margin:0 6px}
+.about-modal .close{
+  position:absolute;top:12px;right:12px;font-size:22px;
+}
+
 /* ─── Sr-only ─── */
 .sr-only{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 
 /* ─── Print ─── */
 @media print{
-  .gnav,.controls-bar,.pager,.modal,.theme-toggle,.footer,.fab-bar,.card-actions,.select-check{display:none!important}
+  .gnav,.controls-bar,.pager,.modal,.theme-toggle,.footer,.fab-bar,.card-actions,.select-check,.about-modal{display:none!important}
   body{background:#fff;color:#000}
   .main-area{max-width:none;padding:0}
   .grid{grid-template-columns:repeat(5,1fr);gap:6mm}
@@ -454,9 +514,10 @@ body{
 <body>
 <!-- Apple Global Navigation — 44px black bar -->
 <nav class="gnav" role="navigation" aria-label="global">
-  <div class="gnav-inner">
+    <div class="gnav-inner">
     <a href="#" class="logo">SciGlyph</a>
     <div class="gnav-links">
+      <button id="aboutBtn" type="button" data-i18n="nav_about">About</button>
       <button id="lang" type="button" data-i18n="nav_en">English</button>
       <button id="theme" type="button" class="theme-toggle" data-i18n="nav_theme">Dark</button>
     </div>
@@ -493,6 +554,36 @@ body{
     <p class="footer-legal">v1.0.0 · CC BY 4.0 · ZengZichao</p>
   </div>
 </footer>
+<!-- Apple About Modal -->
+<div class="modal about-modal" id="aboutModal" role="dialog" aria-modal="true" aria-label="about">
+  <button class="close" id="aboutClose" type="button" aria-label="close">&times;</button>
+  <div class="about-inner">
+    <h2 class="about-title">SciGlyph</h2>
+    <p class="about-sub">Scientific Illustration Assets</p>
+    <div class="about-links">
+      <div class="about-linkRow">
+        <span class="about-label" data-i18n="about_pages">GitHub Pages</span>
+        <div class="about-urlRow">
+          <a id="aboutPagesUrl" href="https://zengzichao.github.io/SciGlyph/" target="_blank" rel="noopener" class="about-url">zengzichao.github.io/SciGlyph</a>
+          <button class="about-copy" id="aboutCopy" type="button" aria-label="copy">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+          </button>
+        </div>
+      </div>
+      <div class="about-linkRow">
+        <span class="about-label" data-i18n="about_repo">GitHub</span>
+        <a href="https://github.com/ZengZichao/SciGlyph" target="_blank" rel="noopener" class="about-url">github.com/ZengZichao/SciGlyph</a>
+      </div>
+    </div>
+    <div class="about-meta">
+      <span data-i18n="about_version">v1.0.0</span>
+      <span class="about-dot">·</span>
+      <span>CC BY 4.0 / MIT</span>
+      <span class="about-dot">·</span>
+      <span>ZengZichao</span>
+    </div>
+  </div>
+</div>
 <!-- Apple Modal Lightbox -->
 <div class="modal" id="modal" role="dialog" aria-modal="true" aria-label="preview">
   <button class="close" id="mclose" type="button" aria-label="close">&times;</button>
@@ -598,6 +689,8 @@ function openModal(idx){
   $('mclose').focus();
 }
 function closeModal(){ $('modal').classList.remove('open'); }
+function openAbout(){ $('aboutModal').classList.add('open'); }
+function closeAbout(){ $('aboutModal').classList.remove('open'); }
 
 /* ── Selection / Download logic ── */
 function updateFab(){
@@ -652,6 +745,7 @@ async function downloadZIP(){
 }
 
 document.addEventListener('click', e => {
+  if (e.target.id === 'aboutBtn' || e.target.closest('#aboutBtn')) { openAbout(); return; }
   const dlBtn = e.target.closest('[data-dl]');
   if (dlBtn) { e.stopPropagation(); downloadSVG(+dlBtn.dataset.dl); return; }
   const selBtn = e.target.closest('[data-sel]');
@@ -662,10 +756,18 @@ document.addEventListener('click', e => {
   if (pg && !pg.disabled) { page = +pg.dataset.pg; render(); window.scrollTo(0,0); return; }
   if (e.target.id === 'fabClear') { selectedSet.clear(); render(); updateFab(); return; }
   if (e.target.id === 'fabDl') { downloadZIP(); return; }
+  if (e.target.id === 'aboutCopy' || e.target.closest('#aboutCopy')) {
+    const btn = document.getElementById('aboutCopy');
+    navigator.clipboard?.writeText('https://zengzichao.github.io/SciGlyph/').then(() => {
+      btn.classList.add('copied'); setTimeout(()=>btn.classList.remove('copied'), 1500);
+    });
+    return;
+  }
+  if (e.target.id === 'aboutModal' || e.target.id === 'aboutClose') { closeAbout(); return; }
   if (e.target.id === 'modal' || e.target.id === 'mclose') closeModal();
 });
 document.addEventListener('keydown', e => {
-  if (e.key === 'Escape') { closeModal(); selectedSet.clear(); render(); updateFab(); return; }
+  if (e.key === 'Escape') { closeModal(); closeAbout(); selectedSet.clear(); render(); updateFab(); return; }
   if (e.key === 'Enter' && document.activeElement?.classList?.contains('card')) openModal(+document.activeElement.dataset.i);
   if ((e.key === ' ' || e.key === 'Enter') && document.activeElement?.dataset?.sel != null){ e.preventDefault(); toggleSel(+document.activeElement.dataset.sel); }
 });
